@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Just For Men Original Formula H-45 Donkerbruin Haarkleuring",
+  "code": "26729",
+  "price": "15.24",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 5710 > 5711 > 5712",
+  "supplier": "THEOTCLAB HEALTHCARE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/just-for-men-original-formula-h-45-donkerbruin-haarkleuring/p/26729",
+  "listName": "Lister",
+  "brand": "Just For Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265990,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "66ml",
+  "image": "/medias/sys_master/prd-images/h80/h04/28220559360030/prd-front-26729-1_600x600/prd-front-26729-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Clean Tapijt- en Bekledingreiniger",
+  "code": "17477",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2548 > 2778 > 3490",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-clean-tapijt-en-bekledingreiniger/p/17477",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144743,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h70/h56/28246732865566/prd-front-17477-1_600x600/prd-front-17477-1-600x600.jpg"
+}

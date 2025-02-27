@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tangle Teezer Original Haarborstel",
+  "code": "5205838",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6320",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tangle-teezer-original-haarborstel/p/5205838",
+  "listName": "Lister",
+  "brand": "Tangle Teezer",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266698,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30266936,
+      "name": "Haarborstels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hca/hde/30949449695262/prd-front-5205838-1_600x600/prd-front-5205838-1-600x600.jpg"
+}

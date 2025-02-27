@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Creator 31163 3-in-1 Speelse Kat",
+  "code": "6201746",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1049971",
+  "mmkId": "1049971",
+  "productGroupId": "463562",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-creator-31163-3-in-1-speelse-kat/p/6201746",
+  "listName": "Lister",
+  "brand": "LEGO Creator",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266815,
+      "name": "LEGO Creator"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h10/h6c/33070059749406/prd-front-6201746-1_600x600/prd-front-6201746-1-600x600.jpg"
+}

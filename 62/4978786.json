@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Classic Iedere Dag Shampoo",
+  "code": "4978786",
+  "price": "11.02",
+  "priceOriginal": "28.5",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "ADVION BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 17,48",
+  "url": "/andrelon-classic-iedere-dag-shampoo/p/4978786",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "6 x 300ml",
+  "image": "/medias/sys_master/prd-images/hc6/hf3/28162946629662/prd-front-4978786-1_600x600/prd-front-4978786-1-600x600.jpg"
+}

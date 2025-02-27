@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mam Easy Start 4+M Anti Colic Fles",
+  "code": "4818325",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
+  "supplier": "MAM BABY BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mam-easy-start-4m-anti-colic-fles/p/4818325",
+  "listName": "Lister",
+  "brand": "MAM",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266799,
+      "name": "Babyflesjes"
+    }
+  ],
+  "description": "320ml",
+  "image": "/medias/prd-front-4818325-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzk0NDR8aW1hZ2UvanBlZ3xhREkwTDJnMllpOHhOekV4TURRMU9ESTJPVGN5Tmk5d2NtUXRabkp2Ym5RdE5EZ3hPRE15TlMweFh6WXdNSGcyTURBfDllNDhlYTk1YTU3MWEyNjU5YjUzZTIyM2Q2NWZkMzE0NzlmNWRhZGMyNzYzYTRjYWQyY2Q1MDdkNDJmNjM0NzA"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Pro Nature Shea Strong Repair Shampoo",
+  "code": "5829241",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049755",
+  "mmkId": "1049755",
+  "productGroupId": "454803",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-pro-nature-shea-strong-repair-shampoo/p/5829241",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/prd-front-5829241-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjAwMDh8aW1hZ2UvanBlZ3xhRFJoTDJnNU15OHlOekl3TVRJeE16WTJNVEl4TkM5d2NtUXRabkp2Ym5RdE5UZ3lPVEkwTVMweFh6WXdNSGcyTURBfDY1YWI0MmRhMmY2YzA2NDAyMzEyNzBiY2QzYTU5MmVjYmIyMTExNzM3NGE3NmVhMmNjZjFlMWYwMzQ2YTRhZjQ"
+}

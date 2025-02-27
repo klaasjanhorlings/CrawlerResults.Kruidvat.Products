@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 0 NewBorn Extra Small Luiers Smallpack",
+  "code": "5156733",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3188 > 4062",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "1049888",
+  "mmkId": "1049888",
+  "productGroupId": "466989",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-0-newborn-extra-small-luiers-smallpack/p/5156733",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266017,
+      "name": "Luiers"
+    },
+    {
+      "id": 30266783,
+      "name": "Luiers maat 0"
+    }
+  ],
+  "description": "mt 0 (tot circa 3 kg), 20 stuks",
+  "image": "/medias/sys_master/prd-images/h2e/h39/31404414992414/prd-front-5156733-1_600x600/prd-front-5156733-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Medium Anti-Drukringen",
+  "code": "828773",
+  "price": "2.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6448 > 3568",
+  "supplier": "TOBY'S BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-medium-anti-drukringen/p/828773",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48220747,
+      "name": "Likdoornpleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 18 stuks",
+  "image": "/medias/prd-front-828773-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjYzMjl8aW1hZ2UvanBlZ3xhR1V4TDJoak1DOHlOamt3TmpJNU9EYzBORGcyTWk5d2NtUXRabkp2Ym5RdE9ESTROemN6TFRGZk5qQXdlRFl3TUF8OWIzMjY2ZGE4YzgzZDA5MmE0Y2RmODk3Zjg2YTc0ZjRjMTEwN2VjY2ZmMDdjN2U1NjRmMDVlZDIyMDZlMTc3Nw"
+}

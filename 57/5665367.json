@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "M. Asam Deep Satin Bronzer",
+  "code": "5665367",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "ASAM-BETRIEBS GMBH",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/m-asam-deep-satin-bronzer/p/5665367",
+  "listName": "Lister",
+  "brand": "M. Asam",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266588,
+      "name": "Bronzer"
+    }
+  ],
+  "description": "6,5g",
+  "image": "/medias/sys_master/prd-images/h24/hb3/28610529656862/prd-front-5665367-1_600x600/prd-front-5665367-1-600x600.jpg"
+}

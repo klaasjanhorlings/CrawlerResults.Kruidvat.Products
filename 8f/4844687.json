@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L Oréal Paris Matte Signature 01 Zwart Eyeliner",
+  "code": "4844687",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1049902",
+  "mmkId": "1049902",
+  "productGroupId": "468134",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/l-oreal-paris-matte-signature-01-zwart-eyeliner/p/4844687",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266586,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4844687-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDE1Mzh8aW1hZ2UvanBlZ3xhRGt5TDJoaU9TOHlOalUzTlRnMk1qY3lOalk0Tmk5d2NtUXRabkp2Ym5RdE5EZzBORFk0TnkweFh6WXdNSGcyTURBfGU0MDU1ZThiYWUyZjA2ZGMyMDU0ZmRkNzBhMGYxYmUzYWNlNGFhMjNkNDFkZTQxZmI1OGRhZjQ4ZDE5N2MyMGM"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier SkinActive Vitamin C Anti-Pigmentvlekken Serum",
+  "code": "5583565",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1050044",
+  "mmkId": "1050044",
+  "productGroupId": "473234",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-skinactive-vitamin-c-anti-pigmentvlekken-serum/p/5583565",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    }
+  ],
+  "description": "30ml - Doffe huid en alle huidtypen",
+  "image": "/medias/sys_master/prd-images/ha7/h03/30208940867614/prd-front-5583565-1_600x600/prd-front-5583565-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Power 24H Fresh Effect 3-in-1 Douchegel",
+  "code": "2847020",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1049790",
+  "mmkId": "1049790",
+  "productGroupId": "457631",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-power-24h-fresh-effect-3-in-1-douchegel/p/2847020",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h1a/hc1/32905487843358/prd-front-2847020-1_600x600/prd-front-2847020-1-600x600.jpg"
+}

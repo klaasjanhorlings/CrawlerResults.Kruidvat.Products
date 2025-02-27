@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London Lasting Finsh 705 Cappucino Lipliner",
+  "code": "5354357",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "1049826",
+  "mmkId": "1049826",
+  "productGroupId": "460534",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-lasting-finsh-705-cappucino-lipliner/p/5354357",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266595,
+      "name": "Lipliner"
+    }
+  ],
+  "description": "1,2g",
+  "image": "/medias/sys_master/prd-images/h8a/hd4/28610245492766/prd-front-5354357-1_600x600/prd-front-5354357-1-600x600.jpg"
+}

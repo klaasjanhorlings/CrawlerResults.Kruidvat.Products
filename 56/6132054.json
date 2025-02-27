@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B Pro 3D White Clinical Intensieve Whitening Tandpasta",
+  "code": "6132054",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049911",
+  "mmkId": "1049911",
+  "productGroupId": "469360",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-pro-3d-white-clinical-intensieve-whitening-tandpasta/p/6132054",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hf8/hbc/32018404016158/prd-front-6132054-1_600x600/prd-front-6132054-1-600x600.jpg"
+}

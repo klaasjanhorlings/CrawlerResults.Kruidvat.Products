@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Series 3 MGK3410 All-In-One Multigroomkit",
+  "code": "6197098",
+  "price": "49.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 5887 > 6444 > 6672",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049779",
+  "mmkId": "1049779",
+  "productGroupId": "456710",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-series-3-mgk3410-all-in-one-multigroomkit/p/6197098",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266684,
+      "name": "Multigroomers"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h6d/h36/32968103493662/prd-front-6197098-1_600x600/prd-front-6197098-1-600x600.jpg"
+}

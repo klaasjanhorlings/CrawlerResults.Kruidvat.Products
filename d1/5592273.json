@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Crème Puff 075 Pressed Powder",
+  "code": "5592273",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "1049824",
+  "mmkId": "1049824",
+  "productGroupId": "460365",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-creme-puff-075-pressed-powder/p/5592273",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266587,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "14g",
+  "image": "/medias/sys_master/prd-images/hfe/h7f/27622060294174/prd-front-5592273-1_600x600/prd-front-5592273-1-600x600.jpg"
+}

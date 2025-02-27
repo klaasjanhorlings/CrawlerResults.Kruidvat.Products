@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Anti-Transpiratie Voetspray",
+  "code": "502880",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2701 > 3404",
+  "supplier": "TITANIA FABRIK GMBH",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-anti-transpiratie-voetspray/p/502880",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48220780,
+      "name": "Zweetvoeten"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h8b/hc4/28462017511454/prd-front-502880-1_600x600/prd-front-502880-1-600x600.jpg"
+}

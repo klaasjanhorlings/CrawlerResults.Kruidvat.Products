@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Color Riche  200 Orange Stand Up Matte Lippenstift",
+  "code": "5783776",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-color-riche-200-orange-stand-up-matte-lippenstift/p/5783776",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266595,
+      "name": "Lipliner"
+    }
+  ],
+  "description": "1,8g",
+  "image": "/medias/prd-front-5783776-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTI5MDh8aW1hZ2UvanBlZ3xhR0V5TDJnME1TOHlOamMzTkRjek16TTRPVGcxTkM5d2NtUXRabkp2Ym5RdE5UYzRNemMzTmkweFh6WXdNSGcyTURBfGIyOTIxYzQyMGU0MDhhMjEwM2Q0ZjJkMWI2ZmZjMjBlNmZkZDBiODI2YzViMmFlMDI3MmM5ZDZkMzMxMDRmNmY"
+}

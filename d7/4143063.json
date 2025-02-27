@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kiss Everlast Medium Kunstnagels",
+  "code": "4143063",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2958 > 3753",
+  "supplier": "ANVIRI COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kiss-everlast-medium-kunstnagels/p/4143063",
+  "listName": "Lister",
+  "brand": "Kiss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266630,
+      "name": "Kunstnagels"
+    }
+  ],
+  "description": "28 stuks",
+  "image": "/medias/sys_master/prd-images/h59/ha2/28295121600542/prd-front-4143063-1_600x600/prd-front-4143063-1-600x600.jpg"
+}

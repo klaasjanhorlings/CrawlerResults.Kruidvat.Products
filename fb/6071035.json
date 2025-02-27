@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Liquid I.V. Hydration Multiplier Lemon Lime Elektrolyten Poeder",
+  "code": "6071035",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6389 > 6390 > 6397",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/liquid-iv-hydration-multiplier-lemon-lime-elektrolyten-poeder/p/6071035",
+  "listName": "Lister",
+  "brand": "Liquid I.V.",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 68335816,
+      "name": "Hydratatie"
+    }
+  ],
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/h1d/h0b/31088696459294/prd-front-6071035-1_600x600/prd-front-6071035-1-600x600.jpg"
+}

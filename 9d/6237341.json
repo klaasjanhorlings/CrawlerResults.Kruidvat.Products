@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Technic 42198 Junglevliegtuig",
+  "code": "6237341",
+  "price": "25.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1049971",
+  "mmkId": "1049971",
+  "productGroupId": "463562",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-technic-42198-junglevliegtuig/p/6237341",
+  "listName": "Lister",
+  "brand": "LEGO Technic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266824,
+      "name": "LEGO Technic"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h20/ha4/33141203468318/prd-front-6237341-1_600x600/prd-front-6237341-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fa Men Sport Deodorant Roller",
+  "code": "3685690",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3874",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1049782",
+  "mmkId": "1049782",
+  "productGroupId": "457099",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fa-men-sport-deodorant-roller/p/3685690",
+  "listName": "Lister",
+  "brand": "Fa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266643,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h1a/h59/28039094566942/prd-front-3685690-1_600x600/prd-front-3685690-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Acqua Di Parma Blu Mediterraneo Cipresso Di Toscana Eau de Toilette",
+  "code": "6073604",
+  "price": "69.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/acqua-di-parma-blu-mediterraneo-cipresso-di-toscana-eau-de-toilette/p/6073604",
+  "listName": "Lister",
+  "brand": "Acqua Di Parma",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hb7/hfe/30543782641694/prd-front-6073604-1_600x600/prd-front-6073604-1-600x600.jpg"
+}

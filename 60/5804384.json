@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Draadloze Oordopjes",
+  "code": "5804384",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6014 > 2153 > 2632 > 6446 > 6424",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-draadloze-oordopjes/p/5804384",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266902,
+      "name": "Telefoonaccessoires"
+    },
+    {
+      "id": 49258289,
+      "name": "Koptelefoons en oordopjes"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2a/h94/33411384639518/prd-front-5804384-1_600x600/prd-front-5804384-1-600x600.jpg"
+}

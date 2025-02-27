@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Intimate Scheersysteem",
+  "code": "5913157",
+  "price": "23.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3880 > 5722",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049937",
+  "mmkId": "1049937",
+  "productGroupId": "470600",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-intimate-scheersysteem/p/5913157",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266679,
+      "name": "Scheerapparaten"
+    }
+  ],
+  "description": "Inclusief 2 navulmesjes",
+  "image": "/medias/sys_master/prd-images/ha3/hc2/28370922668062/prd-front-5913157-1_600x600/prd-front-5913157-1-600x600.jpg"
+}

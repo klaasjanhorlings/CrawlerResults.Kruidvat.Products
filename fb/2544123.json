@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Anni Rolfi Katoen Slip",
+  "code": "2544123",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6038 > 6041 > 6745 > 6746 > 6748",
+  "supplier": "L. TEN CATE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/anni-rolfi-katoen-slip/p/2544123",
+  "listName": "Lister",
+  "brand": "Anni Rolfi",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266842,
+      "name": "Damesondergoed"
+    }
+  ],
+  "description": "wit, mt L",
+  "image": "/medias/prd-front-2544123-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDc5OTZ8aW1hZ2UvanBlZ3xhREkwTDJneFpDOHhOak13Tnpnek5UZzVOVGd6T0M5d2NtUXRabkp2Ym5RdE1qVTBOREV5TXkweFh6WXdNSGcyTURBfDU5NzFhZDY2MzljZGM3ZThhNzg2ZTY0N2RhMjU4OWI1MWNhMjExMWU3NWU3NmZlMzA0ZTY1NjMzZWYyYjRjNjQ"
+}

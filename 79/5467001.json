@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Masterpiece Nudes Oogschaduwpalet",
+  "code": "5467001",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "1049902",
+  "mmkId": "1049902",
+  "productGroupId": "468134",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-masterpiece-nudes-oogschaduwpalet/p/5467001",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266596,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30266911,
+      "name": "Palette oogschaduw"
+    }
+  ],
+  "description": "63,6g",
+  "image": "/medias/sys_master/prd-images/hfd/h4e/30977299841054/prd-front-5467001-1_600x600/prd-front-5467001-1-600x600.jpg"
+}

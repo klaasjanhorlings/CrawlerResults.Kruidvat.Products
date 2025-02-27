@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pantene Active Nutri-Plex Pro-V Volume & Body Shampoo",
+  "code": "3202543",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049694",
+  "mmkId": "1049694",
+  "productGroupId": "460009",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pantene-active-nutri-plex-pro-v-volume-body-shampoo/p/3202543",
+  "listName": "Lister",
+  "brand": "Pantene",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml - Fijn, plat haar",
+  "image": "/medias/sys_master/prd-images/h2f/h2a/32281644826654/prd-front-3202543-1_600x600/prd-front-3202543-1-600x600.jpg"
+}

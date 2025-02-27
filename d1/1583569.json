@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Sporttape",
+  "code": "1583569",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 3249 > 4140",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-sporttape/p/1583569",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266741,
+      "name": "Sport, -blessures en herstel"
+    },
+    {
+      "id": 57912722,
+      "name": "Sporttape"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10m x 3,75cm",
+  "image": "/medias/sys_master/prd-images/hf3/hc0/30295148724254/prd-front-1583569-1_600x600/prd-front-1583569-1-600x600.jpg"
+}

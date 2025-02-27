@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Animal Crossing 77046 Julian's Verjaardagsfeestje",
+  "code": "6034481",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1049971",
+  "mmkId": "1049971",
+  "productGroupId": "463562",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-animal-crossing-77046-julians-verjaardagsfeestje/p/6034481",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69034864,
+      "name": "LEGO Games"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9c/ha7/30044632285214/prd-front-6034481-1_600x600/prd-front-6034481-1-600x600.jpg"
+}

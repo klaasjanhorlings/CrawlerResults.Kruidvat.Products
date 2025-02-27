@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London Lasting Finish 35H 203 True Beige Foundation",
+  "code": "5975009",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "1049826",
+  "mmkId": "1049826",
+  "productGroupId": "460534",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-lasting-finish-35h-203-true-beige-foundation/p/5975009",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266577,
+      "name": "Foundation"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h5a/hec/29787453685790/prd-front-5975009-1_600x600/prd-front-5975009-1-600x600.jpg"
+}

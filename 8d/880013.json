@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Extra Fresh 48H Antitranspirant Spray",
+  "code": "880013",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "1049732",
+  "mmkId": "1049732",
+  "productGroupId": "450995",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-extra-fresh-48h-antitranspirant-spray/p/880013",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266644,
+      "name": "Deospray"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hce/ha9/29338963345438/prd-front-880013-1_600x600/prd-front-880013-1-600x600.jpg"
+}

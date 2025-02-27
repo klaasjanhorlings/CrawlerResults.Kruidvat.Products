@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Textiel Vingerpleisters",
+  "code": "1551054",
+  "price": "2.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4160",
+  "supplier": "BEVAPLAST BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-textiel-vingerpleisters/p/1551054",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266008,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30266739,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414265,
+      "name": "Vingerpleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 18 stuks",
+  "image": "/medias/sys_master/prd-images/ha0/hca/27276090736670/prd-front-1551054-1_600x600/prd-front-1551054-1-600x600.jpg"
+}

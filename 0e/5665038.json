@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips 3000 Series BT3206/14 Baardtrimmer",
+  "code": "5665038",
+  "price": "32.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6442",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-3000-series-bt3206/14-baardtrimmer/p/5665038",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266686,
+      "name": "Baardtrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5665038-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzQ4NDZ8aW1hZ2UvanBlZ3xhREE1TDJoak1pOHlOamsyTkRnM01qWXlOakl3Tmk5d2NtUXRabkp2Ym5RdE5UWTJOVEF6T0MweFh6WXdNSGcyTURBfDE0M2FlMjFiYWZiZDg4MjdhODIwY2IwNjcyZTNlYThlMjMwZDA4MzVjNTYwYmI2NTU5ZWY0MWQ3NzEwM2I1ZTY"
+}

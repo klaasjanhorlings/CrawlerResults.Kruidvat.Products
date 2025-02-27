@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Babydeken",
+  "code": "5672360",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 4362 > 2130 > 2317 > 2718 > 3421",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1049877",
+  "mmkId": "1049877",
+  "productGroupId": "466628",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-babydeken/p/5672360",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 52509917,
+      "name": "Wikkeldekens en omslagdoeken"
+    }
+  ],
+  "description": "wit, 80cm x 100cm",
+  "image": "/medias/prd-front-5672360-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njc1MDR8aW1hZ2UvanBlZ3xhRGt3TDJobE1pOHhOakUwT1RrME1qSTNNakF6TUM5d2NtUXRabkp2Ym5RdE5UWTNNak0yTUMweFh6WXdNSGcyTURBfDNhMDUxMzdhM2M1MTM3MmI3MGZmNzZjMmMyN2Q3OGVkYTU2ZjE5ODFlNjc2ODFlZmJkNDM2MTgyZjhhZDk3NzQ"
+}

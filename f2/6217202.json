@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Theepot met Geometrisch Patroon",
+  "code": "6217202",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/theepot-met-geometrisch-patroon/p/6217202",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 80863512,
+      "name": "Servies"
+    }
+  ],
+  "description": "perzikkleur, 900ml",
+  "image": "/medias/sys_master/prd-images/h5a/hb6/32709888639006/prd-front-6217202-1_600x600/prd-front-6217202-1-600x600.jpg"
+}

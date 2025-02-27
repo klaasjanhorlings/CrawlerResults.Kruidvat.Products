@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Roter Vitamine C 1000mg Citroen Gummies",
+  "code": "5938126",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049796",
+  "mmkId": "1049796",
+  "productGroupId": "458126",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/roter-vitamine-c-1000mg-citroen-gummies/p/5938126",
+  "listName": "Lister",
+  "brand": "Roter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266717,
+      "name": "Weerstand en energie"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hfd/h62/32791682056222/prd-front-5938126-1_600x600/prd-front-5938126-1-600x600.jpg"
+}

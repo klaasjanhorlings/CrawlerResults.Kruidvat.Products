@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Sonicare For Kids HX6032/33 3+ Opzetborstels",
+  "code": "5661090",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-sonicare-for-kids-hx6032/33-3-opzetborstels/p/5661090",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266675,
+      "name": "Opzetborstels"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/prd-front-5661090-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ0NTF8aW1hZ2UvanBlZ3xhREV3TDJoalpDOHhOalExTmpVMk5qWTJPVE0wTWk5d2NtUXRabkp2Ym5RdE5UWTJNVEE1TUMweFh6WXdNSGcyTURBfGUyNzk0OWY4ZDQwNWM5YWExZGJhMzk4OTk1YWFkNWM4MmQ2MWIwNzM4M2ZlNTI3ZDVjYTgxM2Q3MDAxNzgwNWU"
+}

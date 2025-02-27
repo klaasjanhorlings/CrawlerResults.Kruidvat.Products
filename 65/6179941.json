@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "From PB with Love Pantoffels met Panterprint",
+  "code": "6179941",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2487 > 3056 > 5804 > 5928 > 6351 > 6352",
+  "supplier": "FERRO FOOTWEAR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/from-pb-with-love-pantoffels-met-panterprint/p/6179941",
+  "listName": "Lister",
+  "brand": "Patty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266044,
+      "name": "Pantoffels"
+    }
+  ],
+  "description": "mt 40-41",
+  "image": "/medias/sys_master/prd-images/h6b/h5a/33333856305182/prd-front-6179941-1_600x600/prd-front-6179941-1-600x600.jpg"
+}

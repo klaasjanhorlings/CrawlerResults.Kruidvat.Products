@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kinderlegging",
+  "code": "6190511",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "3533 > 5808 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "PARTYXPLOSION BV",
+  "inStock": "inStock",
+  "onPromo": "1050469",
+  "mmkId": "1050469",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kinderlegging/p/6190511",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "fuchsia, mt 104-110",
+  "image": "/medias/sys_master/prd-images/hfa/h43/33151327666206/prd-front-6190511-1_600x600/prd-front-6190511-1-600x600.jpg"
+}

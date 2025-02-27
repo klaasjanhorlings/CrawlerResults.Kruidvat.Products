@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 20000 MAh Powerbank",
+  "code": "6153075",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2153 > 2632 > 5929 > 6014 > 6421 > 6446",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-20000-mah-powerbank/p/6153075",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266902,
+      "name": "Telefoonaccessoires"
+    },
+    {
+      "id": 30267034,
+      "name": "Powerbanks"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h3a/h28/33408975568926/prd-front-6153075-1_600x600/prd-front-6153075-1-600x600.jpg"
+}

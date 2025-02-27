@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "KLY Steriel Glijmiddel",
+  "code": "6116241",
+  "price": "4.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
+  "supplier": "OMNIMEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kly-steriel-glijmiddel/p/6116241",
+  "listName": "Lister",
+  "brand": "KLY",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266011,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30266748,
+      "name": "Glijmiddelen"
+    },
+    {
+      "id": 66278176,
+      "name": "Waterbasis glijmiddelen"
+    }
+  ],
+  "description": "82g",
+  "image": "/medias/sys_master/prd-images/h25/h71/31232530841630/prd-front-6116241-1_600x600/prd-front-6116241-1-600x600.jpg"
+}

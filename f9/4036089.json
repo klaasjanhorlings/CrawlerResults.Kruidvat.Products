@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Care & Hold Styling Mousse",
+  "code": "4036089",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1049790",
+  "mmkId": "1049790",
+  "productGroupId": "457631",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-care-hold-styling-mousse/p/4036089",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266932,
+      "name": "Haarmousse"
+    }
+  ],
+  "description": "150ml"
+}

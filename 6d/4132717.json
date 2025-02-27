@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Super Collageen Poeder",
+  "code": "4132717",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6232",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1049801",
+  "mmkId": "1049801",
+  "productGroupId": "458846",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-super-collageen-poeder/p/4132717",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266719,
+      "name": "Beautysupplementen"
+    }
+  ],
+  "description": "54,6g",
+  "image": "/medias/prd-front-4132717-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTg1NjF8aW1hZ2UvanBlZ3xhRFZtTDJnd1lpOHhOalU0TkRVNU16QXhORGd4TkM5d2NtUXRabkp2Ym5RdE5ERXpNamN4TnkweFh6WXdNSGcyTURBfGMwYWU0ZDRjMzEyN2EyODVhYTUyYzg5MzEwNTgwZTZmOGQyN2NhNGM5MGIyZDAzYzIxNjUzYTBiZDljZTA4NzU"
+}

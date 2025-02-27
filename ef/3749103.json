@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Cookie Dough Protein Bar",
+  "code": "3749103",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6385 > 6386",
+  "supplier": "PRINSEN BV",
+  "inStock": "inStock",
+  "onPromo": "1049859",
+  "mmkId": "1049859",
+  "productGroupId": "465112",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-cookie-dough-protein-bar/p/3749103",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266751,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "45g",
+  "image": "/medias/prd-front-3749103-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTIxODZ8aW1hZ2UvanBlZ3xhRE14TDJoaE1pOHhOelUzT0RBMk1UTXpNalV4TUM5d2NtUXRabkp2Ym5RdE16YzBPVEV3TXkweFh6WXdNSGcyTURBfDAyNWFlNjdiMGU1NTgzZGMyODUwZWFlYjEwMDk5MDFkNTgwZTAwY2E5ZTA0OTRkY2MyNGY4MmEzNTllNGYxMmY"
+}

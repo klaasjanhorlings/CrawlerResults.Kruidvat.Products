@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Natures Hydra Plumping Serum",
+  "code": "5800835",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "1050040",
+  "mmkId": "1050040",
+  "productGroupId": "456377",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-natures-hydra-plumping-serum/p/5800835",
+  "listName": "Lister",
+  "brand": "Kruidvat Natures",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/prd-front-5800835-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQxNjN8aW1hZ2UvanBlZ3xhR0V3TDJnMU1TOHlOamczTlRVNU5Ua3hOVEk1TkM5d2NtUXRabkp2Ym5RdE5UZ3dNRGd6TlMweFh6WXdNSGcyTURBfDllMTU0NjM0MjViYTQ5ZTAyZjZiOWJlOWUyOTY0NGIyNDcxZjQyZTkyMGIzN2M3NDM5NTdmZjc1MzY4NTQwMjY"
+}

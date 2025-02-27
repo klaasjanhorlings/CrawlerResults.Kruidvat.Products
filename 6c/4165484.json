@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Simple SPF15 Dagcrème",
+  "code": "4165484",
+  "price": "11.55",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049797",
+  "mmkId": "1049797",
+  "productGroupId": "458381",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/simple-spf15-dagcreme/p/4165484",
+  "listName": "Lister",
+  "brand": "Simple",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h26/h36/28482387247134/prd-front-4165484-1_600x600/prd-front-4165484-1-600x600.jpg"
+}

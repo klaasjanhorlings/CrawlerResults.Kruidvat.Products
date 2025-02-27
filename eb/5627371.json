@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Retinol Boost Oogcrème",
+  "code": "5627371",
+  "price": "35.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "1049839",
+  "mmkId": "1049839",
+  "productGroupId": "462008",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutrogena-retinol-boost-oogcreme/p/5627371",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266604,
+      "name": "Oogcreme"
+    }
+  ],
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/hcf/he0/29145112084510/prd-front-5627371-1_600x600/prd-front-5627371-1-600x600.jpg"
+}

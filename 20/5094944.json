@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 0-6M Zuigelingenvoeding op Basis van Geitenmelk",
+  "code": "5094944",
+  "price": "16.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
+  "supplier": "PICOMEL NUTRITION",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-0-6m-zuigelingenvoeding-op-basis-van-geitenmelk/p/5094944",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266769,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30266998,
+      "name": "Zuigelingenmelk"
+    }
+  ],
+  "description": "2 x 400g",
+  "image": "/medias/sys_master/prd-images/h02/h4c/31900438822942/prd-front-5094944-1_600x600/prd-front-5094944-1-600x600.jpg"
+}

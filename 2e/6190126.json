@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Flared Broek met Panterprint",
+  "code": "6190126",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2640 > 3325 > 3802 > 4829 > 5928 > 6038",
+  "supplier": "PARTYXPLOSION BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/flared-broek-met-panterprint/p/6190126",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "mt S-M",
+  "image": "/medias/sys_master/prd-images/ha2/ha9/32752217391134/prd-front-6190126-1_600x600/prd-front-6190126-1-600x600.jpg"
+}

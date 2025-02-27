@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lansinoh Contact Tepelhoedjes",
+  "code": "5787584",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "LANSINOH LABORATORIES",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lansinoh-contact-tepelhoedjes/p/5787584",
+  "listName": "Lister",
+  "brand": "Lansinoh",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30266805,
+      "name": "Mama verzorgingsproducten"
+    }
+  ],
+  "description": "2 x 24mm",
+  "image": "/medias/prd-front-5787584-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njk2MzB8aW1hZ2UvanBlZ3xhREJpTDJoaFlTOHlOekl3T0RZMU1qRTVNemd5TWk5d2NtUXRabkp2Ym5RdE5UYzROelU0TkMweFh6WXdNSGcyTURBfGY4NDFkMmZhZjNhYThkN2VlMzZiMmRiOTA4NWMyMWI3N2I1Yjk3MzdiYWNiNWRlMTcyNDIwZjJiZTU2ODI2MGI"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Liquid I.V. Hydration Multiplier Strawberry Flavour Elektrolyten Poeder",
+  "code": "6071154",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6389 > 6390 > 6397",
+  "supplier": "UNILEVER NEDERLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/liquid-iv-hydration-multiplier-strawberry-flavour-elektrolyten-poeder/p/6071154",
+  "listName": "Lister",
+  "brand": "Liquid I.V.",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 68335816,
+      "name": "Hydratatie"
+    }
+  ],
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/h92/h66/31089207246878/prd-front-6071154-1_600x600/prd-front-6071154-1-600x600.jpg"
+}

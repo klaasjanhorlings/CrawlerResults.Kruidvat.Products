@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Modifast Koffie Maaltijddrink",
+  "code": "1446558",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3600",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/modifast-koffie-maaltijddrink/p/1446558",
+  "listName": "Lister",
+  "brand": "Modifast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 30266742,
+      "name": "Maaltijdrepen, drinkmaaltijden"
+    }
+  ],
+  "description": "236ml",
+  "image": "/medias/sys_master/prd-images/h1d/h08/27276831391774/prd-front-1446558-1_600x600/prd-front-1446558-1-600x600.jpg"
+}

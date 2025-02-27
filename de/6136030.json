@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York 170 SuperStay Vinyl Ink Longwear Liquid Lipstick",
+  "code": "6136030",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1049750",
+  "mmkId": "1049750",
+  "productGroupId": "454370",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-170-superstay-vinyl-ink-longwear-liquid-lipstick/p/6136030",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h56/he6/32889249890334/prd-front-6136030-1_600x600/prd-front-6136030-1-600x600.jpg"
+}

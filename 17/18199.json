@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Original 48h Antitranspirant Deodorant Stick",
+  "code": "18199",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3796",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049752",
+  "mmkId": "1049752",
+  "productGroupId": "454546",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-original-48h-antitranspirant-deodorant-stick/p/18199",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266645,
+      "name": "Deostick"
+    }
+  ],
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/hc4/ha8/33390538588190/prd-front-18199-1_600x600/prd-front-18199-1-600x600.jpg"
+}

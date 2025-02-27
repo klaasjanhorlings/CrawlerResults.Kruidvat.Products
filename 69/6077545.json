@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Vitamine B12 & Foliumzuur Tabletten",
+  "code": "6077545",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6205 > 6223 > 6293",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1049801",
+  "mmkId": "1049801",
+  "productGroupId": "458846",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-vitamine-b12-foliumzuur-tabletten/p/6077545",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266989,
+      "name": "Vitamine B"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h4c/h1e/30650235584542/prd-front-6077545-1_600x600/prd-front-6077545-1-600x600.jpg"
+}

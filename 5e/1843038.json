@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Extra Sterk Keukenpapier",
+  "code": "1843038",
+  "price": "1.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 2973 > 3777",
+  "supplier": "WEPA FRANCE SAS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-extra-sterk-keukenpapier/p/1843038",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266069,
+      "name": "Keukenpapier"
+    }
+  ],
+  "description": "2 rollen",
+  "image": "/medias/sys_master/prd-images/hcc/h87/27773524181022/prd-front-1843038-1_600x600/prd-front-1843038-1-600x600.jpg"
+}

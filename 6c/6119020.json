@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Citrus & Bergamot Eau de Parfum",
+  "code": "6119020",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "MORE LABELS GROUP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-citrus-bergamot-eau-de-parfum/p/6119020",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654920,
+      "name": "Unisex parfum"
+    }
+  ],
+  "description": "50ml - Unisex",
+  "image": "/medias/sys_master/prd-images/hf8/h29/31287747969054/prd-front-6119020-1_600x600/prd-front-6119020-1-600x600.jpg"
+}

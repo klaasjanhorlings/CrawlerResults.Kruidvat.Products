@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Difrax Natural 20+M Fopspeen",
+  "code": "5439491",
+  "price": "23.96",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 6356",
+  "supplier": "DIFRAX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/difrax-natural-20m-fopspeen/p/5439491",
+  "listName": "Lister",
+  "brand": "Difrax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266797,
+      "name": "Fopspenen"
+    }
+  ],
+  "description": "donkerblauw, grijs, bruin, okergeel, 4 stuks",
+  "image": "/medias/sys_master/prd-images/h7b/h16/28162626387998/prd-front-5439491-1_600x600/prd-front-5439491-1-600x600.jpg"
+}

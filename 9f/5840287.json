@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fa Empowering Moments Orange Peel & Basil Deodorant",
+  "code": "5840287",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1049782",
+  "mmkId": "1049782",
+  "productGroupId": "457099",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fa-empowering-moments-orange-peel-basil-deodorant/p/5840287",
+  "listName": "Lister",
+  "brand": "Fa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266644,
+      "name": "Deospray"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-5840287-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTI1NTN8aW1hZ2UvanBlZ3xhRGM0TDJoaU5TOHlOekl4TkRZek56QXdOamczT0M5d2NtUXRabkp2Ym5RdE5UZzBNREk0TnkweFh6WXdNSGcyTURBfDMwZTgwNGUwNzcxMjM3Y2YyZDllZDAwYzExNGNhYTE4YWE5MjdjZDNiNTc4NWY5Y2YxNDAyZWNmMjliNmI1ODU"
+}

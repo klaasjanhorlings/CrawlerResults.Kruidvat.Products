@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Salus Floradix Floravital IJzer-elixir",
+  "code": "5619146",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6281",
+  "supplier": "OCE BIO NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/salus-floradix-floravital-ijzer-elixir/p/5619146",
+  "listName": "Lister",
+  "brand": "Floradix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001856,
+      "name": "Ijzer"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/prd-front-5619146-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODY0MDZ8aW1hZ2UvanBlZ3xhR1F3TDJnME55OHhOak0zTnprNU9Ua3hOekE0Tmk5d2NtUXRabkp2Ym5RdE5UWXhPVEUwTmkweFh6WXdNSGcyTURBfDc3NGVjYTQwYTUxNjc1MzU1ZmM5Y2Y4ODU3YWFlNzUwOWZmMTcwYTZkZmMwNzEzNGMzMDAwYWEyYjVlNDJkM2Y"
+}

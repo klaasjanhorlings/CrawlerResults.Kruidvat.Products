@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cetaphil PRO Itch Control Hydraterende Melk",
+  "code": "5885577",
+  "price": "20.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "GALDERMA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1049693",
+  "mmkId": "1049693",
+  "productGroupId": "458310",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cetaphil-pro-itch-control-hydraterende-melk/p/5885577",
+  "listName": "Lister",
+  "brand": "Cetaphil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266914,
+      "name": "Reinigingsmelk"
+    }
+  ],
+  "description": "295ml",
+  "image": "/medias/sys_master/prd-images/h15/h8a/27838676729886/prd-front-5885577-1_600x600/prd-front-5885577-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Verzachtende Nachtcrème",
+  "code": "2999459",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1049818",
+  "mmkId": "1049818",
+  "productGroupId": "460033",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-verzachtende-nachtcreme/p/2999459",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266603,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/he0/he8/32901461016606/prd-front-2999459-1_600x600/prd-front-2999459-1-600x600.jpg"
+}

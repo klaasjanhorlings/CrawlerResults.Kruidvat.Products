@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Classic 11039 Creatieve Etensvriendjes",
+  "code": "6226834",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1049971",
+  "mmkId": "1049971",
+  "productGroupId": "463562",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-classic-11039-creatieve-etensvriendjes/p/6226834",
+  "listName": "Lister",
+  "brand": "LEGO Classic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266811,
+      "name": "LEGO Classic"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbc/hf6/33139660685342/prd-front-6226834-1_600x600/prd-front-6226834-1-600x600.jpg"
+}

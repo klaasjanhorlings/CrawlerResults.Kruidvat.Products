@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 5.000 mAh Powerbank",
+  "code": "5419870",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6014 > 2153 > 6728 > 6729 > 6730",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-5000-mah-powerbank/p/5419870",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266902,
+      "name": "Telefoonaccessoires"
+    },
+    {
+      "id": 30267034,
+      "name": "Powerbanks"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h26/hbb/33409957560350/prd-front-5419870-1_600x600/prd-front-5419870-1-600x600.jpg"
+}

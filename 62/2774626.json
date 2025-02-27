@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutrilon A.R. 1 Dieetvoeding 0-6 Maanden",
+  "code": "2774626",
+  "price": "22.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutrilon-ar-1-dieetvoeding-0-6-maanden/p/2774626",
+  "listName": "Lister",
+  "brand": "Nutrilon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266769,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30266998,
+      "name": "Zuigelingenmelk"
+    }
+  ],
+  "description": "800g",
+  "image": "/medias/sys_master/prd-images/hf0/hd9/28370901237790/prd-front-2774626-1_600x600/prd-front-2774626-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London Wonder'Freeze 004 Deep Brown Brow Lamination Gel",
+  "code": "6098237",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "1049902",
+  "mmkId": "1049902",
+  "productGroupId": "468134",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-wonderfreeze-004-deep-brown-brow-lamination-gel/p/6098237",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266592,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30266905,
+      "name": "Wenkbrauwgel"
+    }
+  ],
+  "description": "6g",
+  "image": "/medias/sys_master/prd-images/h43/hb9/31784309325854/prd-front-6098237-1_600x600/prd-front-6098237-1-600x600.jpg"
+}

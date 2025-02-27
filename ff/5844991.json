@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Valdispert Slaap Spray",
+  "code": "5844991",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6301",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049794",
+  "mmkId": "1049794",
+  "productGroupId": "458119",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/valdispert-slaap-spray/p/5844991",
+  "listName": "Lister",
+  "brand": "Valdispert",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266724,
+      "name": "Rust en ontspanning"
+    }
+  ],
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h8d/hdf/32174531805214/prd-front-5844991-1_600x600/prd-front-5844991-1-600x600.jpg"
+}

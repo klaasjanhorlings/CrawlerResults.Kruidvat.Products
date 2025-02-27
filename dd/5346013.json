@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Carelastin Oogdruppels",
+  "code": "5346013",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6529 > 2756 > 3609",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/carelastin-oogdruppels/p/5346013",
+  "listName": "Lister",
+  "brand": "Carelastin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266701,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 30266953,
+      "name": "Hooikoorts oogdruppels"
+    }
+  ],
+  "description": "Geneesmiddel - 6ml",
+  "image": "/medias/sys_master/prd-images/h96/he3/27834095304734/prd-front-5346013-1_600x600/prd-front-5346013-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corine de Farme Calendula Hydraterende Bodymelk",
+  "code": "4067561",
+  "price": "4.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2724 > 3427",
+  "supplier": "LABORATOIRES SARBEC",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corine-de-farme-calendula-hydraterende-bodymelk/p/4067561",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266776,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267018,
+      "name": "Babylotion"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/he8/hf3/28024503762974/prd-front-4067561-1_600x600/prd-front-4067561-1-600x600.jpg"
+}

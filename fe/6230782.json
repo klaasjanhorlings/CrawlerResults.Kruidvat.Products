@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Harry Potter Pop",
+  "code": "6230782",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/harry-potter-pop/p/6230782",
+  "listName": "Lister",
+  "brand": "Harry Potter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h52/h78/32898164228126/prd-front-6230782-1_600x600/prd-front-6230782-1-600x600.jpg"
+}

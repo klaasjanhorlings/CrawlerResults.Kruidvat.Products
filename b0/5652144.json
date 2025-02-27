@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat After Shave Balsem",
+  "code": "5652144",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 3144 > 6670",
+  "supplier": "VIOKOX SA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-after-shave-balsem/p/5652144",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266612,
+      "name": "Aftershave"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h71/h8a/27769704808478/prd-front-5652144-1_600x600/prd-front-5652144-1-600x600.jpg"
+}

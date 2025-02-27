@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Huishouddoekjes",
+  "code": "123827",
+  "price": "1.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2548 > 3139 > 4005",
+  "supplier": "MULTY MANTA NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-huishouddoekjes/p/123827",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144838,
+      "name": "Schoonmaakartikelen"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/hbc/hed/31783667695646/prd-front-123827-1_600x600/prd-front-123827-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WeCare Chewy Caramel Meal Replacement Bars",
+  "code": "463799",
+  "price": "2.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3851",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wecare-chewy-caramel-meal-replacement-bars/p/463799",
+  "listName": "Lister",
+  "brand": "WeCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 30266742,
+      "name": "Maaltijdrepen, drinkmaaltijden"
+    }
+  ],
+  "description": "2 x 58g",
+  "image": "/medias/sys_master/prd-images/hce/h05/31690950279198/prd-front-463799-1_600x600/prd-front-463799-1-600x600.jpg"
+}

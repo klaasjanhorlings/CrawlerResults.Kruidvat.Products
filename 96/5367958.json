@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Sensitive Reinigingsmousse",
+  "code": "5367958",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1049866",
+  "mmkId": "1049866",
+  "productGroupId": "465802",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-sensitive-reinigingsmousse/p/5367958",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50676912,
+      "name": "Reinigingsmousse"
+    }
+  ],
+  "description": "150ml - Droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h47/h5f/28223680413726/prd-front-5367958-1_600x600/prd-front-5367958-1-600x600.jpg"
+}

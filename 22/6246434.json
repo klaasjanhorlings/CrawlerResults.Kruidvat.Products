@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Laneige Mango Lip Sleeping Mask",
+  "code": "6246434",
+  "price": "24.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3134 > 4000",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "1049715",
+  "mmkId": "1049715",
+  "productGroupId": "470624",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/laneige-mango-lip-sleeping-mask/p/6246434",
+  "listName": "Lister",
+  "brand": "LANEIGE",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266609,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "20g",
+  "image": "/medias/sys_master/prd-images/h33/hb0/33048298487838/prd-front-6246434-1_600x600/prd-front-6246434-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Sonicare 4100 Elektrische Tandenborstel",
+  "code": "6166424",
+  "price": "99.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "1049914",
+  "mmkId": "1049914",
+  "productGroupId": "469363",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-sonicare-4100-elektrische-tandenborstel/p/6166424",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266677,
+      "name": "Elektrische tandenborstels"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/hbf/h06/31707583348766/prd-front-6166424-1_600x600/prd-front-6166424-1-600x600.jpg"
+}

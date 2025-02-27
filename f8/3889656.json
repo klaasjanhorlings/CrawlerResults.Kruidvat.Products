@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Originals Vitamine E Dagcrème",
+  "code": "3889656",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "PHARCONA GMBH",
+  "inStock": "inStock",
+  "onPromo": "1028975",
+  "mmkId": "1028975",
+  "productGroupId": "362258",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-originals-vitamine-e-dagcreme/p/3889656",
+  "listName": "Lister",
+  "brand": "Kruidvat Originals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-3889656-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njg1NjV8aW1hZ2UvanBlZ3xhR0l5TDJneE1TOHlOalUzTlRNek9UWTRNemczTUM5d2NtUXRabkp2Ym5RdE16ZzRPVFkxTmkweFh6WXdNSGcyTURBfGZhZWZhMGFhNjEzNzczYmRkYmI2ZTdmYTkwNjhjZjc3NTk5MzlkNDY3OGM0NjNmNGQ2N2Q1MTI1YTBkZWQxODg"
+}

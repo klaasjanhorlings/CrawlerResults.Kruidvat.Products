@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Perspirex Original Deodorant Roller",
+  "code": "4192217",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/perspirex-original-deodorant-roller/p/4192217",
+  "listName": "Lister",
+  "brand": "Perspirex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266646,
+      "name": "Overmatig transpireren"
+    }
+  ],
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h16/hc5/28484245028894/prd-front-4192217-1_600x600/prd-front-4192217-1-600x600.jpg"
+}

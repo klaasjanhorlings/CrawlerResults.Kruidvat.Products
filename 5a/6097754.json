@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London Wonder'Last 005 Frosty Rose Shadow Stick",
+  "code": "6097754",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "1049902",
+  "mmkId": "1049902",
+  "productGroupId": "468134",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-wonderlast-005-frosty-rose-shadow-stick/p/6097754",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266596,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30266910,
+      "name": "Mono oogschaduw"
+    }
+  ],
+  "description": "1,6g",
+  "image": "/medias/sys_master/prd-images/ha6/h79/31783404470302/prd-front-6097754-1_600x600/prd-front-6097754-1-600x600.jpg"
+}

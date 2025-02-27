@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Baby Verzorgende Crème",
+  "code": "3036706",
+  "price": "2.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1049939",
+  "mmkId": "1049939",
+  "productGroupId": "470808",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-baby-verzorgende-creme/p/3036706",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266776,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267014,
+      "name": "Babycreme"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-3036706-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQ2MTl8aW1hZ2UvanBlZ3xhRFl4TDJneFl5OHhOelF4T1RJMk1ERXdNRFl6T0M5d2NtUXRabkp2Ym5RdE16QXpOamN3TmkweFh6WXdNSGcyTURBfDczNDhiYjI5MzA5NGU1NWQxNDEyMmVlMDNhZjRlOTUwMzgwMTA5ZTIxN2ZkYTg2N2NiNmU3YmM0NjYxZjI2ZGI"
+}

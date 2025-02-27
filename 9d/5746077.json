@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Multi-Gyn CalmingCream",
+  "code": "5746077",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "inStock",
+  "onPromo": "1049781",
+  "mmkId": "1049781",
+  "productGroupId": "457017",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/multi-gyn-calmingcream/p/5746077",
+  "listName": "Lister",
+  "brand": "Multi-Gyn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266702,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 30266956,
+      "name": "Vaginale droogheid"
+    }
+  ],
+  "description": "50g",
+  "image": "/medias/sys_master/prd-images/h28/hd0/31150603501598/prd-front-5746077-1_600x600/prd-front-5746077-1-600x600.jpg"
+}

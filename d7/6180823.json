@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat +2.5 Leesbril met Rubberlook Montuur",
+  "code": "6180823",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3202 > 4074",
+  "supplier": "J-CLUB E-COMM",
+  "inStock": "inStock",
+  "onPromo": "1049905",
+  "mmkId": "1049905",
+  "productGroupId": "469138",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-25-leesbril-met-rubberlook-montuur/p/6180823",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266013,
+      "name": "Optiek"
+    },
+    {
+      "id": 30266756,
+      "name": "Leesbrillen"
+    }
+  ],
+  "description": "bruin",
+  "image": "/medias/sys_master/prd-images/h22/h64/32086553034782/prd-front-6180823-1_600x600/prd-front-6180823-1-600x600.jpg"
+}

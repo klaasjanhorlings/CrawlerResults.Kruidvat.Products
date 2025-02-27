@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Lasting Drama Automatic Eyeliner",
+  "code": "5994455",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1049902",
+  "mmkId": "1049902",
+  "productGroupId": "468134",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-lasting-drama-automatic-eyeliner/p/5994455",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266586,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha6/h32/29991765180446/prd-front-5994455-1_600x600/prd-front-5994455-1-600x600.jpg"
+}

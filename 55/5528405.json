@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Men Nature Feeling Dennen, Buffelgras & IJslands Mos 2-in-1 Douche",
+  "code": "5528405",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049747",
+  "mmkId": "1049747",
+  "productGroupId": "452787",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kneipp-men-nature-feeling-dennen-buffelgras-ijslands-mos-2-in-1-douche/p/5528405",
+  "listName": "Lister",
+  "brand": "Kneipp Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "200ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h66/h2e/30359872438302/prd-front-5528405-1_600x600/prd-front-5528405-1-600x600.jpg"
+}

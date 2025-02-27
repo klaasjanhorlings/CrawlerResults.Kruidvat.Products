@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Canesten Gyno Balance Gel",
+  "code": "4159247",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3100 > 3963",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/canesten-gyno-balance-gel/p/4159247",
+  "listName": "Lister",
+  "brand": "Canesten",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266702,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 30266957,
+      "name": "Bacteriële vaginose"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 7 stuks",
+  "image": "/medias/sys_master/prd-images/hd0/h76/30557260480542/prd-front-4159247-1_600x600/prd-front-4159247-1-600x600.jpg"
+}

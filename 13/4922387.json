@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Q10 Power Extra Voedende Anti-Rimpel Nachtcrème",
+  "code": "4922387",
+  "price": "27.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1049818",
+  "mmkId": "1049818",
+  "productGroupId": "460033",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-q10-power-extra-voedende-anti-rimpel-nachtcreme/p/4922387",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266603,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h9a/h97/32902371934238/prd-front-4922387-1_600x600/prd-front-4922387-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hero Nutrasense Comfort+ AR 1 (0-6m) Zuigelingenvoeding",
+  "code": "3689764",
+  "price": "20.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
+  "supplier": "HERO NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hero-nutrasense-comfort-ar-1-0-6m-zuigelingenvoeding/p/3689764",
+  "listName": "Lister",
+  "brand": "Hero Nutrasense",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266769,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30266998,
+      "name": "Zuigelingenmelk"
+    }
+  ],
+  "description": "700g",
+  "image": "/medias/sys_master/prd-images/h05/h93/32818647269406/prd-front-3689764-1_600x600/prd-front-3689764-1-600x600.jpg"
+}

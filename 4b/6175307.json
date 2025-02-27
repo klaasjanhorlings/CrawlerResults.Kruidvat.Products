@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hoedje met Regenboogprint",
+  "code": "6175307",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2225 > 3118 > 3984 > 4869 > 5095",
+  "supplier": "PARTYXPLOSION BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/hoedje-met-regenboogprint/p/6175307",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd2/h88/32183578918942/prd-front-6175307-1_600x600/prd-front-6175307-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Fructis Papaya Hair Food Shampoo",
+  "code": "5053378",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1049765",
+  "mmkId": "1049765",
+  "productGroupId": "455432",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-fructis-papaya-hair-food-shampoo/p/5053378",
+  "listName": "Lister",
+  "brand": "Fructis",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "350ml",
+  "image": "/medias/sys_master/prd-images/h78/h6f/27521015447582/prd-front-5053378-1_600x600/prd-front-5053378-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Oogreinigingslotion",
+  "code": "52128",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "1049799",
+  "mmkId": "1049799",
+  "productGroupId": "458445",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-oogreinigingslotion/p/52128",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266918,
+      "name": "Oogmake-up remover"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/prd-front-52128-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ4OTF8aW1hZ2UvanBlZ3xhREkxTDJneVlTOHlOekl3TVRJd05EVTRORFEzT0M5d2NtUXRabkp2Ym5RdE5USXhNamd0TVY4Mk1EQjROakF3fDk4ZTAzNjBkOTdmZWNmODljZWNkNTM5ZDMyOGM4MDJkMzliYWVlMjI3MzhhOGJjNjFjNDQ5ZWU2NGU4NTZkZTA"
+}

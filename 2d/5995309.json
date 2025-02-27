@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO 40460 Rozen",
+  "code": "5995309",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1049971",
+  "mmkId": "1049971",
+  "productGroupId": "463562",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-40460-rozen/p/5995309",
+  "listName": "Lister",
+  "brand": "LEGO Botanicals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69043063,
+      "name": "LEGO Bloemen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h34/h59/31271112081438/prd-front-5995309-1_600x600/prd-front-5995309-1-600x600.jpg"
+}

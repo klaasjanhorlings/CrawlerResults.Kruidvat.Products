@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Skin Science Wrinkle Reducing Serum",
+  "code": "4081540",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "OCEANIC SA",
+  "inStock": "inStock",
+  "onPromo": "1049828",
+  "mmkId": "1049828",
+  "productGroupId": "460651",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-skin-science-wrinkle-reducing-serum/p/4081540",
+  "listName": "Lister",
+  "brand": "Kruidvat Skin Science",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    }
+  ],
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/hee/hd2/28801221951518/prd-front-4081540-1_600x600/prd-front-4081540-1-600x600.jpg"
+}

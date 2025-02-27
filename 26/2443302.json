@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Roxasect Spuitbus tegen Zilvervisjes",
+  "code": "2443302",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 4144",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/roxasect-spuitbus-tegen-zilvervisjes/p/2443302",
+  "listName": "Lister",
+  "brand": "Roxasect",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266896,
+      "name": "Insectenbestrijding"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h74/h48/27826061606942/prd-front-2443302-1_600x600/prd-front-2443302-1-600x600.jpg"
+}

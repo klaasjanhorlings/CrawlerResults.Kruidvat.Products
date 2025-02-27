@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Davidoff Coolwater Woman Eau de Toilette",
+  "code": "24246",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "SAR TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/davidoff-coolwater-woman-eau-de-toilette/p/24246",
+  "listName": "Lister",
+  "brand": "Davidoff",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/prd-front-24246-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQ0ODF8aW1hZ2UvanBlZ3xhR1prTDJnd1l5OHhOalUzT1RNek1EUXdPRFEzT0M5d2NtUXRabkp2Ym5RdE1qUXlORFl0TVY4Mk1EQjROakF3fDg3ZmZkOWUyMDg4ZjQzYzlhZmQyNjQ2YTM4OTY1Y2U0NmQwZmY5ZGViYmMxNmRmMDViNDBiZGU0OTk0ZGE2M2E"
+}

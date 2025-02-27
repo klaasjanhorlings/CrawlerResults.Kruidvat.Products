@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Page Sensitive Vochtig Toiletpapier",
+  "code": "5532444",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2659 > 3347 > 4082",
+  "supplier": "KIMBERLY-CLARK BV",
+  "inStock": "inStock",
+  "onPromo": "1049761",
+  "mmkId": "1049761",
+  "productGroupId": "454980",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/page-sensitive-vochtig-toiletpapier/p/5532444",
+  "listName": "Lister",
+  "brand": "Page",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266073,
+      "name": "Vochtig toiletpapier"
+    }
+  ],
+  "description": "38 stuks",
+  "image": "/medias/sys_master/prd-images/hbf/h58/27970497380382/prd-front-5532444-1_600x600/prd-front-5532444-1-600x600.jpg"
+}

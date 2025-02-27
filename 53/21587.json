@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Daro Zinkzalf",
+  "code": "21587",
+  "price": "6.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "REMARK GROEP",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/daro-zinkzalf/p/21587",
+  "listName": "Lister",
+  "brand": "Daro",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30266943,
+      "name": "Huidirritatie"
+    }
+  ],
+  "description": "Geneesmiddel - 28g",
+  "image": "/medias/sys_master/prd-images/ha5/h08/32877897383966/prd-front-21587-1_600x600/prd-front-21587-1-600x600.jpg"
+}

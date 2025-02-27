@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris True Match N4 Beige Poeder",
+  "code": "4473729",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-true-match-n4-beige-poeder/p/4473729",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266587,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4473729-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjAwMTZ8aW1hZ2UvanBlZ3xhRGt4TDJobVlpOHhOak0yT1RFNE5qWTJPRFUzTkM5d2NtUXRabkp2Ym5RdE5EUTNNemN5T1MweFh6WXdNSGcyTURBfDM0NTU3ZTE5MjBlNDQ5OWIxMGE4ZGEzNjE3NzJiODg1NjRhMmYyZTg5ZmViZjAxZGI2MTk4OTEyNGRiMTYxODA"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Bio 15+M Groenten Lasagne Maaltijd",
+  "code": "5809690",
+  "price": "2.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 3025 > 3850",
+  "supplier": "SUNVAL BABY FOOD GMBH",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-bio-15m-groenten-lasagne-maaltijd/p/5809690",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266771,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267009,
+      "name": "15+ maanden"
+    }
+  ],
+  "description": "500g",
+  "image": "/medias/prd-front-5809690-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTk1ODd8aW1hZ2UvanBlZ3xhRGd4TDJoaE9DOHlOalF4TURreU56WXlNREV5Tmk5d2NtUXRabkp2Ym5RdE5UZ3dPVFk1TUMweFh6WXdNSGcyTURBfDk0Nzg3NzVlN2U1NWU5OWZhZTY1Mzc2YzZiMjJkYjhiMjg1ZjFmMGFjYTlkNTdlOTZjMDk1NjliODExN2I2MzA"
+}

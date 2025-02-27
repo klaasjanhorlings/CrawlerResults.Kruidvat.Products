@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "GilletteLabs Scheerschuim",
+  "code": "5652214",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2909 > 3706",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049934",
+  "mmkId": "1049934",
+  "productGroupId": "470460",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillettelabs-scheerschuim/p/5652214",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266681,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "240ml",
+  "image": "/medias/prd-front-5652214-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzk5MjV8aW1hZ2UvanBlZ3xhREF3TDJoaFl5OHhOamsxTkRjeU1UVXpNems0TWk5d2NtUXRabkp2Ym5RdE5UWTFNakl4TkMweFh6WXdNSGcyTURBfDc3YzQ3YmM5YzJhYjcwMDNkYTI0NDYwODU5YjBlOGFiNDIzYzk1M2ZmZGYyNWY3Nzc4OTgzNzcxNmI1NzYwZmE"
+}

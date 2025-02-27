@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hartvormige Amberblokjes met Rasp",
+  "code": "6214451",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 5926 > 5962 > 5979 > 5996 > 6679",
+  "supplier": "DRESZ INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/hartvormige-amberblokjes-met-rasp/p/6214451",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266895,
+      "name": "Kaarsen"
+    },
+    {
+      "id": 80866319,
+      "name": "Geurkaarsen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hdf/hf8/32710492618782/prd-front-6214451-1_600x600/prd-front-6214451-1-600x600.jpg"
+}

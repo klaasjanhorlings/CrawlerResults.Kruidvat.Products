@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 40 Den Ondersteunende Kniekous",
+  "code": "5910147",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 6021 > 2207 > 2621 > 3164 > 6629",
+  "supplier": "PANTYTEX SPA",
+  "inStock": "inStock",
+  "onPromo": "1049880",
+  "mmkId": "1049880",
+  "productGroupId": "466639",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-40-den-ondersteunende-kniekous/p/5910147",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266845,
+      "name": "Panty's"
+    }
+  ],
+  "description": "zwart, mt 35-38, 2 paar"
+}

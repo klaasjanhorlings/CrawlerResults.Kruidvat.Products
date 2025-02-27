@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Expert Fondamental Dagcrème",
+  "code": "4064705",
+  "price": "21.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "1049799",
+  "mmkId": "1049799",
+  "productGroupId": "458445",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-expert-fondamental-dagcreme/p/4064705",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h52/ha2/28309024342046/prd-front-4064705-1_600x600/prd-front-4064705-1-600x600.jpg"
+}

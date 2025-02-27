@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Soft Skin Amandelbloesem Badschuim",
+  "code": "1849926",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A or B brand",
+  "discount": "",
+  "url": "/kneipp-soft-skin-amandelbloesem-badschuim/p/1849926",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266655,
+      "name": "Badschuim"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/prd-front-1849926-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTYxMDZ8aW1hZ2UvanBlZ3xhRFJpTDJobE55OHhOakUxTVRReU5qZ3lOakkzTUM5d2NtUXRabkp2Ym5RdE1UZzBPVGt5TmkweFh6WXdNSGcyTURBfDAxMTA5NjA0NmJiMzcwNDQyNGQ2MjM5OWIzNWM2ZDA5NGZjOWY4MmZlMGY2ZTg4MDFhOTkzODViOGQ3ZmI5OGM"
+}

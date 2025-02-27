@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Fresh Vochtig Toiletpapier",
+  "code": "5418918",
+  "price": "0.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2659 > 3347 > 4082",
+  "supplier": "EUROFOUR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-fresh-vochtig-toiletpapier/p/5418918",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266073,
+      "name": "Vochtig toiletpapier"
+    }
+  ],
+  "description": "70 stuks",
+  "image": "/medias/sys_master/prd-images/he7/h5b/27498410967070/prd-front-5418918-1_600x600/prd-front-5418918-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Ponchoslabbetjes",
+  "code": "5629177",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 4362 > 2130 > 2314 > 2710 > 3413",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1049877",
+  "mmkId": "1049877",
+  "productGroupId": "466628",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-ponchoslabbetjes/p/5629177",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266802,
+      "name": "Slabbetjes"
+    }
+  ],
+  "description": "cognackleur, zwart, 2 stuks",
+  "image": "/medias/prd-front-5629177-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODU5NzB8aW1hZ2UvanBlZ3xhR0V5TDJneE1pOHhOams1TVRVd01qVXpNall6T0M5d2NtUXRabkp2Ym5RdE5UWXlPVEUzTnkweFh6WXdNSGcyTURBfDU2ZWNiOTU0MzYxMzBiOWMxMGNmYzVjMjY1YzJjNzQ1NThiMzNmMjE4MzUwOWIxN2ZjZmNmOWMzOWU2MGJhMTY"
+}

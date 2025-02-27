@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Babyleggings",
+  "code": "6184463",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2130 > 2330 > 2730 > 3433 > 4362",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-babyleggings/p/6184463",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266041,
+      "name": "Babykleding"
+    },
+    {
+      "id": 30266854,
+      "name": "Babykledingaccessoires"
+    }
+  ],
+  "description": "mt 74-80, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hcc/h5d/33294070448158/prd-front-6184463-1_600x600/prd-front-6184463-1-600x600.jpg"
+}

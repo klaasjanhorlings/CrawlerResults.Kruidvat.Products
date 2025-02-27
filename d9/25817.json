@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Elastisch Fixatiewindsel",
+  "code": "25817",
+  "price": "1.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2732 > 3651",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-elastisch-fixatiewindsel/p/25817",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266008,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30266737,
+      "name": "Bandages en windsels"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 400cm x 6cm",
+  "image": "/medias/sys_master/prd-images/hf8/h20/28448164577310/prd-front-25817-1_600x600/prd-front-25817-1-600x600.jpg"
+}

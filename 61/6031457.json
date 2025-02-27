@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Derma Indrogende Aanstiplotion bij Puistjes",
+  "code": "6031457",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "MARION PRIVATE LABEL",
+  "inStock": "inStock",
+  "onPromo": "1049867",
+  "mmkId": "1049867",
+  "productGroupId": "465805",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-derma-indrogende-aanstiplotion-bij-puistjes/p/6031457",
+  "listName": "Lister",
+  "brand": "KRUIDVAT DERMA",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50048154,
+      "name": "Verzorging probleemhuid"
+    }
+  ],
+  "description": "30ml, onzuivere huid",
+  "image": "/medias/sys_master/prd-images/hee/h51/33347896279070/prd-front-6031457-1_600x600/prd-front-6031457-1-600x600.jpg"
+}

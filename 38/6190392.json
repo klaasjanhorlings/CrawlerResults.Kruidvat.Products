@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dameslegging",
+  "code": "6190392",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2640 > 3325 > 3802 > 4829 > 5928 > 6038",
+  "supplier": "PARTYXPLOSION BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/dameslegging/p/6190392",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "goudkleur, mt L-XL",
+  "image": "/medias/sys_master/prd-images/h43/hd6/33261012877342/prd-front-6190392-1_600x600/prd-front-6190392-1-600x600.jpg"
+}

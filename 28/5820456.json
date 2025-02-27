@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Guess Sweet Sugar Bodymist",
+  "code": "5820456",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/guess-sweet-sugar-bodymist/p/5820456",
+  "listName": "Lister",
+  "brand": "Guess",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 30266601,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/prd-front-5820456-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjI0NTl8aW1hZ2UvanBlZ3xhRGs0TDJnell5OHlOekV6T1RjeE1UWXpNVE01TUM5d2NtUXRabkp2Ym5RdE5UZ3lNRFExTmkweFh6WXdNSGcyTURBfDk4ZTI5ZWQ5OTUzNmE2YzcwNDdkNjJmZjkzOGE5YWQwODFjYzI2ZDU3OWY5NjkwMGEyMmFjOWVhZmJkMWRhYTU"
+}

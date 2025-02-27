@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Davitamon Magnesiumcitraat + Magnesiumoxide Tabletten",
+  "code": "4695055",
+  "price": "17.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "1049774",
+  "mmkId": "1049774",
+  "productGroupId": "456312",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/davitamon-magnesiumcitraat-magnesiumoxide-tabletten/p/4695055",
+  "listName": "Lister",
+  "brand": "Davitamon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001842,
+      "name": "Magnesium"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/he5/he7/31451750727710/prd-front-4695055-1_600x600/prd-front-4695055-1-600x600.jpg"
+}

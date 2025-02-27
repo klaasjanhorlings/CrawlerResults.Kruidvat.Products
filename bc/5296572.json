@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Crunchy Caramel Vanille Proteïnereep",
+  "code": "5296572",
+  "price": "1.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6385 > 6386",
+  "supplier": "PRINSEN BV",
+  "inStock": "inStock",
+  "onPromo": "1049859",
+  "mmkId": "1049859",
+  "productGroupId": "465112",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-crunchy-caramel-vanille-proteinereep/p/5296572",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266751,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/h37/h58/28909874511902/prd-front-5296572-1_600x600/prd-front-5296572-1-600x600.jpg"
+}

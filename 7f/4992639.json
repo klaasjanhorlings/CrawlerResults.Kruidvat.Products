@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Foamie Shake Your Coconuts Shampoo Bar",
+  "code": "4992639",
+  "price": "5.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 6600",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/foamie-shake-your-coconuts-shampoo-bar/p/4992639",
+  "listName": "Lister",
+  "brand": "Foamie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "65g",
+  "image": "/medias/prd-front-4992639-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODM5OTh8aW1hZ2UvanBlZ3xhREEzTDJoak9DOHlOalF4TXpVeE16RXhNell6TUM5d2NtUXRabkp2Ym5RdE5EazVNall6T1MweFh6WXdNSGcyTURBfGYzMjZkMWY4Njg1ZTQzYTI2OWFiZTRlNGExNTFhMWQzZTNjOGM0NWU4ZTcwZDA1MDEzYzRkMzkzMmRlZTI3NWI"
+}

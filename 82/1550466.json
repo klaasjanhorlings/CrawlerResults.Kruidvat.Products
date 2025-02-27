@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B Pro-Expert Gevoelige Tanden Tandpasta",
+  "code": "1550466",
+  "price": "4.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049911",
+  "mmkId": "1049911",
+  "productGroupId": "469360",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-pro-expert-gevoelige-tanden-tandpasta/p/1550466",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hc5/hf7/33495454253086/prd-front-1550466-1_600x600/prd-front-1550466-1-600x600.jpg"
+}

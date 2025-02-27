@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "King C. Gillette Style Master Tondeuse",
+  "code": "5662203",
+  "price": "49.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5720 > 3869",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049937",
+  "mmkId": "1049937",
+  "productGroupId": "470600",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/king-c-gillette-style-master-tondeuse/p/5662203",
+  "listName": "Lister",
+  "brand": "King C",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266686,
+      "name": "Baardtrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5662203-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzIzMTJ8aW1hZ2UvanBlZ3xhR1EwTDJnNFlpOHhOakE1TlRFd09UYzNOVE01TUM5d2NtUXRabkp2Ym5RdE5UWTJNakl3TXkweFh6WXdNSGcyTURBfGI4NzFhZDdkNTc1YjMxZWI2NjgwYTlmMWQ5MjgwZTI1NzliYzhlNzg3NTFlMjk5YWQxYzQ3MGE2Y2I1ZjgzY2I"
+}

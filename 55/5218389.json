@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat ECO 3-laags Toiletpapier",
+  "code": "5218389",
+  "price": "2.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
+  "supplier": "WEPA FRANCE SAS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-eco-3-laags-toiletpapier/p/5218389",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266072,
+      "name": "Toiletpapier"
+    }
+  ],
+  "description": "6 rollen",
+  "image": "/medias/sys_master/prd-images/hb4/h08/28051784237086/prd-front-5218389-1_600x600/prd-front-5218389-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Solait Self Tan Bronzing Cream",
+  "code": "4059560",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
+  "supplier": "DELARANGE COSMETICS",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-solait-self-tan-bronzing-cream/p/4059560",
+  "listName": "Lister",
+  "brand": "Kruidvat Solait",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266659,
+      "name": "Zelfbruiners"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hbe/h9c/27270870630430/prd-front-4059560-1_600x600/prd-front-4059560-1-600x600.jpg"
+}

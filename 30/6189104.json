@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Baylis & Harding Kindness+ Plant Collagen Body Wash",
+  "code": "6189104",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "1049849",
+  "mmkId": "1049849",
+  "productGroupId": "463181",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/baylis-harding-kindness-plant-collagen-body-wash/p/6189104",
+  "listName": "Lister",
+  "brand": "Baylis",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "500ml"
+}

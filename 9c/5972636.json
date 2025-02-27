@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wellaflex Men All-Day Definition Ultra Strong Gel",
+  "code": "5972636",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
+  "supplier": "WELLA COMPANY",
+  "inStock": "inStock",
+  "onPromo": "1049778",
+  "mmkId": "1049778",
+  "productGroupId": "456651",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wellaflex-men-all-day-definition-ultra-strong-gel/p/5972636",
+  "listName": "Lister",
+  "brand": "Wellaflex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266928,
+      "name": "Haargel"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hf8/h3b/28820183842846/prd-front-5972636-1_600x600/prd-front-5972636-1-600x600.jpg"
+}

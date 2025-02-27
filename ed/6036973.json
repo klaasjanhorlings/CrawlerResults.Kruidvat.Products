@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Silk-épil 5 Epilator",
+  "code": "6036973",
+  "price": "94.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2399 > 5075 > 5886 > 6439",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049954",
+  "mmkId": "1049954",
+  "productGroupId": "473420",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-silk-epil-5-epilator/p/6036973",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266687,
+      "name": "Epilators"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha2/haf/30015958056990/prd-front-6036973-1_600x600/prd-front-6036973-1-600x600.jpg"
+}

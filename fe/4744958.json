@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "3-Daagse Citytrip",
+  "code": "4744958",
+  "price": "179.0",
+  "priceOriginal": "",
+  "itemBgbcat": "4870 > 6447 > 4891 > 4892 > 4893 > 4894",
+  "supplier": "FLYWISE TRAVEL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/3-daagse-citytrip/p/4744958",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536083,
+      "name": "Tickets"
+    },
+    {
+      "id": 30266048,
+      "name": "Vakantie"
+    },
+    {
+      "id": 30266871,
+      "name": "Vakantie"
+    }
+  ],
+  "description": "Reis met minimaal 2 personen"
+}

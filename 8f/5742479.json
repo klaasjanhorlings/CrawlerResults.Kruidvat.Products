@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Happy Earth Baby & Kids 100% Natural Shampoo",
+  "code": "5742479",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
+  "supplier": "ORANGE-SHEEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/happy-earth-baby-kids-100-natural-shampoo/p/5742479",
+  "listName": "Lister",
+  "brand": "Happy Earth",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266775,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267012,
+      "name": "Babyshampoo"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-5742479-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTgxOTl8aW1hZ2UvanBlZ3xhR1ZpTDJobU1pOHhOamc0T1RRMU1qQXdNek0xT0M5d2NtUXRabkp2Ym5RdE5UYzBNalEzT1MweFh6WXdNSGcyTURBfDI0YTAyNThiMWM1NmEwMjA1YjUwZDBlZjFjM2FkNWZhYzY4ZWNiOTNhNGEzNGNhODQzYjliNWE0MWZmYTE0Njc"
+}

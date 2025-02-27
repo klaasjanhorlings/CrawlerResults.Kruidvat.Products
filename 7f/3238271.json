@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Men Comfort Face Wash",
+  "code": "3238271",
+  "price": "2.75",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6668",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1049933",
+  "mmkId": "1049933",
+  "productGroupId": "470456",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-men-comfort-face-wash/p/3238271",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266611,
+      "name": "Gezichtsreiniging mannen"
+    }
+  ],
+  "description": "150ml - Normale en gevoelige huid",
+  "image": "/medias/prd-front-3238271-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjMxMTl8aW1hZ2UvanBlZ3xhR05oTDJnMFpDOHlOamt3TWpFMU1UWTVNak14T0M5d2NtUXRabkp2Ym5RdE16SXpPREkzTVMweFh6WXdNSGcyTURBfGFjZTRiNjE3MjExN2U4MWMwM2Q5OGY4NjZkNzMyZGM0N2QwOGI1YmE0NTczNzA3ZWNkNTI5ODEyNTIwNGYyNGU"
+}

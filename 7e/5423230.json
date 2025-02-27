@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "As I Am Curl Clarity Shampoo",
+  "code": "5423230",
+  "price": "12.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/as-i-am-curl-clarity-shampoo/p/5423230",
+  "listName": "Lister",
+  "brand": "As I Am",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "237ml",
+  "image": "/medias/sys_master/prd-images/h1f/h35/27775576408094/prd-front-5423230-1_600x600/prd-front-5423230-1-600x600.jpg"
+}

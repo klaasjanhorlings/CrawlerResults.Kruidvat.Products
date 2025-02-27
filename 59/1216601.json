@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Prodent Cool Mint Tandpasta",
+  "code": "1216601",
+  "price": "1.85",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049882",
+  "mmkId": "1049882",
+  "productGroupId": "466898",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/prodent-cool-mint-tandpasta/p/1216601",
+  "listName": "Lister",
+  "brand": "Prodent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/he2/hd5/31295657967646/prd-front-1216601-1_600x600/prd-front-1216601-1-600x600.jpg"
+}

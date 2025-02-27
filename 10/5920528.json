@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dextro Energy Orange Flavour Liquid Gel",
+  "code": "5920528",
+  "price": "2.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6389 > 6390",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "inStock",
+  "onPromo": "1049776",
+  "mmkId": "1049776",
+  "productGroupId": "456361",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dextro-energy-orange-flavour-liquid-gel/p/5920528",
+  "listName": "Lister",
+  "brand": "Dextro",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266751,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/hd6/h4b/33221693308958/prd-front-5920528-1_600x600/prd-front-5920528-1-600x600.jpg"
+}

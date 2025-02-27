@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medela Wasbare Zoogkompressen",
+  "code": "3497698",
+  "price": "14.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "MEDELA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1049901",
+  "mmkId": "1049901",
+  "productGroupId": "467987",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medela-wasbare-zoogkompressen/p/3497698",
+  "listName": "Lister",
+  "brand": "Medela",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30266806,
+      "name": "Zoogkompressen"
+    }
+  ],
+  "description": "4 stuks",
+  "image": "/medias/prd-front-3497698-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjgzNTl8aW1hZ2UvanBlZ3xhRGszTDJoa1pDOHhOelF4TURrd056WXpOVGMwTWk5d2NtUXRabkp2Ym5RdE16UTVOelk1T0MweFh6WXdNSGcyTURBfDU5NWI3OWIwN2M0MjMxMmJmMGQzMjQ0NzY1ZjA4NzIzNmY0YzNlMWI2MjU0NmIzMzg5NGE2NTIyNzRiNTQ5OGM"
+}

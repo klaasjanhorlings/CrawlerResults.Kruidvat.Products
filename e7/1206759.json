@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "A.Vogel Echinaforce Sterk** Tabletten",
+  "code": "1206759",
+  "price": "17.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
+  "supplier": "A.VOGEL",
+  "inStock": "inStock",
+  "onPromo": "1049793",
+  "mmkId": "1049793",
+  "productGroupId": "458066",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/avogel-echinaforce-sterk-tabletten/p/1206759",
+  "listName": "Lister",
+  "brand": "A.Vogel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49950694,
+      "name": "Natuurlijke supplementen"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h29/he0/32568091508766/prd-front-1206759-1_600x600/prd-front-1206759-1-600x600.jpg"
+}

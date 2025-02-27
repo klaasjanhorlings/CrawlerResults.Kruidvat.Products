@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Petal Fresh Pure Rosemary & Mint Volumizing Shampoo",
+  "code": "4036110",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/petal-fresh-pure-rosemary-mint-volumizing-shampoo/p/4036110",
+  "listName": "Lister",
+  "brand": "Petal Fresh pure",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "355ml",
+  "image": "/medias/prd-front-4036110-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDg2ODl8aW1hZ2UvanBlZ3xhREl6TDJneE5DOHhOelF3TkRNNU56TTROemd3Tmk5d2NtUXRabkp2Ym5RdE5EQXpOakV4TUMweFh6WXdNSGcyTURBfGRmOGE4N2RkN2NiZWQ5ZjFhOTY2MDM4ZGEzOTVmMzE4OThhYzgxZmVkOTM2ZjZjOGE1Y2ZhNDg4NzhiYTYxYzA"
+}

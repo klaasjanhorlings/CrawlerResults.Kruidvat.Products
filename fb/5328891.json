@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Neopreen Kniebandage",
+  "code": "5328891",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 2698 > 3778",
+  "supplier": "TOBY'S BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-neopreen-kniebandage/p/5328891",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266741,
+      "name": "Sport, -blessures en herstel"
+    },
+    {
+      "id": 57912684,
+      "name": "Braces en bandages"
+    }
+  ],
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h48/h04/27817251766302/prd-front-5328891-1_600x600/prd-front-5328891-1-600x600.jpg"
+}

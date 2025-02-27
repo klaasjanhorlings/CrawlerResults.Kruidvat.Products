@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Breathe Right Gevoelige Huid Neusstrips",
+  "code": "6159333",
+  "price": "18.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6207 > 6225 > 6598",
+  "supplier": "THEOTCLAB HEALTHCARE BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/breathe-right-gevoelige-huid-neusstrips/p/6159333",
+  "listName": "Lister",
+  "brand": "Breathe Right",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 49950093,
+      "name": "Snurken"
+    }
+  ],
+  "description": "Medisch hulpmiddel - mt S-M, 30 stuks",
+  "image": "/medias/sys_master/prd-images/h07/h4c/31699621281822/prd-front-6159333-1_600x600/prd-front-6159333-1-600x600.jpg"
+}

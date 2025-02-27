@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. Beckmann Ultra Intensieve Wasmachinereiniger",
+  "code": "3076480",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3112 > 3978",
+  "supplier": "BENCKMAR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dr-beckmann-ultra-intensieve-wasmachinereiniger/p/3076480",
+  "listName": "Lister",
+  "brand": "Dr. Beckmann",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144743,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/prd-front-3076480-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODM0NDV8aW1hZ2UvanBlZ3xhR0UzTDJnNFpTOHlOalUzTWpreE1qQXpNemd5TWk5d2NtUXRabkp2Ym5RdE16QTNOalE0TUMweFh6WXdNSGcyTURBfDkwNWNkOWQ4NDMxNTU0OTEwMzFhZWVlM2RhMDNiMTYzYmYyOGE4MmYzOTgwY2ZkMmY0ZjE0NWFjOTk1OTA5ZTg"
+}

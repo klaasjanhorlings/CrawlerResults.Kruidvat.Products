@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 100% Pure Whey met Aardbeismaak",
+  "code": "3749061",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
+  "supplier": "PRINSEN BV",
+  "inStock": "inStock",
+  "onPromo": "1049858",
+  "mmkId": "1049858",
+  "productGroupId": "465111",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-100-pure-whey-met-aardbeismaak/p/3749061",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266750,
+      "name": "Proteine eiwit poeders"
+    }
+  ],
+  "description": "1250g",
+  "image": "/medias/sys_master/prd-images/h81/h4e/33361439391774/prd-front-3749061-1_600x600/prd-front-3749061-1-600x600.jpg"
+}

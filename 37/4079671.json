@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Vital Soja SPF30 Anti-Age Verstevigende Dagcrème",
+  "code": "4079671",
+  "price": "27.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1049818",
+  "mmkId": "1049818",
+  "productGroupId": "460033",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-vital-soja-spf30-anti-age-verstevigende-dagcreme/p/4079671",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h34/h68/32805642076190/prd-front-4079671-1_600x600/prd-front-4079671-1-600x600.jpg"
+}

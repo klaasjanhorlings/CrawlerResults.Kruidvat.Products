@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Styling Perfecte Krul Mousse",
+  "code": "1334740",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-styling-perfecte-krul-mousse/p/1334740",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266932,
+      "name": "Haarmousse"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-1334740-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzk2MTV8aW1hZ2UvanBlZ3xhR1JoTDJneU1pOHhOakU1T0RRMU56RXpNVEF6T0M5d2NtUXRabkp2Ym5RdE1UTXpORGMwTUMweFh6WXdNSGcyTURBfDJkYmRiNDU0MDJkOGY1MmE4MWVlYjM3ZWM2Y2JjNTMyMThlYjg4MzMyNWVhZjMzZTU4Yzc3YTQ1Y2FkNmVmYmM"
+}

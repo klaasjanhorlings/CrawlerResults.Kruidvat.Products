@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Calvin Klein CK In2U Him Eau de Toilette",
+  "code": "3549169",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "SAR TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/calvin-klein-ck-in2u-him-eau-de-toilette/p/3549169",
+  "listName": "Lister",
+  "brand": "Calvin Klein",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654823,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-3549169-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzIyNDR8aW1hZ2UvanBlZ3xhREJsTDJobVppOHhOakV4TXpZNE5UVTVOREUwTWk5d2NtUXRabkp2Ym5RdE16VTBPVEUyT1MweFh6WXdNSGcyTURBfDJiNWM2ZmY0ODY5NmZiZDM0NTU5YTdhMzg2MzIzZmY2ODgxNzY5YjFkZjhmY2U3MjI0ODMzODk0NTY1OTI2Y2Q"
+}

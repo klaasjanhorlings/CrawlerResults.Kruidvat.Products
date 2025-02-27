@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat k675 Blusherkwast",
+  "code": "5659732",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6327",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-k675-blusherkwast/p/5659732",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266617,
+      "name": "Make-up kwasten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5659732-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQzNjl8aW1hZ2UvanBlZ3xhRFZqTDJnM1ppOHhOakUxTnpVNE1UYzNNRGM0TWk5d2NtUXRabkp2Ym5RdE5UWTFPVGN6TWkweFh6WXdNSGcyTURBfDcwMjE0MzlkOGQ4Y2JlY2E0YjU4YjA3YmEwZTE5OTcyNGU5NmE1YmQxNjQzNDAyMzhkZjhhZTJhYjYzZmM5NGU"
+}

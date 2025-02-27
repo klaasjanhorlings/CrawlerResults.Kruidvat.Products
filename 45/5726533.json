@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yeauty Energy Elixir Oogmaskers",
+  "code": "5726533",
+  "price": "1.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/yeauty-energy-elixir-oogmaskers/p/5726533",
+  "listName": "Lister",
+  "brand": "Yeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266607,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5726533-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODgyMDN8aW1hZ2UvanBlZ3xhR00xTDJneFppOHhOelEwTXpnNU5qazRNelU0TWk5d2NtUXRabkp2Ym5RdE5UY3lOalV6TXkweFh6WXdNSGcyTURBfDcxMTcyOWEzNjIxNGZlNzc5OWU4NDc1NmRlNGVmMzZkOGFiYjkwMjgxYmRlZjNlOWUwOWQ3YTY5Mjg0YTk3NDM"
+}

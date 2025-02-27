@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Licener Anti-Luisshampoo",
+  "code": "4966319",
+  "price": "18.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3103 > 4116",
+  "supplier": "PRONOVA LABORATORIES",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/licener-anti-luisshampoo/p/4966319",
+  "listName": "Lister",
+  "brand": "Licener",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266703,
+      "name": "Hoofdluis"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 100ml"
+}

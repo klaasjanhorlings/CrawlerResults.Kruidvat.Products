@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Parel Warm Koud Kompres",
+  "code": "5826175",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2813 > 3555",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-parel-warm-koud-kompres/p/5826175",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266008,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30266738,
+      "name": "Kompressen"
+    }
+  ],
+  "description": "10cm x 25cm",
+  "image": "/medias/sys_master/prd-images/h74/hc6/27470544437278/prd-front-5826175-1_600x600/prd-front-5826175-1-600x600.jpg"
+}

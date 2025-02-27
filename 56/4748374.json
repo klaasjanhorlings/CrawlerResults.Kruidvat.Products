@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal D-Mannose Blaasontsteking Bruistabletten",
+  "code": "4748374",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6228 > 6597",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1049801",
+  "mmkId": "1049801",
+  "productGroupId": "458846",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-d-mannose-blaasontsteking-bruistabletten/p/4748374",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 52585207,
+      "name": "Blaasontsteking"
+    }
+  ],
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/prd-front-4748374-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njc4MTB8aW1hZ2UvanBlZ3xhR1V6TDJneVppOHhOalUzTXpZeE9EZzBOemMzTkM5d2NtUXRabkp2Ym5RdE5EYzBPRE0zTkMweFh6WXdNSGcyTURBfDM5ZWZmMjQyYjY0M2Q5MWE0N2MwYmRhOWY5MmQzMTVlMGNhMmU4ODk3MzVmOTUzYjA2YTY4N2U5N2IyMjM4MDI"
+}

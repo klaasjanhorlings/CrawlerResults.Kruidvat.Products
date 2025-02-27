@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Soft Skin Amandelbloesem Badolie",
+  "code": "17985",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A or B brand",
+  "discount": "",
+  "url": "/kneipp-soft-skin-amandelbloesem-badolie/p/17985",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266653,
+      "name": "Badolie"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-17985-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAxMjM3fGltYWdlL2pwZWd8YUdFeEwyZzNOaTh5TmprMk5qUTVNelkxT1RFMk5pOXdjbVF0Wm5KdmJuUXRNVGM1T0RVdE1WODJNREI0TmpBd3w3NjIzNmQ3NTQ0MDNkM2U0MDBjZGZmMTkxZDUxZDIwYTJmYmE4M2YyMjM1ZjdlOGFiOTE5OGZlYWUxZGEzN2Rl"
+}

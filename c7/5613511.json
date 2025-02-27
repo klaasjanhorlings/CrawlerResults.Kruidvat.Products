@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Spuugdoekjes",
+  "code": "5613511",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 4362 > 2130 > 2499 > 3106 > 3973",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1049877",
+  "mmkId": "1049877",
+  "productGroupId": "466628",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-spuugdoekjes/p/5613511",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266779,
+      "name": "Snoetenpoetsers"
+    }
+  ],
+  "description": "wit, 30cm x 30cm, 3 stuks",
+  "image": "/medias/sys_master/prd-images/hec/h37/28808589574174/prd-front-5613511-1_600x600/prd-front-5613511-1-600x600.jpg"
+}

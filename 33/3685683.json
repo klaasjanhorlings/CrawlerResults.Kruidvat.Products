@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Dermo Protector 48-Uur Antitranspirant Roller",
+  "code": "3685683",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "1049745",
+  "mmkId": "1049745",
+  "productGroupId": "452650",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-dermo-protector-48-uur-antitranspirant-roller/p/3685683",
+  "listName": "Lister",
+  "brand": "Sanex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266643,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "50ml - Alle huidtypes",
+  "image": "/medias/sys_master/prd-images/hc6/had/29835040784414/prd-front-3685683-1_600x600/prd-front-3685683-1-600x600.jpg"
+}

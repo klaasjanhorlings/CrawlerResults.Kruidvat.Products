@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Originals Sensitive Dagcrème",
+  "code": "716905",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "PHARCONA GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-originals-sensitive-dagcreme/p/716905",
+  "listName": "Lister",
+  "brand": "Kruidvat Originals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "100ml - Droge en gevoelige huid",
+  "image": "/medias/prd-front-716905-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njg0NDB8aW1hZ2UvanBlZ3xhRFEwTDJnME1TOHlOamsxTWprME5UZzVNelF3Tmk5d2NtUXRabkp2Ym5RdE56RTJPVEExTFRGZk5qQXdlRFl3TUF8MmU5NjNhODI4NGRlNzQ2NTYxMzkxNmVkYmMzMzZhMTI2YmE3YTc0YzAzMDBlZDE3NjdiZmMyNGQzOWYxZDU0OA"
+}

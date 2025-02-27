@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Frontline Combo Hond S 2-10kg Vlooien- en Tekenbehandeling",
+  "code": "5298238",
+  "price": "11.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2081 > 2239 > 2360 > 5760 > 5761",
+  "supplier": "BI AH NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "1049769",
+  "mmkId": "1049769",
+  "productGroupId": "455946",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/frontline-combo-hond-s-2-10kg-vlooien-en-tekenbehandeling/p/5298238",
+  "listName": "Lister",
+  "brand": "Frontline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266077,
+      "name": "Dier"
+    },
+    {
+      "id": 30266891,
+      "name": "Diergezondheid"
+    }
+  ],
+  "description": "0,67ml, mt S",
+  "image": "/medias/sys_master/prd-images/h52/h01/27770257539102/prd-front-5298238-1_600x600/prd-front-5298238-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Warmtepleister",
+  "code": "2927079",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 3956",
+  "supplier": "DR. KLEINE PHARMA GMHB",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-warmtepleister/p/2927079",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266708,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30266976,
+      "name": "Warmtepleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 2 stuks",
+  "image": "/medias/prd-front-2927079-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzc4MDB8aW1hZ2UvanBlZ3xhREkwTDJoaE9TOHhOamN4T0RJek5qZzNOamd6TUM5d2NtUXRabkp2Ym5RdE1qa3lOekEzT1MweFh6WXdNSGcyTURBfDI3MDhmZDcxZDY5ODJhMjJiMDRmMzE3MTU5NjFlYzMwMDdiM2E2NTAxZDUwNjEwMGYwODY1YmJmMzhiNDU2Y2E"
+}

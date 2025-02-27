@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutral Normal Parfumvrije Shampoo",
+  "code": "2859998",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049753",
+  "mmkId": "1049753",
+  "productGroupId": "454551",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutral-normal-parfumvrije-shampoo/p/2859998",
+  "listName": "Lister",
+  "brand": "Neutral",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h2e/h5a/28818790547486/prd-front-2859998-1_600x600/prd-front-2859998-1-600x600.jpg"
+}

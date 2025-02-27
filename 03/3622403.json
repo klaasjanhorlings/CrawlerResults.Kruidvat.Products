@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Verzorgende Olie",
+  "code": "3622403",
+  "price": "3.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 3115 > 3981",
+  "supplier": "VIOKOX SA",
+  "inStock": "inStock",
+  "onPromo": "1049931",
+  "mmkId": "1049931",
+  "productGroupId": "470431",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-verzorgende-olie/p/3622403",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266682,
+      "name": "Ontharingscreme, wax en hars"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hb2/h23/27770087735326/prd-front-3622403-1_600x600/prd-front-3622403-1-600x600.jpg"
+}

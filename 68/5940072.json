@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Le Désir Kanten Mini-Jurk",
+  "code": "5940072",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6038 > 6041 > 6745 > 6746 > 6748",
+  "supplier": "SHOTS MEDIA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/le-desir-kanten-mini-jurk/p/5940072",
+  "listName": "Lister",
+  "brand": "LE DESIR",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266842,
+      "name": "Damesondergoed"
+    }
+  ],
+  "description": "zwart, mt S-XL",
+  "image": "/medias/sys_master/prd-images/hdf/h6e/28371805372446/prd-front-5940072-1_600x600/prd-front-5940072-1-600x600.jpg"
+}

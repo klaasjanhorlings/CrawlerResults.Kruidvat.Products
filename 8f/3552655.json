@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat PR13 Hoorbatterijen",
+  "code": "3552655",
+  "price": "3.09",
+  "priceOriginal": "",
+  "itemBgbcat": "6013 > 2134 > 2446 > 2946 > 3740 > 2007",
+  "supplier": "ADVANCED POWER SOLUT",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pr13-hoorbatterijen/p/3552655",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266055,
+      "name": "Batterijen"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/h83/h9b/27758951890974/prd-front-3552655-1_600x600/prd-front-3552655-1-600x600.jpg"
+}

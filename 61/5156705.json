@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 3 Midi Luiers Valuepack",
+  "code": "5156705",
+  "price": "10.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4350 > 4351",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-3-midi-luiers-valuepack/p/5156705",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266017,
+      "name": "Luiers"
+    },
+    {
+      "id": 30266786,
+      "name": "Luiers maat 3"
+    }
+  ],
+  "description": "mt 3 (4-9 kg), 58 stuks",
+  "image": "/medias/sys_master/prd-images/h9e/hdc/31621889818654/prd-front-5156705-1_600x600/prd-front-5156705-1-600x600.jpg"
+}

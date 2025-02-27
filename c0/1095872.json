@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Cleansing Reinigingsgel voor de Normale en Gemengde Huid",
+  "code": "1095872",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "1049866",
+  "mmkId": "1049866",
+  "productGroupId": "465802",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-cleansing-reinigingsgel-voor-de-normale-en-gemengde-huid/p/1095872",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266915,
+      "name": "Reinigingsgel"
+    }
+  ],
+  "description": "150ml - Normale en gecombineerde huid",
+  "image": "/medias/sys_master/prd-images/h74/h0d/27805961912350/prd-front-1095872-1_600x600/prd-front-1095872-1-600x600.jpg"
+}

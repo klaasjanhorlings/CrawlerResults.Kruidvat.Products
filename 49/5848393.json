@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Creator 31139 3-in-1 Knus Huis",
+  "code": "5848393",
+  "price": "54.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-creator-31139-3-in-1-knus-huis/p/5848393",
+  "listName": "Lister",
+  "brand": "LEGO Creator",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266815,
+      "name": "LEGO Creator"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5848393-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTA1MDkyfGltYWdlL2pwZWd8YURJMkwyZ3dZaTh5TnpBeE1USTRNRFV3TWpneE5DOXdjbVF0Wm5KdmJuUXROVGcwT0RNNU15MHhYell3TUhnMk1EQXwzYzFkNjlhMTk0MDE2ODI0YWU1ZTg5NmVhNDNhZDhiNmE5NmUwNzRiNzI3MjE2Mzg0NjAzNmVjY2Y4MjU5NTU4"
+}

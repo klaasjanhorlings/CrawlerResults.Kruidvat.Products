@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tweezerman Slant Tweezer",
+  "code": "5782614",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6329 > 6674",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tweezerman-slant-tweezer/p/5782614",
+  "listName": "Lister",
+  "brand": "Tweezerman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266621,
+      "name": "Pincetten"
+    }
+  ],
+  "description": "roségoud",
+  "image": "/medias/prd-front-5782614-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzEwNzB8aW1hZ2UvanBlZ3xhR1F5TDJobU55OHhOekl3TkRJM01qazFOVFF5TWk5d2NtUXRabkp2Ym5RdE5UYzRNall4TkMweFh6WXdNSGcyTURBfDJkYzBiZTMwOWJmOTA2MmQ5Y2ZiMTExMDFmNTMxYzBiNTRlOWJmNWYwMTE1ODcwMDRmMmNhMWM4MGRkODc5MzY"
+}

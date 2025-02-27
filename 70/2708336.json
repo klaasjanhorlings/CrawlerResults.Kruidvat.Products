@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Lactulose 667mg/ml Stroop Laxeerdrank",
+  "code": "2708336",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2759 > 3950",
+  "supplier": "AUROBINDO PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-lactulose-667mg/ml-stroop-laxeerdrank/p/2708336",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266707,
+      "name": "Maag en darm"
+    },
+    {
+      "id": 30266973,
+      "name": "Laxeermiddelen"
+    }
+  ],
+  "description": "Geneesmiddel - 200ml",
+  "image": "/medias/sys_master/prd-images/hf1/hf4/29753202245662/prd-front-2708336-1_600x600/prd-front-2708336-1-600x600.jpg"
+}

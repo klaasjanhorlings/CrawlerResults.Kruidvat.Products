@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Anti-Luis Haarlotion",
+  "code": "4472483",
+  "price": "9.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3103 > 4116",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-anti-luis-haarlotion/p/4472483",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266703,
+      "name": "Hoofdluis"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 100ml",
+  "image": "/medias/prd-front-4472483-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzcxNTJ8aW1hZ2UvanBlZ3xhR1V5TDJneU5DOHlOall5TlRNNE9Ea3dORFEzT0M5d2NtUXRabkp2Ym5RdE5EUTNNalE0TXkweFh6WXdNSGcyTURBfDBhZDZlNmM0MTYwMzU1ZTc1MjViNjJlMzc1OTAyMWM4MmZkMGI2Y2I2YTUyNTE4MTE0ZWQwMzU4NmM5ODIwYTI"
+}

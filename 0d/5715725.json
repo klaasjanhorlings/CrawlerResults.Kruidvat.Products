@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Stapelbare Badbootjes",
+  "code": "5715725",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "SOLUTION EU BV",
+  "inStock": "inStock",
+  "onPromo": "1049876",
+  "mmkId": "1049876",
+  "productGroupId": "466624",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-stapelbare-badbootjes/p/5715725",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30266830,
+      "name": "Badspeelgoed"
+    }
+  ],
+  "description": "blauw, geel, roze, 3 stuks",
+  "image": "/medias/sys_master/prd-images/h85/hfd/28511371853854/prd-front-5715725-1_600x600/prd-front-5715725-1-600x600.jpg"
+}

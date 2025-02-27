@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Café Latte Maaltijdshake",
+  "code": "5294311",
+  "price": "11.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2707 > 3891",
+  "supplier": "PRINSEN BV",
+  "inStock": "inStock",
+  "onPromo": "1049856",
+  "mmkId": "1049856",
+  "productGroupId": "465106",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-cafe-latte-maaltijdshake/p/5294311",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 30266743,
+      "name": "Maaltijdvervangers"
+    }
+  ],
+  "description": "434g",
+  "image": "/medias/sys_master/prd-images/h8a/haa/32363827953694/prd-front-5294311-1_600x600/prd-front-5294311-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Spierbalsem Hydrofiele Crème",
+  "code": "30870",
+  "price": "2.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "MAE HOLDING BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-spierbalsem-hydrofiele-creme/p/30870",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266708,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30266978,
+      "name": "Spierwrijfmiddelen"
+    }
+  ],
+  "description": "30g",
+  "image": "/medias/prd-front-30870-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTY3NDF8aW1hZ2UvanBlZ3xhREkwTDJobE9DOHhOalUzT0RVd056TTNORFl5TWk5d2NtUXRabkp2Ym5RdE16QTROekF0TVY4Mk1EQjROakF3fGY3Mjk3NmRkMWY5ZTM3MWZmYzE5NWUzZjRlNTVlNDZlN2Q2NTllM2Q5MWY3M2IzZDkyZTI2MWM0YjcwNjZhM2I"
+}

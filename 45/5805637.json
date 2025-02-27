@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "M&M Crispy Partyzak",
+  "code": "5805637",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "MARS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/m-m-crispy-partyzak/p/5805637",
+  "listName": "Lister",
+  "brand": "M&M",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "850g",
+  "image": "/medias/prd-front-5805637-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODY3NjR8aW1hZ2UvanBlZ3xhRFE1TDJnMllTOHhOelV4TVRjd05qazRORFEzT0M5d2NtUXRabkp2Ym5RdE5UZ3dOVFl6TnkweFh6WXdNSGcyTURBfDBkMTYyMTlmNjhmMmVhZDY0NmE4NWNiYzI4YTgxYzQ1ZWU2NWYyZGE1Y2IxZGQ1YmM0MzkxYTMyYmFmOGRkNzc"
+}

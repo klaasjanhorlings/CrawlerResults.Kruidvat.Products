@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Derma Skin Clear Scrub",
+  "code": "5757340",
+  "price": "11.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1049846",
+  "mmkId": "1049846",
+  "productGroupId": "462461",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-derma-skin-clear-scrub/p/5757340",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266921,
+      "name": "Reinigingsscrub"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hee/h2f/32924320399390/prd-front-5757340-1_600x600/prd-front-5757340-1-600x600.jpg"
+}

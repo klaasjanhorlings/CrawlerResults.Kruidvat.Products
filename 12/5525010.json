@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 6+M Spinazie, Witvis, Rijst",
+  "code": "5525010",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049923",
+  "mmkId": "1049923",
+  "productGroupId": "469789",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-6m-spinazie-witvis-rijst/p/5525010",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266771,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267006,
+      "name": "6+ maanden"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h5e/hed/30686943641630/prd-front-5525010-1_600x600/prd-front-5525010-1-600x600.jpg"
+}

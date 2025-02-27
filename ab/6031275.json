@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat VitMix Skin Glow Vitaminepakket",
+  "code": "6031275",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6193 > 6211 > 6233",
+  "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-vitmix-skin-glow-vitaminepakket/p/6031275",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266719,
+      "name": "Beautysupplementen"
+    }
+  ],
+  "description": "28 x 3 stuks",
+  "image": "/medias/sys_master/prd-images/h58/h8a/30411556651038/prd-front-6031275-1_600x600/prd-front-6031275-1-600x600.jpg"
+}

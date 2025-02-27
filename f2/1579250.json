@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Q10 Verstevigende Bodylotion",
+  "code": "1579250",
+  "price": "17.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1049790",
+  "mmkId": "1049790",
+  "productGroupId": "457631",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-q10-verstevigende-bodylotion/p/1579250",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265995,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30266637,
+      "name": "Bodylotion"
+    }
+  ],
+  "description": "400ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hb6/h5a/32900963205150/prd-front-1579250-1_600x600/prd-front-1579250-1-600x600.jpg"
+}

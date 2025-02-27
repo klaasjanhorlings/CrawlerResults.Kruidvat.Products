@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Sensitive Extra Skin-Friendly Pleisters",
+  "code": "4744839",
+  "price": "13.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3032 > 4109",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1049836",
+  "mmkId": "1049836",
+  "productGroupId": "461543",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hansaplast-sensitive-extra-skin-friendly-pleisters/p/4744839",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266008,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30266739,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414198,
+      "name": "Sensitive pleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 5m x 6cm",
+  "image": "/medias/sys_master/prd-images/h8d/hff/32901571969054/prd-front-4744839-1_600x600/prd-front-4744839-1-600x600.jpg"
+}

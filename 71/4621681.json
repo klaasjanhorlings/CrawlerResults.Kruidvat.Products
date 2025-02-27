@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Magnesium Spierolie Spray",
+  "code": "4621681",
+  "price": "6.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 6471 > 6473",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-magnesium-spierolie-spray/p/4621681",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266741,
+      "name": "Sport, -blessures en herstel"
+    },
+    {
+      "id": 61747538,
+      "name": "Spierherstel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hcc/h03/29176103895070/prd-front-4621681-1_600x600/prd-front-4621681-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Classic Glans Shampoo",
+  "code": "1133721",
+  "price": "6.67",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049755",
+  "mmkId": "1049755",
+  "productGroupId": "454803",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-classic-glans-shampoo/p/1133721",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "450ml",
+  "image": "/medias/sys_master/prd-images/ha1/h38/27829238693918/prd-front-1133721-1_600x600/prd-front-1133721-1-600x600.jpg"
+}

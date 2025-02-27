@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Series 5 5340 Bodygroomer",
+  "code": "6197973",
+  "price": "79.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6442 > 6672 > 6673",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049720",
+  "mmkId": "1049720",
+  "productGroupId": "473419",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-series-5-5340-bodygroomer/p/6197973",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266684,
+      "name": "Multigroomers"
+    }
+  ],
+  "description": "antraciet",
+  "image": "/medias/sys_master/prd-images/hf7/ha6/32922745077790/prd-front-6197973-1_600x600/prd-front-6197973-1-600x600.jpg"
+}

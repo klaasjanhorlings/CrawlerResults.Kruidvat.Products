@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Infaillible 24H 502 Red To Stay Lipstick",
+  "code": "5783608",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-infaillible-24h-502-red-to-stay-lipstick/p/5783608",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "5,7g",
+  "image": "/medias/prd-front-5783608-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQxMTJ8aW1hZ2UvanBlZ3xhREEwTDJobFl5OHlOamMzTmpJME16STBNRGs1TUM5d2NtUXRabkp2Ym5RdE5UYzRNell3T0MweFh6WXdNSGcyTURBfDNiYWEzNzBjODE4ZDYyOGM0NzQ5YWU5MWFiOGEwYjk0OWFiNmNjNWE1MDQ4N2RlMzFmMjIyYTkwYWZhMzY3NWU"
+}

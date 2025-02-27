@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Standaard 1 Zuigelingenvoeding",
+  "code": "760103",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
+  "supplier": "PICOMEL NUTRITION",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-standaard-1-zuigelingenvoeding/p/760103",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266769,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30266998,
+      "name": "Zuigelingenmelk"
+    }
+  ],
+  "description": "2 x 400g",
+  "image": "/medias/sys_master/prd-images/h7f/h0c/31969093287966/prd-front-760103-1_600x600/prd-front-760103-1-600x600.jpg"
+}

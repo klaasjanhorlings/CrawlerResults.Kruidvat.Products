@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Bio Naturel Maisstengels",
+  "code": "5813274",
+  "price": "0.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
+  "supplier": "FRUITFUNK BV",
+  "inStock": "inStock",
+  "onPromo": "1049925",
+  "mmkId": "1049925",
+  "productGroupId": "469837",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-bio-naturel-maisstengels/p/5813274",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266774,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "16 stuks",
+  "image": "/medias/prd-front-5813274-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTA3NDI5fGltYWdlL2pwZWd8YUdVd0wyZ3pNQzh5TmprM01qZzNNVGM0TmpVeU5pOXdjbVF0Wm5KdmJuUXROVGd4TXpJM05DMHhYell3TUhnMk1EQXw4M2QxNjE0ZDdjMjVmYjk2NDMzOTY2YzI5YjkzNzQyMjdkNjVkOTAwNTExYjllMmI5ZmI5NDgzYTVhNjQwMDc1"
+}

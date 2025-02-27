@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "ToetsMij 3 Maanden Proefabonnement",
+  "code": "6210874",
+  "price": "9.95",
+  "priceOriginal": "38.97",
+  "itemBgbcat": "4870 > 4893 > 4891 > 4892 > 4894 > 6447",
+  "supplier": "BODDENDIJK SP BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 29,02",
+  "url": "/toetsmij-3-maanden-proefabonnement/p/6210874",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536083,
+      "name": "Tickets"
+    },
+    {
+      "id": 62345504,
+      "name": "Top Deals"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2c/h8e/33064782823454/prd-front-6210874-1_600x600/prd-front-6210874-1-600x600.jpg"
+}

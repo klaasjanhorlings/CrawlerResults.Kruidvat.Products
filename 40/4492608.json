@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Liga Evergreen Crunchy Muesli Chocolade",
+  "code": "4492608",
+  "price": "2.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2340 > 3233 > 4125",
+  "supplier": "MONDELEZ NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049620",
+  "mmkId": "1049620",
+  "productGroupId": "453513",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/liga-evergreen-crunchy-muesli-chocolade/p/4492608",
+  "listName": "Lister",
+  "brand": "Liga",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267023,
+      "name": "Koek"
+    }
+  ],
+  "description": "225g",
+  "image": "/medias/sys_master/prd-images/h26/h3d/29201864917022/prd-front-4492608-1_600x600/prd-front-4492608-1-600x600.jpg"
+}

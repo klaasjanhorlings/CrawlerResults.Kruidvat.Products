@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Paté met Kip Kattenvoer",
+  "code": "45180",
+  "price": "0.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2081 > 2239 > 2360 > 2911 > 4250",
+  "supplier": "SATURN PETCARE GMBH",
+  "inStock": "inStock",
+  "onPromo": "1049744",
+  "mmkId": "1049744",
+  "productGroupId": "452583",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pate-met-kip-kattenvoer/p/45180",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266077,
+      "name": "Dier"
+    },
+    {
+      "id": 30266889,
+      "name": "Diervoeding"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/prd-front-45180-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTE2NTB8aW1hZ2UvanBlZ3xhREExTDJnd1l5OHhOakE1T0RFM056ZzNOVGs1T0M5d2NtUXRabkp2Ym5RdE5EVXhPREF0TVY4Mk1EQjROakF3fDFiMDdlMzU0ZjlkOWM2OWRhYzViZTkwMTY0OWFiNTYyMGE1ZjYxYjM0ODRiMjk5NGJhYmM0YTExYmI3ODI4NGE"
+}

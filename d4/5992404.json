@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Organic Shop Coffee & Limmonik Gentle Face Exfoliant",
+  "code": "5992404",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5665 > 6702",
+  "supplier": "TRADE SENSE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/organic-shop-coffee-limmonik-gentle-face-exfoliant/p/5992404",
+  "listName": "Lister",
+  "brand": "Organic Shop",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266921,
+      "name": "Reinigingsscrub"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hd7/hf8/29461314633758/prd-front-5992404-1_600x600/prd-front-5992404-1-600x600.jpg"
+}

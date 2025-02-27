@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Wondhelende Zalf",
+  "code": "4380643",
+  "price": "8.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1049836",
+  "mmkId": "1049836",
+  "productGroupId": "461543",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hansaplast-wondhelende-zalf/p/4380643",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266008,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30266735,
+      "name": "EHBO-doos"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 50g",
+  "image": "/medias/sys_master/prd-images/h14/ha7/32901564301342/prd-front-4380643-1_600x600/prd-front-4380643-1-600x600.jpg"
+}

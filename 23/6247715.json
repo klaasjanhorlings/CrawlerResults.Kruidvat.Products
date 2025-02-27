@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette ProGlide Scheermesjes",
+  "code": "6247715",
+  "price": "37.85",
+  "priceOriginal": "82.29",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049749",
+  "mmkId": "1049749",
+  "productGroupId": "453748",
+  "brandType": "A of B merk",
+  "discount": "€ 44,44",
+  "url": "/gillette-proglide-scheermesjes/p/6247715",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266678,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "12 stuks",
+  "image": "/medias/sys_master/prd-images/h46/hd4/33499191050270/prd-front-6247715-1_600x600/prd-front-6247715-1-600x600.jpg"
+}

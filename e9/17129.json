@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Durex Sensilube Intieme Bevochtigingsgel",
+  "code": "17129",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/durex-sensilube-intieme-bevochtigingsgel/p/17129",
+  "listName": "Lister",
+  "brand": "Sensilube",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266011,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30266748,
+      "name": "Glijmiddelen"
+    },
+    {
+      "id": 66278176,
+      "name": "Waterbasis glijmiddelen"
+    }
+  ],
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h13/h96/27855635218462/prd-front-17129-1_600x600/prd-front-17129-1-600x600.jpg"
+}

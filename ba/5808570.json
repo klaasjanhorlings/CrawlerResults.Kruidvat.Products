@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Marcel’s Green Soap Mimosa & Blackcurrant Shower Gel",
+  "code": "5808570",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "GREEN SOAP COMPANY BV",
+  "inStock": "inStock",
+  "onPromo": "1049868",
+  "mmkId": "1049868",
+  "productGroupId": "466196",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/marcels-green-soap-mimosa-blackcurrant-shower-gel/p/5808570",
+  "listName": "Lister",
+  "brand": "Marcel's Green Soap",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hee/h9f/28986850377758/prd-front-5808570-1_600x600/prd-front-5808570-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Pro Interdental Soft Tandenborstel",
+  "code": "2970388",
+  "price": "1.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 4129",
+  "supplier": "TOBY'S BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pro-interdental-soft-tandenborstel/p/2970388",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266671,
+      "name": "Tandenborstels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-2970388-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTEwODB8aW1hZ2UvanBlZ3xhRFl3TDJnME1DOHhOalUyT0RZek9ETTBNVEUxTUM5d2NtUXRabkp2Ym5RdE1qazNNRE00T0MweFh6WXdNSGcyTURBfDk3NDhjNzE5MDZhOTI0ODU4ZDY3YTEyM2Q2MmZiMmM3MGZmODlhOGZmYzFiNTc0NjMwMWFlMWQzOGEyZDY4OTM"
+}

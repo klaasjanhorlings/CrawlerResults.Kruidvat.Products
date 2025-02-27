@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Syoss Color Glow Cool Brunette Verzorgende Kleuropfrisser",
+  "code": "5641714",
+  "price": "11.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1049782",
+  "mmkId": "1049782",
+  "productGroupId": "457099",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-color-glow-cool-brunette-verzorgende-kleuropfrisser/p/5641714",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265990,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h73/haa/32892045361182/prd-front-5641714-1_600x600/prd-front-5641714-1-600x600.jpg"
+}

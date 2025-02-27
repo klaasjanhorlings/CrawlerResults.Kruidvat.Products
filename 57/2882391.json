@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Elmex Sensitive Professional Mondwater",
+  "code": "2882391",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "1049909",
+  "mmkId": "1049909",
+  "productGroupId": "469358",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elmex-sensitive-professional-mondwater/p/2882391",
+  "listName": "Lister",
+  "brand": "Elmex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266676,
+      "name": "Mondwater en mondspray"
+    }
+  ],
+  "description": "400ml - Gevoelige tanden",
+  "image": "/medias/sys_master/prd-images/hb7/ha1/30293844590622/prd-front-2882391-1_600x600/prd-front-2882391-1-600x600.jpg"
+}

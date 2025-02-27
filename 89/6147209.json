@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hello Kitty Kinderclogs",
+  "code": "6147209",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2487 > 3056 > 3904 > 5928 > 6351 > 6352",
+  "supplier": "UNITED ESSENTIALS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hello-kitty-kinderclogs/p/6147209",
+  "listName": "Lister",
+  "brand": "Hello Kitty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266044,
+      "name": "Pantoffels"
+    }
+  ],
+  "description": "mt 26-27, roze",
+  "image": "/medias/sys_master/prd-images/hf9/h32/32470382608414/prd-front-6147209-1_600x600/prd-front-6147209-1-600x600.jpg"
+}

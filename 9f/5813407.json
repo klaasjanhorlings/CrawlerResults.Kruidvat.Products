@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Bio 8+M Groenten, Couscous & Linzen Maaltijd",
+  "code": "5813407",
+  "price": "2.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
+  "supplier": "SUNVAL BABY FOOD GMBH",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-bio-8m-groenten-couscous-linzen-maaltijd/p/5813407",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266771,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267007,
+      "name": "8+ maanden"
+    }
+  ],
+  "description": "380g",
+  "image": "/medias/prd-front-5813407-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTMyMzZ8aW1hZ2UvanBlZ3xhR0l3TDJneU1TOHlOalF4TWpRek9ETXlNekl6TUM5d2NtUXRabkp2Ym5RdE5UZ3hNelF3TnkweFh6WXdNSGcyTURBfGVlMGJjNWRmMWFmMzIyYWE1ZTc4YTc2MTc5ZjQ5YTZiZjFjNDA0MDEyMWZlMzRjODA0NTE5M2U5OTMzOTUwYjI"
+}

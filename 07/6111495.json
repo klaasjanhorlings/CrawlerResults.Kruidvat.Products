@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Led-dinerkaars",
+  "code": "6111495",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 5926 > 5980 > 5997 > 6679 > 6732",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-led-dinerkaars/p/6111495",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266895,
+      "name": "Kaarsen"
+    },
+    {
+      "id": 80866453,
+      "name": "LED kaarsen"
+    }
+  ],
+  "description": "zwart, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hb8/h7a/31696918183966/prd-front-6111495-1_600x600/prd-front-6111495-1-600x600.jpg"
+}

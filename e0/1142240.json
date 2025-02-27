@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Kunstgebitborstel",
+  "code": "1142240",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 3137 > 4003",
+  "supplier": "RIDAM CARE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-kunstgebitborstel/p/1142240",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266672,
+      "name": "Kunstgebitreiniger"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h33/h5c/28793985630238/prd-front-1142240-1_600x600/prd-front-1142240-1-600x600.jpg"
+}

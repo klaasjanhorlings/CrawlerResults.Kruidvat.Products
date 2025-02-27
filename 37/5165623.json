@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Original Deodorant Spray",
+  "code": "5165623",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049752",
+  "mmkId": "1049752",
+  "productGroupId": "454546",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-original-deodorant-spray/p/5165623",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266644,
+      "name": "Deospray"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/had/h9f/28039102103582/prd-front-5165623-1_600x600/prd-front-5165623-1-600x600.jpg"
+}

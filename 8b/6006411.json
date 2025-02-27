@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Facefinity Compact 002 Ivory Foundation",
+  "code": "6006411",
+  "price": "21.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "1049824",
+  "mmkId": "1049824",
+  "productGroupId": "460365",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-facefinity-compact-002-ivory-foundation/p/6006411",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266577,
+      "name": "Foundation"
+    }
+  ],
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/hc4/hb0/29794747777054/prd-front-6006411-1_600x600/prd-front-6006411-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "After Bite Xtra Gel",
+  "code": "4382050",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 6070",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/after-bite-xtra-gel/p/4382050",
+  "listName": "Lister",
+  "brand": "After Bite",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266711,
+      "name": "Insecten"
+    },
+    {
+      "id": 30266987,
+      "name": "Na de beet"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf1/hfd/27828667842590/prd-front-4382050-1_600x600/prd-front-4382050-1-600x600.jpg"
+}

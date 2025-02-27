@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 8-pin Oplaadkabel",
+  "code": "4471580",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2153 > 2632 > 5929 > 6014 > 6423 > 6446",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-8-pin-oplaadkabel/p/4471580",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266902,
+      "name": "Telefoonaccessoires"
+    },
+    {
+      "id": 30267035,
+      "name": "Telefoonkabeltjes"
+    }
+  ],
+  "description": "wit, 2m",
+  "image": "/medias/sys_master/prd-images/h03/hc1/33410045968414/prd-front-4471580-1_600x600/prd-front-4471580-1-600x600.jpg"
+}

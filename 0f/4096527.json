@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Valdispert Kids Rust Siroop",
+  "code": "4096527",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6207 > 6225 > 6303",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049794",
+  "mmkId": "1049794",
+  "productGroupId": "458119",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/valdispert-kids-rust-siroop/p/4096527",
+  "listName": "Lister",
+  "brand": "Valdispert",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266724,
+      "name": "Rust en ontspanning"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h6d/h51/32794620330014/prd-front-4096527-1_600x600/prd-front-4096527-1-600x600.jpg"
+}

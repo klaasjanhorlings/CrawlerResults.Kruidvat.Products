@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Magnesium Kristallen",
+  "code": "4745504",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 6471 > 6474",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-magnesium-kristallen/p/4745504",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266654,
+      "name": "Badzout"
+    }
+  ],
+  "description": "1000g",
+  "image": "/medias/prd-front-4745504-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzUwNzh8aW1hZ2UvanBlZ3xhREE1TDJnM1pDOHhOek0zTWpNME16UTJPREEyTWk5d2NtUXRabkp2Ym5RdE5EYzBOVFV3TkMweFh6WXdNSGcyTURBfGQ4ZTY2YjEwNTkxMTM4ZDBmZmZkZDZkMDhiNzQ1OTFmYmY1ODRlMTU4ZjQyYWY0ZDE5NWI3NzM3OTUzNzg4NmI"
+}

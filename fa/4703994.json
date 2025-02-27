@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Diepvrieszakken",
+  "code": "4703994",
+  "price": "1.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2514 > 3128 > 3993",
+  "supplier": "CEDO HOUSEHOLD PRODUCTS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-diepvrieszakken/p/4703994",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266070,
+      "name": "Huishoudelijke accessoires"
+    }
+  ],
+  "description": "30 x 3L",
+  "image": "/medias/sys_master/prd-images/hef/h36/30274758246430/prd-front-4703994-1_600x600/prd-front-4703994-1-600x600.jpg"
+}

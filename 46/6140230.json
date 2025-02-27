@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Retro Gaming Console",
+  "code": "6140230",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2153 > 5929 > 6014 > 6635 > 6637 > 6636",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-retro-gaming-console/p/6140230",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266056,
+      "name": "Gaming"
+    }
+  ],
+  "description": "blauw",
+  "image": "/medias/sys_master/prd-images/h02/he1/31587753558046/prd-front-6140230-1_600x600/prd-front-6140230-1-600x600.jpg"
+}

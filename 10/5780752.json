@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Axe Blue Lavender Douchegel",
+  "code": "5780752",
+  "price": "6.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049752",
+  "mmkId": "1049752",
+  "productGroupId": "454546",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/axe-blue-lavender-douchegel/p/5780752",
+  "listName": "Lister",
+  "brand": "Axe Fine Fragrance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h85/h64/33196597182494/prd-front-5780752-1_600x600/prd-front-5780752-1-600x600.jpg"
+}

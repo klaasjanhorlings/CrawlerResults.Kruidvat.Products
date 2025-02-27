@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corega Fresh Cleanse Reinigingsmousse",
+  "code": "1467453",
+  "price": "6.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corega-fresh-cleanse-reinigingsmousse/p/1467453",
+  "listName": "Lister",
+  "brand": "Corega",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266673,
+      "name": "Kleefpasta"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 125ml",
+  "image": "/medias/prd-front-1467453-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDM4ODR8aW1hZ2UvanBlZ3xhRGhoTDJobE5DOHhOakU1TnpFMk1UYzBOalEyTWk5d2NtUXRabkp2Ym5RdE1UUTJOelExTXkweFh6WXdNSGcyTURBfDVlZjMxZGRiMTQyODJjNzBmNjlmNDMxMDdjZDAxNzEwMjJmNjRkNzQwZmY1NjU3MTAyNTUxY2ZlY2MzMDA2OTE"
+}

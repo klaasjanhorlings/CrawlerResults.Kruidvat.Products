@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Babyslaappakjes",
+  "code": "6184442",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2130 > 2324 > 2723 > 3426 > 4362",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-babyslaappakjes/p/6184442",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266041,
+      "name": "Babykleding"
+    },
+    {
+      "id": 30266851,
+      "name": "Pyjamas"
+    }
+  ],
+  "description": "beige, mt 74-80, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h4b/h74/33294830960670/prd-front-6184442-1_600x600/prd-front-6184442-1-600x600.jpg"
+}

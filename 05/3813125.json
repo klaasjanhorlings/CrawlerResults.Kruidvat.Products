@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Allesreinigerdoekjes",
+  "code": "3813125",
+  "price": "1.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 6076 > 6077",
+  "supplier": "EUROFOUR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-allesreinigerdoekjes/p/3813125",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144743,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "80 stuks",
+  "image": "/medias/prd-front-3813125-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTExMzh8aW1hZ2UvanBlZ3xhR1kyTDJobE5DOHlOalEwTkRZek56VXpOakk0Tmk5d2NtUXRabkp2Ym5RdE16Z3hNekV5TlMweFh6WXdNSGcyTURBfDA5MTQyNDk5MDBmOTk1MmNhYzc3ODE2ZTcxNGYxMGE4ZjRiNDcyNmRkM2QxMDRhYWY2ZjA1YTQ5ZTg2Y2ZiOTk"
+}

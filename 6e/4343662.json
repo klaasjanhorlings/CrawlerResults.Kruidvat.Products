@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Oil & Care Crème Douchegel",
+  "code": "4343662",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1049741",
+  "mmkId": "1049741",
+  "productGroupId": "452402",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-oil-care-creme-douchegel/p/4343662",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266647,
+      "name": "Douchecrème"
+    }
+  ],
+  "description": "300ml - normale huid",
+  "image": "/medias/sys_master/prd-images/h1c/h28/29653519859742/prd-front-4343662-1_600x600/prd-front-4343662-1-600x600.jpg"
+}

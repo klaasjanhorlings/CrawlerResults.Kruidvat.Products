@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mermaid Kinderlegging",
+  "code": "6190462",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "3533 > 5808 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "PARTYXPLOSION BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/mermaid-kinderlegging/p/6190462",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "mt 116-122",
+  "image": "/medias/sys_master/prd-images/haf/h59/33068355780638/prd-front-6190462-1_600x600/prd-front-6190462-1-600x600.jpg"
+}

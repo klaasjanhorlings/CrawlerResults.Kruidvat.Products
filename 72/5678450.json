@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Original Beauty Cream Soapbar",
+  "code": "5678450",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2091 > 2258 > 2597 > 3262 > 3489",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-original-beauty-cream-soapbar/p/5678450",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266652,
+      "name": "Zeepbar"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/prd-front-5678450-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTczMDJ8aW1hZ2UvanBlZ3xhR0UyTDJnM1pDOHlOamt5TkRBek9ERTJNRFF4TkM5d2NtUXRabkp2Ym5RdE5UWTNPRFExTUMweFh6WXdNSGcyTURBfDQ5YmNkNGM1OTI1OTBmZGRkZjUxNWRkODQ2OWJjMWFmOTQxZDUyYjg2YTA4MzgyZDVlZTVhYjA3YjgxZDk5MTA"
+}

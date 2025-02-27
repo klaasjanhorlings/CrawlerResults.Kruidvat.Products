@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Zero% Hydrating Douchegel",
+  "code": "6059821",
+  "price": "3.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "1049745",
+  "mmkId": "1049745",
+  "productGroupId": "452650",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-zero-hydrating-douchegel/p/6059821",
+  "listName": "Lister",
+  "brand": "Sanex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "600ml",
+  "image": "/medias/sys_master/prd-images/h8d/h24/31832061804574/prd-front-6059821-1_600x600/prd-front-6059821-1-600x600.jpg"
+}

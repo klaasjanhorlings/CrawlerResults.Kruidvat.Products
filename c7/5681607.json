@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Jurassic World Tandenborstel",
+  "code": "5681607",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3519",
+  "supplier": "CARESSE COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-jurassic-world-tandenborstel/p/5681607",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266671,
+      "name": "Tandenborstels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5681607-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjY3Mjd8aW1hZ2UvanBlZ3xhRFUxTDJneFl5OHhOalF6TWpFd01qZzVPVGMwTWk5d2NtUXRabkp2Ym5RdE5UWTRNVFl3TnkweFh6WXdNSGcyTURBfDRiNTRjZDk3YmVmMjE2MTZmNTM3YzViMjAzYjc3MTEzMWYzODc1ODQwYzRhZjZhOTg4MmQ5NjNhN2QyNzc2NTU"
+}

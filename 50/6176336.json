@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fake Fur Beenwarmers met Regenboogprint",
+  "code": "6176336",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2225 > 4869 > 6652 > 6653 > 6654",
+  "supplier": "PARTYXPLOSION BV",
+  "inStock": "inStock",
+  "onPromo": "1050469",
+  "mmkId": "1050469",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/fake-fur-beenwarmers-met-regenboogprint/p/6176336",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1e/h8a/32183914135582/prd-front-6176336-1_600x600/prd-front-6176336-1-600x600.jpg"
+}

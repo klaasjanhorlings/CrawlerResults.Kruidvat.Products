@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hello Kitty Bigshirt",
+  "code": "6209866",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5791 > 5790 > 5792 > 5795 > 5928 > 6716",
+  "supplier": "UNITED ESSENTIALS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hello-kitty-bigshirt/p/6209866",
+  "listName": "Lister",
+  "brand": "Hello Kitty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266843,
+      "name": "Damespyjama's"
+    }
+  ],
+  "description": "roze, mt L",
+  "image": "/medias/sys_master/prd-images/heb/h16/33421574635550/prd-front-6209866-1_600x600/prd-front-6209866-1-600x600.jpg"
+}

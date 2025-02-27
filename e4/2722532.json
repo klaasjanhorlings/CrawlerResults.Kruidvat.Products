@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Kinderparacetamol 120mg Kauwtabletten",
+  "code": "2722532",
+  "price": "2.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6155 > 6166",
+  "supplier": "AUROBINDO PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-kinderparacetamol-120mg-kauwtabletten/p/2722532",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266706,
+      "name": "Pijn"
+    },
+    {
+      "id": 30266970,
+      "name": "Pijnstiller"
+    }
+  ],
+  "description": "Geneesmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/h18/h57/28625601822750/prd-front-2722532-1_600x600/prd-front-2722532-1-600x600.jpg"
+}

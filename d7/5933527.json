@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alpine Sleepdeep Mini Oordoppen",
+  "code": "5933527",
+  "price": "14.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6719 > 6718",
+  "supplier": "ALPINE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049822",
+  "mmkId": "1049822",
+  "productGroupId": "460332",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/alpine-sleepdeep-mini-oordoppen/p/5933527",
+  "listName": "Lister",
+  "brand": "Alpine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30266948,
+      "name": "Oordoppen"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/hf5/h65/28537271648286/prd-front-5933527-1_600x600/prd-front-5933527-1-600x600.jpg"
+}

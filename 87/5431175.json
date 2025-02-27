@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "As I Am Curling Jelly",
+  "code": "5431175",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5918 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/as-i-am-curling-jelly/p/5431175",
+  "listName": "Lister",
+  "brand": "As I Am",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 82417013,
+      "name": "Krullenverzorging"
+    }
+  ],
+  "description": "227ml",
+  "image": "/medias/sys_master/prd-images/he7/hb3/27774467112990/prd-front-5431175-1_600x600/prd-front-5431175-1-600x600.jpg"
+}

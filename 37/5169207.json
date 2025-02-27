@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Natures Hydrating Shampoo",
+  "code": "5169207",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-natures-hydrating-shampoo/p/5169207",
+  "listName": "Lister",
+  "brand": "Kruidvat Natures",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/prd-front-5169207-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTE5NTV8aW1hZ2UvanBlZ3xhREJpTDJnd09DOHlOamM0TWpjd05UWXhORGczT0M5d2NtUXRabkp2Ym5RdE5URTJPVEl3TnkweFh6WXdNSGcyTURBfGFkMTQ5MzhmNDdhNzFkZDg1NzdlNzg5ZjExODVkNzg1MGU0YzUxM2ViOTcyNjdlZTYxMDc5NjY5Mzc5NzRjNmU"
+}

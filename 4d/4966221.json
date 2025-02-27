@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Biologische Psylliumvezels",
+  "code": "4966221",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6522",
+  "supplier": "MATTISSON HEALTCARE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-biologische-psylliumvezels/p/4966221",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266010,
+      "name": "Bewuste keuze"
+    }
+  ],
+  "description": "120g",
+  "image": "/medias/sys_master/prd-images/h2e/h87/28450496741406/prd-front-4966221-1_600x600/prd-front-4966221-1-600x600.jpg"
+}

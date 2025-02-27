@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Latex Handschoenen",
+  "code": "5874398",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2451 > 2955 > 3749",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-latex-handschoenen/p/5874398",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144838,
+      "name": "Schoonmaakartikelen"
+    }
+  ],
+  "description": "mt M, 20 stuks",
+  "image": "/medias/sys_master/prd-images/h7d/h7e/32039338541086/prd-front-5874398-1_600x600/prd-front-5874398-1-600x600.jpg"
+}

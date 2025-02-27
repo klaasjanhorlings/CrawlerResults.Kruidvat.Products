@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun BT3400 Baardtrimmer 3",
+  "code": "5662133",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6442",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049779",
+  "mmkId": "1049779",
+  "productGroupId": "456710",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-bt3400-baardtrimmer-3/p/5662133",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266686,
+      "name": "Baardtrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4f/h11/32315289862174/prd-front-5662133-1_600x600/prd-front-5662133-1-600x600.jpg"
+}

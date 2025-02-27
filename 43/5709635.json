@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nijntje Dieren Tellen",
+  "code": "5709635",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
+  "supplier": "IDENTITY GAMES INT. BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nijntje-dieren-tellen/p/5709635",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266034,
+      "name": "Educatief speelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5709635-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTEyOTZ8aW1hZ2UvanBlZ3xhR0UyTDJoa1lTOHlOamd4TVRFNE5EUTRNREk0Tmk5d2NtUXRabkp2Ym5RdE5UY3dPVFl6TlMweFh6WXdNSGcyTURBfGY5N2I0ODI2MGYxMGYxN2EyN2E2NGQxMmVlZWZlNDM3YzI4NzYwY2UxMjA3NjU4NThmMzViMDAwMDY0M2M0YmM"
+}

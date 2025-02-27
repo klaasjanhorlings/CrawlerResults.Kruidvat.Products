@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Pure & Soft 6 Luiers Valuepack",
+  "code": "5742276",
+  "price": "11.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4342 > 4343",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "1049891",
+  "mmkId": "1049891",
+  "productGroupId": "467039",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pure-soft-6-luiers-valuepack/p/5742276",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266017,
+      "name": "Luiers"
+    },
+    {
+      "id": 30266789,
+      "name": "Luiers maat 6"
+    }
+  ],
+  "description": "28 stuks",
+  "image": "/medias/sys_master/prd-images/h25/hec/29055945080862/prd-front-5742276-1_600x600/prd-front-5742276-1-600x600.jpg"
+}

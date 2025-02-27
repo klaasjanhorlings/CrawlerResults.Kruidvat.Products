@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Colgate Sensation White Tandpasta",
+  "code": "5154059",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "1049952",
+  "mmkId": "1049952",
+  "productGroupId": "472164",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/colgate-sensation-white-tandpasta/p/5154059",
+  "listName": "Lister",
+  "brand": "Colgate",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml - Whitening",
+  "image": "/medias/sys_master/prd-images/h6e/hcb/30423429906462/prd-front-5154059-1_600x600/prd-front-5154059-1-600x600.jpg"
+}

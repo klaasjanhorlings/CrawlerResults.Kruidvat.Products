@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Venus Oceana Wegwerpscheermesjes",
+  "code": "1876337",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3790",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-venus-oceana-wegwerpscheermesjes/p/1876337",
+  "listName": "Lister",
+  "brand": "Gillette Venus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266678,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/prd-front-1876337-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA5NTd8aW1hZ2UvanBlZ3xhRGt6TDJnM01DOHlOalE0TWpjNE9EUTVPVFE0Tmk5d2NtUXRabkp2Ym5RdE1UZzNOak16TnkweFh6WXdNSGcyTURBfDE3ZTI1MGMzYmQ2NTUxZTYxODE5NzY0YzkyNzA1NTlkZDA5ZjJiM2ZmYzU4YzI5ZDlhYzZhMDg4Y2M5YjYyZDk"
+}

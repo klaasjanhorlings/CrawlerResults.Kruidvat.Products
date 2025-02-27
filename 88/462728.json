@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Isostar Fast Hydration Powertabs Lemon Bruistabletten",
+  "code": "462728",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 3241 > 4132",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/isostar-fast-hydration-powertabs-lemon-bruistabletten/p/462728",
+  "listName": "Lister",
+  "brand": "Isostar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266752,
+      "name": "Sportdrank"
+    }
+  ],
+  "description": "120g",
+  "image": "/medias/sys_master/prd-images/h27/h01/28462015938590/prd-front-462728-1_600x600/prd-front-462728-1-600x600.jpg"
+}

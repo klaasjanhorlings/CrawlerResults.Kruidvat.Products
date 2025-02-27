@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leefvitaal Multivitaminen Compleet 50+ Tabletten",
+  "code": "4951745",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1049865",
+  "mmkId": "1049865",
+  "productGroupId": "465781",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/leefvitaal-multivitaminen-compleet-50-tabletten/p/4951745",
+  "listName": "Lister",
+  "brand": "Leefvitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
+    }
+  ],
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/h77/h81/29571184164894/prd-front-4951745-1_600x600/prd-front-4951745-1-600x600.jpg"
+}

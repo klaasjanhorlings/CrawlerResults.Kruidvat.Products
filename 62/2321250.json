@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bio-Oil Huidverzorgingsolie",
+  "code": "2321250",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "1049982",
+  "mmkId": "1049982",
+  "productGroupId": "460044",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bio-oil-huidverzorgingsolie/p/2321250",
+  "listName": "Lister",
+  "brand": "Bio-Oil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265995,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30266639,
+      "name": "Bodyolie"
+    }
+  ],
+  "description": "125ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hdb/h88/32403458228254/prd-front-2321250-1_600x600/prd-front-2321250-1-600x600.jpg"
+}

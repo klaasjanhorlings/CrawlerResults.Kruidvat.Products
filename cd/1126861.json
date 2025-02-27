@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Verzachtende Baby Bodylotion",
+  "code": "1126861",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-verzachtende-baby-bodylotion/p/1126861",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266776,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267018,
+      "name": "Babylotion"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/prd-front-1126861-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTcwOTB8aW1hZ2UvanBlZ3xhR1ZrTDJnM01pOHhOelF4TmpZNE1qYzJOak0yTmk5d2NtUXRabkp2Ym5RdE1URXlOamcyTVMweFh6WXdNSGcyTURBfDkwZGQzMDVmOGQ0OWNjZTA0Mjc1MjVhY2I3ZjlkMDJhNTVlMjllYmEzNmVlOWEzYmQyZWQ4MzMyZWMzNWM0ZTk"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Invisibobble Heat Protect Blow Dry Spray",
+  "code": "6229529",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3698",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/invisibobble-heat-protect-blow-dry-spray/p/6229529",
+  "listName": "Lister",
+  "brand": "Invisibobble",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266931,
+      "name": "Heat protectors"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h90/ha6/33389407436830/prd-front-6229529-1_600x600/prd-front-6229529-1-600x600.jpg"
+}

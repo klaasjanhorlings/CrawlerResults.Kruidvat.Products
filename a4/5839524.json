@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "GUM Soft-Picks Comfort Flex Mint Tandenstokers",
+  "code": "5839524",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
+  "supplier": "SUNSTAR BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1049942",
+  "mmkId": "1049942",
+  "productGroupId": "470907",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gum-soft-picks-comfort-flex-mint-tandenstokers/p/5839524",
+  "listName": "Lister",
+  "brand": "Gum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266667,
+      "name": "Tandenstokers"
+    }
+  ],
+  "description": "mt S, 40 stuks",
+  "image": "/medias/sys_master/prd-images/h7c/h76/28888740724766/prd-front-5839524-1_600x600/prd-front-5839524-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swiss Point of Care On Call Extra Lancetten",
+  "code": "4559717",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6677",
+  "supplier": "SWISS POINT OF CARE",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/swiss-point-of-care-on-call-extra-lancetten/p/4559717",
+  "listName": "Lister",
+  "brand": "Swiss Point of Care",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 67784836,
+      "name": "Gezondheidsapparatuur"
+    },
+    {
+      "id": 30266765,
+      "name": "Bloedsuikermeters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 100 stuks",
+  "image": "/medias/sys_master/prd-images/h83/h43/29997999751198/prd-front-4559717-1_600x600/prd-front-4559717-1-600x600.jpg"
+}

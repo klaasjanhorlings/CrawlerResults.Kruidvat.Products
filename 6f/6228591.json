@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wella Wellaflex Fullness Volume Hold 5 Mousse",
+  "code": "6228591",
+  "price": "5.15",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
+  "supplier": "WELLA COMPANY",
+  "inStock": "inStock",
+  "onPromo": "1049778",
+  "mmkId": "1049778",
+  "productGroupId": "456651",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wella-wellaflex-fullness-volume-hold-5-mousse/p/6228591",
+  "listName": "Lister",
+  "brand": "Wellaflex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266932,
+      "name": "Haarmousse"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h80/h0a/33146774224926/prd-front-6228591-1_600x600/prd-front-6228591-1-600x600.jpg"
+}

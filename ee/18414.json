@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Paté met Kip Hondenvoer",
+  "code": "18414",
+  "price": "0.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2081 > 2239 > 2416 > 2912 > 4251",
+  "supplier": "SATURN PETCARE GMBH",
+  "inStock": "inStock",
+  "onPromo": "1049744",
+  "mmkId": "1049744",
+  "productGroupId": "452583",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pate-met-kip-hondenvoer/p/18414",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266077,
+      "name": "Dier"
+    },
+    {
+      "id": 30266889,
+      "name": "Diervoeding"
+    }
+  ],
+  "description": "150g",
+  "image": "/medias/prd-front-18414-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTgwNzh8aW1hZ2UvanBlZ3xhRFpqTDJoaVpDOHhOakE1TkRNM056a3dNakV4TUM5d2NtUXRabkp2Ym5RdE1UZzBNVFF0TVY4Mk1EQjROakF3fGRhMDJmMGMxYmU1Y2EwMGMwN2UwYjMxZTk4MGEwNDQ1MWMwOGE1MGJkNWRlNTgxNzZmYzhhNDU0NjZmOWZhYWU"
+}

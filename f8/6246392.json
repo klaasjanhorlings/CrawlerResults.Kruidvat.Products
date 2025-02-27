@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Laneige Cream Skin Milk Oil Cleanser",
+  "code": "6246392",
+  "price": "29.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3889 > 6702",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "1049715",
+  "mmkId": "1049715",
+  "productGroupId": "470624",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/laneige-cream-skin-milk-oil-cleanser/p/6246392",
+  "listName": "Lister",
+  "brand": "LANEIGE",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266914,
+      "name": "Reinigingsmelk"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h1f/h5d/33041085857822/prd-front-6246392-1_600x600/prd-front-6246392-1-600x600.jpg"
+}

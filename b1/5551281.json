@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Pedaalemmerzakken",
+  "code": "5551281",
+  "price": "0.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2514 > 3128 > 3993",
+  "supplier": "CEDO HOUSEHOLD PRODUCTS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pedaalemmerzakken/p/5551281",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266070,
+      "name": "Huishoudelijke accessoires"
+    }
+  ],
+  "description": "30 x 25L",
+  "image": "/medias/sys_master/prd-images/h7d/h09/30286878146590/prd-front-5551281-1_600x600/prd-front-5551281-1-600x600.jpg"
+}

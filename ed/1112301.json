@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 100% Cotton Zigzag Watten",
+  "code": "1112301",
+  "price": "0.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2038 > 2157 > 2662 > 3358 > 4263",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1049932",
+  "mmkId": "1049932",
+  "productGroupId": "470448",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-100-cotton-zigzag-watten/p/1112301",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266614,
+      "name": "Wattenschijfjes en staafjes"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/hcd/ha3/28529562877982/prd-front-1112301-1_600x600/prd-front-1112301-1-600x600.jpg"
+}

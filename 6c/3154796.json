@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Sensitive Cool Aftershave Balsem",
+  "code": "3154796",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 3144 > 6670",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1049818",
+  "mmkId": "1049818",
+  "productGroupId": "460033",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-sensitive-cool-aftershave-balsem/p/3154796",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266612,
+      "name": "Aftershave"
+    }
+  ],
+  "description": "100ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h46/h18/32875579080734/prd-front-3154796-1_600x600/prd-front-3154796-1-600x600.jpg"
+}

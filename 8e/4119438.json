@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Fit Me Matte 120 Classic Poreless Powder",
+  "code": "4119438",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1049750",
+  "mmkId": "1049750",
+  "productGroupId": "454370",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-fit-me-matte-120-classic-poreless-powder/p/4119438",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266587,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4119438-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjU0MDN8aW1hZ2UvanBlZ3xhREV3TDJnMU5TOHhOamd6TWpFeE5UTXhNRFl5TWk5d2NtUXRabkp2Ym5RdE5ERXhPVFF6T0MweFh6WXdNSGcyTURBfDcwODhmMGJlMzdjYTg0YTk3ZGUzOGVjOWVmM2NmMzMzNzk4ZGI4MTA0M2Q3NDMxYmU2NjJjZDIzYjQzOGQ1NzQ"
+}

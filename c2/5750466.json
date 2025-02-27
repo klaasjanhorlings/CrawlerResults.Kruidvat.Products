@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 12+M Smoothie Bosvruchten Knijpfruit",
+  "code": "5750466",
+  "price": "1.15",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1049923",
+  "mmkId": "1049923",
+  "productGroupId": "469789",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-12m-smoothie-bosvruchten-knijpfruit/p/5750466",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266770,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267004,
+      "name": "12 maanden +"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/prd-front-5750466-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTAwMjJ8aW1hZ2UvanBlZ3xhREpsTDJneU1DOHhOakl4TWpneU5ERXlPVFUyTmk5d2NtUXRabkp2Ym5RdE5UYzFNRFEyTmkweFh6WXdNSGcyTURBfDEyMWU2YzczYzcxNjg2NGFjNmNiMWRjNjBhMGEyZGIxMGQ1Y2Y3NGY5MjY3NWQ3OGQ2ZGFiNGRhZjVkNDRhNWI"
+}
