@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Horizon Adventures 77037 Aloy en Varl Vs. Shell-Walker en Sawtooth",
+  "code": "6232308",
+  "price": "40.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-horizon-adventures-77037-aloy-en-varl-vs-shell-walker-en-sawtooth/p/6232308",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69034864,
+      "name": "LEGO Games"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h55/h9b/33458575966238/prd-front-6232308-1_600x600/prd-front-6232308-1-600x600.jpg"
+}

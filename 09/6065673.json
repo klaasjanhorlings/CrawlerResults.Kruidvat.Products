@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "RSDW BEHEER BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1049886",
+  "mmkId": "1049886",
+  "productGroupId": "466925",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/2th-coniflex-1-9-2-2-mm-x-small-ragers/p/6065673",
@@ -29,10 +29,9 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30266669,
-      "name": "Tandenragers"
+      "id": 64453990,
+      "name": "Beugelverzorging"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/h9f/hff/31056891510814/prd-front-6065673-1_600x600/prd-front-6065673-1-600x600.jpg"
+  "description": "10 stuks"
 }

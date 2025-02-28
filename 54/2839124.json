@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "inStock",
-  "onPromo": "1049710",
-  "mmkId": "1049710",
-  "productGroupId": "469349",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elmex-sensitive-tandpasta/p/2839124",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "4 x 75ml - Gevoelige tanden",
-  "image": "/medias/sys_master/prd-images/h73/ha8/33488834658334/prd-front-2839124-1_600x600/prd-front-2839124-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h80/h8e/33505427390494/prd-front-2839124-1_600x600/prd-front-2839124-1-600x600.jpg"
 }

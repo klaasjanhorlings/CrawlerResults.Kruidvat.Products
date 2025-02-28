@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5929 > 6014 > 2153 > 2503 > 3113 > 3979",
   "supplier": "I-STAR WORLD BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1049875",
+  "mmkId": "1049875",
+  "productGroupId": "466567",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-16gb-usb-stick/p/5310964",
@@ -29,6 +29,5 @@
       "name": "Geheugen- en opslagapparatuur"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc4/hcb/33410277736478/prd-front-5310964-1_600x600/prd-front-5310964-1-600x600.jpg"
+  "description": ""
 }

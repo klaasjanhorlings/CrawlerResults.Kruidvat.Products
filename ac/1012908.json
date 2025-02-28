@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "HERKEL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-valeriaantinctuur-druppels/p/1012908",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "25ml",
-  "image": "/medias/sys_master/prd-images/h3e/h5f/29570267217950/prd-front-1012908-1_600x600/prd-front-1012908-1-600x600.jpg"
+  "description": "25ml"
 }

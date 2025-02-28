@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1049782",
+  "mmkId": "1049782",
+  "productGroupId": "457099",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-repair-care-shampoo/p/2099602",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h41/h5c/32039336312862/prd-front-2099602-1_600x600/prd-front-2099602-1-600x600.jpg"
 }

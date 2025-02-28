@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Umberto Giannini Crème De Curl Curl Control Cream",
+  "code": "6247435",
+  "price": "10.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "COSMOGROUP BRANDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/umberto-giannini-creme-de-curl-curl-control-cream/p/6247435",
+  "listName": "Lister",
+  "brand": "Umberto Giannini",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266926,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "150ml"
+}

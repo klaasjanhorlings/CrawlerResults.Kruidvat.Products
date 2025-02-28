@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3070 > 3677",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "inStock",
-  "onPromo": "1049745",
-  "mmkId": "1049745",
-  "productGroupId": "452650",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-maximum-protection-96h-antitranspirant-stick/p/6234443",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h13/h4a/33433851887646/prd-front-6234443-1_600x600/prd-front-6234443-1-600x600.jpg"
 }

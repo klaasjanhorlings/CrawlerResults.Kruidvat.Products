@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1049790",
+  "mmkId": "1049790",
+  "productGroupId": "457631",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-diamond-gloss-conditioner/p/3572556",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h04/h21/32343028793374/prd-front-3572556-1_600x600/prd-front-3572556-1-600x600.jpg"
 }

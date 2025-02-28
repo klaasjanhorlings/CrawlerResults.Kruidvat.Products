@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6082 > 6398",
   "supplier": "ASPIRE BRANDS BV",
-  "inStock": "inStock",
-  "onPromo": "1049945",
-  "mmkId": "1049945",
-  "productGroupId": "470950",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/batiste-sensitive-droogshampoo/p/6228528",
@@ -33,6 +33,5 @@
       "name": "Droogshampoo"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h80/ha6/33326580039710/prd-front-6228528-1_600x600/prd-front-6228528-1-600x600.jpg"
+  "description": "200ml"
 }

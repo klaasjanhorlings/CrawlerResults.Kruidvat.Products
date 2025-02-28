@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 4362 > 2130 > 5787 > 5788 > 5789",
   "supplier": "MUNDIA BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1049877",
+  "mmkId": "1049877",
+  "productGroupId": "466628",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-babysokjes/p/5614414",
@@ -33,5 +33,6 @@
       "name": "Babysokken"
     }
   ],
-  "description": "wit, 6-12m, 3 paar"
+  "description": "wit, 6-12m, 3 paar",
+  "image": "/medias/prd-front-5614414-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTIxNzd8aW1hZ2UvanBlZ3xhR0kyTDJnek15OHhOakV6TWpVNE1EWTNNVFV4T0M5d2NtUXRabkp2Ym5RdE5UWXhORFF4TkMweFh6WXdNSGcyTURBfGQ2ZmVjYTU5ZmMwNjQyNGUyYTlkMmZjOWRhNGI3OGVjNTdiNzA4NDQ2NDkwNDFiODkzNmQ2OTQyYTRmM2E3ZjM"
 }

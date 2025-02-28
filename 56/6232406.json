@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Ninajago 71836 Boogdraak van Concentratie",
+  "code": "6232406",
+  "price": "89.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-ninajago-71836-boogdraak-van-concentratie/p/6232406",
+  "listName": "Lister",
+  "brand": "LEGO Ninjago",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266812,
+      "name": "LEGO Ninjago"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hab/hdc/33456277487646/prd-front-6232406-1_600x600/prd-front-6232406-1-600x600.jpg"
+}

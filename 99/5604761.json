@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea Sun Luminous630 Anti-Spot SPF50 Zonnecrème voor het Gezicht",
+  "itemName": "NIVEA Sun Luminous630 Anti-Spot SPF50+ Zonnefluïde",
   "code": "5604761",
   "price": "27.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "473012",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-sun-luminous630-anti-spot-spf50-zonnecreme-voor-het-gezicht/p/5604761",
+  "url": "/nivea-sun-luminous630-anti-spot-spf50-zonnefluide/p/5604761",
   "listName": "Lister",
   "brand": "Nivea",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "40ml",
-  "image": "/medias/sys_master/prd-images/hfb/h61/33499147206686/prd-front-5604761-1_600x600/prd-front-5604761-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }
