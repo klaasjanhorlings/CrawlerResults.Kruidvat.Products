@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1049971",
-  "mmkId": "1049971",
-  "productGroupId": "463562",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-minecraft-21268-het-huis-van-het-biggetje/p/6242276",
@@ -33,5 +33,6 @@
       "name": "LEGO Minecraft"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb2/h03/32883555368990/prd-front-6242276-1_600x600/prd-front-6242276-1-600x600.jpg"
 }
