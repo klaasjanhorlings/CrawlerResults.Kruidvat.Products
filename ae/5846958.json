@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6233",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "1049801",
-  "mmkId": "1049801",
-  "productGroupId": "458846",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-collageen-marine-pure-2500mg-tabletten/p/5846958",
@@ -33,5 +33,6 @@
       "name": "Beautysupplementen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h60/hfe/27525400821790/prd-front-5846958-1_600x600/prd-front-5846958-1-600x600.jpg"
 }

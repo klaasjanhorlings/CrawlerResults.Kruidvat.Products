@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Elvive Color Vive Shampoo Refill",
+  "code": "6249899",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1049764",
+  "mmkId": "1049764",
+  "productGroupId": "455419",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-elvive-color-vive-shampoo-refill/p/6249899",
+  "listName": "Lister",
+  "brand": "Elvive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hd1/h78/33147584446494/prd-front-6249899-1_600x600/prd-front-6249899-1-600x600.jpg"
+}
