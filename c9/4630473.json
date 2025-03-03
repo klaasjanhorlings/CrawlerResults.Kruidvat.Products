@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Organix 12+M Haver, Appel, Banaan, Aardbei & Bosbes Knijpfruit",
   "code": "4630473",
   "price": "1.45",
@@ -37,6 +37,5 @@
       "name": "12 maanden +"
     }
   ],
-  "description": "100g",
-  "image": "/medias/sys_master/prd-images/h2f/hb0/32821013020702/prd-front-4630473-1_600x600/prd-front-4630473-1-600x600.jpg"
+  "description": "100g"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Happy Earth Baby & Kids 100% Natural Cream Oil Wash",
   "code": "5742507",
   "price": "9.49",
@@ -37,5 +37,6 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/prd-front-5742507-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTU0Nzl8aW1hZ2UvanBlZ3xhR1k0TDJnNU9TOHhOekF3TURnd09UWXlOelkzT0M5d2NtUXRabkp2Ym5RdE5UYzBNalV3TnkweFh6WXdNSGcyTURBfDNlZDY1OWM5MjBiOTM0Mzg0YmYwMzdjNWY4OWYyZDY3YjdhNzJhYWEzZTEyMmEzNjUwMmVjMGJmNDQ4MzkwZjg"
 }

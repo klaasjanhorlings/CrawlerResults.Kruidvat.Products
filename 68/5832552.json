@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Munchkin Miracle 360° Trainer Cup",
   "code": "5832552",
   "price": "12.95",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "blauw, 207ml"
+  "description": "blauw, 207ml",
+  "image": "/medias/prd-front-5832552-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQyMTh8aW1hZ2UvanBlZ3xhREEyTDJnNU1DOHlOalkyTnpJM05qSXpPRGczT0M5d2NtUXRabkp2Ym5RdE5UZ3pNalUxTWkweFh6WXdNSGcyTURBfDhlOGE2ZTVjMzRlZjMwZWI2NGU5MWJkYWY3NjRiZWVhNDMwNGNhYjEzZGQ3ZjRiMWFlZmZjZjQzZjQ5NDM4MDQ"
 }

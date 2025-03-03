@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Naïf Newborn Essentials Geschenkset",
   "code": "5947044",
   "price": "39.95",
@@ -37,5 +37,6 @@
       "name": "Babybadolie"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd2/h40/28370649448478/prd-front-5947044-1_600x600/prd-front-5947044-1-600x600.jpg"
 }

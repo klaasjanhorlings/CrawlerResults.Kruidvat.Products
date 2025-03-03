@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pampers Ninjamas Meisjes 8-12 Jaar Pyjama Pants",
   "code": "5951629",
   "price": "7.49",
@@ -29,6 +29,5 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "Medisch hulpmiddel - mt 8-12 jaar, 9 stuks",
-  "image": "/medias/sys_master/prd-images/hfa/h78/28724912554014/prd-front-5951629-1_600x600/prd-front-5951629-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - mt 8-12 jaar, 9 stuks"
 }

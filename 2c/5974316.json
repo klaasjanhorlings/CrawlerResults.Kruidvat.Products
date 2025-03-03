@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nutrilon 2 Flesvoeding 6-12 Maanden Opvolgmelk",
   "code": "5974316",
   "price": "10.99",
@@ -37,6 +37,5 @@
       "name": "Opvolgmelk"
     }
   ],
-  "description": "600g",
-  "image": "/medias/sys_master/prd-images/hdb/h6c/29187096707102/prd-front-5974316-1_600x600/prd-front-5974316-1-600x600.jpg"
+  "description": "600g"
 }

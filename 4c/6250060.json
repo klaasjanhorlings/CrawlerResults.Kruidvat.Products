@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Klassieke TOP10 Voucher",
+  "code": "6250060",
+  "price": "45.0",
+  "priceOriginal": "90.0",
+  "itemBgbcat": "4870 > 4893 > 4891 > 4892 > 4894 > 6447",
+  "supplier": "STICHTING BELEEF KLASSIEK",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 45,00",
+  "url": "/klassieke-top10-voucher/p/6250060",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536083,
+      "name": "Tickets"
+    },
+    {
+      "id": 30266049,
+      "name": "Avondje uit"
+    },
+    {
+      "id": 30266873,
+      "name": "Concerten en voorstellingen"
+    }
+  ],
+  "description": "Verzilver je vouchercode via de link in de productinformatie.",
+  "image": "/medias/sys_master/prd-images/h2b/h87/33430242033694/prd-front-6250060-1_600x600/prd-front-6250060-1-600x600.jpg"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Driehoekslabbetjes",
   "code": "5672395",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Slabbetjes"
     }
   ],
-  "description": "beige, blauw, 2 stuks"
+  "description": "beige, blauw, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h6f/hdf/28808590557214/prd-front-5672395-1_600x600/prd-front-5672395-1-600x600.jpg"
 }

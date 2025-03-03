@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pampers Baby-Dry Pants Maat 5 Luierbroekjes",
   "code": "6240897",
   "price": "15.49",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 5"
     }
   ],
-  "description": "mt 5 (11-17kg), 24 stuks"
+  "description": "mt 5 (11-17kg), 24 stuks",
+  "image": "/medias/sys_master/prd-images/h16/h3c/33352648359966/prd-front-6240897-1_600x600/prd-front-6240897-1-600x600.jpg"
 }

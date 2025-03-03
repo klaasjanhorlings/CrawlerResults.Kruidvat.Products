@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Zwitsal Baby Slaap Zacht Lavendel Massage Oliegel",
   "code": "1889602",
   "price": "5.69",
@@ -37,5 +37,6 @@
       "name": "Babyolie"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hb4/hf6/28369785028638/prd-front-1889602-1_600x600/prd-front-1889602-1-600x600.jpg"
 }

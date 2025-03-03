@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1049971",
-  "mmkId": "1049971",
-  "productGroupId": "463562",
+  "onPromo": "1040890",
+  "mmkId": "1040890",
+  "productGroupId": "432542",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-duplo-10954-getallentrein/p/5450530",
@@ -33,5 +33,6 @@
       "name": "LEGO Duplo"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5450530-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTYzMjM4fGltYWdlL2pwZWd8YUdJMUwyZzRaaTh4TnpVMU5ESTJNelF3T0RZM01DOXdjbVF0Wm5KdmJuUXROVFExTURVek1DMHhYell3TUhnMk1EQXxhYjRhMWMxNTg1ZWVkODdmZjdjYWNlMTQ1NjE3ODE5YjFlNTAxNDcwZTQ3M2I2ZDZkYjc0ZGFjMTg0OWRhN2Yx"
 }

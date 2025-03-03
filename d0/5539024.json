@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Maat 3 Midi Luierbroekjes Midpack",
   "code": "5539024",
   "price": "7.49",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 3"
     }
   ],
-  "description": "25 stuks"
+  "description": "25 stuks",
+  "image": "/medias/sys_master/prd-images/hd7/h5e/27553180319774/prd-front-5539024-1_600x600/prd-front-5539024-1-600x600.jpg"
 }

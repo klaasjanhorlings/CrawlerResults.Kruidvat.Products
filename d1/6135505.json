@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pampers Premium Protection Maat 4 Luiers",
   "code": "6135505",
   "price": "59.99",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "mt 4 (9-14kg), 108 stuks"
+  "description": "mt 4 (9-14kg), 108 stuks",
+  "image": "/medias/sys_master/prd-images/hbb/h1f/31803370635294/prd-front-6135505-1_600x600/prd-front-6135505-1-600x600.jpg"
 }

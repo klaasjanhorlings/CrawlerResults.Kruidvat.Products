@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath 2 That's Life Junior Speeltuin Puzzel",
+  "code": "6146775",
+  "price": "3.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6018",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 4,00",
+  "url": "/goliath-2-thats-life-junior-speeltuin-puzzel/p/6146775",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30266837,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "240 stukjes",
+  "image": "/medias/sys_master/prd-images/h32/he9/31844928847902/prd-front-6146775-1_600x600/prd-front-6146775-1-600x600.jpg"
+}

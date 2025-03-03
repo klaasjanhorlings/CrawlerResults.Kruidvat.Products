@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Super Mario 30702 Mario Kart Toad (pitstop)",
+  "code": "6240582",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-super-mario-30702-mario-kart-toad-pitstop/p/6240582",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69034864,
+      "name": "LEGO Games"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h63/h22/33069192118302/prd-front-6240582-1_600x600/prd-front-6240582-1-600x600.jpg"
+}

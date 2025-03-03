@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Neutral Parfumvrije Baby Huidolie",
   "code": "1244965",
   "price": "6.69",
@@ -37,5 +37,6 @@
       "name": "Babyolie"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/prd-front-1244965-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODA2MDZ8aW1hZ2UvanBlZ3xhREkyTDJoak5DOHhOak15TXpFeE5qWTVOVFU0TWk5d2NtUXRabkp2Ym5RdE1USTBORGsyTlMweFh6WXdNSGcyTURBfDdlMzQyZjY3MGQ0MTNjMWViN2E1OThkYjk3ZWU0OWMwZTU2NGE3NGU1ZDM3NjQ0ZjgzODc5NGY3NTBkNzI1YjA"
 }

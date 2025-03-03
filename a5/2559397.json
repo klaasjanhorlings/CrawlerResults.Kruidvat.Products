@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nutrilon 6 Peuterplusmelk Flesvoeding Vanaf 3 Jaar",
   "code": "2559397",
   "price": "10.49",
@@ -37,5 +37,6 @@
       "name": "Peutermelk"
     }
   ],
-  "description": "400g"
+  "description": "400g",
+  "image": "/medias/sys_master/prd-images/hfd/h0c/28594494799902/prd-front-2559397-1_600x600/prd-front-2559397-1-600x600.jpg"
 }
