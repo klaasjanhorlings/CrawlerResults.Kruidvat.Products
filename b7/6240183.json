@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Pampers Night Pants Maat 4 Luierbroekjes",
   "code": "6240183",
   "price": "24.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "1031990",
-  "mmkId": "1031990",
-  "productGroupId": "381930",
+  "onPromo": "1050091",
+  "mmkId": "1050091",
+  "productGroupId": "480508",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-night-pants-maat-4-luierbroekjes/p/6240183",
@@ -29,6 +29,5 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "mt 4 (9-15kg), 40 stuks",
-  "image": "/medias/sys_master/prd-images/h7a/h9a/33347335225374/prd-front-6240183-1_600x600/prd-front-6240183-1-600x600.jpg"
+  "description": "mt 4 (9-15kg), 40 stuks"
 }

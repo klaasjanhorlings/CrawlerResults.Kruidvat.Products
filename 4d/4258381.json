@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Bio Rijstebloem Papje",
   "code": "4258381",
   "price": "1.69",
@@ -33,5 +33,6 @@
       "name": "Babypap"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h3f/ha0/28309589426206/prd-front-4258381-1_600x600/prd-front-4258381-1-600x600.jpg"
 }

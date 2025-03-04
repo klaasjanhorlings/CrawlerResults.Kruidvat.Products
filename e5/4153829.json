@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Biodermal P-CL-E Olie",
   "code": "4153829",
   "price": "39.99",
@@ -33,6 +33,5 @@
       "name": "Mama verzorgingsproducten"
     }
   ],
-  "description": "75ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/h08/h73/27338934091806/prd-front-4153829-1_600x600/prd-front-4153829-1-600x600.jpg"
+  "description": "75ml - Droge huid"
 }

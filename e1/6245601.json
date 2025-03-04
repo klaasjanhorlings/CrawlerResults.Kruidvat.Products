@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Super Mario 72034 Baby Mario vs. Baby Luigi",
   "code": "6245601",
   "price": "27.99",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69034864,
-      "name": "LEGO Games"
+      "id": 30266822,
+      "name": "LEGO Super Mario"
     }
   ],
   "description": "",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Pampers Baby-Dry Pants Maat 4 Luierbroekjes",
   "code": "6107064",
   "price": "60.49",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 4"
     }
   ],
-  "description": "mt 4 (9-15kg), 108 stuks"
+  "description": "mt 4 (9-15kg), 108 stuks",
+  "image": "/medias/sys_master/prd-images/h59/h3c/30926760968222/prd-front-6107064-1_600x600/prd-front-6107064-1-600x600.jpg"
 }

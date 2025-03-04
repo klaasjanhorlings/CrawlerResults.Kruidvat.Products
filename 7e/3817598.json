@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Olvarit 4+M Wortel",
   "code": "3817598",
   "price": "1.09",
@@ -37,5 +37,6 @@
       "name": "4+ maanden"
     }
   ],
-  "description": "125g"
+  "description": "125g",
+  "image": "/medias/sys_master/prd-images/h03/hc5/30686244601886/prd-front-3817598-1_600x600/prd-front-3817598-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Drs Leenarts Babybillenzalf",
   "code": "5766692",
   "price": "8.45",
@@ -37,5 +37,6 @@
       "name": "Luierzalf"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h58/h0f/33498656538654/prd-front-5766692-1_600x600/prd-front-5766692-1-600x600.jpg"
 }

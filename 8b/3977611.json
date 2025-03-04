@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Galenco Baby Verzorgende, Verzachtende en Hydraterende Lichaamsmelk",
   "code": "3977611",
   "price": "10.95",
@@ -37,6 +37,5 @@
       "name": "Babyolie"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hfb/hc9/28807278821406/prd-front-3977611-1_600x600/prd-front-3977611-1-600x600.jpg"
+  "description": "200ml"
 }

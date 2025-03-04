@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Clementoni Edukit 4-In-1 Spidey Puzzel",
   "code": "6133713",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Puzzels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h27/h69/31459473948702/prd-front-6133713-1_600x600/prd-front-6133713-1-600x600.jpg"
+  "description": ""
 }

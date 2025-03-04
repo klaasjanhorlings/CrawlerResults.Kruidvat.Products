@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Hansaplast Sensitive Kids XL Pleisters ",
+  "itemName": "Hansaplast Sensitive Kids XL Pleisters",
   "code": "5893165",
   "price": "4.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "461543",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/hansaplast-sensitive-kids-xl-pleisters-/p/5893165",
+  "url": "/hansaplast-sensitive-kids-xl-pleisters/p/5893165",
   "listName": "Lister",
   "brand": "Hansaplast",
   "mpOrigin": "Kruidvat",
@@ -33,9 +33,10 @@
       "name": "Pleisters"
     },
     {
-      "id": 73414166,
-      "name": "Kinderpleisters"
+      "id": 73414198,
+      "name": "Sensitive pleisters"
     }
   ],
-  "description": "10 stuks"
+  "description": "Medisch hulpmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/hb5/ha6/32904955625502/prd-front-5893165-1_600x600/prd-front-5893165-1-600x600.jpg"
 }

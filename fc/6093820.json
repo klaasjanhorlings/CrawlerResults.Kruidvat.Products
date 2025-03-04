@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Goodies Pizza Llama Puffs",
   "code": "6093820",
   "price": "1.0",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 0,49",
+  "discount": "€ 0,49",
   "url": "/goodies-pizza-llama-puffs/p/6093820",
   "listName": "Lister",
   "brand": "Goodies",

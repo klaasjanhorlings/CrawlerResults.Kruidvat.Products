@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Difrax Mammafeel Slow 3+M Flessenspeen",
   "code": "6143527",
   "price": "11.99",
@@ -33,6 +33,5 @@
       "name": "Flessenspenen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h5b/h94/32149178023966/prd-front-6143527-1_600x600/prd-front-6143527-1-600x600.jpg"
+  "description": ""
 }

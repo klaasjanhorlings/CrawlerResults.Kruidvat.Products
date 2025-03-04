@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Baby Zeepvrije Wasgel",
   "code": "2322783",
   "price": "2.99",
@@ -37,6 +37,5 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/prd-front-2322783-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTc3MTh8aW1hZ2UvanBlZ3xhR00wTDJnME1pOHhOelF4TnpReU56RTRPVGM1TUM5d2NtUXRabkp2Ym5RdE1qTXlNamM0TXkweFh6WXdNSGcyTURBfGM5MjFlNDIyNjNjNTg3MTg4NmQyMTU2N2M2YTBkNDA5YThkN2Y2YTU5NzVhYmIzZWUzNzE5ZDZkOGI1MzhlMWM"
+  "description": "250ml"
 }
