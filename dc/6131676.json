@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bolsius Classic Lights 6-Uur Waxinelichtjes",
+  "code": "6131676",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 2631 > 2889 > 3664 > 5926 > 6679",
+  "supplier": "BOLSIUS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1050079",
+  "mmkId": "1050079",
+  "productGroupId": "462338",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bolsius-classic-lights-6-uur-waxinelichtjes/p/6131676",
+  "listName": "Lister",
+  "brand": "Bolsius",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266895,
+      "name": "Kaarsen"
+    },
+    {
+      "id": 80866389,
+      "name": "Theelichten"
+    }
+  ],
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/hdc/h5c/31621948866590/prd-front-6131676-1_600x600/prd-front-6131676-1-600x600.jpg"
+}

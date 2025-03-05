@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Klovenzalf",
   "code": "502908",
   "price": "4.99",
@@ -29,8 +29,8 @@
       "name": "Voetverzorging"
     },
     {
-      "id": 49316183,
-      "name": "Voetkloven"
+      "id": 48220898,
+      "name": "Voetcréme"
     }
   ],
   "description": "75ml",

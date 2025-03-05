@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ravensburger Mijn Eerste Bunny Hop",
   "code": "6134126",
   "price": "7.99",
@@ -25,8 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266034,
-      "name": "Educatief speelgoed"
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
     }
   ],
   "description": "Nederlandstalig spel",

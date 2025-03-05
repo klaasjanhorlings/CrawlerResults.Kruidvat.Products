@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Speed Champions 30709 Ferrari 499P Hypercar",
   "code": "6240603",
   "price": "2.99",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69051159,
-      "name": "LEGO Minisets"
+      "id": 30266818,
+      "name": "LEGO Speed Champions"
     }
   ],
   "description": "",

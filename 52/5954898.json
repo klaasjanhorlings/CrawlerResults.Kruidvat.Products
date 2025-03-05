@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Permetrine 50mg/g Gel",
   "code": "5954898",
   "price": "14.99",
@@ -37,6 +37,5 @@
       "name": "Schurft"
     }
   ],
-  "description": "Geneesmiddel - 30g",
-  "image": "/medias/sys_master/prd-images/h62/h04/32353245954078/prd-front-5954898-1_600x600/prd-front-5954898-1-600x600.jpg"
+  "description": "Geneesmiddel - 30g"
 }

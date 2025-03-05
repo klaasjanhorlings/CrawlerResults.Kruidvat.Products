@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Supradyn Complex Forte Bruistabletten",
   "code": "39221",
   "price": "24.49",
@@ -29,10 +29,13 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266717,
-      "name": "Weerstand en energie"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
-  "description": "45 stuks",
-  "image": "/medias/sys_master/prd-images/hf2/hb1/32494438383646/prd-front-39221-1_600x600/prd-front-39221-1-600x600.jpg"
+  "description": "45 stuks"
 }

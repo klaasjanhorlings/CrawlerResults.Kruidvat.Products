@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Clementoni Ontdek De Wereld Spel",
   "code": "6133692",
   "price": "6.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "Ander merk",
-  "discount": "$ 6,00",
+  "discount": "€ 6,00",
   "url": "/clementoni-ontdek-de-wereld-spel/p/6133692",
   "listName": "Lister",
   "brand": "Clementoni",
@@ -25,8 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266034,
-      "name": "Educatief speelgoed"
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30266837,
+      "name": "Puzzels"
     }
   ],
   "description": "Nederlandstalig spel",

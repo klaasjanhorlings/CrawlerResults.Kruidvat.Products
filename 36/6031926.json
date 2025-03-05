@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Animal Crossing 77050 Nooks Hoek en Rosies Huis",
   "code": "6031926",
   "price": "69.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Games"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h26/hf3/30036689289246/prd-front-6031926-1_600x600/prd-front-6031926-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Creator 30690 Paasei Schilderen met Kuiken",
   "code": "6240659",
   "price": "2.99",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69051159,
-      "name": "LEGO Minisets"
+      "id": 30266815,
+      "name": "LEGO Creator"
     }
   ],
   "description": "",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Roter Vitamine C 500 mg Kauwtabletten",
   "code": "3535484",
   "price": "12.49",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266990,
-      "name": "Vitamine C"
+      "id": 30266717,
+      "name": "Weerstand en energie"
     }
   ],
   "description": "50 stuks",

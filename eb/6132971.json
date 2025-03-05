@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Playing Kids Houten Koffieset",
   "code": "6132971",
   "price": "9.99",
@@ -25,8 +25,8 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266028,
-      "name": "Speelfiguren en speelsets"
+      "id": 30266036,
+      "name": "Houten speelgoed"
     }
   ],
   "description": "",

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tule Damesrok",
+  "code": "6190308",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2640 > 3325 > 4829 > 5814 > 5928 > 6038",
+  "supplier": "PARTYXPLOSION BV",
+  "inStock": "inStock",
+  "onPromo": "1050469",
+  "mmkId": "1050469",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/tule-damesrok/p/6190308",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "multikleur",
+  "image": "/medias/sys_master/prd-images/h1e/h71/32467488079902/prd-front-6190308-1_600x600/prd-front-6190308-1-600x600.jpg"
+}

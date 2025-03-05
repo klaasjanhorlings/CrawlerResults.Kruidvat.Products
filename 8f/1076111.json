@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "VSM Spiroflor SRL Spier- en Gewrichtsgel",
   "code": "1076111",
   "price": "11.89",
@@ -29,12 +29,8 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266708,
-      "name": "Spieren en gewrichten"
-    },
-    {
-      "id": 30266977,
-      "name": "Spier- en gewrichtsbalsems"
+      "id": 30266712,
+      "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
   "description": "Geneesmiddel - 75g",

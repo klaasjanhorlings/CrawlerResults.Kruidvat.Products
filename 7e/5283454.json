@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Goliath That's Life Pet Shop Puzzel",
   "code": "5283454",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha2/h99/28042731126814/prd-front-5283454-1_600x600/prd-front-5283454-1-600x600.jpg"
 }

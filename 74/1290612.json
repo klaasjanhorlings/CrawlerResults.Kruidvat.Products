@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Zink Tabletten",
   "code": "1290612",
   "price": "3.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/h42/h7d/33549678149662/prd-front-1290612-1_600x600/prd-front-1290612-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd5/h01/33561548521502/prd-front-1290612-1_600x600/prd-front-1290612-1-600x600.jpg"
 }

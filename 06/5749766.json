@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1049901",
-  "mmkId": "1049901",
-  "productGroupId": "467987",
+  "onPromo": "1050100",
+  "mmkId": "1050100",
+  "productGroupId": "477717",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-siliconen-moedermelkcollector/p/5749766",
@@ -25,12 +25,12 @@
       "name": "Baby"
     },
     {
-      "id": 30266022,
-      "name": "Babyvoedingsaccessoires"
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
     },
     {
-      "id": 30266801,
-      "name": "Flesvoedingsaccessoires"
+      "id": 30266804,
+      "name": "Borstvoedingsaccessoires"
     }
   ],
   "description": "",

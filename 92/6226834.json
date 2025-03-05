@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Classic 11039 Creatieve Etensvriendjes",
   "code": "6226834",
   "price": "8.99",
@@ -33,6 +33,5 @@
       "name": "LEGO Classic"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hbc/hf6/33139660685342/prd-front-6226834-1_600x600/prd-front-6226834-1-600x600.jpg"
+  "description": ""
 }

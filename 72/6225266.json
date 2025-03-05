@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Technic 42197 Graaflaadmachine",
   "code": "6225266",
   "price": "8.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Technic"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h21/h77/33143662379038/prd-front-6225266-1_600x600/prd-front-6225266-1-600x600.jpg"
 }

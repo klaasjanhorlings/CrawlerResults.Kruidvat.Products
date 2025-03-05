@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dagravit Vitamine D 10ug Parels",
   "code": "3424555",
   "price": "12.49",
@@ -33,5 +33,6 @@
       "name": "Botten en gewrichten"
     }
   ],
-  "description": "100 stuks"
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/h0e/h4f/32818742427678/prd-front-3424555-1_600x600/prd-front-3424555-1-600x600.jpg"
 }

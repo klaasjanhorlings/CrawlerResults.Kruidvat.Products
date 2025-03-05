@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Botanical Collection 10280 Bloemenboeket",
   "code": "5401474",
   "price": "54.99",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69043063,
-      "name": "LEGO Bloemen"
+      "id": 69026508,
+      "name": "LEGO Volwassenen"
     }
   ],
   "description": "",

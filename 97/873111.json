@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Modifast Chocolade Maaltijddrink",
   "code": "873111",
   "price": "2.79",
@@ -29,9 +29,10 @@
       "name": "Gewichtsbeheersing"
     },
     {
-      "id": 30266743,
-      "name": "Maaltijdvervangers"
+      "id": 30266742,
+      "name": "Maaltijdrepen, drinkmaaltijden"
     }
   ],
-  "description": "236ml"
+  "description": "236ml",
+  "image": "/medias/prd-front-873111-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjExMTR8aW1hZ2UvanBlZ3xhR0ppTDJneE5pOHlOekl4TWpRMk9EWTRNamM0TWk5d2NtUXRabkp2Ym5RdE9EY3pNVEV4TFRGZk5qQXdlRFl3TUF8MjY5N2FlODdiMWEwMzlkMDY3MTRiMDVmNmZkNmY2MDU2ODY1MjBlNWJiZGFhYzNkMjhhYjg5ZmI5NTJlODc0Mg"
 }

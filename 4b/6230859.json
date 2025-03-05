@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Harry Potter Ron Weasley Pop",
   "code": "6230859",
   "price": "7.99",
@@ -25,8 +25,8 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266028,
-      "name": "Speelfiguren en speelsets"
+      "id": 30266029,
+      "name": "Poppen en knuffels"
     }
   ],
   "description": "",

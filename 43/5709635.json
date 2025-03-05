@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nijntje Dieren Tellen",
   "code": "5709635",
   "price": "6.99",
@@ -25,12 +25,8 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266027,
-      "name": "Spellen en puzzels"
-    },
-    {
-      "id": 49281411,
-      "name": "Kaartspellen"
+      "id": 30266034,
+      "name": "Educatief speelgoed"
     }
   ],
   "description": "",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Canesten Gyno Balance Gel",
   "code": "4159247",
   "price": "16.99",
@@ -37,5 +37,6 @@
       "name": "Bacteriële vaginose"
     }
   ],
-  "description": "Medisch hulpmiddel - 7 stuks"
+  "description": "Medisch hulpmiddel - 7 stuks",
+  "image": "/medias/sys_master/prd-images/hd0/h76/30557260480542/prd-front-4159247-1_600x600/prd-front-4159247-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Friends 42645 Speelkamer van Aliya's Zusje",
   "code": "6225434",
   "price": "15.99",
@@ -33,6 +33,5 @@
       "name": "LEGO Friends"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h4c/hdc/33147569012766/prd-front-6225434-1_600x600/prd-front-6225434-1-600x600.jpg"
+  "description": ""
 }

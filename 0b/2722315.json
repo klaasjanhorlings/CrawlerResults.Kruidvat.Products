@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "VSM Arniflor Eerste Hulp Zalf",
   "code": "2722315",
   "price": "8.59",
@@ -37,5 +37,6 @@
       "name": "Eerste hulp zalf"
     }
   ],
-  "description": "25g"
+  "description": "25g",
+  "image": "/medias/sys_master/prd-images/hc6/h0b/32292613062686/prd-front-2722315-1_600x600/prd-front-2722315-1-600x600.jpg"
 }

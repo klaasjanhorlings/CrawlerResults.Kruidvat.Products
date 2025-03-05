@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Omega 3 Capsules",
   "code": "438249",
   "price": "6.89",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49793273,
-      "name": "Visolie"
+      "id": 30266727,
+      "name": "Hart en/of bloedvaten"
     }
   ],
   "description": "60 stuks",

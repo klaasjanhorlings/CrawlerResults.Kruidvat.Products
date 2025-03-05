@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Crime Scene Game ISS Excalibur 2049",
   "code": "6133020",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/hc5/ha8/31461471977502/prd-front-6133020-1_600x600/prd-front-6133020-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

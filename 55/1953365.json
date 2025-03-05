@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Davitamon Junior 1+ Framboos Vloeibare Vitaminen",
   "code": "1953365",
   "price": "16.49",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h02/h84/31476935393310/prd-front-1953365-1_600x600/prd-front-1953365-1-600x600.jpg"
 }

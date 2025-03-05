@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Disney 43266 De Jurk Van Assepoester",
   "code": "6232364",
   "price": "37.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Disney"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h09/hd4/33460562493470/prd-front-6232364-1_600x600/prd-front-6232364-1-600x600.jpg"
 }

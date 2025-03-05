@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Calcium Magnesium Zink Tabletten",
   "code": "105832",
   "price": "5.59",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266715,
-      "name": "Mineralen"
-    },
-    {
-      "id": 50001862,
-      "name": "Calcium"
+      "id": 30266729,
+      "name": "Botten en gewrichten"
     }
   ],
   "description": "90 stuks",

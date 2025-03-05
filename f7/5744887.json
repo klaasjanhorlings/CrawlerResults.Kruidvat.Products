@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Collageen Poeder",
   "code": "5744887",
   "price": "12.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49363733,
-      "name": "Collageensupplementen"
+      "id": 30266719,
+      "name": "Beautysupplementen"
     }
   ],
   "description": "100g",

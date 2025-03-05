@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Strijkkralen in Bewaardoos",
   "code": "6215340",
   "price": "6.99",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc1/h09/33148290269214/prd-front-6215340-1_600x600/prd-front-6215340-1-600x600.jpg"
 }

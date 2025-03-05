@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
   "supplier": "HERO NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1050120",
+  "mmkId": "1050120",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -29,12 +29,8 @@
       "name": "Babyvoeding"
     },
     {
-      "id": 30266770,
-      "name": "Fruithapjes"
-    },
-    {
-      "id": 30267004,
-      "name": "12 maanden +"
+      "id": 30266774,
+      "name": "Babytussendoortjes"
     }
   ],
   "description": "100g",

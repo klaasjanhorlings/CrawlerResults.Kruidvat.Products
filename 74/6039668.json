@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1049752",
+  "mmkId": "1049752",
+  "productGroupId": "454546",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rexona-advanced-protection-bright-bouquet-72h-antitranspirant-spray/p/6039668",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hbd/h74/30300774170654/prd-front-6039668-1_600x600/prd-front-6039668-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nijntje Danst Kaartspel",
   "code": "6073730",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hbe/hea/30479098773534/prd-front-6073730-1_600x600/prd-front-6073730-1-600x600.jpg"
+  "description": ""
 }

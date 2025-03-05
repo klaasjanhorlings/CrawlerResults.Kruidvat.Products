@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Collageen Beautydrink",
   "code": "5551365",
   "price": "13.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49363733,
-      "name": "Collageensupplementen"
+      "id": 30266719,
+      "name": "Beautysupplementen"
     }
   ],
   "description": "14 x 25ml",

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Edet Comfort Plus Luchtverfrisser Toiletpapier",
+  "code": "6193255",
+  "price": "6.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/edet-comfort-plus-luchtverfrisser-toiletpapier/p/6193255",
+  "listName": "Lister",
+  "brand": "Edet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266072,
+      "name": "Toiletpapier"
+    }
+  ],
+  "description": "6 rollen",
+  "image": "/medias/sys_master/prd-images/h14/h02/32125889314846/prd-front-6193255-1_600x600/prd-front-6193255-1-600x600.jpg"
+}

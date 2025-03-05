@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Natures Echinacea Forte Tabletten",
   "code": "5836885",
   "price": "9.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
-  "onPromo": "1050040",
-  "mmkId": "1050040",
-  "productGroupId": "456377",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-natures-echinacea-forte-tabletten/p/5836885",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266717,
-      "name": "Weerstand en energie"
+      "id": 49950694,
+      "name": "Natuurlijke supplementen"
     }
   ],
   "description": "60 stuks",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Davitamon B-Complex Forte Dragees",
   "code": "24351",
   "price": "13.29",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266989,
-      "name": "Vitamine B"
+      "id": 30266717,
+      "name": "Weerstand en energie"
     }
   ],
   "description": "100 stuks",

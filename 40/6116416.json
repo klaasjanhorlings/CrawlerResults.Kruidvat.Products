@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Clementoni Clemmy Blokkentas",
   "code": "6116416",
   "price": "14.99",
@@ -29,8 +29,8 @@
       "name": "Baby- en peuterspeelgoed"
     },
     {
-      "id": 30266832,
-      "name": "Vormenstoof"
+      "id": 69053413,
+      "name": "Bouwen"
     }
   ],
   "description": "",

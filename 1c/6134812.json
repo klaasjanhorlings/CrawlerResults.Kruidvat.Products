@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Playing Kids Houten Blokkenset",
   "code": "6134812",
   "price": "6.49",
@@ -25,8 +25,8 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266036,
-      "name": "Houten speelgoed"
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
     }
   ],
   "description": "",

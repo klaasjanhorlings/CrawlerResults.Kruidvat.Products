@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO DUPLO 10431 Peppa Big Tuin en Boomhut",
   "code": "6083502",
   "price": "17.99",
@@ -25,12 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266025,
-      "name": "LEGO"
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
     },
     {
-      "id": 30266823,
-      "name": "LEGO Duplo"
+      "id": 69053413,
+      "name": "Bouwen"
     }
   ],
   "description": "",

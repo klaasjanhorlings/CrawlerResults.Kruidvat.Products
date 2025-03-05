@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Goliath Let's Go Fishin' Spel",
   "code": "4942106",
   "price": "7.99",
@@ -25,12 +25,8 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266027,
-      "name": "Spellen en puzzels"
-    },
-    {
-      "id": 30266835,
-      "name": "Bordspellen"
+      "id": 30266035,
+      "name": "Elektronisch speelgoed"
     }
   ],
   "description": "",

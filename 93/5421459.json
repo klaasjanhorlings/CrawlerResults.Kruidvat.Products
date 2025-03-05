@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Voltaren Emulgel Extra Sterk 2,32% (diclofenac) Gel",
   "code": "5421459",
   "price": "32.99",
@@ -29,14 +29,13 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266706,
-      "name": "Pijn"
+      "id": 30266708,
+      "name": "Spieren en gewrichten"
     },
     {
-      "id": 30266971,
-      "name": "Diclofenac"
+      "id": 30266977,
+      "name": "Spier- en gewrichtsbalsems"
     }
   ],
-  "description": "Geneesmiddel - 150g",
-  "image": "/medias/sys_master/prd-images/h59/h52/32273974296606/prd-front-5421459-1_600x600/prd-front-5421459-1-600x600.jpg"
+  "description": "Geneesmiddel - 150g"
 }

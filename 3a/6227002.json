@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Superman 76302 Superman Mecha Vs. Lex Luthor",
   "code": "6227002",
   "price": "12.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Films"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc9/h48/33144407097374/prd-front-6227002-1_600x600/prd-front-6227002-1-600x600.jpg"
 }

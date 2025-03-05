@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Ledtheelichtjes",
+  "code": "6080898",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 5926 > 5980 > 5997 > 6679 > 6732",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "1050079",
+  "mmkId": "1050079",
+  "productGroupId": "462338",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-ledtheelichtjes/p/6080898",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266895,
+      "name": "Kaarsen"
+    },
+    {
+      "id": 80866453,
+      "name": "LED kaarsen"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/h39/h85/32343679205406/prd-front-6080898-1_600x600/prd-front-6080898-1-600x600.jpg"
+}

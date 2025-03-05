@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal K2 75 Mcg + D3 20 Mcg Capsules",
   "code": "5944118",
   "price": "14.99",
@@ -33,8 +33,8 @@
       "name": "Vitamines"
     },
     {
-      "id": 30266992,
-      "name": "Vitamine K"
+      "id": 30266991,
+      "name": "Vitamine D"
     }
   ],
   "description": "60 stuks",

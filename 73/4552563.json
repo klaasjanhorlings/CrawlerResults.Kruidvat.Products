@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 2-in-1 Hoestdrank",
   "code": "4552563",
   "price": "7.59",
@@ -37,5 +37,6 @@
       "name": "Hoestdrank"
     }
   ],
-  "description": "Medisch hulpmiddel - 120ml"
+  "description": "Medisch hulpmiddel - 120ml",
+  "image": "/medias/prd-front-4552563-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzgwNTl8aW1hZ2UvanBlZ3xhR00wTDJnd05TOHhOak15TlRNd01ESTRPVFUyTmk5d2NtUXRabkp2Ym5RdE5EVTFNalUyTXkweFh6WXdNSGcyTURBfDVjYTYxNjYxYTk1ZWQwYmRkMWUwYTYzMzZmMDllYjYzNmQ1MTc5ZTJjOWY3OWQzM2Y2MzFlOWQzYjBlM2EwYTE"
 }

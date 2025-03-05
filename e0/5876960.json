@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nicorette Invisi 10mg Nicotinepleisters",
   "code": "5876960",
   "price": "39.99",
@@ -37,6 +37,5 @@
       "name": "Nicotinepleisters"
     }
   ],
-  "description": "Geneesmiddel - 14 stuks",
-  "image": "/medias/sys_master/prd-images/hb1/h67/33056534331422/prd-front-5876960-1_600x600/prd-front-5876960-1-600x600.jpg"
+  "description": "Geneesmiddel - 14 stuks"
 }

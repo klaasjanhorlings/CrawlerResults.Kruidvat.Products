@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "WeCare Chewy Caramel Meal Replacement Bars",
   "code": "463799",
   "price": "2.89",
@@ -29,8 +29,8 @@
       "name": "Gewichtsbeheersing"
     },
     {
-      "id": 30266742,
-      "name": "Maaltijdrepen, drinkmaaltijden"
+      "id": 30266743,
+      "name": "Maaltijdvervangers"
     }
   ],
   "description": "2 x 58g",
