@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bisolvon 2-In-1 Hoestdrank voor Kinderen",
   "code": "4227000",
   "price": "13.99",
@@ -37,5 +37,6 @@
       "name": "Hoestdrank"
     }
   ],
-  "description": "Medisch hulpmiddel - 180g"
+  "description": "Medisch hulpmiddel - 180g",
+  "image": "/medias/sys_master/prd-images/h44/h7c/27570073436190/prd-front-4227000-1_600x600/prd-front-4227000-1-600x600.jpg"
 }

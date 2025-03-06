@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Losecosan Maagsapresistente Tabletten",
   "code": "1974799",
   "price": "15.99",
@@ -37,5 +37,6 @@
       "name": "Maagzuurremmers"
     }
   ],
-  "description": "Geneesmiddel - 14 stuks"
+  "description": "Geneesmiddel - 14 stuks",
+  "image": "/medias/sys_master/prd-images/hbb/hcf/30656997949470/prd-front-1974799-1_600x600/prd-front-1974799-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Clearblue Zwangerschapstest met Wekenindicator",
   "code": "6114141",
   "price": "19.99",
@@ -37,5 +37,6 @@
       "name": "Zwangerschapstesten"
     }
   ],
-  "description": "Medisch hulpmiddel - 2 stuks"
+  "description": "Medisch hulpmiddel - 2 stuks",
+  "image": "/medias/sys_master/prd-images/he2/h7d/32246573236254/prd-front-6114141-1_600x600/prd-front-6114141-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bio-Oil Huidverzorgingsolie",
   "code": "5421543",
   "price": "14.99",
@@ -33,5 +33,6 @@
       "name": "Bodyolie"
     }
   ],
-  "description": "60ml - Alle huidtypen"
+  "description": "60ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hea/haa/28039102496798/prd-front-5421543-1_600x600/prd-front-5421543-1-600x600.jpg"
 }

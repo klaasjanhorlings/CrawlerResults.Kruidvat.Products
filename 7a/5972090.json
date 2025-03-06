@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3382",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1049838",
+  "mmkId": "1049838",
+  "productGroupId": "461884",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-avent-ultra-air-6-16m-scf085/60-fopspeen/p/5972090",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hc7/hce/33551797583902/prd-front-5972090-1_600x600/prd-front-5972090-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha9/hb2/33563498348574/prd-front-5972090-1_600x600/prd-front-5972090-1-600x600.jpg"
 }

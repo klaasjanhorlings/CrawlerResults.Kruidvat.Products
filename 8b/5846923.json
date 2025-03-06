@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Vitamine B12 1000Mcg Kauwtabletten",
   "code": "5846923",
   "price": "19.99",
@@ -37,5 +37,6 @@
       "name": "Vitamine B"
     }
   ],
-  "description": "180 stuks"
+  "description": "180 stuks",
+  "image": "/medias/sys_master/prd-images/h6d/h8e/28170315333662/prd-front-5846923-1_600x600/prd-front-5846923-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Excilor Kalknagelbehandeling",
   "code": "3348332",
   "price": "22.99",
@@ -33,5 +33,6 @@
       "name": "Kalknagelbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 3,3ml"
+  "description": "Medisch hulpmiddel - 3,3ml",
+  "image": "/medias/sys_master/prd-images/had/h7c/32739521429534/prd-front-3348332-1_600x600/prd-front-3348332-1-600x600.jpg"
 }

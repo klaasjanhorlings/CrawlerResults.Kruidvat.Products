@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Duo Maagtabletten met Muntsmaak",
   "code": "6077678",
   "price": "7.99",
@@ -37,5 +37,6 @@
       "name": "Maagzuurremmers"
     }
   ],
-  "description": "48 stuks"
+  "description": "48 stuks",
+  "image": "/medias/sys_master/prd-images/h77/hd0/30585244090398/prd-front-6077678-1_600x600/prd-front-6077678-1-600x600.jpg"
 }

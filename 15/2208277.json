@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Ultra Thin Condooms",
   "code": "2208277",
   "price": "3.89",
@@ -33,5 +33,6 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel - 12 stuks"
+  "description": "Medisch hulpmiddel - 12 stuks",
+  "image": "/medias/sys_master/prd-images/h0f/h22/31639556784158/prd-front-2208277-1_600x600/prd-front-2208277-1-600x600.jpg"
 }

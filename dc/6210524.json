@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Neusspoeling Spray met Zeewater",
   "code": "6210524",
   "price": "6.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 100ml",
-  "image": "/medias/sys_master/prd-images/h16/h33/33550127038494/prd-front-6210524-1_600x600/prd-front-6210524-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h78/h01/33575436419102/prd-front-6210524-1_600x600/prd-front-6210524-1-600x600.jpg"
 }

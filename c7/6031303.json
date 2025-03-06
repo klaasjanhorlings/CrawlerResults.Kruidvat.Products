@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat VitMix Hair, Skin & Nails Vitaminepakket",
   "code": "6031303",
   "price": "15.99",
@@ -33,6 +33,5 @@
       "name": "Beautysupplementen"
     }
   ],
-  "description": "28 x 3 stuks",
-  "image": "/medias/sys_master/prd-images/h91/hdf/30411557044254/prd-front-6031303-1_600x600/prd-front-6031303-1-600x600.jpg"
+  "description": "28 x 3 stuks"
 }

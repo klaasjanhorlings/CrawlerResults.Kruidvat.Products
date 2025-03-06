@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Aleve Classic Tabletten",
   "code": "2871835",
   "price": "3.99",
@@ -37,5 +37,6 @@
       "name": "Naproxen"
     }
   ],
-  "description": "Geneesmiddel - 12 stuks"
+  "description": "Geneesmiddel - 12 stuks",
+  "image": "/medias/sys_master/prd-images/h30/h9b/27285481062430/prd-front-2871835-1_600x600/prd-front-2871835-1-600x600.jpg"
 }

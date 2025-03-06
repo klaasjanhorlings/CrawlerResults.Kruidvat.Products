@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Otrivin Neusreiniger Refill Wegwerpdopjes",
   "code": "4972563",
   "price": "7.99",
@@ -37,6 +37,5 @@
       "name": "Neusreiniger"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks",
-  "image": "/medias/sys_master/prd-images/h06/h15/30759995473950/prd-front-4972563-1_600x600/prd-front-4972563-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 10 stuks"
 }

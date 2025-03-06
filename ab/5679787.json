@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "1050120",
-  "mmkId": "1050120",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "bruin, 250ml",
-  "image": "/medias/prd-front-5679787-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDAyODR8aW1hZ2UvanBlZ3xhR1F3TDJneE55OHhOalkzTlRnMk16RTVPVGMzTkM5d2NtUXRabkp2Ym5RdE5UWTNPVGM0TnkweFh6WXdNSGcyTURBfDRiZDJkMDFjM2JmNTg3MzE4NjBmNDhlZjkyNjBiMzM3NzhhNzMyYzEwOWRiMGE4MGQyZjRkZTg4ZGUyOWI5YTM"
+  "description": "bruin, 250ml"
 }

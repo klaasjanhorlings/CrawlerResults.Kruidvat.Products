@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Oorthermometer",
   "code": "6193059",
   "price": "25.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel",
-  "image": "/medias/sys_master/prd-images/hbe/hb7/33556756791326/prd-front-6193059-1_600x600/prd-front-6193059-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hec/hca/33568721829918/prd-front-6193059-1_600x600/prd-front-6193059-1-600x600.jpg"
 }

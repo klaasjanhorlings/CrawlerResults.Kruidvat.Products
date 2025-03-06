@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Easytoys Panthra Asha Lipstick Vibrator",
   "code": "6244243",
   "price": "69.99",
@@ -41,5 +41,6 @@
       "name": "Mini vibrators"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h34/ha3/33390415577118/prd-front-6244243-1_600x600/prd-front-6244243-1-600x600.jpg"
 }
