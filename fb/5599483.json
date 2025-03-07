@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Ballerina Kousenvoetjes",
+  "code": "5599483",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "6021 > 2207 > 2621 > 3164 > 6626 > 2001",
+  "supplier": "STEPS FOOTSOCKS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-ballerina-kousenvoetjes/p/5599483",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266844,
+      "name": "Sokken"
+    }
+  ],
+  "description": "beige, mt 35-38, 2 paar",
+  "image": "/medias/sys_master/prd-images/h71/h33/27530330079262/prd-front-5599483-1_600x600/prd-front-5599483-1-600x600.jpg"
+}

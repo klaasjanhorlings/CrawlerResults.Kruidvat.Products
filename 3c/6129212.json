@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup 05 Apple Pie Highlighter Jumbo Stick",
+  "code": "6129212",
+  "price": "8.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-05-apple-pie-highlighter-jumbo-stick/p/6129212",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266589,
+      "name": "Highlighter"
+    }
+  ],
+  "description": "2,7g",
+  "image": "/medias/sys_master/prd-images/hf0/hdf/31927673782302/prd-front-6129212-1_600x600/prd-front-6129212-1-600x600.jpg"
+}

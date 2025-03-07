@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Solait Sensitive SPF30 Sunmilk",
+  "code": "4330005",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "DERMCOS GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-solait-sensitive-spf30-sunmilk/p/4330005",
+  "listName": "Lister",
+  "brand": "Kruidvat Solait",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-4330005-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTY1NzN8aW1hZ2UvanBlZ3xhREF3TDJnM1l5OHlOalF4TWpBM09ETTVPVFV4T0M5d2NtUXRabkp2Ym5RdE5ETXpNREF3TlMweFh6WXdNSGcyTURBfGNiMTY1NzkwOWViMjlmZTM1YjBiMmU0NGFlNGYwNjdhMDQ4MDQ3YzllMjI3YmJjMTc4NmFhMjA2MjdhYmQ1ZmY"
+}

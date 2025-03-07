@@ -33,9 +33,10 @@
       "name": "Pijn"
     },
     {
-      "id": 30266970,
-      "name": "Pijnstiller"
+      "id": 30266967,
+      "name": "Ibuprofen"
     }
   ],
-  "description": "Geneesmiddel - 40 stuks"
+  "description": "Geneesmiddel - 40 stuks",
+  "image": "/medias/sys_master/prd-images/h8c/h5a/27273627762718/prd-front-3684325-1_600x600/prd-front-3684325-1-600x600.jpg"
 }

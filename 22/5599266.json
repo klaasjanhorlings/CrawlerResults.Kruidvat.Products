@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Sneakersokken",
+  "code": "5599266",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "6021 > 2207 > 2598 > 3238 > 6625 > 2001",
+  "supplier": "STEPS FOOTSOCKS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-sneakersokken/p/5599266",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266844,
+      "name": "Sokken"
+    }
+  ],
+  "description": "wit, mt 35-38, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h32/h15/27502384676894/prd-front-5599266-1_600x600/prd-front-5599266-1-600x600.jpg"
+}

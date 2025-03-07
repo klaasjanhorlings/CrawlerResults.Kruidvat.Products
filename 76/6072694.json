@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1049745",
-  "mmkId": "1049745",
-  "productGroupId": "452650",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-expert-skin-health-protector-douchegel/p/6072694",
@@ -33,6 +33,5 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "600ml",
-  "image": "/medias/sys_master/prd-images/h33/h80/30437239980062/prd-front-6072694-1_600x600/prd-front-6072694-1-600x600.jpg"
+  "description": "600ml"
 }

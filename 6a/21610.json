@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "A.Vogel Echinaforce Crème",
   "code": "21610",
-  "price": "8.99",
+  "price": "9.49",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6495",
   "supplier": "A.VOGEL",
@@ -37,6 +37,5 @@
       "name": "Droge en gevoelige huid"
     }
   ],
-  "description": "30g",
-  "image": "/medias/sys_master/prd-images/hfc/hf7/32569597362206/prd-front-21610-1_600x600/prd-front-21610-1-600x600.jpg"
+  "description": "30g"
 }

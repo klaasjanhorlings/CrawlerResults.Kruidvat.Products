@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1049790",
-  "mmkId": "1049790",
-  "productGroupId": "457631",
+  "onPromo": "1050118",
+  "mmkId": "1050118",
+  "productGroupId": "482409",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-care-sensitive-creme/p/4237129",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h1e/hbe/32904942321694/prd-front-4237129-1_600x600/prd-front-4237129-1-600x600.jpg"
 }

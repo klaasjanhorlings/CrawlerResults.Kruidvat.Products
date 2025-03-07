@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1049702",
+  "mmkId": "1049702",
+  "productGroupId": "466535",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-shampoo/p/4978975",
@@ -37,6 +37,5 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "6 x 400ml",
-  "image": "/medias/sys_master/prd-images/h43/h54/33109694906398/prd-front-4978975-1_600x600/prd-front-4978975-1-600x600.jpg"
+  "description": "6 x 400ml"
 }
