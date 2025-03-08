@@ -25,13 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 73443492,
+      "name": "Essence"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/ha8/h62/32246586671134/prd-front-6199912-1_600x600/prd-front-6199912-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 4303 > 4306 > 4307 > 2272",
   "supplier": "KIMBERLY-CLARK BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Zwemluiers"
     }
   ],
-  "description": "11 stuks",
-  "image": "/medias/sys_master/prd-images/h84/h5d/27771990540318/prd-front-2779120-1_600x600/prd-front-2779120-1-600x600.jpg"
+  "description": "11 stuks"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5791 > 5790 > 5792 > 5795 > 5928 > 6716",
   "supplier": "TRENDSOURCE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Damespyjama's"
     }
   ],
-  "description": "mt M"
+  "description": "mt M",
+  "image": "/medias/sys_master/prd-images/h44/h74/32755831177246/prd-front-6210062-1_600x600/prd-front-6210062-1-600x600.jpg"
 }

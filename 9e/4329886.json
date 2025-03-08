@@ -6,7 +6,7 @@
   "price": "27.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
-  "supplier": "COOPER CONSUMER HEALTH NL B.V.",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
   "onPromo": "1049953",
   "mmkId": "1049953",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/he8/h32/33163980865566/prd-front-4329886-1_600x600/prd-front-4329886-1-600x600.jpg"
 }

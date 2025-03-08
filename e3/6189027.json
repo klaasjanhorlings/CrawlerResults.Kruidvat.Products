@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pokémon Sweater",
+  "code": "6189027",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5808 > 5809 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "VAN DER ERVE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pokemon-sweater/p/6189027",
+  "listName": "Lister",
+  "brand": "Pokemon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "mt 128-134",
+  "image": "/medias/sys_master/prd-images/he6/hf4/33576756772894/prd-front-6189027-1_600x600/prd-front-6189027-1-600x600.jpg"
+}
