@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2146 > 5926 > 5962 > 5979 > 5996 > 6679",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
-  "onPromo": "1050079",
-  "mmkId": "1050079",
-  "productGroupId": "462338",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-musk-vanilla-geurstokjes/p/6111236",
@@ -33,5 +33,6 @@
       "name": "Geurstokjes"
     }
   ],
-  "description": "130ml"
+  "description": "130ml",
+  "image": "/medias/sys_master/prd-images/hb6/hf5/31602831523870/prd-front-6111236-1_600x600/prd-front-6111236-1-600x600.jpg"
 }
