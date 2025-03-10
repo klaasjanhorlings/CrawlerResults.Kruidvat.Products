@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1049782",
-  "mmkId": "1049782",
-  "productGroupId": "457099",
+  "onPromo": "1050200",
+  "mmkId": "1050200",
+  "productGroupId": "459860",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-for-men-shampoo/p/2099609",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/he4/h47/32039336902686/prd-front-2099609-1_600x600/prd-front-2099609-1-600x600.jpg"
 }

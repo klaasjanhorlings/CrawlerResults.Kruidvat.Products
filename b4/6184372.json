@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Hydrofiele Slabbetjes",
+  "code": "6184372",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2130 > 2316 > 2717 > 3420 > 4362",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-hydrofiele-slabbetjes/p/6184372",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266802,
+      "name": "Slabbetjes"
+    }
+  ],
+  "description": "5 stuks",
+  "image": "/medias/sys_master/prd-images/h71/hdf/33055888343070/prd-front-6184372-1_600x600/prd-front-6184372-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 6356",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050232",
+  "mmkId": "1050232",
+  "productGroupId": "465704",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-natural-18m-fopspeen/p/5439540",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "bruin",
-  "image": "/medias/sys_master/prd-images/h42/h98/33598015668254/prd-front-5439540-1_600x600/prd-front-5439540-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hcd/hd5/33606183452702/prd-front-5439540-1_600x600/prd-front-5439540-1-600x600.jpg"
 }

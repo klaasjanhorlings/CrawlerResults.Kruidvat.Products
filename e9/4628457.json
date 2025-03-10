@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 3063 > 4145",
   "supplier": "RB HYGIENE HOME NL BV",
   "inStock": "inStock",
-  "onPromo": "1049730",
-  "mmkId": "1049730",
-  "productGroupId": "450436",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/air-wick-pure-zachtheid-van-katoen-luchtverfrisser/p/4628457",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h1b/h45/33539358490654/prd-front-4628457-1_600x600/prd-front-4628457-1-600x600.jpg"
 }

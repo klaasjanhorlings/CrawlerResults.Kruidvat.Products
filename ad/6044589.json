@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1049732",
-  "mmkId": "1049732",
-  "productGroupId": "450995",
+  "onPromo": "1050152",
+  "mmkId": "1050152",
+  "productGroupId": "452236",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-hammam-moisturising-shower-oil/p/6044589",
@@ -33,5 +33,6 @@
       "name": "Doucheolie"
     }
   ],
-  "description": "250ml - Droge huid"
+  "description": "250ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/he9/h59/30503729496094/prd-front-6044589-1_600x600/prd-front-6044589-1-600x600.jpg"
 }

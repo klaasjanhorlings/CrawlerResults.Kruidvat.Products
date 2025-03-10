@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "1049921",
-  "mmkId": "1049921",
-  "productGroupId": "469514",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/van-gils-strictly-no-1-eau-de-toilette/p/5956396",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hcc/hff/28679981269022/prd-front-5956396-1_600x600/prd-front-5956396-1-600x600.jpg"
 }

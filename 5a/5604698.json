@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1050112",
-  "mmkId": "1050112",
-  "productGroupId": "465750",
+  "onPromo": "1050193",
+  "mmkId": "1050193",
+  "productGroupId": "459190",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-excellence-3u-nudes-donkerbruin-permanente-haarverf/p/5604698",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf6/h69/31764704886814/prd-front-5604698-1_600x600/prd-front-5604698-1-600x600.jpg"
 }

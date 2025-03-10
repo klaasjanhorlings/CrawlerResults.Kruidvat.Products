@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 4362 > 2130 > 2324 > 2723 > 3426",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
-  "onPromo": "1049877",
-  "mmkId": "1049877",
-  "productGroupId": "466628",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pyjamaset/p/5639537",
@@ -33,6 +33,5 @@
       "name": "Pyjamas"
     }
   ],
-  "description": "roze, mt 74-80",
-  "image": "/medias/prd-front-5639537-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE3ODh8aW1hZ2UvanBlZ3xhRFExTDJnd1ppOHhOakUwT0RRMk1EZ3pNRGMxTUM5d2NtUXRabkp2Ym5RdE5UWXpPVFV6TnkweFh6WXdNSGcyTURBfDk1ZWEwNDc3MzgzYjEzZTFiYTkwYzU1YTMzYWNjMDQ0OWY4ODk2YmM2NDgwNjgyYWI1OGQwZGFmNzQwZTc2ZDQ"
+  "description": "roze, mt 74-80"
 }

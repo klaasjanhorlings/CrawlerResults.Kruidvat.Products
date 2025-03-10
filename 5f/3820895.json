@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1049923",
-  "mmkId": "1049923",
-  "productGroupId": "469789",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-6m-tomaat-rundvlees-aardappel-wortel/p/3820895",
@@ -37,6 +37,5 @@
       "name": "6+ maanden"
     }
   ],
-  "description": "200g",
-  "image": "/medias/sys_master/prd-images/h37/he7/30686379704350/prd-front-3820895-1_600x600/prd-front-3820895-1-600x600.jpg"
+  "description": "200g"
 }

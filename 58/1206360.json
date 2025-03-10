@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Microlax Oplossing Voor Rectaal Gebruik",
   "code": "1206360",
-  "price": "7.99",
+  "price": "8.29",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2759 > 3950",
   "supplier": "JOHNSON & JOHNSON CONS",
@@ -37,5 +37,6 @@
       "name": "Laxeermiddelen"
     }
   ],
-  "description": "Geneesmiddel - 4 x 5ml"
+  "description": "Geneesmiddel - 4 x 5ml",
+  "image": "/medias/sys_master/prd-images/h4f/h56/27434959011870/prd-front-1206360-1_600x600/prd-front-1206360-1-600x600.jpg"
 }

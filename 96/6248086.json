@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3880 > 5722",
   "supplier": "BOLDKING",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050303",
+  "mmkId": "1050303",
+  "productGroupId": "470594",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/boldking-regular-scheermes/p/6248086",
@@ -33,6 +33,5 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hfb/h51/32967792197662/prd-front-6248086-1_600x600/prd-front-6248086-1-600x600.jpg"
+  "description": ""
 }

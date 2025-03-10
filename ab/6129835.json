@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050302",
+  "mmkId": "1050302",
+  "productGroupId": "470541",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-bare-with-me-blur-15-warm-honey-foundation/p/6129835",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h65/he5/31928904056862/prd-front-6129835-1_600x600/prd-front-6129835-1-600x600.jpg"
+  "description": "30ml"
 }

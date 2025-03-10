@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 6134 > 6135 > 6133",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050302",
+  "mmkId": "1050302",
+  "productGroupId": "470541",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-jumbo-lash-kunstwimpers/p/6131221",
@@ -33,6 +33,5 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he8/h38/31921522606110/prd-front-6131221-1_600x600/prd-front-6131221-1-600x600.jpg"
+  "description": ""
 }

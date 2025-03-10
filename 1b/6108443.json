@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1049790",
-  "mmkId": "1049790",
-  "productGroupId": "457631",
+  "onPromo": "1050204",
+  "mmkId": "1050204",
+  "productGroupId": "460026",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-fruity-delight-green-apple-lily-shower-gel/p/6108443",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h2f/h08/32902715605022/prd-front-6108443-1_600x600/prd-front-6108443-1-600x600.jpg"
 }

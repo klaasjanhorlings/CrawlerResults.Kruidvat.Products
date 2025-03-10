@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "COSMO GROUP SP. Z O.O.",
   "inStock": "inStock",
-  "onPromo": "1050084",
-  "mmkId": "1050084",
-  "productGroupId": "470612",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mylaq-my-blush-tone-uv-gellak/p/6033067",
@@ -33,5 +33,6 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/hdc/h96/33007468118046/prd-front-6033067-1_600x600/prd-front-6033067-1-600x600.jpg"
 }

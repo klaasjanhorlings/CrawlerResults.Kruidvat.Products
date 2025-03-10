@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3865",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1049745",
-  "mmkId": "1049745",
-  "productGroupId": "452650",
+  "onPromo": "1050160",
+  "mmkId": "1050160",
+  "productGroupId": "452645",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-men-dermo-active-control-48-uur-antitranspirant-spray/p/4826354",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "200ml - Alle huidtypen"
+  "description": "200ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h00/h73/29096924807198/prd-front-4826354-1_600x600/prd-front-4826354-1-600x600.jpg"
 }

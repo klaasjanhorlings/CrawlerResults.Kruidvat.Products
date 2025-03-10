@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1049883",
-  "mmkId": "1049883",
-  "productGroupId": "466903",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sensodyne-complete-protection-advanced-whitening-tandpasta/p/5607533",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7e/h4c/32060691841054/prd-front-5607533-1_600x600/prd-front-5607533-1-600x600.jpg"
 }

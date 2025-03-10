@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "NEXT GENERATION PERFUME",
   "inStock": "inStock",
-  "onPromo": "1049919",
-  "mmkId": "1049919",
-  "productGroupId": "469500",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/ng-dark-cherry-eau-de-parfum/p/6143576",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7a/hb4/31570092326942/prd-front-6143576-1_600x600/prd-front-6143576-1-600x600.jpg"
+  "description": ""
 }

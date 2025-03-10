@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1049953",
-  "mmkId": "1049953",
-  "productGroupId": "473012",
+  "onPromo": "1050204",
+  "mmkId": "1050204",
+  "productGroupId": "460026",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-hydraterende-kalmerende-aftersun-lotion/p/1859474",
@@ -33,5 +33,6 @@
       "name": "Aftersun"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hd6/h0b/33549680508958/prd-front-1859474-1_600x600/prd-front-1859474-1-600x600.jpg"
 }

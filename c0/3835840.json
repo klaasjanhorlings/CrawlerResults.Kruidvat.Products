@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1049792",
-  "mmkId": "1049792",
-  "productGroupId": "457969",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-kids-disney-frozen-ll-snoetenpoetsers/p/3835840",
@@ -33,6 +33,5 @@
       "name": "Snoetenpoetsers"
     }
   ],
-  "description": "40 stuks",
-  "image": "/medias/sys_master/prd-images/hcf/h84/33503671091230/prd-front-3835840-1_600x600/prd-front-3835840-1-600x600.jpg"
+  "description": "40 stuks"
 }

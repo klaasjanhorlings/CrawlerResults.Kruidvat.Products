@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1049889",
-  "mmkId": "1049889",
-  "productGroupId": "466995",
+  "onPromo": "1050307",
+  "mmkId": "1050307",
+  "productGroupId": "470940",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-discreet-nacht-incontinentieverband/p/6037785",
@@ -37,5 +37,6 @@
       "name": "Incontinentieverband"
     }
   ],
-  "description": "Medisch hulpmiddel - 16 stuks"
+  "description": "Medisch hulpmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/h63/hb6/30283813027870/prd-front-6037785-1_600x600/prd-front-6037785-1-600x600.jpg"
 }

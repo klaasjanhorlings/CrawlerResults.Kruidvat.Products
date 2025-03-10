@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "1049914",
-  "mmkId": "1049914",
-  "productGroupId": "469363",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-sonicare-optimal-hx6068/13-white-opzetborstels/p/5607526",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "zwart, 8 stuks"
+  "description": "zwart, 8 stuks",
+  "image": "/medias/sys_master/prd-images/h02/h38/33607368081438/prd-front-5607526-1_600x600/prd-front-5607526-1-600x600.jpg"
 }

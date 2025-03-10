@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Philips Sonicare 5300 Elektrische Tandenborstel",
   "code": "6166438",
-  "price": "139.99",
-  "priceOriginal": "",
+  "price": "69.99",
+  "priceOriginal": "139.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "1049914",
-  "mmkId": "1049914",
-  "productGroupId": "469363",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 70,00",
   "url": "/philips-sonicare-5300-elektrische-tandenborstel/p/6166438",
   "listName": "Lister",
   "brand": "Philips",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "wit",
-  "image": "/medias/sys_master/prd-images/h30/h91/33604943904798/prd-front-6166438-1_600x600/prd-front-6166438-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

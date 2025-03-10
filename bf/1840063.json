@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1049755",
-  "mmkId": "1049755",
-  "productGroupId": "454803",
+  "onPromo": "1050248",
+  "mmkId": "1050248",
+  "productGroupId": "466666",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-classic-levendige-kleur-shampoo/p/1840063",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h5b/h34/31832040636446/prd-front-1840063-1_600x600/prd-front-1840063-1-600x600.jpg"
 }

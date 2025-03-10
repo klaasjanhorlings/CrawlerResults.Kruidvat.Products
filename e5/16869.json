@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2077 > 2235 > 2537 > 3165 > 3758",
   "supplier": "KIMBERLY-CLARK BV",
   "inStock": "inStock",
-  "onPromo": "1049761",
-  "mmkId": "1049761",
-  "productGroupId": "454980",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kleenex-balsam-zakdoekjes/p/16869",
@@ -29,5 +29,6 @@
       "name": "Tissues en zakdoekjes"
     }
   ],
-  "description": "8 x 9 stuks"
+  "description": "8 x 9 stuks",
+  "image": "/medias/sys_master/prd-images/h2c/h09/32246346514462/prd-front-16869-1_600x600/prd-front-16869-1-600x600.jpg"
 }

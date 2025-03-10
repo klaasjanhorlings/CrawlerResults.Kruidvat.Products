@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1049752",
-  "mmkId": "1049752",
-  "productGroupId": "454546",
+  "onPromo": "1050164",
+  "mmkId": "1050164",
+  "productGroupId": "454536",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-apollo-antitranspirant-spray/p/3099615",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h32/h1e/33196978667550/prd-front-3099615-1_600x600/prd-front-3099615-1-600x600.jpg"
+  "description": "150ml"
 }

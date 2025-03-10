@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3865",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1049790",
-  "mmkId": "1049790",
-  "productGroupId": "457631",
+  "onPromo": "1050204",
+  "mmkId": "1050204",
+  "productGroupId": "460026",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-dry-fresh-antitranspirant-spray/p/4390142",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/he6/h3a/33179110113310/prd-front-4390142-1_600x600/prd-front-4390142-1-600x600.jpg"
 }

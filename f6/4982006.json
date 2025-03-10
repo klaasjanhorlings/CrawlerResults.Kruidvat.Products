@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1049790",
-  "mmkId": "1049790",
-  "productGroupId": "457631",
+  "onPromo": "1050204",
+  "mmkId": "1050204",
+  "productGroupId": "460026",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-glow-rijstscrub/p/4982006",
@@ -37,5 +37,6 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "75ml- Droge en gevoelige huid"
+  "description": "75ml- Droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h36/h98/32902373834782/prd-front-4982006-1_600x600/prd-front-4982006-1-600x600.jpg"
 }

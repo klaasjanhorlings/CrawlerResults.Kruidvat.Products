@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 4362 > 2130 > 2324 > 2723 > 3426",
   "supplier": "MUNDIA BV",
   "inStock": "inStock",
-  "onPromo": "1049877",
-  "mmkId": "1049877",
-  "productGroupId": "466628",
+  "onPromo": "1050250",
+  "mmkId": "1050250",
+  "productGroupId": "466668",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pyjamaset/p/5639551",
@@ -33,5 +33,6 @@
       "name": "Pyjamas"
     }
   ],
-  "description": "roze, mt 62-68"
+  "description": "roze, mt 62-68",
+  "image": "/medias/sys_master/prd-images/h1a/hdc/28511937462302/prd-front-5639551-1_600x600/prd-front-5639551-1-600x600.jpg"
 }

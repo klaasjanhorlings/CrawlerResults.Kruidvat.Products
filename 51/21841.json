@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1049817",
-  "mmkId": "1049817",
-  "productGroupId": "460030",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/purol-lippenbalsem-stick/p/21841",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/prd-front-21841-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjM0NDN8aW1hZ2UvanBlZ3xhR1prTDJnNVl5OHhOalUzTWprMU9EYzJPVEU0TWk5d2NtUXRabkp2Ym5RdE1qRTROREV0TVY4Mk1EQjROakF3fGEwNWZjM2RmMzZiODJkMWRhNTJlNmY5N2NkYTJlZjE3ZGJhYzkwNzQyMDQ5MmJlYmJmNzczOWFjZjIzNTgzNjQ"
 }
