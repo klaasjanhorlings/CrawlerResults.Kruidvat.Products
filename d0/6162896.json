@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6206 > 6224 > 6298",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/roter-vitamine-c-1000-mg-bruistabletten/p/6162896",
@@ -33,6 +33,5 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "15 stuks",
-  "image": "/medias/sys_master/prd-images/h2a/h4b/32499038978078/prd-front-6162896-1_600x600/prd-front-6162896-1-600x600.jpg"
+  "description": "15 stuks"
 }

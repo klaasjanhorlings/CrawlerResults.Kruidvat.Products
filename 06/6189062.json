@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sportlegging met Dierenprint",
+  "code": "6189062",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2610 > 3250 > 4141 > 5928 > 6038 > 6042",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/sportlegging-met-dierenprint/p/6189062",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "mt L",
+  "image": "/medias/sys_master/prd-images/hd6/haa/33153947729950/prd-front-6189062-1_600x600/prd-front-6189062-1-600x600.jpg"
+}

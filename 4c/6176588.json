@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Kraagje met Dierenprint",
+  "code": "6176588",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2225 > 4869 > 6652 > 6653 > 6654",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-kraagje-met-dierenprint/p/6176588",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h89/hde/33075099140126/prd-front-6176588-1_600x600/prd-front-6176588-1-600x600.jpg"
+}

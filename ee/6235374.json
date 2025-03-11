@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leddinerkaarsen",
+  "code": "6235374",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 5926 > 5980 > 5997 > 6679 > 6732",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/leddinerkaarsen/p/6235374",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266895,
+      "name": "Kaarsen"
+    },
+    {
+      "id": 80866453,
+      "name": "LED kaarsen"
+    }
+  ],
+  "description": "beige, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h78/h1d/32783759081502/prd-front-6235374-1_600x600/prd-front-6235374-1-600x600.jpg"
+}

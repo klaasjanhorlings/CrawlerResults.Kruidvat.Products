@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Hyaluron Shampoo",
+  "code": "5970137",
+  "price": "8.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "BEIERSDORF NV BL",
+  "inStock": "inStock",
+  "onPromo": "1050204",
+  "mmkId": "1050204",
+  "productGroupId": "460026",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-hyaluron-shampoo/p/5970137",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h8c/h46/31112518729758/prd-front-5970137-1_600x600/prd-front-5970137-1-600x600.jpg"
+}

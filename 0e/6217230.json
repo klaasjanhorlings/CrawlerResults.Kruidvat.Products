@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Houten Serveerplank op Voet",
+  "code": "6217230",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/houten-serveerplank-op-voet/p/6217230",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 80863506,
+      "name": "Dienbladen"
+    }
+  ],
+  "description": "⌀ 30cm x 9cm",
+  "image": "/medias/sys_master/prd-images/h4e/hd2/32720737730590/prd-front-6217230-1_600x600/prd-front-6217230-1-600x600.jpg"
+}

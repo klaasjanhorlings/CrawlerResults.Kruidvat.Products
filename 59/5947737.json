@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Derma Kalmerend Hoofdhuidbehandeling",
+  "code": "5947737",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6697",
+  "supplier": "MARION PRIVATE LABEL",
+  "inStock": "inStock",
+  "onPromo": "1049867",
+  "mmkId": "1049867",
+  "productGroupId": "465805",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-derma-kalmerend-hoofdhuidbehandeling/p/5947737",
+  "listName": "Lister",
+  "brand": "KRUIDVAT DERMA",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213665,
+      "name": "Haartreatment"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h6f/hbb/28924514140190/prd-front-5947737-1_600x600/prd-front-5947737-1-600x600.jpg"
+}
