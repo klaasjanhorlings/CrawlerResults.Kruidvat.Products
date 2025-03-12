@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050200",
+  "mmkId": "1050200",
+  "productGroupId": "459860",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-power-hold-styling-gel/p/4047121",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hff/h19/33064280555550/prd-front-4047121-1_600x600/prd-front-4047121-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050302",
+  "mmkId": "1050302",
+  "productGroupId": "470541",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-duck-plump-09-beige-boost-plumping-lipliner/p/6230607",
@@ -33,6 +33,5 @@
       "name": "Lipliner"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h40/h76/33612864028702/prd-front-6230607-1_600x600/prd-front-6230607-1-600x600.jpg"
+  "description": ""
 }

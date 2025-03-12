@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2181 > 5921 > 6018 > 6741 > 6740 > 6739",
   "supplier": "RUBY-TOYS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h19/h93/32968356626462/prd-front-6214136-1_600x600/prd-front-6214136-1-600x600.jpg"
 }

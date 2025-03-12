@@ -21,11 +21,15 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266076,
-      "name": "Eten en drinken"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 30266888,
+      "id": 30266009,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 30266744,
       "name": "Zoetstoffen"
     }
   ],

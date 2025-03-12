@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 51214305,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 55926760,
-      "name": "Pigmentverzorging"
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "50ml"

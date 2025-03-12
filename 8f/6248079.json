@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
   "supplier": "BOLDKING",
-  "inStock": "inStock",
-  "onPromo": "1050303",
-  "mmkId": "1050303",
-  "productGroupId": "470594",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/boldking-regular-scheermesjes/p/6248079",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/hb4/h35/32968112635934/prd-front-6248079-1_600x600/prd-front-6248079-1-600x600.jpg"
 }
