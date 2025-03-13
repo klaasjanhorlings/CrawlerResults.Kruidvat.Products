@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Slim Eye SPE911 Emerald City Pencil",
+  "code": "6130451",
+  "price": "4.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1050302",
+  "mmkId": "1050302",
+  "productGroupId": "470541",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-slim-eye-spe911-emerald-city-pencil/p/6130451",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266585,
+      "name": "Oogpotlood"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hdc/hde/31920252944414/prd-front-6130451-1_600x600/prd-front-6130451-1-600x600.jpg"
+}

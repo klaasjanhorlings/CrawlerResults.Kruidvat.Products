@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris True Match W8 Golden Cappuccino Poeder",
+  "code": "4473708",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-true-match-w8-golden-cappuccino-poeder/p/4473708",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266587,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4473708-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ3Nzh8aW1hZ2UvanBlZ3xhRGc0TDJnME5pOHhOak0yTlRBNU9UWTBOekF3Tmk5d2NtUXRabkp2Ym5RdE5EUTNNemN3T0MweFh6WXdNSGcyTURBfDQzZmNjNWM4ODcwN2ZiOTdkYjI1OTdhZDJhZDBhZjEzMGViMzY4NTlhNjg5ZDM1MDIxMzQyNWE0MDc0MzBkZjI"
+}

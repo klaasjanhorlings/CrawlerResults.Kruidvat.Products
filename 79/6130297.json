@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup 03 No Filter Needed Fat Oil Slick Click",
+  "code": "6130297",
+  "price": "10.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1050302",
+  "mmkId": "1050302",
+  "productGroupId": "470541",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-03-no-filter-needed-fat-oil-slick-click/p/6130297",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "4,8ml",
+  "image": "/medias/sys_master/prd-images/h7c/he8/31921986437150/prd-front-6130297-1_600x600/prd-front-6130297-1-600x600.jpg"
+}

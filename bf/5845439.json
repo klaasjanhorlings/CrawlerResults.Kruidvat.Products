@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "M. Asam Dream Glow Skin Poeder Bronzer",
+  "code": "5845439",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "ASAM-BETRIEBS GMBH",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/m-asam-dream-glow-skin-poeder-bronzer/p/5845439",
+  "listName": "Lister",
+  "brand": "M. Asam",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266588,
+      "name": "Bronzer"
+    }
+  ],
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/ha7/ha9/27802031751198/prd-front-5845439-1_600x600/prd-front-5845439-1-600x600.jpg"
+}
