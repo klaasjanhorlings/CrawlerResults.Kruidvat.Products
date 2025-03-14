@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Color Riche 300 Rouge Confident Intense Volume Matte Lippenstift",
+  "code": "5783713",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1050218",
+  "mmkId": "1050218",
+  "productGroupId": "461197",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-color-riche-300-rouge-confident-intense-volume-matte-lippenstift/p/5783713",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266595,
+      "name": "Lipliner"
+    }
+  ],
+  "description": "1,8g",
+  "image": "/medias/prd-front-5783713-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTMyODB8aW1hZ2UvanBlZ3xhR0l6TDJnME5DOHlOamMzTkRjek16UTFOVE01TUM5d2NtUXRabkp2Ym5RdE5UYzRNemN4TXkweFh6WXdNSGcyTURBfDhkOGI0MDM1YTczY2UzMjcxZjc2OTlkZmQwNjIxOWVkZmZiMTAyNWM5OTI1MjU2MjVlMjJjMmRlMWJkZGI1YWM"
+}

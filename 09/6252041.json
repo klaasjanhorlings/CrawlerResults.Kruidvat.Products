@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "A.Vogel Oorsmeer Oorspray",
+  "code": "6252041",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
+  "supplier": "A.VOGEL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/avogel-oorsmeer-oorspray/p/6252041",
+  "listName": "Lister",
+  "brand": "A.Vogel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30266946,
+      "name": "Oorspray"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10 ml",
+  "image": "/medias/sys_master/prd-images/hfa/h8a/33280478085150/prd-front-6252041-1_600x600/prd-front-6252041-1-600x600.jpg"
+}

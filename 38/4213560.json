@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2734 > 3436",
   "supplier": "MONDELEZ NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1050035",
+  "mmkId": "1050035",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Chocolade"
     }
   ],
-  "description": "180g"
+  "description": "180g",
+  "image": "/medias/sys_master/prd-images/h77/h71/27773241655326/prd-front-4213560-1_600x600/prd-front-4213560-1-600x600.jpg"
 }
