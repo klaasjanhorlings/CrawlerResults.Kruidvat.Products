@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Organix 7+M Melty Veggie Groentesticks",
   "code": "5021808",
   "price": "1.19",
@@ -33,5 +33,6 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "15g"
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/h8d/h20/32877457178654/prd-front-5021808-1_600x600/prd-front-5021808-1-600x600.jpg"
 }

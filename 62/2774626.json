@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nutrilon A.R. 1 Dieetvoeding 0-6 Maanden",
   "code": "2774626",
   "price": "22.89",
@@ -37,5 +37,6 @@
       "name": "Zuigelingenmelk"
     }
   ],
-  "description": "800g"
+  "description": "800g",
+  "image": "/medias/sys_master/prd-images/hf0/hd9/28370901237790/prd-front-2774626-1_600x600/prd-front-2774626-1-600x600.jpg"
 }

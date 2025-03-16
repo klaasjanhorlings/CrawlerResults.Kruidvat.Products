@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Pants Maat 6 Extra Large Luierbroekjes Minipack",
   "code": "5052944",
   "price": "2.99",
@@ -33,6 +33,5 @@
       "name": "Luierbroekjes maat 6"
     }
   ],
-  "description": "mt 6 (16-26 kg), 6 stuks",
-  "image": "/medias/prd-front-5052944-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAzOTg1fGltYWdlL2pwZWd8YURKa0wyaGpaUzh4TmpFeE16QXhOamM1T1RJMk1pOXdjbVF0Wm5KdmJuUXROVEExTWprME5DMHhYell3TUhnMk1EQXwyM2IwYjU0Y2Y3MWZlOGJlOGUxZTFiZDRiMGI5MDFjMWE5MTJlYmE1MjYwOTM4NzMyMWU1OTI0ZmNmNmUwZDc2"
+  "description": "mt 6 (16-26 kg), 6 stuks"
 }

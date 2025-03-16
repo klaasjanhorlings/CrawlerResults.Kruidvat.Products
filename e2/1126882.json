@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Baby Zinkzalf",
   "code": "1126882",
   "price": "2.69",
@@ -37,5 +37,6 @@
       "name": "Zinkzalf"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-1126882-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA1MjJ8aW1hZ2UvanBlZ3xhR05qTDJneU5DOHlOamc0TkRrM05USTVOalUwTWk5d2NtUXRabkp2Ym5RdE1URXlOamc0TWkweFh6WXdNSGcyTURBfGZiNGQ3YTcyZTc3OTk1ZGE3MDliYmRmYmVhOGE1MjAwNzgzOWVhMTM5ZDhmMzE3ZjgyYmJlZmVmYjNlMWRjMDg"
 }

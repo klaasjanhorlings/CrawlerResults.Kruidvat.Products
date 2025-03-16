@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050227",
+  "mmkId": "1050227",
+  "productGroupId": "464175",
   "brandType": "A or B brand",
   "discount": "",
   "url": "/kneipp-oil-milk-shea-rice-milk-2-fasen-badolie-en-melk/p/6164898",
@@ -33,5 +33,6 @@
       "name": "Badolie"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/haa/h5f/32631152246814/prd-front-6164898-1_600x600/prd-front-6164898-1-600x600.jpg"
 }

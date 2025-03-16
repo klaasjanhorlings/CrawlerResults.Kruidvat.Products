@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Philips Avent Ultra Air 0-6M Fopspeen",
   "code": "5749703",
   "price": "8.49",
@@ -33,5 +33,6 @@
       "name": "Fopspenen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5749703-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODU5NzF8aW1hZ2UvanBlZ3xhRGN5TDJnek1TOHhOakU0TmpFMk1UWXlOekUyTmk5d2NtUXRabkp2Ym5RdE5UYzBPVGN3TXkweFh6WXdNSGcyTURBfGRhNzQwNjZhODA2Y2ExYzU5MjE1ZjQzM2EyMmJlNjZmNDU4ZGM5NDEwNTUyNGZkZDlkYjU0NWFkMTNjMmJjMGY"
 }
