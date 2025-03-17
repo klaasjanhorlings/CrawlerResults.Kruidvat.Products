@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Barbie Signature Looks Pop",
+  "code": "6233162",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 4933 > 4980 > 5026 > 5921 > 6040",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/barbie-signature-looks-pop/p/6233162",
+  "listName": "Lister",
+  "brand": "Barbie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266029,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd0/hed/32899446341662/prd-front-6233162-1_600x600/prd-front-6233162-1-600x600.jpg"
+}

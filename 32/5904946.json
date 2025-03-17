@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Olvarit Up! 12+M Kikkererwt Knabbels",
   "code": "5904946",
   "price": "1.29",
@@ -33,5 +33,6 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "20g"
+  "description": "20g",
+  "image": "/medias/sys_master/prd-images/h6e/h39/27973279055902/prd-front-5904946-1_600x600/prd-front-5904946-1-600x600.jpg"
 }

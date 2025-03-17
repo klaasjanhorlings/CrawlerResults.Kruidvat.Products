@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nutricia Olvarit 15+M Stoofpot met Zoete Aardappel en Linzen",
   "code": "6150639",
   "price": "1.74",
@@ -37,5 +37,6 @@
       "name": "15+ maanden"
     }
   ],
-  "description": "250g"
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h98/hda/31565350895646/prd-front-6150639-1_600x600/prd-front-6150639-1-600x600.jpg"
 }

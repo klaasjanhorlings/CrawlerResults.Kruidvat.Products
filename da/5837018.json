@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Finish Powerball Glansspoelmiddel",
+  "code": "5837018",
+  "price": "2.49",
+  "priceOriginal": "3.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3012 > 3837",
+  "supplier": "RB HYGIENE HOME NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,50",
+  "url": "/finish-powerball-glansspoelmiddel/p/5837018",
+  "listName": "Lister",
+  "brand": "Finish",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266063,
+      "name": "Vaatwas"
+    },
+    {
+      "id": 30266883,
+      "name": "Reiniging vaatwasser"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h3e/h5a/32354402107422/prd-front-5837018-1_600x600/prd-front-5837018-1-600x600.jpg"
+}

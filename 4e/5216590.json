@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 6+M Bio Appel Knijpzakje",
   "code": "5216590",
   "price": "0.89",
@@ -37,6 +37,5 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "90g",
-  "image": "/medias/prd-front-5216590-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzEzOTl8aW1hZ2UvanBlZ3xhRFUwTDJnMVpTOHhOall3T1RRek16UTFNalUzTkM5d2NtUXRabkp2Ym5RdE5USXhOalU1TUMweFh6WXdNSGcyTURBfGQ2ZjRlYmM3YTk4YTAzZDkwOTliYTc5N2FjNjYwYjk2ODg0M2EyMmJlZWU1YTA1MWM5OGVjMTZhZjI0NWNhZWE"
+  "description": "90g"
 }

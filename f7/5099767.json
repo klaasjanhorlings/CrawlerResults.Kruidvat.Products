@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dr. Brown's 0+M Options+ Anti-Colic Glazen Fles",
   "code": "5099767",
   "price": "18.49",
@@ -33,6 +33,5 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hd0/hec/28810606346270/prd-front-5099767-1_600x600/prd-front-5099767-1-600x600.jpg"
+  "description": "250ml"
 }

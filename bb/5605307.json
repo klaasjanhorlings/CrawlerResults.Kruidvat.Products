@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "1050245",
-  "mmkId": "1050245",
-  "productGroupId": "466610",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dermaxpro-by-head-shoulders-hydrateert-antiroosshampoo/p/5605307",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "225ml",
-  "image": "/medias/sys_master/prd-images/h33/hca/33116398387230/prd-front-5605307-1_600x600/prd-front-5605307-1-600x600.jpg"
+  "description": "225ml"
 }

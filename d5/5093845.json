@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 6+M 360° Anti-lekbeker",
   "code": "5093845",
   "price": "6.49",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "rood, wit, 210ml"
+  "description": "rood, wit, 210ml",
+  "image": "/medias/sys_master/prd-images/h34/hc0/27403939872798/prd-front-5093845-1_600x600/prd-front-5093845-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mattel Barbie Panda Care & Rescue Set",
+  "code": "6002400",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 4933 > 4980 > 5026 > 5921 > 6040",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mattel-barbie-panda-care-rescue-set/p/6002400",
+  "listName": "Lister",
+  "brand": "Barbie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266029,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb6/he9/29993124724766/prd-front-6002400-1_600x600/prd-front-6002400-1-600x600.jpg"
+}

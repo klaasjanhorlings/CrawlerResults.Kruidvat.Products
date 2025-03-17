@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Bio 12+M Groenten, Risotto & Champignons Maaltijd",
   "code": "5809725",
   "price": "2.79",
@@ -37,5 +37,6 @@
       "name": "12+ maanden"
     }
   ],
-  "description": "500g"
+  "description": "500g",
+  "image": "/medias/prd-front-5809725-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTI0MTh8aW1hZ2UvanBlZ3xhRE5sTDJoaFppOHlOalF4TURreU56Z3hOamN6TkM5d2NtUXRabkp2Ym5RdE5UZ3dPVGN5TlMweFh6WXdNSGcyTURBfDYzNzI3NWIzZGZmM2IyMTFlNWE5NWU3ZjQzZmRjOWMzODYyMDVjOGQ2NDE2Yjg4MmM4OGQ0MzhlNjc0NWE5YWE"
 }
