@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Sjaal met Patroon",
+  "code": "6081955",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2225 > 4869 > 5069 > 5071 > 5096",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-sjaal-met-patroon/p/6081955",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266866,
+      "name": "Winteraccessoires"
+    }
+  ],
+  "description": "grijs, 40cm x 210 cm",
+  "image": "/medias/sys_master/prd-images/h60/h60/31270984876062/prd-front-6081955-1_600x600/prd-front-6081955-1-600x600.jpg"
+}

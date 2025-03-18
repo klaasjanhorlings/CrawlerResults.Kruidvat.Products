@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kinder-T-Shirts",
+  "code": "6210552",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5808 > 5810 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "SABORN TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kinder-t-shirts/p/6210552",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "mt 104-110, 3 stuks",
+  "image": "/medias/sys_master/prd-images/h27/hd7/33279061295134/prd-front-6210552-1_600x600/prd-front-6210552-1-600x600.jpg"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Theelichten",
+  "code": "6131634",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 2631 > 2889 > 3664 > 5926 > 6679",
+  "supplier": "BOLSIUS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-theelichten/p/6131634",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266895,
+      "name": "Kaarsen"
+    },
+    {
+      "id": 80866389,
+      "name": "Theelichten"
+    }
+  ],
+  "description": "4 x 50 stuks"
+}

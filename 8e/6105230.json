@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SoundLogic Atmosphere Wekker",
+  "code": "6105230",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2153 > 5929 > 6014 > 2632 > 6421 > 6446",
+  "supplier": "KARSTEN INTERNATIONAL B",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/soundlogic-atmosphere-wekker/p/6105230",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266070,
+      "name": "Huishoudelijke accessoires"
+    }
+  ],
+  "description": ""
+}

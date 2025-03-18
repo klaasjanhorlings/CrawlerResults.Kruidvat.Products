@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050302",
+  "mmkId": "1050302",
+  "productGroupId": "470541",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-epic-ink-04-milk-chocolate-eyeliner/p/6130549",
@@ -33,6 +33,5 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hbd/he5/31922253987870/prd-front-6130549-1_600x600/prd-front-6130549-1-600x600.jpg"
+  "description": ""
 }
