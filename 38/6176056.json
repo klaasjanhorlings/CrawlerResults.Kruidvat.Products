@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "True Spirit Activity Tracker",
   "code": "6176056",
   "price": "7.99",
@@ -33,6 +33,5 @@
       "name": "Sieraden en bijoux"
     }
   ],
-  "description": "zwart",
-  "image": "/medias/sys_master/prd-images/ha4/h5e/32271219523614/prd-front-6176056-1_600x600/prd-front-6176056-1-600x600.jpg"
+  "description": "zwart"
 }

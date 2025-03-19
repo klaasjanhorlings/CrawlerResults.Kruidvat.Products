@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playing Kids Houten Sandwich",
+  "code": "6094576",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4640 > 5190 > 5369 > 5558 > 5921 > 6040",
+  "supplier": "DUMMY INTERN",
+  "inStock": "inStock",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/playing-kids-houten-sandwich/p/6094576",
+  "listName": "Lister",
+  "brand": "Playing Kids",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266036,
+      "name": "Houten speelgoed"
+    },
+    {
+      "id": 84925671,
+      "name": "Houten speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2d/h10/31462629408798/prd-front-6094576-1_600x600/prd-front-6094576-1-600x600.jpg"
+}

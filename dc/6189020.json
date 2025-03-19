@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pokémon Sweater",
   "code": "6189020",
   "price": "7.99",
@@ -33,6 +33,5 @@
       "name": "Kinderkleding"
     }
   ],
-  "description": "mt 116-122",
-  "image": "/medias/sys_master/prd-images/h29/h6d/33130423910430/prd-front-6189020-1_600x600/prd-front-6189020-1-600x600.jpg"
+  "description": "mt 116-122"
 }

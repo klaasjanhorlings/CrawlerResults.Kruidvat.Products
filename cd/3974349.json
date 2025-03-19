@@ -6,7 +6,7 @@
   "price": "36.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
-  "supplier": "JTG BV",
+  "supplier": "SAR TRADING BV",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-3974349-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzU5OTV8aW1hZ2UvanBlZ3xhRFZoTDJnNFlpODRPRGN4TnpreU16YzNPRGcyTDNCeVpDMW1jbTl1ZEMwek9UYzBNelE1TFRGZk5qQXdlRFl3TUF8M2E5MTZmZjI2OGFhMjdiZmJkYjI5YzUxN2U0ODcwY2RmZjA0YTZjN2IwMTA3NjY4ZjcwOWYyNzk5Mzc3YzIyYg"
 }

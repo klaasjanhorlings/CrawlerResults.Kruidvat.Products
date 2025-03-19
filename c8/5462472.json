@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Invisible Damesspaghettisinglet",
   "code": "5462472",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt XL"
+  "description": "zwart, mt XL",
+  "image": "/medias/sys_master/prd-images/h70/h1a/27501127991326/prd-front-5462472-1_600x600/prd-front-5462472-1-600x600.jpg"
 }

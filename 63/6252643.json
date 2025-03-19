@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Schleich 42617 Horse Club Sofia's Beauties",
+  "code": "6252643",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 5177 > 5271 > 5460 > 5921 > 6040",
+  "supplier": "HERMANEX INTERNATIONAL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/schleich-42617-horse-club-sofias-beauties/p/6252643",
+  "listName": "Lister",
+  "brand": "Schleich",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925806,
+      "name": "Speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9c/hdd/33058813476894/prd-front-6252643-1_600x600/prd-front-6252643-1-600x600.jpg"
+}

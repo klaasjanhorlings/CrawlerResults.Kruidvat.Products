@@ -21,8 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266052,
-      "name": "Huishoudelijke apparaten"
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 80863011,
+      "name": "Decoratie"
+    },
+    {
+      "id": 80863054,
+      "name": "Klokken"
     }
   ],
   "description": "",

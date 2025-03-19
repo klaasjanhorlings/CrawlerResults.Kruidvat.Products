@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "True Spirit Shopper",
   "code": "6175097",
   "price": "7.99",
@@ -33,6 +33,5 @@
       "name": "Tassen"
     }
   ],
-  "description": "legergroen, 47cm x 12cm x 32cm",
-  "image": "/medias/sys_master/prd-images/h09/h09/32337593466910/prd-front-6175097-1_600x600/prd-front-6175097-1-600x600.jpg"
+  "description": "legergroen, 47cm x 12cm x 32cm"
 }

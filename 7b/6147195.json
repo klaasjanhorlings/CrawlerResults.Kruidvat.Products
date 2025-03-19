@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Hello Kitty Damespantoffels",
   "code": "6147195",
   "price": "6.99",
@@ -29,6 +29,5 @@
       "name": "Pantoffels"
     }
   ],
-  "description": "roze, mt 40-41",
-  "image": "/medias/sys_master/prd-images/h7f/h1e/33177005686814/prd-front-6147195-1_600x600/prd-front-6147195-1-600x600.jpg"
+  "description": "roze, mt 40-41"
 }

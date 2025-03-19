@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Cotton Stretch Damessinglet",
   "code": "5461702",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "wit, mt XL"
+  "description": "wit, mt XL",
+  "image": "/medias/sys_master/prd-images/ha3/hf6/27495507099678/prd-front-5461702-1_600x600/prd-front-5461702-1-600x600.jpg"
 }

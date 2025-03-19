@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "True Spirit Damestrui",
   "code": "6170428",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Dameskleding"
     }
   ],
-  "description": "roze, mt S-M"
+  "description": "roze, mt S-M",
+  "image": "/medias/sys_master/prd-images/h4b/hc5/32018084855838/prd-front-6170428-1_600x600/prd-front-6170428-1-600x600.jpg"
 }

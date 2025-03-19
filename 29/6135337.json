@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Gabby's Dollhouse Pantoffels",
   "code": "6135337",
   "price": "5.99",
@@ -29,6 +29,5 @@
       "name": "Pantoffels"
     }
   ],
-  "description": "mt 26",
-  "image": "/medias/sys_master/prd-images/hc3/h9c/32468664844318/prd-front-6135337-1_600x600/prd-front-6135337-1-600x600.jpg"
+  "description": "mt 26"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Anni Rolfi Katoen Maxi Slip",
   "code": "2543990",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "wit, mt XL"
+  "description": "wit, mt XL",
+  "image": "/medias/sys_master/prd-images/h5a/h1b/28799819579422/prd-front-2543990-1_600x600/prd-front-2543990-1-600x600.jpg"
 }

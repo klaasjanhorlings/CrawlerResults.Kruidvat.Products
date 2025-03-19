@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Paw Patrol Kinder-T-Shirts",
   "code": "6224559",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Kinderkleding"
     }
   ],
-  "description": "2 stuks, mt 128-134",
-  "image": "/medias/sys_master/prd-images/h40/hdd/33651874365470/prd-front-6224559-1_600x600/prd-front-6224559-1-600x600.jpg"
+  "description": "2 stuks, mt 128-134"
 }

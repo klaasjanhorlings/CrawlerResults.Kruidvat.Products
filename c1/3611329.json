@@ -25,13 +25,14 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 30266013,
+      "name": "Optiek"
     },
     {
-      "id": 30266712,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 30266759,
+      "name": "Oogdruppels"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml"
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/hd3/h46/33102482309150/prd-front-3611329-1_600x600/prd-front-3611329-1-600x600.jpg"
 }

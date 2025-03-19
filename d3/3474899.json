@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2683 > 3383",
   "supplier": "PIETERCIL BARENDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/scholl-velvet-smooth-extra-grof-verwisselbare-rollers-navulling/p/3474899",
@@ -33,6 +33,5 @@
       "name": "Eeltverwijderaars"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/hbd/h09/28591016869918/prd-front-3474899-1_600x600/prd-front-3474899-1-600x600.jpg"
+  "description": "2 stuks"
 }

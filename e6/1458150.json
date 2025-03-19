@@ -25,13 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266003,
-      "name": "Handverzorging"
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266689,
-      "name": "Handzeep"
+      "id": 30266647,
+      "name": "Douchecrème"
     }
   ],
-  "description": "300ml - Zeepvrij"
+  "description": "300ml - Zeepvrij",
+  "image": "/medias/sys_master/prd-images/haf/h0b/31942506676254/prd-front-1458150-1_600x600/prd-front-1458150-1-600x600.jpg"
 }
