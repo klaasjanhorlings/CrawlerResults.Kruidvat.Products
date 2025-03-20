@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "DenTek Maximum Protection Tandenknarsbitje",
+  "code": "6079708",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 3137 > 4003",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dentek-maximum-protection-tandenknarsbitje/p/6079708",
+  "listName": "Lister",
+  "brand": "Dentek",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266014,
+      "name": "Hulpmiddelen gezondheid"
+    },
+    {
+      "id": 84927665,
+      "name": "Medische hulpmiddelen"
+    }
+  ],
+  "description": "11g",
+  "image": "/medias/sys_master/prd-images/h66/h35/30722899902494/prd-front-6079708-1_600x600/prd-front-6079708-1-600x600.jpg"
+}

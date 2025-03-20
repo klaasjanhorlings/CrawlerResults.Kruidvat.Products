@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1050141",
-  "mmkId": "1050141",
-  "productGroupId": "479287",
+  "onPromo": "1050450",
+  "mmkId": "1050450",
+  "productGroupId": "476455",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sensodyne-proglasur-daily-protection-multi-action-tandpasta/p/5715865",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "4 x 75ml"
+  "description": "4 x 75ml",
+  "image": "/medias/sys_master/prd-images/h4f/h88/33691624767518/prd-front-5715865-1_600x600/prd-front-5715865-1-600x600.jpg"
 }
