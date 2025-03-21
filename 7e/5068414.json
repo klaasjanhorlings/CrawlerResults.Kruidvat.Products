@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "UNIVERSAL COSMETICS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050216",
+  "mmkId": "1050216",
+  "productGroupId": "461155",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-maxx-drama-volume-length-mascara/p/5068414",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "12ml",
-  "image": "/medias/sys_master/prd-images/hfa/hd3/33690591658014/prd-front-5068414-1_600x600/prd-front-5068414-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4e/h2b/33712629547038/prd-front-5068414-1_600x600/prd-front-5068414-1-600x600.jpg"
 }

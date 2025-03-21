@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
   "supplier": "PRINSEN BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-isolate-whey/p/4129385",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "670g",
-  "image": "/medias/sys_master/prd-images/h86/hff/33691712880670/prd-front-4129385-1_600x600/prd-front-4129385-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0b/hf4/33705048997918/prd-front-4129385-1_600x600/prd-front-4129385-1-600x600.jpg"
 }
