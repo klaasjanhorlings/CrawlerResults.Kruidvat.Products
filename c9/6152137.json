@@ -4,15 +4,15 @@
   "itemName": "Kruidvat Beauty Innovatiebox",
   "code": "6152137",
   "price": "55.0",
-  "priceOriginal": "119.0",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 5690 > 5691 > 5692",
   "supplier": "BRANSUS COSM ULTIMATCH",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "Eigen merk",
-  "discount": "€ 64,00",
+  "discount": "",
   "url": "/kruidvat-beauty-innovatiebox/p/6152137",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265989,
-      "name": "Geschenksets"
+      "id": 30265987,
+      "name": "Make-up"
     },
     {
-      "id": 72656138,
-      "name": "Geschenksets voor haar"
+      "id": 30266589,
+      "name": "Highlighter"
     }
   ],
   "description": "Alleen online",

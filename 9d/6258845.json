@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "INTERNATIONAL LACQUERS SA",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "9ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/hc7/hba/33713509367838/prd-front-6258845-1_600x600/prd-front-6258845-1-600x600.jpg"
 }

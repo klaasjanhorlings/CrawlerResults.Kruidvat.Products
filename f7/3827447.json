@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Hydraterend Micellair Water voor Alle Huidtypes",
+  "code": "3827447",
+  "price": "7.15",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 6455 > 6702",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "1050189",
+  "mmkId": "1050189",
+  "productGroupId": "458447",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-hydraterend-micellair-water-voor-alle-huidtypes/p/3827447",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266913,
+      "name": "Micellair water"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h19/h98/27280966877214/prd-front-3827447-1_600x600/prd-front-3827447-1-600x600.jpg"
+}

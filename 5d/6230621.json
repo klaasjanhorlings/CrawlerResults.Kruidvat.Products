@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Duck Plump 08 Dash Of Cocoa Plumping Lipliner",
+  "code": "6230621",
+  "price": "9.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1050302",
+  "mmkId": "1050302",
+  "productGroupId": "470541",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-duck-plump-08-dash-of-cocoa-plumping-lipliner/p/6230621",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266595,
+      "name": "Lipliner"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hee/h2d/33642387636254/prd-front-6230621-1_600x600/prd-front-6230621-1-600x600.jpg"
+}
