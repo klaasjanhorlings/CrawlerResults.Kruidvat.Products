@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Care & Repair Pen",
+  "code": "4143280",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 5145 > 5147",
+  "supplier": "UNIVERSAL COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-care-repair-pen/p/4143280",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266631,
+      "name": "Nagelbehandeling"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hea/hf0/27295141101598/prd-front-4143280-1_600x600/prd-front-4143280-1-600x600.jpg"
+}

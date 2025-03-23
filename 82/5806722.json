@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2714 > 3417",
   "supplier": "NAIF CARE BV",
-  "inStock": "inStock",
-  "onPromo": "1050451",
-  "mmkId": "1050451",
-  "productGroupId": "452296",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-baby-kids-spf50-zonnebrandcreme/p/5806722",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h6a/hb6/29995776540702/prd-front-5806722-1_600x600/prd-front-5806722-1-600x600.jpg"
 }

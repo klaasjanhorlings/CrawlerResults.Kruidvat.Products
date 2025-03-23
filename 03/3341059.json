@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1050211",
-  "mmkId": "1050211",
-  "productGroupId": "460633",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-hydro-spf15-dagcreme-voor-de-droge-en-gevoelige-huid/p/3341059",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Droge en gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h82/h05/28478459019294/prd-front-3341059-1_600x600/prd-front-3341059-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h05/hdf/33723678425118/prd-front-3341059-1_600x600/prd-front-3341059-1-600x600.jpg"
 }

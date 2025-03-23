@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "inStock",
-  "onPromo": "1050393",
-  "mmkId": "1050393",
-  "productGroupId": "461199",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-lash-sensational-volume-mascara/p/5998375",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h19/hfe/32107057709086/prd-front-5998375-1_600x600/prd-front-5998375-1-600x600.jpg"
+  "description": ""
 }
