@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
   "supplier": "LITTLE CONCEPTS NETTO",
   "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "onPromo": "1050660",
+  "mmkId": "1050660",
+  "productGroupId": "467043",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-luieremmer/p/5897813",
@@ -33,5 +33,6 @@
       "name": "Wasbare luiers"
     }
   ],
-  "description": "wit"
+  "description": "wit",
+  "image": "/medias/sys_master/prd-images/hb6/h5c/28183984177182/prd-front-5897813-1_600x600/prd-front-5897813-1-600x600.jpg"
 }

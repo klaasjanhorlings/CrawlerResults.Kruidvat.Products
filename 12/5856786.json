@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Shimmer Swirl 040 Sparking Pink Lipgloss",
   "code": "5856786",
   "price": "3.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "ORCHARD BV",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1050646",
+  "mmkId": "1050646",
+  "productGroupId": "466318",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-shimmer-swirl-040-sparking-pink-lipgloss/p/5856786",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h62/h03/33724304785438/prd-front-5856786-1_600x600/prd-front-5856786-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h57/h99/33732003201054/prd-front-5856786-1_600x600/prd-front-5856786-1-600x600.jpg"
 }

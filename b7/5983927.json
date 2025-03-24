@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Panorama Black Mascara",
   "code": "5983927",
   "price": "21.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/hb0/h1e/32555478482974/prd-front-5983927-1_600x600/prd-front-5983927-1-600x600.jpg"
 }

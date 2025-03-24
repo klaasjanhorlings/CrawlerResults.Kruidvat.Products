@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Men Expert Hydra Energetic Comfort Max Hydraterende Gezichtscrème",
   "code": "1053571",
   "price": "18.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1050423",
-  "mmkId": "1050423",
-  "productGroupId": "478179",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-men-expert-hydra-energetic-comfort-max-hydraterende-gezichtscreme/p/1053571",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/h90/h2b/33728903675934/prd-front-1053571-1_600x600/prd-front-1053571-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

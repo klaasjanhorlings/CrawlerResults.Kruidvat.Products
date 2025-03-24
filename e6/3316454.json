@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Make Me Brow 01 Blondy Brows Eyebrow Gel Mascara",
   "code": "3316454",
   "price": "2.79",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwmascara"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h59/h5d/30116912627742/prd-front-3316454-1_600x600/prd-front-3316454-1-600x600.jpg"
 }

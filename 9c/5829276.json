@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1050248",
-  "mmkId": "1050248",
-  "productGroupId": "466666",
+  "onPromo": "1050535",
+  "mmkId": "1050535",
+  "productGroupId": "454809",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-pro-nature-coco-curl-creation-conditioner/p/5829276",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/prd-front-5829276-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE4NDZ8aW1hZ2UvanBlZ3xhRE5qTDJobU1pOHlOekl3T0RZMU5qWTFNREkzTUM5d2NtUXRabkp2Ym5RdE5UZ3lPVEkzTmkweFh6WXdNSGcyTURBfGJlMTgwOGJiOGRmYTg4NmE4MzEzMDYyZDA2OGE2NzQxNmZlZGRiY2U1MDViZTUwOTU3YjA5OGYyMzM5YTk2MTI"
 }

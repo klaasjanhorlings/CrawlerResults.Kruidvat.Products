@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Fit Me Matte & Poreless 104 Soft Ivory Foundation",
   "code": "4332518",
   "price": "12.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1050757",
+  "mmkId": "1050757",
+  "productGroupId": "486193",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-fit-me-matte-poreless-104-soft-ivory-foundation/p/4332518",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-4332518-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDM0MTF8aW1hZ2UvanBlZ3xhRGMzTDJobE5pOHhOamd6TlRRMU1URXlOVGM1TUM5d2NtUXRabkp2Ym5RdE5ETXpNalV4T0MweFh6WXdNSGcyTURBfGY3M2RhNzMzNzZjMzA1NDE0OTFiMDBkYmVhNmJmMWIzZDdhNjhlMzU2ZTQ4ZmEzNzg2ZjgyMzY1NWY3MzE1N2M"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence 01 All The Way Up Lash Curler",
   "code": "6017275",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Wimperkrullers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h17/h26/31459996205086/prd-front-6017275-1_600x600/prd-front-6017275-1-600x600.jpg"
 }

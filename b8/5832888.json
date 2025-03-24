@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050561",
+  "mmkId": "1050561",
+  "productGroupId": "457390",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/libresse-intimawear-menstruatie-ondergoed/p/5832888",
@@ -33,6 +33,5 @@
       "name": "Menstruatieondergoed"
     }
   ],
-  "description": "zwart, mt L",
-  "image": "/medias/sys_master/prd-images/hdc/h23/31087659515934/prd-front-5832888-1_600x600/prd-front-5832888-1-600x600.jpg"
+  "description": "zwart, mt L"
 }

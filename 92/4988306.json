@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1050169",
-  "mmkId": "1050169",
-  "productGroupId": "455461",
+  "onPromo": "1050545",
+  "mmkId": "1050545",
+  "productGroupId": "455473",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-rijke-argan-conditioner/p/4988306",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hf9/h63/29795936141342/prd-front-4988306-1_600x600/prd-front-4988306-1-600x600.jpg"
 }

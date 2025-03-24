@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3699 > 6334",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1050200",
-  "mmkId": "1050200",
-  "productGroupId": "459860",
+  "onPromo": "1050566",
+  "mmkId": "1050566",
+  "productGroupId": "458053",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-got2b-gentleman-molding-paste/p/3329593",
@@ -33,5 +33,6 @@
       "name": "Haarpasta"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/ha2/hd1/33732503142430/prd-front-3329593-1_600x600/prd-front-3329593-1-600x600.jpg"
 }

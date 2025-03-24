@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nivea Cellular Hyaluron Filler SPF15 Anti-Age Dagcrème",
   "code": "6024996",
   "price": "31.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1050204",
-  "mmkId": "1050204",
-  "productGroupId": "460026",
+  "onPromo": "1050583",
+  "mmkId": "1050583",
+  "productGroupId": "460036",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-cellular-hyaluron-filler-spf15-anti-age-dagcreme/p/6024996",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hdd/h52/32930846867486/prd-front-6024996-1_600x600/prd-front-6024996-1-600x600.jpg"
+  "description": "50ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup Butter Gloss Bling! 08 Hustla Butter Gloss Lipgloss",
   "code": "6130766",
   "price": "6.95",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1050302",
-  "mmkId": "1050302",
-  "productGroupId": "470541",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-butter-gloss-bling-08-hustla-butter-gloss-lipgloss/p/6130766",
@@ -33,5 +33,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/hf7/h8f/31929507250206/prd-front-6130766-1_600x600/prd-front-6130766-1-600x600.jpg"
 }

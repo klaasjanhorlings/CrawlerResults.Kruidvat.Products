@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6200 > 6218 > 6268",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050752",
+  "mmkId": "1050752",
+  "productGroupId": "483129",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-science-magnesium-bisglycinaat-tabletten/p/6259524",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h6c/hfb/33729195966494/prd-front-6259524-1_600x600/prd-front-6259524-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

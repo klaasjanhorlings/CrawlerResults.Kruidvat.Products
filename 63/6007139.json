@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Chloé Love Story Eau de Parfum",
   "code": "6007139",
   "price": "47.99",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h59/h94/29360564994078/prd-front-6007139-1_600x600/prd-front-6007139-1-600x600.jpg"
+  "description": "30ml"
 }

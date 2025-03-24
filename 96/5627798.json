@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050480",
+  "mmkId": "1050480",
+  "productGroupId": "466616",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pantene-active-nutri-plex-pro-v-repair-protect-conditioner/p/5627798",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "230ml - Zwak, droog en beschadigd haar",
-  "image": "/medias/sys_master/prd-images/h5a/h06/32281275662366/prd-front-5627798-1_600x600/prd-front-5627798-1-600x600.jpg"
+  "description": "230ml - Zwak, droog en beschadigd haar"
 }

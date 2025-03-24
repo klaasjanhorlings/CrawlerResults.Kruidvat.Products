@@ -1,15 +1,15 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Juicy Bomb 102 Shiny Lipgloss",
   "code": "5804755",
   "price": "1.29",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "10ml, 102",
-  "image": "/medias/sys_master/prd-images/h9c/h2c/33038845640734/prd-front-5804755-1_600x600/prd-front-5804755-1-600x600.jpg"
+  "description": "10ml, 102"
 }

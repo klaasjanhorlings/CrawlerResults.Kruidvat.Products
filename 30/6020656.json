@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Bright Reveal Niacinamide Serum",
   "code": "6020656",
   "price": "39.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1050202",
-  "mmkId": "1050202",
-  "productGroupId": "459922",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-bright-reveal-niacinamide-serum/p/6020656",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h7e/h9b/32403429949470/prd-front-6020656-1_600x600/prd-front-6020656-1-600x600.jpg"
+  "description": "30ml"
 }

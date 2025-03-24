@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sense Of Spa Geschenkset",
   "code": "6268806",
   "price": "10.99",
@@ -33,6 +33,5 @@
       "name": "Geschenksets voor haar"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h70/h8e/33680242704414/prd-front-6268806-1_600x600/prd-front-6268806-1-600x600.jpg"
+  "description": ""
 }

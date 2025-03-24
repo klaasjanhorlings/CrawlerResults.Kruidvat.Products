@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Biodermal Skin Booster Hydrating Serum",
   "code": "5499985",
   "price": "39.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050602",
+  "mmkId": "1050602",
+  "productGroupId": "462233",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-skin-booster-hydrating-serum/p/5499985",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml - Alle huidtypen"
+  "description": "30ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h0e/ha9/29991819935774/prd-front-5499985-1_600x600/prd-front-5499985-1-600x600.jpg"
 }

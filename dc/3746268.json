@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6205 > 6223 > 6293",
   "supplier": "COBECO PHARMA WHOLESALE",
   "inStock": "inStock",
-  "onPromo": "1050273",
-  "mmkId": "1050273",
-  "productGroupId": "467726",
+  "onPromo": "1050661",
+  "mmkId": "1050661",
+  "productGroupId": "467048",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-multi-zwanger-met-omega-3-visolie/p/3746268",
@@ -33,5 +33,6 @@
       "name": "Zwangerschapssupplementen"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h5c/hce/33348515168286/prd-front-3746268-1_600x600/prd-front-3746268-1-600x600.jpg"
 }

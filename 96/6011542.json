@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Melt & Shine Juicy 080 Lost At Sea Lip Balm",
   "code": "6011542",
   "price": "4.69",
@@ -33,5 +33,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "1,3g"
+  "description": "1,3g",
+  "image": "/medias/sys_master/prd-images/h52/h67/29940239859742/prd-front-6011542-1_600x600/prd-front-6011542-1-600x600.jpg"
 }

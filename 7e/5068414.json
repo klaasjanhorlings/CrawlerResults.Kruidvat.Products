@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Maxx Drama Volume & Length Mascara",
   "code": "5068414",
   "price": "3.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "UNIVERSAL COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1050216",
-  "mmkId": "1050216",
-  "productGroupId": "461155",
+  "onPromo": "1050646",
+  "mmkId": "1050646",
+  "productGroupId": "466318",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-maxx-drama-volume-length-mascara/p/5068414",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "12ml",
-  "image": "/medias/sys_master/prd-images/h91/h32/33721794560030/prd-front-5068414-1_600x600/prd-front-5068414-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6d/h10/33728753827870/prd-front-5068414-1_600x600/prd-front-5068414-1-600x600.jpg"
 }

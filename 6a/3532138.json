@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2932 > 3727",
   "supplier": "EUROPEAN TOILETRY BROKE",
   "inStock": "inStock",
-  "onPromo": "1050256",
-  "mmkId": "1050256",
-  "productGroupId": "466864",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-fusion-scheergel/p/3532138",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "2 x 200ml"
+  "description": "2 x 200ml",
+  "image": "/medias/sys_master/prd-images/h5a/h96/32710150553630/prd-front-3532138-1_600x600/prd-front-3532138-1-600x600.jpg"
 }

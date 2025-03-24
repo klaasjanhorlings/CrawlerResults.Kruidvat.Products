@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Lip Lovin' 030 Feelin' Peachy Overnight Lip Mask",
   "code": "6233764",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "4g",
-  "image": "/medias/sys_master/prd-images/h88/h5a/33047796351006/prd-front-6233764-1_600x600/prd-front-6233764-1-600x600.jpg"
+  "description": "4g"
 }

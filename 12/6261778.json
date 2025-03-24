@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1050256",
-  "mmkId": "1050256",
-  "productGroupId": "466864",
+  "onPromo": "1050693",
+  "mmkId": "1050693",
+  "productGroupId": "469335",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-venus-extra-smooth-swirl-scheersysteem/p/6261778",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcc/h92/33340026683422/prd-front-6261778-1_600x600/prd-front-6261778-1-600x600.jpg"
 }

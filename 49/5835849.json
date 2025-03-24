@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Syoss 7.1 Natuurlijk Middenblond Permanente Haarkleuring",
   "code": "5835849",
   "price": "16.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1050200",
-  "mmkId": "1050200",
-  "productGroupId": "459860",
+  "onPromo": "1050623",
+  "mmkId": "1050623",
+  "productGroupId": "465744",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-71-natuurlijk-middenblond-permanente-haarkleuring/p/5835849",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he4/h19/33621353988126/prd-front-5835849-1_600x600/prd-front-5835849-1-600x600.jpg"
+  "description": ""
 }

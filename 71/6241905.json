@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New Yorker Sunkisser 21 All Star Liquid Glow Highlighter",
   "code": "6241905",
   "price": "14.99",
@@ -33,5 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h90/h0e/33673299623966/prd-front-6241905-1_600x600/prd-front-6241905-1-600x600.jpg"
 }

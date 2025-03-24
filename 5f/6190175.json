@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Tom Ford White Suede Eau de Parfum",
   "code": "6190175",
   "price": "109.99",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h6a/h0d/32306177310750/prd-front-6190175-1_600x600/prd-front-6190175-1-600x600.jpg"
+  "description": "30ml"
 }

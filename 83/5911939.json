@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Plumping 69 Lipliner",
   "code": "5911939",
   "price": "2.69",
@@ -33,5 +33,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h6a/h0b/33048282628126/prd-front-5911939-1_600x600/prd-front-5911939-1-600x600.jpg"
 }

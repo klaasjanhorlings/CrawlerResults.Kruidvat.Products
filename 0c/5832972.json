@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3304 > 3757",
   "supplier": "ONTEX BVBA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050717",
+  "mmkId": "1050717",
+  "productGroupId": "470335",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-super-plus-tampons-met-applicator/p/5832972",
@@ -33,5 +33,6 @@
       "name": "Tampons"
     }
   ],
-  "description": "16 stuks"
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/h97/h5c/32107200643102/prd-front-5832972-1_600x600/prd-front-5832972-1-600x600.jpg"
 }

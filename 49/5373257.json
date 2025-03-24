@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Syoss Oleo Intense 8-05 Beige Blond Haarkleuring",
   "code": "5373257",
   "price": "17.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1050200",
-  "mmkId": "1050200",
-  "productGroupId": "459860",
+  "onPromo": "1050623",
+  "mmkId": "1050623",
+  "productGroupId": "465744",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-oleo-intense-8-05-beige-blond-haarkleuring/p/5373257",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he9/haa/32891281375262/prd-front-5373257-1_600x600/prd-front-5373257-1-600x600.jpg"
+  "description": ""
 }

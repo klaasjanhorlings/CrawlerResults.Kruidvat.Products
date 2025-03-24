@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "M. Asam Final Touch Setting Bare Skin Poeder",
   "code": "5665402",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "15g"
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/h18/h06/28619066146846/prd-front-5665402-1_600x600/prd-front-5665402-1-600x600.jpg"
 }

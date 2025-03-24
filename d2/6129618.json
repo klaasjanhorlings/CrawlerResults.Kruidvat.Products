@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup 01 My Butta Half Buttermelt Blush",
   "code": "6129618",
   "price": "10.95",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1050302",
-  "mmkId": "1050302",
-  "productGroupId": "470541",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-01-my-butta-half-buttermelt-blush/p/6129618",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "5g"
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/hf9/h86/31929528221726/prd-front-6129618-1_600x600/prd-front-6129618-1-600x600.jpg"
 }

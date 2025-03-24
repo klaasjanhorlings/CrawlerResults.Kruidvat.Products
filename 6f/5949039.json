@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Denman D4 The Original Styler Large Borstel",
   "code": "5949039",
   "price": "15.99",
@@ -33,5 +33,6 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "zwart, rood"
+  "description": "zwart, rood",
+  "image": "/medias/sys_master/prd-images/h4e/h49/28763166933022/prd-front-5949039-1_600x600/prd-front-5949039-1-600x600.jpg"
 }

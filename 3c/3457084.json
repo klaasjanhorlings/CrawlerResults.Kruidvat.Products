@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Intense 3.66 Cosmic Purple Crème Haarkleuring",
   "code": "3457084",
   "price": "6.69",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "EMIL KIESSLING GMBH",
   "inStock": "inStock",
-  "onPromo": "1050231",
-  "mmkId": "1050231",
-  "productGroupId": "465649",
+  "onPromo": "1050617",
+  "mmkId": "1050617",
+  "productGroupId": "465662",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-intense-366-cosmic-purple-creme-haarkleuring/p/3457084",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h60/h54/28217135530014/prd-front-3457084-1_600x600/prd-front-3457084-1-600x600.jpg"
 }

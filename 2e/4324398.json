@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1050164",
-  "mmkId": "1050164",
-  "productGroupId": "454536",
+  "onPromo": "1050531",
+  "mmkId": "1050531",
+  "productGroupId": "454565",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-advanced-care-invisible-care-floral-touch-antitranspirant-deodorant-spray/p/4324398",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/ha2/h17/33390659993630/prd-front-4324398-1_600x600/prd-front-4324398-1-600x600.jpg"
 }

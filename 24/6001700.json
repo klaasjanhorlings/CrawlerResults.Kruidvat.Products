@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Blush Affair 040 Velvet Rose Liquid Blush",
   "code": "6001700",
   "price": "4.69",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "10,5ml"
+  "description": "10,5ml",
+  "image": "/medias/sys_master/prd-images/hc4/h9f/29938718244894/prd-front-6001700-1_600x600/prd-front-6001700-1-600x600.jpg"
 }

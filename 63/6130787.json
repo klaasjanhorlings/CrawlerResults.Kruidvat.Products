@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup Shine Loud 25 Daring Damsel Lipstick",
   "code": "6130787",
   "price": "13.95",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1050302",
-  "mmkId": "1050302",
-  "productGroupId": "470541",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-shine-loud-25-daring-damsel-lipstick/p/6130787",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2e/h3d/31930664452126/prd-front-6130787-1_600x600/prd-front-6130787-1-600x600.jpg"
 }

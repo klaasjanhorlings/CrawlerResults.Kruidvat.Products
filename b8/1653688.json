@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1050152",
-  "mmkId": "1050152",
-  "productGroupId": "452236",
+  "onPromo": "1050511",
+  "mmkId": "1050511",
+  "productGroupId": "452238",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vogue-girl-cats-deodorant-spray/p/1653688",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h3b/hec/28476304031774/prd-front-1653688-1_600x600/prd-front-1653688-1-600x600.jpg"
 }

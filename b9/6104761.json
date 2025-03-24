@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Aloe Vera 060 Cranberry Crush Eyeshadow Stick",
   "code": "6104761",
   "price": "4.69",
@@ -37,5 +37,6 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": "1,5g"
+  "description": "1,5g",
+  "image": "/medias/sys_master/prd-images/h5d/h8a/31459460382750/prd-front-6104761-1_600x600/prd-front-6104761-1-600x600.jpg"
 }

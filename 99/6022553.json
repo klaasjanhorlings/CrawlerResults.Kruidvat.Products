@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1050234",
-  "mmkId": "1050234",
-  "productGroupId": "465740",
+  "onPromo": "1050683",
+  "mmkId": "1050683",
+  "productGroupId": "469121",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bondi-sands-1-hour-express-self-tanning/p/6022553",
@@ -33,5 +33,6 @@
       "name": "Zelfbruiners"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h3c/h08/30600104378398/prd-front-6022553-1_600x600/prd-front-6022553-1-600x600.jpg"
 }

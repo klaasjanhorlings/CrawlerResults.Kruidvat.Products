@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6200 > 6218 > 6268",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1050638",
+  "mmkId": "1050638",
+  "productGroupId": "466223",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-magnesium-multi-a-z-tabletten/p/6164751",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hb5/h7a/33139454378014/prd-front-6164751-1_600x600/prd-front-6164751-1-600x600.jpg"
 }

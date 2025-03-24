@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 3875 > 5730",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1050164",
-  "mmkId": "1050164",
-  "productGroupId": "454536",
+  "onPromo": "1050529",
+  "mmkId": "1050529",
+  "productGroupId": "454556",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-fine-fragrance-collection-black-vanilla-deodorant-bodyspray/p/6026326",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

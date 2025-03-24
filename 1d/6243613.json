@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050545",
+  "mmkId": "1050545",
+  "productGroupId": "455473",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-honing-goud-shampoo-refill/p/6243613",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h58/hf9/33144412012574/prd-front-6243613-1_600x600/prd-front-6243613-1-600x600.jpg"
+  "description": "250ml"
 }

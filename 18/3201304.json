@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050480",
+  "mmkId": "1050480",
+  "productGroupId": "466616",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pantene-active-nutri-plex-pro-v-glad-zijdezacht-shampoo/p/3201304",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml - Pluizig, dof haar",
-  "image": "/medias/sys_master/prd-images/h6b/h8b/32281641484318/prd-front-3201304-1_600x600/prd-front-3201304-1-600x600.jpg"
+  "description": "250ml - Pluizig, dof haar"
 }

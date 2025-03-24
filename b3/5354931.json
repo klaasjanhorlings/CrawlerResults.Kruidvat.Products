@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Rimmel London Exaggerate Full Colour Eye Definer 001 Black Eyeliner",
   "code": "5354931",
   "price": "9.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1050588",
+  "mmkId": "1050588",
+  "productGroupId": "460536",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-exaggerate-full-colour-eye-definer-001-black-eyeliner/p/5354931",
@@ -33,6 +33,5 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "1g",
-  "image": "/medias/prd-front-5354931-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDY3NjR8aW1hZ2UvanBlZ3xhR0ptTDJnNE1DOHlOamt3TlRBNE5ETXpNREF4TkM5d2NtUXRabkp2Ym5RdE5UTTFORGt6TVMweFh6WXdNSGcyTURBfDg3Yzc1ZWI1YTNhZmFiYWE4OWNiMWE5MTcyMWNjNmMwYjFlY2U3ZmE2YTM2Njc5YWRjOGNkNDY1ZGUyNjQzYzA"
+  "description": "1g"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6320 > 6674",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050615",
+  "mmkId": "1050615",
+  "productGroupId": "465415",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ultimate-fine-fragile-tangle-teezer/p/6223446",
@@ -37,6 +37,5 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "lila",
-  "image": "/medias/sys_master/prd-images/hba/hdb/32572527280158/prd-front-6223446-1_600x600/prd-front-6223446-1-600x600.jpg"
+  "description": "lila"
 }

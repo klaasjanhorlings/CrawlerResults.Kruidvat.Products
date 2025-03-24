@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Micellaire Gezichtsreinigingsdoekjes",
   "code": "4993738",
   "price": "1.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
   "supplier": "CODI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1028975",
-  "mmkId": "1028975",
-  "productGroupId": "362258",
+  "onPromo": "1050630",
+  "mmkId": "1050630",
+  "productGroupId": "465803",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-micellaire-gezichtsreinigingsdoekjes/p/4993738",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "25 stuks - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hc3/h66/33725293330462/prd-front-4993738-1_600x600/prd-front-4993738-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h86/h3d/33732356702238/prd-front-4993738-1_600x600/prd-front-4993738-1-600x600.jpg"
 }

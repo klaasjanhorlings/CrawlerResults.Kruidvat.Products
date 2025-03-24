@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Rimmel London The Multi-Tasker 040 Ivory Concealer",
   "code": "5466889",
   "price": "13.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1050588",
+  "mmkId": "1050588",
+  "productGroupId": "460536",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-the-multi-tasker-040-ivory-concealer/p/5466889",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "31,3g",
-  "image": "/medias/sys_master/prd-images/h42/hd9/28616802992158/prd-front-5466889-1_600x600/prd-front-5466889-1-600x600.jpg"
+  "description": "31,3g"
 }

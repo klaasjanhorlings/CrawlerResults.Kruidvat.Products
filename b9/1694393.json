@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Rimmel London Stay Matte 005 Silky Beige Pressed Powder",
   "code": "1694393",
   "price": "12.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1050588",
+  "mmkId": "1050588",
+  "productGroupId": "460536",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-stay-matte-005-silky-beige-pressed-powder/p/1694393",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "14g",
-  "image": "/medias/sys_master/prd-images/hde/hef/28134046531614/prd-front-1694393-1_600x600/prd-front-1694393-1-600x600.jpg"
+  "description": "14g"
 }

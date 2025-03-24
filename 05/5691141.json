@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Express Brow 05 Deep Brown Shaping Pencil",
   "code": "5691141",
   "price": "5.99",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h94/h5a/28235341824030/prd-front-5691141-1_600x600/prd-front-5691141-1-600x600.jpg"
+  "description": ""
 }

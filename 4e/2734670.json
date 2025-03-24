@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice 030 Medium Bronze Sun Glow Powder",
   "code": "2734670",
   "price": "4.49",
@@ -33,6 +33,5 @@
       "name": "Bronzer"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc1/h82/32742401277982/prd-front-2734670-1_600x600/prd-front-2734670-1-600x600.jpg"
+  "description": ""
 }

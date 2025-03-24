@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Build-A-Brow 250 Blonde Wenkbrauwpotlood en -Gel",
   "code": "5984739",
   "price": "17.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h27/h0b/29995567218718/prd-front-5984739-1_600x600/prd-front-5984739-1-600x600.jpg"
 }

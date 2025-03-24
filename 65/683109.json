@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L Oréal Paris Men Expert Stop Rimpels Dagcrème",
   "code": "683109",
   "price": "18.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/l-oreal-paris-men-expert-stop-rimpels-dagcreme/p/683109",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hc3/hbc/33723681046558/prd-front-683109-1_600x600/prd-front-683109-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hde/he4/33731358326814/prd-front-683109-1_600x600/prd-front-683109-1-600x600.jpg"
 }

@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Beauty of Joseon Glow Deep Serum",
   "code": "6199863",
   "price": "20.9",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "inStock",
-  "onPromo": "1050372",
-  "mmkId": "1050372",
-  "productGroupId": "467970",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/beauty-of-joseon-glow-deep-serum/p/6199863",
@@ -33,5 +33,6 @@
       "name": "Korean Skincare"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h2d/h9d/32251199389726/prd-front-6199863-1_600x600/prd-front-6199863-1-600x600.jpg"
 }

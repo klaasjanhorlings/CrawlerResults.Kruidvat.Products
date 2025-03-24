@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Volume Boost Lash Primer",
   "code": "6155000",
   "price": "3.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "UNIVERSAL COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1050216",
-  "mmkId": "1050216",
-  "productGroupId": "461155",
+  "onPromo": "1050646",
+  "mmkId": "1050646",
+  "productGroupId": "466318",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-volume-boost-lash-primer/p/6155000",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "8g",
-  "image": "/medias/sys_master/prd-images/h8f/h72/33726169743390/prd-front-6155000-1_600x600/prd-front-6155000-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hef/h76/33733483462686/prd-front-6155000-1_600x600/prd-front-6155000-1-600x600.jpg"
 }

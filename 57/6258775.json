@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Glam Sculpting 020 Coral Reef Matte Liquid Blush",
   "code": "6258775",
   "price": "5.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "UNIVERSAL COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1050646",
+  "mmkId": "1050646",
+  "productGroupId": "466318",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-glam-sculpting-020-coral-reef-matte-liquid-blush/p/6258775",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "15ml",
-  "image": "/medias/sys_master/prd-images/he6/hd9/33724886941726/prd-front-6258775-1_600x600/prd-front-6258775-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hcc/hf4/33732565729310/prd-front-6258775-1_600x600/prd-front-6258775-1-600x600.jpg"
 }

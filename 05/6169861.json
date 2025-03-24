@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "My Nailcandy French Manicure Gellak Stickers",
   "code": "6169861",
   "price": "7.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LITTLE CONCEPTS NETTO",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050756",
+  "mmkId": "1050756",
+  "productGroupId": "486051",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/my-nailcandy-french-manicure-gellak-stickers/p/6169861",
@@ -33,6 +33,5 @@
       "name": "Gellak"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/hdc/h17/32343340679198/prd-front-6169861-1_600x600/prd-front-6169861-1-600x600.jpg"
+  "description": "20 stuks"
 }

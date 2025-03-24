@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Lash Sensational Volume Mascara",
   "code": "5998375",
   "price": "18.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h19/hfe/32107057709086/prd-front-5998375-1_600x600/prd-front-5998375-1-600x600.jpg"
 }

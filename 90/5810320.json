@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat High Gloss 198 Lavender Bouquet Nail Color",
   "code": "5810320",
   "price": "3.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "MAESA COSMETICS GMBH",
   "inStock": "inStock",
-  "onPromo": "1050216",
-  "mmkId": "1050216",
-  "productGroupId": "461155",
+  "onPromo": "1050756",
+  "mmkId": "1050756",
+  "productGroupId": "486051",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-high-gloss-198-lavender-bouquet-nail-color/p/5810320",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h65/h5a/27426917875742/prd-front-5810320-1_600x600/prd-front-5810320-1-600x600.jpg"
 }

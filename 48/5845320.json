@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "M. Asam Ultra Glaze Transparant Lipgloss",
   "code": "5845320",
   "price": "10.99",
@@ -33,6 +33,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "4ml",
-  "image": "/medias/sys_master/prd-images/hc0/hf1/27801284837406/prd-front-5845320-1_600x600/prd-front-5845320-1-600x600.jpg"
+  "description": "4ml"
 }

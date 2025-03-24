@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Smooth Niacinamide 10% Serum",
   "code": "6030281",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml, alle huidtypes",
-  "image": "/medias/sys_master/prd-images/h46/h51/30077871063070/prd-front-6030281-1_600x600/prd-front-6030281-1-600x600.jpg"
+  "description": "30ml, alle huidtypes"
 }

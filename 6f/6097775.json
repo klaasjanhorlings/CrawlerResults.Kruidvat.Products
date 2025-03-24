@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Rimmel London Wonder'Last 007 Pink Fizz Shadow Stick",
   "code": "6097775",
   "price": "15.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1050588",
+  "mmkId": "1050588",
+  "productGroupId": "460536",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-wonderlast-007-pink-fizz-shadow-stick/p/6097775",
@@ -37,5 +37,6 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": "1,6g"
+  "description": "1,6g",
+  "image": "/medias/sys_master/prd-images/h4e/hbd/31783671693342/prd-front-6097775-1_600x600/prd-front-6097775-1-600x600.jpg"
 }

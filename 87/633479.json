@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1050200",
-  "mmkId": "1050200",
-  "productGroupId": "459860",
+  "onPromo": "1050611",
+  "mmkId": "1050611",
+  "productGroupId": "463447",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-yoghurt-aloe-vera-douchecreme/p/633479",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/prd-front-633479-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA5NDV8aW1hZ2UvanBlZ3xhR1JoTDJnd1pDOHlOamszTlRnMU5UYzNNVFkzT0M5d2NtUXRabkp2Ym5RdE5qTXpORGM1TFRGZk5qQXdlRFl3TUF8YzJkZmZhNTIyZjQ1MDM3MTU3ZDkzMDNiZjEzYjQ3MDA3YzI2NmZlYTEzZjk3MDE4M2ZkNGZhNWU3YzExZmNmMw"
 }

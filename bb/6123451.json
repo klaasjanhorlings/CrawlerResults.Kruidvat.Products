@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Revolution Relouded Impulse Smoked Palette",
   "code": "6123451",
   "price": "6.99",
@@ -37,5 +37,6 @@
       "name": "Palette oogschaduw"
     }
   ],
-  "description": "16,8g"
+  "description": "16,8g",
+  "image": "/medias/sys_master/prd-images/h59/h77/31782807666718/prd-front-6123451-1_600x600/prd-front-6123451-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "MEUBLEPLUS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050603",
+  "mmkId": "1050603",
+  "productGroupId": "462254",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/munchkin-vorken-en-lepels/p/6143107",
@@ -33,6 +33,5 @@
       "name": "Kinderservies"
     }
   ],
-  "description": "6 stuks",
-  "image": "/medias/sys_master/prd-images/h6b/h9e/33701861752862/prd-front-6143107-1_600x600/prd-front-6143107-1-600x600.jpg"
+  "description": "6 stuks"
 }

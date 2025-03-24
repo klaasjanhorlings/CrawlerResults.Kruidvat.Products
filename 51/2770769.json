@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Men Expert Hydra Energetic Intens hydraterende Gezichtsgel",
   "code": "2770769",
   "price": "18.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1050423",
-  "mmkId": "1050423",
-  "productGroupId": "478179",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-men-expert-hydra-energetic-intens-hydraterende-gezichtsgel/p/2770769",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h03/h81/33721483526174/prd-front-2770769-1_600x600/prd-front-2770769-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0a/hbb/33729462599710/prd-front-2770769-1_600x600/prd-front-2770769-1-600x600.jpg"
 }

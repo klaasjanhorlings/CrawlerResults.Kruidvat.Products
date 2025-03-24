@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Cleansing Lotion Oog Make-Up Remover Pads",
   "code": "466508",
   "price": "1.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
-  "onPromo": "1028975",
-  "mmkId": "1028975",
-  "productGroupId": "362258",
+  "onPromo": "1050630",
+  "mmkId": "1050630",
+  "productGroupId": "465803",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cleansing-lotion-oog-make-up-remover-pads/p/466508",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "100 stuks - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h1a/h9f/33722140065822/prd-front-466508-1_600x600/prd-front-466508-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h50/h45/33729278738462/prd-front-466508-1_600x600/prd-front-466508-1-600x600.jpg"
 }

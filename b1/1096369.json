@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Cleansing 2 Phases Oog Make-Up Remover",
   "code": "1096369",
   "price": "1.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "MAXIM MARKENPRODUKTE",
   "inStock": "inStock",
-  "onPromo": "1028975",
-  "mmkId": "1028975",
-  "productGroupId": "362258",
+  "onPromo": "1050630",
+  "mmkId": "1050630",
+  "productGroupId": "465803",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cleansing-2-phases-oog-make-up-remover/p/1096369",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "150ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h09/hf8/33721791610910/prd-front-1096369-1_600x600/prd-front-1096369-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2d/ha5/33728750485534/prd-front-1096369-1_600x600/prd-front-1096369-1-600x600.jpg"
 }

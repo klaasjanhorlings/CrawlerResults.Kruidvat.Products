@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1050160",
-  "mmkId": "1050160",
-  "productGroupId": "452645",
+  "onPromo": "1050518",
+  "mmkId": "1050518",
+  "productGroupId": "452624",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-zero-hydrating-douchegel/p/5859327",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml - Alle huidtypes"
+  "description": "400ml - Alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h61/he8/31822801829918/prd-front-5859327-1_600x600/prd-front-5859327-1-600x600.jpg"
 }

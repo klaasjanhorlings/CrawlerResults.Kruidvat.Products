@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Skincyclopedia Hydrating Complex Hyaluronic Acid SPF50 Face Fluid",
   "code": "6085329",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h37/h4a/30801078779934/prd-front-6085329-1_600x600/prd-front-6085329-1-600x600.jpg"
 }

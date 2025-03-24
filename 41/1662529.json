@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6451 > 6452",
   "supplier": "JOHNSON & JOHNSON CONS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Kalknagelbehandeling"
     }
   ],
-  "description": "Geneesmiddel - 30ml"
+  "description": "Geneesmiddel - 30ml",
+  "image": "/medias/sys_master/prd-images/h94/h89/28501367488542/prd-front-1662529-1_600x600/prd-front-1662529-1-600x600.jpg"
 }

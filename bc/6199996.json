@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Cosrx Clear Fit Master Patch",
   "code": "6199996",
   "price": "5.9",
@@ -37,5 +37,6 @@
       "name": "Verzorging probleemhuid"
     }
   ],
-  "description": "18 stuks"
+  "description": "18 stuks",
+  "image": "/medias/sys_master/prd-images/had/hc5/32246315810846/prd-front-6199996-1_600x600/prd-front-6199996-1-600x600.jpg"
 }

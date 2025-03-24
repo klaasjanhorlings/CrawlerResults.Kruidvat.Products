@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Montagne Jeunesse Neusstrips",
   "code": "4216766",
   "price": "1.49",
@@ -37,6 +37,5 @@
       "name": "Reinigingsstrips"
     }
   ],
-  "description": "3 stuks",
-  "image": "/medias/sys_master/prd-images/h60/h17/33721497157662/prd-front-4216766-1_600x600/prd-front-4216766-1-600x600.jpg"
+  "description": "3 stuks"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 010 Sweets Like This Soft Pastels Eye Shadow Palette",
   "code": "6258810",
   "price": "5.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hc1/h48/33729197277214/prd-front-6258810-1_600x600/prd-front-6258810-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

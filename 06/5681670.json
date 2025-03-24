@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "s. Oliver So Pure Women Eau de Toilette",
   "code": "5681670",
   "price": "18.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-5681670-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDAyNTN8aW1hZ2UvanBlZ3xhRGRpTDJoa05pOHhOakU0TmpjMk5qYzFNemd5TWk5d2NtUXRabkp2Ym5RdE5UWTRNVFkzTUMweFh6WXdNSGcyTURBfGM5YTA2ZjBmY2M2ZGM2OGI3OTZhY2FkYmVlOWJiYmJlNWZiOTI3YjljZDllMDUwZjU2Zjg4MGQ1NTlhZDM0ODM"
 }

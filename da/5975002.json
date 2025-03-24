@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Rimmel London Lasting Finish 35H 010 Rose Ivory Foundation",
   "code": "5975002",
   "price": "18.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1050757",
+  "mmkId": "1050757",
+  "productGroupId": "486193",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-lasting-finish-35h-010-rose-ivory-foundation/p/5975002",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hfb/h65/29797755715614/prd-front-5975002-1_600x600/prd-front-5975002-1-600x600.jpg"
+  "description": "30ml"
 }

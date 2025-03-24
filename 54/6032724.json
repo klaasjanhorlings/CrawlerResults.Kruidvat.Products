@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Therme Mindful Blossom Eau de Parfum",
   "code": "6032724",
   "price": "17.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/he0/h40/30226415222814/prd-front-6032724-1_600x600/prd-front-6032724-1-600x600.jpg"
 }

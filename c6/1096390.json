@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Q10 Oogcrème",
   "code": "1096390",
   "price": "4.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "FEMIA COSMETIC",
   "inStock": "inStock",
-  "onPromo": "1050211",
-  "mmkId": "1050211",
-  "productGroupId": "460633",
+  "onPromo": "1028975",
+  "mmkId": "1028975",
+  "productGroupId": "362258",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-q10-oogcreme/p/1096390",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "15ml",
-  "image": "/medias/sys_master/prd-images/hcf/h46/33725919592478/prd-front-1096390-1_600x600/prd-front-1096390-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h40/h48/33733232787486/prd-front-1096390-1_600x600/prd-front-1096390-1-600x600.jpg"
 }

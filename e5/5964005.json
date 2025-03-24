@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Zenner Ronde Haarklem",
   "code": "5964005",
   "price": "5.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6323 > 6674",
   "supplier": "ZENNER NIEUW VENNEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050755",
+  "mmkId": "1050755",
+  "productGroupId": "486035",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zenner-ronde-haarklem/p/5964005",
@@ -33,6 +33,5 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": "zwart",
-  "image": "/medias/sys_master/prd-images/h3a/hf1/29309004873758/prd-front-5964005-1_600x600/prd-front-5964005-1-600x600.jpg"
+  "description": "zwart"
 }

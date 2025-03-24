@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Revolution Big Lash XL Volume Waterproof Mascara",
   "code": "5514811",
   "price": "8.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "8g"
+  "description": "8g",
+  "image": "/medias/sys_master/prd-images/hf0/h08/27622960594974/prd-front-5514811-1_600x600/prd-front-5514811-1-600x600.jpg"
 }

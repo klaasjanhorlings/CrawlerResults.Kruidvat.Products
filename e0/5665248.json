@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "M. Asam Classic Mousse Porcelain Foundation",
   "code": "5665248",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h79/h9c/28609738375198/prd-front-5665248-1_600x600/prd-front-5665248-1-600x600.jpg"
 }
