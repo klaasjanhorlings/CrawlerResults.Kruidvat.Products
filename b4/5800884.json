@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Natures Pro-Age Day Cream",
   "code": "5800884",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/prd-front-5800884-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTgwMDl8aW1hZ2UvanBlZ3xhRFEyTDJneE1DOHlOamczT0RReE1UWXpOamMyTmk5d2NtUXRabkp2Ym5RdE5UZ3dNRGc0TkMweFh6WXdNSGcyTURBfDNhYjNlNGJmNmZlYTU1MzI4NmI5NGFhN2U4YjI4MmMyZjdjZmMzZGU2YjRkYzMyYjc0MGI3OTE1MzI1ODM5OGY"
+  "description": "50ml"
 }

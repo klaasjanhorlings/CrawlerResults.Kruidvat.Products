@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "L'OREAL NED B.V.",
-  "inStock": "inStock",
-  "onPromo": "1050547",
-  "mmkId": "1050547",
-  "productGroupId": "455849",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-ambre-solaire-ideal-bronze-spf30-beschermende-mist-zonnespray/p/5083254",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h53/he4/33565282205726/prd-front-5083254-1_600x600/prd-front-5083254-1-600x600.jpg"
+  "description": "150ml"
 }

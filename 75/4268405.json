@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ardell Wispies 113 Black Kunstwimpers",
   "code": "4268405",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7b/h7a/28527263809566/prd-front-4268405-1_600x600/prd-front-4268405-1-600x600.jpg"
+  "description": ""
 }

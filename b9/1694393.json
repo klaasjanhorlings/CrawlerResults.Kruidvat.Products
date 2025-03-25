@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Rimmel London Stay Matte 005 Silky Beige Pressed Powder",
   "code": "1694393",
   "price": "12.99",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "14g"
+  "description": "14g",
+  "image": "/medias/sys_master/prd-images/hde/hef/28134046531614/prd-front-1694393-1_600x600/prd-front-1694393-1-600x600.jpg"
 }

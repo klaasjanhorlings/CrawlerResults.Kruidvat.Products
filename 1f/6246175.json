@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Drop Of Sunshine Highlighting Drops",
   "code": "6246175",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Bronzer"
     }
   ],
-  "description": "25ml"
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/h28/hb2/33478992658462/prd-front-6246175-1_600x600/prd-front-6246175-1-600x600.jpg"
 }

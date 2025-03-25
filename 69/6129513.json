@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup 06 Bare With Me Tan Concealer Serum",
   "code": "6129513",
   "price": "11.95",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1c/h33/31930655146014/prd-front-6129513-1_600x600/prd-front-6129513-1-600x600.jpg"
+  "description": ""
 }

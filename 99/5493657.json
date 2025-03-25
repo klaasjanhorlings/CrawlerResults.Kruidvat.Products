@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Ultimate Camouflage 020 N Light Beige Cream",
   "code": "5493657",
   "price": "3.49",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "3g",
-  "image": "/medias/sys_master/prd-images/h76/hee/29952010977310/prd-front-5493657-1_600x600/prd-front-5493657-1-600x600.jpg"
+  "description": "3g"
 }

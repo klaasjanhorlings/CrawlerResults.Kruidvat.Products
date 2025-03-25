@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup 03 Lemon Merringue Highlighter Jumbo Stick",
   "code": "6129184",
   "price": "8.95",
@@ -33,5 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": "2,7g"
+  "description": "2,7g",
+  "image": "/medias/sys_master/prd-images/hcb/hb2/31926130802718/prd-front-6129184-1_600x600/prd-front-6129184-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
   "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
-  "inStock": "inStock",
-  "onPromo": "1050614",
-  "mmkId": "1050614",
-  "productGroupId": "465119",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-100-pure-whey-met-aardbeismaak/p/3749061",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "1250g",
-  "image": "/medias/sys_master/prd-images/he7/h17/33731355639838/prd-front-3749061-1_600x600/prd-front-3749061-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6a/h66/33738696622110/prd-front-3749061-1_600x600/prd-front-3749061-1-600x600.jpg"
 }

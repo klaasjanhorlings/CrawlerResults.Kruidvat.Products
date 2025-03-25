@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050695",
+  "mmkId": "1050695",
+  "productGroupId": "469391",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/colgate-total-complete-care-tandpasta/p/3999283",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Complete verzorging"
+  "description": "75ml - Complete verzorging",
+  "image": "/medias/sys_master/prd-images/hdc/h9d/33408627048478/prd-front-3999283-1_600x600/prd-front-3999283-1-600x600.jpg"
 }

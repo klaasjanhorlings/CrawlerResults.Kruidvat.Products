@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice True Skin Cool Cashmere High Cover Concealer",
   "code": "5230772",
   "price": "4.49",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "4,5ml"
+  "description": "4,5ml",
+  "image": "/medias/sys_master/prd-images/h13/h51/33044407779358/prd-front-5230772-1_600x600/prd-front-5230772-1-600x600.jpg"
 }

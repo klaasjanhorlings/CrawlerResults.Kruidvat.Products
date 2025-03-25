@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Herenhorloge",
+  "code": "6174964",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2270 > 4869 > 5045 > 5046 > 5047",
+  "supplier": "GOLDEN GIFT",
+  "inStock": "inStock",
+  "onPromo": "1050844",
+  "mmkId": "1050844",
+  "productGroupId": "488543",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-herenhorloge/p/6174964",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266860,
+      "name": "Sieraden en bijoux"
+    }
+  ],
+  "description": "navy"
+}

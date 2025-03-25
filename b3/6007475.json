@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Revolution Skin Silk F5 Foundation Serum",
   "code": "6007475",
   "price": "10.99",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "23ml",
-  "image": "/medias/sys_master/prd-images/h6a/h24/29787162738718/prd-front-6007475-1_600x600/prd-front-6007475-1-600x600.jpg"
+  "description": "23ml"
 }

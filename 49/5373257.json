@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Syoss Oleo Intense 8-05 Beige Blond Haarkleuring",
   "code": "5373257",
   "price": "17.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he9/haa/32891281375262/prd-front-5373257-1_600x600/prd-front-5373257-1-600x600.jpg"
 }

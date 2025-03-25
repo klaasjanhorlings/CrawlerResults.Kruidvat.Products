@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Damessweater",
+  "code": "6189181",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2610 > 3250 > 4141 > 5928 > 6038 > 6042",
+  "supplier": "FASHION LINQ BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/damessweater/p/6189181",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "army, mt M",
+  "image": "/medias/sys_master/prd-images/h20/he6/33156516642846/prd-front-6189181-1_600x600/prd-front-6189181-1-600x600.jpg"
+}

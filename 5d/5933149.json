@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Weleda Milde Reinigingsmousse",
   "code": "5933149",
   "price": "12.99",
@@ -37,5 +37,6 @@
       "name": "Cleanser"
     }
   ],
-  "description": "150ml, normale en gecombineerde huid"
+  "description": "150ml, normale en gecombineerde huid",
+  "image": "/medias/sys_master/prd-images/hc6/hc2/33631752618014/prd-front-5933149-1_600x600/prd-front-5933149-1-600x600.jpg"
 }

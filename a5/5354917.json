@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Rimmel London Exaggerate Full Colour Eye Definer 004 Cobalt Blue Eyeliner",
   "code": "5354917",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/prd-front-5354917-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDkzNzd8aW1hZ2UvanBlZ3xhR1kxTDJnM05pOHlOamt4TVRrMU5UVTRNekF3Tmk5d2NtUXRabkp2Ym5RdE5UTTFORGt4TnkweFh6WXdNSGcyTURBfDRhODBmZjNlNDBlNDM3ZDM4MGI1NWE0ZTgzMDZhYzExMzc5MTBjNmI2OWFkMmQ2NDE2N2MwZWU4N2Y3OThhOGY"
 }

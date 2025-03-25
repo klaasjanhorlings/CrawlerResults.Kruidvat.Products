@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Sun Smooth 010 Medium Warm Tone Matte Cream Bronzer",
   "code": "6258768",
   "price": "5.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ORCHARD BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050646",
+  "mmkId": "1050646",
+  "productGroupId": "466318",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-sun-smooth-010-medium-warm-tone-matte-cream-bronzer/p/6258768",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h2d/hb2/33730323316766/prd-front-6258768-1_600x600/prd-front-6258768-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb3/h50/33737474310174/prd-front-6258768-1_600x600/prd-front-6258768-1-600x600.jpg"
 }

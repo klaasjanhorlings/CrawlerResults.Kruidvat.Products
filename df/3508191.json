@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Rimmel London Match Perfection 300 Sand Beige Foundation",
   "code": "3508191",
   "price": "16.99",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h01/h08/27426083962910/prd-front-3508191-1_600x600/prd-front-3508191-1-600x600.jpg"
+  "description": "30ml"
 }

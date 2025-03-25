@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Extreme Drama 100 Smokey Grey Soft Glide Waterproof Eyeliner Pencil",
   "code": "5484816",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "1,2g"
+  "description": "1,2g",
+  "image": "/medias/sys_master/prd-images/hf5/ha3/27570123603998/prd-front-5484816-1_600x600/prd-front-5484816-1-600x600.jpg"
 }

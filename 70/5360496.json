@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Men Hydraterende Anti-Age Gezichtsgel",
   "code": "5360496",
   "price": "19.99",
@@ -33,6 +33,5 @@
       "name": "Gezichtscreme mannen"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h58/h54/32866962735134/prd-front-5360496-1_600x600/prd-front-5360496-1-600x600.jpg"
+  "description": "50ml"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Harmonie Maat 3 Luiers",
+  "code": "6031051",
+  "price": "48.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "1050475",
+  "mmkId": "1050475",
+  "productGroupId": "466300",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-harmonie-maat-3-luiers/p/6031051",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266017,
+      "name": "Luiers"
+    },
+    {
+      "id": 30266786,
+      "name": "Luiers maat 3"
+    }
+  ],
+  "description": "mt 3 (6-10kg), 87 stuks",
+  "image": "/medias/sys_master/prd-images/hf3/h3d/30481949753374/prd-front-6031051-1_600x600/prd-front-6031051-1-600x600.jpg"
+}

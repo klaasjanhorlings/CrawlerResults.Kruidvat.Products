@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Diadermine Expert Hyaluron Actif Serum",
   "code": "5827785",
   "price": "16.35",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/prd-front-5827785-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjExOTB8aW1hZ2UvanBlZ3xhRFl5TDJnd01TOHlOalU1T1RBd09UYzNPVGMwTWk5d2NtUXRabkp2Ym5RdE5UZ3lOemM0TlMweFh6WXdNSGcyTURBfGE3ZDhjOTlmZTg4ODNkOGNiYWI0MDFlMDFjNmRiYTY5ZTZmMzY2M2U2NDM3Y2U2NmJkNDFkMzNlNzU0MjIzYzc"
+  "description": "50ml"
 }

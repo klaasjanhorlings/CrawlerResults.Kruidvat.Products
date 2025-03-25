@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Derma Salicylic Acid 2% Zuiverend Serum",
   "code": "6031604",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml, onzuivere huid",
-  "image": "/medias/sys_master/prd-images/hf5/h85/30085995167774/prd-front-6031604-1_600x600/prd-front-6031604-1-600x600.jpg"
+  "description": "30ml, onzuivere huid"
 }

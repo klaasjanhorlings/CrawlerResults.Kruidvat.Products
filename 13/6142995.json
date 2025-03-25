@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ajax Kindersweater",
+  "code": "6142995",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2610 > 3250 > 4141 > 5928 > 6038 > 6042",
+  "supplier": "BRAND NEW FRAGRANCES CR",
+  "inStock": "inStock",
+  "onPromo": "1012132",
+  "mmkId": "1012132",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/ajax-kindersweater/p/6142995",
+  "listName": "Lister",
+  "brand": "Fap",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "mt 116-122",
+  "image": "/medias/sys_master/prd-images/h78/h04/31784335015966/prd-front-6142995-1_600x600/prd-front-6142995-1-600x600.jpg"
+}

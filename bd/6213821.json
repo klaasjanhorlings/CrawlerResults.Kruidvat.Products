@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Cellular Expert Filler Hyaluron Serum",
   "code": "6213821",
   "price": "19.99",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/hbb/ha5/32709558468638/prd-front-6213821-1_600x600/prd-front-6213821-1-600x600.jpg"
+  "description": "15ml"
 }

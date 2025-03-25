@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L’Oréal Paris Revitalift Clinical SPF50+ Vitamine C Anti-UV Fluid",
   "code": "5780689",
   "price": "29.99",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hf0/hf2/33506820063262/prd-front-5780689-1_600x600/prd-front-5780689-1-600x600.jpg"
+  "description": "50ml"
 }

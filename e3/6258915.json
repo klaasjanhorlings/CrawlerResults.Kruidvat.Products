@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Cosmic Dreams 030 Nebula Purple Long Lasting Gel Color Nagellak",
   "code": "6258915",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "9ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "9ml"
 }

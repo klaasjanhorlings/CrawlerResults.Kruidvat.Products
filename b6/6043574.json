@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nip + Fab Renew Retinol Fix Blemish Treatment Gel",
   "code": "6043574",
   "price": "24.95",
@@ -33,6 +33,5 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "15ml, rijpe huid",
-  "image": "/medias/sys_master/prd-images/hfe/h57/30117705646110/prd-front-6043574-1_600x600/prd-front-6043574-1-600x600.jpg"
+  "description": "15ml, rijpe huid"
 }

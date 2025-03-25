@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050653",
+  "mmkId": "1050653",
+  "productGroupId": "466948",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/meridol-mondspoeling/p/34211",
@@ -33,6 +33,5 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "400ml - zonder alcohol",
-  "image": "/medias/sys_master/prd-images/hd6/h21/31449126928414/prd-front-34211-1_600x600/prd-front-34211-1-600x600.jpg"
+  "description": "400ml - zonder alcohol"
 }

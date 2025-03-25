@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Infaillible 24H Brow 5.23 Auburn Filling Triangular Pencil",
   "code": "5783300",
   "price": "12.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "1ml"
+  "description": "1ml",
+  "image": "/medias/prd-front-5783300-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzE0ODR8aW1hZ2UvanBlZ3xhR0V5TDJoaU55OHlOamMzTXpZeE56Z3dNekk1TkM5d2NtUXRabkp2Ym5RdE5UYzRNek13TUMweFh6WXdNSGcyTURBfDdkNTczYjQ2NzY0NWVmMjE3MDMzOTJjNTYzN2FjZjZiYzk2NzlmNTA3NjFjOGUyNDBjYTZhMjg3OGM2ODBmZDU"
 }

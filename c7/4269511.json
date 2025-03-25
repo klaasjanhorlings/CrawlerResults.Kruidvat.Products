@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Kingsize Bamboe Kussen",
+  "code": "4269511",
+  "price": "19.99",
+  "priceOriginal": "39.95",
+  "itemBgbcat": "2196 > 2956 > 3750 > 5926 > 6020 > 6047",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 19,96",
+  "url": "/lucovitaal-kingsize-bamboe-kussen/p/4269511",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 61701782,
+      "name": "Kussens"
+    },
+    {
+      "id": 66373863,
+      "name": "Hoofdkussens"
+    }
+  ],
+  "description": "66cm x 50cm x 18cm"
+}

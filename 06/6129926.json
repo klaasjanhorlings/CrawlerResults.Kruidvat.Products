@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Can't Stop Won't Stop 12.7 Neutral Tan Contour Concealer",
   "code": "6129926",
   "price": "9.95",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "3,5ml",
-  "image": "/medias/sys_master/prd-images/hda/hfd/31922253266974/prd-front-6129926-1_600x600/prd-front-6129926-1-600x600.jpg"
+  "description": "3,5ml"
 }

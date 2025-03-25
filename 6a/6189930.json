@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Max Factor Miracle Pure 7 Deep Hydratint Essence Foundation",
   "code": "6189930",
   "price": "24.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h71/h64/33039016230942/prd-front-6189930-1_600x600/prd-front-6189930-1-600x600.jpg"
 }

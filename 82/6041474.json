@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris 7.0 Dark Blonde Brow Color Wenkbrauwverf",
   "code": "6041474",
   "price": "19.99",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwverf"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hb6/h05/30751977177118/prd-front-6041474-1_600x600/prd-front-6041474-1-600x600.jpg"
+  "description": "30ml"
 }

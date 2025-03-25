@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nivea Vital Stralend Nachtcrème",
   "code": "5554186",
   "price": "24.99",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/prd-front-5554186-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODIzODN8aW1hZ2UvanBlZ3xhRFF4TDJnd01pOHhOelV6T0RnMk5qQTROVGt4T0M5d2NtUXRabkp2Ym5RdE5UVTFOREU0TmkweFh6WXdNSGcyTURBfDQ1NGMxMDFiMGUxMjMzNDVlODlmYThjZWY0ZjQxOTRjMGQ5OTFhNzQxZWZlNDFhYmFhM2M5M2JiZTVlNDE2YWY"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Juicy Bomb 106 Shiny Lipgloss",
   "code": "6123220",
   "price": "1.29",
@@ -33,5 +33,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/hf4/hf2/33047218749470/prd-front-6123220-1_600x600/prd-front-6123220-1-600x600.jpg"
 }

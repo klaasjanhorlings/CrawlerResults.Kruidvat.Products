@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup The Marshmellow Setting Spray",
   "code": "6129786",
   "price": "9.95",
@@ -33,5 +33,6 @@
       "name": "Fixing sprays"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h84/hd7/31926880698398/prd-front-6129786-1_600x600/prd-front-6129786-1-600x600.jpg"
 }

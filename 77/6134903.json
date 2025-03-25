@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Biodermal Anti-Age Oog & Lipcountourcrème",
   "code": "6134903",
   "price": "43.99",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h6b/h66/32582245089310/prd-front-6134903-1_600x600/prd-front-6134903-1-600x600.jpg"
 }

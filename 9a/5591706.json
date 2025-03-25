@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Pure Volume 010 Black Waterproof Mascara",
   "code": "5591706",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h94/hb4/29943343054878/prd-front-5591706-1_600x600/prd-front-5591706-1-600x600.jpg"
 }

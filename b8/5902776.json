@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Infaillible Matte Resistance 120 Major Crush Lipstick",
   "code": "5902776",
   "price": "18.99",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb9/hc6/28230676774942/prd-front-5902776-1_600x600/prd-front-5902776-1-600x600.jpg"
 }

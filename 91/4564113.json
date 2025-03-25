@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medela Borstkolf",
+  "code": "4564113",
+  "price": "36.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "MEDELA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1050673",
+  "mmkId": "1050673",
+  "productGroupId": "467997",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medela-borstkolf/p/4564113",
+  "listName": "Lister",
+  "brand": "Medela",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30266804,
+      "name": "Borstvoedingsaccessoires"
+    },
+    {
+      "id": 84925381,
+      "name": "Borstkolven"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h00/h5a/32460775260190/prd-front-4564113-1_600x600/prd-front-4564113-1-600x600.jpg"
+}

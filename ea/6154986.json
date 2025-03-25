@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Extreme Drama 110 Moonbeam Silver Soft Glide Waterproof Eyeliner Pencil",
   "code": "6154986",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "1,2g"
+  "description": "1,2g",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris False Lash Oversized Eye Mascara",
   "code": "6034901",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "8,9ml"
+  "description": "8,9ml",
+  "image": "/medias/sys_master/prd-images/h98/h8c/31691655479326/prd-front-6034901-1_600x600/prd-front-6034901-1-600x600.jpg"
 }

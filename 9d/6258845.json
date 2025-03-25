@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Cosmic Dreams 020 Galactic Pink Long Lasting Gel Color Nagellak",
   "code": "6258845",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "9ml",
-  "image": "/medias/sys_master/prd-images/h55/h4c/33730322464798/prd-front-6258845-1_600x600/prd-front-6258845-1-600x600.jpg"
+  "description": "9ml"
 }

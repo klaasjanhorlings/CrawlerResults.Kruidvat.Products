@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Celenes By Sweden Soothing Gezichtscrème",
   "code": "6059856",
   "price": "17.95",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Droge en gevoelige huid"
+  "description": "50ml - Droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h7d/h67/31006959599646/prd-front-6059856-1_600x600/prd-front-6059856-1-600x600.jpg"
 }

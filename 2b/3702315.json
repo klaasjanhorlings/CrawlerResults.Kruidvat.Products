@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Just For Men Snor & Baard M-45 Donkerbruin Haarkleuring",
   "code": "3702315",
   "price": "15.29",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "35g",
-  "image": "/medias/sys_master/prd-images/h97/hdb/28219205451806/prd-front-3702315-1_600x600/prd-front-3702315-1-600x600.jpg"
+  "description": "35g"
 }

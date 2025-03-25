@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "My Haircandy Ronde Haarklem",
   "code": "5860755",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": "beige"
+  "description": "beige",
+  "image": "/medias/sys_master/prd-images/h8c/hc2/33672043200542/prd-front-5860755-1_600x600/prd-front-5860755-1-600x600.jpg"
 }

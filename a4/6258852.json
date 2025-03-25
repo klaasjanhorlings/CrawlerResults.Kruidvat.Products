@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Sun Smooth 020 Medium Deep Neutral Tone Matte Cream Bronzer",
   "code": "6258852",
   "price": "5.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ORCHARD BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050646",
+  "mmkId": "1050646",
+  "productGroupId": "466318",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-sun-smooth-020-medium-deep-neutral-tone-matte-cream-bronzer/p/6258852",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h6d/hf7/33729997111326/prd-front-6258852-1_600x600/prd-front-6258852-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h14/hfc/33737105670174/prd-front-6258852-1_600x600/prd-front-6258852-1-600x600.jpg"
 }

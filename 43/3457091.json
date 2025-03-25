@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Intense 11.0 Pure Platinum Crème Haarkleuring",
   "code": "3457091",
   "price": "6.69",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h5c/h16/28225518436382/prd-front-3457091-1_600x600/prd-front-3457091-1-600x600.jpg"
+  "description": ""
 }

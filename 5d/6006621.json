@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Max Factor Facefinity Compact 006 Golden Refill Foundation",
   "code": "6006621",
   "price": "12.99",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "10g",
-  "image": "/medias/sys_master/prd-images/h1b/h0b/29839023996958/prd-front-6006621-1_600x600/prd-front-6006621-1-600x600.jpg"
+  "description": "10g"
 }
