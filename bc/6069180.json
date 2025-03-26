@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "1050673",
-  "mmkId": "1050673",
-  "productGroupId": "467997",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-ultra-ademende-zoogkompressen/p/6069180",
@@ -33,6 +33,5 @@
       "name": "Zoogkompressen"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h11/h99/30948259266590/prd-front-6069180-1_600x600/prd-front-6069180-1-600x600.jpg"
+  "description": "60 stuks"
 }

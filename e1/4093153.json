@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "PREMIUM COSMETICS GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1016191",
+  "mmkId": "1016191",
+  "productGroupId": "9004942",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-fresh-tandpasta/p/4093153",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "125ml",
-  "image": "/medias/prd-front-4093153-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTcyMDh8aW1hZ2UvanBlZ3xhR1V5TDJoaU5pOHhOalEwTmpNd01URXhNRE13TWk5d2NtUXRabkp2Ym5RdE5EQTVNekUxTXkweFh6WXdNSGcyTURBfGU0MGEzMmM2MDY4NmY4ZjdlMDZjNWFkODkxNzQ4N2EwYTkwYjg3ODZkOTlhZDZhZTA1NzQ2NDZiNGMwNDg3ZTk"
+  "description": "125ml"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "MAXIM MARKENPRODUKTE",
-  "inStock": "inStock",
-  "onPromo": "1016191",
-  "mmkId": "1016191",
-  "productGroupId": "9004942",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/soul-secrets-balance-shower-foam/p/5429663",
@@ -33,6 +33,5 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/prd-front-5429663-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzgzODl8aW1hZ2UvanBlZ3xhR016TDJoaU15OHhOekExTnpNd05EVXhNRFE1TkM5d2NtUXRabkp2Ym5RdE5UUXlPVFkyTXkweFh6WXdNSGcyTURBfGY4NjMzYjgyYjlmYmQ3ZTYyNzMwZjJhZTYzNGI0YjU2MjczM2RjYTYwMTkwMjFmMDU1ZjNhZWIzYmIyZDk5NmE"
+  "description": "200ml"
 }

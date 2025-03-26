@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "COSMOGROUP BRANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050727",
+  "mmkId": "1050727",
+  "productGroupId": "470999",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/umberto-giannini-curl-jelly-care-conditioner/p/5828191",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h7b/h24/31028885356574/prd-front-5828191-1_600x600/prd-front-5828191-1-600x600.jpg"
 }

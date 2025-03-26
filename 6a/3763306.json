@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "SOLUTION EU BV",
   "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "onPromo": "1050780",
+  "mmkId": "1050780",
+  "productGroupId": "466670",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-baby-manicureset/p/3763306",
@@ -29,12 +29,8 @@
       "name": "Babyverzorging"
     },
     {
-      "id": 30266782,
-      "name": "Verschonen"
-    },
-    {
-      "id": 84925489,
-      "name": "Verschoontafels"
+      "id": 85493688,
+      "name": "Baby nagelverzorging"
     }
   ],
   "description": "",

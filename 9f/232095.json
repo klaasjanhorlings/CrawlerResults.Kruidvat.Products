@@ -6,11 +6,11 @@
   "price": "14.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
-  "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "supplier": "BEIERSDORF NV BL",
+  "inStock": "inStock",
+  "onPromo": "1050583",
+  "mmkId": "1050583",
+  "productGroupId": "460036",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-q10-4-in-1-verstevigende-bodycreme/p/232095",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h1a/h4b/31738409648158/prd-front-232095-1_600x600/prd-front-232095-1-600x600.jpg"
+  "description": "300ml"
 }

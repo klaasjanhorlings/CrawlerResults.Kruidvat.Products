@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAESA COSMETICS GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050646",
+  "mmkId": "1050646",
+  "productGroupId": "466318",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-dreamy-cloud-glowy-finish-foam-primer/p/6258901",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h0f/h44/33738890870814/prd-front-6258901-1_600x600/prd-front-6258901-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7a/h6b/33749070643230/prd-front-6258901-1_600x600/prd-front-6258901-1-600x600.jpg"
 }

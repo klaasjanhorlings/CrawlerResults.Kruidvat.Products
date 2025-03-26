@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "From PB with Love Shopper",
+  "code": "6174656",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1051358",
+  "mmkId": "1051358",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/from-pb-with-love-shopper/p/6174656",
+  "listName": "Lister",
+  "brand": "Patty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "turquoise, 40cm x 40cm x 18cm",
+  "image": "/medias/sys_master/prd-images/h25/h45/32783755345950/prd-front-6174656-1_600x600/prd-front-6174656-1-600x600.jpg"
+}
