@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 3147 > 4015",
   "supplier": "BARONIE - DE HEER BV",
-  "inStock": "inStock",
-  "onPromo": "1049030",
-  "mmkId": "1049030",
-  "productGroupId": "445708",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-praline-karamel-paaseitjes/p/5052881",
@@ -29,8 +29,8 @@
       "name": "Snacks en snoep"
     },
     {
-      "id": 30267028,
-      "name": "Paaseitjes"
+      "id": 30267024,
+      "name": "Chocolade"
     }
   ],
   "description": "200g",

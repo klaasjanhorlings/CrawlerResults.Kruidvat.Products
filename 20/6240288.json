@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3786",
   "supplier": "WILD COSMETICS LTD.",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050685",
+  "mmkId": "1050685",
+  "productGroupId": "469175",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wild-coconut-vanilla-deodorant-refill/p/6240288",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "40g",
-  "image": "/medias/sys_master/prd-images/h67/h66/33753595543582/prd-front-6240288-1_600x600/prd-front-6240288-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc6/h1a/33760291422238/prd-front-6240288-1_600x600/prd-front-6240288-1-600x600.jpg"
 }

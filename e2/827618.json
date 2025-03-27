@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6694 > 2835",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "1050663",
-  "mmkId": "1050663",
-  "productGroupId": "467253",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-total-repair-anti-klitspray/p/827618",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h02/h11/33745621483550/prd-front-827618-1_600x600/prd-front-827618-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6f/h03/33759398625310/prd-front-827618-1_600x600/prd-front-827618-1-600x600.jpg"
 }

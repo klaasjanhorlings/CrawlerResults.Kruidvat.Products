@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "ORANGE-SHEEP BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/prd-front-5742507-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTU0Nzl8aW1hZ2UvanBlZ3xhR1k0TDJnNU9TOHhOekF3TURnd09UWXlOelkzT0M5d2NtUXRabkp2Ym5RdE5UYzBNalV3TnkweFh6WXdNSGcyTURBfDNlZDY1OWM5MjBiOTM0Mzg0YmYwMzdjNWY4OWYyZDY3YjdhNzJhYWEzZTEyMmEzNjUwMmVjMGJmNDQ4MzkwZjg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

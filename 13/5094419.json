@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "SOLUTION EU BV",
   "inStock": "inStock",
-  "onPromo": "1050780",
-  "mmkId": "1050780",
-  "productGroupId": "466670",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-6m-360-oefenbeker/p/5094419",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "blauw, wit, 210ml"
+  "description": "blauw, wit, 210ml",
+  "image": "/medias/sys_master/prd-images/h42/h93/27404805931038/prd-front-5094419-1_600x600/prd-front-5094419-1-600x600.jpg"
 }

@@ -25,17 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 50677212,
-      "name": "Reinigingsolie"
+      "id": 73443650,
+      "name": "Korean Skincare"
     }
   ],
-  "description": "210ml"
+  "description": "210ml",
+  "image": "/medias/sys_master/prd-images/h60/h21/32247711924254/prd-front-6200346-1_600x600/prd-front-6200346-1-600x600.jpg"
 }
