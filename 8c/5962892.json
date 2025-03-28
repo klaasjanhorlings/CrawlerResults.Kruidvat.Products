@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
   "supplier": "HERO NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Zuigelingenmelk"
     }
   ],
-  "description": "700g",
-  "image": "/medias/sys_master/prd-images/h6f/ha7/32878951137310/prd-front-5962892-1_600x600/prd-front-5962892-1-600x600.jpg"
+  "description": "700g"
 }

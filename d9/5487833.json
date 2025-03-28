@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "WeCare Choco Coconut Lower Carb Bar",
   "code": "5487833",
-  "price": "2.29",
+  "price": "2.35",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6647",
   "supplier": "NUTRITION&SANTE BENELX",
@@ -33,5 +33,6 @@
       "name": "Verlaagd koolhydraatgehalte"
     }
   ],
-  "description": "35g"
+  "description": "35g",
+  "image": "/medias/sys_master/prd-images/h94/h23/31688247541790/prd-front-5487833-1_600x600/prd-front-5487833-1-600x600.jpg"
 }

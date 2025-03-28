@@ -29,10 +29,13 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49363733,
-      "name": "Collageensupplementen"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/prd-front-4428992-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjkxMTl8aW1hZ2UvanBlZ3xhRFF6TDJobE15OHhOalU1TkRVeE9EZ3dNalEyTWk5d2NtUXRabkp2Ym5RdE5EUXlPRGs1TWkweFh6WXdNSGcyTURBfGI4ZjA1NThhMmRlMzhkNDhhODI3MTE4Y2IzNmM4YWJlZjU2ZjkzZmZjNzg3MDUwODBiZGVhZTM5ZGRiZjA3ZTM"
+  "description": "60 stuks"
 }

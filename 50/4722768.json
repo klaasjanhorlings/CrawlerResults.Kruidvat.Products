@@ -29,10 +29,13 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266717,
-      "name": "Weerstand en energie"
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001842,
+      "name": "Magnesium"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h33/h4e/31462592446494/prd-front-4722768-1_600x600/prd-front-4722768-1-600x600.jpg"
+  "description": "30 stuks"
 }

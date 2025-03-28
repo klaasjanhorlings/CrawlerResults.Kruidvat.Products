@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "WeCare Natural Tortillas Lower Carb Wraps",
   "code": "5487854",
-  "price": "4.75",
+  "price": "4.89",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6647",
   "supplier": "NUTRITION&SANTE BENELX",
@@ -33,5 +33,6 @@
       "name": "Verlaagd koolhydraatgehalte"
     }
   ],
-  "description": "160g"
+  "description": "160g",
+  "image": "/medias/sys_master/prd-images/hb0/h43/31685602574366/prd-front-5487854-1_600x600/prd-front-5487854-1-600x600.jpg"
 }

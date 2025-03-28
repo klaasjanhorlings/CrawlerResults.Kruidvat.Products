@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3648",
   "supplier": "BARONIE - DE HEER BV",
-  "inStock": "inStock",
-  "onPromo": "1049030",
-  "mmkId": "1049030",
-  "productGroupId": "445708",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-karamel-zeezout-melkchocolade-paaseitjes/p/4307661",
@@ -33,6 +33,5 @@
       "name": "Chocolade"
     }
   ],
-  "description": "200g",
-  "image": "/medias/prd-front-4307661-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODYxOTh8aW1hZ2UvanBlZ3xhRE0yTDJnek15OHlOamc1TWpRME9ERXpOekkwTmk5d2NtUXRabkp2Ym5RdE5ETXdOelkyTVMweFh6WXdNSGcyTURBfGMyN2Q3YjM0ZWI4ZWFkYzliMzdkMzAwMzgwZmQ0YjQwOGZiMmQyOTc3ZjhmNDhiM2UxNmU5YWU2OGRmMWIyN2I"
+  "description": "200g"
 }

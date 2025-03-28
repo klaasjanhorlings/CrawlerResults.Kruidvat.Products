@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "DERMCOS GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050777",
+  "mmkId": "1050777",
+  "productGroupId": "456944",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-solait-sensitive-spf50-sunmilk/p/4330012",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hcf/hce/29991271301150/prd-front-4330012-1_600x600/prd-front-4330012-1-600x600.jpg"
+  "description": "200ml"
 }
