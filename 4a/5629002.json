@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Slaapzak",
+  "code": "5629002",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 4362 > 2130 > 2317 > 2718 > 3421",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-slaapzak/p/5629002",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266041,
+      "name": "Babykleding"
+    },
+    {
+      "id": 30266850,
+      "name": "Slaapzakken"
+    }
+  ],
+  "description": "beige, zwart, blauw, mt 86-98",
+  "image": "/medias/prd-front-5629002-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODY3NjV8aW1hZ2UvanBlZ3xhRFkzTDJoaE5DOHhOakUxTVRVNU16UXhPRGM0TWk5d2NtUXRabkp2Ym5RdE5UWXlPVEF3TWkweFh6WXdNSGcyTURBfDE5YTkyZGQwNTM1ZDhhNmZmMDI5NGU1YmU2ZDk3MmRhZDhmN2YwNDVjZWM0OTNkMDJmZTJjZDM0OWU0Mjk5NDU"
+}

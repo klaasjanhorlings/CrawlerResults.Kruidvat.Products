@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leefvitaal Magnesium L-Tryptofaan/B6 Capsules",
+  "code": "4947342",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1050627",
+  "mmkId": "1050627",
+  "productGroupId": "465784",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/leefvitaal-magnesium-l-tryptofaan/b6-capsules/p/4947342",
+  "listName": "Lister",
+  "brand": "Leefvitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001842,
+      "name": "Magnesium"
+    }
+  ],
+  "description": "70 stuks",
+  "image": "/medias/sys_master/prd-images/h04/hbe/29570146828318/prd-front-4947342-1_600x600/prd-front-4947342-1-600x600.jpg"
+}

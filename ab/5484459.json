@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat High Gloss 010 Sparkling Glacier Plumping Lip Smoothie",
+  "code": "5484459",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "MAESA COSMETICS GMBH",
+  "inStock": "inStock",
+  "onPromo": "1050646",
+  "mmkId": "1050646",
+  "productGroupId": "466318",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-high-gloss-010-sparkling-glacier-plumping-lip-smoothie/p/5484459",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266583,
+      "name": "Lipgloss"
+    }
+  ],
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/hbd/h55/27625563848734/prd-front-5484459-1_600x600/prd-front-5484459-1-600x600.jpg"
+}

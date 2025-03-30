@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clementoni Baby Garden Mijn Eerste Tuintje",
+  "code": "5364549",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/clementoni-baby-garden-mijn-eerste-tuintje/p/5364549",
+  "listName": "Lister",
+  "brand": "Clementoni",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30266832,
+      "name": "Vormenstoof"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5364549-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODY1NzV8aW1hZ2UvanBlZ3xhRE5pTDJoaVl5OHlOamt4TWpZNE1EVTBNakl6T0M5d2NtUXRabkp2Ym5RdE5UTTJORFUwT1MweFh6WXdNSGcyTURBfDM3MzNjNWRiMmIyOTA5MzYwOWJjMDk3ZDgzMDU0OTQ0ZjI4NGM0M2I2YWE5NmZiZTM0YjM5MjUyYTU4YzIxODQ"
+}

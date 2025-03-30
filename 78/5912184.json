@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Sheer Beauties 30 Nagellak",
+  "code": "5912184",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1050756",
+  "mmkId": "1050756",
+  "productGroupId": "486051",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-sheer-beauties-30-nagellak/p/5912184",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30266584,
+      "name": "Nagellak"
+    }
+  ],
+  "description": "10,5ml",
+  "image": "/medias/sys_master/prd-images/h2f/h94/29945314607134/prd-front-5912184-1_600x600/prd-front-5912184-1-600x600.jpg"
+}

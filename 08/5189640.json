@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Staande Spiegel",
+  "code": "5189640",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6410",
+  "supplier": "TREFFINA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-staande-spiegel/p/5189640",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266618,
+      "name": "Make-up spiegels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6e/hbf/28519084064798/prd-front-5189640-1_600x600/prd-front-5189640-1-600x600.jpg"
+}

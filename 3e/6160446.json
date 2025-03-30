@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Blaasontsteking Urineweginfecties",
+  "code": "6160446",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6210 > 6228 > 6597",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1050564",
+  "mmkId": "1050564",
+  "productGroupId": "458032",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-blaasontsteking-urineweginfecties/p/6160446",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 52585207,
+      "name": "Blaasontsteking"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/h81/h28/31697126227998/prd-front-6160446-1_600x600/prd-front-6160446-1-600x600.jpg"
+}

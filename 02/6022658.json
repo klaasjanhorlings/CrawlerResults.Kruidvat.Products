@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gliss Total Repair 4-In-1 Regeneration Bond-Building Haarmasker",
+  "code": "6022658",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6695",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1050663",
+  "mmkId": "1050663",
+  "productGroupId": "467253",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gliss-total-repair-4-in-1-regeneration-bond-building-haarmasker/p/6022658",
+  "listName": "Lister",
+  "brand": "Gliss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266697,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hf4/ha7/33764443750430/prd-front-6022658-1_600x600/prd-front-6022658-1-600x600.jpg"
+}

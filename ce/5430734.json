@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SheaMoisture Coconut & Hibiscus Curl Enhancing Smoothie",
+  "code": "5430734",
+  "price": "18.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1050729",
+  "mmkId": "1050729",
+  "productGroupId": "471091",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sheamoisture-coconut-hibiscus-curl-enhancing-smoothie/p/5430734",
+  "listName": "Lister",
+  "brand": "SheaMoisture",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213665,
+      "name": "Haartreatment"
+    }
+  ],
+  "description": "326ml",
+  "image": "/medias/prd-front-5430734-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTkyMDh8aW1hZ2UvanBlZ3xhR1F3TDJnNVlpOHhOelU0TWpJd01UazVOVEk1TkM5d2NtUXRabkp2Ym5RdE5UUXpNRGN6TkMweFh6WXdNSGcyTURBfGRkZDM5ZWEwNDY5ZDk3MWI0ZGZlNTVjNDZjZTNmMzQwN2YzYWRjM2JhYzQxOWRjOWNhNWQxNDVhMzlhZDY1ZjA"
+}

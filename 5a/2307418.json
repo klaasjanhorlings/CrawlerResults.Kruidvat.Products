@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Colour Elixir 075 Ruby Tuesday Lipstick",
+  "code": "2307418",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "1050587",
+  "mmkId": "1050587",
+  "productGroupId": "460476",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-colour-elixir-075-ruby-tuesday-lipstick/p/2307418",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266595,
+      "name": "Lipliner"
+    }
+  ],
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h55/h30/31161026609182/prd-front-2307418-1_600x600/prd-front-2307418-1-600x600.jpg"
+}

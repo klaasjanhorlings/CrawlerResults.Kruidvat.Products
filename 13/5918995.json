@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 7+M Bio Appel en Wortel Maïspuffs",
+  "code": "5918995",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
+  "supplier": "FRUITFUNK BV",
+  "inStock": "inStock",
+  "onPromo": "1050714",
+  "mmkId": "1050714",
+  "productGroupId": "470024",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-7m-bio-appel-en-wortel-maispuffs/p/5918995",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266774,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "4 x 15g",
+  "image": "/medias/sys_master/prd-images/hf8/hd4/28865865089054/prd-front-5918995-1_600x600/prd-front-5918995-1-600x600.jpg"
+}

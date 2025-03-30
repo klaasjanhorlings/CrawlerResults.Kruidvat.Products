@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Schwarzkopf Argan Oil & Repair Shampoo",
+  "code": "5605349",
+  "price": "3.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1050664",
+  "mmkId": "1050664",
+  "productGroupId": "467267",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/schwarzkopf-argan-oil-repair-shampoo/p/5605349",
+  "listName": "Lister",
+  "brand": "Schwarzkopf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h33/h5e/32038736396318/prd-front-5605349-1_600x600/prd-front-5605349-1-600x600.jpg"
+}

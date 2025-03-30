@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Lifter Liner 09 Peaking Lippotlood",
+  "code": "6045352",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-lifter-liner-09-peaking-lippotlood/p/6045352",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266595,
+      "name": "Lipliner"
+    }
+  ],
+  "description": "1,2g",
+  "image": "/medias/sys_master/prd-images/h91/he6/30742960799774/prd-front-6045352-1_600x600/prd-front-6045352-1-600x600.jpg"
+}

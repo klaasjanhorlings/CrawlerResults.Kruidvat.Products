@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Calvin Klein Obsession Night Men Eau de Toilette",
+  "code": "2766807",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/calvin-klein-obsession-night-men-eau-de-toilette/p/2766807",
+  "listName": "Lister",
+  "brand": "Calvin Klein",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654823,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h95/hcf/30615141875742/prd-front-2766807-1_600x600/prd-front-2766807-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Shopper",
+  "code": "6174243",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6414",
+  "supplier": "MIJNSCHOENENSHOP.NL",
+  "inStock": "inStock",
+  "onPromo": "1051391",
+  "mmkId": "1051391",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/shopper/p/6174243",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "taupe, 36cm x 24cm",
+  "image": "/medias/sys_master/prd-images/h00/hbb/32183384113182/prd-front-6174243-1_600x600/prd-front-6174243-1-600x600.jpg"
+}

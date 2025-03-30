@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Vitamine B-100 Complex Tabletten",
+  "code": "427217",
+  "price": "13.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1050661",
+  "mmkId": "1050661",
+  "productGroupId": "467048",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-vitamine-b-100-complex-tabletten/p/427217",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266989,
+      "name": "Vitamine B"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/hcd/he6/33258223894558/prd-front-427217-1_600x600/prd-front-427217-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Solait Hydra 24H SPF30 Sunmilk",
+  "code": "6027012",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "EUROFOUR BV",
+  "inStock": "inStock",
+  "onPromo": "1050777",
+  "mmkId": "1050777",
+  "productGroupId": "456944",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-solait-hydra-24h-spf30-sunmilk/p/6027012",
+  "listName": "Lister",
+  "brand": "Kruidvat Solait",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h4c/hca/29997824442398/prd-front-6027012-1_600x600/prd-front-6027012-1-600x600.jpg"
+}

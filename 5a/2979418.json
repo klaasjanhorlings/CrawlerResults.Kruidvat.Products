@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Argan Oil & Care Shampoo",
+  "code": "2979418",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1050515",
+  "mmkId": "1050515",
+  "productGroupId": "452399",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-argan-oil-care-shampoo/p/2979418",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/prd-front-2979418-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjMwNTh8aW1hZ2UvanBlZ3xhRGMzTDJnNU5TOHlOalUzTWpreE1qSXpNRFF6TUM5d2NtUXRabkp2Ym5RdE1qazNPVFF4T0MweFh6WXdNSGcyTURBfDVhOGFmYzY0YWIxZTIxOWNkZWE4YTQwOGYwNGJhMGU3NjExMTRiMTVjZThmMzI4NjU2OGZjNjZlYWFhYWIyZDI"
+}

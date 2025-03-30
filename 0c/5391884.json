@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Durex Originals Nude XL Condooms",
+  "code": "5391884",
+  "price": "17.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "1050575",
+  "mmkId": "1050575",
+  "productGroupId": "459124",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/durex-originals-nude-xl-condooms/p/5391884",
+  "listName": "Lister",
+  "brand": "Durex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266011,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30266749,
+      "name": "Condooms"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10 stuks"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zenner Badpuff",
+  "code": "5964089",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6409 > 6674",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zenner-badpuff/p/5964089",
+  "listName": "Lister",
+  "brand": "Zenner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265998,
+      "name": "Bad- en doucheaccessoires"
+    }
+  ],
+  "description": "antraciet"
+}

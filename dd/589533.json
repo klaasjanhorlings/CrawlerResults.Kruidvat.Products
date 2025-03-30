@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Resdan Antiroosbehandelshampoo",
+  "code": "589533",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "1050555",
+  "mmkId": "1050555",
+  "productGroupId": "456878",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/resdan-antiroosbehandelshampoo/p/589533",
+  "listName": "Lister",
+  "brand": "Resdan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/prd-front-589533-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTE3MzF8aW1hZ2UvanBlZ3xhR00xTDJnMU5pOHhOak15TXpFeU1qSTVPRGt4TUM5d2NtUXRabkp2Ym5RdE5UZzVOVE16TFRGZk5qQXdlRFl3TUF8NDlmOWNmYzY0MTkzNzU3MDE3Mzk2ODkwZGJkZjVkOTFhOTZiNDk3YjI5MDRiOWY4NDc3MTYxODUwN2QwNzk1Ng"
+}

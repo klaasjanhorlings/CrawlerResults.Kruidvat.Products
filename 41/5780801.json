@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "John Frieda Profiller+ Conditioner",
+  "code": "5780801",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "1050548",
+  "mmkId": "1050548",
+  "productGroupId": "455858",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/john-frieda-profiller-conditioner/p/5780801",
+  "listName": "Lister",
+  "brand": "John Frieda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/prd-front-5780801-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTAyNzZ8aW1hZ2UvanBlZ3xhRFV3TDJneVlpOHhOelF4T1RJM01qYzBPVEE0Tmk5d2NtUXRabkp2Ym5RdE5UYzRNRGd3TVMweFh6WXdNSGcyTURBfDMzOWMyNzc4Njg5YjdhODhlMGJjZGZjY2MzNmViNWJmOGNjNzlhZmViZGQyZTU0NDE3M2ZlZTcxODYwYWUyMGM"
+}

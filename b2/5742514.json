@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Happy Earth Baby & Kids 100% Natural Face & Body Oil",
+  "code": "5742514",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2724 > 3427",
+  "supplier": "ORANGE-SHEEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/happy-earth-baby-kids-100-natural-face-body-oil/p/5742514",
+  "listName": "Lister",
+  "brand": "Happy Earth",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266776,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267015,
+      "name": "Babyolie"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hc9/hcb/33801458057246/prd-front-5742514-1_600x600/prd-front-5742514-1-600x600.jpg"
+}

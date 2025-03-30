@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup 03 Deserve Butta Buttermelt Bronzer",
+  "code": "6230656",
+  "price": "10.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-03-deserve-butta-buttermelt-bronzer/p/6230656",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266588,
+      "name": "Bronzer"
+    }
+  ],
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/h41/hc6/33641058631710/prd-front-6230656-1_600x600/prd-front-6230656-1-600x600.jpg"
+}

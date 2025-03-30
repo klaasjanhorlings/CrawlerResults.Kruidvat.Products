@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dagravit Vitamine D 10ug Parels",
+  "code": "3424555",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1050628",
+  "mmkId": "1050628",
+  "productGroupId": "465788",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dagravit-vitamine-d-10ug-parels/p/3424555",
+  "listName": "Lister",
+  "brand": "Dagravit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266729,
+      "name": "Botten en gewrichten"
+    }
+  ],
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/h94/h5d/33793735065630/prd-front-3424555-1_600x600/prd-front-3424555-1-600x600.jpg"
+}

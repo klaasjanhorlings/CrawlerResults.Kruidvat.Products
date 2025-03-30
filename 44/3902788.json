@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gaviscon Duo Maagzuurremmer Kauwtabletten",
+  "code": "3902788",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3465",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gaviscon-duo-maagzuurremmer-kauwtabletten/p/3902788",
+  "listName": "Lister",
+  "brand": "Gaviscon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266707,
+      "name": "Maag en darm"
+    },
+    {
+      "id": 30266972,
+      "name": "Maagzuurremmers"
+    }
+  ],
+  "description": "Geneesmiddel - 24 stuks",
+  "image": "/medias/prd-front-3902788-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA3ODJ8aW1hZ2UvanBlZ3xhRGN4TDJnelppOHlOekUzTXpBeU5qa3lNalV5Tmk5d2NtUXRabkp2Ym5RdE16a3dNamM0T0MweFh6WXdNSGcyTURBfDJiNTZiNzVjOWQ5NTEyZWNiMzQ5MDI5MTYxZjg5NTE0NTAyNTg3MTkxZTJiMGJmNzMyNTY3MjRjM2YwNDA3NTc"
+}

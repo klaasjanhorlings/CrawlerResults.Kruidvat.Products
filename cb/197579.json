@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Avent Flessenborstel",
+  "code": "197579",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-avent-flessenborstel/p/197579",
+  "listName": "Lister",
+  "brand": "Philips Avent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266801,
+      "name": "Flesvoedingsaccessoires"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0c/h13/28796908371998/prd-front-197579-1_600x600/prd-front-197579-1-600x600.jpg"
+}

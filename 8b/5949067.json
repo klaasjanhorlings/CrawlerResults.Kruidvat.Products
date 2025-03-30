@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Denman DPC6 Precision Professional Kam",
+  "code": "5949067",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6321 > 6674",
+  "supplier": "DENMAN INTERNATIONAL LTD",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/denman-dpc6-precision-professional-kam/p/5949067",
+  "listName": "Lister",
+  "brand": "Denman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265993,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30266625,
+      "name": "Kammen"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h31/hde/28889898549278/prd-front-5949067-1_600x600/prd-front-5949067-1-600x600.jpg"
+}

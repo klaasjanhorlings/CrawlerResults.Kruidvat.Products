@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Babysokjes",
+  "code": "5614414",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 4362 > 2130 > 5787 > 5788 > 5789",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1050650",
+  "mmkId": "1050650",
+  "productGroupId": "466671",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-babysokjes/p/5614414",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266041,
+      "name": "Babykleding"
+    },
+    {
+      "id": 30266852,
+      "name": "Babysokken"
+    }
+  ],
+  "description": "wit, 6-12m, 3 paar",
+  "image": "/medias/prd-front-5614414-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTIxNzd8aW1hZ2UvanBlZ3xhR0kyTDJnek15OHhOakV6TWpVNE1EWTNNVFV4T0M5d2NtUXRabkp2Ym5RdE5UWXhORFF4TkMweFh6WXdNSGcyTURBfGQ2ZmVjYTU5ZmMwNjQyNGUyYTlkMmZjOWRhNGI3OGVjNTdiNzA4NDQ2NDkwNDFiODkzNmQ2OTQyYTRmM2E3ZjM"
+}

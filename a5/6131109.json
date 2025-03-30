@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Lingerie XXL 24 Strip N Tease Lippenstift",
+  "code": "6131109",
+  "price": "10.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-lingerie-xxl-24-strip-n-tease-lippenstift/p/6131109",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he3/h9b/31928905695262/prd-front-6131109-1_600x600/prd-front-6131109-1-600x600.jpg"
+}

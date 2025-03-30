@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Guess Seductive Blue Bodymist",
+  "code": "5820512",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/guess-seductive-blue-bodymist/p/5820512",
+  "listName": "Lister",
+  "brand": "Guess",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 30266601,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/prd-front-5820512-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDkyMDN8aW1hZ2UvanBlZ3xhRGt6TDJnNU1pOHlOekV6T1RjeE1qQTVNREUwTWk5d2NtUXRabkp2Ym5RdE5UZ3lNRFV4TWkweFh6WXdNSGcyTURBfDBhMjc4NmQyOTk5YWVhZDMwNTBhMmVhNGY0YTQzMWJmMWQyODA0ZTkxMTQ4ODI5MmEwZjRiYjJkNTgzYjEyZTk"
+}

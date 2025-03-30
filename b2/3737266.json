@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Difrax XL Papfles",
+  "code": "3737266",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2501 > 3109 > 3975",
+  "supplier": "DIFRAX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/difrax-xl-papfles/p/3737266",
+  "listName": "Lister",
+  "brand": "Difrax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266799,
+      "name": "Babyflesjes"
+    }
+  ],
+  "description": "310ml",
+  "image": "/medias/sys_master/prd-images/h9f/h47/27778420768798/prd-front-3737266-1_600x600/prd-front-3737266-1-600x600.jpg"
+}

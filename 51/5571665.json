@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Melatonine 5mg Tabletten",
+  "code": "5571665",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6594",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-melatonine-5mg-tabletten/p/5571665",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266713,
+      "name": "Melatonine"
+    }
+  ],
+  "description": "Geneesmiddel - 30 stuks",
+  "image": "/medias/prd-front-5571665-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzIwMzl8aW1hZ2UvanBlZ3xhRFZpTDJoa1lpOHhOek16TmpNNE5EVTROVGMxT0M5d2NtUXRabkp2Ym5RdE5UVTNNVFkyTlMweFh6WXdNSGcyTURBfGEyNjcwNmYzYjYyMDY3NTgxMWY3ZmY0MTUxMTQyYjQwMTg1NmE0MjJhZTc3Njk3Y2JlNDE0MzE3NDMzNTM2NjM"
+}

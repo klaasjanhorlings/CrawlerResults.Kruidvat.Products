@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit Up! 12+M Kikkererwt Knabbels",
+  "code": "5904946",
+  "price": "1.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 4335 > 4336",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1040846",
+  "mmkId": "1040846",
+  "productGroupId": "430630",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-up-12m-kikkererwt-knabbels/p/5904946",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266774,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "20g",
+  "image": "/medias/sys_master/prd-images/h6e/h39/27973279055902/prd-front-5904946-1_600x600/prd-front-5904946-1-600x600.jpg"
+}

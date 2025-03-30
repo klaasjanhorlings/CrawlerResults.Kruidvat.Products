@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fa Luxurious Moments Douchegel",
+  "code": "2595286",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1050611",
+  "mmkId": "1050611",
+  "productGroupId": "463447",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fa-luxurious-moments-douchegel/p/2595286",
+  "listName": "Lister",
+  "brand": "Fa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/prd-front-2595286-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE3OTR8aW1hZ2UvanBlZ3xhREU0TDJnd015OHhOelEwTlRReE9UWXhOREl6T0M5d2NtUXRabkp2Ym5RdE1qVTVOVEk0TmkweFh6WXdNSGcyTURBfDc4MDIxYmM2YTE4ZjlmYTVhZmM5ODJmYzA2ZGI1NzBmODQwNjRmNjNhMWE4MjU1YTBkNmRiYTQ1NWZkMmNkYzA"
+}

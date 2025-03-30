@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Burberry Brit Woman Eau de Toilette",
+  "code": "3974349",
+  "price": "36.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "SAR TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/burberry-brit-woman-eau-de-toilette/p/3974349",
+  "listName": "Lister",
+  "brand": "Burberry",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-3974349-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzU5OTV8aW1hZ2UvanBlZ3xhRFZoTDJnNFlpODRPRGN4TnpreU16YzNPRGcyTDNCeVpDMW1jbTl1ZEMwek9UYzBNelE1TFRGZk5qQXdlRFl3TUF8M2E5MTZmZjI2OGFhMjdiZmJkYjI5YzUxN2U0ODcwY2RmZjA0YTZjN2IwMTA3NjY4ZjcwOWYyNzk5Mzc3YzIyYg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Crispbread Crackers",
+  "code": "5665787",
+  "price": "2.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 4006",
+  "supplier": "WHG WEISSENFELSER",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-crispbread-crackers/p/5665787",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 49431759,
+      "name": "Verlaagd koolhydraatgehalte"
+    }
+  ],
+  "description": "138g",
+  "image": "/medias/sys_master/prd-images/h79/h13/28023864983582/prd-front-5665787-1_600x600/prd-front-5665787-1-600x600.jpg"
+}

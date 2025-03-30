@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Loving Blends Kids Abrikoos 2-in-1 Shampoo & Conditioner",
+  "code": "5391786",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1050545",
+  "mmkId": "1050545",
+  "productGroupId": "455473",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-loving-blends-kids-abrikoos-2-in-1-shampoo-conditioner/p/5391786",
+  "listName": "Lister",
+  "brand": "Loving Blends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266775,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267012,
+      "name": "Babyshampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h21/hfd/33359876096030/prd-front-5391786-1_600x600/prd-front-5391786-1-600x600.jpg"
+}

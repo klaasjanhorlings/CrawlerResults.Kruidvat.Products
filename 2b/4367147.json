@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 20% Deet Anti-insect Spray",
+  "code": "4367147",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2962 > 3763",
+  "supplier": "PRIMMED BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-20-deet-anti-insect-spray/p/4367147",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266711,
+      "name": "Insecten"
+    },
+    {
+      "id": 30266986,
+      "name": "Voor de beet"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h64/hcf/28611924787230/prd-front-4367147-1_600x600/prd-front-4367147-1-600x600.jpg"
+}

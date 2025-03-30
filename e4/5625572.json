@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Time To Relax Eau de Toilette",
+  "code": "5625572",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "MAESA SA",
+  "inStock": "inStock",
+  "onPromo": "1050701",
+  "mmkId": "1050701",
+  "productGroupId": "469535",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-time-to-relax-eau-de-toilette/p/5625572",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "50ml"
+}

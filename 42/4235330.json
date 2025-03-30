@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Carmen CT6525 Shiny Curls Krultang",
+  "code": "4235330",
+  "price": "39.99",
+  "priceOriginal": "59.99",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6427",
+  "supplier": "INVENTUM HUISHOUDELIJKE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 20,00",
+  "url": "/carmen-ct6525-shiny-curls-krultang/p/4235330",
+  "listName": "Lister",
+  "brand": "Carmen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266698,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30266937,
+      "name": "Krultangen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha2/he8/27775578898462/prd-front-4235330-1_600x600/prd-front-4235330-1-600x600.jpg"
+}

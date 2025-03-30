@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Reinigende Oogdoekjes",
+  "code": "5813589",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3114 > 3611",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-reinigende-oogdoekjes/p/5813589",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266013,
+      "name": "Optiek"
+    },
+    {
+      "id": 49951126,
+      "name": "Oogreiniging"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/h77/h84/30265671122974/prd-front-5813589-1_600x600/prd-front-5813589-1-600x600.jpg"
+}

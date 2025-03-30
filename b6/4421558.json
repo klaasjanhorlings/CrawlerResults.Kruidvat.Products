@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Driehoek Vloeibare Groene Zeep",
+  "code": "4421558",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
+  "supplier": "GREEN SOAP COMPANY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/driehoek-vloeibare-groene-zeep/p/4421558",
+  "listName": "Lister",
+  "brand": "Driehoek",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144743,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "725ml",
+  "image": "/medias/sys_master/prd-images/h04/ha2/29839229091870/prd-front-4421558-1_600x600/prd-front-4421558-1-600x600.jpg"
+}

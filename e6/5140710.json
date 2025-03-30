@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Vaginale Gel",
+  "code": "5140710",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3100 > 3963",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-vaginale-gel/p/5140710",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266702,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 49949759,
+      "name": "Vrouw"
+    }
+  ],
+  "description": "7 x 5ml",
+  "image": "/medias/sys_master/prd-images/h07/hdc/28162580316190/prd-front-5140710-1_600x600/prd-front-5140710-1-600x600.jpg"
+}

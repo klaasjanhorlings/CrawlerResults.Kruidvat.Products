@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Invisible Damesshorts",
+  "code": "5462080",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6619 > 2001",
+  "supplier": "L. TEN CATE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-invisible-damesshorts/p/5462080",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266842,
+      "name": "Damesondergoed"
+    }
+  ],
+  "description": "zwart, mt M, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h89/hc0/27495133511710/prd-front-5462080-1_600x600/prd-front-5462080-1-600x600.jpg"
+}

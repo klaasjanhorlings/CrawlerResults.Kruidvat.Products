@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Omega 3 Capsules",
+  "code": "438249",
+  "price": "6.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1050661",
+  "mmkId": "1050661",
+  "productGroupId": "467048",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-omega-3-capsules/p/438249",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49792812,
+      "name": "Omega 3"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h71/hda/33323268145182/prd-front-438249-1_600x600/prd-front-438249-1-600x600.jpg"
+}

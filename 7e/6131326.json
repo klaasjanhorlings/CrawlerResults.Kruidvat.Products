@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup SMLC18 Prague Soft Matte Lip Cream",
+  "code": "6131326",
+  "price": "7.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-smlc18-prague-soft-matte-lip-cream/p/6131326",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/h20/h8c/31922042142750/prd-front-6131326-1_600x600/prd-front-6131326-1-600x600.jpg"
+}

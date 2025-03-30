@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Dailies Fresh Normal Inlegkruisjes",
+  "code": "5820540",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1050725",
+  "mmkId": "1050725",
+  "productGroupId": "470955",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-dailies-fresh-normal-inlegkruisjes/p/5820540",
+  "listName": "Lister",
+  "brand": "Always Dailies",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266663,
+      "name": "Inlegkruisjes"
+    }
+  ],
+  "description": "84 stuks",
+  "image": "/medias/sys_master/prd-images/h40/hc8/31869411360798/prd-front-5820540-1_600x600/prd-front-5820540-1-600x600.jpg"
+}

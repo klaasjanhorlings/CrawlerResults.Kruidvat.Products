@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nestlé Cereals Multifruit Baby Ontbijtpap",
+  "code": "5652312",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 5682 > 5683",
+  "supplier": "NESTLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nestle-cereals-multifruit-baby-ontbijtpap/p/5652312",
+  "listName": "Lister",
+  "brand": "Nestle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266772,
+      "name": "Babypap"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/hea/h29/27976583643166/prd-front-5652312-1_600x600/prd-front-5652312-1-600x600.jpg"
+}

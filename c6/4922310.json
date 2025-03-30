@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Q10 Extra Voedende Anti-Rimpel Dagcrème",
+  "code": "4922310",
+  "price": "27.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1050583",
+  "mmkId": "1050583",
+  "productGroupId": "460036",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-q10-extra-voedende-anti-rimpel-dagcreme/p/4922310",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml- Droge huid",
+  "image": "/medias/sys_master/prd-images/h8f/hee/32903690092574/prd-front-4922310-1_600x600/prd-front-4922310-1-600x600.jpg"
+}

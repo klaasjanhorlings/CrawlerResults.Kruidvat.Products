@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutrilon 4 Dreumesmelk met Vanillesmaak Flesvoeding Vanaf 1 Jaar",
+  "code": "2152991",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutrilon-4-dreumesmelk-met-vanillesmaak-flesvoeding-vanaf-1-jaar/p/2152991",
+  "listName": "Lister",
+  "brand": "Nutrilon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266769,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30267000,
+      "name": "Dreumesmelk"
+    }
+  ],
+  "description": "800g"
+}

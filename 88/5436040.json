@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Novex My Curls Super Curly Leave-in Conditioner",
+  "code": "5436040",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/novex-my-curls-super-curly-leave-in-conditioner/p/5436040",
+  "listName": "Lister",
+  "brand": "Novex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49745158,
+      "name": "Leave-in conditioner"
+    }
+  ],
+  "description": "1000ml",
+  "image": "/medias/prd-front-5436040-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzAyNzZ8aW1hZ2UvanBlZ3xhREExTDJnM015OHhOalUyT1RVeU1EZzRNVFk1TkM5d2NtUXRabkp2Ym5RdE5UUXpOakEwTUMweFh6WXdNSGcyTURBfDQ2NDRmNGFhMzg3NTljN2QxZmVlY2Q2Y2RhY2VlY2EwOWY4OWVkMGJlZmVjYTIwNjVkMTFmNjhmODRlYmE0Yjg"
+}

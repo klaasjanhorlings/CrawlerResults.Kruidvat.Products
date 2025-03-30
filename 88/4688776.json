@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Special Kokos Boost Droogshampoo",
+  "code": "4688776",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1050535",
+  "mmkId": "1050535",
+  "productGroupId": "454809",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-special-kokos-boost-droogshampoo/p/4688776",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266693,
+      "name": "Droogshampoo"
+    }
+  ],
+  "description": "245ml",
+  "image": "/medias/prd-front-4688776-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDIwNDR8aW1hZ2UvanBlZ3xhRFkyTDJneU5pOHlOalUzTlRNME1qWTVPRFV5Tmk5d2NtUXRabkp2Ym5RdE5EWTRPRGMzTmkweFh6WXdNSGcyTURBfDYyMmU5MDQ5ZTM2MzI0ZmFkYWRiYjg1YjlkZTUwZmIxMzgxNjU0OTY4MTgwMjA2YTNmMzE1MDBlMjM2NDU3ZTI"
+}

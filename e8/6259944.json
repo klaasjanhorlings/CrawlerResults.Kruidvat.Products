@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 34% Problast Cookies Caramel Proteïnereep",
+  "code": "6259944",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6385 > 6386 > 6397",
+  "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-34-problast-cookies-caramel-proteinereep/p/6259944",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 30266746,
+      "name": "Gewichtsbeheersing snacks"
+    }
+  ],
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/h6a/hc5/33360493215774/prd-front-6259944-1_600x600/prd-front-6259944-1-600x600.jpg"
+}

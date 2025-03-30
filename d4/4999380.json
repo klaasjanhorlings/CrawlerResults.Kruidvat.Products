@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Wimperserum Lash Booster",
+  "code": "4999380",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6508 > 6513 > 6517",
+  "supplier": "OCEANIC SP. Z O.O.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-wimperserum-lash-booster/p/4999380",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266593,
+      "name": "Wimperserums"
+    }
+  ],
+  "description": "3ml",
+  "image": "/medias/sys_master/prd-images/h5b/h20/32922345898014/prd-front-4999380-1_600x600/prd-front-4999380-1-600x600.jpg"
+}

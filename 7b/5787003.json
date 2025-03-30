@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Elvive Bond Repair Conditioner",
+  "code": "5787003",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-elvive-bond-repair-conditioner/p/5787003",
+  "listName": "Lister",
+  "brand": "Elvive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h20/h1b/28950525771806/prd-front-5787003-1_600x600/prd-front-5787003-1-600x600.jpg"
+}

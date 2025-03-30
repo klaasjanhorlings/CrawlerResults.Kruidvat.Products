@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Muscle Relaxation Arnica Badolie",
+  "code": "1647738",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1050612",
+  "mmkId": "1050612",
+  "productGroupId": "464177",
+  "brandType": "A or B brand",
+  "discount": "",
+  "url": "/kneipp-muscle-relaxation-arnica-badolie/p/1647738",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266653,
+      "name": "Badolie"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hb8/ha5/28611539140638/prd-front-1647738-1_600x600/prd-front-1647738-1-600x600.jpg"
+}

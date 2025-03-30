@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Pro-Care Ceramide Thick & Full Serum",
+  "code": "6121841",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6696",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1050729",
+  "mmkId": "1050729",
+  "productGroupId": "471091",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-pro-care-ceramide-thick-full-serum/p/6121841",
+  "listName": "Lister",
+  "brand": "Andrelon Pro-Care",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266696,
+      "name": "Haarserum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h05/hf8/31449149734942/prd-front-6121841-1_600x600/prd-front-6121841-1-600x600.jpg"
+}

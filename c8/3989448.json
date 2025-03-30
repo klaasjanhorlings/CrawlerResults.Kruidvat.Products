@@ -1,0 +1,29 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alecto Koolmonoxidemelder",
+  "code": "3989448",
+  "price": "14.99",
+  "priceOriginal": "24.99",
+  "itemBgbcat": "5929 > 2153 > 6014 > 6723 > 6724 > 6725",
+  "supplier": "COMMAXX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/alecto-koolmonoxidemelder/p/3989448",
+  "listName": "Lister",
+  "brand": "Alecto",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266052,
+      "name": "Huishoudelijke apparaten"
+    }
+  ],
+  "description": ""
+}

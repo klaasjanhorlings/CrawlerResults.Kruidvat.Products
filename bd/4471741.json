@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Oordopjes",
+  "code": "4471741",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6014 > 2153 > 2632 > 6446 > 6424",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-oordopjes/p/4471741",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266902,
+      "name": "Telefoonaccessoires"
+    },
+    {
+      "id": 49258289,
+      "name": "Koptelefoons en oordopjes"
+    }
+  ],
+  "description": "wit"
+}

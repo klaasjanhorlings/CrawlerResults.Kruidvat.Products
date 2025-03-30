@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medela Moedermelkflesjes",
+  "code": "3497768",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "MEDELA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1050673",
+  "mmkId": "1050673",
+  "productGroupId": "467997",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medela-moedermelkflesjes/p/3497768",
+  "listName": "Lister",
+  "brand": "Medela",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266799,
+      "name": "Babyflesjes"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h82/hfb/27269701992478/prd-front-3497768-1_600x600/prd-front-3497768-1-600x600.jpg"
+}

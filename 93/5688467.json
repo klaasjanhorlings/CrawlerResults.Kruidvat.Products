@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fujifilm instax Square SQ1 Camera",
+  "code": "5688467",
+  "price": "99.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2243 > 2408 > 2849 > 3588 > 4870 > 6031",
+  "supplier": "FUJIFILM IMAGING PRODUC",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fujifilm-instax-square-sq1-camera/p/5688467",
+  "listName": "Lister",
+  "brand": "Fujifilm",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266062,
+      "name": "Instax"
+    },
+    {
+      "id": 55720676,
+      "name": "Instax cameras"
+    }
+  ],
+  "description": "terracotta",
+  "image": "/medias/sys_master/prd-images/hd1/hcd/27785864347678/prd-front-5688467-1_600x600/prd-front-5688467-1-600x600.jpg"
+}

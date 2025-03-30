@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Canesten Foot Crème",
+  "code": "18091",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6450 > 3458",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/canesten-foot-creme/p/18091",
+  "listName": "Lister",
+  "brand": "Canesten",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48220885,
+      "name": "Voetschimmelbehandeling"
+    }
+  ],
+  "description": "Geneesmiddel - 20g",
+  "image": "/medias/prd-front-18091-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA0OTZ8aW1hZ2UvanBlZ3xhR0l6TDJoaU1TOHhOekkwT1RneE1qa3dOakF4TkM5d2NtUXRabkp2Ym5RdE1UZ3dPVEV0TVY4Mk1EQjROakF3fDNkNjFkY2NkNDk0NTVkNDM0Y2Y0MWZlODc1NjQxNDM1ZGFlMmYyNDVmNmM5OTk5NWY0MzM5Y2Y3YTA5MDM1ZTQ"
+}

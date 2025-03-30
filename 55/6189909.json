@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Miracle Pure 1 Fair Hydratint Essence Foundation",
+  "code": "6189909",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "1050757",
+  "mmkId": "1050757",
+  "productGroupId": "486193",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-miracle-pure-1-fair-hydratint-essence-foundation/p/6189909",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266577,
+      "name": "Foundation"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hc6/h7c/33039790047262/prd-front-6189909-1_600x600/prd-front-6189909-1-600x600.jpg"
+}

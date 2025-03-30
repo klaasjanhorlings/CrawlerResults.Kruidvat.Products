@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Midalgan 4-in-1 Gel met Ibuprofen 5%",
+  "code": "6152613",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "1050578",
+  "mmkId": "1050578",
+  "productGroupId": "459853",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/midalgan-4-in-1-gel-met-ibuprofen-5/p/6152613",
+  "listName": "Lister",
+  "brand": "Midalgan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266708,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30266978,
+      "name": "Spierwrijfmiddelen"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h07/h29/31771748204574/prd-front-6152613-1_600x600/prd-front-6152613-1-600x600.jpg"
+}

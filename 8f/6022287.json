@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gliss Split-Ends Cream",
+  "code": "6022287",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 3577 > 6689",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1050663",
+  "mmkId": "1050663",
+  "productGroupId": "467253",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gliss-split-ends-cream/p/6022287",
+  "listName": "Lister",
+  "brand": "Gliss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213665,
+      "name": "Haartreatment"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hf1/hf0/33759456526366/prd-front-6022287-1_600x600/prd-front-6022287-1-600x600.jpg"
+}

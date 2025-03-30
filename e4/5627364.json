@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Retinol Boost Nachtcrème",
+  "code": "5627364",
+  "price": "35.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "1050600",
+  "mmkId": "1050600",
+  "productGroupId": "462010",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutrogena-retinol-boost-nachtcreme/p/5627364",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266603,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h74/h79/28112496853022/prd-front-5627364-1_600x600/prd-front-5627364-1-600x600.jpg"
+}

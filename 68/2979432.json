@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Argan Oil & Care Crèmespoeling",
+  "code": "2979432",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-argan-oil-care-cremespoeling/p/2979432",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/prd-front-2979432-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjMyNTF8aW1hZ2UvanBlZ3xhRGM1TDJneE15OHhOamcyTnpRME1qWTFOVEkyTWk5d2NtUXRabkp2Ym5RdE1qazNPVFF6TWkweFh6WXdNSGcyTURBfDQ5MzBkMTk0YjJhNDU5YzgwNDQ4ZmQ4NjlkNmM2N2EwMDMzMTdiY2VjMzA0ZmFlZjI1MWM1ZDc5NDIwMGIxMjk"
+}

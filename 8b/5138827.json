@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat L-Lysine 1000mg Tabletten",
+  "code": "5138827",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6209 > 6227 > 6313",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1050661",
+  "mmkId": "1050661",
+  "productGroupId": "467048",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-l-lysine-1000mg-tabletten/p/5138827",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266721,
+      "name": "Overige supplementen"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h06/hd9/33350425935902/prd-front-5138827-1_600x600/prd-front-5138827-1-600x600.jpg"
+}

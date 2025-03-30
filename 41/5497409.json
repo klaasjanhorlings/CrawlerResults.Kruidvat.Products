@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Witte Kruis Paracetamol 500mg Granulaat",
+  "code": "5497409",
+  "price": "5.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 2760 > 3637",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/witte-kruis-paracetamol-500mg-granulaat/p/5497409",
+  "listName": "Lister",
+  "brand": "Wittekruis",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266706,
+      "name": "Pijn"
+    },
+    {
+      "id": 30266970,
+      "name": "Pijnstiller"
+    }
+  ],
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/hdc/h20/27857810325534/prd-front-5497409-1_600x600/prd-front-5497409-1-600x600.jpg"
+}

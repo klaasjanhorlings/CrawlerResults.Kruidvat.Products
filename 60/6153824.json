@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Easyglide Glijmiddel op Waterbasis",
+  "code": "6153824",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
+  "supplier": "ONE-DC B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/easyglide-glijmiddel-op-waterbasis/p/6153824",
+  "listName": "Lister",
+  "brand": "Easyglide",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266011,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 30266748,
+      "name": "Glijmiddelen"
+    },
+    {
+      "id": 66278176,
+      "name": "Waterbasis glijmiddelen"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h78/hda/31583529009182/prd-front-6153824-1_600x600/prd-front-6153824-1-600x600.jpg"
+}

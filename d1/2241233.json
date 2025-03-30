@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Refresh Textielverfrisser",
+  "code": "2241233",
+  "price": "2.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
+  "supplier": "MC BRIDE NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-refresh-textielverfrisser/p/2241233",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266064,
+      "name": "Wasverzachter"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h7e/he8/32303593979934/prd-front-2241233-1_600x600/prd-front-2241233-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Direct White Tandpasta",
+  "code": "4093188",
+  "price": "0.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
+  "supplier": "PREMIUM COSMETICS GMBH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-direct-white-tandpasta/p/4093188",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/prd-front-4093188-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA4MDF8aW1hZ2UvanBlZ3xhREJoTDJnM055OHhOalF6TVRjd09ERXhNRGczT0M5d2NtUXRabkp2Ym5RdE5EQTVNekU0T0MweFh6WXdNSGcyTURBfDliMDAwYTU0M2UyOTA3NmU2YmI1Y2M2ZWQ0NjEyZmFjMzFmNGMzZTg3M2I0OTU0YWI1MDE5ZGRjMGY5MThkN2M"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tweezerman Slant Tweezer",
+  "code": "5218039",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6329",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tweezerman-slant-tweezer/p/5218039",
+  "listName": "Lister",
+  "brand": "Tweezerman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266621,
+      "name": "Pincetten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0c/ha7/27399813824542/prd-front-5218039-1_600x600/prd-front-5218039-1-600x600.jpg"
+}

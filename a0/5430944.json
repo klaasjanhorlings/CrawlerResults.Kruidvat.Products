@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari Green Curls Extreme Hold Edge Gel",
+  "code": "5430944",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5918 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-green-curls-extreme-hold-edge-gel/p/5430944",
+  "listName": "Lister",
+  "brand": "Yari Green Curls",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266928,
+      "name": "Haargel"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h69/h12/28803806167070/prd-front-5430944-1_600x600/prd-front-5430944-1-600x600.jpg"
+}

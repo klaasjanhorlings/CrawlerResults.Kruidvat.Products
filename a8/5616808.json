@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "African Pride Moisture Miracle Leave-In Cream",
+  "code": "5616808",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/african-pride-moisture-miracle-leave-in-cream/p/5616808",
+  "listName": "Lister",
+  "brand": "African Pride",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49745158,
+      "name": "Leave-in conditioner"
+    }
+  ],
+  "description": "425g",
+  "image": "/medias/prd-front-5616808-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTMzMjh8aW1hZ2UvanBlZ3xhREE1TDJnMk1DOHlOalV6TmprME5qQXdPREE1TkM5d2NtUXRabkp2Ym5RdE5UWXhOamd3T0MweFh6WXdNSGcyTURBfGM1NGU2OTM3NTgzM2M2ZmRmZWIyOGVmMDMzMzViM2U3ZWQ5NTAzMTg2YmEwZjQ3MTE0NDIyNTNkMjhjNzZiNTY"
+}

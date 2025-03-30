@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Umberto Giannini Scalp Restore Shampoo",
+  "code": "5822983",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
+  "supplier": "COSMOGROUP BRANDS BV",
+  "inStock": "inStock",
+  "onPromo": "1050727",
+  "mmkId": "1050727",
+  "productGroupId": "470999",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/umberto-giannini-scalp-restore-shampoo/p/5822983",
+  "listName": "Lister",
+  "brand": "Umberto Giannini",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h7e/h5c/31029708324894/prd-front-5822983-1_600x600/prd-front-5822983-1-600x600.jpg"
+}

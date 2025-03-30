@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Infaillible 24H 302 Rose Eternite Lipstick",
+  "code": "5782229",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-infaillible-24h-302-rose-eternite-lipstick/p/5782229",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "5,7g",
+  "image": "/medias/prd-front-5782229-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTEyMDZ8aW1hZ2UvanBlZ3xhRGsyTDJneE15OHlOamMzTkRjek1qazVOall6T0M5d2NtUXRabkp2Ym5RdE5UYzRNakl5T1MweFh6WXdNSGcyTURBfGJhMmJmMjg2NDdmMGFmY2U5ZjI0NDg5ZGRhODY3M2U1Zjg5YTJhMDZmYTFlYmE2MWIwZmI2MmY4MjYwOTRlNWQ"
+}

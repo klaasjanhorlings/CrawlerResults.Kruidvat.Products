@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bondi Sands Ultra Dark Self Tanning Foam",
+  "code": "6022546",
+  "price": "17.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "1050683",
+  "mmkId": "1050683",
+  "productGroupId": "469121",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bondi-sands-ultra-dark-self-tanning-foam/p/6022546",
+  "listName": "Lister",
+  "brand": "Bondi Sands",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266659,
+      "name": "Zelfbruiners"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h12/hd3/33356044599326/prd-front-6022546-1_600x600/prd-front-6022546-1-600x600.jpg"
+}

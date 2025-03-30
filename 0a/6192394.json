@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Kraagje",
+  "code": "6192394",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2225 > 4869 > 6652 > 6653 > 6654",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-kraagje/p/6192394",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "wit",
+  "image": "/medias/sys_master/prd-images/h3e/he5/32573580836894/prd-front-6192394-1_600x600/prd-front-6192394-1-600x600.jpg"
+}

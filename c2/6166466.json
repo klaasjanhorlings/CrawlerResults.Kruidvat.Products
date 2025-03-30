@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Sonicare 9000 Series DiamondClean Elektrische Tandenborstel",
+  "code": "6166466",
+  "price": "149.99",
+  "priceOriginal": "299.99",
+  "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 150,00",
+  "url": "/philips-sonicare-9000-series-diamondclean-elektrische-tandenborstel/p/6166466",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266677,
+      "name": "Elektrische tandenborstels"
+    }
+  ],
+  "description": "wit",
+  "image": "/medias/sys_master/prd-images/h63/h91/31730678300702/prd-front-6166466-1_600x600/prd-front-6166466-1-600x600.jpg"
+}

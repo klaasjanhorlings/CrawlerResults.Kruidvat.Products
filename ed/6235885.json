@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oreal Paris Color Riche Intense Volume 2010 La Prune Matte Lippenstift",
+  "code": "6235885",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-color-riche-intense-volume-2010-la-prune-matte-lippenstift/p/6235885",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h32/h7e/33349553029150/prd-front-6235885-1_600x600/prd-front-6235885-1-600x600.jpg"
+}

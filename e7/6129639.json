@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup 03 Medium Brown The Brow Glue Stick",
+  "code": "6129639",
+  "price": "8.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-03-medium-brown-the-brow-glue-stick/p/6129639",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266592,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30266905,
+      "name": "Wenkbrauwgel"
+    }
+  ],
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/h03/he2/31930666811422/prd-front-6129639-1_600x600/prd-front-6129639-1-600x600.jpg"
+}

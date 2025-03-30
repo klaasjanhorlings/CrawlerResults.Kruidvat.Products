@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Magnesium Citraat 400mg Sachets",
+  "code": "5662896",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1050638",
+  "mmkId": "1050638",
+  "productGroupId": "466223",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-magnesium-citraat-400mg-sachets/p/5662896",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001842,
+      "name": "Magnesium"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/h88/hdf/33350968967198/prd-front-5662896-1_600x600/prd-front-5662896-1-600x600.jpg"
+}

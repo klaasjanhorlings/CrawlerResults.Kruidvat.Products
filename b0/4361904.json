@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Fructis Nourishing Banana Hair Food 3-in-1 Haarmasker",
+  "code": "4361904",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-fructis-nourishing-banana-hair-food-3-in-1-haarmasker/p/4361904",
+  "listName": "Lister",
+  "brand": "Fructis",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266697,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hbb/hbc/31566338883614/prd-front-4361904-1_600x600/prd-front-4361904-1-600x600.jpg"
+}

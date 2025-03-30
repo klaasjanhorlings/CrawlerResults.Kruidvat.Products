@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Kinesiologie Tape",
+  "code": "4201156",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 3249 > 4140",
+  "supplier": "GEOCOS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-kinesiologie-tape/p/4201156",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266741,
+      "name": "Sport, -blessures en herstel"
+    },
+    {
+      "id": 57912722,
+      "name": "Sporttape"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 500cm x 5cm",
+  "image": "/medias/sys_master/prd-images/h67/he6/28031282806814/prd-front-4201156-1_600x600/prd-front-4201156-1-600x600.jpg"
+}

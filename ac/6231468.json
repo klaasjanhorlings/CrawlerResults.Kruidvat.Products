@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Frozen Elsa Spin & Reveal",
+  "code": "6231468",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 4933 > 4980 > 5026 > 5921 > 6040",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/frozen-elsa-spin-reveal/p/6231468",
+  "listName": "Lister",
+  "brand": "Frozen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266029,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h03/h01/32887768285214/prd-front-6231468-1_600x600/prd-front-6231468-1-600x600.jpg"
+}

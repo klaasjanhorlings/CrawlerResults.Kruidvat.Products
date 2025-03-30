@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari Jojoba-Olie",
+  "code": "3574551",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "1050729",
+  "mmkId": "1050729",
+  "productGroupId": "471091",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-jojoba-olie/p/3574551",
+  "listName": "Lister",
+  "brand": "Yari",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213459,
+      "name": "Haarolie"
+    }
+  ],
+  "description": "250ml"
+}

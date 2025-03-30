@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari Naturals Curl Activator Cream",
+  "code": "4279395",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "1050729",
+  "mmkId": "1050729",
+  "productGroupId": "471091",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-naturals-curl-activator-cream/p/4279395",
+  "listName": "Lister",
+  "brand": "Yari",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 82417013,
+      "name": "Krullenverzorging"
+    }
+  ],
+  "description": "375ml",
+  "image": "/medias/prd-front-4279395-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE3NjB8aW1hZ2UvanBlZ3xhR0ZtTDJnek1TOHlOamc1T0RBek1qY3lNVGsxTUM5d2NtUXRabkp2Ym5RdE5ESTNPVE01TlMweFh6WXdNSGcyTURBfDRmYjNkMDk0NjEzNThhNjNkMzc5ZDk4MWVjZTg2MmYzZWRmZDYxY2YyMDMwZTdlNWZhOTJhMzFkZDY0M2U1MTA"
+}

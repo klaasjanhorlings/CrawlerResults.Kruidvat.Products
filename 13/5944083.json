@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Super Magnesium 6 Complex Tabletten",
+  "code": "5944083",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6200 > 6218 > 6268",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1050564",
+  "mmkId": "1050564",
+  "productGroupId": "458032",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-super-magnesium-6-complex-tabletten/p/5944083",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001842,
+      "name": "Magnesium"
+    }
+  ],
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/hc6/h59/30114432614430/prd-front-5944083-1_600x600/prd-front-5944083-1-600x600.jpg"
+}

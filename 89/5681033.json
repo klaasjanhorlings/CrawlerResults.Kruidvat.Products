@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pathé Bioscoop Voucher",
+  "code": "5681033",
+  "price": "15.0",
+  "priceOriginal": "30.0",
+  "itemBgbcat": "4870 > 6447 > 4891 > 4892 > 4893 > 4894",
+  "supplier": "PATHE THEATERS BV",
+  "inStock": "inStock",
+  "onPromo": "1050487",
+  "mmkId": "1050487",
+  "productGroupId": "474778",
+  "brandType": "Ander merk",
+  "discount": "€ 15,00",
+  "url": "/pathe-bioscoop-voucher/p/5681033",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536083,
+      "name": "Tickets"
+    },
+    {
+      "id": 30266049,
+      "name": "Avondje uit"
+    },
+    {
+      "id": 30266873,
+      "name": "Concerten en voorstellingen"
+    }
+  ],
+  "description": "Verzilver je unieke code via de link in de productinformatie."
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Elmex Professional Opti-Glazuur Tandpasta",
+  "code": "3696708",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "1050539",
+  "mmkId": "1050539",
+  "productGroupId": "455305",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elmex-professional-opti-glazuur-tandpasta/p/3696708",
+  "listName": "Lister",
+  "brand": "Elmex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml - Glazuurbescherming",
+  "image": "/medias/sys_master/prd-images/h04/h81/31920351051806/prd-front-3696708-1_600x600/prd-front-3696708-1-600x600.jpg"
+}

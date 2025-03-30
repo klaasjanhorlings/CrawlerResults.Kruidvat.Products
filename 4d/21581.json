@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Otalgan Oordruppels",
+  "code": "21581",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 2869 > 3610",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/otalgan-oordruppels/p/21581",
+  "listName": "Lister",
+  "brand": "Otalgan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 49949611,
+      "name": "Oordruppels"
+    }
+  ],
+  "description": "Geneesmiddel - 12g",
+  "image": "/medias/sys_master/prd-images/hae/h2a/32877448921118/prd-front-21581-1_600x600/prd-front-21581-1-600x600.jpg"
+}

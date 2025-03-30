@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Scholl 2-In-1 Oplossing voor Schimmelnagels",
+  "code": "2090558",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6451 > 6452",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "inStock",
+  "onPromo": "1050500",
+  "mmkId": "1050500",
+  "productGroupId": "450517",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/scholl-2-in-1-oplossing-voor-schimmelnagels/p/2090558",
+  "listName": "Lister",
+  "brand": "Scholl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48220844,
+      "name": "Kalknagelbehandeling"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 3,8ml",
+  "image": "/medias/sys_master/prd-images/h76/hfd/28595544227870/prd-front-2090558-1_600x600/prd-front-2090558-1-600x600.jpg"
+}

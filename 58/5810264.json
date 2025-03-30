@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Awake & Bright Under Eye Primer Serum",
+  "code": "5810264",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "MAESA COSMETICS GMBH",
+  "inStock": "inStock",
+  "onPromo": "1050646",
+  "mmkId": "1050646",
+  "productGroupId": "466318",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-awake-bright-under-eye-primer-serum/p/5810264",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266579,
+      "name": "Primer"
+    }
+  ],
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h5d/h21/27426445590558/prd-front-5810264-1_600x600/prd-front-5810264-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dames-T-Shirt",
+  "code": "6222774",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2640 > 3325 > 4829 > 5813 > 5928 > 6038",
+  "supplier": "TROY COMPANIES BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/dames-t-shirt/p/6222774",
+  "listName": "Lister",
+  "brand": "Ekw",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "oranje, mt L",
+  "image": "/medias/sys_master/prd-images/h2d/h6c/33772434554910/prd-front-6222774-1_600x600/prd-front-6222774-1-600x600.jpg"
+}

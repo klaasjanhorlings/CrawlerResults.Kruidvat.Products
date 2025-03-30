@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Nail Polish Remover",
+  "code": "438235",
+  "price": "0.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2802 > 3543",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1050718",
+  "mmkId": "1050718",
+  "productGroupId": "470409",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-nail-polish-remover/p/438235",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266633,
+      "name": "Nagellakremover"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/prd-front-438235-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjU2MTd8aW1hZ2UvanBlZ3xhRFEwTDJneVppOHhOalk0TVRBek5EUXhOakUxT0M5d2NtUXRabkp2Ym5RdE5ETTRNak0xTFRGZk5qQXdlRFl3TUF8ZGUzYjFjYjI3MjYxNWQ1NjFlODcxNmFhMzZiZmVmYzY4Yjc0YWU1ZTkyNWNmZWQ0NzI1YTAzZTJmZDU5ZTA1MQ"
+}

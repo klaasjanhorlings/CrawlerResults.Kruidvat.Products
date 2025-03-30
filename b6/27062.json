@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WeCare Choco Crisp Meal Replacement Bars",
+  "code": "27062",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3851",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "1050680",
+  "mmkId": "1050680",
+  "productGroupId": "468373",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wecare-choco-crisp-meal-replacement-bars/p/27062",
+  "listName": "Lister",
+  "brand": "WeCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 30266743,
+      "name": "Maaltijdvervangers"
+    }
+  ],
+  "description": "2 x 58g",
+  "image": "/medias/sys_master/prd-images/h29/he5/31684786389022/prd-front-27062-1_600x600/prd-front-27062-1-600x600.jpg"
+}

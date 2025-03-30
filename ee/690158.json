@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Menthol Talkpoeder",
+  "code": "690158",
+  "price": "2.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3314 > 4217",
+  "supplier": "GALVASTORE BV",
+  "inStock": "inStock",
+  "onPromo": "1050633",
+  "mmkId": "1050633",
+  "productGroupId": "466004",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-menthol-talkpoeder/p/690158",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51216456,
+      "name": "Verkoelende zalf"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h57/hc6/28936916533278/prd-front-690158-1_600x600/prd-front-690158-1-600x600.jpg"
+}

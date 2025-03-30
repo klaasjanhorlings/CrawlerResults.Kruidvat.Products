@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Daktarin Miconazolnitraat Crème",
+  "code": "874308",
+  "price": "10.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6450 > 3458",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/daktarin-miconazolnitraat-creme/p/874308",
+  "listName": "Lister",
+  "brand": "Daktarin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 49946950,
+      "name": "Schimmelinfectie"
+    }
+  ],
+  "description": "Geneesmiddel - 15g",
+  "image": "/medias/prd-front-874308-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTEwNzd8aW1hZ2UvanBlZ3xhREEzTDJnMVpTOHlOamt3TmpJNU9UVXpNVEk1TkM5d2NtUXRabkp2Ym5RdE9EYzBNekE0TFRGZk5qQXdlRFl3TUF8OTBiMjU4YzJhOTY4YjA5MGE1MzA5YzhkYmU0MGI0MTkxYzAyN2Q4YzhmNjFmY2M1NTVjMzUwOWY3YzViNDNiMA"
+}

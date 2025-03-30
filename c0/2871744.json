@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 12+M Acht Granen Vanille Ontbijtpap",
+  "code": "2871744",
+  "price": "2.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 5682 > 5683",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-12m-acht-granen-vanille-ontbijtpap/p/2871744",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266772,
+      "name": "Babypap"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/hd1/hc0/30686236639262/prd-front-2871744-1_600x600/prd-front-2871744-1-600x600.jpg"
+}

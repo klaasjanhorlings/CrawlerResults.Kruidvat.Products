@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mylaq My Pinkish Energy Uv Gellak",
+  "code": "6033060",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
+  "supplier": "COSMO GROUP SP. Z O.O.",
+  "inStock": "inStock",
+  "onPromo": "1050756",
+  "mmkId": "1050756",
+  "productGroupId": "486051",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mylaq-my-pinkish-energy-uv-gellak/p/6033060",
+  "listName": "Lister",
+  "brand": "Mylaq",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 72476685,
+      "name": "Gellak"
+    }
+  ],
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/hb7/h66/33005216333854/prd-front-6033060-1_600x600/prd-front-6033060-1-600x600.jpg"
+}

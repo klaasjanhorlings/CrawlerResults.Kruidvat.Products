@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "HG Vloeibare Ontstopper",
+  "code": "232375",
+  "price": "7.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3245 > 4136",
+  "supplier": "HG INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "1050501",
+  "mmkId": "1050501",
+  "productGroupId": "450673",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hg-vloeibare-ontstopper/p/232375",
+  "listName": "Lister",
+  "brand": "HG",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144743,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "1L",
+  "image": "/medias/prd-front-232375-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDY1OTR8aW1hZ2UvanBlZ3xhRGswTDJobU1DOHhOak0wTURJNE56UTRPREF6TUM5d2NtUXRabkp2Ym5RdE1qTXlNemMxTFRGZk5qQXdlRFl3TUF8YWM0OWM4ZTViMjI2ODQ3OGQxZmUzNGViYmM3NmRlNzc4M2IzYWFlOTQwZThiNmM3ZGMyNzE4M2NlZmI3MGUxMg"
+}

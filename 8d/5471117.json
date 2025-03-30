@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London Match Perfection 501 Sand Beige Foundation",
+  "code": "5471117",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "1050757",
+  "mmkId": "1050757",
+  "productGroupId": "486193",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-match-perfection-501-sand-beige-foundation/p/5471117",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266577,
+      "name": "Foundation"
+    }
+  ],
+  "description": "117g",
+  "image": "/medias/sys_master/prd-images/h3a/hf4/29786513899550/prd-front-5471117-1_600x600/prd-front-5471117-1-600x600.jpg"
+}

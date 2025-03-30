@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Loving Blends Milde Haver Conditioner",
+  "code": "4822182",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1050545",
+  "mmkId": "1050545",
+  "productGroupId": "455473",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-loving-blends-milde-haver-conditioner/p/4822182",
+  "listName": "Lister",
+  "brand": "Loving Blends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h7f/hef/29788755132446/prd-front-4822182-1_600x600/prd-front-4822182-1-600x600.jpg"
+}

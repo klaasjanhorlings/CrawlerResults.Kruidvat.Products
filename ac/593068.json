@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Scholl Fresh Step Deodorant Schoenenspray",
+  "code": "593068",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2701 > 3404",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "inStock",
+  "onPromo": "1050500",
+  "mmkId": "1050500",
+  "productGroupId": "450517",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/scholl-fresh-step-deodorant-schoenenspray/p/593068",
+  "listName": "Lister",
+  "brand": "Scholl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48220780,
+      "name": "Zweetvoeten"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/haa/hae/28026664845342/prd-front-593068-1_600x600/prd-front-593068-1-600x600.jpg"
+}

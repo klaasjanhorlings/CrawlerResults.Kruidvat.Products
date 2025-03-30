@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup 01 My Main Fat Oil Lip Drip",
+  "code": "6130311",
+  "price": "9.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-01-my-main-fat-oil-lip-drip/p/6130311",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266583,
+      "name": "Lipgloss"
+    }
+  ],
+  "description": "4,8ml",
+  "image": "/medias/sys_master/prd-images/h36/hea/31921512251422/prd-front-6130311-1_600x600/prd-front-6130311-1-600x600.jpg"
+}

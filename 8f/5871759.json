@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mylaq My Deep Love Gellak",
+  "code": "5871759",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6505 > 6506",
+  "supplier": "COSMO GROUP SP. Z O.O.",
+  "inStock": "inStock",
+  "onPromo": "1050756",
+  "mmkId": "1050756",
+  "productGroupId": "486051",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mylaq-my-deep-love-gellak/p/5871759",
+  "listName": "Lister",
+  "brand": "Mylaq",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 72476685,
+      "name": "Gellak"
+    }
+  ],
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h41/h55/33008955850782/prd-front-5871759-1_600x600/prd-front-5871759-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Gevulde Melkchocolade Paaseitjes met Crispy Rice",
+  "code": "3312296",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3648",
+  "supplier": "BARONIE - DE HEER BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-gevulde-melkchocolade-paaseitjes-met-crispy-rice/p/3312296",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h24/h9f/27270605078558/prd-front-3312296-1_600x600/prd-front-3312296-1-600x600.jpg"
+}

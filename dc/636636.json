@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Multi 50+ Bruistabletten",
+  "code": "636636",
+  "price": "3.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6285",
+  "supplier": "NUTRILO GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1050661",
+  "mmkId": "1050661",
+  "productGroupId": "467048",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-multi-50-bruistabletten/p/636636",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hb9/h8a/33142161604638/prd-front-636636-1_600x600/prd-front-636636-1-600x600.jpg"
+}

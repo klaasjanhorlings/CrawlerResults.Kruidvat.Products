@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Koortslip Patch",
+  "code": "2597435",
+  "price": "5.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 2842 > 3581",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-koortslip-patch/p/2597435",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30266947,
+      "name": "Koortslip"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 15 stuks",
+  "image": "/medias/sys_master/prd-images/h7f/hbc/28503118053406/prd-front-2597435-1_600x600/prd-front-2597435-1-600x600.jpg"
+}

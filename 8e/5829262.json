@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Pro Nature Bamboo Volume Boost Shampoo",
+  "code": "5829262",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1050535",
+  "mmkId": "1050535",
+  "productGroupId": "454809",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-pro-nature-bamboo-volume-boost-shampoo/p/5829262",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/prd-front-5829262-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTk3OTV8aW1hZ2UvanBlZ3xhR001TDJoaE9TOHlOekl3TURNeU9ETTJPREUxT0M5d2NtUXRabkp2Ym5RdE5UZ3lPVEkyTWkweFh6WXdNSGcyTURBfDNiNmVjYjVmODIwMTlmY2I5YzBjMDJmYjE3ZDdiNzRjNWRjZmE4ZDYyNzY4OThhY2MyNzlmNzFkYjBiMzI4Y2U"
+}

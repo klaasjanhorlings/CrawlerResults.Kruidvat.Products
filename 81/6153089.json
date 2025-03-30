@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Autoladerset",
+  "code": "6153089",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2153 > 2632 > 5929 > 6014 > 6421 > 6446",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-autoladerset/p/6153089",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266902,
+      "name": "Telefoonaccessoires"
+    },
+    {
+      "id": 30267035,
+      "name": "Telefoonkabeltjes"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha3/h95/33408976683038/prd-front-6153089-1_600x600/prd-front-6153089-1-600x600.jpg"
+}

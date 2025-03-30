@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Bio 6+M Aardappel, Erwt & Courgette Knijpzakje",
+  "code": "6044547",
+  "price": "0.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "FRUITFUNK BV",
+  "inStock": "inStock",
+  "onPromo": "1050713",
+  "mmkId": "1050713",
+  "productGroupId": "469903",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-bio-6m-aardappel-erwt-courgette-knijpzakje/p/6044547",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266770,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267003,
+      "name": "6 maanden +"
+    }
+  ],
+  "description": "90g",
+  "image": "/medias/sys_master/prd-images/h48/he7/30107316715550/prd-front-6044547-1_600x600/prd-front-6044547-1-600x600.jpg"
+}

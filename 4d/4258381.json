@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Bio Rijstebloem Papje",
+  "code": "4258381",
+  "price": "1.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 5676 > 5677",
+  "supplier": "JOANNUSMOLEN BV",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-bio-rijstebloem-papje/p/4258381",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266772,
+      "name": "Babypap"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h3f/ha0/28309589426206/prd-front-4258381-1_600x600/prd-front-4258381-1-600x600.jpg"
+}

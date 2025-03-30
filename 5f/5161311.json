@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat NewBorn Small Maat 1 Luiers Jumbopack",
+  "code": "5161311",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 6359 > 6360 > 6361",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "1050658",
+  "mmkId": "1050658",
+  "productGroupId": "466988",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-newborn-small-maat-1-luiers-jumbopack/p/5161311",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266017,
+      "name": "Luiers"
+    },
+    {
+      "id": 30266784,
+      "name": "Luiers maat 1"
+    }
+  ],
+  "description": "mt 1 (2-5 kg), 108 stuks",
+  "image": "/medias/sys_master/prd-images/h5c/h46/33409660649502/prd-front-5161311-1_600x600/prd-front-5161311-1-600x600.jpg"
+}

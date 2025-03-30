@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Regular Koffiepads",
+  "code": "5486573",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 4354 > 4355",
+  "supplier": "UCC COFFEE BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-regular-koffiepads/p/5486573",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    }
+  ],
+  "description": "36 stuks",
+  "image": "/medias/sys_master/prd-images/hb9/h36/27496664498206/prd-front-5486573-1_600x600/prd-front-5486573-1-600x600.jpg"
+}

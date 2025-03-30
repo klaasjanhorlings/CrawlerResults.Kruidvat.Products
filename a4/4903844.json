@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Men Expert Hydra Energetic Cleansing Gel",
+  "code": "4903844",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6668",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-men-expert-hydra-energetic-cleansing-gel/p/4903844",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris Men Expert",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266611,
+      "name": "Gezichtsreiniging mannen"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-4903844-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzU4NTR8aW1hZ2UvanBlZ3xhR1JoTDJnek15OHhOelV3T0RjNE16UTRPVEExTkM5d2NtUXRabkp2Ym5RdE5Ea3dNemcwTkMweFh6WXdNSGcyTURBfGJiN2NjOTk1OWQ0NGU2OGIyY2M4YmJjZTRmZWZjMzUzMzEwNDNlZDM3OGM1Y2ZmOTViNWZjMDg1NmU3ZjU2OTc"
+}

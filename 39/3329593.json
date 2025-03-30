@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Schwarzkopf got2b Gentleman Molding Paste",
+  "code": "3329593",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3699 > 6334",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/schwarzkopf-got2b-gentleman-molding-paste/p/3329593",
+  "listName": "Lister",
+  "brand": "Got2B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266929,
+      "name": "Haarpasta"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h6c/hc3/33764389847070/prd-front-3329593-1_600x600/prd-front-3329593-1-600x600.jpg"
+}

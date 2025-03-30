@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Fresh Natural Deodorant Spray",
+  "code": "3183349",
+  "price": "7.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1050550",
+  "mmkId": "1050550",
+  "productGroupId": "455973",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-fresh-natural-deodorant-spray/p/3183349",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266644,
+      "name": "Deospray"
+    }
+  ],
+  "description": "200ml"
+}

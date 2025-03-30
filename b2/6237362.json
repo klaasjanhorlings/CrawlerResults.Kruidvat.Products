@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Men Expert Hydra Energetic SPF50 Daily Uv Fluid",
+  "code": "6237362",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-men-expert-hydra-energetic-spf50-daily-uv-fluid/p/6237362",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris Men Expert",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266610,
+      "name": "Gezichtscreme mannen"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h3a/h47/32950581985310/prd-front-6237362-1_600x600/prd-front-6237362-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sally Hansen Cozy Chic Stay Toasty Miracle Gel Nagellak",
+  "code": "6098307",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "1050756",
+  "mmkId": "1050756",
+  "productGroupId": "486051",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sally-hansen-cozy-chic-stay-toasty-miracle-gel-nagellak/p/6098307",
+  "listName": "Lister",
+  "brand": "Sally Hansen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30266584,
+      "name": "Nagellak"
+    }
+  ],
+  "description": "14,7ml",
+  "image": "/medias/sys_master/prd-images/hcf/hff/31169933082654/prd-front-6098307-1_600x600/prd-front-6098307-1-600x600.jpg"
+}

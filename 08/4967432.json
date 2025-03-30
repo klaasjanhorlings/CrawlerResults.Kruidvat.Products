@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Groenlipmosselcomplex Capsules",
+  "code": "4967432",
+  "price": "42.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6209 > 6227 > 6313",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1050564",
+  "mmkId": "1050564",
+  "productGroupId": "458032",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-groenlipmosselcomplex-capsules/p/4967432",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49792366,
+      "name": "Groenlipmossel"
+    }
+  ],
+  "description": "90 stuks",
+  "image": "/medias/prd-front-4967432-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTA4NDV8aW1hZ2UvanBlZ3xhRFU0TDJnMk5TOHhOalUwTkRNNU5qWTBNREk0Tmk5d2NtUXRabkp2Ym5RdE5EazJOelF6TWkweFh6WXdNSGcyTURBfGQzNDY2OTAwYmNhNTA1NjZkNTVjYzA4MDA2NTgyMjFmNDM0MjliYmI2Mjc1MGE4NzgyOTg4OTM4YmIxYzdhN2U"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Pro-Care Protein Plex Repair Leave-In Crème",
+  "code": "6121897",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6696",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1050729",
+  "mmkId": "1050729",
+  "productGroupId": "471091",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-pro-care-protein-plex-repair-leave-in-creme/p/6121897",
+  "listName": "Lister",
+  "brand": "Andrelon Pro-Care",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266926,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hf1/h8d/31459978903582/prd-front-6121897-1_600x600/prd-front-6121897-1-600x600.jpg"
+}

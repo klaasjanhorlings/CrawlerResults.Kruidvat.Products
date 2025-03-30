@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Baby Anti-Klit Shampoo",
+  "code": "2238489",
+  "price": "6.55",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3429",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1050667",
+  "mmkId": "1050667",
+  "productGroupId": "467398",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-baby-anti-klit-shampoo/p/2238489",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266775,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267012,
+      "name": "Babyshampoo"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hb9/h9a/28371535921182/prd-front-2238489-1_600x600/prd-front-2238489-1-600x600.jpg"
+}

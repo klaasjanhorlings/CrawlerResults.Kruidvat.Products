@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Care Plus 50% Deet Anti-Insect Spray",
+  "code": "6019788",
+  "price": "23.46",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2962 > 3763",
+  "supplier": "TROPENZORG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/care-plus-50-deet-anti-insect-spray/p/6019788",
+  "listName": "Lister",
+  "brand": "Care Plus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266711,
+      "name": "Insecten"
+    },
+    {
+      "id": 30266986,
+      "name": "Voor de beet"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h28/h7e/33423586394142/prd-front-6019788-1_600x600/prd-front-6019788-1-600x600.jpg"
+}

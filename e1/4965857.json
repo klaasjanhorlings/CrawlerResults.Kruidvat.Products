@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Biologische Kokosolie",
+  "code": "4965857",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6522",
+  "supplier": "MATTISSON HEALTCARE BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-biologische-kokosolie/p/4965857",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266010,
+      "name": "Bewuste keuze"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/prd-front-4965857-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzcwMzF8aW1hZ2UvanBlZ3xhRGswTDJnMlpTOHlOalkzTVRnNE1ESTBNVEU0TWk5d2NtUXRabkp2Ym5RdE5EazJOVGcxTnkweFh6WXdNSGcyTURBfGI0NDI4MGU1Mzk4YmNiOTY1ZmZmNGIxZmE2ZjNlMTU3ZjE2YmI1NjAzOGE4OWI4YjI2ZWMzODY4NTlhYjE5Njg"
+}

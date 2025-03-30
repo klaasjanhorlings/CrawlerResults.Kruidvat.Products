@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Strepsils Citroen + Honing Zuigtabletten",
+  "code": "21659",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 3469",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/strepsils-citroen-honing-zuigtabletten/p/21659",
+  "listName": "Lister",
+  "brand": "Strepsils",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30266961,
+      "name": "Keelpastilles"
+    }
+  ],
+  "description": "Geneesmiddel - 24 stuks",
+  "image": "/medias/prd-front-21659-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzQyMDd8aW1hZ2UvanBlZ3xhR1ZtTDJnNFlpOHlOekUyTmpFd05EUTFNekUxTUM5d2NtUXRabkp2Ym5RdE1qRTJOVGt0TVY4Mk1EQjROakF3fDczZjE0ZjZmNTFlNmM2OWM1MjgwM2FlOTYxNjQ4ZWFkODIyZDZhOGIxMThhOTQ3NThhMDYzNzJiZmViMDQ2Njg"
+}

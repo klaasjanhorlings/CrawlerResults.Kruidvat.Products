@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup 1 Vivid Rich Amber Stunner Mechanical Liner",
+  "code": "6130094",
+  "price": "7.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-1-vivid-rich-amber-stunner-mechanical-liner/p/6130094",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266585,
+      "name": "Oogpotlood"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8d/h37/31924036927518/prd-front-6130094-1_600x600/prd-front-6130094-1-600x600.jpg"
+}

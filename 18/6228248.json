@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Art 31214 Love",
+  "code": "6228248",
+  "price": "74.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-art-31214-love/p/6228248",
+  "listName": "Lister",
+  "brand": "LEGO Art",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69044935,
+      "name": "LEGO Verjaardagscadeaus"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h95/hc8/33356044271646/prd-front-6228248-1_600x600/prd-front-6228248-1-600x600.jpg"
+}

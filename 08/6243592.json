@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Umberto Giannini Thirsty Curls Conditioner",
+  "code": "6243592",
+  "price": "12.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6700",
+  "supplier": "COSMOGROUP BRANDS BV",
+  "inStock": "inStock",
+  "onPromo": "1050727",
+  "mmkId": "1050727",
+  "productGroupId": "470999",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/umberto-giannini-thirsty-curls-conditioner/p/6243592",
+  "listName": "Lister",
+  "brand": "Umberto Giannini",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/haf/h07/33102990180382/prd-front-6243592-1_600x600/prd-front-6243592-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "HG Alle Nare Geurtjes Weg",
+  "code": "230972",
+  "price": "7.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
+  "supplier": "HG INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "1050501",
+  "mmkId": "1050501",
+  "productGroupId": "450673",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hg-alle-nare-geurtjes-weg/p/230972",
+  "listName": "Lister",
+  "brand": "HG",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266066,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/ha8/hf4/31906608218142/prd-front-230972-1_600x600/prd-front-230972-1-600x600.jpg"
+}

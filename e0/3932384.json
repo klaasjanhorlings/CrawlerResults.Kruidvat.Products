@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Echinacea Tabletten",
+  "code": "3932384",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1050661",
+  "mmkId": "1050661",
+  "productGroupId": "467048",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-echinacea-tabletten/p/3932384",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266717,
+      "name": "Weerstand en energie"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h59/hf5/33118050058270/prd-front-3932384-1_600x600/prd-front-3932384-1-600x600.jpg"
+}

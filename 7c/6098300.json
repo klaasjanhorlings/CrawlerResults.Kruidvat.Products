@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sally Hansen Cozy Chic Sweet-er Weather Miracle Gel Nagellak",
+  "code": "6098300",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "1050756",
+  "mmkId": "1050756",
+  "productGroupId": "486051",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sally-hansen-cozy-chic-sweet-er-weather-miracle-gel-nagellak/p/6098300",
+  "listName": "Lister",
+  "brand": "Sally Hansen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30266584,
+      "name": "Nagellak"
+    }
+  ],
+  "description": "14,7ml",
+  "image": "/medias/sys_master/prd-images/he8/hf8/31168898826270/prd-front-6098300-1_600x600/prd-front-6098300-1-600x600.jpg"
+}

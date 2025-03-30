@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Epsom Salt Bitterzout",
+  "code": "4966186",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6522",
+  "supplier": "MATTISSON HEALTCARE BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-epsom-salt-bitterzout/p/4966186",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266010,
+      "name": "Bewuste keuze"
+    }
+  ],
+  "description": "650g",
+  "image": "/medias/sys_master/prd-images/hcb/h42/29175128686622/prd-front-4966186-1_600x600/prd-front-4966186-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Rompers",
+  "code": "5629100",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 4362 > 2130 > 2324 > 2723 > 5786",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1050650",
+  "mmkId": "1050650",
+  "productGroupId": "466671",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-rompers/p/5629100",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266041,
+      "name": "Babykleding"
+    },
+    {
+      "id": 30266849,
+      "name": "Rompertjes"
+    }
+  ],
+  "description": "wit, roze, mt 62-68, 2 stuks",
+  "image": "/medias/prd-front-5629100-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzE5NjN8aW1hZ2UvanBlZ3xhR1k0TDJobE9DOHhOakU1TmpFME1EUTVPRGszTkM5d2NtUXRabkp2Ym5RdE5UWXlPVEV3TUMweFh6WXdNSGcyTURBfDQ4MzIwYWIyODBlZDJkNmU5N2Q3MTU5MGUyZDgwM2ExY2ExZTA5MDY2YTQxNTQyNDQzNzdiMWQwZGYzOWY3ODg"
+}

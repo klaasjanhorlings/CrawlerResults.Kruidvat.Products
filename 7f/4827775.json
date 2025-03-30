@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Morning-afterpil",
+  "code": "4827775",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2553 > 4298 > 4299",
+  "supplier": "MEDICAL VALLEY INVEST AB",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-morning-afterpil/p/4827775",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266714,
+      "name": "Morning after pil"
+    }
+  ],
+  "description": "Geneesmiddel",
+  "image": "/medias/sys_master/prd-images/hc0/h0f/29215192023070/prd-front-4827775-1_600x600/prd-front-4827775-1-600x600.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Disney Princess Spin & Reveal Ariel Pop",
+  "code": "6238601",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 4933 > 4980 > 5026 > 5921 > 6040",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/disney-princess-spin-reveal-ariel-pop/p/6238601",
+  "listName": "Lister",
+  "brand": "Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266029,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": ""
+}

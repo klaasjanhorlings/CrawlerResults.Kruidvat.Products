@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Hyaluron Intense Hydration Serum Infused Sheet Mask",
+  "code": "6051925",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "FEMIA COSMETIC",
+  "inStock": "inStock",
+  "onPromo": "1050591",
+  "mmkId": "1050591",
+  "productGroupId": "460644",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-hyaluron-intense-hydration-serum-infused-sheet-mask/p/6051925",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266607,
+      "name": "Gezichtsmaskers"
+    }
+  ],
+  "description": "Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h46/h69/30585417826334/prd-front-6051925-1_600x600/prd-front-6051925-1-600x600.jpg"
+}

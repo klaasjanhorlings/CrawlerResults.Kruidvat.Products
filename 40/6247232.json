@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Guess Seductive Dream Bodymist",
+  "code": "6247232",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "1050676",
+  "mmkId": "1050676",
+  "productGroupId": "468072",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/guess-seductive-dream-bodymist/p/6247232",
+  "listName": "Lister",
+  "brand": "Guess",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 30266601,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h99/hb5/33327159640094/prd-front-6247232-1_600x600/prd-front-6247232-1-600x600.jpg"
+}

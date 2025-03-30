@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft Super Glue Level 14 Haargel",
+  "code": "3027417",
+  "price": "8.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1050664",
+  "mmkId": "1050664",
+  "productGroupId": "467267",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-super-glue-level-14-haargel/p/3027417",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266928,
+      "name": "Haargel"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h6e/hab/31096246206494/prd-front-3027417-1_600x600/prd-front-3027417-1-600x600.jpg"
+}

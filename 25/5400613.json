@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "CCS Voetcrème",
+  "code": "5400613",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2834 > 3576",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ccs-voetcreme/p/5400613",
+  "listName": "Lister",
+  "brand": "CCS",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48220898,
+      "name": "Voetcréme"
+    }
+  ],
+  "description": "175ml",
+  "image": "/medias/sys_master/prd-images/he5/h7a/33240053055518/prd-front-5400613-1_600x600/prd-front-5400613-1-600x600.jpg"
+}

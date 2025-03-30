@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "John Frieda Violet Crush For Blondes Purple Toning Masker",
+  "code": "5605370",
+  "price": "13.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "1050548",
+  "mmkId": "1050548",
+  "productGroupId": "455858",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/john-frieda-violet-crush-for-blondes-purple-toning-masker/p/5605370",
+  "listName": "Lister",
+  "brand": "John Frieda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266697,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/haf/h18/28998274154526/prd-front-5605370-1_600x600/prd-front-5605370-1-600x600.jpg"
+}

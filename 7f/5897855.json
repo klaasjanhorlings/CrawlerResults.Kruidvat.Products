@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Wasbare Boosters voor Wasbare Luiers",
+  "code": "5897855",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
+  "supplier": "LITTLE CONCEPTS NETTO",
+  "inStock": "inStock",
+  "onPromo": "1050660",
+  "mmkId": "1050660",
+  "productGroupId": "467043",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-wasbare-boosters-voor-wasbare-luiers/p/5897855",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266017,
+      "name": "Luiers"
+    },
+    {
+      "id": 30266791,
+      "name": "Wasbare luiers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h80/h77/28230686343198/prd-front-5897855-1_600x600/prd-front-5897855-1-600x600.jpg"
+}

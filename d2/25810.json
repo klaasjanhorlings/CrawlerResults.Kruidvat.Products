@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Ideaal Windsel",
+  "code": "25810",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2732 > 3752",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-ideaal-windsel/p/25810",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266008,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30266737,
+      "name": "Bandages en windsels"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 500cm x 8cm",
+  "image": "/medias/sys_master/prd-images/he1/he9/30293940895774/prd-front-25810-1_600x600/prd-front-25810-1-600x600.jpg"
+}

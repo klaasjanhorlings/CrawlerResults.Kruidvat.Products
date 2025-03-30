@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Creatine Monohydrate Poeder",
+  "code": "3749054",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6391 > 6392",
+  "supplier": "PRINSEN BV",
+  "inStock": "inStock",
+  "onPromo": "1050614",
+  "mmkId": "1050614",
+  "productGroupId": "465119",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-creatine-monohydrate-poeder/p/3749054",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266753,
+      "name": "Creatine"
+    }
+  ],
+  "description": "400g",
+  "image": "/medias/sys_master/prd-images/h53/hbb/33360427155486/prd-front-3749054-1_600x600/prd-front-3749054-1-600x600.jpg"
+}

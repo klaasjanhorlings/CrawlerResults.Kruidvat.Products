@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Cleansing Gezichtstonic voor de Droge en Gevoelige Huid",
+  "code": "1095865",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 4226",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "1050630",
+  "mmkId": "1050630",
+  "productGroupId": "465803",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-cleansing-gezichtstonic-voor-de-droge-en-gevoelige-huid/p/1095865",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266919,
+      "name": "Reinigingstonic"
+    }
+  ],
+  "description": "250ml - Droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h26/h58/28795607875614/prd-front-1095865-1_600x600/prd-front-1095865-1-600x600.jpg"
+}

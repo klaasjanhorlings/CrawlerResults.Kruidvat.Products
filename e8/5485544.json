@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Infaillible 24H 804 Metroproof Rose Lipstick",
+  "code": "5485544",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-infaillible-24h-804-metroproof-rose-lipstick/p/5485544",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5485544-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDc2NzZ8aW1hZ2UvanBlZ3xhR0l5TDJneU1DOHlOamt4TkRreE16WXhOVGt3TWk5d2NtUXRabkp2Ym5RdE5UUTROVFUwTkMweFh6WXdNSGcyTURBfGRkZjE4ZTkyYjk0ZjJiMTg2MTM2NTJiOTViMzcxZWE4ZjMwZDZhY2RlZmI4YTE0NzgwZTkwMDdhODVkMzhhYjg"
+}

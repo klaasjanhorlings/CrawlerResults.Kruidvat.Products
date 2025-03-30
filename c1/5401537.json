@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pantene Pro-V Repair & Protect Keratin Protect Voedende Haarolie",
+  "code": "5401537",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6696",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1050480",
+  "mmkId": "1050480",
+  "productGroupId": "466616",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pantene-pro-v-repair-protect-keratin-protect-voedende-haarolie/p/5401537",
+  "listName": "Lister",
+  "brand": "Pantene",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213459,
+      "name": "Haarolie"
+    }
+  ],
+  "description": "100ml - Droog en beschadigd haar",
+  "image": "/medias/sys_master/prd-images/hbf/h5e/32280205197342/prd-front-5401537-1_600x600/prd-front-5401537-1-600x600.jpg"
+}

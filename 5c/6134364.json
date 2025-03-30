@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Expert Skin Health Nourishing Douchegel",
+  "code": "6134364",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-expert-skin-health-nourishing-douchegel/p/6134364",
+  "listName": "Lister",
+  "brand": "Sanex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266647,
+      "name": "Douchecrème"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h1a/h74/31368278343710/prd-front-6134364-1_600x600/prd-front-6134364-1-600x600.jpg"
+}

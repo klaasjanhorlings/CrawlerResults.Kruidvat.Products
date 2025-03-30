@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Sensitive SPF15 Gezichtscrème",
+  "code": "5853447",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1050583",
+  "mmkId": "1050583",
+  "productGroupId": "460036",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-sensitive-spf15-gezichtscreme/p/5853447",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266610,
+      "name": "Gezichtscreme mannen"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h08/h46/33142171697182/prd-front-5853447-1_600x600/prd-front-5853447-1-600x600.jpg"
+}

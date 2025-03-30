@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris True Match 4.W Golden Natural Foundation",
+  "code": "4167108",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1050757",
+  "mmkId": "1050757",
+  "productGroupId": "486193",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-true-match-4w-golden-natural-foundation/p/4167108",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266577,
+      "name": "Foundation"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h52/h98/33515472322590/prd-front-4167108-1_600x600/prd-front-4167108-1-600x600.jpg"
+}

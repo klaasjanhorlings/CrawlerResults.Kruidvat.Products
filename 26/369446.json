@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Daro Kind Vloeibaar Paracetamol",
+  "code": "369446",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6155 > 6166",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/daro-kind-vloeibaar-paracetamol/p/369446",
+  "listName": "Lister",
+  "brand": "Daro Kind",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266706,
+      "name": "Pijn"
+    },
+    {
+      "id": 30266966,
+      "name": "Paracetamol"
+    }
+  ],
+  "description": "Geneesmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/h04/h1c/27282201313310/prd-front-369446-1_600x600/prd-front-369446-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B 3D White Advanced Luxe Perfection Tandpasta",
+  "code": "3614563",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1050508",
+  "mmkId": "1050508",
+  "productGroupId": "451209",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-3d-white-advanced-luxe-perfection-tandpasta/p/3614563",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h5a/h73/31461714559006/prd-front-3614563-1_600x600/prd-front-3614563-1-600x600.jpg"
+}

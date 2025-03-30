@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Epic Wear 04 White Waterproof Liquid Eyeliner",
+  "code": "6130892",
+  "price": "11.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-epic-wear-04-white-waterproof-liquid-eyeliner/p/6130892",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266586,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "3,5ml",
+  "image": "/medias/sys_master/prd-images/h50/he7/31926144303134/prd-front-6130892-1_600x600/prd-front-6130892-1-600x600.jpg"
+}

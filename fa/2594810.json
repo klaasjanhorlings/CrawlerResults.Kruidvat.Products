@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Verzachtende Reinigingsmousse",
+  "code": "2594810",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-verzachtende-reinigingsmousse/p/2594810",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50676912,
+      "name": "Reinigingsmousse"
+    }
+  ],
+  "description": "150ml - Droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hb3/h1f/32905485484062/prd-front-2594810-1_600x600/prd-front-2594810-1-600x600.jpg"
+}

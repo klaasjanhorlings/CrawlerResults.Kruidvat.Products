@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Peanut & Caramel Protein Bar",
+  "code": "4054030",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6385 > 6386",
+  "supplier": "PRINSEN BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-peanut-caramel-protein-bar/p/4054030",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266751,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "55g",
+  "image": "/medias/prd-front-4054030-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTE3MDl8aW1hZ2UvanBlZ3xhREF6TDJoaU5TOHlOamsyT1RRME1UVTVPVFV4T0M5d2NtUXRabkp2Ym5RdE5EQTFOREF6TUMweFh6WXdNSGcyTURBfGZjOTE3YWQ1MzgxZjNhZmIyOGIyNTBiMTAxODRiZjg2Y2I4NGZlZWZmYmJmZGJkM2JhZTg5NGEyZThkYmYzNTA"
+}

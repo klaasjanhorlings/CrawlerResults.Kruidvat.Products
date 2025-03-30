@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Originals Vitamine C Huidbooster",
+  "code": "4993409",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1050592",
+  "mmkId": "1050592",
+  "productGroupId": "460660",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-originals-vitamine-c-huidbooster/p/4993409",
+  "listName": "Lister",
+  "brand": "Kruidvat Originals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/prd-front-4993409-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTkzMTl8aW1hZ2UvanBlZ3xhRFkzTDJoaU15OHlOalUzT0RZMU9USTNPRGczT0M5d2NtUXRabkp2Ym5RdE5EazVNelF3T1MweFh6WXdNSGcyTURBfDQwNjI5NGIwOTRkNTVhZDBkZTZmZDFkZWMxMGQ0MzBjZDg4ZmRlNGZkNGUwZGU4MmNkOTlmYzg5YzAxZmNjMzI"
+}

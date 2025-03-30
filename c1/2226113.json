@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Hyper Precise All Day Liner 01 Black Liquid Eyeliner",
+  "code": "2226113",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-hyper-precise-all-day-liner-01-black-liquid-eyeliner/p/2226113",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266586,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd7/hb1/33504679067678/prd-front-2226113-1_600x600/prd-front-2226113-1-600x600.jpg"
+}

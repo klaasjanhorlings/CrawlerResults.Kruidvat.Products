@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hello Kitty Rugtas",
+  "code": "6174614",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6415",
+  "supplier": "UNITED ESSENTIALS BV",
+  "inStock": "inStock",
+  "onPromo": "1051391",
+  "mmkId": "1051391",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/hello-kitty-rugtas/p/6174614",
+  "listName": "Lister",
+  "brand": "Hello Kitty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/h98/hd0/33240583897118/prd-front-6174614-1_600x600/prd-front-6174614-1-600x600.jpg"
+}

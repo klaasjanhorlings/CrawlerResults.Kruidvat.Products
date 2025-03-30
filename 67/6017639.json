@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Ultra Strong & Precise! Nagellijm",
+  "code": "6017639",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1050756",
+  "mmkId": "1050756",
+  "productGroupId": "486051",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-ultra-strong-precise-nagellijm/p/6017639",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266636,
+      "name": "Nagellijm"
+    }
+  ],
+  "description": "8g",
+  "image": "/medias/sys_master/prd-images/h33/h59/30121370615838/prd-front-6017639-1_600x600/prd-front-6017639-1-600x600.jpg"
+}

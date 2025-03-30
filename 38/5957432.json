@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tweezerman Facial Razor",
+  "code": "5957432",
+  "price": "26.99",
+  "priceOriginal": "27.5",
+  "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 3905 > 6674",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 0,51",
+  "url": "/tweezerman-facial-razor/p/5957432",
+  "listName": "Lister",
+  "brand": "Tweezerman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266678,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8f/hc7/33800726937630/prd-front-5957432-1_600x600/prd-front-5957432-1-600x600.jpg"
+}

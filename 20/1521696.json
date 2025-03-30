@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Koortslipcrème Aciclovir 50 mg/g",
+  "code": "1521696",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 2842 > 3581",
+  "supplier": "MAE HOLDING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-koortslipcreme-aciclovir-50-mg/g/p/1521696",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30266947,
+      "name": "Koortslip"
+    }
+  ],
+  "description": "Geneesmiddel - 3g",
+  "image": "/medias/sys_master/prd-images/h0a/h92/27273923493918/prd-front-1521696-1_600x600/prd-front-1521696-1-600x600.jpg"
+}

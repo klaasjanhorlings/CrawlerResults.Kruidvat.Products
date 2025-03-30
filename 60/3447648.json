@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jungle Formula Maximum Original Anti-Muggenspray",
+  "code": "3447648",
+  "price": "25.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2962 > 3763",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "1050733",
+  "mmkId": "1050733",
+  "productGroupId": "472666",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jungle-formula-maximum-original-anti-muggenspray/p/3447648",
+  "listName": "Lister",
+  "brand": "Jungle Formula",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266711,
+      "name": "Insecten"
+    },
+    {
+      "id": 30266986,
+      "name": "Voor de beet"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/prd-front-3447648-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjI3Mzd8aW1hZ2UvanBlZ3xhREJpTDJnd05pOHlOamt3TWpBNU1EWTBOVFV6TkM5d2NtUXRabkp2Ym5RdE16UTBOelkwT0MweFh6WXdNSGcyTURBfDA4YzcxMjI2ODFhYWVkODMyMjJmYTE4ZGQwMTEwNGEzZWE4NTZiYTRiNDg0NDgyY2Y2NDViOGEyMGQxZjg3MTc"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Eye Studio Hyper Precise All Day Liner 001 Forest Brown Eyeliner",
+  "code": "3102520",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-eye-studio-hyper-precise-all-day-liner-001-forest-brown-eyeliner/p/3102520",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266586,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h97/h92/33513248817182/prd-front-3102520-1_600x600/prd-front-3102520-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Munchkin Tip & Sip 6+M Rietjesbeker",
+  "code": "6143072",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2501 > 3109 > 3975",
+  "supplier": "MEUBLEPLUS BV",
+  "inStock": "inStock",
+  "onPromo": "1050603",
+  "mmkId": "1050603",
+  "productGroupId": "462254",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/munchkin-tip-sip-6m-rietjesbeker/p/6143072",
+  "listName": "Lister",
+  "brand": "Munchkin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266800,
+      "name": "Drinkbeker"
+    }
+  ],
+  "description": "207ml",
+  "image": "/medias/sys_master/prd-images/h71/h77/33564097151006/prd-front-6143072-1_600x600/prd-front-6143072-1-600x600.jpg"
+}

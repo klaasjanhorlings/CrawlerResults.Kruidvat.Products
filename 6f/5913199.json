@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Intimate Scheermesjes",
+  "code": "5913199",
+  "price": "21.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5721 > 3879",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1050692",
+  "mmkId": "1050692",
+  "productGroupId": "469331",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-intimate-scheermesjes/p/5913199",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266678,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/hb5/h94/28371789578270/prd-front-5913199-1_600x600/prd-front-5913199-1-600x600.jpg"
+}

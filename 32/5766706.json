@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Drs Leenarts Baby Bergzalf",
+  "code": "5766706",
+  "price": "15.85",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
+  "supplier": "DR LEENARTS BV",
+  "inStock": "inStock",
+  "onPromo": "1050582",
+  "mmkId": "1050582",
+  "productGroupId": "459991",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/drs-leenarts-baby-bergzalf/p/5766706",
+  "listName": "Lister",
+  "brand": "Drs Leenarts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266776,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267014,
+      "name": "Babycreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/he4/h3e/33499766095902/prd-front-5766706-1_600x600/prd-front-5766706-1-600x600.jpg"
+}

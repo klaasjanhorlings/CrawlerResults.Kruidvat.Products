@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mylaq My Shimmering Pink Uv Gellak",
+  "code": "6032990",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
+  "supplier": "COSMO GROUP SP. Z O.O.",
+  "inStock": "inStock",
+  "onPromo": "1050756",
+  "mmkId": "1050756",
+  "productGroupId": "486051",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mylaq-my-shimmering-pink-uv-gellak/p/6032990",
+  "listName": "Lister",
+  "brand": "Mylaq",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 72476685,
+      "name": "Gellak"
+    }
+  ],
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h5f/h1e/33001070952478/prd-front-6032990-1_600x600/prd-front-6032990-1-600x600.jpg"
+}

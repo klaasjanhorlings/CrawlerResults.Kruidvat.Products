@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London 100% Waterproof 001 Black Mascara",
+  "code": "1705397",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "1050588",
+  "mmkId": "1050588",
+  "productGroupId": "460536",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-100-waterproof-001-black-mascara/p/1705397",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266576,
+      "name": "Mascara"
+    }
+  ],
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/hf0/h10/30914330034206/prd-front-1705397-1_600x600/prd-front-1705397-1-600x600.jpg"
+}

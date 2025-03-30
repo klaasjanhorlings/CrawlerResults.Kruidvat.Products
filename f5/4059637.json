@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Solait Kids SPF50+ Sun Roll-on",
+  "code": "4059637",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "EUROFOUR BV",
+  "inStock": "inStock",
+  "onPromo": "1050777",
+  "mmkId": "1050777",
+  "productGroupId": "456944",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-solait-kids-spf50-sun-roll-on/p/4059637",
+  "listName": "Lister",
+  "brand": "Kruidvat Solait",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266778,
+      "name": "Baby zonnebrand"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h95/h78/29994495016990/prd-front-4059637-1_600x600/prd-front-4059637-1-600x600.jpg"
+}

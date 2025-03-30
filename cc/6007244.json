@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London Lasting Mega Matte 200 Lipgloss",
+  "code": "6007244",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "1050588",
+  "mmkId": "1050588",
+  "productGroupId": "460536",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-lasting-mega-matte-200-lipgloss/p/6007244",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266583,
+      "name": "Lipgloss"
+    }
+  ],
+  "description": "7,4ml",
+  "image": "/medias/sys_master/prd-images/h7f/h9f/29787454996510/prd-front-6007244-1_600x600/prd-front-6007244-1-600x600.jpg"
+}

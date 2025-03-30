@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Revolution The True Icon Bronze Palette",
+  "code": "6123402",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "NORDIC BEAUTY COMPANY APS",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/revolution-the-true-icon-bronze-palette/p/6123402",
+  "listName": "Lister",
+  "brand": "Revolution",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266588,
+      "name": "Bronzer"
+    }
+  ],
+  "description": "8,4g",
+  "image": "/medias/sys_master/prd-images/hac/h8f/31783103299614/prd-front-6123402-1_600x600/prd-front-6123402-1-600x600.jpg"
+}

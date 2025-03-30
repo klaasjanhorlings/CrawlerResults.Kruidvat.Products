@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Zakdoekjes",
+  "code": "213490",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2537 > 3165 > 3662",
+  "supplier": "ICT POLAND SP. Z.O.O.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-zakdoekjes/p/213490",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266074,
+      "name": "Tissues en zakdoekjes"
+    }
+  ],
+  "description": "30 x 10 stuks",
+  "image": "/medias/sys_master/prd-images/h43/h91/27281969971230/prd-front-213490-1_600x600/prd-front-213490-1-600x600.jpg"
+}

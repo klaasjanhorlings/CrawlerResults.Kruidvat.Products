@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Extra Sterk Pleisters",
+  "code": "2323476",
+  "price": "1.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4160",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-extra-sterk-pleisters/p/2323476",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266008,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30266739,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414085,
+      "name": "Klassieke pleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 16 stuks"
+}

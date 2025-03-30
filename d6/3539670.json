@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "GUM Trav-Ler Ragers",
+  "code": "3539670",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
+  "supplier": "SUNSTAR BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1050543",
+  "mmkId": "1050543",
+  "productGroupId": "455324",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gum-trav-ler-ragers/p/3539670",
+  "listName": "Lister",
+  "brand": "Gum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266669,
+      "name": "Tandenragers"
+    }
+  ],
+  "description": "1,6mm, 6 stuks",
+  "image": "/medias/sys_master/prd-images/h28/hca/28880159834142/prd-front-3539670-1_600x600/prd-front-3539670-1-600x600.jpg"
+}

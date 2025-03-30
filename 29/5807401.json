@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 4-Laags Toiletpapier",
+  "code": "5807401",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
+  "supplier": "WEPA FRANCE SAS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-4-laags-toiletpapier/p/5807401",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266072,
+      "name": "Toiletpapier"
+    }
+  ],
+  "description": "9 rollen",
+  "image": "/medias/prd-front-5807401-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTIwODV8aW1hZ2UvanBlZ3xhR0l5TDJnM05TOHlOalExTmpRME1qRXdPVGs0TWk5d2NtUXRabkp2Ym5RdE5UZ3dOelF3TVMweFh6WXdNSGcyTURBfDBhOTU5ZGNlMzA2YjVhZDViMzQ0YjFmZDE0NWRlNTFmYWRmNzlmMWQyZjI0OGQxYWE4ZTliNjRhOGFmNzllOGE"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Can't Stop, Won't Stop Fair Mattifying Powder",
+  "code": "6130017",
+  "price": "9.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-cant-stop-wont-stop-fair-mattifying-powder/p/6130017",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266587,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h64/h19/31920255893534/prd-front-6130017-1_600x600/prd-front-6130017-1-600x600.jpg"
+}

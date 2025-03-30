@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playing Kids Houten Mixer",
+  "code": "6205470",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4640 > 5190 > 5369 > 5558 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/playing-kids-houten-mixer/p/6205470",
+  "listName": "Lister",
+  "brand": "Playing Kids",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266036,
+      "name": "Houten speelgoed"
+    },
+    {
+      "id": 84925671,
+      "name": "Houten speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbe/hba/33389494566942/prd-front-6205470-1_600x600/prd-front-6205470-1-600x600.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "A.Vogel Rustgevend Passiflora Complex Tabletten",
+  "code": "24474",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
+  "supplier": "A.VOGEL",
+  "inStock": "inStock",
+  "onPromo": "1050567",
+  "mmkId": "1050567",
+  "productGroupId": "458062",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/avogel-rustgevend-passiflora-complex-tabletten/p/24474",
+  "listName": "Lister",
+  "brand": "A.Vogel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266724,
+      "name": "Rust en ontspanning"
+    }
+  ],
+  "description": "80 stuks"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nip + Fab Purify Salicylic Fix Tonic",
+  "code": "6043833",
+  "price": "16.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 4226 > 6702",
+  "supplier": "NIP + FAB",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nip-fab-purify-salicylic-fix-tonic/p/6043833",
+  "listName": "Lister",
+  "brand": "NIP+FAB",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266919,
+      "name": "Reinigingstonic"
+    }
+  ],
+  "description": "100ml, vette huid",
+  "image": "/medias/sys_master/prd-images/hc0/h64/30121271689246/prd-front-6043833-1_600x600/prd-front-6043833-1-600x600.jpg"
+}

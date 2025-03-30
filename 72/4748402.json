@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Magnesium B6 + CBD Tabletten",
+  "code": "4748402",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6523 > 6524 > 6525",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1050638",
+  "mmkId": "1050638",
+  "productGroupId": "466223",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-magnesium-b6-cbd-tabletten/p/4748402",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266723,
+      "name": "CBD"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h06/h68/33347851550750/prd-front-4748402-1_600x600/prd-front-4748402-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Infaillible 24H 404 Corail Constant Lipstick",
+  "code": "2736154",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-infaillible-24h-404-corail-constant-lipstick/p/2736154",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-2736154-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTIyMTZ8aW1hZ2UvanBlZ3xhR1V3TDJoa055OHlOamt3TWpBNE5EZ3hNamd6TUM5d2NtUXRabkp2Ym5RdE1qY3pOakUxTkMweFh6WXdNSGcyTURBfDE2ZjUzNmUzMWNjNTgyMmFlNWZlYmMwOWUxNTRiYjU1ZWU0MTk2MTU0ZWQ5NTNkOTQ1ZDJkOWViMDA2MjUxZGQ"
+}

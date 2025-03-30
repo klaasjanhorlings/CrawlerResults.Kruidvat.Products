@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Science Vitamine D3 Softgels",
+  "code": "6259503",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6194 > 6212 > 6238",
+  "supplier": "HERKEL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-science-vitamine-d3-softgels/p/6259503",
+  "listName": "Lister",
+  "brand": "Kruidvat Science",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266991,
+      "name": "Vitamine D"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/he1/ha5/33796064641054/prd-front-6259503-1_600x600/prd-front-6259503-1-600x600.jpg"
+}

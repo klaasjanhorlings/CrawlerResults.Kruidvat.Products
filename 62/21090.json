@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sudocrem Multi-Expert Crème",
+  "code": "21090",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4264",
+  "supplier": "TEVA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1050785",
+  "mmkId": "1050785",
+  "productGroupId": "457880",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sudocrem-multi-expert-creme/p/21090",
+  "listName": "Lister",
+  "brand": "Sudocrem",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266776,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267017,
+      "name": "Zinkzalf"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 250g",
+  "image": "/medias/sys_master/prd-images/h28/hfe/28855472521246/prd-front-21090-1_600x600/prd-front-21090-1-600x600.jpg"
+}

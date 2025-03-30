@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Dubbelzijdige Voetvijl",
+  "code": "2293831",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2683 > 3383",
+  "supplier": "TITANIA FABRIK GMBH",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-dubbelzijdige-voetvijl/p/2293831",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48220792,
+      "name": "Eeltverwijderaars"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h72/h56/28027735670814/prd-front-2293831-1_600x600/prd-front-2293831-1-600x600.jpg"
+}

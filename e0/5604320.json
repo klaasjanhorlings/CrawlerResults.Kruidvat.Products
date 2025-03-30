@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "M&M Pinda Partyzak",
+  "code": "5604320",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "MARS NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/m-m-pinda-partyzak/p/5604320",
+  "listName": "Lister",
+  "brand": "M&M",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "1000g",
+  "image": "/medias/prd-front-5604320-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODA2OTB8aW1hZ2UvanBlZ3xhR0l4TDJnNVpDOHhOelV4TmpnMk1EQTBOek01TUM5d2NtUXRabkp2Ym5RdE5UWXdORE15TUMweFh6WXdNSGcyTURBfDllZGMzMzNlZTgxNzY2NDU2YzkwYTEwNzk3MzA2OTgzOGEyYWMzYTRkOGVjZTVmNTY2Mjc5ZThlNTNjODUwOTE"
+}

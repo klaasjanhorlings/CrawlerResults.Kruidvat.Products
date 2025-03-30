@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Extra Strong Nagelverharder",
+  "code": "4751629",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 5145 > 5147",
+  "supplier": "UNIVERSAL COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "1050756",
+  "mmkId": "1050756",
+  "productGroupId": "486051",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-extra-strong-nagelverharder/p/4751629",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266631,
+      "name": "Nagelbehandeling"
+    }
+  ],
+  "description": "10ml",
+  "image": "/medias/prd-front-4751629-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzU2ODB8aW1hZ2UvanBlZ3xhREkwTDJneE5DOHhOelV4TkRreE9EZ3dOVFV6TkM5d2NtUXRabkp2Ym5RdE5EYzFNVFl5T1MweFh6WXdNSGcyTURBfDIyMmJhN2JjN2ZjMzczMzMyZTYzNGY4Y2QyOGMyODA2ZmYzNzY5NzAxNGRjNDA2NGE1ZGI0MmY1NzFmYjY3OWM"
+}

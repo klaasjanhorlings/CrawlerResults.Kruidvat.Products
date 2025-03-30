@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B Stages Power Disney Frozen Opzetborstels",
+  "code": "4999310",
+  "price": "23.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1050788",
+  "mmkId": "1050788",
+  "productGroupId": "469628",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-stages-power-disney-frozen-opzetborstels/p/4999310",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266675,
+      "name": "Opzetborstels"
+    }
+  ],
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/hfa/h1e/28878076870686/prd-front-4999310-1_600x600/prd-front-4999310-1-600x600.jpg"
+}

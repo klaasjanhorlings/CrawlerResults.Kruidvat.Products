@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Stitch Kindertutu",
+  "code": "6223362",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5808 > 5811 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "TROY COMPANIES BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/stitch-kindertutu/p/6223362",
+  "listName": "Lister",
+  "brand": "Ekw",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "oranje, mt 116-122",
+  "image": "/medias/sys_master/prd-images/ha9/hef/32950576676894/prd-front-6223362-1_600x600/prd-front-6223362-1-600x600.jpg"
+}

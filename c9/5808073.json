@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SheaMoisture Curl & Shine Style Milk ",
+  "code": "5808073",
+  "price": "18.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1050729",
+  "mmkId": "1050729",
+  "productGroupId": "471091",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sheamoisture-curl-shine-style-milk-/p/5808073",
+  "listName": "Lister",
+  "brand": "SheaMoisture",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266926,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "254ml",
+  "image": "/medias/prd-front-5808073-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDUzODJ8aW1hZ2UvanBlZ3xhR0ZsTDJnd01DOHlOams1TVRJeU56RXdPVFF3Tmk5d2NtUXRabkp2Ym5RdE5UZ3dPREEzTXkweFh6WXdNSGcyTURBfDY0ZWE0NDdmMmY2MTMxOGEzY2UyYTgzZTQ5MDc3MTZmZDBhMjc3NjY4NGMzNmIwNjJhMmU2NmVlZmZlYzNjMGU"
+}

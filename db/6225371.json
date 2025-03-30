@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO City 60450 Gele Wiellader",
+  "code": "6225371",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1040891",
+  "mmkId": "1040891",
+  "productGroupId": "432557",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-city-60450-gele-wiellader/p/6225371",
+  "listName": "Lister",
+  "brand": "LEGO City",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266810,
+      "name": "LEGO City"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h91/h1e/33140531920926/prd-front-6225371-1_600x600/prd-front-6225371-1-600x600.jpg"
+}

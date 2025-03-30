@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 5.5 Mahonie Crème Haarkleuring",
+  "code": "660499",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "EMIL KIESSLING GMBH",
+  "inStock": "inStock",
+  "onPromo": "1050617",
+  "mmkId": "1050617",
+  "productGroupId": "465662",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-55-mahonie-creme-haarkleuring/p/660499",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265990,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb1/hdc/28225529446430/prd-front-660499-1_600x600/prd-front-660499-1-600x600.jpg"
+}

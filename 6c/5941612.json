@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips OneBlade 360 QP430/50 Navulmessen",
+  "code": "5941612",
+  "price": "37.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "1050687",
+  "mmkId": "1050687",
+  "productGroupId": "469314",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-oneblade-360-qp430/50-navulmessen/p/5941612",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266678,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h07/h74/28676056055838/prd-front-5941612-1_600x600/prd-front-5941612-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kotex Maxi Night-Time Maandverband",
+  "code": "16077",
+  "price": "1.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3060 > 3908",
+  "supplier": "KIMBERLY-CLARK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kotex-maxi-night-time-maandverband/p/16077",
+  "listName": "Lister",
+  "brand": "Kotex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266662,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/hdc/hdf/28509033136158/prd-front-16077-1_600x600/prd-front-16077-1-600x600.jpg"
+}

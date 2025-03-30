@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 0% Alcohol Mondspoeling",
+  "code": "6075900",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3052 > 3901",
+  "supplier": "GEM BOHEMIA S.R.O.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-0-alcohol-mondspoeling/p/6075900",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266676,
+      "name": "Mondwater en mondspray"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h5a/h6e/30723480158238/prd-front-6075900-1_600x600/prd-front-6075900-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nintendo Switch Mijn Paarden 2",
+  "code": "6140636",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2153 > 5929 > 6014 > 6635 > 6637 > 6636",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/nintendo-switch-mijn-paarden-2/p/6140636",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266056,
+      "name": "Gaming"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hed/hbe/31991545364510/prd-front-6140636-1_600x600/prd-front-6140636-1-600x600.jpg"
+}

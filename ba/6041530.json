@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nip + Fab Exfoliate Glycolic Fix Scrub",
+  "code": "6041530",
+  "price": "13.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5665 > 6702",
+  "supplier": "NIP + FAB",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nip-fab-exfoliate-glycolic-fix-scrub/p/6041530",
+  "listName": "Lister",
+  "brand": "NIP+FAB",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 84945977,
+      "name": "Exfoliant"
+    }
+  ],
+  "description": "75ml, doffe huid",
+  "image": "/medias/sys_master/prd-images/hc1/hfd/31776629096478/prd-front-6041530-1_600x600/prd-front-6041530-1-600x600.jpg"
+}

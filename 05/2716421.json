@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Labello Cherry Shine Lippenbalsem",
+  "code": "2716421",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1050681",
+  "mmkId": "1050681",
+  "productGroupId": "468574",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/labello-cherry-shine-lippenbalsem/p/2716421",
+  "listName": "Lister",
+  "brand": "Labello",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266609,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he1/h74/32901842993182/prd-front-2716421-1_600x600/prd-front-2716421-1-600x600.jpg"
+}

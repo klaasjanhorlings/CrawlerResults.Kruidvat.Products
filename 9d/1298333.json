@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Diamond Gloss Care Hold 4 Styling Hairspray",
+  "code": "1298333",
+  "price": "7.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1050556",
+  "mmkId": "1050556",
+  "productGroupId": "456936",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-diamond-gloss-care-hold-4-styling-hairspray/p/1298333",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266933,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h75/h5a/32805017649182/prd-front-1298333-1_600x600/prd-front-1298333-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Infaillible 24H Fresh Wear 140 Golden Beige Foundation in a Powder",
+  "code": "5369169",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-infaillible-24h-fresh-wear-140-golden-beige-foundation-in-a-powder/p/5369169",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266587,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/ha7/h31/31774207803422/prd-front-5369169-1_600x600/prd-front-5369169-1-600x600.jpg"
+}

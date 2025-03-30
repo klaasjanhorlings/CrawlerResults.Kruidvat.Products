@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kindertutu",
+  "code": "6223334",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5808 > 5811 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "TROY COMPANIES BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/kindertutu/p/6223334",
+  "listName": "Lister",
+  "brand": "Ekw",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "oranje, mt 116-122",
+  "image": "/medias/sys_master/prd-images/haa/h78/32950874210334/prd-front-6223334-1_600x600/prd-front-6223334-1-600x600.jpg"
+}

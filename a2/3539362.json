@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Sonicare ProResults Opzetborstels",
+  "code": "3539362",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2885 > 4228 > 5693",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "1050710",
+  "mmkId": "1050710",
+  "productGroupId": "469635",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-sonicare-proresults-opzetborstels/p/3539362",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266675,
+      "name": "Opzetborstels"
+    }
+  ],
+  "description": "wit, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h0e/h75/33014687072286/prd-front-3539362-1_600x600/prd-front-3539362-1-600x600.jpg"
+}

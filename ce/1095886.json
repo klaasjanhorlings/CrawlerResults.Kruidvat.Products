@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Cleansing Reinigingsgel voor de Droge en Gevoelige Huid",
+  "code": "1095886",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "1050630",
+  "mmkId": "1050630",
+  "productGroupId": "465803",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-cleansing-reinigingsgel-voor-de-droge-en-gevoelige-huid/p/1095886",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266915,
+      "name": "Reinigingsgel"
+    }
+  ],
+  "description": "150ml - Droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h95/ha5/33795389915166/prd-front-1095886-1_600x600/prd-front-1095886-1-600x600.jpg"
+}

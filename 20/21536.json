@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Valdispert 45mg Valeriaanextract Dragees",
+  "code": "21536",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6608",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/valdispert-45mg-valeriaanextract-dragees/p/21536",
+  "listName": "Lister",
+  "brand": "Valdispert",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 49950221,
+      "name": "Valeriaan"
+    }
+  ],
+  "description": "Geneesmiddel - 100 stuks",
+  "image": "/medias/sys_master/prd-images/h9a/h2d/32174176960542/prd-front-21536-1_600x600/prd-front-21536-1-600x600.jpg"
+}

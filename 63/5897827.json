@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat All-in-one Wasbare Luier",
+  "code": "5897827",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
+  "supplier": "LITTLE CONCEPTS NETTO",
+  "inStock": "inStock",
+  "onPromo": "1050660",
+  "mmkId": "1050660",
+  "productGroupId": "467043",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-all-in-one-wasbare-luier/p/5897827",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266017,
+      "name": "Luiers"
+    },
+    {
+      "id": 30266791,
+      "name": "Wasbare luiers"
+    }
+  ],
+  "description": "oranje, mt 4-15kg",
+  "image": "/medias/sys_master/prd-images/haa/h3f/28185139544094/prd-front-5897827-1_600x600/prd-front-5897827-1-600x600.jpg"
+}

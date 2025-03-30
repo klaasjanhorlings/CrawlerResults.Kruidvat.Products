@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Stress Moment Sterk¹ Tabletten",
+  "code": "6160985",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6207 > 6225 > 6303",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1050661",
+  "mmkId": "1050661",
+  "productGroupId": "467048",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-stress-moment-sterk-tabletten/p/6160985",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266724,
+      "name": "Rust en ontspanning"
+    }
+  ],
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/hfb/h63/33143651991582/prd-front-6160985-1_600x600/prd-front-6160985-1-600x600.jpg"
+}

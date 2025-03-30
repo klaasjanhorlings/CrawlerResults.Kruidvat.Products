@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Praliné Melk met Hele Hazelnoot Paaseitjes",
+  "code": "5600204",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3648",
+  "supplier": "BARONIE - DE HEER BV",
+  "inStock": "inStock",
+  "onPromo": "1049030",
+  "mmkId": "1049030",
+  "productGroupId": "445708",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-praline-melk-met-hele-hazelnoot-paaseitjes/p/5600204",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267028,
+      "name": "Paaseitjes"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h02/hbe/27269052039198/prd-front-5600204-1_600x600/prd-front-5600204-1-600x600.jpg"
+}

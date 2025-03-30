@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Beauty Innovatiebox",
+  "code": "6152137",
+  "price": "55.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 5690 > 5691 > 5692",
+  "supplier": "BRANSUS COSM ULTIMATCH",
+  "inStock": "inStock",
+  "onPromo": "1050801",
+  "mmkId": "1050801",
+  "productGroupId": "483557",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-beauty-innovatiebox/p/6152137",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "Alleen online"
+}

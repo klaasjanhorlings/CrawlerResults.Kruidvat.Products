@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Invisibobble 5-In-1 Styling Crème",
+  "code": "6229564",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2838 > 3578",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1050615",
+  "mmkId": "1050615",
+  "productGroupId": "465415",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/invisibobble-5-in-1-styling-creme/p/6229564",
+  "listName": "Lister",
+  "brand": "Invisibobble",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266926,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hb0/he8/33505772371998/prd-front-6229564-1_600x600/prd-front-6229564-1-600x600.jpg"
+}

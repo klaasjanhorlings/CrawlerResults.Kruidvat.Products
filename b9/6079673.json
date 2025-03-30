@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tiger Balm Fluid",
+  "code": "6079673",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tiger-balm-fluid/p/6079673",
+  "listName": "Lister",
+  "brand": "Tiger Balm",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265995,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30266640,
+      "name": "Massageolie en massagelotion"
+    }
+  ],
+  "description": "90ml",
+  "image": "/medias/sys_master/prd-images/h06/h51/31685446533150/prd-front-6079673-1_600x600/prd-front-6079673-1-600x600.jpg"
+}

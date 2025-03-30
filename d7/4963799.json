@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Overgang Balans Tabletten",
+  "code": "4963799",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1050564",
+  "mmkId": "1050564",
+  "productGroupId": "458032",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-overgang-balans-tabletten/p/4963799",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266730,
+      "name": "Overgang"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/prd-front-4963799-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTY0OTB8aW1hZ2UvanBlZ3xhREEyTDJnMVlpOHhOall3TlRRMk1UVTBORGs1TUM5d2NtUXRabkp2Ym5RdE5EazJNemM1T1MweFh6WXdNSGcyTURBfDg4NjgwOTIxYWIyZDI5Mjk3YTQyYjIzNDFkYzYzMzM2YzYyOTY0ZDE4ZjAzOTgwNjI0MjY2MzJjZWNmNDcyZDI"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "A.Vogel Echinaforce Crème",
+  "code": "21610",
+  "price": "9.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6495",
+  "supplier": "A.VOGEL",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/avogel-echinaforce-creme/p/21610",
+  "listName": "Lister",
+  "brand": "A.Vogel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235340,
+      "name": "Droge en gevoelige huid"
+    }
+  ],
+  "description": "30g",
+  "image": "/medias/sys_master/prd-images/hfc/hf7/32569597362206/prd-front-21610-1_600x600/prd-front-21610-1-600x600.jpg"
+}

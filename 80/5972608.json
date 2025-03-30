@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Umberto Giannini Volume Boost Dry Texture Mist",
+  "code": "5972608",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3007 > 3832",
+  "supplier": "COSMOGROUP BRANDS BV",
+  "inStock": "inStock",
+  "onPromo": "1050727",
+  "mmkId": "1050727",
+  "productGroupId": "470999",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/umberto-giannini-volume-boost-dry-texture-mist/p/5972608",
+  "listName": "Lister",
+  "brand": "Umberto Giannini",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266933,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/ha8/h3b/28818007064606/prd-front-5972608-1_600x600/prd-front-5972608-1-600x600.jpg"
+}

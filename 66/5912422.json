@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Curl It 10 Volume & Curl Mascara",
+  "code": "5912422",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-curl-it-10-volume-curl-mascara/p/5912422",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266576,
+      "name": "Mascara"
+    }
+  ],
+  "description": "11ml",
+  "image": "/medias/sys_master/prd-images/h92/h94/29940433747998/prd-front-5912422-1_600x600/prd-front-5912422-1-600x600.jpg"
+}

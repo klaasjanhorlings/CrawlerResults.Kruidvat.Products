@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Revolution Translucent Baking Powder",
+  "code": "4839577",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "NORDIC BEAUTY COMPANY APS",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/revolution-translucent-baking-powder/p/4839577",
+  "listName": "Lister",
+  "brand": "Revolution",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266587,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4839577-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzE3ODN8aW1hZ2UvanBlZ3xhREEwTDJoaFlpOHlOalU0TkRBMU9UWTBNVGc0Tmk5d2NtUXRabkp2Ym5RdE5EZ3pPVFUzTnkweFh6WXdNSGcyTURBfDZlYWE3OTlkYzBhOTc5NzdmMWMwZDMxZTNlNDdmMzZhYTJiOWUwZjFiMWNiMjNiZDljMjI1MTFkZTA5Mjg4MTM"
+}

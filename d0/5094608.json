@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nûby Flip-It Beker",
+  "code": "5094608",
+  "price": "13.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
+  "supplier": "NEW VALMAR BV",
+  "inStock": "inStock",
+  "onPromo": "1032209",
+  "mmkId": "1032209",
+  "productGroupId": "382384",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nuby-flip-it-beker/p/5094608",
+  "listName": "Lister",
+  "brand": "Nuby",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266800,
+      "name": "Drinkbeker"
+    }
+  ],
+  "description": "blauw, 360ml",
+  "image": "/medias/prd-front-5094608-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE0MDV8aW1hZ2UvanBlZ3xhRFZrTDJobE15OHhOelF4T0RneE1ESTVORE13TWk5d2NtUXRabkp2Ym5RdE5UQTVORFl3T0MweFh6WXdNSGcyTURBfGFhOWVkM2E3YmQ5N2E4NjA3ZDZmNWUxOWI4MjBkZTY5OWU0MDA3ZjY4M2RlYTkxZTcwOTBlY2FmMjg2Zjc3MTU"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gabby's Dollhouse Kindertutu",
+  "code": "6223411",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5808 > 5811 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "TROY COMPANIES BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/gabbys-dollhouse-kindertutu/p/6223411",
+  "listName": "Lister",
+  "brand": "Ekw",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "oranje, mt 128-134",
+  "image": "/medias/sys_master/prd-images/hb0/h35/33772745031710/prd-front-6223411-1_600x600/prd-front-6223411-1-600x600.jpg"
+}

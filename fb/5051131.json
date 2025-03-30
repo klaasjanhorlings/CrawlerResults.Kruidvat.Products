@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Fructis Quenching Aloe Vera Hair Food Shampoo",
+  "code": "5051131",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1050545",
+  "mmkId": "1050545",
+  "productGroupId": "455473",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-fructis-quenching-aloe-vera-hair-food-shampoo/p/5051131",
+  "listName": "Lister",
+  "brand": "Fructis",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "350ml",
+  "image": "/medias/sys_master/prd-images/h8b/h55/30139586215966/prd-front-5051131-1_600x600/prd-front-5051131-1-600x600.jpg"
+}

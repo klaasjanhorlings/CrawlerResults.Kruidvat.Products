@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Magnesium Nacht Time Released Tabletten",
+  "code": "3547692",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1050638",
+  "mmkId": "1050638",
+  "productGroupId": "466223",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-magnesium-nacht-time-released-tabletten/p/3547692",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001842,
+      "name": "Magnesium"
+    }
+  ],
+  "description": "60 stuks"
+}

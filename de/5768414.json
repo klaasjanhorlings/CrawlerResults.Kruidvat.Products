@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lancôme L'Absolu Rouge Intimatte Matte Veil 169 Love Rendez-Vous Lipstick",
+  "code": "5768414",
+  "price": "19.99",
+  "priceOriginal": "38.95",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 18,96",
+  "url": "/lancome-labsolu-rouge-intimatte-matte-veil-169-love-rendez-vous-lipstick/p/5768414",
+  "listName": "Lister",
+  "brand": "Lancome",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "3,4g"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Eroxon Stimgel",
+  "code": "6018234",
+  "price": "29.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1050740",
+  "mmkId": "1050740",
+  "productGroupId": "477429",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/eroxon-stimgel/p/6018234",
+  "listName": "Lister",
+  "brand": "Eroxon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266011,
+      "name": "Seksualiteit"
+    },
+    {
+      "id": 66386973,
+      "name": "Erectieproblemen"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 4 stuks"
+}

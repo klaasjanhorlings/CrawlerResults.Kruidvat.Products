@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Refreshing Mint-Eucalyptus Badschuim",
+  "code": "2571647",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1050612",
+  "mmkId": "1050612",
+  "productGroupId": "464177",
+  "brandType": "A or B brand",
+  "discount": "",
+  "url": "/kneipp-refreshing-mint-eucalyptus-badschuim/p/2571647",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266655,
+      "name": "Badschuim"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/prd-front-2571647-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTI1ODN8aW1hZ2UvanBlZ3xhRFUyTDJoa09TOHhOakUwT1RreE16RTBNVEkzT0M5d2NtUXRabkp2Ym5RdE1qVTNNVFkwTnkweFh6WXdNSGcyTURBfDNjZjhiYTE2NGY3NmJiOWQ3MmE2ZDEzMzNlOTkwNmFkM2UwMjljMTFmMWRkNmRkMmM4MTk3ODE4NDg3Njg5YjI"
+}

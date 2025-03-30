@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Face & Body Anti-haargroei Serum",
+  "code": "5360167",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 2839 > 3579",
+  "supplier": "OCEANIC SP. Z O.O.",
+  "inStock": "inStock",
+  "onPromo": "1050730",
+  "mmkId": "1050730",
+  "productGroupId": "471281",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-face-body-anti-haargroei-serum/p/5360167",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266682,
+      "name": "Ontharingscreme, wax en hars"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h20/hd8/28045188399134/prd-front-5360167-1_600x600/prd-front-5360167-1-600x600.jpg"
+}

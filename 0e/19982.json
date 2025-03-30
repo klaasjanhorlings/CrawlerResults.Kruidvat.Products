@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Azaron Insectenbeet Crème",
+  "code": "19982",
+  "price": "8.75",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 6070",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/azaron-insectenbeet-creme/p/19982",
+  "listName": "Lister",
+  "brand": "Azaron",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266711,
+      "name": "Insecten"
+    },
+    {
+      "id": 30266987,
+      "name": "Na de beet"
+    }
+  ],
+  "description": "Geneesmiddel - 10g",
+  "image": "/medias/sys_master/prd-images/h13/h21/28355797516318/prd-front-19982-1_600x600/prd-front-19982-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kleenex Balsam Zakdoekjes",
+  "code": "16869",
+  "price": "2.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2537 > 3165 > 3758",
+  "supplier": "KIMBERLY-CLARK BV",
+  "inStock": "inStock",
+  "onPromo": "1050537",
+  "mmkId": "1050537",
+  "productGroupId": "454985",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kleenex-balsam-zakdoekjes/p/16869",
+  "listName": "Lister",
+  "brand": "Kleenex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266074,
+      "name": "Tissues en zakdoekjes"
+    }
+  ],
+  "description": "8 x 9 stuks",
+  "image": "/medias/sys_master/prd-images/h2c/h09/32246346514462/prd-front-16869-1_600x600/prd-front-16869-1-600x600.jpg"
+}

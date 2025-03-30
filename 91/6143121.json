@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Munchkin Fun Ice Chewy Teether Bijtring",
+  "code": "6143121",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "MEUBLEPLUS BV",
+  "inStock": "inStock",
+  "onPromo": "1050603",
+  "mmkId": "1050603",
+  "productGroupId": "462254",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/munchkin-fun-ice-chewy-teether-bijtring/p/6143121",
+  "listName": "Lister",
+  "brand": "Munchkin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30266834,
+      "name": "Grijp- en bijtspeelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h15/hd7/32539567751198/prd-front-6143121-1_600x600/prd-front-6143121-1-600x600.jpg"
+}

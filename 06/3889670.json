@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Originals Vitamine E Nachtcrème",
+  "code": "3889670",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "PHARCONA GMBH",
+  "inStock": "inStock",
+  "onPromo": "1050592",
+  "mmkId": "1050592",
+  "productGroupId": "460660",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-originals-vitamine-e-nachtcreme/p/3889670",
+  "listName": "Lister",
+  "brand": "Kruidvat Originals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266603,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-3889670-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njc2OTN8aW1hZ2UvanBlZ3xhRGhtTDJoa09TOHlOalUzTnpVME9UUTVNakkxTkM5d2NtUXRabkp2Ym5RdE16ZzRPVFkzTUMweFh6WXdNSGcyTURBfDZhN2QxODU4Y2VlYzM0OGI1N2FhNzhhZmRhNzg3ZWE0NWM5MjViNzljY2E4NmMyNzBhZTI1ODgzMDE3OTRhMTQ"
+}

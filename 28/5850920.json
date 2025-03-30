@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Spierbalsem",
+  "code": "5850920",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "PROTEX BV",
+  "inStock": "inStock",
+  "onPromo": "1050647",
+  "mmkId": "1050647",
+  "productGroupId": "466377",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-spierbalsem/p/5850920",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266708,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30266978,
+      "name": "Spierwrijfmiddelen"
+    }
+  ],
+  "description": "22g",
+  "image": "/medias/sys_master/prd-images/h2b/h5b/27387756478494/prd-front-5850920-1_600x600/prd-front-5850920-1-600x600.jpg"
+}

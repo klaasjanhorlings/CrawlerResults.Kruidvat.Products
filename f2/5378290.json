@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Syoss Keratine Heat Protection Spray",
+  "code": "5378290",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3698",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1050664",
+  "mmkId": "1050664",
+  "productGroupId": "467267",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-keratine-heat-protection-spray/p/5378290",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266933,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h44/hde/33794877784094/prd-front-5378290-1_600x600/prd-front-5378290-1-600x600.jpg"
+}

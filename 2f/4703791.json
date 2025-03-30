@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tommee Tippee Twist & Click Cassette Luieremmernavulling",
+  "code": "4703791",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "MAYBORN FRANCE EURL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tommee-tippee-twist-click-cassette-luieremmernavulling/p/4703791",
+  "listName": "Lister",
+  "brand": "Tommee Tippee",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266782,
+      "name": "Verschonen"
+    },
+    {
+      "id": 84925436,
+      "name": "Navullingen luieremmers"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h0b/hb0/28806761283614/prd-front-4703791-1_600x600/prd-front-4703791-1-600x600.jpg"
+}

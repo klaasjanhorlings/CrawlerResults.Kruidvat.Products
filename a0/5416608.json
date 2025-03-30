@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "The Jelly Beans Factory snoepbeker",
+  "code": "5416608",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
+  "supplier": "CLOETTA HOLLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/the-jelly-beans-factory-snoepbeker/p/5416608",
+  "listName": "Lister",
+  "brand": "Jelly Bean Factory",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267026,
+      "name": "Snoep"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h88/h57/28848490381342/prd-front-5416608-1_600x600/prd-front-5416608-1-600x600.jpg"
+}

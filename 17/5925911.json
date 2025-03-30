@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. Beckmann Tapijt Vlekverwijderaar",
+  "code": "5925911",
+  "price": "2.99",
+  "priceOriginal": "5.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
+  "supplier": "BENCKMAR BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 3,00",
+  "url": "/dr-beckmann-tapijt-vlekverwijderaar/p/5925911",
+  "listName": "Lister",
+  "brand": "Dr. Beckmann",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266068,
+      "name": "Vlekverwijderaars"
+    }
+  ],
+  "description": "650ml",
+  "image": "/medias/sys_master/prd-images/hef/hde/28073073967134/prd-front-5925911-1_600x600/prd-front-5925911-1-600x600.jpg"
+}

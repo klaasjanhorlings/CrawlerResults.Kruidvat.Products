@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Natures Repair Shampoo",
+  "code": "5164006",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-natures-repair-shampoo/p/5164006",
+  "listName": "Lister",
+  "brand": "Kruidvat Natures",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/prd-front-5164006-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTE3NzB8aW1hZ2UvanBlZ3xhREJrTDJnMk5pOHlOamM0TkRVd056a3lNRFF4TkM5d2NtUXRabkp2Ym5RdE5URTJOREF3TmkweFh6WXdNSGcyTURBfDIxOTc4ODdhNGVjYjNjN2MwZjE4ZDVjZDcwMmIwNzMzZWE5MjRjZDU3MzRlN2RlNTNiMzEzMGUyMjlkOWNhYTQ"
+}

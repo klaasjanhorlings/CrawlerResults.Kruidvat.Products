@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mylaq My Cuticle Remover",
+  "code": "5871472",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5145 > 5147 > 6497 > 6496 > 6520",
+  "supplier": "COSMO GROUP SP. Z O.O.",
+  "inStock": "inStock",
+  "onPromo": "1050756",
+  "mmkId": "1050756",
+  "productGroupId": "486051",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mylaq-my-cuticle-remover/p/5871472",
+  "listName": "Lister",
+  "brand": "Mylaq",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266631,
+      "name": "Nagelbehandeling"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf7/h94/30226712920094/prd-front-5871472-1_600x600/prd-front-5871472-1-600x600.jpg"
+}

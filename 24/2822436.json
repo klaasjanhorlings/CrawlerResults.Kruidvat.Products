@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Droge Wegwerpwashandjes",
+  "code": "2822436",
+  "price": "2.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
+  "supplier": "VERISOFT BV",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-droge-wegwerpwashandjes/p/2822436",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144838,
+      "name": "Schoonmaakartikelen"
+    }
+  ],
+  "description": "15 stuks",
+  "image": "/medias/prd-front-2822436-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzU1NDV8aW1hZ2UvanBlZ3xhREEyTDJnek9DOHhOalk1TnpRMU1qTTVOalUzTkM5d2NtUXRabkp2Ym5RdE1qZ3lNalF6TmkweFh6WXdNSGcyTURBfDY3NjUyOGFjNjAyN2NmMDRkOWEzOWU0YWRjMDY1M2VlMDhiZjEzYzQxN2Y1YmUzYWQ1MGQ3YTM2YjA0ZDI2NjU"
+}

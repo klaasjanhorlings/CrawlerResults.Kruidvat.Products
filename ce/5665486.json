@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "M. Asam Volume & Repair Caramel Kiss Lipstick",
+  "code": "5665486",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "ASAM-BETRIEBS GMBH",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/m-asam-volume-repair-caramel-kiss-lipstick/p/5665486",
+  "listName": "Lister",
+  "brand": "M. Asam",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "3,3g",
+  "image": "/medias/sys_master/prd-images/he4/hb2/28613466882078/prd-front-5665486-1_600x600/prd-front-5665486-1-600x600.jpg"
+}

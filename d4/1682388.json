@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Coconut Bad & Douche",
+  "code": "1682388",
+  "price": "1.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1028975",
+  "mmkId": "1028975",
+  "productGroupId": "362258",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-coconut-bad-douche/p/1682388",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "1000ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hea/hdb/27294565728286/prd-front-1682388-1_600x600/prd-front-1682388-1-600x600.jpg"
+}

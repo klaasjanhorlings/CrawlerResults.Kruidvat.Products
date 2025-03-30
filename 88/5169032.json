@@ -1,0 +1,30 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alecto SA50 Rookmelder",
+  "code": "5169032",
+  "price": "9.99",
+  "priceOriginal": "24.95",
+  "itemBgbcat": "5929 > 2153 > 6014 > 6723 > 6724 > 6725",
+  "supplier": "COMMAXX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 14,96",
+  "url": "/alecto-sa50-rookmelder/p/5169032",
+  "listName": "Lister",
+  "brand": "Alecto",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266052,
+      "name": "Huishoudelijke apparaten"
+    }
+  ],
+  "description": "3,5cm x Ø10,2cm",
+  "image": "/medias/sys_master/prd-images/h6a/hc0/29864564195358/prd-front-5169032-1_600x600/prd-front-5169032-1-600x600.jpg"
+}

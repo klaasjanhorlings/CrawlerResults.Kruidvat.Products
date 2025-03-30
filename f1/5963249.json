@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zenner Dun Stay-In-Hair Haarklem",
+  "code": "5963249",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6323 > 6674",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "inStock",
+  "onPromo": "1050755",
+  "mmkId": "1050755",
+  "productGroupId": "486035",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zenner-dun-stay-in-hair-haarklem/p/5963249",
+  "listName": "Lister",
+  "brand": "Zenner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265993,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30266626,
+      "name": "Haarklemmen"
+    }
+  ],
+  "description": "bruin",
+  "image": "/medias/sys_master/prd-images/h72/h41/29308723101726/prd-front-5963249-1_600x600/prd-front-5963249-1-600x600.jpg"
+}

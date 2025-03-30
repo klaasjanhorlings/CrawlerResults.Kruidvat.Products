@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Fresh Revive 3-in-1 Droogshampoo voor Licht Haar",
+  "code": "4399977",
+  "price": "7.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6082 > 6398",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1050556",
+  "mmkId": "1050556",
+  "productGroupId": "456936",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-fresh-revive-3-in-1-droogshampoo-voor-licht-haar/p/4399977",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266693,
+      "name": "Droogshampoo"
+    }
+  ],
+  "description": "200ml"
+}

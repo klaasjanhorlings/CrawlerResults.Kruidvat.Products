@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mylaq Houten Stokjes",
+  "code": "5871465",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2684 > 3384 > 6497 > 6496 > 6520",
+  "supplier": "COSMO GROUP SP. Z O.O.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mylaq-houten-stokjes/p/5871465",
+  "listName": "Lister",
+  "brand": "Mylaq",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266632,
+      "name": "Nagelaccessoires"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/h23/hf4/29849489539102/prd-front-5871465-1_600x600/prd-front-5871465-1-600x600.jpg"
+}

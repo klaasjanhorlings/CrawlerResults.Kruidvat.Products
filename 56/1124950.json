@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Glucosamine Puur met Koper Mangaan en Vitamine C Tabletten",
+  "code": "1124950",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1050638",
+  "mmkId": "1050638",
+  "productGroupId": "466223",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-glucosamine-puur-met-koper-mangaan-en-vitamine-c-tabletten/p/1124950",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266725,
+      "name": "Glucosamine"
+    }
+  ],
+  "description": "120 stuks"
+}

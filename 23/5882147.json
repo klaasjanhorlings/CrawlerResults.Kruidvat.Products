@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Invisibobble Kids Original Rainbow Hair Spiral",
+  "code": "5882147",
+  "price": "4.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6326",
+  "supplier": "NEW FLAG BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1050615",
+  "mmkId": "1050615",
+  "productGroupId": "465415",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/invisibobble-kids-original-rainbow-hair-spiral/p/5882147",
+  "listName": "Lister",
+  "brand": "Invisibobble",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265993,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30266623,
+      "name": "Haarelastiekjes"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h66/h7d/28318555078686/prd-front-5882147-1_600x600/prd-front-5882147-1-600x600.jpg"
+}

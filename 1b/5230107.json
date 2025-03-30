@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zovirax Duo Aciclovir 50mg/g en Hydrocortison 10mg/g Koortslipcrème",
+  "code": "5230107",
+  "price": "13.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 2842 > 3581",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zovirax-duo-aciclovir-50mg/g-en-hydrocortison-10mg/g-koortslipcreme/p/5230107",
+  "listName": "Lister",
+  "brand": "Zovirax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30266947,
+      "name": "Koortslip"
+    }
+  ],
+  "description": "Geneesmiddel - 2g",
+  "image": "/medias/sys_master/prd-images/h1d/h25/29032078245918/prd-front-5230107-1_600x600/prd-front-5230107-1-600x600.jpg"
+}

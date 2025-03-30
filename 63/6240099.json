@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rascals Maat 6 Cocomelon Luierbroekjes",
+  "code": "6240099",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
+  "supplier": "ZURU NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "1050473",
+  "mmkId": "1050473",
+  "productGroupId": "461208",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/rascals-maat-6-cocomelon-luierbroekjes/p/6240099",
+  "listName": "Lister",
+  "brand": "Rascal + Friends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266019,
+      "name": "Luierbroekjes"
+    },
+    {
+      "id": 30266795,
+      "name": "Luierbroekjes maat 6"
+    }
+  ],
+  "description": "Maat 6 (15-20 kg), 22 stuks",
+  "image": "/medias/sys_master/prd-images/hb7/h84/33800342667294/prd-front-6240099-1_600x600/prd-front-6240099-1-600x600.jpg"
+}

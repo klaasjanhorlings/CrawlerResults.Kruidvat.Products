@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Felix Soup Original Vis Selectie Kattenvoer",
+  "code": "5959616",
+  "price": "2.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2081 > 2239 > 2360 > 2911 > 4126",
+  "supplier": "NESTLE PURINA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/felix-soup-original-vis-selectie-kattenvoer/p/5959616",
+  "listName": "Lister",
+  "brand": "Felix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266077,
+      "name": "Dier"
+    },
+    {
+      "id": 30266889,
+      "name": "Diervoeding"
+    }
+  ],
+  "description": "6 x 48g",
+  "image": "/medias/sys_master/prd-images/h19/h08/31898524057630/prd-front-5959616-1_600x600/prd-front-5959616-1-600x600.jpg"
+}

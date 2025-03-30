@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Men Brown Haarkleuring",
+  "code": "1317618",
+  "price": "7.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 5710 > 5711 > 5712",
+  "supplier": "EMIL KIESSLING GMBH",
+  "inStock": "inStock",
+  "onPromo": "1050617",
+  "mmkId": "1050617",
+  "productGroupId": "465662",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-men-brown-haarkleuring/p/1317618",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265990,
+      "name": "Haarverf"
+    }
+  ],
+  "description": ""
+}

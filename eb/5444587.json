@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Fresh Kick Scheergel",
+  "code": "5444587",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2932 > 3727",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-fresh-kick-scheergel/p/5444587",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266681,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/he7/h49/32867943120926/prd-front-5444587-1_600x600/prd-front-5444587-1-600x600.jpg"
+}
