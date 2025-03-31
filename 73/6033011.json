@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "COSMO GROUP SP. Z O.O.",
   "inStock": "inStock",
-  "onPromo": "1050756",
-  "mmkId": "1050756",
-  "productGroupId": "486051",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mylaq-my-milky-pink-uv-gellak/p/6033011",
@@ -33,5 +33,6 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h91/h50/33005687275550/prd-front-6033011-1_600x600/prd-front-6033011-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Houten Kaarthouder",
+  "code": "4432247",
+  "price": "2.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "5921 > 6040 > 4640 > 5192 > 5377 > 5566",
+  "supplier": "DUMMY INTERN",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 5,00",
+  "url": "/houten-kaarthouder/p/4432247",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "50cm",
+  "image": "/medias/sys_master/prd-images/h37/h1d/33270855401502/prd-front-4432247-1_600x600/prd-front-4432247-1-600x600.jpg"
+}

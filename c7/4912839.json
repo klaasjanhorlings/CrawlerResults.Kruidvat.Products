@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Milka Chocowafer",
+  "code": "4912839",
+  "price": "3.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2340 > 2740 > 3442",
+  "supplier": "MONDELEZ NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/milka-chocowafer/p/4912839",
+  "listName": "Lister",
+  "brand": "Milka",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "10 x 30g",
+  "image": "/medias/prd-front-4912839-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODcwNTN8aW1hZ2UvanBlZ3xhR0UwTDJnNFl5OHlOalU0TVRnek1EQTBNVFl6TUM5d2NtUXRabkp2Ym5RdE5Ea3hNamd6T1MweFh6WXdNSGcyTURBfDBkZmFlYzVkMzM3NGViZGM1OWVjMjllZGE3NzU4YzI2OWJlODlkZGY5YTA3YjdkOTUzYzNjODdmOTAzZWVkZTM"
+}

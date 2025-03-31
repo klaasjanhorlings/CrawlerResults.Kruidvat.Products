@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1050757",
-  "mmkId": "1050757",
-  "productGroupId": "486193",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-120-vanille-spf25-32h-fresh-wear-foundation/p/4633987",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hc9/h33/31771650359326/prd-front-4633987-1_600x600/prd-front-4633987-1-600x600.jpg"
 }

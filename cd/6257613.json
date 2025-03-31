@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mijn Touwtjesboek - Xavier Deneux Kinderboek",
+  "code": "6257613",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2092 > 2245 > 2343 > 2743 > 4868 > 6569",
+  "supplier": "BOOK & SERVICE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/mijn-touwtjesboek-xavier-deneux-kinderboek/p/6257613",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266034,
+      "name": "Educatief speelgoed"
+    }
+  ],
+  "description": "Nederlandstalig boek"
+}

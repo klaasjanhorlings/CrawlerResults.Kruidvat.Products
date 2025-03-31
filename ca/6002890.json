@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fisher-Price Jurassic World Imaginext T-Rex",
+  "code": "6002890",
+  "price": "7.99",
+  "priceOriginal": "34.99",
+  "itemBgbcat": "2140 > 5150 > 5575 > 5605 > 5921 > 6040",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 27,00",
+  "url": "/fisher-price-jurassic-world-imaginext-t-rex/p/6002890",
+  "listName": "Lister",
+  "brand": "Jurassic World",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h67/h65/29621694595102/prd-front-6002890-1_600x600/prd-front-6002890-1-600x600.jpg"
+}

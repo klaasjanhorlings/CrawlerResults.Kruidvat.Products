@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050835",
+  "mmkId": "1050835",
+  "productGroupId": "483364",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/simple-skin-booster-10-niacinamide-vitamine-b3-b5-serum/p/5934892",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml, alle huidtypes",
-  "image": "/medias/sys_master/prd-images/hd3/h2a/28657690673182/prd-front-5934892-1_600x600/prd-front-5934892-1-600x600.jpg"
+  "description": "30ml, alle huidtypes"
 }

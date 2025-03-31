@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "COSMO GROUP SP. Z O.O.",
   "inStock": "inStock",
-  "onPromo": "1050756",
-  "mmkId": "1050756",
-  "productGroupId": "486051",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mylaq-my-modern-fuchsia-uv-gellak/p/6033053",
@@ -33,6 +33,5 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/hd5/h8a/33004074663966/prd-front-6033053-1_600x600/prd-front-6033053-1-600x600.jpg"
+  "description": "5ml"
 }

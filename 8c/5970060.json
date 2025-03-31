@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3345 > 4249",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050815",
+  "mmkId": "1050815",
+  "productGroupId": "467810",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/murrays-beeswax/p/5970060",
@@ -33,5 +33,6 @@
       "name": "Haarwax"
     }
   ],
-  "description": "114g"
+  "description": "114g",
+  "image": "/medias/sys_master/prd-images/h1a/he4/28817013735454/prd-front-5970060-1_600x600/prd-front-5970060-1-600x600.jpg"
 }

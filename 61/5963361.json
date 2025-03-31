@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6323 > 6674",
   "supplier": "ZENNER NIEUW VENNEP BV",
   "inStock": "inStock",
-  "onPromo": "1050755",
-  "mmkId": "1050755",
-  "productGroupId": "486035",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zenner-haarklem-met-marmerprint/p/5963361",
@@ -33,5 +33,6 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h18/hf8/29076583251998/prd-front-5963361-1_600x600/prd-front-5963361-1-600x600.jpg"
 }

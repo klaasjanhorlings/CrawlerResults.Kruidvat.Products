@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1050757",
-  "mmkId": "1050757",
-  "productGroupId": "486193",
+  "onPromo": "1050579",
+  "mmkId": "1050579",
+  "productGroupId": "459921",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-magic-bb-very-light-5-in-1-transforming-skin-corrector/p/4763536",
@@ -33,5 +33,6 @@
       "name": "BB cream"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/ha2/h9c/31774903566366/prd-front-4763536-1_600x600/prd-front-4763536-1-600x600.jpg"
 }
