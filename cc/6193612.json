@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Laura's Bakery Taart Draaiplateau",
+  "code": "6193612",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "AVEC STUDIO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/lauras-bakery-taart-draaiplateau/p/6193612",
+  "listName": "Lister",
+  "brand": "Laura's Bakery",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 80863211,
+      "name": "Bakspullen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h04/hc8/32639567724574/prd-front-6193612-1_600x600/prd-front-6193612-1-600x600.jpg"
+}

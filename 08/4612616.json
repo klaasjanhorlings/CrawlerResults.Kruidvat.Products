@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
   "supplier": "SANATURE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/h1c/h93/28228227530782/prd-front-4612616-1_600x600/prd-front-4612616-1-600x600.jpg"
+  "description": "10 stuks"
 }
