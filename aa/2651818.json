@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
   "supplier": "RAVENSBURGER BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050870",
+  "mmkId": "1050870",
+  "productGroupId": "469538",
   "brandType": "A of B merk",
   "discount": "€ 3,00",
   "url": "/ravensburger-mijn-eerste-doolhof/p/2651818",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h6d/h5a/28500904149022/prd-front-2651818-1_600x600/prd-front-2651818-1-600x600.jpg"
 }

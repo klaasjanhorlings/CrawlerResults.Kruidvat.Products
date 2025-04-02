@@ -8,9 +8,9 @@
   "itemBgbcat": "2183 > 4933 > 4980 > 5026 > 5921 > 6040",
   "supplier": "MATTEL EUROPA BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050870",
+  "mmkId": "1050870",
+  "productGroupId": "469538",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/disney-princess-spin-reveal-ariel-pop/p/6238601",
@@ -29,5 +29,6 @@
       "name": "Poppen en knuffels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb4/hdf/32869106450462/prd-front-6238601-1_600x600/prd-front-6238601-1-600x600.jpg"
 }

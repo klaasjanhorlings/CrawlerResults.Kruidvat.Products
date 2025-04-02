@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "1050547",
-  "mmkId": "1050547",
-  "productGroupId": "455849",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-ambre-solaire-kids-sensitive-expert-spf50-zonnemelk/p/3353722",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266016,
-      "name": "Babyverzorging"
+      "id": 30265999,
+      "name": "Zonbescherming"
     },
     {
-      "id": 30266778,
-      "name": "Baby zonnebrand"
+      "id": 30266657,
+      "name": "Zonnebrand"
     }
   ],
   "description": "50ml",

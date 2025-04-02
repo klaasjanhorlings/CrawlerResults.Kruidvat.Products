@@ -8,9 +8,9 @@
   "itemBgbcat": "2232 > 5179 > 5303 > 5492 > 5921 > 6040",
   "supplier": "SINGLETON TRADING BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050870",
+  "mmkId": "1050870",
+  "productGroupId": "469538",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/disney-pluchen-stitch-coconing-knuffel/p/6247316",
@@ -29,6 +29,5 @@
       "name": "Poppen en knuffels"
     }
   ],
-  "description": "blauw, 25cm",
-  "image": "/medias/sys_master/prd-images/hf6/h18/33104725082142/prd-front-6247316-1_600x600/prd-front-6247316-1-600x600.jpg"
+  "description": "blauw, 25cm"
 }

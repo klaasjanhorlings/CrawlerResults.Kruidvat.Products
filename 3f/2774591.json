@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050898",
+  "mmkId": "1050898",
+  "productGroupId": "489104",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nutrilon-ar-2-dieetvoeding-vanaf-6-maanden/p/2774591",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "800g",
-  "image": "/medias/sys_master/prd-images/hd8/ha1/33816636031006/prd-front-2774591-1_600x600/prd-front-2774591-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hfa/hfd/33820062646302/prd-front-2774591-1_600x600/prd-front-2774591-1-600x600.jpg"
 }

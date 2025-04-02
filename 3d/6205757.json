@@ -8,9 +8,9 @@
   "itemBgbcat": "4640 > 5190 > 5369 > 5558 > 5921 > 6040",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050870",
+  "mmkId": "1050870",
+  "productGroupId": "469538",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/playing-kids-houten-saladeset/p/6205757",
@@ -25,12 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266036,
-      "name": "Houten speelgoed"
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
     },
     {
-      "id": 84925671,
-      "name": "Houten speelsets"
+      "id": 49281541,
+      "name": "Interactief speelgoed"
     }
   ],
   "description": "",

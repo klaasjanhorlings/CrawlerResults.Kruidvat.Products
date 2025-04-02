@@ -8,9 +8,9 @@
   "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
   "supplier": "MATTEL EUROPA BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050870",
+  "mmkId": "1050870",
+  "productGroupId": "469538",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/megabloks-blokken-met-tas/p/6064259",
@@ -33,6 +33,5 @@
       "name": "Vormenstoof"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h01/h7b/30411257970718/prd-front-6064259-1_600x600/prd-front-6064259-1-600x600.jpg"
+  "description": ""
 }

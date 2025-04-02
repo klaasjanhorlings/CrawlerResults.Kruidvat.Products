@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Syoss Hold 3 Flexible Haarspray",
+  "code": "6236249",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1050664",
+  "mmkId": "1050664",
+  "productGroupId": "467267",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-hold-3-flexible-haarspray/p/6236249",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266933,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h71/hb2/33772424003614/prd-front-6236249-1_600x600/prd-front-6236249-1-600x600.jpg"
+}

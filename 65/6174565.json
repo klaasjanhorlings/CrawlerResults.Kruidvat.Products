@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2048 > 2225 > 4869 > 5069 > 5071 > 5096",
   "supplier": "TRENDSOURCE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Winteraccessoires"
     }
   ],
-  "description": "tuquoise, 88cm x 88cm",
-  "image": "/medias/sys_master/prd-images/h07/hba/32492954517534/prd-front-6174565-1_600x600/prd-front-6174565-1-600x600.jpg"
+  "description": "tuquoise, 88cm x 88cm"
 }

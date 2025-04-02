@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "BAYER BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050851",
+  "mmkId": "1050851",
+  "productGroupId": "458484",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bepanthen-eczeem-creme-voor-babys/p/5187274",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "Medisch hulpmiddel - 20g"
+  "description": "Medisch hulpmiddel - 20g",
+  "image": "/medias/prd-front-5187274-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDk3MDd8aW1hZ2UvanBlZ3xhREl5TDJobFlTOHhOak15TlRNd056STJPVEUxTUM5d2NtUXRabkp2Ym5RdE5URTROekkzTkMweFh6WXdNSGcyTURBfDIwZDE0ODE1ODk3NzUyNzU1M2Q4MGYxMDJlOTUyOTZlMTVjYTgzNjBlYTUyYmEwMDA4NThmMDQ1ZmExZTAyNjk"
 }

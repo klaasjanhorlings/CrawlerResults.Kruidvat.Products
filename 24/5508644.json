@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
   "supplier": "SPECTRON BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050870",
+  "mmkId": "1050870",
+  "productGroupId": "469538",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/tomy-hide-squeak-bright-chicks/p/5508644",
@@ -33,5 +33,6 @@
       "name": "Interactief speelgoed"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h83/h85/27769688490014/prd-front-5508644-1_600x600/prd-front-5508644-1-600x600.jpg"
 }

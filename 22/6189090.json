@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050608",
+  "mmkId": "1050608",
+  "productGroupId": "463180",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/baylis-harding-kindness-vitamin-c-niacinamide-body-wash/p/6189090",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/h91/hf5/32225900036126/prd-front-6189090-1_600x600/prd-front-6189090-1-600x600.jpg"
+  "description": "500ml"
 }
