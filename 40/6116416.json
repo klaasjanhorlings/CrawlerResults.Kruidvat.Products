@@ -8,9 +8,9 @@
   "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
   "supplier": "CLEMENTONI SPA",
   "inStock": "inStock",
-  "onPromo": "1050870",
-  "mmkId": "1050870",
-  "productGroupId": "469538",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/clementoni-clemmy-blokkentas/p/6116416",
@@ -33,5 +33,6 @@
       "name": "Vormenstoof"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcc/ha4/31231896813598/prd-front-6116416-1_600x600/prd-front-6116416-1-600x600.jpg"
 }

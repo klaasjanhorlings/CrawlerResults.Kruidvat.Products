@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1050884",
+  "mmkId": "1050884",
+  "productGroupId": "461095",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-volum-express-the-rocket-very-black-mascara/p/5998466",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hdb/h94/30334488248350/prd-front-5998466-1_600x600/prd-front-5998466-1-600x600.jpg"
 }

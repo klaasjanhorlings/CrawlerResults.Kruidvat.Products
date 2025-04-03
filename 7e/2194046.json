@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1028975",
+  "mmkId": "1028975",
+  "productGroupId": "362258",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-hydro-spf15-dagcreme-voor-de-normale-en-gemengde-huid/p/2194046",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Normale en gecombineerde huid",
-  "image": "/medias/sys_master/prd-images/h19/hbf/33821460922398/prd-front-2194046-1_600x600/prd-front-2194046-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha2/hc5/33833613983774/prd-front-2194046-1_600x600/prd-front-2194046-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 4362 > 2130 > 5787 > 5788 > 5789",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
-  "onPromo": "1050860",
-  "mmkId": "1050860",
-  "productGroupId": "466706",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-babysokjes/p/5614589",
@@ -33,5 +33,6 @@
       "name": "Babysokken"
     }
   ],
-  "description": "roze, 0-6m, 2 paar"
+  "description": "roze, 0-6m, 2 paar",
+  "image": "/medias/sys_master/prd-images/h2b/h31/28356214095902/prd-front-5614589-1_600x600/prd-front-5614589-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
   "supplier": "SPECTRON BV",
   "inStock": "inStock",
-  "onPromo": "1050870",
-  "mmkId": "1050870",
-  "productGroupId": "469538",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/disney-stitch-surf-sun-playset/p/6247351",
@@ -33,5 +33,6 @@
       "name": "Speelfiguren"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h55/ha3/33575833239582/prd-front-6247351-1_600x600/prd-front-6247351-1-600x600.jpg"
 }

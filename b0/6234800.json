@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence 150 Foundation Stick",
-  "code": "6245748",
-  "price": "4.99",
+  "itemName": "Catrice More Than Glow Roségoud Gezichtsset",
+  "code": "6234800",
+  "price": "12.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 6134 > 6135 > 6133",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-150-foundation-stick/p/6245748",
+  "url": "/catrice-more-than-glow-rosegoud-gezichtsset/p/6234800",
   "listName": "Lister",
-  "brand": "Essence",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266577,
-      "name": "Foundation"
+      "id": 30266589,
+      "name": "Highlighter"
     }
   ],
-  "description": "10g",
-  "image": "/medias/sys_master/prd-images/hd4/h72/33334858809374/prd-front-6245748-1_600x600/prd-front-6245748-1-600x600.jpg"
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h6b/h4a/33562852425758/prd-front-6234800-1_600x600/prd-front-6234800-1-600x600.jpg"
 }

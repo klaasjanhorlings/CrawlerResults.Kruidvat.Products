@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 4362 > 2130 > 2317 > 2718 > 3421",
   "supplier": "PLAYGRO EUROPE BV",
-  "inStock": "inStock",
-  "onPromo": "1050860",
-  "mmkId": "1050860",
-  "productGroupId": "466706",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-matrasbeschermer/p/5158595",
@@ -37,5 +37,6 @@
       "name": "Babymatrasbeschermers"
     }
   ],
-  "description": "120cm x 60cm"
+  "description": "120cm x 60cm",
+  "image": "/medias/prd-front-5158595-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTMxNzN8aW1hZ2UvanBlZ3xhREpoTDJoaU15OHhOak13TnpBNU9EWTBPRFl3Tmk5d2NtUXRabkp2Ym5RdE5URTFPRFU1TlMweFh6WXdNSGcyTURBfGFjOTU0ZGJkODM3NDBiYTYzZDAyMzFlYTA3YmY1OGNmOTU3ZDRmMWIzMzQ5MDczYzZkNjYxNDBkMmY2MDBkMWE"
 }

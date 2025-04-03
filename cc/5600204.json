@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3648",
   "supplier": "BARONIE - DE HEER BV",
-  "inStock": "inStock",
-  "onPromo": "1049030",
-  "mmkId": "1049030",
-  "productGroupId": "445708",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-praline-melk-met-hele-hazelnoot-paaseitjes/p/5600204",
@@ -33,6 +33,5 @@
       "name": "Chocolade"
     }
   ],
-  "description": "200g",
-  "image": "/medias/sys_master/prd-images/h02/hbe/27269052039198/prd-front-5600204-1_600x600/prd-front-5600204-1-600x600.jpg"
+  "description": "200g"
 }

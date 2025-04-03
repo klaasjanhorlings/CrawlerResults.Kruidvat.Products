@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "HERO NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1050872",
-  "mmkId": "1050872",
-  "productGroupId": "472394",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organix-bio-peer-framboos-6m-knijpfruit/p/5639481",
@@ -37,5 +37,6 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/hae/hd6/32883540525086/prd-front-5639481-1_600x600/prd-front-5639481-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2183 > 4933 > 4980 > 5026 > 5921 > 6040",
   "supplier": "SINGLETON TRADING BV",
   "inStock": "inStock",
-  "onPromo": "1050870",
-  "mmkId": "1050870",
-  "productGroupId": "469538",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/lol-surprise-mini-sweets/p/6257459",
@@ -33,6 +33,5 @@
       "name": "Speelfiguren"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h32/hf3/33430235742238/prd-front-6257459-1_600x600/prd-front-6257459-1-600x600.jpg"
+  "description": ""
 }

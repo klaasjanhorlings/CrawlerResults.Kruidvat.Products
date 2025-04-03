@@ -8,9 +8,9 @@
   "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
   "supplier": "MATTEL EUROPA BV",
   "inStock": "inStock",
-  "onPromo": "1050870",
-  "mmkId": "1050870",
-  "productGroupId": "469538",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/megabloks-build-n-tumble-table-speeltafel/p/6238664",
@@ -33,6 +33,5 @@
       "name": "Bouwen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hb2/h03/32879436726302/prd-front-6238664-1_600x600/prd-front-6238664-1-600x600.jpg"
+  "description": ""
 }

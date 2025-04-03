@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
   "supplier": "SORE BV",
   "inStock": "inStock",
-  "onPromo": "1050849",
-  "mmkId": "1050849",
-  "productGroupId": "457413",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sore-baby-banaan-maisfingers/p/4704841",
@@ -33,5 +33,6 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "35g"
+  "description": "35g",
+  "image": "/medias/sys_master/prd-images/hdf/h61/28888158634014/prd-front-4704841-1_600x600/prd-front-4704841-1-600x600.jpg"
 }

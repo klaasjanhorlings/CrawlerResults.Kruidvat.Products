@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1050867",
-  "mmkId": "1050867",
-  "productGroupId": "468573",
+  "onPromo": "1050506",
+  "mmkId": "1050506",
+  "productGroupId": "450996",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-zen-by-night-shower-satin-douchecreme/p/5494861",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hb9/haf/28869209423902/prd-front-5494861-1_600x600/prd-front-5494861-1-600x600.jpg"
 }

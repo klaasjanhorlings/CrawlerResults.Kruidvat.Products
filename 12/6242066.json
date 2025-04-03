@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Maybelline New York SuperStay Matte Ink 10 Dreamer Lipstick",
-  "code": "4172225",
-  "price": "15.99",
+  "itemName": "Maybelline New York Tattoo Liner 104 White Canvas Dip-Ink Liquid Eyeliner",
+  "code": "6242066",
+  "price": "13.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/maybelline-new-york-superstay-matte-ink-10-dreamer-lipstick/p/4172225",
+  "url": "/maybelline-new-york-tattoo-liner-104-white-canvas-dip-ink-liquid-eyeliner/p/6242066",
   "listName": "Lister",
   "brand": "Maybelline",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266582,
-      "name": "Lipstick"
+      "id": 30266586,
+      "name": "Eyeliner"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/hd1/hcd/29031554613278/prd-front-4172225-1_600x600/prd-front-4172225-1-600x600.jpg"
+  "description": "3,5ml",
+  "image": "/medias/sys_master/prd-images/hbf/h17/33674359898142/prd-front-6242066-1_600x600/prd-front-6242066-1-600x600.jpg"
 }
