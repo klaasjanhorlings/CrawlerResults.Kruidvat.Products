@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Wortie Freeze Pro Wrattenverwijderaar",
-  "code": "6122884",
-  "price": "22.99",
+  "itemName": "Mycosan Steelwrattenbevriezing",
+  "code": "6238888",
+  "price": "21.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6458 > 6457",
-  "supplier": "ALL-IN-1 BVBA",
+  "supplier": "OTC MEDICAL BV",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Ander merk",
   "discount": "",
-  "url": "/wortie-freeze-pro-wrattenverwijderaar/p/6122884",
+  "url": "/mycosan-steelwrattenbevriezing/p/6238888",
   "listName": "Lister",
-  "brand": "Wortie",
+  "brand": "Mycosan",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,6 +37,6 @@
       "name": "Wrattenbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 14ml",
-  "image": "/medias/sys_master/prd-images/he0/hf2/31762765873182/prd-front-6122884-1_600x600/prd-front-6122884-1-600x600.jpg"
+  "description": "50ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

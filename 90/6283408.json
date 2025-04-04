@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Swiffer XXL Stofdoekjes",
-  "code": "3889117",
+  "itemName": "Ecostyle Fruitvliegval",
+  "code": "6283408",
   "price": "8.99",
   "priceOriginal": "",
-  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 6076 > 6077",
-  "supplier": "PROCTER & GAMBLE NL BV",
+  "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2907 > 6067",
+  "supplier": "EUROSTYLE BV",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/swiffer-xxl-stofdoekjes/p/3889117",
+  "url": "/ecostyle-fruitvliegval/p/6283408",
   "listName": "Lister",
-  "brand": "Swiffer",
+  "brand": "ECOstyle",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -25,13 +25,9 @@
       "name": "Huishouden"
     },
     {
-      "id": 30266067,
-      "name": "Schoonmaken"
-    },
-    {
-      "id": 64144853,
-      "name": "Dweilen en vloerwissers"
+      "id": 30266896,
+      "name": "Insectenbestrijding"
     }
   ],
-  "description": "16 stuks"
+  "description": ""
 }

@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Scholl LiquiFlex Inlegzolen",
-  "code": "5917700",
-  "price": "19.95",
+  "itemName": "Scholl Active Repair K+ Herstellende Hielkloven Crème",
+  "code": "1583429",
+  "price": "9.49",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6449 > 3567",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6459 > 6460",
   "supplier": "PIETERCIL BARENDS BV",
   "inStock": "outOfStock",
   "onPromo": "",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/scholl-liquiflex-inlegzolen/p/5917700",
+  "url": "/scholl-active-repair-k-herstellende-hielkloven-creme/p/1583429",
   "listName": "Lister",
-  "brand": "Scholl",
+  "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "Voetverzorging"
     },
     {
-      "id": 49316592,
-      "name": "Inlegzolen"
+      "id": 49316183,
+      "name": "Voetkloven"
     }
   ],
-  "description": "mt 41 - 46,5",
-  "image": "/medias/sys_master/prd-images/h89/h2c/28503178379294/prd-front-5917700-1_600x600/prd-front-5917700-1-600x600.jpg"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h42/h5f/33335327195166/prd-front-1583429-1_600x600/prd-front-1583429-1-600x600.jpg"
 }

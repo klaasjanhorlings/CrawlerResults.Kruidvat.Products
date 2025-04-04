@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rimmel London Kind & Free 05 Lippenbalsem",
-  "code": "6007202",
-  "price": "12.99",
+  "itemName": "Maybelline New York SuperStay Matte Ink 10 Dreamer Lipstick",
+  "code": "4172225",
+  "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
-  "supplier": "COTY NETHERLANDS BV CB",
+  "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
   "onPromo": "1050884",
   "mmkId": "1050884",
   "productGroupId": "461095",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/rimmel-london-kind-free-05-lippenbalsem/p/6007202",
+  "url": "/maybelline-new-york-superstay-matte-ink-10-dreamer-lipstick/p/4172225",
   "listName": "Lister",
-  "brand": "Rimmel",
+  "brand": "Maybelline",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4g",
-  "image": "/medias/sys_master/prd-images/hbb/h1d/31782481920030/prd-front-6007202-1_600x600/prd-front-6007202-1-600x600.jpg"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/hd1/hcd/29031554613278/prd-front-4172225-1_600x600/prd-front-4172225-1-600x600.jpg"
 }

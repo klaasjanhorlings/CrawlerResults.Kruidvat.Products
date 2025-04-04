@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Roxasect Mottenpapier",
-  "code": "2770132",
-  "price": "6.99",
+  "itemName": "Kruidvat Fruitvliegjesval",
+  "code": "6046472",
+  "price": "3.99",
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2907 > 3704",
-  "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "supplier": "BRANDS & MORE BV",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Eigen merk",
   "discount": "",
-  "url": "/roxasect-mottenpapier/p/2770132",
+  "url": "/kruidvat-fruitvliegjesval/p/6046472",
   "listName": "Lister",
-  "brand": "Roxasect",
+  "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,6 +29,6 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/h25/h80/27824628695070/prd-front-2770132-1_600x600/prd-front-2770132-1-600x600.jpg"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd4/hd4/30272534446110/prd-front-6046472-1_600x600/prd-front-6046472-1-600x600.jpg"
 }
