@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "MC BRIDE NV",
-  "inStock": "inStock",
-  "onPromo": "1050820",
-  "mmkId": "1050820",
-  "productGroupId": "468993",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-shine-glasreiniger/p/1124439",
@@ -33,5 +33,6 @@
       "name": "Ruitenreinigers"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h20/h4b/32304788242462/prd-front-1124439-1_600x600/prd-front-1124439-1-600x600.jpg"
 }

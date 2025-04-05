@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3648",
   "supplier": "BARONIE - DE HEER BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1049030",
+  "mmkId": "1049030",
+  "productGroupId": "445708",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-assorti-gevuld-paaseitjes/p/180779",
@@ -33,5 +33,6 @@
       "name": "Chocolade"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/ha5/h98/29175883268126/prd-front-180779-1_600x600/prd-front-180779-1-600x600.jpg"
 }

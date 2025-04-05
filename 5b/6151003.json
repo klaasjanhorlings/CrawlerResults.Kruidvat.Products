@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
   "supplier": "UNILEVER NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1050802",
-  "mmkId": "1050802",
-  "productGroupId": "468870",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 3,50",
   "url": "/robijn-intense-spa-sensation-wasparfum/p/6151003",
@@ -29,6 +29,5 @@
       "name": "Wasparfum"
     }
   ],
-  "description": "342ml",
-  "image": "/medias/sys_master/prd-images/he6/h54/33823949029406/prd-front-6151003-1_600x600/prd-front-6151003-1-600x600.jpg"
+  "description": "342ml"
 }

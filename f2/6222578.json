@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Top",
+  "code": "6222578",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2640 > 3325 > 4829 > 5813 > 5928 > 6038",
+  "supplier": "FULLY FASHION",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-top/p/6222578",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "groen, mt L",
+  "image": "/medias/sys_master/prd-images/hdf/hab/33859251077150/prd-front-6222578-1_600x600/prd-front-6222578-1-600x600.jpg"
+}

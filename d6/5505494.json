@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2047 > 2171 > 2367 > 3288 > 4189",
   "supplier": "FRIESLAND CAMPINA NLD",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Koude dranken"
     }
   ],
-  "description": "24 x 200ml",
-  "image": "/medias/prd-front-5505494-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mjg3ODQ1fGltYWdlL2pwZWd8YURJMEwyZ3dOUzh4TmpJeU1UUXdOalk1TVRNMU9DOXdjbVF0Wm5KdmJuUXROVFV3TlRRNU5DMHhYell3TUhnMk1EQXxjOTgxY2E1MDJmNjkxYTgwYTY4ZDAyNGJiY2Q0MjEwM2E0N2E0MGUzNmJkZTNhZDdhZmRhNThiNmQ0YTVmMDZi"
+  "description": "24 x 200ml"
 }

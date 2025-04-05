@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "MAESA COSMETICS GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050646",
+  "mmkId": "1050646",
+  "productGroupId": "466318",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-show-off-colors-037-velvet-blush-velvet-matte-lip-pencil/p/6258831",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "1,2g",
-  "image": "/medias/sys_master/prd-images/h95/h36/33852370878494/prd-front-6258831-1_600x600/prd-front-6258831-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h82/hdf/33861605621790/prd-front-6258831-1_600x600/prd-front-6258831-1-600x600.jpg"
 }
