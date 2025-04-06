@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h4e/h2a/33860403724318/prd-front-6230572-1_600x600/prd-front-6230572-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h90/h6c/33870921695262/prd-front-6230572-1_600x600/prd-front-6230572-1-600x600.jpg"
 }
