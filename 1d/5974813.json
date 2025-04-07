@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1050531",
-  "mmkId": "1050531",
-  "productGroupId": "454565",
+  "onPromo": "1050922",
+  "mmkId": "1050922",
+  "productGroupId": "454597",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-cucumber-green-tea-deodorant-roller/p/5974813",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hd1/he9/29275504115742/prd-front-5974813-1_600x600/prd-front-5974813-1-600x600.jpg"
 }

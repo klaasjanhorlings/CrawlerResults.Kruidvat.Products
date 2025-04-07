@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1050884",
-  "mmkId": "1050884",
-  "productGroupId": "461095",
+  "onPromo": "1050946",
+  "mmkId": "1050946",
+  "productGroupId": "460478",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-miracle-002-medium-to-deep-pure-golden-glow-bronzer/p/6098909",
@@ -33,5 +33,6 @@
       "name": "Bronzer"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h2c/h78/31169444315166/prd-front-6098909-1_600x600/prd-front-6098909-1-600x600.jpg"
 }

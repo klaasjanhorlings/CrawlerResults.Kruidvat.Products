@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "SALVEO PHARMA BV",
   "inStock": "inStock",
-  "onPromo": "1050703",
-  "mmkId": "1050703",
-  "productGroupId": "469576",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/adhom-cap-care-shampoo/p/6100197",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hab/h85/32428663308318/prd-front-6100197-1_600x600/prd-front-6100197-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 6078",
   "supplier": "UNILEVER NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1050528",
-  "mmkId": "1050528",
-  "productGroupId": "454540",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutral-black-wash-vloeibaar-wasmiddel/p/4513258",
@@ -29,6 +29,5 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "1L, 20 wasbeurten",
-  "image": "/medias/sys_master/prd-images/hca/h54/31942882426910/prd-front-4513258-1_600x600/prd-front-4513258-1-600x600.jpg"
+  "description": "1L, 20 wasbeurten"
 }

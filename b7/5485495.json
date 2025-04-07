@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1050579",
-  "mmkId": "1050579",
-  "productGroupId": "459921",
+  "onPromo": "1050950",
+  "mmkId": "1050950",
+  "productGroupId": "461212",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-nude-5-6-medium-tan-plumping-tinted-serum/p/5485495",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hb4/h46/31686108119070/prd-front-5485495-1_600x600/prd-front-5485495-1-600x600.jpg"
 }

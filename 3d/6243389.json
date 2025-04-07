@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "COSMOGROUP BRANDS BV",
   "inStock": "inStock",
-  "onPromo": "1050727",
-  "mmkId": "1050727",
-  "productGroupId": "470999",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/umberto-giannini-frizz-fix-shampoo/p/6243389",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/ha5/h88/33105158045726/prd-front-6243389-1_600x600/prd-front-6243389-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050935",
+  "mmkId": "1050935",
+  "productGroupId": "458382",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/st-ives-gentle-smoothing-oatmeal-scrub-mask/p/5780122",
@@ -33,5 +33,6 @@
       "name": "Exfoliant"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/prd-front-5780122-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQxODV8aW1hZ2UvanBlZ3xhR0UyTDJneE9DOHlOamsyTURJMU9UUTRNVFl6TUM5d2NtUXRabkp2Ym5RdE5UYzRNREV5TWkweFh6WXdNSGcyTURBfDQxZjhhN2QwZTBiYzM4NTE2M2NjYTMxOTQ5NmQ0MDc5OWI5Y2U1ZTZkNzJhYTFjNjdkNjYwYzJkNTA5Y2IwODE"
 }

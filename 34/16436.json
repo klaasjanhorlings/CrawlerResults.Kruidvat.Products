@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3032 > 4109",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1050599",
-  "mmkId": "1050599",
-  "productGroupId": "461724",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-sensitive-pleister/p/16436",
@@ -37,5 +37,6 @@
       "name": "Sensitive pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 1m x 6cm"
+  "description": "Medisch hulpmiddel - 1m x 6cm",
+  "image": "/medias/sys_master/prd-images/h10/hf3/32901759598622/prd-front-16436-1_600x600/prd-front-16436-1-600x600.jpg"
 }

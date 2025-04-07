@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6206 > 6224 > 6295",
   "supplier": "NUTRILO GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1050661",
-  "mmkId": "1050661",
-  "productGroupId": "467048",
+  "onPromo": "1050955",
+  "mmkId": "1050955",
+  "productGroupId": "464368",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-ijzer-vitamine-c-bruistabletten/p/569282",
@@ -37,5 +37,6 @@
       "name": "Vitamine C"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hc5/hb2/33145984548894/prd-front-569282-1_600x600/prd-front-569282-1-600x600.jpg"
 }

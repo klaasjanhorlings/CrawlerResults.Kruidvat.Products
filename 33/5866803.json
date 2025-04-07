@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6323 > 6674",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1050615",
-  "mmkId": "1050615",
-  "productGroupId": "465415",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/everclaw-leo-love-invisibobble/p/5866803",
@@ -33,5 +33,6 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/hb7/28758910140446/prd-front-5866803-1_600x600/prd-front-5866803-1-600x600.jpg"
 }

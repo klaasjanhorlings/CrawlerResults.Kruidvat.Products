@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "DDDDD Keukenset",
+  "code": "6261288",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 5798 > 5797 > 5926 > 6020 > 6048",
+  "supplier": "DUTCH HOME COMPANY",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ddddd-keukenset/p/6261288",
+  "listName": "Lister",
+  "brand": "Ddddd",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 80863211,
+      "name": "Bakspullen"
+    }
+  ],
+  "description": "groen, 3 stuks",
+  "image": "/medias/sys_master/prd-images/h6a/h70/33335141040158/prd-front-6261288-1_600x600/prd-front-6261288-1-600x600.jpg"
+}

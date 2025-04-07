@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Xelly Beauty Pearly Pink Cream Highlighter Stick",
+  "code": "6141182",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "BRANSUS COSM ULTIMATCH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/xelly-beauty-pearly-pink-cream-highlighter-stick/p/6141182",
+  "listName": "Lister",
+  "brand": "XELLY BEAUTY",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266589,
+      "name": "Highlighter"
+    }
+  ],
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/hb5/h18/31843030958110/prd-front-6141182-1_600x600/prd-front-6141182-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1050580",
-  "mmkId": "1050580",
-  "productGroupId": "459969",
+  "onPromo": "1051000",
+  "mmkId": "1051000",
+  "productGroupId": "468854",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-micellair-reinigingswater-met-rozenwater/p/5081546",
@@ -37,5 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml - Gevoelige huid"
+  "description": "400ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h73/hd3/30141257908254/prd-front-5081546-1_600x600/prd-front-5081546-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1050579",
-  "mmkId": "1050579",
-  "productGroupId": "459921",
+  "onPromo": "1050950",
+  "mmkId": "1050950",
+  "productGroupId": "461212",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-lumi-le-glow-635-golden-couture-highlighter-stick/p/6235591",
@@ -33,5 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha1/hf9/33607125008414/prd-front-6235591-1_600x600/prd-front-6235591-1-600x600.jpg"
 }

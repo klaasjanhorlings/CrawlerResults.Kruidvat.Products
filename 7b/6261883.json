@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051033",
+  "mmkId": "1051033",
+  "productGroupId": "470400",
   "brandType": "A of B merk",
   "discount": "€ 45,00",
   "url": "/gillette-venus-pro-smooth-sensitive-navulmesjes/p/6261883",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "14 stuks",
-  "image": "/medias/sys_master/prd-images/h44/hce/33869012992030/prd-front-6261883-1_600x600/prd-front-6261883-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h30/h83/33884130508830/prd-front-6261883-1_600x600/prd-front-6261883-1-600x600.jpg"
 }

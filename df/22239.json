@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3060 > 3908",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "1050527",
-  "mmkId": "1050527",
-  "productGroupId": "454530",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/libresse-maxi-goodnight-wing-maandverband/p/22239",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/h22/hd5/27454842339358/prd-front-22239-1_600x600/prd-front-22239-1-600x600.jpg"
+  "description": "10 stuks"
 }

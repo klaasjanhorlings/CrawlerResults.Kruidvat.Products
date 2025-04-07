@@ -8,9 +8,9 @@
   "itemBgbcat": "2153 > 2632 > 5929 > 6014 > 6421 > 6446",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "1050814",
-  "mmkId": "1050814",
-  "productGroupId": "466594",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-autoladerset/p/6153089",
@@ -33,5 +33,6 @@
       "name": "Telefoonkabeltjes"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha3/h95/33408976683038/prd-front-6153089-1_600x600/prd-front-6153089-1-600x600.jpg"
 }

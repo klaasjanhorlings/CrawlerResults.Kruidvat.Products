@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hello Kitty Gevulde Etui",
+  "code": "6182895",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
+  "supplier": "SPEELGOEDLAND",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hello-kitty-gevulde-etui/p/6182895",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266030,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h62/hfe/33701865521182/prd-front-6182895-1_600x600/prd-front-6182895-1-600x600.jpg"
+}

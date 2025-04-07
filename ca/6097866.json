@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "1050884",
-  "mmkId": "1050884",
-  "productGroupId": "461095",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-wonderlast-008-galactic-green-shadow-stick/p/6097866",
@@ -37,5 +37,6 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": "1,6g"
+  "description": "1,6g",
+  "image": "/medias/sys_master/prd-images/h40/hbc/31784309260318/prd-front-6097866-1_600x600/prd-front-6097866-1-600x600.jpg"
 }

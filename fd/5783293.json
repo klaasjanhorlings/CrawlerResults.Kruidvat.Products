@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1050579",
-  "mmkId": "1050579",
-  "productGroupId": "459921",
+  "onPromo": "1050950",
+  "mmkId": "1050950",
+  "productGroupId": "461212",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-brow-12h-30-brunette-definer-pencil/p/5783293",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/prd-front-5783293-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzE0ODR8aW1hZ2UvanBlZ3xhREUyTDJnNE5DOHlOamMzTVRjeU1EWXdNVFl6TUM5d2NtUXRabkp2Ym5RdE5UYzRNekk1TXkweFh6WXdNSGcyTURBfDk5MWExZTZkNWZlZjI2MDY1NGVkZDA4ZTI5N2RmOTIwNGJlZDMwNmQ0ZDc3NDBiNDE0ODJjNDdjOGE1ZjczOGI"
 }

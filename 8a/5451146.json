@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3659",
   "supplier": "JOHNSON & JOHNSON CONS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1050930",
+  "mmkId": "1050930",
+  "productGroupId": "456165",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ob-extraprotect-normal-tampons/p/5451146",
@@ -33,5 +33,6 @@
       "name": "Tampons"
     }
   ],
-  "description": "16 stuks"
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/hfa/h21/32019094208542/prd-front-5451146-1_600x600/prd-front-5451146-1-600x600.jpg"
 }

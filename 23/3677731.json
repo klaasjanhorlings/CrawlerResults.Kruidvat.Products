@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Familiezwembadovertrek XL",
+  "code": "3677731",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6023 > 4830 > 4845 > 4856 > 4867",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/familiezwembadovertrek-xl/p/3677731",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30266838,
+      "name": "Zwembaden en opblaasfiguren"
+    }
+  ],
+  "description": "blauw, 295cm x 220cm",
+  "image": "/medias/sys_master/prd-images/h06/h57/30585789415454/prd-front-3677731-1_600x600/prd-front-3677731-1-600x600.jpg"
+}

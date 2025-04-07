@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "1050527",
-  "mmkId": "1050527",
-  "productGroupId": "454530",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/libresse-micro-inlegkruisjes/p/87355",
@@ -33,6 +33,5 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "22 stuks",
-  "image": "/medias/sys_master/prd-images/h83/h37/33390400700446/prd-front-87355-1_600x600/prd-front-87355-1-600x600.jpg"
+  "description": "22 stuks"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1050661",
-  "mmkId": "1050661",
-  "productGroupId": "467048",
+  "onPromo": "1050955",
+  "mmkId": "1050955",
+  "productGroupId": "464368",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-multi-a-z-tuttifrutti-kauwtabletten-voor-kinderen/p/857711",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hc7/h5e/33118708498462/prd-front-857711-1_600x600/prd-front-857711-1-600x600.jpg"
 }
