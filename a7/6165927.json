@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tristar PD3853 Keramische Bureaukachel",
+  "code": "6165927",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 5929 > 6019 > 6686 > 6687 > 6688",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tristar-pd3853-keramische-bureaukachel/p/6165927",
+  "listName": "Lister",
+  "brand": "Tristar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 51235484,
+      "name": "Kachels"
+    }
+  ],
+  "description": ""
+}

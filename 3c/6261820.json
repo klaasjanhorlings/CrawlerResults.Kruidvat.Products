@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips 5000 Series BRR484/00 Facial Hair Remover",
+  "code": "6261820",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2399 > 5075 > 5886 > 6440",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "1051046",
+  "mmkId": "1051046",
+  "productGroupId": "471577",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-5000-series-brr484/00-facial-hair-remover/p/6261820",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266680,
+      "name": "Elektrische scheerapparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6f/hcb/33671739998238/prd-front-6261820-1_600x600/prd-front-6261820-1-600x600.jpg"
+}

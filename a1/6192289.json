@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Klassieke Horloge",
+  "code": "6192289",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2270 > 4869 > 5045 > 5046 > 5047",
+  "supplier": "GOLDEN GIFT",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-klassieke-horloge/p/6192289",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266860,
+      "name": "Sieraden en bijoux"
+    }
+  ],
+  "description": "zilverkleur",
+  "image": "/medias/sys_master/prd-images/h44/h74/32363985338398/prd-front-6192289-1_600x600/prd-front-6192289-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
-  "onPromo": "1050653",
-  "mmkId": "1050653",
-  "productGroupId": "466948",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/parodontax-active-gum-health-fresh-mint-mondwater/p/5881671",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "500ml",
-  "image": "/medias/sys_master/prd-images/h4e/h83/33878713434142/prd-front-5881671-1_600x600/prd-front-5881671-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h13/hf9/33887045812254/prd-front-5881671-1_600x600/prd-front-5881671-1-600x600.jpg"
 }

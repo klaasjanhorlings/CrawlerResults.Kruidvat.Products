@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Fit Me 05 Ivory Concealer",
+  "code": "4474247",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1050980",
+  "mmkId": "1050980",
+  "productGroupId": "466514",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-fit-me-05-ivory-concealer/p/4474247",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266578,
+      "name": "Concealer"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4474247-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzIwOTJ8aW1hZ2UvanBlZ3xhR001TDJoaU15OHhOekl5TkRRNU1qazBNVE0wTWk5d2NtUXRabkp2Ym5RdE5EUTNOREkwTnkweFh6WXdNSGcyTURBfDNjMTUyNWY0NzZlZjUzZjk5MzRhYzc2YWY3YjEwNDk4NzA2ZjVhYWJlMmVmYzU0YjRjNWNhY2RkZTUxYTZkZjQ"
+}

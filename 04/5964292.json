@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zenner Poedersponsjes",
+  "code": "5964292",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6406 > 6674",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zenner-poedersponsjes/p/5964292",
+  "listName": "Lister",
+  "brand": "Zenner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266619,
+      "name": "Make-up sponsjes"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha6/ha6/29677305954334/prd-front-5964292-1_600x600/prd-front-5964292-1-600x600.jpg"
+}

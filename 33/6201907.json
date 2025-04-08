@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Theedoeken",
+  "code": "6201907",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 5798 > 5797 > 5926 > 6020 > 6048",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/theedoeken/p/6201907",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266901,
+      "name": "Huishoudelijk textiel"
+    },
+    {
+      "id": 80863125,
+      "name": "Theedoeken"
+    }
+  ],
+  "description": "zwart, wit, oranje, 50cm x 70cm, 2 stuks",
+  "image": "/medias/sys_master/prd-images/he8/h6b/32709886345246/prd-front-6201907-1_600x600/prd-front-6201907-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050141",
+  "mmkId": "1050141",
+  "productGroupId": "479287",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sensodyne-repair-protect-cool-mint-tandpasta/p/5717335",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 4 x 75ml",
-  "image": "/medias/sys_master/prd-images/h3e/h3b/33878708453406/prd-front-5717335-1_600x600/prd-front-5717335-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h89/hc8/33887041093662/prd-front-5717335-1_600x600/prd-front-5717335-1-600x600.jpg"
 }
