@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5929 > 6019 > 2197 > 4901 > 4947 > 4993",
   "supplier": "INVENTUM HUISHOUDELIJKE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,8 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266052,
-      "name": "Huishoudelijke apparaten"
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053317,
+      "name": "Schoonmaakapparatuur"
+    },
+    {
+      "id": 75054138,
+      "name": "Strijkijzers en kledingstomers"
     }
   ],
   "description": "",

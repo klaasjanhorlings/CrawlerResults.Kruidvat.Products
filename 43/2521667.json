@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 3324 > 4227",
   "supplier": "RSDW BEHEER BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051024",
+  "mmkId": "1051024",
+  "productGroupId": "469649",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/2th-picks-onbreekbare-tandenstokers-met-unieke-borstelfunctie/p/2521667",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30266669,
-      "name": "Tandenragers"
+      "id": 30266667,
+      "name": "Tandenstokers"
     }
   ],
   "description": "2 x 60 stuks",

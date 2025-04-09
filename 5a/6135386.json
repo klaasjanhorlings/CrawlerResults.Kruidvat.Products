@@ -7,7 +7,7 @@
   "priceOriginal": "16.29",
   "itemBgbcat": "2007 > 2081 > 2239 > 2360 > 2911 > 4250",
   "supplier": "NESTLE PURINA NEDERLAND",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Diervoeding"
     }
   ],
-  "description": "24 x 85g"
+  "description": "24 x 85g",
+  "image": "/medias/sys_master/prd-images/hac/hcd/31349111980062/prd-front-6135386-1_600x600/prd-front-6135386-1-600x600.jpg"
 }

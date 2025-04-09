@@ -21,8 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266052,
-      "name": "Huishoudelijke apparaten"
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053282,
+      "name": "Keukenapparatuur"
+    },
+    {
+      "id": 75053741,
+      "name": "Broodbereiding en grills"
+    },
+    {
+      "id": 84926413,
+      "name": "Tosti-ijzers"
     }
   ],
   "description": "",

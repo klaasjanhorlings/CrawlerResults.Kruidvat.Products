@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Simple Skin Booster 3% Hyaluronzuur + Vitamine B5 Serum",
-  "code": "5934948",
-  "price": "14.99",
+  "itemName": "Simple Daily Skin Detox Clear Pore Scrub",
+  "code": "4990000",
+  "price": "9.19",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
   "onPromo": "1050935",
@@ -13,7 +13,7 @@
   "productGroupId": "458382",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/simple-skin-booster-3-hyaluronzuur-vitamine-b5-serum/p/5934948",
+  "url": "/simple-daily-skin-detox-clear-pore-scrub/p/4990000",
   "listName": "Lister",
   "brand": "Simple",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,14 @@
       "name": "Skincare"
     },
     {
-      "id": 30266605,
-      "name": "Serum"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266921,
+      "name": "Reinigingsscrub"
     }
   ],
-  "description": "30ml, droge en gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h2e/heb/28654960181278/prd-front-5934948-1_600x600/prd-front-5934948-1-600x600.jpg"
+  "description": "150ml - Vette en onzuivere huid",
+  "image": "/medias/sys_master/prd-images/h3a/hac/28803001712670/prd-front-4990000-1_600x600/prd-front-4990000-1-600x600.jpg"
 }

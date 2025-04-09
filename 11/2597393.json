@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 3940",
   "supplier": "HALEON (NOVARTIS)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Nicotinezuigtabletten"
     }
   ],
-  "description": "Geneesmiddel - 96 stuks"
+  "description": "Geneesmiddel - 96 stuks",
+  "image": "/medias/sys_master/prd-images/h0e/h58/29035251105822/prd-front-2597393-1_600x600/prd-front-2597393-1-600x600.jpg"
 }
