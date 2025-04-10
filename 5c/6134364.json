@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050959",
+  "mmkId": "1050959",
+  "productGroupId": "464954",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-expert-skin-health-nourishing-douchegel/p/6134364",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h45/h4a/33894244679710/prd-front-6134364-1_600x600/prd-front-6134364-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h68/h3b/33905375445022/prd-front-6134364-1_600x600/prd-front-6134364-1-600x600.jpg"
 }

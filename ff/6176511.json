@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2048 > 2225 > 4869 > 6652 > 6653 > 6654",
   "supplier": "TRENDSOURCE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Telefoonhoesjes"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h30/h3d/32551339327518/prd-front-6176511-1_600x600/prd-front-6176511-1-600x600.jpg"
+  "description": ""
 }
