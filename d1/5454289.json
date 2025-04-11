@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "A.Vogel Oorsmeer Oordruppels",
+  "itemName": "A.Vogel Oorhygiëne Oordruppels",
   "code": "5454289",
   "price": "10.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/avogel-oorsmeer-oordruppels/p/5454289",
+  "url": "/avogel-oorhygiene-oordruppels/p/5454289",
   "listName": "Lister",
   "brand": "A.Vogel",
   "mpOrigin": "Kruidvat",
@@ -29,12 +29,8 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266700,
-      "name": "Oor en mond"
-    },
-    {
-      "id": 49949611,
-      "name": "Oordruppels"
+      "id": 30266712,
+      "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
   "description": "20ml",

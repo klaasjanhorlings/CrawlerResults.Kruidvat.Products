@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yari Gluta-Lemon Showergel",
+  "code": "6283310",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/yari-gluta-lemon-showergel/p/6283310",
+  "listName": "Lister",
+  "brand": "Yari",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "300ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

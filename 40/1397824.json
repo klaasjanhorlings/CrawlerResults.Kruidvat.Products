@@ -6,8 +6,8 @@
   "price": "3.79",
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2751 > 3463",
-  "supplier": "TD VALUE4U",
-  "inStock": "inStock",
+  "supplier": "MARS NEDERLAND BV",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Chocolade"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/prd-front-1397824-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzUzNzh8aW1hZ2UvanBlZ3xhRGczTDJobE15OHhOekV5TlRJeE9UQTNOREEzT0M5d2NtUXRabkp2Ym5RdE1UTTVOemd5TkMweFh6WXdNSGcyTURBfDlmNTYxMDI1N2I3YjcyYWZlZDhiN2JkNzcxZmQ4NmI0MjVlYWQ1NDhjN2I0NzA0Y2NkOTgxYzBhOGI3ZmE3MzM"
+  "description": "10 stuks"
 }

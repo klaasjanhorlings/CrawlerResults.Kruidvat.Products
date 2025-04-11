@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "999 Games Great Plains",
+  "itemName": "999 Games Great Plains Bordspel",
   "code": "5893046",
   "price": "14.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/999-games-great-plains/p/5893046",
+  "url": "/999-games-great-plains-bordspel/p/5893046",
   "listName": "Lister",
   "brand": "999 Games",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h42/h0b/30809371017246/prd-front-5893046-1_600x600/prd-front-5893046-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

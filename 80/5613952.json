@@ -29,13 +29,14 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266705,
-      "name": "Luchtwegen"
+      "id": 30266700,
+      "name": "Oor en mond"
     },
     {
-      "id": 49950093,
-      "name": "Snurken"
+      "id": 30266948,
+      "name": "Oordoppen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5613952-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODU5ODF8aW1hZ2UvanBlZ3xhRFkyTDJoak1pOHhOek0wTVRReU9EazRPVGs0TWk5d2NtUXRabkp2Ym5RdE5UWXhNemsxTWkweFh6WXdNSGcyTURBfGMxYjlmOWYzMmVlYTIyMzk4NDAyNWY1NWFiMWY0MjhmOTdmNTA4OTE3NjlkYThlMzdmMjhiODVkZTQzYWNjYTQ"
 }

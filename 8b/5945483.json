@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6717 > 6719 > 6718",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050968",
+  "mmkId": "1050968",
+  "productGroupId": "465801",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ohropax-goede-nacht-oordopjes/p/5945483",
@@ -29,12 +29,12 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266705,
-      "name": "Luchtwegen"
+      "id": 30266700,
+      "name": "Oor en mond"
     },
     {
-      "id": 49950093,
-      "name": "Snurken"
+      "id": 30266948,
+      "name": "Oordoppen"
     }
   ],
   "description": "8 stuks",
