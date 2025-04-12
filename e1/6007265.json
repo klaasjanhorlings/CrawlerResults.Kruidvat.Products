@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Matt Pro Ink 100 Courage Code Liquid Lipstick",
-  "code": "5094055",
-  "price": "4.99",
+  "itemName": "Rimmel London Kind & Free 01 Lippenbalsem",
+  "code": "6007265",
+  "price": "12.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
-  "supplier": "COSNOVA GMBH (BNL)",
+  "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
-  "brandType": "Exclusief merk",
+  "brandType": "A of B merk",
   "discount": "",
-  "url": "/catrice-matt-pro-ink-100-courage-code-liquid-lipstick/p/5094055",
+  "url": "/rimmel-london-kind-free-01-lippenbalsem/p/6007265",
   "listName": "Lister",
-  "brand": "Catrice",
+  "brand": "Rimmel",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h00/hd8/29926756483102/prd-front-5094055-1_600x600/prd-front-5094055-1-600x600.jpg"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/hc4/ha7/31784268955678/prd-front-6007265-1_600x600/prd-front-6007265-1-600x600.jpg"
 }

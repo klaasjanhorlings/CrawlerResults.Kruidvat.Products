@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fietstas met Panterprint",
+  "code": "6202565",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6418",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/fietstas-met-panterprint/p/6202565",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266050,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 75054406,
+      "name": "Fietsaccessoires"
+    }
+  ],
+  "description": "35,5cm x 14,5cm x 31,5cm",
+  "image": "/medias/sys_master/prd-images/h26/h5b/32353058127902/prd-front-6202565-1_600x600/prd-front-6202565-1-600x600.jpg"
+}

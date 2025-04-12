@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 4362 > 2130 > 2499 > 3106 > 3973",
   "supplier": "MUNDIA BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050983",
+  "mmkId": "1050983",
+  "productGroupId": "466705",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-hydrofielluiers/p/5639579",
@@ -33,5 +33,6 @@
       "name": "Hydrofiele doeken"
     }
   ],
-  "description": "wit, 60cm x 60cm, 3 stuks"
+  "description": "wit, 60cm x 60cm, 3 stuks",
+  "image": "/medias/sys_master/prd-images/h67/hf9/28510693490718/prd-front-5639579-1_600x600/prd-front-5639579-1-600x600.jpg"
 }

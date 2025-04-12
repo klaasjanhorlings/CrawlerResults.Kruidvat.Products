@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Gedemineraliseerd Water",
   "code": "549549",
   "price": "0.75",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "1000ml",
-  "image": "/medias/sys_master/prd-images/hfd/h45/28795615412254/prd-front-549549-1_600x600/prd-front-549549-1-600x600.jpg"
+  "description": "1000ml"
 }

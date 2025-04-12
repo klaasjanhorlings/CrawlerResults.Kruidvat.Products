@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Finish Integrale Machinereiniger",
   "code": "5837032",
   "price": "6.49",
@@ -14,10 +14,11 @@
   "brandType": "A of B merk",
   "discount": "",
   "url": "/finish-integrale-machinereiniger/p/5837032",
-  "listName": "Laatst bekeken producten",
+  "listName": "Lister",
   "brand": "Finish",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
+  "isSponsored": "false",
   "categories": [
     {
       "id": 29536086,

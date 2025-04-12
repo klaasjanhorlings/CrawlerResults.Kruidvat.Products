@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6239",
   "supplier": "HERKEL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050955",
+  "mmkId": "1050955",
+  "productGroupId": "464368",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-kids-0-vitamine-d3-druppels-op-oliebasis/p/3932293",
@@ -33,8 +33,8 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267462,
-      "name": "Kindervitamines"
+      "id": 30266991,
+      "name": "Vitamine D"
     }
   ],
   "description": "25ml",

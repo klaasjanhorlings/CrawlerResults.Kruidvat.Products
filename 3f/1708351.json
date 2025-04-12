@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Anti-Kalkspray",
   "code": "1708351",
   "price": "1.69",
@@ -33,5 +33,6 @@
       "name": "Ontkalkmiddel"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h41/h15/32335721168926/prd-front-1708351-1_600x600/prd-front-1708351-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Air Wick Fris Linnen Starterkit Elektrische Luchtverfrisser",
   "code": "5673200",
   "price": "7.19",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "19ml"
+  "description": "19ml",
+  "image": "/medias/sys_master/prd-images/hd7/hcf/31241753395230/prd-front-5673200-1_600x600/prd-front-5673200-1-600x600.jpg"
 }

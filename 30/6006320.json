@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Max Factor Miracle Pure 050 Skin-Improving Foundation",
-  "code": "5592217",
-  "price": "19.99",
+  "itemName": "Rimmel London Lasting Finish 35hr 050 Fair Porcelain Foundation",
+  "code": "6006320",
+  "price": "18.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
-  "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "1050947",
+  "mmkId": "1050947",
+  "productGroupId": "460537",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/max-factor-miracle-pure-050-skin-improving-foundation/p/5592217",
+  "url": "/rimmel-london-lasting-finish-35hr-050-fair-porcelain-foundation/p/6006320",
   "listName": "Lister",
-  "brand": "Max Factor",
+  "brand": "Rimmel",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h82/h5e/27622159745054/prd-front-5592217-1_600x600/prd-front-5592217-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb4/hcc/29790327767070/prd-front-6006320-1_600x600/prd-front-6006320-1-600x600.jpg"
 }

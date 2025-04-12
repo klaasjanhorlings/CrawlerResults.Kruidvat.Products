@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Sanex Dermo Extra Control 48-Uur Antitranspirant Spray",
-  "code": "2768158",
-  "price": "5.39",
+  "itemName": "Rexona Men Advanced Protection Invisible Ice Antitranspirant Spray",
+  "code": "5838761",
+  "price": "5.99",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
-  "supplier": "COLGATE PALMOLIVE NLD",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 3875 > 5730",
+  "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/sanex-dermo-extra-control-48-uur-antitranspirant-spray/p/2768158",
+  "url": "/rexona-men-advanced-protection-invisible-ice-antitranspirant-spray/p/5838761",
   "listName": "Lister",
-  "brand": "Sanex",
+  "brand": "Rexona",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "200ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/ha5/hca/33905661542430/prd-front-2768158-1_600x600/prd-front-2768158-1-600x600.jpg"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h2b/h00/33926931021854/prd-front-5838761-1_600x600/prd-front-5838761-1-600x600.jpg"
 }

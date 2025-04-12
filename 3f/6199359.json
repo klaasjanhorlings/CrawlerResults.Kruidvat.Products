@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Marcel's Green Soap Perzik & Jasmijn Color Wasmiddel",
   "code": "6199359",
   "price": "29.99",
@@ -29,6 +29,5 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "3L, 69 wasbeurten",
-  "image": "/medias/sys_master/prd-images/ha2/h96/32304985571358/prd-front-6199359-1_600x600/prd-front-6199359-1-600x600.jpg"
+  "description": "3L, 69 wasbeurten"
 }

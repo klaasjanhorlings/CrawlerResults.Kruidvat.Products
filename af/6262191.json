@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Gillette Mach3 Base Scheersysteem",
-  "code": "6034845",
-  "price": "17.79",
+  "itemName": "Gillette Venus Smooth Sensitive Scheersysteem",
+  "code": "6262191",
+  "price": "14.95",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3880 > 5722",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/gillette-mach3-base-scheersysteem/p/6034845",
+  "url": "/gillette-venus-smooth-sensitive-scheersysteem/p/6262191",
   "listName": "Lister",
-  "brand": "Gillette",
+  "brand": "Gillette Venus",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": "Inclusief 3 navulmesjes",
-  "image": "/medias/sys_master/prd-images/h28/h44/33345708556318/prd-front-6034845-1_600x600/prd-front-6034845-1-600x600.jpg"
+  "description": "Inclusief 2 scheermesjes",
+  "image": "/medias/sys_master/prd-images/hab/h2c/33500986572830/prd-front-6262191-1_600x600/prd-front-6262191-1-600x600.jpg"
 }
