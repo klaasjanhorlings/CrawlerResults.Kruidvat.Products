@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lenor Amber & Orchidee Wasverzachter",
   "code": "6049748",
   "price": "9.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 12,00",
+  "discount": "€ 12,00",
   "url": "/lenor-amber-orchidee-wasverzachter/p/6049748",
   "listName": "Lister",
   "brand": "Lenor",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "2646ml, 126 wasbeurten",
-  "image": "/medias/sys_master/prd-images/hf9/h61/33935208120350/prd-front-6049748-1_600x600/prd-front-6049748-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h97/h2f/33942756950046/prd-front-6049748-1_600x600/prd-front-6049748-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lenor Fresh Air Stralende Zon Wasverzachter",
   "code": "5992852",
   "price": "3.59",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 4,40",
+  "discount": "€ 4,40",
   "url": "/lenor-fresh-air-stralende-zon-wasverzachter/p/5992852",
   "listName": "Lister",
   "brand": "Lenor",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "504ml, 36 wasbeurten",
-  "image": "/medias/sys_master/prd-images/h0c/h1a/33931041767454/prd-front-5992852-1_600x600/prd-front-5992852-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha2/hc9/33939460751390/prd-front-5992852-1_600x600/prd-front-5992852-1-600x600.jpg"
 }

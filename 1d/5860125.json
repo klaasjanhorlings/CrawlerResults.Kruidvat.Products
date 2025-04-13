@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Glorix Original Dikke Bleek",
   "code": "5860125",
   "price": "1.49",
@@ -12,7 +12,7 @@
   "mmkId": "1051005",
   "productGroupId": "469103",
   "brandType": "A of B merk",
-  "discount": "$ 0,66",
+  "discount": "€ 0,66",
   "url": "/glorix-original-dikke-bleek/p/5860125",
   "listName": "Lister",
   "brand": "Glorix",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "750ml",
-  "image": "/medias/sys_master/prd-images/h69/ha5/31944513060894/prd-front-5860125-1_600x600/prd-front-5860125-1-600x600.jpg"
+  "description": "750ml"
 }

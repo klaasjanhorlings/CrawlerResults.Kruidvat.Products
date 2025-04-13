@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Sensitive Vochtig Toiletpapier",
   "code": "2852704",
   "price": "1.19",
@@ -29,5 +29,6 @@
       "name": "Vochtig toiletpapier"
     }
   ],
-  "description": "50 stuks"
+  "description": "50 stuks",
+  "image": "/medias/prd-front-2852704-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODM3Nzh8aW1hZ2UvanBlZ3xhR1kyTDJneU5pOHlOamM0TWpZNU5UUTFOamM1T0M5d2NtUXRabkp2Ym5RdE1qZzFNamN3TkMweFh6WXdNSGcyTURBfDQ3MThhMmIwMzFmMzRiM2ExNWI3ZWRjYTE0ODNlM2Y2MTkwZmVjYmU3ZmM0NzI4ODU0MTYxMmE2MTFlMmViZDA"
 }

@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rimmel London Lasting Finish 01 My Gorge Red Lippenstift",
-  "code": "2301279",
-  "price": "12.99",
+  "itemName": "Catrice Matt Pro Ink 100 Courage Code Liquid Lipstick",
+  "code": "5094055",
+  "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
-  "supplier": "COTY NETHERLANDS BV CB",
+  "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/rimmel-london-lasting-finish-01-my-gorge-red-lippenstift/p/2301279",
+  "url": "/catrice-matt-pro-ink-100-courage-code-liquid-lipstick/p/5094055",
   "listName": "Lister",
-  "brand": "Rimmel",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h71/h34/31783384350750/prd-front-2301279-1_600x600/prd-front-2301279-1-600x600.jpg"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h00/hd8/29926756483102/prd-front-5094055-1_600x600/prd-front-5094055-1-600x600.jpg"
 }
