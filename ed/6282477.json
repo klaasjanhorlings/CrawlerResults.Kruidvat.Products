@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Weleda Aroma Spa Geschenkset",
+  "code": "6282477",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
+  "supplier": "WELEDA BENELUX SE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/weleda-aroma-spa-geschenkset/p/6282477",
+  "listName": "Lister",
+  "brand": "Weleda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72656138,
+      "name": "Geschenksets voor haar"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h23/h4d/33541250449438/prd-front-6282477-1_600x600/prd-front-6282477-1-600x600.jpg"
+}

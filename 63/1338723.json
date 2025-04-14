@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "DALLI - WERKE GMBH & CO",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051148",
+  "mmkId": "1051148",
+  "productGroupId": "456949",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-solait-spf30-sunmilk/p/1338723",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hed/h0e/29795041214494/prd-front-1338723-1_600x600/prd-front-1338723-1-600x600.jpg"
 }

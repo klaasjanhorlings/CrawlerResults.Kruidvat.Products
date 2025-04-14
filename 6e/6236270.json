@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1050941",
-  "mmkId": "1050941",
-  "productGroupId": "459861",
+  "onPromo": "1051214",
+  "mmkId": "1051214",
+  "productGroupId": "467309",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-hold-5-max-hold-haarspray/p/6236270",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h31/h12/33850134921246/prd-front-6236270-1_600x600/prd-front-6236270-1-600x600.jpg"
 }

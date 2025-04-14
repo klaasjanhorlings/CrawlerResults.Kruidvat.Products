@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Make Me Brow 05 Chocolaty Brows Eyebrow Gel Mascara",
+  "code": "5067763",
+  "price": "2.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-make-me-brow-05-chocolaty-brows-eyebrow-gel-mascara/p/5067763",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266592,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30266906,
+      "name": "Wenkbrauwmascara"
+    }
+  ],
+  "description": "3,8ml",
+  "image": "/medias/sys_master/prd-images/h69/hbd/30124132073502/prd-front-5067763-1_600x600/prd-front-5067763-1-600x600.jpg"
+}

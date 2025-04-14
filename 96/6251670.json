@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Damespyjamabroek met Bloemenprint",
+  "code": "6251670",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2495 > 3061 > 3791 > 5795 > 5928 > 6716",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/damespyjamabroek-met-bloemenprint/p/6251670",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266843,
+      "name": "Damespyjama's"
+    }
+  ],
+  "description": "mt M",
+  "image": "/medias/sys_master/prd-images/h8e/he9/33332613185566/prd-front-6251670-1_600x600/prd-front-6251670-1-600x600.jpg"
+}

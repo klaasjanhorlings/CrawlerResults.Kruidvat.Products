@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "SOLUTION EU BV",
   "inStock": "inStock",
-  "onPromo": "1050982",
-  "mmkId": "1050982",
-  "productGroupId": "466704",
+  "onPromo": "1051320",
+  "mmkId": "1051320",
+  "productGroupId": "478678",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-6m-drinkbeker-met-rietje/p/5092102",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "blauw, 300ml"
+  "description": "blauw, 300ml",
+  "image": "/medias/sys_master/prd-images/h4b/had/27404155584542/prd-front-5092102-1_600x600/prd-front-5092102-1-600x600.jpg"
 }

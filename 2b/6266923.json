@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Minecraft Strandlaken",
+  "code": "6266923",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 5799 > 5802 > 5926 > 6020 > 6049",
+  "supplier": "VESPO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/minecraft-strandlaken/p/6266923",
+  "listName": "Lister",
+  "brand": "Minecraft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266050,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30266876,
+      "name": "Reisartikelen"
+    },
+    {
+      "id": 80864374,
+      "name": "Strandlakens"
+    }
+  ],
+  "description": "140cm x 200cm",
+  "image": "/medias/sys_master/prd-images/had/h84/33410237202462/prd-front-6266923-1_600x600/prd-front-6266923-1-600x600.jpg"
+}

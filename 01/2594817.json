@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1050957",
-  "mmkId": "1050957",
-  "productGroupId": "464953",
+  "onPromo": "1051175",
+  "mmkId": "1051175",
+  "productGroupId": "464956",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/palmolive-naturals-amandelmelk-douchecreme/p/2594817",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml - Normale huid"
+  "description": "250ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hf8/hb6/33907052707870/prd-front-2594817-1_600x600/prd-front-2594817-1-600x600.jpg"
 }

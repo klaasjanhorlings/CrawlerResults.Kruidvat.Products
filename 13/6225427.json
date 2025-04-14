@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1051017",
-  "mmkId": "1051017",
-  "productGroupId": "469462",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-friends-42644-heartlake-city-ijscotruck/p/6225427",
@@ -33,6 +33,5 @@
       "name": "LEGO Friends"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hf7/h6f/33144405852190/prd-front-6225427-1_600x600/prd-front-6225427-1-600x600.jpg"
+  "description": ""
 }

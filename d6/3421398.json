@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3755",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051271",
+  "mmkId": "1051271",
+  "productGroupId": "475927",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tampax-compak-pearl-regular-tampons-met-inbrenghuls/p/3421398",
@@ -33,6 +33,5 @@
       "name": "Tampons"
     }
   ],
-  "description": "18 stuks",
-  "image": "/medias/sys_master/prd-images/h60/h44/33936608952350/prd-front-3421398-1_600x600/prd-front-3421398-1-600x600.jpg"
+  "description": "18 stuks"
 }

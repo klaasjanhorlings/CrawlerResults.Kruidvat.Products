@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1050950",
-  "mmkId": "1050950",
-  "productGroupId": "461212",
+  "onPromo": "1051264",
+  "mmkId": "1051264",
+  "productGroupId": "475830",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-matte-ink-165-successful-lipstick/p/5058929",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "26g"
+  "description": "26g",
+  "image": "/medias/sys_master/prd-images/h4c/h53/29032655945758/prd-front-5058929-1_600x600/prd-front-5058929-1-600x600.jpg"
 }

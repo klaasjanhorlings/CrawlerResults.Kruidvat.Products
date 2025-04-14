@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1051022",
-  "mmkId": "1051022",
-  "productGroupId": "469643",
+  "onPromo": "1051325",
+  "mmkId": "1051325",
+  "productGroupId": "479173",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-professional-glazuurversterking-zachte-munt-tandpasta/p/6239182",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h25/h96/33461736243230/prd-front-6239182-1_600x600/prd-front-6239182-1-600x600.jpg"
 }

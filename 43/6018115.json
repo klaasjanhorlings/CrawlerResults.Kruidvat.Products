@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 3875 > 5730",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1050922",
-  "mmkId": "1050922",
-  "productGroupId": "454597",
+  "onPromo": "1051168",
+  "mmkId": "1051168",
+  "productGroupId": "464031",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-jungle-fresh-deodorant-bodyspray/p/6018115",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h5d/hfe/33200190095390/prd-front-6018115-1_600x600/prd-front-6018115-1-600x600.jpg"
 }

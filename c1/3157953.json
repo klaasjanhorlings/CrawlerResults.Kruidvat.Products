@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 3063 > 4145",
   "supplier": "RB HYGIENE HOME NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051232",
+  "mmkId": "1051232",
+  "productGroupId": "469050",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/air-wick-pure-lentedauw-luchtverfrisser-spray/p/3157953",
@@ -29,6 +29,5 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hee/h2b/31242044047390/prd-front-3157953-1_600x600/prd-front-3157953-1-600x600.jpg"
+  "description": "250ml"
 }

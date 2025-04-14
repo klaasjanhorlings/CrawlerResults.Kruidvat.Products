@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ella's Kitchen Organic The Party Pack",
+  "code": "6271284",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2320 > 4340 > 4339",
+  "supplier": "CAMPS FOOD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ellas-kitchen-organic-the-party-pack/p/6271284",
+  "listName": "Lister",
+  "brand": "Ella's Kitchen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266774,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9a/ha9/33773759627294/prd-front-6271284-1_600x600/prd-front-6271284-1-600x600.jpg"
+}

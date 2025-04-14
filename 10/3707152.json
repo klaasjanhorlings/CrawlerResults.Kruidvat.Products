@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5729 > 3874",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "inStock",
-  "onPromo": "1051101",
-  "mmkId": "1051101",
-  "productGroupId": "464955",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-men-dermo-sensitive-24-uur-antitranspirant-roller/p/3707152",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml - Gevoelige huid"
+  "description": "50ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hc1/h90/31996535013406/prd-front-3707152-1_600x600/prd-front-3707152-1-600x600.jpg"
 }

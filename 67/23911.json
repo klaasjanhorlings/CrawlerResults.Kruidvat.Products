@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3052 > 3901",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051287",
+  "mmkId": "1051287",
+  "productGroupId": "477284",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aquafresh-freshmint-frisse-adem-mondspray/p/23911",
@@ -33,5 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h11/hf6/32235923439646/prd-front-23911-1_600x600/prd-front-23911-1-600x600.jpg"
 }

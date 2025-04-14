@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1050943",
-  "mmkId": "1050943",
-  "productGroupId": "460027",
+  "onPromo": "1051240",
+  "mmkId": "1051240",
+  "productGroupId": "471185",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-protect-bronze-spf20-zonnemelk/p/1854210",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h4c/h0d/33551224209438/prd-front-1854210-1_600x600/prd-front-1854210-1-600x600.jpg"
+  "description": "200ml"
 }

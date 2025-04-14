@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Muis in het Huis Spel",
+  "code": "6140867",
+  "price": "9.99",
+  "priceOriginal": "19.99",
+  "itemBgbcat": "2181 > 5921 > 6018 > 6741 > 6740 > 6739",
+  "supplier": "IDENTITY GAMES INT. BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/muis-in-het-huis-spel/p/6140867",
+  "listName": "Lister",
+  "brand": "Identity Games",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hae/h35/32373423931422/prd-front-6140867-1_600x600/prd-front-6140867-1-600x600.jpg"
+}

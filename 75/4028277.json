@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1050970",
-  "mmkId": "1050970",
-  "productGroupId": "466006",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-intensive-aloe-vera-handcreme/p/4028277",
@@ -33,5 +33,6 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h8c/hb7/32403450658846/prd-front-4028277-1_600x600/prd-front-4028277-1-600x600.jpg"
 }

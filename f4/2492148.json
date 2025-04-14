@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1051061",
-  "mmkId": "1051061",
-  "productGroupId": "479455",
+  "onPromo": "1051216",
+  "mmkId": "1051216",
+  "productGroupId": "467393",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-baby-slaap-zacht-lavendel-bad-wasgel/p/2492148",
@@ -37,5 +37,6 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h95/hd4/28370900975646/prd-front-2492148-1_600x600/prd-front-2492148-1-600x600.jpg"
 }

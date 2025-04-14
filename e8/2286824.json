@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Body & Earth Geschenkverpakking",
+  "code": "2286824",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/body-earth-geschenkverpakking/p/2286824",
+  "listName": "Lister",
+  "brand": "Body & Earth",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72656138,
+      "name": "Geschenksets voor haar"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-2286824-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzA5MzF8aW1hZ2UvanBlZ3xhR0UxTDJnM1pDODRPVGt3TnpRNE9ETTFPRGN3TDNCeVpDMW1jbTl1ZEMweU1qZzJPREkwTFRGZk5qQXdlRFl3TUF8MWVhMGMxMmU5ZmExNjgyYjFiNDc2ZDRkMzA1MjBmYzE1YjQzNWNlNjMzM2Y5MjBiODE0YzdlZjI1YTQ0Y2UwMA"
+}
