@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Men Q10 Active Day Cream",
+  "code": "3238278",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-men-q10-active-day-cream/p/3238278",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-3238278-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODM2NTd8aW1hZ2UvanBlZ3xhRE00TDJoaE1pOHlOamc0TnpjNU5qYzFNalF4TkM5d2NtUXRabkp2Ym5RdE16SXpPREkzT0MweFh6WXdNSGcyTURBfDI1MjA2YjAyZTFlNTRhOTFmMjUwMTRmODgyMjk4MWJjN2UxYWZkZTlkMzY2MTk5MGM5N2I3ZDU0M2Y0ZjdlNjI"
+}

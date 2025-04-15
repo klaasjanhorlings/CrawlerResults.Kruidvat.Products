@@ -15,7 +15,7 @@
   "discount": "",
   "url": "/nivea-cellular-luminous630-oogcontourcreme/p/5540767",
   "listName": "Lister",
-  "brand": "Nivea",
+  "brand": "Nivea Skincare",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml - Alle huidtypen"
+  "description": "15ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h09/hf2/32901487362078/prd-front-5540767-1_600x600/prd-front-5540767-1-600x600.jpg"
 }

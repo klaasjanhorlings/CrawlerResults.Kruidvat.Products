@@ -15,7 +15,7 @@
   "discount": "",
   "url": "/nivea-sun-spf6-carotene-zonnemelk/p/2459402",
   "listName": "Lister",
-  "brand": "Nivea",
+  "brand": "Nivea Sun",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h55/h69/33161715580958/prd-front-2459402-1_600x600/prd-front-2459402-1-600x600.jpg"
 }

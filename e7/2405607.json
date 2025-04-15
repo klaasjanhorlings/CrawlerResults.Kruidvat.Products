@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051167",
+  "mmkId": "1051167",
+  "productGroupId": "464028",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-go-fresh-pomegranate-deodorant-roller/p/2405607",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h8a/h27/33945914933278/prd-front-2405607-1_600x600/prd-front-2405607-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h82/hdb/33952734609438/prd-front-2405607-1_600x600/prd-front-2405607-1-600x600.jpg"
 }

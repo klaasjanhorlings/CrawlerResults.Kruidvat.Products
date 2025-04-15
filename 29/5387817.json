@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Cooling Aloë Vera Watermunt Voetbadkristallen",
+  "code": "5387817",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2914 > 3708",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1051172",
+  "mmkId": "1051172",
+  "productGroupId": "464179",
+  "brandType": "A or B brand",
+  "discount": "",
+  "url": "/kneipp-cooling-aloe-vera-watermunt-voetbadkristallen/p/5387817",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 49314200,
+      "name": "Voetbad"
+    }
+  ],
+  "description": "600g",
+  "image": "/medias/prd-front-5387817-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ5NjF8aW1hZ2UvanBlZ3xhRFE0TDJnMVl5OHhOakUyTURBeE1ETXpPRE16TkM5d2NtUXRabkp2Ym5RdE5UTTROemd4TnkweFh6WXdNSGcyTURBfDRiZDBlZDYzNDY2YmFiMmY3NmU4YTY4YTFmM2FiZjg1NjUzMmYyOGFlZGViM2M2Y2Q0MTA1OTNlOGQ1ZGVmMjc"
+}

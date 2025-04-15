@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Originals For Men Scheerkwast",
+  "code": "759697",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 3144 > 4011",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-originals-for-men-scheerkwast/p/759697",
+  "listName": "Lister",
+  "brand": "Kruidvat Originals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266681,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6f/hac/27506536906782/prd-front-759697-1_600x600/prd-front-759697-1-600x600.jpg"
+}
