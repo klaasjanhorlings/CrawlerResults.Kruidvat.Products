@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Calvin Klein CK One Geschenkset",
+  "code": "6271235",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4113 > 5861 > 5864 > 6705 > 6706",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/calvin-klein-ck-one-geschenkset/p/6271235",
+  "listName": "Lister",
+  "brand": "Calvin Klein",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72656138,
+      "name": "Geschenksets voor haar"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1f/had/33503962955806/prd-front-6271235-1_600x600/prd-front-6271235-1-600x600.jpg"
+}

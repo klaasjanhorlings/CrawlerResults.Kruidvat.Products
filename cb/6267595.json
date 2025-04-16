@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051267",
+  "mmkId": "1051267",
+  "productGroupId": "475889",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-ultra-day-normal-maandverband/p/6267595",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "mt 1, 34 stuks",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "mt 1, 34 stuks"
 }

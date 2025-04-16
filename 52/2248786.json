@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "HALEON (NOVARTIS)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1050828",
+  "mmkId": "1050828",
+  "productGroupId": "473402",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/centrum-family-multivitaminen-tabletten/p/2248786",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "180 stuks"
+  "description": "180 stuks",
+  "image": "/medias/sys_master/prd-images/hc5/h3b/33005067436062/prd-front-2248786-1_600x600/prd-front-2248786-1-600x600.jpg"
 }

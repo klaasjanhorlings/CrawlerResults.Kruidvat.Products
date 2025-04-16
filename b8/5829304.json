@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Le Petit Marseillais Framboos & Pioenroos Douchecrème",
+  "code": "5829304",
+  "price": "1.0",
+  "priceOriginal": "2.69",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
+  "supplier": "JOHNSON & JOHNSON CONS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,69",
+  "url": "/le-petit-marseillais-framboos-pioenroos-douchecreme/p/5829304",
+  "listName": "Lister",
+  "brand": "Le Petit Marseillais",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h0e/h2c/28191601524766/prd-front-5829304-1_600x600/prd-front-5829304-1-600x600.jpg"
+}

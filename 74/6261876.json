@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Series 5 BT5520 Baardtrimmer",
+  "code": "6261876",
+  "price": "69.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6442 > 6672 > 6673",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-series-5-bt5520-baardtrimmer/p/6261876",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266686,
+      "name": "Baardtrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb2/h7d/33500287631390/prd-front-6261876-1_600x600/prd-front-6261876-1-600x600.jpg"
+}

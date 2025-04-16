@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Mousseline 2-Persoons Dekbedovertrek",
+  "code": "6023953",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2453 > 2738 > 3440 > 5926 > 6020",
+  "supplier": "VESPO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-mousseline-2-persoons-dekbedovertrek/p/6023953",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 65815325,
+      "name": "Dekbedovertrekken"
+    }
+  ],
+  "description": "240cm x 220cm"
+}

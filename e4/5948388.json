@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Shower Favourites Geschenkset",
+  "code": "5948388",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A or B brand",
+  "discount": "",
+  "url": "/kneipp-shower-favourites-geschenkset/p/5948388",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72656138,
+      "name": "Geschenksets voor haar"
+    }
+  ],
+  "description": ""
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Violet & Sandalwood Autoparfum",
+  "code": "6111425",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 5926 > 5962 > 5979 > 5996 > 6679",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "1051327",
+  "mmkId": "1051327",
+  "productGroupId": "479331",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-violet-sandalwood-autoparfum/p/6111425",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266050,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30266898,
+      "name": "Auto-onderhoud"
+    },
+    {
+      "id": 80864085,
+      "name": "Autoparfum"
+    }
+  ],
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

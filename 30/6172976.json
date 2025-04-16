@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tupperware Essentials Eco Bottle",
+  "code": "6172976",
+  "price": "12.99",
+  "priceOriginal": "14.99",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "TUPPERWARE PRODUCTS AG",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 2,00",
+  "url": "/tupperware-essentials-eco-bottle/p/6172976",
+  "listName": "Lister",
+  "brand": "Tupperware®",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 62664562,
+      "name": "Tupperware"
+    }
+  ],
+  "description": "1L",
+  "image": "/medias/sys_master/prd-images/h0c/h5c/33047223336990/prd-front-6172976-1_600x600/prd-front-6172976-1-600x600.jpg"
+}

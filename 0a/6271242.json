@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tommy Hilfiger Tommy Girl Geschenkset",
+  "code": "6271242",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4113 > 5861 > 5864 > 6705 > 6706",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tommy-hilfiger-tommy-girl-geschenkset/p/6271242",
+  "listName": "Lister",
+  "brand": "Tommy Hilfiger",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72656138,
+      "name": "Geschenksets voor haar"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h74/h57/33506823405598/prd-front-6271242-1_600x600/prd-front-6271242-1-600x600.jpg"
+}

@@ -21,17 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536080,
+      "name": "Baby"
     },
     {
-      "id": 30265989,
-      "name": "Geschenksets"
+      "id": 30266016,
+      "name": "Babyverzorging"
     },
     {
-      "id": 72666497,
-      "name": "Geschenksets voor kinderen"
+      "id": 30266777,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267021,
+      "name": "Babywasgel"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hef/hfa/31735492673566/prd-front-6122800-1_600x600/prd-front-6122800-1-600x600.jpg"
 }
