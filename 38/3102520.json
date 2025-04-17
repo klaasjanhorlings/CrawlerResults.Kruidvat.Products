@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Maybelline New York Superstay 115 Lumi Matte Foundation",
-  "code": "6241975",
-  "price": "19.99",
+  "itemName": "Maybelline New York Eye Studio Hyper Precise All Day Liner 001 Forest Brown Eyeliner",
+  "code": "3102520",
+  "price": "11.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
   "onPromo": "1051264",
@@ -13,7 +13,7 @@
   "productGroupId": "475830",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/maybelline-new-york-superstay-115-lumi-matte-foundation/p/6241975",
+  "url": "/maybelline-new-york-eye-studio-hyper-precise-all-day-liner-001-forest-brown-eyeliner/p/3102520",
   "listName": "Lister",
   "brand": "Maybelline",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266577,
-      "name": "Foundation"
+      "id": 30266585,
+      "name": "Oogpotlood"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hec/h98/33604972544030/prd-front-6241975-1_600x600/prd-front-6241975-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h97/h92/33513248817182/prd-front-3102520-1_600x600/prd-front-3102520-1-600x600.jpg"
 }

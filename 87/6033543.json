@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Fleuril Renew Color Caps",
   "code": "6033543",
   "price": "8.99",
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
   "supplier": "HENKEL NEDERLAND BV U-W",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "15 stuks"
+  "description": "15 stuks",
+  "image": "/medias/sys_master/prd-images/h46/h6b/33968202612766/prd-front-6033543-1_600x600/prd-front-6033543-1-600x600.jpg"
 }

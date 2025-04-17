@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lenor Zeebries Wasverzachter",
   "code": "6040662",
   "price": "5.49",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,50",
+  "discount": "$ 4,50",
   "url": "/lenor-zeebries-wasverzachter/p/6040662",
   "listName": "Lister",
   "brand": "Lenor",

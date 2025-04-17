@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Max Factor Masterpiece Divine 003 Brow Lamination Gel",
-  "code": "6098867",
-  "price": "17.99",
+  "itemName": "Max Factor 2000 Calorie Lip Glaze 050 Guave Flair Lipgloss",
+  "code": "6006530",
+  "price": "12.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
   "onPromo": "1051253",
@@ -13,7 +13,7 @@
   "productGroupId": "474633",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/max-factor-masterpiece-divine-003-brow-lamination-gel/p/6098867",
+  "url": "/max-factor-2000-calorie-lip-glaze-050-guave-flair-lipgloss/p/6006530",
   "listName": "Lister",
   "brand": "Max Factor",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266592,
-      "name": "Wenkbrauw make-up"
-    },
-    {
-      "id": 30266905,
-      "name": "Wenkbrauwgel"
+      "id": 30266583,
+      "name": "Lipgloss"
     }
   ],
-  "description": "7ml",
-  "image": "/medias/sys_master/prd-images/hec/hb3/31159930880030/prd-front-6098867-1_600x600/prd-front-6098867-1-600x600.jpg"
+  "description": "4,4ml",
+  "image": "/medias/sys_master/prd-images/h1b/hb0/30977720778782/prd-front-6006530-1_600x600/prd-front-6006530-1-600x600.jpg"
 }

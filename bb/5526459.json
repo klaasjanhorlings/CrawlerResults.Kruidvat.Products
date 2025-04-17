@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Robijn Klein & Krachtig Paradise Secret Vloeibaar Wasmiddel",
   "code": "5526459",
   "price": "5.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 10,86",
+  "discount": "$ 10,86",
   "url": "/robijn-klein-krachtig-paradise-secret-vloeibaar-wasmiddel/p/5526459",
   "listName": "Lister",
   "brand": "Robijn",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "665ml, 19 wasbeurten",
-  "image": "/medias/sys_master/prd-images/hb8/h53/33960441806878/prd-front-5526459-1_600x600/prd-front-5526459-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h59/ha9/33973006368798/prd-front-5526459-1_600x600/prd-front-5526459-1-600x600.jpg"
 }

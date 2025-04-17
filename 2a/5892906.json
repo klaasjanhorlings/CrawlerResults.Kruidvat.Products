@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Technic 42161 Lamborghini Huracán Tecnica",
+  "code": "5892906",
+  "price": "49.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-technic-42161-lamborghini-huracan-tecnica/p/5892906",
+  "listName": "Lister",
+  "brand": "LEGO Technic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266824,
+      "name": "LEGO Technic"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h07/hfc/28071948222494/prd-front-5892906-1_600x600/prd-front-5892906-1-600x600.jpg"
+}

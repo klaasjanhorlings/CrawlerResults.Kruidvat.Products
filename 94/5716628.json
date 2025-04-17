@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
   "supplier": "LANSINOH LABORATORIES",
-  "inStock": "inStock",
-  "onPromo": "1051320",
-  "mmkId": "1051320",
-  "productGroupId": "478678",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lansinoh-natural-wave-medium-flesspeen/p/5716628",
@@ -33,5 +33,6 @@
       "name": "Flessenspenen"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/prd-front-5716628-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjYyMTB8aW1hZ2UvanBlZ3xhRFF3TDJobU5pOHhOamd4TkRRMk9UVTNPRGM0TWk5d2NtUXRabkp2Ym5RdE5UY3hOall5T0MweFh6WXdNSGcyTURBfGMxOTgwZWJjZjgwYzMzY2JmYzhkZDViMGJjOGViYmZmYmJlODczZTk2M2MwMTdhM2MwNWMwMjMyNmRmYWY1NDc"
 }

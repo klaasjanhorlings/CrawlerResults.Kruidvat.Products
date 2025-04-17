@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Glade By Brise Touch & Fresh Pure Clean Linen Duo Luchtverfrisser Navullingen",
   "code": "5960638",
   "price": "3.79",
@@ -29,6 +29,5 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "2 x 10ml",
-  "image": "/medias/sys_master/prd-images/h15/h57/31177614065694/prd-front-5960638-1_600x600/prd-front-5960638-1-600x600.jpg"
+  "description": "2 x 10ml"
 }

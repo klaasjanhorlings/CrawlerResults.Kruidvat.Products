@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Disney 43237 Isabela's Bloempot",
+  "code": "6031898",
+  "price": "41.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-disney-43237-isabelas-bloempot/p/6031898",
+  "listName": "Lister",
+  "brand": "LEGO Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266820,
+      "name": "LEGO Disney"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcc/ha0/30044632481822/prd-front-6031898-1_600x600/prd-front-6031898-1-600x600.jpg"
+}

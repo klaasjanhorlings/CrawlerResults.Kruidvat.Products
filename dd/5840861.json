@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Marcel's Green Soap Patchouli & Cranberry Universeel Vloeibaar Wasmiddel",
   "code": "5840861",
   "price": "65.99",
@@ -29,5 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "6 x 1L, 6 x 23 wasbeurten"
+  "description": "6 x 1L, 6 x 23 wasbeurten",
+  "image": "/medias/prd-front-5840861-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTA4NTA4fGltYWdlL2pwZWd8YURKaUwyaGlaQzh5TnpBd01USTBORE14T1RjM05DOXdjbVF0Wm5KdmJuUXROVGcwTURnMk1TMHhYell3TUhnMk1EQXwwZTAwYmNhNTcxOTdjZWM3Y2NkZDcyNTdlODU5NzQ3YTIxZWNiZTE5NTgzYzU0ZjQ2ZWY5Yjg1NmNjN2U3YTIw"
 }
