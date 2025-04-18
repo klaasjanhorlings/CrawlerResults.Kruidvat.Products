@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "NORDIC BEAUTY COMPANY APS",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1051400",
+  "mmkId": "1051400",
+  "productGroupId": "470499",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/revolution-01-cool-mega-bronzer/p/4725414",
@@ -33,5 +33,6 @@
       "name": "Bronzer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h3d/hc5/28616792473630/prd-front-4725414-1_600x600/prd-front-4725414-1-600x600.jpg"
 }

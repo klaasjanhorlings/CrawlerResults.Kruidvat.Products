@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "JOHNSON & JOHNSON CONS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051397",
+  "mmkId": "1051397",
+  "productGroupId": "468999",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-hydro-boost-niacinamide-serum/p/6260847",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h58/h1c/33926341263390/prd-front-6260847-1_600x600/prd-front-6260847-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h25/h01/33984254607390/prd-front-6260847-1_600x600/prd-front-6260847-1-600x600.jpg"
 }

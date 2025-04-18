@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "BMEDCARE BV",
-  "inStock": "inStock",
-  "onPromo": "1051158",
-  "mmkId": "1051158",
-  "productGroupId": "460697",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dermolin-purecare-micellair-water/p/5807695",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266913,
-      "name": "Micellair water"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "200ml",

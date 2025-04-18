@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "1051254",
-  "mmkId": "1051254",
-  "productGroupId": "474636",
+  "onPromo": "1051396",
+  "mmkId": "1051396",
+  "productGroupId": "468881",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-match-perfection-100-ivory-foundation/p/3508177",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/he3/h54/30916266295326/prd-front-3508177-1_600x600/prd-front-3508177-1-600x600.jpg"
 }

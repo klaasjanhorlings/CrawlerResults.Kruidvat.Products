@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 6455 > 6702",
   "supplier": "CAREX BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1050935",
-  "mmkId": "1050935",
-  "productGroupId": "458382",
+  "onPromo": "1051397",
+  "mmkId": "1051397",
+  "productGroupId": "468999",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/celenes-by-sweden-micellair-reinigingswater/p/6056440",
@@ -37,5 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "250ml, droge en gevoelige huid"
+  "description": "250ml, droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hb8/h91/31004975661086/prd-front-6056440-1_600x600/prd-front-6056440-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051397",
+  "mmkId": "1051397",
+  "productGroupId": "468999",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cetaphil-daily-facial-cleanser/p/5931021",
@@ -23,10 +23,6 @@
     {
       "id": 29536077,
       "name": "Beauty"
-    },
-    {
-      "id": 30265991,
-      "name": "Skincare"
     },
     {
       "id": 30266606,

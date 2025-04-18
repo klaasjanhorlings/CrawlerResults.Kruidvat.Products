@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 5887 > 6443 > 6672",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Tondeuses"
     }
   ],
-  "description": "zwart",
-  "image": "/medias/sys_master/prd-images/h24/h50/32944412393502/prd-front-6197105-1_600x600/prd-front-6197105-1-600x600.jpg"
+  "description": "zwart"
 }

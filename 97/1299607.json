@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1051240",
-  "mmkId": "1051240",
-  "productGroupId": "471185",
+  "onPromo": "1051397",
+  "mmkId": "1051397",
+  "productGroupId": "468999",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-q10-power-oogcontourcreme/p/1299607",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml - Alle huidtypen"
+  "description": "15ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h0f/h95/32902363775006/prd-front-1299607-1_600x600/prd-front-1299607-1-600x600.jpg"
 }

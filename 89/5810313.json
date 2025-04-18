@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "UNIVERSAL COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1051400",
+  "mmkId": "1051400",
+  "productGroupId": "470499",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-perfect-smooth-020-light-4-in-1-skin-tint/p/5810313",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-5810313-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTMyODh8aW1hZ2UvanBlZ3xhRGs1TDJnNFpTOHlOalUzTlRNM01EVTFNVE15Tmk5d2NtUXRabkp2Ym5RdE5UZ3hNRE14TXkweFh6WXdNSGcyTURBfDFlMTBkNDYzMGIzNWU5NmNkZDYzMjdhYTMwNGNjYWJkNmM1MTU3MDdkOTgyY2VjOWJlMjRkNjBjZDE3MTQ2OGE"
 }

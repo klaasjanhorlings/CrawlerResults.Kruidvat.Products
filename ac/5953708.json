@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051399",
+  "mmkId": "1051399",
+  "productGroupId": "469164",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-derma-spf30-hydraterende-dagcreme/p/5953708",
@@ -29,8 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "50ml",

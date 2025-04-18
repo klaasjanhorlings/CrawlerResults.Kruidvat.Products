@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051397",
+  "mmkId": "1051397",
+  "productGroupId": "468999",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cetaphil-optimal-hydration-revitaliserende-nachtcreme/p/5890113",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266603,
-      "name": "Nachtcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "48g",

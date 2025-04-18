@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Air Wick Essential Mist Kalmerende Sterjasmijn en Pioen Navulling",
   "code": "5733239",
   "price": "5.99",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/hfe/hff/31243046748190/prd-front-5733239-1_600x600/prd-front-5733239-1-600x600.jpg"
 }

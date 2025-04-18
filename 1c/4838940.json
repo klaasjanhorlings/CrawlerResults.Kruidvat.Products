@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "NORDIC BEAUTY COMPANY APS",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1051400",
+  "mmkId": "1051400",
+  "productGroupId": "470499",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/revolution-reloaded-just-my-type-highlighter/p/4838940",
@@ -33,5 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h60/hb2/29569298792478/prd-front-4838940-1_600x600/prd-front-4838940-1-600x600.jpg"
 }

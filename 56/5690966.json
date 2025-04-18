@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2684 > 3384",
   "supplier": "GEOCOS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051400",
+  "mmkId": "1051400",
+  "productGroupId": "470499",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-boob-tape/p/5690966",
@@ -33,6 +33,5 @@
       "name": "Boobtape"
     }
   ],
-  "description": "Medisch hulpmiddel - zwart, 5m",
-  "image": "/medias/sys_master/prd-images/haf/h64/28523437916190/prd-front-5690966-1_600x600/prd-front-5690966-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - zwart, 5m"
 }

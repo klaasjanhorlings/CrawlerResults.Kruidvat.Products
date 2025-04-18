@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6406 > 6674",
   "supplier": "EMA COMPANY BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051404",
+  "mmkId": "1051404",
+  "productGroupId": "478119",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/real-techniques-miracle-powder-sponge/p/4982566",
@@ -33,5 +33,6 @@
       "name": "Make-up sponsjes"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-4982566-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzcyMTJ8aW1hZ2UvanBlZ3xhREZrTDJoaU55OHhOekV4TmpZek56QXpOalUzTkM5d2NtUXRabkp2Ym5RdE5EazRNalUyTmkweFh6WXdNSGcyTURBfGY1ZDU4MGRiNjRlNDY3MTVmNzc2ZGJhZGZkYzY2YzRlNmMxMTNhZDlkZjg0ZTliYWUxMjU0YmM5ODY5YTg4YmE"
 }

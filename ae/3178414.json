@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Glade by Brise Aerosol Relaxing Zen Luchtverfrisser",
   "code": "3178414",
   "price": "2.39",
@@ -29,6 +29,5 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h5b/h9f/31178161291294/prd-front-3178414-1_600x600/prd-front-3178414-1-600x600.jpg"
+  "description": "300ml"
 }

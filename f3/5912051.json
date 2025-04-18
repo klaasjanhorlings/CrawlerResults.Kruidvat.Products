@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 6133 > 6134 > 6135",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1051400",
+  "mmkId": "1051400",
+  "productGroupId": "470499",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-hydro-hyaluronic-face-mist/p/5912051",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hf1/he4/29946730741790/prd-front-5912051-1_600x600/prd-front-5912051-1-600x600.jpg"
 }

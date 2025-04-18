@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 4226 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1051120",
-  "mmkId": "1051120",
-  "productGroupId": "467969",
+  "onPromo": "1051397",
+  "mmkId": "1051397",
+  "productGroupId": "468999",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cosrx-aha-bha-vitamin-c-daily-toner/p/6200255",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 73443559,
-      "name": "Toner"
+      "id": 73443650,
+      "name": "Korean Skincare"
     }
   ],
   "description": "150ml",

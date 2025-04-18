@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAESA COSMETICS GMBH",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1051400",
+  "mmkId": "1051400",
+  "productGroupId": "470499",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-stay-with-me-030-c-dewy-beige-radiant-matte-serum-foundation/p/5484760",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/prd-front-5484760-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTc2NzF8aW1hZ2UvanBlZ3xhR1kxTDJnME15OHhOamsyTXpBMU1UWXhPRE16TkM5d2NtUXRabkp2Ym5RdE5UUTRORGMyTUMweFh6WXdNSGcyTURBfDRmNjQ5NDI3ZGJiYTFjMDJjNjdkOWRlY2NkODljZWUzZGUzZWQzOTdmZGRkODZlNTYxMTRhNDIzMWNmYzUyZGU"
+  "description": "30ml"
 }

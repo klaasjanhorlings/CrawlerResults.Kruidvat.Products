@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "JOHNSON & JOHNSON CONS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051397",
+  "mmkId": "1051397",
+  "productGroupId": "468999",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-anti-puistjes-peeling-wasgel/p/6019795",
@@ -23,10 +23,6 @@
     {
       "id": 29536077,
       "name": "Beauty"
-    },
-    {
-      "id": 30265991,
-      "name": "Skincare"
     },
     {
       "id": 30266606,

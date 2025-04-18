@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dettol No-Touch Aloë Vera Automatische Zeepdispenser",
   "code": "3666090",
   "price": "12.29",
@@ -29,10 +29,10 @@
       "name": "Handverzorging"
     },
     {
-      "id": 30266689,
-      "name": "Handzeep"
+      "id": 68231043,
+      "name": "Handzeep navulling"
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h11/h59/33972544405534/prd-front-3666090-1_600x600/prd-front-3666090-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h30/h28/33986700279838/prd-front-3666090-1_600x600/prd-front-3666090-1-600x600.jpg"
 }

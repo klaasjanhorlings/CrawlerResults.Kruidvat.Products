@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6320 > 6674",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051406",
+  "mmkId": "1051406",
+  "productGroupId": "478418",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/original-mini-tangle-teezer/p/5939442",
@@ -33,5 +33,6 @@
       "name": "Haarborstels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h3e/h2d/28952130781214/prd-front-5939442-1_600x600/prd-front-5939442-1-600x600.jpg"
 }

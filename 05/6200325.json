@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1051120",
-  "mmkId": "1051120",
-  "productGroupId": "467969",
+  "onPromo": "1051397",
+  "mmkId": "1051397",
+  "productGroupId": "468999",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cosrx-salicylic-acid-gentle-cleanser/p/6200325",
@@ -25,12 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677303,
+      "name": "Reinigingslotion"
     }
   ],
   "description": "150ml - Alle huidtypen",

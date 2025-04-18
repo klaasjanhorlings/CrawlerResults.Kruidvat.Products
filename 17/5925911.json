@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dr. Beckmann Tapijt Vlekverwijderaar",
   "code": "5925911",
   "price": "2.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 3,00",
+  "discount": "€ 3,00",
   "url": "/dr-beckmann-tapijt-vlekverwijderaar/p/5925911",
   "listName": "Lister",
   "brand": "Dr. Beckmann",

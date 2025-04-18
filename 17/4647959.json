@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1051264",
-  "mmkId": "1051264",
-  "productGroupId": "475830",
+  "onPromo": "1051396",
+  "mmkId": "1051396",
+  "productGroupId": "468881",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-matte-ink-25-heroine-lipstick/p/4647959",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/he4/h89/33522027724830/prd-front-4647959-1_600x600/prd-front-4647959-1-600x600.jpg"
 }

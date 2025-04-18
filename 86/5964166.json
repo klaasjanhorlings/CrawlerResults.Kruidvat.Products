@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 3905 > 6674",
   "supplier": "ZENNER NIEUW VENNEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051400",
+  "mmkId": "1051400",
+  "productGroupId": "470499",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zenner-elektrische-gezichtsreinigingsborstel/p/5964166",
@@ -25,18 +25,13 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 67801057,
+      "name": "Beautyapparaten"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 50966992,
-      "name": "Gezichtsreinigingstools"
+      "id": 67801179,
+      "name": "Gezichtsreiniger"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/had/hc2/30105141051422/prd-front-5964166-1_600x600/prd-front-5964166-1-600x600.jpg"
+  "description": ""
 }

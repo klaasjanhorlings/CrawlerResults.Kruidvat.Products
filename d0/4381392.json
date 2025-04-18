@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Glorix Power 5 Tropical Crush Toiletblok",
   "code": "4381392",
   "price": "1.49",
@@ -12,7 +12,7 @@
   "mmkId": "1051005",
   "productGroupId": "469103",
   "brandType": "A of B merk",
-  "discount": "$ 2,36",
+  "discount": "€ 2,36",
   "url": "/glorix-power-5-tropical-crush-toiletblok/p/4381392",
   "listName": "Lister",
   "brand": "Glorix",
@@ -29,5 +29,6 @@
       "name": "Toiletblokken"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfd/h8d/31941481988126/prd-front-4381392-1_600x600/prd-front-4381392-1-600x600.jpg"
 }

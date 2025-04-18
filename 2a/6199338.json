@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "B&B Witte Musk Italiaans Wasmiddel",
   "code": "6199338",
   "price": "8.95",
@@ -25,8 +25,8 @@
       "name": "Huishouden"
     },
     {
-      "id": 49313672,
-      "name": "Wasparfum"
+      "id": 30266066,
+      "name": "Wasmiddel"
     }
   ],
   "description": "1L",

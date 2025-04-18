@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "HG Extra Sterk Vlekverwijderaar",
   "code": "3772350",
   "price": "9.49",
@@ -25,12 +25,8 @@
       "name": "Huishouden"
     },
     {
-      "id": 30266067,
-      "name": "Schoonmaken"
-    },
-    {
-      "id": 64144743,
-      "name": "Schoonmaakmiddelen"
+      "id": 30266068,
+      "name": "Vlekverwijderaars"
     }
   ],
   "description": "500ml",

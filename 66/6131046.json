@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1051400",
+  "mmkId": "1051400",
+  "productGroupId": "470499",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-spl812-plum-slim-lip-pencil/p/6131046",
@@ -33,5 +33,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8d/h3c/31930680672286/prd-front-6131046-1_600x600/prd-front-6131046-1-600x600.jpg"
 }

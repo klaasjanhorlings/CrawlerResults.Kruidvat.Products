@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Theranal Aambeienzalf",
   "code": "24273",
-  "price": "8.99",
+  "price": "8.39",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2500 > 3102 > 4104",
   "supplier": "BAYER BV",
@@ -37,6 +37,5 @@
       "name": "Aambeien"
     }
   ],
-  "description": "Geneesmiddel - 35g",
-  "image": "/medias/prd-front-24273-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjIxMjB8aW1hZ2UvanBlZ3xhRGhtTDJnek1pOHhOak14TVRNMk5UVXdNRGsxT0M5d2NtUXRabkp2Ym5RdE1qUXlOek10TVY4Mk1EQjROakF3fDgwNjg5M2VjMGU4NTJjYWI4ODE1Nzc2NjBmN2YxYWVkZjU5Y2NmOTZiZGU3MWVlMWU2ODI3ZGYxOGIxYmUwMGY"
+  "description": "Geneesmiddel - 35g"
 }

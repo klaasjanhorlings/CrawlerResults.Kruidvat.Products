@@ -5,12 +5,12 @@
   "code": "5484844",
   "price": "4.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ORCHARD BV",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1051400",
+  "mmkId": "1051400",
+  "productGroupId": "470499",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-need-no-more-040-medium-honey-prime-color-finish-powder-foundation/p/5484844",
@@ -29,9 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266587,
-      "name": "Gezichtspoeder"
+      "id": 30266577,
+      "name": "Foundation"
     }
   ],
-  "description": "10g"
+  "description": "10g",
+  "image": "/medias/prd-front-5484844-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTIxNzY5fGltYWdlL2pwZWd8YURnNEwyZzJNQzh4TmpVMk1EYzBNVGd4TURJd05pOXdjbVF0Wm5KdmJuUXROVFE0TkRnME5DMHhYell3TUhnMk1EQXxiMWJiYjk2NTM0OWU3MTg5ZDg0ODkwNjIzZGFhNGFjMjA2ZTgzYWQ3ZjU4YjBkYzBlNWY5MGVmYWNlMDY4ODI4"
 }

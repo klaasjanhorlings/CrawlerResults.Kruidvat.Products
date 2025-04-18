@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051397",
+  "mmkId": "1051397",
+  "productGroupId": "468999",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cetaphil-optimal-hydration-verfrissend-oogserum/p/6027320",
@@ -23,10 +23,6 @@
     {
       "id": 29536077,
       "name": "Beauty"
-    },
-    {
-      "id": 30265991,
-      "name": "Skincare"
     },
     {
       "id": 30266606,

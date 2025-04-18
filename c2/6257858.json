@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051542",
+  "mmkId": "1051542",
+  "productGroupId": "491905",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/pure-care-geschenkset/p/6257858",
@@ -33,6 +33,5 @@
       "name": "Geschenksets voor haar"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h22/hfd/33345718059038/prd-front-6257858-1_600x600/prd-front-6257858-1-600x600.jpg"
+  "description": ""
 }

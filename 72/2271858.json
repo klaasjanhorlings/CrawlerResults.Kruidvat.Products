@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Multi Cleaner Flower Allesreiniger",
   "code": "2271858",
   "price": "1.0",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "1000ml",
-  "image": "/medias/sys_master/prd-images/hc7/h39/27224546607134/prd-front-2271858-1_600x600/prd-front-2271858-1-600x600.jpg"
+  "description": "1000ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6502 > 6503",
   "supplier": "ANVIRI COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051400",
+  "mmkId": "1051400",
+  "productGroupId": "470499",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kiss-ab-fab-gel-fantasy-kunstnagels/p/4420837",
@@ -37,5 +37,6 @@
       "name": "Kunstnagels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb9/hd1/33211300806686/prd-front-4420837-1_600x600/prd-front-4420837-1-600x600.jpg"
 }

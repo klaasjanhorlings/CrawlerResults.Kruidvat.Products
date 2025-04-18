@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6410",
   "supplier": "TREFFINA BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051400",
+  "mmkId": "1051400",
+  "productGroupId": "470499",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-staande-spiegel/p/5189619",
@@ -33,6 +33,5 @@
       "name": "Make-up spiegels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h45/ha1/28526845100062/prd-front-5189619-1_600x600/prd-front-5189619-1-600x600.jpg"
+  "description": ""
 }
