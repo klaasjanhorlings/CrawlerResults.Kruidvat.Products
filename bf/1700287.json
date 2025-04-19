@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051287",
+  "mmkId": "1051287",
+  "productGroupId": "477284",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aquafresh-white-shine-tandpasta/p/1700287",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "75ml",
-  "image": "/medias/sys_master/prd-images/ha2/h95/33984415170590/prd-front-1700287-1_600x600/prd-front-1700287-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf0/hbe/33995543183390/prd-front-1700287-1_600x600/prd-front-1700287-1-600x600.jpg"
 }

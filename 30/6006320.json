@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rimmel London Multi-Tasker Better Than Filters 001 Fair Primer",
-  "code": "6010051",
-  "price": "19.99",
+  "itemName": "Rimmel London Lasting Finish 35hr 050 Fair Porcelain Foundation",
+  "code": "6006320",
+  "price": "18.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051396",
+  "mmkId": "1051396",
+  "productGroupId": "468881",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/rimmel-london-multi-tasker-better-than-filters-001-fair-primer/p/6010051",
+  "url": "/rimmel-london-lasting-finish-35hr-050-fair-porcelain-foundation/p/6006320",
   "listName": "Lister",
   "brand": "Rimmel",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266579,
-      "name": "Primer"
+      "id": 30266577,
+      "name": "Foundation"
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h5b/h33/31159262412830/prd-front-6010051-1_600x600/prd-front-6010051-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb4/hcc/29790327767070/prd-front-6006320-1_600x600/prd-front-6006320-1-600x600.jpg"
 }

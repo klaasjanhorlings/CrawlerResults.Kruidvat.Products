@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051396",
+  "mmkId": "1051396",
+  "productGroupId": "468881",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-030-brown-oogpotlood/p/81741",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h26/hf1/28610795765790/prd-front-81741-1_600x600/prd-front-81741-1-600x600.jpg"
 }

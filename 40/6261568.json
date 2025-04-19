@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Crunchy Caramel High Protein Bar",
+  "itemName": "Kruidvat Cookies Caramel High Protein Bar",
   "code": "6261568",
   "price": "19.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-crunchy-caramel-high-protein-bar/p/6261568",
+  "url": "/kruidvat-cookies-caramel-high-protein-bar/p/6261568",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Sportrepen"
     }
   ],
-  "description": "15 x 60g",
+  "description": "12 x 60g",
   "image": "/medias/sys_master/prd-images/h4e/h89/33359602810910/prd-front-6261568-1_600x600/prd-front-6261568-1-600x600.jpg"
 }

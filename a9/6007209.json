@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rimmel London Multitasker 3-in-1 Primer, Mist & Setting Spray",
-  "code": "6097852",
-  "price": "14.99",
+  "itemName": "Rimmel London Kind & Free 003 Pink Heat Tinted Multi-Stick",
+  "code": "6007209",
+  "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
@@ -13,7 +13,7 @@
   "productGroupId": "468881",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/rimmel-london-multitasker-3-in-1-primer-mist-setting-spray/p/6097852",
+  "url": "/rimmel-london-kind-free-003-pink-heat-tinted-multi-stick/p/6007209",
   "listName": "Lister",
   "brand": "Rimmel",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266594,
-      "name": "Fixing sprays"
+      "id": 30266590,
+      "name": "Blush"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hfc/h57/31783680639006/prd-front-6097852-1_600x600/prd-front-6097852-1-600x600.jpg"
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/hba/h22/30916301094942/prd-front-6007209-1_600x600/prd-front-6007209-1-600x600.jpg"
 }

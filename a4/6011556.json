@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051400",
+  "mmkId": "1051400",
+  "productGroupId": "470499",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-melt-shine-juicy-100-sunny-side-up-lip-balm/p/6011556",
@@ -33,6 +33,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "1.3",
-  "image": "/medias/sys_master/prd-images/h7c/h67/29954127822878/prd-front-6011556-1_600x600/prd-front-6011556-1-600x600.jpg"
+  "description": "1.3"
 }

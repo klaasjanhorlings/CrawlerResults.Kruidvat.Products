@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Alpine Breeze 3-in-1 Douchegel",
+  "code": "6266286",
+  "price": "5.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3686 > 5723",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-alpine-breeze-3-in-1-douchegel/p/6266286",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Invisibobble Kids Original Rainbow Hair Spiral",
-  "code": "5882147",
-  "price": "4.95",
+  "itemName": "Tangle Teezer Rose Detangling Hairbrush",
+  "code": "5939484",
+  "price": "15.95",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 6674 > 2189 > 2333 > 2735 > 6326",
+  "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6320 > 6674",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "outOfStock",
   "onPromo": "",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/invisibobble-kids-original-rainbow-hair-spiral/p/5882147",
+  "url": "/tangle-teezer-rose-detangling-hairbrush/p/5939484",
   "listName": "Lister",
-  "brand": "Invisibobble",
+  "brand": "Tangle Teezer",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "Haaraccessoires"
     },
     {
-      "id": 30266623,
-      "name": "Haarelastiekjes"
+      "id": 30266624,
+      "name": "Haarborstels"
     }
   ],
-  "description": "3 stuks",
-  "image": "/medias/sys_master/prd-images/h66/h7d/28318555078686/prd-front-5882147-1_600x600/prd-front-5882147-1-600x600.jpg"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h92/h72/30948420190238/prd-front-5939484-1_600x600/prd-front-5939484-1-600x600.jpg"
 }

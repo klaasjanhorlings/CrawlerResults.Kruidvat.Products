@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "LANSINOH LABORATORIES",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051320",
+  "mmkId": "1051320",
+  "productGroupId": "478678",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lansinoh-hpa-lanoline-tepelzalf/p/4916304",
@@ -33,6 +33,5 @@
       "name": "Mama verzorgingsproducten"
     }
   ],
-  "description": "40ml",
-  "image": "/medias/sys_master/prd-images/hf6/h22/28809803104286/prd-front-4916304-1_600x600/prd-front-4916304-1-600x600.jpg"
+  "description": "40ml"
 }

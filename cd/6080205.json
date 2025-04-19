@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Ecostyle Cat & Dog Free",
-  "code": "5969955",
-  "price": "65.99",
+  "itemName": "ECOstyle MierVrij Poeder",
+  "code": "6080205",
+  "price": "6.29",
   "priceOriginal": "",
-  "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 6065",
+  "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 4058",
   "supplier": "EUROSTYLE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/ecostyle-cat-dog-free/p/5969955",
+  "url": "/ecostyle-miervrij-poeder/p/6080205",
   "listName": "Lister",
   "brand": "ECOstyle",
   "mpOrigin": "Kruidvat",
@@ -29,6 +29,6 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "200m2",
-  "image": "/medias/sys_master/prd-images/h93/h94/30356564049950/prd-front-5969955-1_600x600/prd-front-5969955-1-600x600.jpg"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h6e/hfe/30689118584862/prd-front-6080205-1_600x600/prd-front-6080205-1-600x600.jpg"
 }
