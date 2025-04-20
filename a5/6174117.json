@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6327 > 6674",
   "supplier": "EMA COMPANY BV",
-  "inStock": "inStock",
-  "onPromo": "1051404",
-  "mmkId": "1051404",
-  "productGroupId": "478119",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/real-techniques-bubble-blending-brush/p/6174117",
@@ -33,6 +33,5 @@
       "name": "Make-up kwasten"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h22/h03/32640496107550/prd-front-6174117-1_600x600/prd-front-6174117-1-600x600.jpg"
+  "description": ""
 }
