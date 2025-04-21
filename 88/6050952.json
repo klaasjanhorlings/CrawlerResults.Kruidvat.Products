@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1051397",
-  "mmkId": "1051397",
-  "productGroupId": "468999",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/yeauty-bakuchiol-boost-eye-pad-mask/p/6050952",
@@ -33,5 +33,6 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd8/h11/30800604266526/prd-front-6050952-1_600x600/prd-front-6050952-1-600x600.jpg"
 }

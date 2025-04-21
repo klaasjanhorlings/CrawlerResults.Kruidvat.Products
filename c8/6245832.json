@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1051400",
-  "mmkId": "1051400",
-  "productGroupId": "470499",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-lash-princess-mascara-primer/p/6245832",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "9ml"
+  "description": "9ml",
+  "image": "/medias/sys_master/prd-images/h6f/h06/33344508067870/prd-front-6245832-1_600x600/prd-front-6245832-1-600x600.jpg"
 }

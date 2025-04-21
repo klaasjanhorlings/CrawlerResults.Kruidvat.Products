@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1051397",
-  "mmkId": "1051397",
-  "productGroupId": "468999",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/simple-skin-booster-10-vitamine-cef-serum/p/5934808",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml, alle huidtypes"
+  "description": "30ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h0f/h0d/28658182520862/prd-front-5934808-1_600x600/prd-front-5934808-1-600x600.jpg"
 }

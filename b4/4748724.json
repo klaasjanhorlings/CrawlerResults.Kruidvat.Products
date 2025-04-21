@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Traditional Lizard Praline",
+  "code": "4748724",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "HAMLET NV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-traditional-lizard-praline/p/4748724",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/prd-front-4748724-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTA3ODEyfGltYWdlL2pwZWd8YURobUwyZzBOaTh5TmpVM05qTXdNRGsyTlRreE9DOXdjbVF0Wm5KdmJuUXRORGMwT0RjeU5DMHhYell3TUhnMk1EQXw1Y2QyMGFhOWI0MjdlOWI2NDcwMzZjMTA0ODYyZjMyZjMzZjNhNWQ5MzUzZmRhYWUwNDIxNjI5ODRjZDlmYmQ3"
+}

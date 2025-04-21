@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1051542",
-  "mmkId": "1051542",
-  "productGroupId": "491905",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-dark-temptation-geschenkset/p/6156260",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd9/h55/32436832665630/prd-front-6156260-1_600x600/prd-front-6156260-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1051167",
-  "mmkId": "1051167",
-  "productGroupId": "464028",
+  "onPromo": "1051468",
+  "mmkId": "1051468",
+  "productGroupId": "480573",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-mencare-advanced-invisible-dry-antitranspirant-deodorant-spray/p/2205393",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hfa/hd0/33764389453854/prd-front-2205393-1_600x600/prd-front-2205393-1-600x600.jpg"
 }

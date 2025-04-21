@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pickwick Thee met Glas Geschenkset",
+  "code": "6285039",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2630 > 3149 > 4017",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pickwick-thee-met-glas-geschenkset/p/6285039",
+  "listName": "Lister",
+  "brand": "Pickwick",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266887,
+      "name": "Thee"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h98/hed/33590631792670/prd-front-6285039-1_600x600/prd-front-6285039-1-600x600.jpg"
+}

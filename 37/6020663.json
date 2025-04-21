@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1051397",
-  "mmkId": "1051397",
-  "productGroupId": "468999",
+  "onPromo": "1050119",
+  "mmkId": "1050119",
+  "productGroupId": "469036",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-bright-reveal-dark-spot-spf50-uv-fluid/p/6020663",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h3e/hec/31541139537950/prd-front-6020663-1_600x600/prd-front-6020663-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2802 > 3543",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "1051400",
-  "mmkId": "1051400",
-  "productGroupId": "470499",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-nagellakremover-zonder-aceton/p/438214",
@@ -37,5 +37,6 @@
       "name": "Nagellakremover"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h44/hb8/27293967941662/prd-front-438214-1_600x600/prd-front-438214-1-600x600.jpg"
 }

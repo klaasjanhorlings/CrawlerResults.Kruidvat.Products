@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6409",
   "supplier": "EMA COMPANY BV",
   "inStock": "inStock",
-  "onPromo": "1051400",
-  "mmkId": "1051400",
-  "productGroupId": "470499",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/eco-tools-ecopouf-badborstel/p/5377653",
@@ -29,5 +29,6 @@
       "name": "Bad- en doucheaccessoires"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h07/hee/27398820200478/prd-front-5377653-1_600x600/prd-front-5377653-1-600x600.jpg"
 }

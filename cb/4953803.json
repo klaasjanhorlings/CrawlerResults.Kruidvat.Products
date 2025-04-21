@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zonnatura Kamille Kruideninfusie Thee",
+  "code": "4953803",
+  "price": "1.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2630 > 2947 > 3743",
+  "supplier": "WESSANEN BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zonnatura-kamille-kruideninfusie-thee/p/4953803",
+  "listName": "Lister",
+  "brand": "Zonnatura",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266887,
+      "name": "Thee"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/prd-front-4953803-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ4NzF8aW1hZ2UvanBlZ3xhR1k0TDJnMk9DOHhOalUxTmpRMU5ESTRNVEkwTmk5d2NtUXRabkp2Ym5RdE5EazFNemd3TXkweFh6WXdNSGcyTURBfDg2YmY4MzIyYjdlNTNmMDM1MmM0YTIxMjY1ZGEyNDRjN2IzODFmM2NiMzdmZjc1YjI1NmM1N2I4ZDI4NWNjOTk"
+}

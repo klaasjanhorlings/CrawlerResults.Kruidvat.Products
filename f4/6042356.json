@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1051397",
-  "mmkId": "1051397",
-  "productGroupId": "468999",
+  "onPromo": "1051199",
+  "mmkId": "1051199",
+  "productGroupId": "466626",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sebamed-clear-face-antibacterial-cleansing-foam/p/6042356",
@@ -37,5 +37,6 @@
       "name": "Reinigingsmousse"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h70/h59/30566466912286/prd-front-6042356-1_600x600/prd-front-6042356-1-600x600.jpg"
 }

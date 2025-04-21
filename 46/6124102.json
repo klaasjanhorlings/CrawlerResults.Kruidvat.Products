@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1051397",
-  "mmkId": "1051397",
-  "productGroupId": "468999",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-paw-paw-your-gorgeous-skin-3-in-1-cleansing-balm/p/6124102",
@@ -37,5 +37,6 @@
       "name": "Reinigingscreme"
     }
   ],
-  "description": "50g, alle huidtypes"
+  "description": "50g, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/he8/h3a/31439194521630/prd-front-6124102-1_600x600/prd-front-6124102-1-600x600.jpg"
 }

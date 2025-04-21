@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fruitfunk Banaan & Perzik Uitdeelzakjes",
+  "code": "6282561",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2320 > 4340 > 4339",
+  "supplier": "FRUITFUNK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fruitfunk-banaan-perzik-uitdeelzakjes/p/6282561",
+  "listName": "Lister",
+  "brand": "Fruitfunk",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266774,
+      "name": "Babytussendoortjes"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/he2/ha3/33772738084894/prd-front-6282561-1_600x600/prd-front-6282561-1-600x600.jpg"
+}

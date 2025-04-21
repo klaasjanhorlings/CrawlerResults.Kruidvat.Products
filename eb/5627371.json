@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "JOHNSON & JOHNSON CONS",
   "inStock": "inStock",
-  "onPromo": "1051397",
-  "mmkId": "1051397",
-  "productGroupId": "468999",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-retinol-boost-oogcreme/p/5627371",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/hcf/he0/29145112084510/prd-front-5627371-1_600x600/prd-front-5627371-1-600x600.jpg"
 }

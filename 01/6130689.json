@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1051400",
-  "mmkId": "1051400",
-  "productGroupId": "470499",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-shine-loud-color-shlp04-life-goals-lipstick/p/6130689",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcb/h4a/31922044239902/prd-front-6130689-1_600x600/prd-front-6130689-1-600x600.jpg"
 }

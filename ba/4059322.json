@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1051182",
-  "mmkId": "1051182",
-  "productGroupId": "465739",
+  "onPromo": "1051459",
+  "mmkId": "1051459",
+  "productGroupId": "476431",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-gevoelige-huid-spf50-zonnespray/p/4059322",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "175ml"
+  "description": "175ml",
+  "image": "/medias/sys_master/prd-images/h8c/h96/33975576068126/prd-front-4059322-1_600x600/prd-front-4059322-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ASAM-BETRIEBS GMBH",
   "inStock": "inStock",
-  "onPromo": "1051400",
-  "mmkId": "1051400",
-  "productGroupId": "470499",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/m-asam-high-class-ivory-liquid-concealer/p/5845390",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "4ml"
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h9b/h86/27805045358622/prd-front-5845390-1_600x600/prd-front-5845390-1-600x600.jpg"
 }

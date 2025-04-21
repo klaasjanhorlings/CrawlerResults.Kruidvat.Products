@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1051397",
-  "mmkId": "1051397",
-  "productGroupId": "468999",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/montagne-jeunesse-superfood-avocado-clay-mask/p/4991442",
@@ -33,5 +33,6 @@
       "name": "Gezichtsmaskers"
     }
   ],
-  "description": "10g"
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/h65/hdf/28478469308446/prd-front-4991442-1_600x600/prd-front-4991442-1-600x600.jpg"
 }

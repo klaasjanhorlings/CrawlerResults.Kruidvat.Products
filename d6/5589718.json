@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "AVENTUS BV",
   "inStock": "inStock",
-  "onPromo": "1051400",
-  "mmkId": "1051400",
-  "productGroupId": "470499",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/estee-lauder-advanced-night-repair-serum/p/5589718",
@@ -33,5 +33,6 @@
       "name": "Serum"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/prd-front-5589718-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzg3NDl8aW1hZ2UvanBlZ3xhR1ptTDJoaE5pOHhOelExTXpVM05EZzBPRFUwTWk5d2NtUXRabkp2Ym5RdE5UVTRPVGN4T0MweFh6WXdNSGcyTURBfGM4NTU4OGRkMmFiZjMyYjAxMjYyZWNlNDFkMGJhZjhmZTdlYTNiOTRhZGJhN2RlZjAzMGMxZTZiODFjMzZlZmI"
 }

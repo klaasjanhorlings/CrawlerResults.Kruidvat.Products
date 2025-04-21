@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "K3 Make-Up & Nagel Set",
+  "code": "6285130",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4639 > 4637 > 4638 > 5861 > 5864",
+  "supplier": "AQUARIUS COSMETIC SL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/k3-make-up-nagel-set/p/6285130",
+  "listName": "Lister",
+  "brand": "K3",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666497,
+      "name": "Geschenksets voor kinderen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbf/h68/33630981062686/prd-front-6285130-1_600x600/prd-front-6285130-1-600x600.jpg"
+}

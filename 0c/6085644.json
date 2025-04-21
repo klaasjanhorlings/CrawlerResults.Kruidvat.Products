@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1051397",
-  "mmkId": "1051397",
-  "productGroupId": "468999",
+  "onPromo": "1051163",
+  "mmkId": "1051163",
+  "productGroupId": "462476",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-cellular-luminous630-anti-spot-02-medium-spf30-3-in-1-cc-creme/p/6085644",
@@ -33,5 +33,6 @@
       "name": "CC cream"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/ha6/ha4/32901208211486/prd-front-6085644-1_600x600/prd-front-6085644-1-600x600.jpg"
 }

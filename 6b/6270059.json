@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mattel Blijf Kinderachtig Spel",
+  "code": "6270059",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
+  "supplier": "HERMANEX INTERNATIONAL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mattel-blijf-kinderachtig-spel/p/6270059",
+  "listName": "Lister",
+  "brand": "Mattel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha3/h3c/33479420117022/prd-front-6270059-1_600x600/prd-front-6270059-1-600x600.jpg"
+}

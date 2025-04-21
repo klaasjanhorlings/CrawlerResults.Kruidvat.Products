@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Damestrui",
+  "code": "6222256",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2640 > 3325 > 4829 > 5812 > 5928 > 6038",
+  "supplier": "FULLY FASHION",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-damestrui/p/6222256",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "koraalkleur, mt L-XL",
+  "image": "/medias/sys_master/prd-images/h7c/h92/33961625780254/prd-front-6222256-1_600x600/prd-front-6222256-1-600x600.jpg"
+}

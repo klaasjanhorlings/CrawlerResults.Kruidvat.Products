@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath Investigation Files Spel",
+  "code": "6272691",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5164 > 5227 > 5416 > 5921 > 6018",
+  "supplier": "HERMANEX INTERNATIONAL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/goliath-investigation-files-spel/p/6272691",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h13/hab/33480066269214/prd-front-6272691-1_600x600/prd-front-6272691-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6502 > 6503 > 6520",
   "supplier": "EMA COMPANY BV",
   "inStock": "inStock",
-  "onPromo": "1051400",
-  "mmkId": "1051400",
-  "productGroupId": "470499",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elegant-touch-salon-extensions-kunstnagels/p/6175174",
@@ -37,5 +37,6 @@
       "name": "Kunstnagels"
     }
   ],
-  "description": "24 stuks"
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/h2d/h57/32639565365278/prd-front-6175174-1_600x600/prd-front-6175174-1-600x600.jpg"
 }
