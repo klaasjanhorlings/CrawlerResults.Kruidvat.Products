@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1028975",
-  "mmkId": "1028975",
-  "productGroupId": "362258",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-hydro-nachtcreme-voor-de-normale-en-gemengde-huid/p/2194025",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Normale en gecombineerde huid"
+  "description": "50ml - Normale en gecombineerde huid",
+  "image": "/medias/prd-front-2194025-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAwNjQ3fGltYWdlL2pwZWd8YURreEwyaGpaQzh4TmpFeU5UVTBORGcxTnpZek1DOXdjbVF0Wm5KdmJuUXRNakU1TkRBeU5TMHhYell3TUhnMk1EQXw3MWNmNTI1NTRiNzNkNjA3MzJjZjg0MDViNzk3NGY3MTQwNGFmN2ZkN2VmMWRlZjQ5OGIwYWIxZTEyZGM0NjBk"
 }

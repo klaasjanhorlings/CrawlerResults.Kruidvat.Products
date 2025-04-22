@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "SUNSTAR BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "1051293",
-  "mmkId": "1051293",
-  "productGroupId": "477550",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gum-soft-picks-original-tandenstokers/p/4371347",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt L, 50 stuks",
-  "image": "/medias/sys_master/prd-images/h26/hbc/34018233352222/prd-front-4371347-1_600x600/prd-front-4371347-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h16/hdc/34025798041630/prd-front-4371347-1_600x600/prd-front-4371347-1-600x600.jpg"
 }
