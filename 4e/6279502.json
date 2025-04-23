@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jil Sander Sun Woman Geschenkset",
+  "code": "6279502",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4113 > 5861 > 5864 > 6705 > 6706",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jil-sander-sun-woman-geschenkset/p/6279502",
+  "listName": "Lister",
+  "brand": "Jil Sander",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72656138,
+      "name": "Geschenksets voor haar"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc1/h98/33503962365982/prd-front-6279502-1_600x600/prd-front-6279502-1-600x600.jpg"
+}

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Philips FC6722/01 Snoerloze Steelstofzuiger",
   "code": "6102395",
-  "price": "115.0",
+  "price": "69.99",
   "priceOriginal": "",
   "itemBgbcat": "2197 > 4901 > 4947 > 4993 > 5929 > 6019",
   "supplier": "DUMMY EXTERN",
@@ -21,16 +21,8 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536085,
-      "name": "Elektronica"
-    },
-    {
-      "id": 75053317,
-      "name": "Schoonmaakapparatuur"
-    },
-    {
-      "id": 75054064,
-      "name": "Stofzuigers"
+      "id": 30266052,
+      "name": "Huishoudelijke apparaten"
     }
   ],
   "description": "",

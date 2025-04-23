@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 4362 > 2130 > 5787 > 5788 > 5789",
   "supplier": "MUNDIA BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051313",
+  "mmkId": "1051313",
+  "productGroupId": "478420",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-babysokjes/p/5614463",
@@ -33,5 +33,6 @@
       "name": "Babysokken"
     }
   ],
-  "description": "cognackleur, zwart, wit, mt 12-18m, 3 paar"
+  "description": "cognackleur, zwart, wit, mt 12-18m, 3 paar",
+  "image": "/medias/sys_master/prd-images/hd4/he0/33056839204894/prd-front-5614463-1_600x600/prd-front-5614463-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Watshome Glazen Waterkoker",
+  "code": "6182713",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 2454 > 2957 > 3751 > 5929 > 6019",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/watshome-glazen-waterkoker/p/6182713",
+  "listName": "Lister",
+  "brand": "Watshome",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053282,
+      "name": "Keukenapparatuur"
+    },
+    {
+      "id": 75053670,
+      "name": "Waterkokers"
+    }
+  ],
+  "description": "1,7L",
+  "image": "/medias/sys_master/prd-images/hc5/h79/32780359041054/prd-front-6182713-1_600x600/prd-front-6182713-1-600x600.jpg"
+}

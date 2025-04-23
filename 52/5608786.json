@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536080,
+      "name": "Baby"
     },
     {
-      "id": 30265989,
-      "name": "Geschenksets"
+      "id": 30266016,
+      "name": "Babyverzorging"
     },
     {
-      "id": 72666497,
-      "name": "Geschenksets voor kinderen"
+      "id": 30266777,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267021,
+      "name": "Babywasgel"
     }
   ],
   "description": "4 x 15ml",

@@ -21,8 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266052,
-      "name": "Huishoudelijke apparaten"
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053282,
+      "name": "Keukenapparatuur"
+    },
+    {
+      "id": 75053731,
+      "name": "Frituurpannen en airfryers"
+    },
+    {
+      "id": 84926444,
+      "name": "Airfryers"
     }
   ],
   "description": "",

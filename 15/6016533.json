@@ -1,0 +1,30 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tomado Sinaasappelpers",
+  "code": "6016533",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 2454 > 2957 > 3751 > 5929 > 6019",
+  "supplier": "INVENTUM HUISHOUDELIJKE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tomado-sinaasappelpers/p/6016533",
+  "listName": "Lister",
+  "brand": "Tomado",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266052,
+      "name": "Huishoudelijke apparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc4/h98/31243058413598/prd-front-6016533-1_600x600/prd-front-6016533-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Chocolade Crunch Maaltijdreep",
+  "code": "2798188",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3851",
+  "supplier": "PRINSEN BV",
+  "inStock": "inStock",
+  "onPromo": "1051348",
+  "mmkId": "1051348",
+  "productGroupId": "485189",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-chocolade-crunch-maaltijdreep/p/2798188",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Gewichtsbeheersing"
+    },
+    {
+      "id": 30266743,
+      "name": "Maaltijdvervangers"
+    }
+  ],
+  "description": "58g",
+  "image": "/medias/prd-front-2798188-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTg3Mjh8aW1hZ2UvanBlZ3xhRGMyTDJobE1TOHlOamt4TkRVek9ERTJNREUxT0M5d2NtUXRabkp2Ym5RdE1qYzVPREU0T0MweFh6WXdNSGcyTURBfGNjNmM1YmJlYzM2ZTBmYWFhMjE0ZWQ3OTQzYTdlOTk1MWE0NTBiM2U3MzE5NzgwOWYyYTAzYTMzZjY2YzljZTI"
+}

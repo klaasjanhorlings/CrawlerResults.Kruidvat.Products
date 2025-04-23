@@ -21,9 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266052,
-      "name": "Huishoudelijke apparaten"
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053282,
+      "name": "Keukenapparatuur"
+    },
+    {
+      "id": 75053741,
+      "name": "Broodbereiding en grills"
+    },
+    {
+      "id": 84926413,
+      "name": "Tosti-ijzers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2f/hca/32239601778718/prd-front-5953379-1_600x600/prd-front-5953379-1-600x600.jpg"
 }
