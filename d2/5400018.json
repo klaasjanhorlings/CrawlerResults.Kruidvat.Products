@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6283",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1051459",
-  "mmkId": "1051459",
-  "productGroupId": "476431",
+  "onPromo": "1051502",
+  "mmkId": "1051502",
+  "productGroupId": "476819",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/davitamon-ijzer-met-vitamine-c-en-b12-tabletten/p/5400018",
@@ -33,5 +33,6 @@
       "name": "Mineralen"
     }
   ],
-  "description": "33 stuks"
+  "description": "33 stuks",
+  "image": "/medias/sys_master/prd-images/hb1/h65/31461722292254/prd-front-5400018-1_600x600/prd-front-5400018-1-600x600.jpg"
 }

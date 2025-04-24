@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-verzachtende-baby-bodylotion/p/1126861",
@@ -37,5 +37,6 @@
       "name": "Babylotion"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/prd-front-1126861-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTcwOTB8aW1hZ2UvanBlZ3xhR1ZrTDJnM01pOHhOelF4TmpZNE1qYzJOak0yTmk5d2NtUXRabkp2Ym5RdE1URXlOamcyTVMweFh6WXdNSGcyTURBfDkwZGQzMDVmOGQ0OWNjZTA0Mjc1MjVhY2I3ZjlkMDJhNTVlMjllYmEzNmVlOWEzYmQyZWQ4MzMyZWMzNWM0ZTk"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051326",
+  "mmkId": "1051326",
+  "productGroupId": "479265",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillettelabs-scheermesjes/p/6247652",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "8 stuks"
+  "description": "8 stuks",
+  "image": "/medias/sys_master/prd-images/h85/h0a/33500981067806/prd-front-6247652-1_600x600/prd-front-6247652-1-600x600.jpg"
 }

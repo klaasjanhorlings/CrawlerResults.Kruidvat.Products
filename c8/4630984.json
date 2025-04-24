@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rimmel London Stay Matte Primer",
+  "code": "4630984",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "1051254",
+  "mmkId": "1051254",
+  "productGroupId": "474636",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/rimmel-london-stay-matte-primer/p/4630984",
+  "listName": "Lister",
+  "brand": "Rimmel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266579,
+      "name": "Primer"
+    }
+  ],
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h53/hd3/28611929145374/prd-front-4630984-1_600x600/prd-front-4630984-1-600x600.jpg"
+}

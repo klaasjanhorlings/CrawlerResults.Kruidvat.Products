@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Hydro Boost+ Niacinamide Serum",
+  "itemName": "Neutrogena Hydro Boost 10% Niacinamide Serum",
   "code": "6260847",
   "price": "20.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/neutrogena-hydro-boost-niacinamide-serum/p/6260847",
+  "url": "/neutrogena-hydro-boost-10-niacinamide-serum/p/6260847",
   "listName": "Lister",
   "brand": "Neutrogena",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hfe/h99/34028444024862/prd-front-6260847-1_600x600/prd-front-6260847-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc4/h9a/34038658400286/prd-front-6260847-1_600x600/prd-front-6260847-1-600x600.jpg"
 }
