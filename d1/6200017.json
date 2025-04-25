@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "inStock",
-  "onPromo": "1051120",
-  "mmkId": "1051120",
-  "productGroupId": "467969",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mixsoon-soondy-centella-asiatica-essence/p/6200017",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 73443492,
-      "name": "Essence"
+      "id": 73443650,
+      "name": "Korean Skincare"
     }
   ],
   "description": "50ml",

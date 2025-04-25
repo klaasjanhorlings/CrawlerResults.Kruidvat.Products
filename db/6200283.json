@@ -29,14 +29,9 @@
       "name": "Skincare"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 50048154,
-      "name": "Verzorging probleemhuid"
+      "id": 30266605,
+      "name": "Serum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/he7/hdd/32313635569694/prd-front-6200283-1_600x600/prd-front-6200283-1-600x600.jpg"
+  "description": "100ml"
 }

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Swiffer Vloer Navuldoekjes",
   "code": "6151038",
-  "price": "18.99",
+  "price": "20.49",
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 6076 > 6077",
   "supplier": "PROCTER & GAMBLE NL BV",
@@ -33,5 +33,6 @@
       "name": "Dweilen en vloerwissers"
     }
   ],
-  "description": "72 stuks"
+  "description": "72 stuks",
+  "image": "/medias/sys_master/prd-images/h30/h87/34050161016862/prd-front-6151038-1_600x600/prd-front-6151038-1-600x600.jpg"
 }

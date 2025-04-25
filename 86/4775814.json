@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": " Fruitflyninja Lokdoos",
+  "code": "4775814",
+  "price": "6.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2907 > 3704",
+  "supplier": "SUPER NINJA (FRUIT FLY NINJA BV)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/-fruitflyninja-lokdoos/p/4775814",
+  "listName": "Lister",
+  "brand": "Fruit Fly Ninja",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266896,
+      "name": "Insectenbestrijding"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hdd/hfa/33539407904798/prd-front-4775814-1_600x600/prd-front-4775814-1-600x600.jpg"
+}
