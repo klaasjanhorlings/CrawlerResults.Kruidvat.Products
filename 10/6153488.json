@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2153 > 5929 > 6014 > 6587 > 6588 > 6589",
   "supplier": "I-STAR WORLD BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Verrassend elektronica"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h11/h95/31989041430558/prd-front-6153488-1_600x600/prd-front-6153488-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Studio Line Remix Strong Hold Styling Haarpaste",
+  "code": "2896468",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1051142",
+  "mmkId": "1051142",
+  "productGroupId": "455504",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-studio-line-remix-strong-hold-styling-haarpaste/p/2896468",
+  "listName": "Lister",
+  "brand": "Studioline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266929,
+      "name": "Haarpasta"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-2896468-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTg1NDl8aW1hZ2UvanBlZ3xhRGxoTDJoaU1DOHhOelF4TWpnMk56ZzFNREkzTUM5d2NtUXRabkp2Ym5RdE1qZzVOalEyT0MweFh6WXdNSGcyTURBfDEzODc5YzJjNWNmZDc5YzQxYzJmOTg3NjNmODI1YmMwNmJlYmNjN2QxMWE1NWZhMGJkYTA3OWMyMmRhZWUyY2E"
+}

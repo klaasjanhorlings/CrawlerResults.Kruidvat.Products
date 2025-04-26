@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
   "supplier": "HALEON (NOVARTIS)",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/otrivin-neusreiniger-refill-wegwerpdopjes/p/4972563",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 10 stuks",
-  "image": "/medias/sys_master/prd-images/h76/hf9/34057664462878/prd-front-4972563-1_600x600/prd-front-4972563-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h17/h5a/34068059488286/prd-front-4972563-1_600x600/prd-front-4972563-1-600x600.jpg"
 }

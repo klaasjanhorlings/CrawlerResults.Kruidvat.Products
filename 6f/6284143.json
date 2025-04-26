@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2330 > 2730 > 3433 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,8 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266807,
-      "name": "Babyaccessoires"
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266041,
+      "name": "Babykleding"
+    },
+    {
+      "id": 30266849,
+      "name": "Rompertjes"
     }
   ],
   "description": "beige, mt 62-68",
