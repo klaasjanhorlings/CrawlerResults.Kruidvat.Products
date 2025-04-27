@@ -6,11 +6,11 @@
   "price": "2.49",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3889",
-  "supplier": "MAXIM MARKENPRODUKTE",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1051500",
+  "mmkId": "1051500",
+  "productGroupId": "475264",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-ultra-sensitive-reinigingsmelk-2-in-1/p/1754432",
@@ -37,5 +37,6 @@
       "name": "Reinigingsmelk"
     }
   ],
-  "description": "250ml - Gevoelige huid"
+  "description": "250ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h05/hf6/33929006841886/prd-front-1754432-1_600x600/prd-front-1754432-1-600x600.jpg"
 }

@@ -14,10 +14,11 @@
   "brandType": "A of B merk",
   "discount": "",
   "url": "/edding-whiteboard-markers/p/6260322",
-  "listName": "Laatst bekeken producten",
+  "listName": "Lister",
   "brand": "Edding",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
+  "isSponsored": "false",
   "categories": [
     {
       "id": 29536081,
@@ -28,6 +29,5 @@
       "name": "Knutselen"
     }
   ],
-  "description": "8 stuks",
-  "image": "/medias/sys_master/prd-images/h22/h26/33488971890718/prd-front-6260322-1_600x600/prd-front-6260322-1-600x600.jpg"
+  "description": "8 stuks"
 }

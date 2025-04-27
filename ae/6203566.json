@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pauline Wingelaar Weekendtas met Bloemenprint",
+  "code": "6203566",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 4869 > 6088 > 6091 > 6095",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/pauline-wingelaar-weekendtas-met-bloemenprint/p/6203566",
+  "listName": "Lister",
+  "brand": "Pauline Wingelaar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "56cm x 38cm x 18cm",
+  "image": "/medias/sys_master/prd-images/h2d/hf8/33199002288158/prd-front-6203566-1_600x600/prd-front-6203566-1-600x600.jpg"
+}

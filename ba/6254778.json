@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pauline Wingelaar Gestreepte Ligbedhoes",
+  "code": "6254778",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 5799 > 5802 > 5926 > 6020 > 6049",
+  "supplier": "LUMAS INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/pauline-wingelaar-gestreepte-ligbedhoes/p/6254778",
+  "listName": "Lister",
+  "brand": "Pauline Wingelaar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266050,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30266875,
+      "name": "Tuinmeubelen"
+    },
+    {
+      "id": 84926291,
+      "name": "Tuinstoelhoezen"
+    }
+  ],
+  "description": "70cm x 200cm",
+  "image": "/medias/sys_master/prd-images/hf5/h4c/33433843695646/prd-front-6254778-1_600x600/prd-front-6254778-1-600x600.jpg"
+}

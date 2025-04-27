@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pauline Wingelaar Strandtas met Bloemenprint",
+  "code": "6224489",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/pauline-wingelaar-strandtas-met-bloemenprint/p/6224489",
+  "listName": "Lister",
+  "brand": "Pauline Wingelaar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "46cm x 12cm x 37,5cm",
+  "image": "/medias/sys_master/prd-images/hba/hb5/33534031298590/prd-front-6224489-1_600x600/prd-front-6224489-1-600x600.jpg"
+}
