@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Latte Caramel Oploskoffie",
+  "code": "3813531",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 2963 > 6640",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "1051731",
+  "mmkId": "1051731",
+  "productGroupId": "474450",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/douwe-egberts-latte-caramel-oploskoffie/p/3813531",
+  "listName": "Lister",
+  "brand": "Douwe Egberts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/sys_master/prd-images/hc5/h06/28235031117854/prd-front-3813531-1_600x600/prd-front-3813531-1-600x600.jpg"
+}

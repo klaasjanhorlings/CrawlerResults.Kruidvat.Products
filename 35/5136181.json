@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "MAURER&WIRTZ GMBH&CO KG",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051681",
+  "mmkId": "1051681",
+  "productGroupId": "470790",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/s-oliver-for-her-eau-de-toilette/p/5136181",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-5136181-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzAyMDd8aW1hZ2UvanBlZ3xhR0ZrTDJneE15OHhOalUxTlRRek1qUTBNemt6TkM5d2NtUXRabkp2Ym5RdE5URXpOakU0TVMweFh6WXdNSGcyTURBfDhkYjM5ZWJjNTMzYmYxYWE3MDY5ZjVhNDdlMjYyMjcyMTU2NmNkNDU3NDc5YTE2MjM3ODI2OGQ2ODhiMzVmMjE"
 }

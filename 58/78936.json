@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1051452",
-  "mmkId": "1051452",
-  "productGroupId": "474465",
+  "onPromo": "1051835",
+  "mmkId": "1051835",
+  "productGroupId": "481760",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/diadermine-lift-nourrissant-nachtcreme/p/78936",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hae/h42/27462510084126/prd-front-78936-1_600x600/prd-front-78936-1-600x600.jpg"
 }

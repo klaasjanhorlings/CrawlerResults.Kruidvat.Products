@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "1051166",
-  "mmkId": "1051166",
-  "productGroupId": "463446",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-luxurious-moments-douchegel/p/2595286",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/prd-front-2595286-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE3OTR8aW1hZ2UvanBlZ3xhREU0TDJnd015OHhOelEwTlRReE9UWXhOREl6T0M5d2NtUXRabkp2Ym5RdE1qVTVOVEk0TmkweFh6WXdNSGcyTURBfDc4MDIxYmM2YTE4ZjlmYTVhZmM5ODJmYzA2ZGI1NzBmODQwNjRmNjNhMWE4MjU1YTBkNmRiYTQ1NWZkMmNkYzA"
+  "description": "250ml"
 }

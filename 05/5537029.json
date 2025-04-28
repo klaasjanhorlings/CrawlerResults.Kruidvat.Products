@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051744",
+  "mmkId": "1051744",
+  "productGroupId": "475694",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/miss-so-midnight-magic-eau-de-parfum/p/5537029",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h61/hb4/27501167575070/prd-front-5537029-1_600x600/prd-front-5537029-1-600x600.jpg"
+  "description": "50ml"
 }

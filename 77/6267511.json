@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 3868 > 5725",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1051467",
-  "mmkId": "1051467",
-  "productGroupId": "480572",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-mencare-sandalwood-vanilla-3-in-1-douchegel/p/6267511",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/haa/h4d/33433856278558/prd-front-6267511-1_600x600/prd-front-6267511-1-600x600.jpg"
+  "description": "400ml"
 }

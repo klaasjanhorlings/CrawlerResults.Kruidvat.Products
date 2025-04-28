@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1051183",
-  "mmkId": "1051183",
-  "productGroupId": "465747",
+  "onPromo": "1051668",
+  "mmkId": "1051668",
+  "productGroupId": "469589",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-color-14-cosmic-blue-haarkleuring/p/3569532",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc1/h2a/33819052441630/prd-front-3569532-1_600x600/prd-front-3569532-1-600x600.jpg"
 }

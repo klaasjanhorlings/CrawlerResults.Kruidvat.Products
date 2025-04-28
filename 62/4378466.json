@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 5886 > 6440",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051775",
+  "mmkId": "1051775",
+  "productGroupId": "477699",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/braun-silk-epil-fg1100-bikinistyler/p/4378466",
@@ -33,6 +33,5 @@
       "name": "Haartrimmers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hda/h2f/27772257566750/prd-front-4378466-1_600x600/prd-front-4378466-1-600x600.jpg"
+  "description": ""
 }

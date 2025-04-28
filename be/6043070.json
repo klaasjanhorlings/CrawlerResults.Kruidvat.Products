@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "NIP + FAB",
   "inStock": "inStock",
-  "onPromo": "1051452",
-  "mmkId": "1051452",
-  "productGroupId": "474465",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nip-fab-ceramide-fix-overnight-nachtcreme-12/p/6043070",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml, rijpe huid"
+  "description": "50ml, rijpe huid",
+  "image": "/medias/sys_master/prd-images/h87/h46/30117219237918/prd-front-6043070-1_600x600/prd-front-6043070-1-600x600.jpg"
 }

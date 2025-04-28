@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Milka Moments Mix",
+  "code": "4929345",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "MONDELEZ NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/milka-moments-mix/p/4929345",
+  "listName": "Lister",
+  "brand": "Milka",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "169g",
+  "image": "/medias/sys_master/prd-images/h9e/h11/32211792723998/prd-front-4929345-1_600x600/prd-front-4929345-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051744",
+  "mmkId": "1051744",
+  "productGroupId": "475694",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/yves-saint-laurent-opium-eau-de-toilette/p/6073611",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hf7/h2b/30547609255966/prd-front-6073611-1_600x600/prd-front-6073611-1-600x600.jpg"
 }

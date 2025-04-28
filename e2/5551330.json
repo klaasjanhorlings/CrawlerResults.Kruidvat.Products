@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051752",
+  "mmkId": "1051752",
+  "productGroupId": "476024",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/miss-so-love-potion-bodymist/p/5551330",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "140ml"
+  "description": "140ml",
+  "image": "/medias/prd-front-5551330-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzc0MDN8aW1hZ2UvanBlZ3xhRFE0TDJnMlpDOHhOalU1TWpreE5UVTJNalV5Tmk5d2NtUXRabkp2Ym5RdE5UVTFNVE16TUMweFh6WXdNSGcyTURBfDkzMjFlNGQ0YzA4ZGU2NWYzYzJmMWFkN2ZkNTc1YWI3YjE1ZDUxZWY0NTZlMTI4NDhkMjhjMGQ3MDExYWE3YWY"
 }

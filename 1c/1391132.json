@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "ONTEX BVBA",
   "inStock": "inStock",
-  "onPromo": "1051275",
-  "mmkId": "1051275",
-  "productGroupId": "476107",
+  "onPromo": "1051755",
+  "mmkId": "1051755",
+  "productGroupId": "476111",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-classic-inlegkruisjes/p/1391132",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "45 stuks"
+  "description": "45 stuks",
+  "image": "/medias/sys_master/prd-images/h64/h27/28228920999966/prd-front-1391132-1_600x600/prd-front-1391132-1-600x600.jpg"
 }

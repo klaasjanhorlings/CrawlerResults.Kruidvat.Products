@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1051294",
-  "mmkId": "1051294",
-  "productGroupId": "477560",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-vitamine-c-80-suikervrij-tabletten/p/3461697",
@@ -37,5 +37,6 @@
       "name": "Vitamine C"
     }
   ],
-  "description": "300 stuks"
+  "description": "300 stuks",
+  "image": "/medias/sys_master/prd-images/h3e/h54/33355315281950/prd-front-3461697-1_600x600/prd-front-3461697-1-600x600.jpg"
 }

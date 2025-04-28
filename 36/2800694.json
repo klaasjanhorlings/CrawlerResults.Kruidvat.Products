@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Senseo Cappuccino Choco Coffee Pads",
+  "code": "2800694",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 4354 > 4355",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "1051731",
+  "mmkId": "1051731",
+  "productGroupId": "474450",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/douwe-egberts-senseo-cappuccino-choco-coffee-pads/p/2800694",
+  "listName": "Lister",
+  "brand": "Douwe Egberts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/prd-front-2800694-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzM4ODF8aW1hZ2UvanBlZ3xhR0ZoTDJneE1TOHhOelEwT1Rjek56Y3hOVGMwTWk5d2NtUXRabkp2Ym5RdE1qZ3dNRFk1TkMweFh6WXdNSGcyTURBfDgyYzYwZTVjNWYzZmEyN2VhNWYwOTcyM2JiZjk0Mzg1ZWI3MDNhMDRhMzc0MjY1ZDcwOTcwNWMxMTg4NDE0NTk"
+}

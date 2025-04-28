@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1051341",
-  "mmkId": "1051341",
-  "productGroupId": "480805",
+  "onPromo": "1051593",
+  "mmkId": "1051593",
+  "productGroupId": "450997",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-mystic-rose-shower-satin-shower-gel/p/5218284",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/ha2/h8f/28867843260446/prd-front-5218284-1_600x600/prd-front-5218284-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Yves Saint Laurent Black Opium Eau de Parfum",
+  "code": "4259718",
+  "price": "79.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "1051744",
+  "mmkId": "1051744",
+  "productGroupId": "475694",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/yves-saint-laurent-black-opium-eau-de-parfum/p/4259718",
+  "listName": "Lister",
+  "brand": "Yves Saint Laurent",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h3f/h25/30545043456030/prd-front-4259718-1_600x600/prd-front-4259718-1-600x600.jpg"
+}

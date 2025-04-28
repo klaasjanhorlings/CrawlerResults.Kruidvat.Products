@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "1051254",
-  "mmkId": "1051254",
-  "productGroupId": "474636",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rimmel-london-lasting-finish-35hr-001-pearl-foundation/p/6006999",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h3b/h69/29796149985310/prd-front-6006999-1_600x600/prd-front-6006999-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051615",
+  "mmkId": "1051615",
+  "productGroupId": "461145",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-baby-kids-nourishing-shampoo/p/5961212",
@@ -37,6 +37,5 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hfd/hf9/28808045068318/prd-front-5961212-1_600x600/prd-front-5961212-1-600x600.jpg"
+  "description": "200ml"
 }

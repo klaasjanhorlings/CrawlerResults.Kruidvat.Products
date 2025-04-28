@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1051230",
-  "mmkId": "1051230",
-  "productGroupId": "469045",
+  "onPromo": "1051693",
+  "mmkId": "1051693",
+  "productGroupId": "471438",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-vitamin-c-spf50-invisible-anti-pigmentvlekken-daily-uv-fluid/p/6237180",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h04/h8b/33152197034014/prd-front-6237180-1_600x600/prd-front-6237180-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3678 > 5727",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1051138",
-  "mmkId": "1051138",
-  "productGroupId": "452245",
+  "onPromo": "1051593",
+  "mmkId": "1051593",
+  "productGroupId": "450997",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-extra-dry-96h-antitranspirant-spray/p/6035125",
@@ -33,5 +33,6 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h6f/h97/30305107017758/prd-front-6035125-1_600x600/prd-front-6035125-1-600x600.jpg"
 }

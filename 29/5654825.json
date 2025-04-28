@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6719 > 6718",
   "supplier": "ALPINE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1051458",
-  "mmkId": "1051458",
-  "productGroupId": "476370",
+  "onPromo": "1051608",
+  "mmkId": "1051608",
+  "productGroupId": "460333",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/alpine-sleepdeep-slaapoordoppen/p/5654825",
@@ -37,5 +37,6 @@
       "name": "Oordoppen"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/hea/h5c/27541735571486/prd-front-5654825-1_600x600/prd-front-5654825-1-600x600.jpg"
 }

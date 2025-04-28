@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "DIT-IS BV",
   "inStock": "inStock",
-  "onPromo": "1051290",
-  "mmkId": "1051290",
-  "productGroupId": "477524",
+  "onPromo": "1051846",
+  "mmkId": "1051846",
+  "productGroupId": "488421",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pro-sonic-opzetborstels/p/4436195",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/he3/h76/30713682559006/prd-front-4436195-1_600x600/prd-front-4436195-1-600x600.jpg"
 }

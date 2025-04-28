@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6617 > 2001",
   "supplier": "L. TEN CATE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051808",
+  "mmkId": "1051808",
+  "productGroupId": "478339",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cotton-stretch-dameshipsters/p/5461534",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt M, 2 stuks"
+  "description": "zwart, mt M, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hcb/h58/27773257023518/prd-front-5461534-1_600x600/prd-front-5461534-1-600x600.jpg"
 }

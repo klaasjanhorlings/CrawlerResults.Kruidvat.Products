@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2834 > 3576",
   "supplier": "PIETERCIL BARENDS BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1051611",
+  "mmkId": "1051611",
+  "productGroupId": "460481",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/scholl-expert-care-intens-voedende-voetencreme/p/5096848",
@@ -33,5 +33,6 @@
       "name": "Voetcréme"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hba/hf2/33334210854942/prd-front-5096848-1_600x600/prd-front-5096848-1-600x600.jpg"
 }

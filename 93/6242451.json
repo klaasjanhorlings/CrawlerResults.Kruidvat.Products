@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1051240",
-  "mmkId": "1051240",
-  "productGroupId": "471185",
+  "onPromo": "1051843",
+  "mmkId": "1051843",
+  "productGroupId": "486858",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-uv-face-shine-control-spf50-zonnecreme/p/6242451",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hb2/h46/33554217795614/prd-front-6242451-1_600x600/prd-front-6242451-1-600x600.jpg"
 }

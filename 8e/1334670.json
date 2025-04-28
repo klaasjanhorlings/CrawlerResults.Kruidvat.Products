@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3108 > 3485",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1051172",
-  "mmkId": "1051172",
-  "productGroupId": "464179",
+  "onPromo": "1051628",
+  "mmkId": "1051628",
+  "productGroupId": "464180",
   "brandType": "A or B brand",
   "discount": "",
   "url": "/kneipp-teunisbloem-bodylotion/p/1334670",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h76/h22/28223429214238/prd-front-1334670-1_600x600/prd-front-1334670-1-600x600.jpg"
 }

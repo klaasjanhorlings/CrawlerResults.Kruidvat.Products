@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "The Useful Peach Beauty Crystal Hair Remover",
+  "code": "6037001",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2399 > 3115 > 3981 > 5075",
+  "supplier": "KARSTEN INTERNATIONAL B",
+  "inStock": "inStock",
+  "onPromo": "1051824",
+  "mmkId": "1051824",
+  "productGroupId": "479430",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/the-useful-peach-beauty-crystal-hair-remover/p/6037001",
+  "listName": "Lister",
+  "brand": "Peach Beauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266679,
+      "name": "Scheerapparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h73/hca/30208284983326/prd-front-6037001-1_600x600/prd-front-6037001-1-600x600.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clipper Spring Selection Tea Geschenkset",
+  "code": "5846510",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2630 > 2947 > 3743",
+  "supplier": "WESSANEN BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/clipper-spring-selection-tea-geschenkset/p/5846510",
+  "listName": "Lister",
+  "brand": "Clipper",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266887,
+      "name": "Thee"
+    }
+  ],
+  "description": "45 stuks"
+}

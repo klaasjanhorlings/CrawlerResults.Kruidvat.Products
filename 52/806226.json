@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 2839 > 3579",
   "supplier": "VIOKOX SA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051821",
+  "mmkId": "1051821",
+  "productGroupId": "478864",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-ontharingscreme-voor-de-gevoelige-huid/p/806226",
@@ -33,6 +33,5 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h2b/hae/32709153685534/prd-front-806226-1_600x600/prd-front-806226-1-600x600.jpg"
+  "description": "150ml"
 }

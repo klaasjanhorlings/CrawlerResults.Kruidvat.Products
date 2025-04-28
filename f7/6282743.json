@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ecover Universeel Vloeibaar Wasmiddel",
+  "code": "6282743",
+  "price": "4.99",
+  "priceOriginal": "10.79",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "ECOVER BELGIUM NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,80",
+  "url": "/ecover-universeel-vloeibaar-wasmiddel/p/6282743",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266066,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "750ml, 21 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h09/hb3/33545564684318/prd-front-6282743-1_600x600/prd-front-6282743-1-600x600.jpg"
+}

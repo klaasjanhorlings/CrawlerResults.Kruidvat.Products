@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1051172",
-  "mmkId": "1051172",
-  "productGroupId": "464179",
+  "onPromo": "1051628",
+  "mmkId": "1051628",
+  "productGroupId": "464180",
   "brandType": "A or B brand",
   "discount": "",
   "url": "/kneipp-refreshing-mint-eucalyptus-douchefoam/p/2939378",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hc1/hc3/27295138840606/prd-front-2939378-1_600x600/prd-front-2939378-1-600x600.jpg"
 }

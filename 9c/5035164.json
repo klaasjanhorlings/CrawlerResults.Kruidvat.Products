@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6696 > 2835",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1051139",
-  "mmkId": "1051139",
-  "productGroupId": "455499",
+  "onPromo": "1051691",
+  "mmkId": "1051691",
+  "productGroupId": "471424",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-dream-lengths-anti-pluis-serum/p/5035164",
@@ -33,5 +33,6 @@
       "name": "Haarserum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h9e/h6b/33048273125406/prd-front-5035164-1_600x600/prd-front-5035164-1-600x600.jpg"
 }

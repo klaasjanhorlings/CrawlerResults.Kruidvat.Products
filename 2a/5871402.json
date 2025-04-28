@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6505 > 6506",
   "supplier": "COSMO GROUP SP. Z O.O.",
   "inStock": "inStock",
-  "onPromo": "1051335",
-  "mmkId": "1051335",
-  "productGroupId": "479495",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mylaq-my-base/top-2-in-1-gellak/p/5871402",
@@ -33,5 +33,6 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h20/h24/33004067455006/prd-front-5871402-1_600x600/prd-front-5871402-1-600x600.jpg"
 }

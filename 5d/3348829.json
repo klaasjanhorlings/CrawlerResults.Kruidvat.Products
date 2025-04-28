@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3240 > 4131",
   "supplier": "BRADFORD & HAMILTON BV",
-  "inStock": "inStock",
-  "onPromo": "1051505",
-  "mmkId": "1051505",
-  "productGroupId": "481541",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/australian-gold-golden-sunshine-intensifier-zonnebank-bruiningslotion/p/3348829",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "130ml",
-  "image": "/medias/sys_master/prd-images/h81/heb/34073471418398/prd-front-3348829-1_600x600/prd-front-3348829-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb9/he9/34079672303646/prd-front-3348829-1_600x600/prd-front-3348829-1-600x600.jpg"
 }

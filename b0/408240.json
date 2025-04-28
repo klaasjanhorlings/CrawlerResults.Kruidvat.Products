@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1051216",
-  "mmkId": "1051216",
-  "productGroupId": "467393",
+  "onPromo": "1051599",
+  "mmkId": "1051599",
+  "productGroupId": "454600",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-baby-zachte-creme/p/408240",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h59/h94/28228004708382/prd-front-408240-1_600x600/prd-front-408240-1-600x600.jpg"
 }

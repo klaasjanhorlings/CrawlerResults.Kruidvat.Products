@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Verwarmd Buitenkussen",
+  "code": "6211623",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 5929 > 6019 > 6686 > 6687 > 6688",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/verwarmd-buitenkussen/p/6211623",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266050,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30266875,
+      "name": "Tuinmeubelen"
+    },
+    {
+      "id": 84926291,
+      "name": "Tuinstoelhoezen"
+    }
+  ],
+  "description": "beige, 40cm x 40cm",
+  "image": "/medias/sys_master/prd-images/haa/h63/33103288631326/prd-front-6211623-1_600x600/prd-front-6211623-1-600x600.jpg"
+}

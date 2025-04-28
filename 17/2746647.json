@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1051240",
-  "mmkId": "1051240",
-  "productGroupId": "471185",
+  "onPromo": "1051607",
+  "mmkId": "1051607",
+  "productGroupId": "459904",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-fresh-natural-antitranspirant-roller/p/2746647",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h83/h03/33178262765598/prd-front-2746647-1_600x600/prd-front-2746647-1-600x600.jpg"
 }

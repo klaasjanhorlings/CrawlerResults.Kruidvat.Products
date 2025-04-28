@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051598",
+  "mmkId": "1051598",
+  "productGroupId": "453249",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vogue-extravagant-parfum-deodorant-spray/p/4129175",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h93/h17/27521601798174/prd-front-4129175-1_600x600/prd-front-4129175-1-600x600.jpg"
 }

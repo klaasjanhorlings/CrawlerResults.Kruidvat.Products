@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6719 > 6718",
   "supplier": "COMFOOR BV",
   "inStock": "inStock",
-  "onPromo": "1051152",
-  "mmkId": "1051152",
-  "productGroupId": "459535",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pluggerz-enjoy-sleep-oordoppen/p/5613952",
@@ -37,5 +37,6 @@
       "name": "Snurken"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5613952-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODU5ODF8aW1hZ2UvanBlZ3xhRFkyTDJoak1pOHhOek0wTVRReU9EazRPVGs0TWk5d2NtUXRabkp2Ym5RdE5UWXhNemsxTWkweFh6WXdNSGcyTURBfGMxYjlmOWYzMmVlYTIyMzk4NDAyNWY1NWFiMWY0MjhmOTdmNTA4OTE3NjlkYThlMzdmMjhiODVkZTQzYWNjYTQ"
 }
