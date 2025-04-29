@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "M. Asam Eye Designer Vibrant Brown Oogpotlood",
+  "code": "5665318",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
+  "supplier": "ASAM-BETRIEBS GMBH",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/m-asam-eye-designer-vibrant-brown-oogpotlood/p/5665318",
+  "listName": "Lister",
+  "brand": "M. Asam",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266585,
+      "name": "Oogpotlood"
+    }
+  ],
+  "description": "3g",
+  "image": "/medias/sys_master/prd-images/h1c/h6f/28613469077534/prd-front-5665318-1_600x600/prd-front-5665318-1-600x600.jpg"
+}

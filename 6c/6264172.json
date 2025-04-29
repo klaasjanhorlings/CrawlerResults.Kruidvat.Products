@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Schwarzkopf Creme Supreme 10-0 Natuurlijk Ultra Lichtblond Verzorgende Crèmekleuring",
   "code": "6264172",
   "price": "20.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "182g",
-  "image": "/medias/sys_master/prd-images/h05/h26/33620400996382/prd-front-6264172-1_600x600/prd-front-6264172-1-600x600.jpg"
+  "description": "182g"
 }

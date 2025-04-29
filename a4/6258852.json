@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Sun Smooth 020 Medium Deep Neutral Tone Matte Cream Bronzer",
   "code": "6258852",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Bronzer"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hbb/ha0/33760659701790/prd-front-6258852-1_600x600/prd-front-6258852-1-600x600.jpg"
+  "description": "30ml"
 }

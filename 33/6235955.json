@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Infaillible Laque Resistance 420 Le Rouge Paris Lippenstift",
   "code": "6235955",
   "price": "18.99",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0a/hd0/33356813139998/prd-front-6235955-1_600x600/prd-front-6235955-1-600x600.jpg"
 }

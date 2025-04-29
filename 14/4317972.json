@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice 030 Metallic Lights Highlighting Eyeshadow",
   "code": "4317972",
   "price": "2.99",
@@ -37,5 +37,6 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h51/hc5/29939823575070/prd-front-4317972-1_600x600/prd-front-4317972-1-600x600.jpg"
 }

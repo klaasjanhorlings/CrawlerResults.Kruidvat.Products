@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Byredo Mixed Emotions Eau de Parfum",
   "code": "6252104",
   "price": "129.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc9/h53/33176452726814/prd-front-6252104-1_600x600/prd-front-6252104-1-600x600.jpg"
 }

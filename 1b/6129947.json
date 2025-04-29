@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup High Definition HDFP01 Translucent Finish Powder",
   "code": "6129947",
   "price": "10.95",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "8g",
-  "image": "/medias/sys_master/prd-images/h3f/h54/31930677723166/prd-front-6129947-1_600x600/prd-front-6129947-1-600x600.jpg"
+  "description": "8g"
 }

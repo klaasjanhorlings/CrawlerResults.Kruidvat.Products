@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Max Factor Colour Elixir 075 Ruby Tuesday Lipstick",
   "code": "2307418",
   "price": "15.99",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h55/h30/31161026609182/prd-front-2307418-1_600x600/prd-front-2307418-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup Shine Loud Color SHLP04 Life Goals Lipstick",
   "code": "6130689",
   "price": "13.95",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcb/h4a/31922044239902/prd-front-6130689-1_600x600/prd-front-6130689-1-600x600.jpg"
 }

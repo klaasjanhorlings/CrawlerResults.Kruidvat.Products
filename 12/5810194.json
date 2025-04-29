@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Infallible Flicks 05 Milky White Matte Eyeliner Pen",
   "code": "5810194",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "1ml"
+  "description": "1ml",
+  "image": "/medias/prd-front-5810194-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDE0OTN8aW1hZ2UvanBlZ3xhRGcxTDJoa1lTOHlOalkwTlRZMU16ZzRNRGcyTWk5d2NtUXRabkp2Ym5RdE5UZ3hNREU1TkMweFh6WXdNSGcyTURBfGY0MDllMWZjZmYyMmJjNDgwNTQ2MWQ3YTg5ZDJhZDgyMTQ1YzNjOGU4NDM1MTU0NDJmMzc3OTc5MjQwNDNjZDY"
 }

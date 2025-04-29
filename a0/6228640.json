@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Mattel Barbie Coffee Shop Set",
-  "code": "6230866",
+  "itemName": "Uno Party!",
+  "code": "6228640",
   "price": "14.99",
   "priceOriginal": "",
-  "itemBgbcat": "2183 > 4933 > 4980 > 5026 > 5921 > 6040",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
   "supplier": "MATTEL EUROPA BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/mattel-barbie-coffee-shop-set/p/6230866",
+  "url": "/uno-party/p/6228640",
   "listName": "Lister",
-  "brand": "Barbie",
+  "brand": "Mattel",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -25,10 +25,14 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266029,
-      "name": "Poppen en knuffels"
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h93/h6b/32922590773278/prd-front-6230866-1_600x600/prd-front-6230866-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h13/hf4/32663024533534/prd-front-6228640-1_600x600/prd-front-6228640-1-600x600.jpg"
 }

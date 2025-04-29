@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup 02 Ice Cream Highlighter Jumbo Stick",
   "code": "6129275",
   "price": "8.95",
@@ -33,6 +33,5 @@
       "name": "Highlighter"
     }
   ],
-  "description": "2,7g",
-  "image": "/medias/sys_master/prd-images/h67/h61/31927670636574/prd-front-6129275-1_600x600/prd-front-6129275-1-600x600.jpg"
+  "description": "2,7g"
 }

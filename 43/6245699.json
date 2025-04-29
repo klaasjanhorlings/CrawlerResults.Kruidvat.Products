@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Bright Eyes! 2 Under Eye Stick",
   "code": "6245699",
   "price": "3.29",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "5g"
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/hac/ha5/33483833212958/prd-front-6245699-1_600x600/prd-front-6245699-1-600x600.jpg"
 }

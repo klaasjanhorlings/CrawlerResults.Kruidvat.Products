@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Real Techniques Eye Shade + Blend Oogschaduwkwasten",
   "code": "5024447",
   "price": "12.99",
@@ -33,5 +33,6 @@
       "name": "Make-up kwasten"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/prd-front-5024447-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDgxMDd8aW1hZ2UvanBlZ3xhR1JpTDJoa1lpOHhOekV4TWpFNU9EQXlNVEUxTUM5d2NtUXRabkp2Ym5RdE5UQXlORFEwTnkweFh6WXdNSGcyTURBfDcxZWQxZjUzYjZiYzNmN2Y1NDFkOTI0ZWQ3ZDY3OTM2Y2RjN2JlMzI5MzFjOTY0NDgxNTIxY2M0MzI3Nzc2YzY"
 }

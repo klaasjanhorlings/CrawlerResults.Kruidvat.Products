@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Made To Stay 010 Transparant Fixing Eyebrow Gel",
   "code": "5068155",
   "price": "3.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwgel"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h0e/h49/33766086443038/prd-front-5068155-1_600x600/prd-front-5068155-1-600x600.jpg"
 }

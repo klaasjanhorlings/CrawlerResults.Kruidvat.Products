@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Drs Leenarts Schuimende Gezichtsreiniger",
   "code": "5754680",
   "price": "14.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "100ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/hda/h84/34080293650462/prd-front-5754680-1_600x600/prd-front-5754680-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mylaq My Gleaming Gold Gellak",
   "code": "5871640",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h8a/hb4/33001065381918/prd-front-5871640-1_600x600/prd-front-5871640-1-600x600.jpg"
+  "description": "5ml"
 }

@@ -21,10 +21,17 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266052,
-      "name": "Huishoudelijke apparaten"
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053317,
+      "name": "Schoonmaakapparatuur"
+    },
+    {
+      "id": 75054064,
+      "name": "Stofzuigers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h0a/hc9/30876535291934/prd-front-6102395-1_600x600/prd-front-6102395-1-600x600.jpg"
+  "description": ""
 }

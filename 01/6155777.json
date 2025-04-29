@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Paco Rabanne Olympéa Blossom Eau de Parfum",
   "code": "6155777",
   "price": "39.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h2e/h31/31597379977246/prd-front-6155777-1_600x600/prd-front-6155777-1-600x600.jpg"
 }

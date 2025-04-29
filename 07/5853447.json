@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Men Sensitive SPF15 Gezichtscrème",
   "code": "5853447",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Gezichtscreme mannen"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h08/h46/33142171697182/prd-front-5853447-1_600x600/prd-front-5853447-1-600x600.jpg"
 }

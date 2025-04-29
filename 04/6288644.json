@@ -4,7 +4,7 @@
   "itemName": "Pedigree Dentastix Hondensnacks",
   "code": "6288644",
   "price": "5.99",
-  "priceOriginal": "",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2007 > 2081 > 2239 > 2360 > 2911 > 4126",
   "supplier": "MARS PETFOODS",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,00",
   "url": "/pedigree-dentastix-hondensnacks/p/6288644",
   "listName": "Lister",
   "brand": "Pedigree",
@@ -29,8 +29,8 @@
       "name": "Dier"
     },
     {
-      "id": 30266889,
-      "name": "Diervoeding"
+      "id": 30266890,
+      "name": "Diersnacks"
     }
   ],
   "description": "28 stuks",

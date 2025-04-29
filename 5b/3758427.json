@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Terre Indienne Teint Doré Poeder",
   "code": "3758427",
   "price": "14.99",
@@ -33,5 +33,6 @@
       "name": "Bronzer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-3758427-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDMxNjF8aW1hZ2UvanBlZ3xhR1k1TDJnd01DOHlOamt4TWpreE56a3hNell6TUM5d2NtUXRabkp2Ym5RdE16YzFPRFF5TnkweFh6WXdNSGcyTURBfDMzOTczM2JjNmY0OGRlZGQ0NTM5Njc5OGIyZDhjZmVlMzg5NTczODM3NTk4NDBlNDg0YzI4NDhmYTRmM2VjZDA"
 }

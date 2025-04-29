@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Neutrogena Retinol Boost Dagcrème",
   "code": "5627350",
   "price": "35.99",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hcc/hbd/29143922966558/prd-front-5627350-1_600x600/prd-front-5627350-1-600x600.jpg"
+  "description": "50ml"
 }

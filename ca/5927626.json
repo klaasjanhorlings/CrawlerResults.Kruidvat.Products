@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Revolution Felt & Kohl Brown Eyeliner",
   "code": "5927626",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "0.2g"
+  "description": "0.2g",
+  "image": "/medias/sys_master/prd-images/h19/h59/29569008500766/prd-front-5927626-1_600x600/prd-front-5927626-1-600x600.jpg"
 }

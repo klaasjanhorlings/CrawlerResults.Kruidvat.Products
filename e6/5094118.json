@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Matt Pro Ink 80 Dream Big Liquid Lipstick",
   "code": "5094118",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/hcd/h9d/29938755272734/prd-front-5094118-1_600x600/prd-front-5094118-1-600x600.jpg"
+  "description": "5ml"
 }

@@ -1,11 +1,11 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Color Riche 600 Nude Audacious Intense Volume Matte Lippenstift",
   "code": "5783650",
   "price": "16.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
   "onPromo": "1051691",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266595,
-      "name": "Lipliner"
+      "id": 30266582,
+      "name": "Lipstick"
     }
   ],
   "description": "1,8g",

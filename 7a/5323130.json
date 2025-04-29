@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Préférence Cool Blondes 7.1 As Middenblond Permanente Haarkleuring",
   "code": "5323130",
   "price": "22.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h9d/h51/31766691905566/prd-front-5323130-1_600x600/prd-front-5323130-1-600x600.jpg"
+  "description": ""
 }

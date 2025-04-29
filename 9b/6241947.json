@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Grippy Serum Grip Primer",
   "code": "6241947",
   "price": "17.99",
@@ -33,6 +33,5 @@
       "name": "Primer"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hcf/h24/33353437413406/prd-front-6241947-1_600x600/prd-front-6241947-1-600x600.jpg"
+  "description": ""
 }

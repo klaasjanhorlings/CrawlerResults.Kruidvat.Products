@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Burberry Goddess Intense Eau de Parfum",
+  "code": "6279887",
+  "price": "84.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "1051744",
+  "mmkId": "1051744",
+  "productGroupId": "475694",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/burberry-goddess-intense-eau-de-parfum/p/6279887",
+  "listName": "Lister",
+  "brand": "Burberry",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/he7/hb7/33486383808542/prd-front-6279887-1_600x600/prd-front-6279887-1-600x600.jpg"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Revolution IRL Filter F3 Longwear Foundation",
   "code": "5737019",
   "price": "11.99",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "23ml",
-  "image": "/medias/prd-front-5737019-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDkwMjh8aW1hZ2UvanBlZ3xhREl3TDJoalpDOHhOamd5T0RnMU56TXhPVFExTkM5d2NtUXRabkp2Ym5RdE5UY3pOekF4T1MweFh6WXdNSGcyTURBfGQxNTAwMTBmMjA2ZjIzZWJkM2MyOTRkNjViOTk5M2JmODkzZDc1NjJhZjVhMTYyZWQ3MWNkYjhiZjhhODE1YzE"
+  "description": "23ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Max Factor 070 Olive Oogpotlood",
   "code": "81727",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he9/h25/28519538163742/prd-front-81727-1_600x600/prd-front-81727-1-600x600.jpg"
 }

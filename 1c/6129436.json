@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup 04 Chocolate Micro Brow Pencil",
   "code": "6129436",
   "price": "10.95",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1e/hb1/31923393167390/prd-front-6129436-1_600x600/prd-front-6129436-1-600x600.jpg"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Olay Regenerist SPF30 Dagcrème Navulling",
   "code": "6215683",
   "price": "33.99",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h2a/hce/32904284110878/prd-front-6215683-1_600x600/prd-front-6215683-1-600x600.jpg"
+  "description": "50ml"
 }

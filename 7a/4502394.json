@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris True Match 2C Vanilla Rose Poeder",
   "code": "4502394",
   "price": "16.99",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbf/h3e/28792752767006/prd-front-4502394-1_600x600/prd-front-4502394-1-600x600.jpg"
 }

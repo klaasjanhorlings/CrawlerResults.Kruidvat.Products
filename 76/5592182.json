@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Max Factor Crème Puff 042 Pressed Powder",
   "code": "5592182",
   "price": "16.99",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "14g"
+  "description": "14g",
+  "image": "/medias/sys_master/prd-images/hb8/h69/27621256331294/prd-front-5592182-1_600x600/prd-front-5592182-1-600x600.jpg"
 }

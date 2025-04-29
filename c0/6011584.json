@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice 170 Chocolate Lover Plumping Lipliner",
   "code": "6011584",
   "price": "2.69",
@@ -33,5 +33,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/hb8/hce/33040274784286/prd-front-6011584-1_600x600/prd-front-6011584-1-600x600.jpg"
 }

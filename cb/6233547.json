@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Butter Drippin' 040 Bisou Bisou Glossy Lip Balm",
   "code": "6233547",
   "price": "3.59",
@@ -33,5 +33,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h3a/h13/33046672801822/prd-front-6233547-1_600x600/prd-front-6233547-1-600x600.jpg"
 }

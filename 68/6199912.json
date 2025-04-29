@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Beauty of Joseon Ginseng Essence Water",
   "code": "6199912",
   "price": "19.9",
@@ -33,6 +33,5 @@
       "name": "Essence"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/ha8/h62/32246586671134/prd-front-6199912-1_600x600/prd-front-6199912-1-600x600.jpg"
+  "description": "150ml"
 }

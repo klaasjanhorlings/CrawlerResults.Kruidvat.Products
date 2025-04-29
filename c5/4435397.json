@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051782",
+  "mmkId": "1051782",
+  "productGroupId": "477746",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elmex-anti-caries-mentholvrij-tandpasta/p/4435397",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Anti-cariës"
+  "description": "75ml - Anti-cariës",
+  "image": "/medias/sys_master/prd-images/h93/h9b/30302239817758/prd-front-4435397-1_600x600/prd-front-4435397-1-600x600.jpg"
 }

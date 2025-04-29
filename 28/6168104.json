@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kinderpyjama",
+  "code": "6168104",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2495 > 3061 > 3520 > 5795 > 5928 > 6716",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kinderpyjama/p/6168104",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266856,
+      "name": "Kinderpyjama's"
+    }
+  ],
+  "description": "mt 104-110",
+  "image": "/medias/sys_master/prd-images/h2f/h29/33279768297502/prd-front-6168104-1_600x600/prd-front-6168104-1-600x600.jpg"
+}

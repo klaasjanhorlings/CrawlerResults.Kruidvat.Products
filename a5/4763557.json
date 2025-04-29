@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Magic BB Medium Dark 5-in-1 Transforming Skin Corrector",
   "code": "4763557",
   "price": "16.99",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266580,
-      "name": "BB cream"
+      "id": 30266581,
+      "name": "CC cream"
     }
   ],
   "description": "30ml",

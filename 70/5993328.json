@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Color Riche 540 Nude Unstoppable Satin Lippenstift",
   "code": "5993328",
   "price": "16.99",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,54g"
+  "description": "4,54g",
+  "image": "/medias/sys_master/prd-images/hfa/h68/30753428537374/prd-front-5993328-1_600x600/prd-front-5993328-1-600x600.jpg"
 }

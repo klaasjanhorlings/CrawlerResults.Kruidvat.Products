@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Draaiende Wipwap",
+  "code": "6270024",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2263 > 2622 > 3301 > 4200 > 5921 > 6023",
+  "supplier": "HERMANEX INTERNATIONAL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/draaiende-wipwap/p/6270024",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 57879503,
+      "name": "Buitenspellen"
+    }
+  ],
+  "description": "172cm",
+  "image": "/medias/sys_master/prd-images/h57/h84/33465973047326/prd-front-6270024-1_600x600/prd-front-6270024-1-600x600.jpg"
+}

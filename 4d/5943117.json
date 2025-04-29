@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Gel Nail Colour 61 Wavy Baby Nagellak",
   "code": "5943117",
   "price": "1.99",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "8ml",
-  "image": "/medias/sys_master/prd-images/h2f/h8b/30115901964318/prd-front-5943117-1_600x600/prd-front-5943117-1-600x600.jpg"
+  "description": "8ml"
 }

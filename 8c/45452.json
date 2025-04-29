@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Préférence 4.15 Intens Diepbruin Permanente Haarkleuring",
   "code": "45452",
   "price": "22.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h9d/h8b/32291839672350/prd-front-45452-1_600x600/prd-front-45452-1-600x600.jpg"
+  "description": ""
 }

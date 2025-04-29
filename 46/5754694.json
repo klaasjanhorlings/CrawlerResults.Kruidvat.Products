@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Drs Leenarts Vette & Onzuivere Huid SPF30 Dagcrème",
   "code": "5754694",
   "price": "18.99",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hb8/h23/33480534229022/prd-front-5754694-1_600x600/prd-front-5754694-1-600x600.jpg"
 }

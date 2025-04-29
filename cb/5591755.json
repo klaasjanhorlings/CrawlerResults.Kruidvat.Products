@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice All Matt & Shine Control Powder 002 Banana Bright",
   "code": "5591755",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "10g"
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/h4c/h8c/29949231726622/prd-front-5591755-1_600x600/prd-front-5591755-1-600x600.jpg"
 }

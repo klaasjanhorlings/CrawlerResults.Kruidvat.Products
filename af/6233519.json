@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Tiny Treasures 020 Wild Berry Eyeshadow Palette",
   "code": "6233519",
   "price": "4.99",
@@ -37,5 +37,6 @@
       "name": "Palette oogschaduw"
     }
   ],
-  "description": "4,2g"
+  "description": "4,2g",
+  "image": "/medias/sys_master/prd-images/hc6/hb0/33047227498526/prd-front-6233519-1_600x600/prd-front-6233519-1-600x600.jpg"
 }

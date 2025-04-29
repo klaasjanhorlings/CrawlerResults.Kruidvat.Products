@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup Shine Loud SHLP02 Goal Crusher Lipstick",
   "code": "6130801",
   "price": "13.95",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc7/hf5/31930661175326/prd-front-6130801-1_600x600/prd-front-6130801-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Invisible Cover 040N Foundation",
   "code": "6105118",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hf5/h0b/33039015051294/prd-front-6105118-1_600x600/prd-front-6105118-1-600x600.jpg"
+  "description": "30ml"
 }

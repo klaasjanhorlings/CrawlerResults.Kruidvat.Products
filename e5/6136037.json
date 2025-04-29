@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York SuperStay Vinyl Ink 150 Striking Longwear Liquid Lipstick",
   "code": "6136037",
   "price": "17.99",
@@ -33,6 +33,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h48/h33/33962445864990/prd-front-6136037-1_600x600/prd-front-6136037-1-600x600.jpg"
+  "description": ""
 }

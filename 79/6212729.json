@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Diamond Glaze 040 Diamonds Made Me Do It Lip Gloss",
   "code": "6212729",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "3ml"
+  "description": "3ml",
+  "image": "/medias/sys_master/prd-images/h9d/hc3/33046675226654/prd-front-6212729-1_600x600/prd-front-6212729-1-600x600.jpg"
 }

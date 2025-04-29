@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dr. Paw Paw You Gorgeous Skin Hydrating Day Cream",
   "code": "6124095",
   "price": "24.99",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "45ml",
-  "image": "/medias/sys_master/prd-images/h57/ha4/31776641417246/prd-front-6124095-1_600x600/prd-front-6124095-1-600x600.jpg"
+  "description": "45ml"
 }

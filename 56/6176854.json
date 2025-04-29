@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Color FX by imPRESS The No Glue Mani Stars Kunstnagels",
   "code": "6176854",
   "price": "11.99",
@@ -37,5 +37,6 @@
       "name": "Nepnagels"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/ha9/h82/32213293793310/prd-front-6176854-1_600x600/prd-front-6176854-1-600x600.jpg"
 }

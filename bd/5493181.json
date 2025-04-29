@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Catrice Lash Separator",
+  "code": "5493181",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-lash-separator/p/5493181",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266576,
+      "name": "Mascara"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd4/h27/29942820929566/prd-front-5493181-1_600x600/prd-front-5493181-1-600x600.jpg"
+}

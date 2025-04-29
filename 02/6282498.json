@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Weleda Mandarino di Capri Geschenkset",
+  "code": "6282498",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
+  "supplier": "WELEDA BENELUX SE",
+  "inStock": "inStock",
+  "onPromo": "1051744",
+  "mmkId": "1051744",
+  "productGroupId": "475694",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/weleda-mandarino-di-capri-geschenkset/p/6282498",
+  "listName": "Lister",
+  "brand": "Weleda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72656138,
+      "name": "Geschenksets voor haar"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbb/h11/33539035463710/prd-front-6282498-1_600x600/prd-front-6282498-1-600x600.jpg"
+}

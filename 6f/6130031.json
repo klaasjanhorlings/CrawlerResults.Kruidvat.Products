@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup 01 Clearly Spicy Duck Plump Extreme Sensation Lipgloss",
   "code": "6130031",
   "price": "11.95",
@@ -33,5 +33,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "6,8ml"
+  "description": "6,8ml",
+  "image": "/medias/sys_master/prd-images/h5c/h87/31921511464990/prd-front-6130031-1_600x600/prd-front-6130031-1-600x600.jpg"
 }

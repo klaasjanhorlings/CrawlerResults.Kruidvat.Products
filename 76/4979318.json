@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Men Direct Hydration Aftershave Balm",
   "code": "4979318",
   "price": "3.69",
@@ -33,5 +33,6 @@
       "name": "Aftershave"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-4979318-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njc1MzV8aW1hZ2UvanBlZ3xhR0k0TDJoaE5pOHlOamt4TmpRME1EWXpOelEzTUM5d2NtUXRabkp2Ym5RdE5EazNPVE14T0MweFh6WXdNSGcyTURBfDM1MmU1NmUxZTAxODcxNTNmYTcyMWJkZTVkZTI5MDczMmIzNjYxZjM2MzEwZTE4Y2VmMzU1ODNlOTI1OTQ5M2M"
 }
