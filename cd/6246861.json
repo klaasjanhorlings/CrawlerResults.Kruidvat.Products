@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Prada Paradoxe Virtual Flower Eau de Parfum",
   "code": "6246861",
   "price": "64.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hd8/h68/33104718659614/prd-front-6246861-1_600x600/prd-front-6246861-1-600x600.jpg"
 }

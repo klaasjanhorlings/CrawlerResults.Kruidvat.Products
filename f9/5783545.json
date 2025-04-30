@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Prime Lab 24H Pore Minimizer",
   "code": "5783545",
   "price": "16.99",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/prd-front-5783545-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDMwOTJ8aW1hZ2UvanBlZ3xhREkwTDJnellTOHlOamMzTkRjek16RXlOemN4TUM5d2NtUXRabkp2Ym5RdE5UYzRNelUwTlMweFh6WXdNSGcyTURBfDAwOGZjZjU1YzNhN2NmMGE2NDAzNzEzOTRjM2I3YjVlNGZiNzFiMGI4ZmE1ZGNkNzgzYjhkMzIzMTI4MDgwZjA"
+  "description": "30ml"
 }

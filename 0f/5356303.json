@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Excellence Cool Crème 5.11 Ultra As Lichtbruin Haarkleuring",
   "code": "5356303",
   "price": "19.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha2/h79/31761889493022/prd-front-5356303-1_600x600/prd-front-5356303-1-600x600.jpg"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York SuperStay Teddy Tint 10 Current Mood Lippenstift",
   "code": "6200850",
   "price": "17.99",
@@ -33,6 +33,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hee/h9f/33111511564318/prd-front-6200850-1_600x600/prd-front-6200850-1-600x600.jpg"
+  "description": ""
 }

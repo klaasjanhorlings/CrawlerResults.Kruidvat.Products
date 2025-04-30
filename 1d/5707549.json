@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Lift Up Volume & Lift 010 Deep Black Waterproof Mascara",
   "code": "5707549",
   "price": "5.49",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "11ml"
+  "description": "11ml",
+  "image": "/medias/sys_master/prd-images/h0f/h36/29938846793758/prd-front-5707549-1_600x600/prd-front-5707549-1-600x600.jpg"
 }

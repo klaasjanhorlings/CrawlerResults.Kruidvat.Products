@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Jil Sander Sport for Woman Eau de Toilette",
   "code": "4396680",
   "price": "17.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h9a/hd6/30759914340382/prd-front-4396680-1_600x600/prd-front-4396680-1-600x600.jpg"
 }

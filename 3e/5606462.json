@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Power Base Matte Liquid Longlasting Eye Primer",
   "code": "5606462",
   "price": "3.49",
@@ -33,6 +33,5 @@
       "name": "Primer"
     }
   ],
-  "description": "8,5ml",
-  "image": "/medias/sys_master/prd-images/h7b/hb0/27622772736030/prd-front-5606462-1_600x600/prd-front-5606462-1-600x600.jpg"
+  "description": "8,5ml"
 }

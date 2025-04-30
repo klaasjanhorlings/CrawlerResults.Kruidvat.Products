@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Pearly Potion 01 Golden Peach Multi-reflective Lipgloss",
   "code": "6246077",
   "price": "3.69",
@@ -33,6 +33,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "2,5ml",
-  "image": "/medias/sys_master/prd-images/ha9/ha0/33339082440734/prd-front-6246077-1_600x600/prd-front-6246077-1-600x600.jpg"
+  "description": "2,5ml"
 }

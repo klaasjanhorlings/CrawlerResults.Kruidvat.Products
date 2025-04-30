@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L Oréal Paris True Match 7.R/7.C Rose Amber Foundation",
   "code": "4167129",
   "price": "19.99",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hca/h9b/33514759028766/prd-front-4167129-1_600x600/prd-front-4167129-1-600x600.jpg"
+  "description": "30ml"
 }

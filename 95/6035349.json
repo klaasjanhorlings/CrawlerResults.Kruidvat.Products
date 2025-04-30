@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York Tattoo Liner 60 Emerald Energy Automatic Gel Pencil",
   "code": "6035349",
   "price": "11.99",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h46/h1d/31652451811358/prd-front-6035349-1_600x600/prd-front-6035349-1-600x600.jpg"
 }

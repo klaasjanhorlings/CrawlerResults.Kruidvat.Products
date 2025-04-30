@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Stay With Me 048 N Deep Praline Longlasting Concealer",
   "code": "5484319",
   "price": "3.49",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "7ml",
-  "image": "/medias/prd-front-5484319-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDAwODB8aW1hZ2UvanBlZ3xhR00yTDJoaE15OHhOamsxTmpReU1EZ3hOamt5Tmk5d2NtUXRabkp2Ym5RdE5UUTRORE14T1MweFh6WXdNSGcyTURBfDZjYjRkZGQ5MzMwNzU1OGEzY2NkMDgyZGRjYmFiYTk0ZDE3OGM1YWJjMjQ2YzVkOWRhMjk5Y2MzMzQ3ZjQ4ZmY"
+  "description": "7ml"
 }

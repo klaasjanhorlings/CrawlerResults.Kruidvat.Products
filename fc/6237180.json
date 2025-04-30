@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier Vitamin C SPF50+ Invisible Anti-Pigmentvlekken Daily Uv Fluid",
   "code": "6237180",
   "price": "23.99",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h04/h8b/33152197034014/prd-front-6237180-1_600x600/prd-front-6237180-1-600x600.jpg"
+  "description": "40ml"
 }

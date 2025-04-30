@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Line it Like a Pro! 01 Black Eyeliner",
   "code": "6245909",
   "price": "3.49",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "1,2ml"
+  "description": "1,2ml",
+  "image": "/medias/sys_master/prd-images/h8f/h53/33482550411294/prd-front-6245909-1_600x600/prd-front-6245909-1-600x600.jpg"
 }

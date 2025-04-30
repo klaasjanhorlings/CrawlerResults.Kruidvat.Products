@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Extreme Gel 01 Gloss To Go Topcoat",
   "code": "6123353",
   "price": "2.69",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "8ml",
-  "image": "/medias/sys_master/prd-images/h41/h6d/31461963694110/prd-front-6123353-1_600x600/prd-front-6123353-1-600x600.jpg"
+  "description": "8ml"
 }

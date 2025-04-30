@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ardell Undies Naked Seamless Underlash Extensions Navulverpakking",
   "code": "6176861",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "32 stuks",
-  "image": "/medias/sys_master/prd-images/hcd/h1c/32086549430302/prd-front-6176861-1_600x600/prd-front-6176861-1-600x600.jpg"
+  "description": "32 stuks"
 }

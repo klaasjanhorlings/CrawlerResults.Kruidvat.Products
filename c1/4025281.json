@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York Fit Me Matte & Poreless 122 Creamy Beige Foundation",
   "code": "4025281",
   "price": "12.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0c/h1d/27569163501598/prd-front-4025281-1_600x600/prd-front-4025281-1-600x600.jpg"
 }

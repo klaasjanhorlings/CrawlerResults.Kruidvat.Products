@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Rimmel London SuperGel 075 Amber Glow Nagellak",
   "code": "6026802",
   "price": "8.99",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hd4/ha4/30773991833630/prd-front-6026802-1_600x600/prd-front-6026802-1-600x600.jpg"
+  "description": ""
 }

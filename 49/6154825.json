@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Invisible Cover 095N Foundation",
   "code": "6154825",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hc7/h77/33045982937118/prd-front-6154825-1_600x600/prd-front-6154825-1-600x600.jpg"
 }

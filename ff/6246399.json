@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Laneige Radian-C Cream",
   "code": "6246399",
   "price": "29.0",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266603,
-      "name": "Nachtcreme"
+      "id": 73443650,
+      "name": "Korean Skincare"
     }
   ],
   "description": "30ml",

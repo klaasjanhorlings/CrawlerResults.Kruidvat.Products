@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Control Freak CFBG01 Clear Eyebrow Gel",
   "code": "6129282",
   "price": "7.95",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwgel"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h07/hbb/31921294016542/prd-front-6129282-1_600x600/prd-front-6129282-1-600x600.jpg"
 }

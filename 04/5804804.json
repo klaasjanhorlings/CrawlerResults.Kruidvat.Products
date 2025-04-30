@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Extreme Shine 10 Volume Lipgloss",
   "code": "5804804",
   "price": "2.29",
@@ -33,5 +33,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "5ml, 10"
+  "description": "5ml, 10",
+  "image": "/medias/sys_master/prd-images/hd3/h4f/33043509149726/prd-front-5804804-1_600x600/prd-front-5804804-1-600x600.jpg"
 }

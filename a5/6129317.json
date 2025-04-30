@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup 07 Espresso Micro Brow Pencil",
   "code": "6129317",
   "price": "10.95",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h92/h53/31928251580446/prd-front-6129317-1_600x600/prd-front-6129317-1-600x600.jpg"
 }

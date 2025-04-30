@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cetaphil PRO Itch Control Hydraterende Melk",
   "code": "5885577",
   "price": "20.29",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "295ml"
+  "description": "295ml",
+  "image": "/medias/sys_master/prd-images/h15/h8a/27838676729886/prd-front-5885577-1_600x600/prd-front-5885577-1-600x600.jpg"
 }

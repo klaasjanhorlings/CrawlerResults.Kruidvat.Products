@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 8H Matte Comfort 13 Never Too Much Lipliner",
   "code": "6123017",
   "price": "1.99",
@@ -33,5 +33,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "3g"
+  "description": "3g",
+  "image": "/medias/sys_master/prd-images/h82/h69/31461963563038/prd-front-6123017-1_600x600/prd-front-6123017-1-600x600.jpg"
 }

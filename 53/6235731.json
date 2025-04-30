@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Plump Ambition 201 Milky Nu Hyaluronic Lip Oil",
   "code": "6235731",
   "price": "16.99",
@@ -33,6 +33,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1c/hf4/33608036778014/prd-front-6235731-1_600x600/prd-front-6235731-1-600x600.jpg"
+  "description": ""
 }

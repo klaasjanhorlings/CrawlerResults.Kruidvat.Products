@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Denman D14 The Mini Styler Borstel",
   "code": "5949032",
   "price": "10.99",
@@ -33,5 +33,6 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "zwart, rood"
+  "description": "zwart, rood",
+  "image": "/medias/sys_master/prd-images/h5c/h8f/28889035178014/prd-front-5949032-1_600x600/prd-front-5949032-1-600x600.jpg"
 }

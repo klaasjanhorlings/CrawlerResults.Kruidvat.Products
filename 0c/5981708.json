@@ -29,10 +29,13 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266712,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235340,
+      "name": "Droge en gevoelige huid"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hf7/h7c/29833028304926/prd-front-5981708-1_600x600/prd-front-5981708-1-600x600.jpg"
+  "description": "100ml"
 }

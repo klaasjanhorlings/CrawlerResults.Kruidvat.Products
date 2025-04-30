@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Beauty of Joseon Ginseng Cleansing Oil",
   "code": "6200346",
   "price": "21.9",
@@ -33,5 +33,6 @@
       "name": "Korean Skincare"
     }
   ],
-  "description": "210ml"
+  "description": "210ml",
+  "image": "/medias/sys_master/prd-images/h60/h21/32247711924254/prd-front-6200346-1_600x600/prd-front-6200346-1-600x600.jpg"
 }

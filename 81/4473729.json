@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris True Match N4 Beige Poeder",
   "code": "4473729",
   "price": "16.99",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-4473729-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjAwMTZ8aW1hZ2UvanBlZ3xhRGt4TDJobVlpOHhOak0yT1RFNE5qWTJPRFUzTkM5d2NtUXRabkp2Ym5RdE5EUTNNemN5T1MweFh6WXdNSGcyTURBfDM0NTU3ZTE5MjBlNDQ5OWIxMGE4ZGEzNjE3NzJiODg1NjRhMmYyZTg5ZmViZjAxZGI2MTk4OTEyNGRiMTYxODA"
 }

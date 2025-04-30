@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Mylaq My Classic White Gellak",
   "code": "5871325",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/ha3/h44/33008955392030/prd-front-5871325-1_600x600/prd-front-5871325-1-600x600.jpg"
+  "description": "5ml"
 }

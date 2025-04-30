@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sentio Signature Collection Opal Glow Eau De Parfum",
   "code": "6064567",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h8c/h74/31567991668766/prd-front-6064567-1_600x600/prd-front-6064567-1-600x600.jpg"
 }

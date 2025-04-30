@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 7.73 Licht Goud Bruin Crème Haarkleuring",
   "code": "660366",
   "price": "6.49",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he1/haa/28223153602590/prd-front-660366-1_600x600/prd-front-660366-1-600x600.jpg"
+  "description": ""
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Montagne Jeunesse Charcoal Peel-Off Gezichtsmasker",
+  "code": "4224858",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "1051706",
+  "mmkId": "1051706",
+  "productGroupId": "471983",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/montagne-jeunesse-charcoal-peel-off-gezichtsmasker/p/4224858",
+  "listName": "Lister",
+  "brand": "Montagne Jeunesse",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266607,
+      "name": "Gezichtsmaskers"
+    },
+    {
+      "id": 87374779,
+      "name": "Peel-off maskers"
+    }
+  ],
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/h31/h1b/33632754008094/prd-front-4224858-1_600x600/prd-front-4224858-1-600x600.jpg"
+}

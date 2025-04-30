@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York Superfluff 260 Deep Brown Brow Mousse",
   "code": "6241772",
   "price": "15.99",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwgel"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h4c/hc1/33674983407646/prd-front-6241772-1_600x600/prd-front-6241772-1-600x600.jpg"
+  "description": "5ml"
 }

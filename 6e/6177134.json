@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kiss Bare But Better TruNude Kunstnagels",
   "code": "6177134",
   "price": "13.99",
@@ -37,5 +37,6 @@
       "name": "Nepnagels"
     }
   ],
-  "description": "28 stuks"
+  "description": "28 stuks",
+  "image": "/medias/sys_master/prd-images/hcd/hca/32212428029982/prd-front-6177134-1_600x600/prd-front-6177134-1-600x600.jpg"
 }

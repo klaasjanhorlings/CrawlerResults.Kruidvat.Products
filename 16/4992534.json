@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Rose Care Micellair Reinigingsgel",
   "code": "4992534",
   "price": "10.99",
@@ -37,5 +37,6 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "150ml - Alle huidtypen"
+  "description": "150ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hb3/h43/32865967046686/prd-front-4992534-1_600x600/prd-front-4992534-1-600x600.jpg"
 }

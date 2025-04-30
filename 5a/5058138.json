@@ -1,15 +1,15 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Max Factor Lipfinity Rising Stars 082 Stardust Lipstick",
   "code": "5058138",
   "price": "20.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,2g",
-  "image": "/medias/prd-front-5058138-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQ4NzB8aW1hZ2UvanBlZ3xhRFZpTDJneU5TOHhOekl3TVRrNE1qTTBNVEUxTUM5d2NtUXRabkp2Ym5RdE5UQTFPREV6T0MweFh6WXdNSGcyTURBfDAxYzMzY2QwNGZlOTNmNDA1NDk0MDJiYWRjYTNhZTkzZWRlYzM3Zjk3MWM4NjZlMjk3M2M5ZWVhMjEyN2E3MmI"
+  "description": "4,2g"
 }

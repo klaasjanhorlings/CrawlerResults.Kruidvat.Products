@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2500 > 3102 > 4104",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ej-swaab-verzorgende-aambeiendoekjes/p/1845635",
@@ -37,5 +37,6 @@
       "name": "Aambeien"
     }
   ],
-  "description": "Medisch hulpmiddel - 25 stuks"
+  "description": "Medisch hulpmiddel - 25 stuks",
+  "image": "/medias/sys_master/prd-images/h72/h16/29991171719198/prd-front-1845635-1_600x600/prd-front-1845635-1-600x600.jpg"
 }

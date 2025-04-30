@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Color FX by imPRESS The No Glue Mani Rebel Kunstnagels",
   "code": "6176847",
   "price": "11.99",
@@ -37,5 +37,6 @@
       "name": "Nepnagels"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h0c/h5c/32211832766494/prd-front-6176847-1_600x600/prd-front-6176847-1-600x600.jpg"
 }

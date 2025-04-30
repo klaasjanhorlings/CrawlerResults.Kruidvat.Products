@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Syoss 2.1 Zwartbruin Permanente Haarkleuring",
   "code": "5835828",
   "price": "16.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h04/h7a/33823680725022/prd-front-5835828-1_600x600/prd-front-5835828-1-600x600.jpg"
+  "description": ""
 }

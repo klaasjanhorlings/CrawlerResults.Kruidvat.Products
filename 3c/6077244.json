@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Gucci Guilty Pour Homme Eau de Toilette",
   "code": "6077244",
   "price": "74.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "90ml"
+  "description": "90ml",
+  "image": "/medias/sys_master/prd-images/hd9/had/30977315831838/prd-front-6077244-1_600x600/prd-front-6077244-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York Fit Me 06 Nude Concealer",
   "code": "4648029",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-4648029-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzMxNDZ8aW1hZ2UvanBlZ3xhRFl6TDJnM01DOHhOamd6TkRZd09EZzRPVGc0Tmk5d2NtUXRabkp2Ym5RdE5EWTBPREF5T1MweFh6WXdNSGcyTURBfGU4YWIyYTc3MDUxNjEyYmE1YTE0MDZmOWIxNWQ1MTEwMzJjMmU2Yzc1NWNkY2U4MWFkZTg2M2UwZjZmYzQxNzM"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sally Hansen Insta-Dri Shine Bright Holo-Glow Nagellak",
   "code": "6098251",
   "price": "7.49",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "9,2ml"
+  "description": "9,2ml",
+  "image": "/medias/sys_master/prd-images/h9a/h4b/31782246252574/prd-front-6098251-1_600x600/prd-front-6098251-1-600x600.jpg"
 }

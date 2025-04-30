@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Invisible Cover 080W Foundation",
   "code": "6154902",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h3f/h12/33039010398238/prd-front-6154902-1_600x600/prd-front-6154902-1-600x600.jpg"
+  "description": "30ml"
 }

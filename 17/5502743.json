@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Wear It Nude Skin Correcting SPF20 Anti-redness CC Cream",
   "code": "5502743",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "CC cream"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/prd-front-5502743-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDA3MDh8aW1hZ2UvanBlZ3xhREpqTDJoall5OHhOamsxTkRrNU56a3pNakEyTWk5d2NtUXRabkp2Ym5RdE5UVXdNamMwTXkweFh6WXdNSGcyTURBfDE0YTIxOWE1OTc5OTA1ZmM1NDU4YjdlYTg2YTVhNjNlZDIwMGExY2MyYmIxOTY2MDFiZjIwODkyZWIzOWZjMWU"
+  "description": "30ml"
 }

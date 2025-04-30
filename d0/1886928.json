@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 09 Cool Down Long-Lasting Eye Pencil Oogpotlood",
   "code": "1886928",
   "price": "1.79",
@@ -33,6 +33,5 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h67/h5d/30114829631518/prd-front-1886928-1_600x600/prd-front-1886928-1-600x600.jpg"
+  "description": ""
 }

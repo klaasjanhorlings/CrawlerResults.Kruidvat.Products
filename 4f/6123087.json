@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 8H Matte Comfort 10 The Perfect Shade Lipliner",
   "code": "6123087",
   "price": "1.99",
@@ -33,6 +33,5 @@
       "name": "Lipliner"
     }
   ],
-  "description": "3g",
-  "image": "/medias/sys_master/prd-images/h65/h58/31462612303902/prd-front-6123087-1_600x600/prd-front-6123087-1-600x600.jpg"
+  "description": "3g"
 }

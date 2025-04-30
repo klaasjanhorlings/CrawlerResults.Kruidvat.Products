@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Zenner Maskerkwast",
   "code": "6175069",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Make-up kwasten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf4/hb1/32640180781086/prd-front-6175069-1_600x600/prd-front-6175069-1-600x600.jpg"
 }

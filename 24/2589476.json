@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nikos Sculpture Homme Eau de Toilette",
   "code": "2589476",
   "price": "24.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051744",
+  "mmkId": "1051744",
+  "productGroupId": "475694",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nikos-sculpture-homme-eau-de-toilette/p/2589476",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h19/hb5/30546160386078/prd-front-2589476-1_600x600/prd-front-2589476-1-600x600.jpg"
 }

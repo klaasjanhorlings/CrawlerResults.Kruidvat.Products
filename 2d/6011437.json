@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice 3-in-1 010 Blonde Brow Perfector",
   "code": "6011437",
   "price": "4.99",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "4g",
-  "image": "/medias/sys_master/prd-images/h8e/h07/29939188367390/prd-front-6011437-1_600x600/prd-front-6011437-1-600x600.jpg"
+  "description": "4g"
 }

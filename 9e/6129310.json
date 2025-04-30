@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Can't Stop Won't Stop 05 Light Full Coverage Foundation",
   "code": "6129310",
   "price": "16.95",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h38/h65/31920497197086/prd-front-6129310-1_600x600/prd-front-6129310-1-600x600.jpg"
+  "description": "30ml"
 }

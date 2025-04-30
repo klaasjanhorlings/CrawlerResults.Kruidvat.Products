@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Max Factor Miracle Pure 850 Bright Angelite Jade Nagellak",
   "code": "6098902",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "12ml",
-  "image": "/medias/sys_master/prd-images/hff/h08/31170524119070/prd-front-6098902-1_600x600/prd-front-6098902-1-600x600.jpg"
+  "description": "12ml"
 }

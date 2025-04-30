@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Men Expert Derma Control Purifying Gel Cleanser",
   "code": "6237663",
   "price": "14.99",
@@ -33,6 +33,5 @@
       "name": "Gezichtsreiniging mannen"
     }
   ],
-  "description": "260ml",
-  "image": "/medias/sys_master/prd-images/h73/h1b/33916182528030/prd-front-6237663-1_600x600/prd-front-6237663-1-600x600.jpg"
+  "description": "260ml"
 }

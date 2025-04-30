@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Infaillible 24H 216 Relentless Rose Lipstick",
   "code": "6235787",
   "price": "21.99",
@@ -33,5 +33,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h22/h53/33356153126942/prd-front-6235787-1_600x600/prd-front-6235787-1-600x600.jpg"
 }

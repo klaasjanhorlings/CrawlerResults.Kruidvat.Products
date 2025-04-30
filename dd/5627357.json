@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Neutrogena Retinol Boost Serum",
   "code": "5627357",
   "price": "35.99",
@@ -33,6 +33,5 @@
       "name": "Serum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hf3/h94/29144317558814/prd-front-5627357-1_600x600/prd-front-5627357-1-600x600.jpg"
+  "description": "30ml"
 }

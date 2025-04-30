@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Shine Bomb 020 Good Taste Lipstick",
   "code": "5998228",
   "price": "4.69",
@@ -33,6 +33,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3ml",
-  "image": "/medias/sys_master/prd-images/haf/h8d/29940344455198/prd-front-5998228-1_600x600/prd-front-5998228-1-600x600.jpg"
+  "description": "3ml"
 }

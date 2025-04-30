@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 7.3 Donker Goud Blond Crème Haarkleuring",
   "code": "660653",
   "price": "6.49",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hbd/ha3/28663347019806/prd-front-660653-1_600x600/prd-front-660653-1-600x600.jpg"
+  "description": ""
 }

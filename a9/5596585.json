@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Lift + Botology Beauty Sleep Serum",
+  "code": "5596585",
+  "price": "22.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "1051835",
+  "mmkId": "1051835",
+  "productGroupId": "481760",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-lift-botology-beauty-sleep-serum/p/5596585",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    }
+  ],
+  "description": "40ml",
+  "image": "/medias/prd-front-5596585-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDc5MjF8aW1hZ2UvanBlZ3xhR0k0TDJoak9TOHlOekl3TVRjME16VTFNalUwTWk5d2NtUXRabkp2Ym5RdE5UVTVOalU0TlMweFh6WXdNSGcyTURBfDNmOGI5ZDFiZDg0YTU0NWRkNDQyNzZkZGFjY2QzOTY1YTBlYTk1MTYxYTU1N2ZiNDlhODZiOWZjZGY3YTZiNWU"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 10 Matt Naturelle Coverstick",
   "code": "4039645",
   "price": "1.99",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hca/h95/30117694832670/prd-front-4039645-1_600x600/prd-front-4039645-1-600x600.jpg"
 }

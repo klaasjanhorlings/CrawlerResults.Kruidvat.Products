@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Max Factor 2000 Calorie Lip Glaze 075 Pink Fizz Lipgloss",
   "code": "6006453",
   "price": "12.99",
@@ -33,6 +33,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "4,4ml",
-  "image": "/medias/sys_master/prd-images/h6c/h80/30977452998686/prd-front-6006453-1_600x600/prd-front-6006453-1-600x600.jpg"
+  "description": "4,4ml"
 }
