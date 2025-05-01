@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "1051607",
-  "mmkId": "1051607",
-  "productGroupId": "459904",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-pearl-beauty-soft-smooth-deodorant-spray/p/5643324",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h31/hd0/33179716026398/prd-front-5643324-1_600x600/prd-front-5643324-1-600x600.jpg"
+  "description": "150ml"
 }

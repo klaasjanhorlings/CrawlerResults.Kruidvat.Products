@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 6401 > 6463 > 6464",
   "supplier": "TRIPLE A MARKETING GMBH",
-  "inStock": "inStock",
-  "onPromo": "1051648",
-  "mmkId": "1051648",
-  "productGroupId": "467789",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/satisfyer-pro-2-kiss-air-pulse-vibrator/p/6254036",
@@ -37,6 +37,5 @@
       "name": "Satisfyer"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hb7/h82/33272110415902/prd-front-6254036-1_600x600/prd-front-6254036-1-600x600.jpg"
+  "description": ""
 }
