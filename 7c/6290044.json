@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hismile Elektrische Tandenborstel",
+  "code": "6290044",
+  "price": "58.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
+  "supplier": "HISMILE PTY LTD.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hismile-elektrische-tandenborstel/p/6290044",
+  "listName": "Lister",
+  "brand": "HISMILE",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266677,
+      "name": "Elektrische tandenborstels"
+    }
+  ],
+  "description": "blauw",
+  "image": "/medias/sys_master/prd-images/h53/h67/34112514261022/prd-front-6290044-1_600x600/prd-front-6290044-1-600x600.jpg"
+}

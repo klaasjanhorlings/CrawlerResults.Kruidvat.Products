@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4160",
   "supplier": "BEVAPLAST BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-textiel-vingerpleisters/p/1551054",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 18 stuks",
-  "image": "/medias/sys_master/prd-images/hb3/he4/34100085096478/prd-front-1551054-1_600x600/prd-front-1551054-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6d/h11/34111727337502/prd-front-1551054-1_600x600/prd-front-1551054-1-600x600.jpg"
 }

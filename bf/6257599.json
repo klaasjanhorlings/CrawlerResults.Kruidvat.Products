@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "1051691",
-  "mmkId": "1051691",
-  "productGroupId": "471424",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-cool-silver-3-absoluut-zilver-revitaliserende-zilver-verzorging/p/6257599",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h85/h65/33512874835998/prd-front-6257599-1_600x600/prd-front-6257599-1-600x600.jpg"
 }

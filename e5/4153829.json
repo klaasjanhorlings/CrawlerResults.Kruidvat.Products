@@ -25,10 +25,13 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
-  "description": "75ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/h08/h73/27338934091806/prd-front-4153829-1_600x600/prd-front-4153829-1-600x600.jpg"
+  "description": "75ml - Droge huid"
 }
