@@ -29,10 +29,13 @@
       "name": "Make-up"
     },
     {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
       "id": 30266582,
       "name": "Lipstick"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h43/h9c/29033682665502/prd-front-4402245-1_600x600/prd-front-4402245-1-600x600.jpg"
+  "description": "5ml"
 }

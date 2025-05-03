@@ -21,17 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536080,
+      "name": "Baby"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
     },
     {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266805,
+      "name": "Mama verzorgingsproducten"
     }
   ],
-  "description": "75ml - Droge huid"
+  "description": "75ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h08/h73/27338934091806/prd-front-4153829-1_600x600/prd-front-4153829-1-600x600.jpg"
 }

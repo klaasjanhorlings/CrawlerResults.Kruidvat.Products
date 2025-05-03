@@ -29,9 +29,14 @@
       "name": "Make-up"
     },
     {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
       "id": 30266583,
       "name": "Lipgloss"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h1c/h9a/33039771959326/prd-front-5444664-1_600x600/prd-front-5444664-1-600x600.jpg"
 }

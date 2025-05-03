@@ -25,13 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 73443650,
+      "name": "Korean Skincare"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h89/hb1/32247706353694/prd-front-6199891-1_600x600/prd-front-6199891-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Estée Lauder Advanced Night Repair Serum",
+  "code": "5589718",
+  "price": "79.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "AVENTUS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/estee-lauder-advanced-night-repair-serum/p/5589718",
+  "listName": "Lister",
+  "brand": "Estée Lauder",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/prd-front-5589718-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzg3NDl8aW1hZ2UvanBlZ3xhR1ptTDJoaE5pOHhOelExTXpVM05EZzBPRFUwTWk5d2NtUXRabkp2Ym5RdE5UVTRPVGN4T0MweFh6WXdNSGcyTURBfGM4NTU4OGRkMmFiZjMyYjAxMjYyZWNlNDFkMGJhZjhmZTdlYTNiOTRhZGJhN2RlZjAzMGMxZTZiODFjMzZlZmI"
+}
