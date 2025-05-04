@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Waterproof Make-Upremover voor Oog en Lippen",
   "code": "44707",
   "price": "8.49",
@@ -37,5 +37,6 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "100ml - Gevoelige huid en alle huidtypen"
+  "description": "100ml - Gevoelige huid en alle huidtypen",
+  "image": "/medias/sys_master/prd-images/had/hff/29370170114078/prd-front-44707-1_600x600/prd-front-44707-1-600x600.jpg"
 }

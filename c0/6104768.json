@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Eye Brow Stylist 055 Strawberry Blonde Wenkbrauwpotlood",
   "code": "6104768",
   "price": "2.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "1,4g"
+  "description": "1,4g",
+  "image": "/medias/sys_master/prd-images/hff/ha5/31461455659038/prd-front-6104768-1_600x600/prd-front-6104768-1-600x600.jpg"
 }

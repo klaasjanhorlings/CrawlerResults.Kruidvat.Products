@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Instant Eraser Green Color Correcting Concealer",
   "code": "6241737",
   "price": "15.99",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h19/hf6/33962448846878/prd-front-6241737-1_600x600/prd-front-6241737-1-600x600.jpg"
 }

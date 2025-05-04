@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Revolution Relouded Neutral Charm Palette",
   "code": "6123437",
   "price": "6.99",
@@ -37,6 +37,5 @@
       "name": "Palette oogschaduw"
     }
   ],
-  "description": "16,8g",
-  "image": "/medias/sys_master/prd-images/he3/h6b/31785598582814/prd-front-6123437-1_600x600/prd-front-6123437-1-600x600.jpg"
+  "description": "16,8g"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Velvet Glow  040 Pink Pop Baked Blush",
   "code": "6021727",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Blush"
     }
   ],
-  "description": "6g",
-  "image": "/medias/sys_master/prd-images/h08/hd7/33762680700958/prd-front-6021727-1_600x600/prd-front-6021727-1-600x600.jpg"
+  "description": "6g"
 }

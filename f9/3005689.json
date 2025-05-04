@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Infaillible 235 Honey SPF25 32H Fresh Wear Foundation",
   "code": "3005689",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hf4/ha3/31774900486174/prd-front-3005689-1_600x600/prd-front-3005689-1-600x600.jpg"
 }

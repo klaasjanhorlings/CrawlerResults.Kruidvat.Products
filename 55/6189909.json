@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Max Factor Miracle Pure 1 Fair Hydratint Essence Foundation",
   "code": "6189909",
   "price": "24.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hc6/h7c/33039790047262/prd-front-6189909-1_600x600/prd-front-6189909-1-600x600.jpg"
 }

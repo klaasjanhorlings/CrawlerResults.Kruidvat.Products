@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Revolution Juicy Peptide Nude Peach Lipbalm",
   "code": "6123542",
   "price": "7.99",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/h80/hd5/31783413186590/prd-front-6123542-1_600x600/prd-front-6123542-1-600x600.jpg"
 }

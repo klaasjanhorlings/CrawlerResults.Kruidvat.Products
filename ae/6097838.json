@@ -1,15 +1,15 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Rimmel London Thrill Seeker 600 Berry Glace Glassy Gloss Lipgloss",
   "code": "6097838",
   "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h29/h54/31783680770078/prd-front-6097838-1_600x600/prd-front-6097838-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Max Factor Miracle Pure Skin Reset 100-110 Very Deep 2-in-1 Serum Foundation",
   "code": "6099014",
   "price": "24.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h32/h8c/32427270602782/prd-front-6099014-1_600x600/prd-front-6099014-1-600x600.jpg"
 }

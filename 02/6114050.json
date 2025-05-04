@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 2.0 Black Semi-Permanente Haarkleuring",
   "code": "6114050",
   "price": "6.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd9/hed/31048849752094/prd-front-6114050-1_600x600/prd-front-6114050-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 100% Cotton Extra Safe Wattenstaafjes",
   "code": "2970990",
   "price": "1.55",
@@ -33,6 +33,5 @@
       "name": "Wattenschijfjes en staafjes"
     }
   ],
-  "description": "110 stuks",
-  "image": "/medias/prd-front-2970990-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODM2MTZ8aW1hZ2UvanBlZ3xhRFUyTDJnelppOHlOamsxTXpNd01UTTVNelF6T0M5d2NtUXRabkp2Ym5RdE1qazNNRGs1TUMweFh6WXdNSGcyTURBfDhmNTkwNjZiZDIwZmE1ODY4NTZlZjkwNGFmNzQzNjY2YjE1YTllZTg4NmEyMTgwNDRlNTRiMjAzZDRkNjhjYzU"
+  "description": "110 stuks"
 }

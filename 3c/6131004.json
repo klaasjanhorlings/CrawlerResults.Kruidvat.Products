@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup 34 Make a Statement Line Loud Lipliner",
   "code": "6131004",
   "price": "7.95",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h31/h12/31922239701022/prd-front-6131004-1_600x600/prd-front-6131004-1-600x600.jpg"
 }

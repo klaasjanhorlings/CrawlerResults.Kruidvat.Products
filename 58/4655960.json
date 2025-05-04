@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Slim'Matic Ultra Precise Waterproof 050 Chocolate Wenkbrauwpotlood",
   "code": "4655960",
   "price": "3.49",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf9/hee/33044975517726/prd-front-4655960-1_600x600/prd-front-4655960-1-600x600.jpg"
 }

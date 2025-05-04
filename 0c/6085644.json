@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Cellular Luminous630 Anti-spot 02 Medium SPF30 3-in-1 CC Crème",
   "code": "6085644",
   "price": "42.99",
@@ -33,5 +33,6 @@
       "name": "CC cream"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/ha6/ha4/32901208211486/prd-front-6085644-1_600x600/prd-front-6085644-1-600x600.jpg"
 }

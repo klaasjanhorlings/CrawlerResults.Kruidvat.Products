@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Q10 Power Anti-Rimpel Dagcrème",
   "code": "1300552",
   "price": "23.99",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hfc/hc1/32903417724958/prd-front-1300552-1_600x600/prd-front-1300552-1-600x600.jpg"
+  "description": "50ml - Alle huidtypen"
 }

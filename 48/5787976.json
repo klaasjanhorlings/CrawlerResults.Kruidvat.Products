@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Art Couleurs 420 Rusty Roobi Oogschaduw",
   "code": "5787976",
   "price": "2.99",
@@ -37,5 +37,6 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": "2,4g"
+  "description": "2,4g",
+  "image": "/medias/sys_master/prd-images/h47/h49/29938861375518/prd-front-5787976-1_600x600/prd-front-5787976-1-600x600.jpg"
 }

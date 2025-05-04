@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice 8D Lashes To Kill 010 Glam Look Kunstwimpers",
   "code": "6104698",
   "price": "5.69",
@@ -33,5 +33,6 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h5d/hed/31458809643038/prd-front-6104698-1_600x600/prd-front-6104698-1-600x600.jpg"
 }

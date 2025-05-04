@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Baby Got Blush10 Pinkalicious Liquid Blush",
   "code": "6000559",
   "price": "3.69",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h46/he2/30117478760478/prd-front-6000559-1_600x600/prd-front-6000559-1-600x600.jpg"
 }

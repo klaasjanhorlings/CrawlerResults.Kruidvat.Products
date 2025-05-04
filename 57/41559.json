@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Rimmel London Professional 002 Hazel Eyebrow Pencil",
   "code": "41559",
   "price": "6.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "1,4g"
+  "description": "1,4g",
+  "image": "/medias/sys_master/prd-images/hae/hd4/28523345575966/prd-front-41559-1_600x600/prd-front-41559-1-600x600.jpg"
 }

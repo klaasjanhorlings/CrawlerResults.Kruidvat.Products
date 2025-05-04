@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup 01 Fair Highlight & Contour Wonderstick",
   "code": "6129422",
   "price": "13.95",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h6a/hbb/31924042104862/prd-front-6129422-1_600x600/prd-front-6129422-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Got2B Glued 4 Brows & Edges 2-in-1 Gel",
   "code": "5805490",
   "price": "10.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwgel"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h39/h0c/33641730605086/prd-front-5805490-1_600x600/prd-front-5805490-1-600x600.jpg"
 }

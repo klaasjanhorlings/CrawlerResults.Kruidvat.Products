@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L’Oreal Paris Revitalift 5% Glycolic Acid Peeling Toner",
   "code": "5584034",
   "price": "22.99",
@@ -37,5 +37,6 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "180ml"
+  "description": "180ml",
+  "image": "/medias/sys_master/prd-images/hb1/hf3/28796895133726/prd-front-5584034-1_600x600/prd-front-5584034-1-600x600.jpg"
 }

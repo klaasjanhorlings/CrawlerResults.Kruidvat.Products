@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Make Me Brow 02 Browny Brows Eyebrow Gel Mascara",
   "code": "3316461",
   "price": "2.79",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwmascara"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h12/hed/30121075507230/prd-front-3316461-1_600x600/prd-front-3316461-1-600x600.jpg"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Calvin Klein CK One Geschenkset",
   "code": "6271235",
   "price": "24.99",
@@ -33,5 +33,6 @@
       "name": "Geschenksets voor hem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1f/had/33503962955806/prd-front-6271235-1_600x600/prd-front-6271235-1-600x600.jpg"
 }

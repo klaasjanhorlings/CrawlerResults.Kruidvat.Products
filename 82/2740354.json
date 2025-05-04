@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Garnier Olia 5.3 Licht Goudbruin Permanente Haarkleuring",
   "code": "2740354",
   "price": "15.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h79/h5f/33359225323550/prd-front-2740354-1_600x600/prd-front-2740354-1-600x600.jpg"
+  "description": ""
 }

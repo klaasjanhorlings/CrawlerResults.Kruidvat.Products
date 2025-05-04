@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Neutrogena Hydro Boost Nachtcrème",
   "code": "4726716",
   "price": "19.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/he5/he0/34124984188958/prd-front-4726716-1_600x600/prd-front-4726716-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h03/hc2/34133210693662/prd-front-4726716-1_600x600/prd-front-4726716-1-600x600.jpg"
 }

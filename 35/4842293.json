@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Calligraph Pro Precise 24h 010 Intense Black Waterproof Matt Liner",
   "code": "4842293",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7c/hf5/33039770779678/prd-front-4842293-1_600x600/prd-front-4842293-1-600x600.jpg"
+  "description": ""
 }

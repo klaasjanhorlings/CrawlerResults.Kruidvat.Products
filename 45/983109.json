@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Casting Créme Gloss 500 Lichtbruin Semi-Permanente Haarkleuring",
   "code": "983109",
   "price": "14.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h73/h7f/31766138519582/prd-front-983109-1_600x600/prd-front-983109-1-600x600.jpg"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Van Gils Geschenkset",
   "code": "5127515",
   "price": "12.95",
@@ -12,7 +12,7 @@
   "mmkId": "1051744",
   "productGroupId": "475694",
   "brandType": "A of B merk",
-  "discount": "€ 16,90",
+  "discount": "$ 16,90",
   "url": "/van-gils-geschenkset/p/5127515",
   "listName": "Lister",
   "brand": "Van Gils",

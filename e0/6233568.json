@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice The Dark Cocoa Eyeshadow Palette",
   "code": "6233568",
   "price": "5.99",
@@ -37,5 +37,6 @@
       "name": "Palette oogschaduw"
     }
   ],
-  "description": "9g"
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/h61/h0b/33040285859870/prd-front-6233568-1_600x600/prd-front-6233568-1-600x600.jpg"
 }

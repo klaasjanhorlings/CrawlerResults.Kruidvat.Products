@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L’Oréal Paris True Match 1C Rose Ivory Poeder",
   "code": "1142289",
   "price": "16.99",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h3d/hd8/28787096158238/prd-front-1142289-1_600x600/prd-front-1142289-1-600x600.jpg"
 }

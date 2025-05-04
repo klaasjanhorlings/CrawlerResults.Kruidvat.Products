@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Just For Men Original Formula H-35 Middenbruin Haarkleuring",
   "code": "26728",
   "price": "15.24",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": "66ml"
+  "description": "66ml",
+  "image": "/medias/sys_master/prd-images/hda/h9f/28218112540702/prd-front-26728-1_600x600/prd-front-26728-1-600x600.jpg"
 }

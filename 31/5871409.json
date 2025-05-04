@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mylaq Polish File",
   "code": "5871409",
   "price": "1.49",
@@ -29,8 +29,12 @@
       "name": "Nagels"
     },
     {
-      "id": 72476685,
-      "name": "Gellak"
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266634,
+      "name": "Nagelvijlen"
     }
   ],
   "description": "",

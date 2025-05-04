@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 7.0 Donkerblond Crème Haarkleuring",
   "code": "660352",
   "price": "6.49",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc5/h0c/28224424017950/prd-front-660352-1_600x600/prd-front-660352-1-600x600.jpg"
 }

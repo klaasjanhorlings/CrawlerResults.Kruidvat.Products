@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Rimmel London Wonder'Freeze 004 Deep Brown Brow Lamination Gel",
   "code": "6098237",
   "price": "16.99",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwgel"
     }
   ],
-  "description": "6g",
-  "image": "/medias/sys_master/prd-images/h43/hb9/31784309325854/prd-front-6098237-1_600x600/prd-front-6098237-1-600x600.jpg"
+  "description": "6g"
 }

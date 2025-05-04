@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Denman D3 The Original Styler Kyoto Borstel",
   "code": "5949046",
   "price": "14.99",
@@ -33,5 +33,6 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "wit, roze"
+  "description": "wit, roze",
+  "image": "/medias/sys_master/prd-images/h2a/h48/28888743870494/prd-front-5949046-1_600x600/prd-front-5949046-1-600x600.jpg"
 }

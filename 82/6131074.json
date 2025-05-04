@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup SPL809 Mahogany Slim Lip Pencil",
   "code": "6131074",
   "price": "5.5",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb8/hbd/31920499425310/prd-front-6131074-1_600x600/prd-front-6131074-1-600x600.jpg"
 }
