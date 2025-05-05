@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
   "supplier": "WEPA FRANCE SAS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051940",
+  "mmkId": "1051940",
+  "productGroupId": "467913",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-zacht-sterk-toiletpapier/p/577178",
@@ -29,6 +29,5 @@
       "name": "Toiletpapier"
     }
   ],
-  "description": "8 rollen",
-  "image": "/medias/sys_master/prd-images/h96/hdc/27271337541662/prd-front-577178-1_600x600/prd-front-577178-1-600x600.jpg"
+  "description": "8 rollen"
 }

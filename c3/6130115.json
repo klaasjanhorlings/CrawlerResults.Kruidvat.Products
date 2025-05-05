@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup 3 Vivid Rich Tigers Prize Mechanical Liner",
   "code": "6130115",
   "price": "7.95",
@@ -33,6 +33,5 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h2a/h21/31926141419550/prd-front-6130115-1_600x600/prd-front-6130115-1-600x600.jpg"
+  "description": ""
 }

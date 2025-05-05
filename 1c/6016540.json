@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Tuinstoelhoes",
+  "code": "6016540",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 5799 > 5802 > 5926 > 6020 > 6049",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-tuinstoelhoes/p/6016540",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266050,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30266875,
+      "name": "Tuinmeubelen"
+    },
+    {
+      "id": 84926291,
+      "name": "Tuinstoelhoezen"
+    }
+  ],
+  "description": "navy, 60cm x 130cm",
+  "image": "/medias/sys_master/prd-images/h0b/h55/30082593488926/prd-front-6016540-1_600x600/prd-front-6016540-1-600x600.jpg"
+}

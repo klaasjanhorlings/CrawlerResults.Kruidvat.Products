@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Labello Original Lippenbalsem",
   "code": "17025",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2a/h31/32902366658590/prd-front-17025-1_600x600/prd-front-17025-1-600x600.jpg"
 }

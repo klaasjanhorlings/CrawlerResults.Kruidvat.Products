@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Men Expert Hydra Energetic Cleansing Gel",
   "code": "4903844",
   "price": "8.99",
@@ -33,5 +33,6 @@
       "name": "Gezichtsreiniging mannen"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-4903844-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzU4NTR8aW1hZ2UvanBlZ3xhR1JoTDJnek15OHhOelV3T0RjNE16UTRPVEExTkM5d2NtUXRabkp2Ym5RdE5Ea3dNemcwTkMweFh6WXdNSGcyTURBfGJiN2NjOTk1OWQ0NGU2OGIyY2M4YmJjZTRmZWZjMzUzMzEwNDNlZDM3OGM1Y2ZmOTViNWZjMDg1NmU3ZjU2OTc"
 }

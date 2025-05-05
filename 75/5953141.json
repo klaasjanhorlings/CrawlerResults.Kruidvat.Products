@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat High Gloss 119 Nagellak",
   "code": "5953141",
   "price": "3.49",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h3f/hd9/28937664200734/prd-front-5953141-1_600x600/prd-front-5953141-1-600x600.jpg"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Mylaq My Cleaner",
   "code": "5871423",
   "price": "3.99",
@@ -29,12 +29,8 @@
       "name": "Nagels"
     },
     {
-      "id": 30265994,
-      "name": "Nagelverzorging"
-    },
-    {
-      "id": 30266633,
-      "name": "Nagellakremover"
+      "id": 72476685,
+      "name": "Gellak"
     }
   ],
   "description": "100ml",

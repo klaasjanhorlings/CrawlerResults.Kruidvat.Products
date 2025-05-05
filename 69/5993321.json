@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York Lifter Plump 004 Red Flag Lipgloss",
   "code": "5993321",
   "price": "14.99",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "5,4ml"
+  "description": "5,4ml",
+  "image": "/medias/sys_master/prd-images/h82/hbd/30085503385630/prd-front-5993321-1_600x600/prd-front-5993321-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Stay With Me 050 Soft Almond Longlasting Concealer",
   "code": "5068435",
   "price": "3.49",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "7ml",
-  "image": "/medias/prd-front-5068435-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjEzNjF8aW1hZ2UvanBlZ3xhR1ZoTDJneFppOHhOamsxTlRBeU5UVXlNamN4T0M5d2NtUXRabkp2Ym5RdE5UQTJPRFF6TlMweFh6WXdNSGcyTURBfDRlZDhlYzc4MTQyZWI0MWFmMWRlY2VmODE3NDYzOTQ2NWU0MjZiYTY1MTE0OWQ1OTdhODE3OWJmOTM5YWM1Njk"
+  "description": "7ml"
 }

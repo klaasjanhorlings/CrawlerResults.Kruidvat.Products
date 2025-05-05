@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Rimmel London Exaggerate Full Colour Eye Definer 002 Chocolate Brown Eyeliner",
   "code": "5354910",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/prd-front-5354910-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDY3NzZ8aW1hZ2UvanBlZ3xhREkwTDJnME15OHlOamt3TmpNd05qWTNORGN4T0M5d2NtUXRabkp2Ym5RdE5UTTFORGt4TUMweFh6WXdNSGcyTURBfDE3NGJlYjdjMjllZGQxOWY4ZWYyM2ZhYWY0MGU2MjZkYzM0YjMxZTU3MmNjOTJjNzg5YTM1YmQyMjRkZmFmNmU"
 }

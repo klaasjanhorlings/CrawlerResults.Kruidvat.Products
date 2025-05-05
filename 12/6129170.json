@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Pro Fix Stick 4 Dark Peach Correcting Concealer",
   "code": "6129170",
   "price": "8.95",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h8b/hc7/31928343068702/prd-front-6129170-1_600x600/prd-front-6129170-1-600x600.jpg"
+  "description": ""
 }

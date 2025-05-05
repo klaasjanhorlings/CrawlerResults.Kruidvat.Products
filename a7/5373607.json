@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Skin Science Skin Recovery 55+ Night Cream",
   "code": "5373607",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Rijpe huid"
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h09/hae/27276591038494/prd-front-5373607-1_600x600/prd-front-5373607-1-600x600.jpg"
 }

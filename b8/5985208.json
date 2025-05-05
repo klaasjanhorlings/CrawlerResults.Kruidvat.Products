@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York Lasting Drama Automatic Brown Gel Eyeliner",
   "code": "5985208",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5c/h10/29998877966366/prd-front-5985208-1_600x600/prd-front-5985208-1-600x600.jpg"
 }

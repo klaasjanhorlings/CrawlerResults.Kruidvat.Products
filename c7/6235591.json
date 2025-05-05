@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Lumi Le Glow 635 Golden Couture Highlighter Stick",
   "code": "6235591",
   "price": "15.99",
@@ -33,6 +33,5 @@
       "name": "Highlighter"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha1/hf9/33607125008414/prd-front-6235591-1_600x600/prd-front-6235591-1-600x600.jpg"
+  "description": ""
 }

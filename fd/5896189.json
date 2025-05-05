@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "EMIL KIESSLING GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051965",
+  "mmkId": "1051965",
+  "productGroupId": "479431",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-power-curls-detangling-curl-refreshing-anti-klit-spray/p/5896189",
@@ -33,5 +33,6 @@
       "name": "Anti-klitspray"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h01/h70/30687282692126/prd-front-5896189-1_600x600/prd-front-5896189-1-600x600.jpg"
 }

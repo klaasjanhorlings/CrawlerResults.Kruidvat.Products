@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 250 Foundation Stick",
   "code": "6254050",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "10g"
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/h36/hff/33339083194398/prd-front-6254050-1_600x600/prd-front-6254050-1-600x600.jpg"
 }

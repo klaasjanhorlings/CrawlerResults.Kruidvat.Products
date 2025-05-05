@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "M. Asam 38 Graden Deep Black Waterproof Mascara",
   "code": "5665409",
   "price": "15.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "12ml"
+  "description": "12ml",
+  "image": "/medias/sys_master/prd-images/h99/h73/28616808333342/prd-front-5665409-1_600x600/prd-front-5665409-1-600x600.jpg"
 }

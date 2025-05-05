@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Magic Filter 40 Tan Glow Booster",
   "code": "6017317",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "14ml"
+  "description": "14ml",
+  "image": "/medias/sys_master/prd-images/h34/h9c/30119013941278/prd-front-6017317-1_600x600/prd-front-6017317-1-600x600.jpg"
 }

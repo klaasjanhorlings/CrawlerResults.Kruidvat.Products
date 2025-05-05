@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier Olia 5.0 Lichtbruin Permanente Haarkleuring",
   "code": "2740312",
   "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "1051705",
-  "mmkId": "1051705",
-  "productGroupId": "471976",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-olia-50-lichtbruin-permanente-haarkleuring/p/2740312",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h5a/h2e/33360816472094/prd-front-2740312-1_600x600/prd-front-2740312-1-600x600.jpg"
+  "description": ""
 }

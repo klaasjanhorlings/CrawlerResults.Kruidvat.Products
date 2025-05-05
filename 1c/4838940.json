@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Revolution Reloaded Just My Type Highlighter",
   "code": "4838940",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Highlighter"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h60/hb2/29569298792478/prd-front-4838940-1_600x600/prd-front-4838940-1-600x600.jpg"
+  "description": ""
 }

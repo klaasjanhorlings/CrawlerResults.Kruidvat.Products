@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3659",
   "supplier": "JOHNSON & JOHNSON CONS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052028",
+  "mmkId": "1052028",
+  "productGroupId": "488769",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ob-original-normal-tampons/p/5451181",
@@ -33,5 +33,6 @@
       "name": "Tampons"
     }
   ],
-  "description": "16 stuks"
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/h1f/hd4/32021220884510/prd-front-5451181-1_600x600/prd-front-5451181-1-600x600.jpg"
 }

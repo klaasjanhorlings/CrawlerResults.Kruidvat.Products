@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cacharel Noa Eau de Toilette",
   "code": "1326333",
   "price": "39.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 49,95",
+  "discount": "€ 49,95",
   "url": "/cacharel-noa-eau-de-toilette/p/1326333",
   "listName": "Lister",
   "brand": "Cacharel",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h0f/h25/28808018264094/prd-front-1326333-1_600x600/prd-front-1326333-1-600x600.jpg"
 }

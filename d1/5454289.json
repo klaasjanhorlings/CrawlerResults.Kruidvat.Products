@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1051956",
+  "mmkId": "1051956",
+  "productGroupId": "475978",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-oorhygiene-oordruppels/p/5454289",
@@ -37,5 +37,6 @@
       "name": "Oordruppels"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h6b/h12/33283234856990/prd-front-5454289-1_600x600/prd-front-5454289-1-600x600.jpg"
 }

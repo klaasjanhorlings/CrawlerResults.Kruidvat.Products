@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 8H Matte Comfort 11 Chestnut Perfection Lipliner",
   "code": "6122954",
   "price": "1.99",
@@ -37,6 +37,5 @@
       "name": "Lipliner"
     }
   ],
-  "description": "3g",
-  "image": "/medias/sys_master/prd-images/h40/hea/31690960896030/prd-front-6122954-1_600x600/prd-front-6122954-1-600x600.jpg"
+  "description": "3g"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier SkinActive Classic Light BB Cream",
   "code": "2253021",
   "price": "13.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1051732",
-  "mmkId": "1051732",
-  "productGroupId": "474468",
+  "onPromo": "1051972",
+  "mmkId": "1051972",
+  "productGroupId": "488074",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-classic-light-bb-cream/p/2253021",
@@ -33,5 +33,6 @@
       "name": "BB cream"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hab/ha3/30207891603486/prd-front-2253021-1_600x600/prd-front-2253021-1-600x600.jpg"
 }

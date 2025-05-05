@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Slim Eye SPE914 Medium Brown Pencil",
   "code": "6130374",
   "price": "4.95",
@@ -33,6 +33,5 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hb3/h5c/31930020233246/prd-front-6130374-1_600x600/prd-front-6130374-1-600x600.jpg"
+  "description": ""
 }

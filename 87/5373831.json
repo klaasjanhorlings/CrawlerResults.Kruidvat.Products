@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Olay Regenerist Ultra Rich Dagcrème",
   "code": "5373831",
   "price": "39.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1051769",
-  "mmkId": "1051769",
-  "productGroupId": "476658",
+  "onPromo": "1051972",
+  "mmkId": "1051972",
+  "productGroupId": "488074",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-regenerist-ultra-rich-dagcreme/p/5373831",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Droge huid"
+  "description": "50ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hef/h77/33631747440670/prd-front-5373831-1_600x600/prd-front-5373831-1-600x600.jpg"
 }

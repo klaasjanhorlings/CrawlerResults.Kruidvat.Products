@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dr. Paw Paw Your Gorgeous Skin Brightening Eye Cream",
   "code": "6124060",
   "price": "18.99",
@@ -33,6 +33,5 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/ha1/h96/31443040370718/prd-front-6124060-1_600x600/prd-front-6124060-1-600x600.jpg"
+  "description": "15ml"
 }

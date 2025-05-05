@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "My Nailcandy Rode Gellak Stickers",
   "code": "6036588",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Nagelstickers"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/h8e/hbf/32342584918046/prd-front-6036588-1_600x600/prd-front-6036588-1-600x600.jpg"
 }

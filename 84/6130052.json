@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Thick It. Stick It! Espresso Brow Mascara",
   "code": "6130052",
   "price": "12.25",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwmascara"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h02/h8e/31925409054750/prd-front-6130052-1_600x600/prd-front-6130052-1-600x600.jpg"
+  "description": ""
 }

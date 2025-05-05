@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Joop! Homme Eau de Toilette",
   "code": "5954772",
   "price": "16.99",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hf9/hd9/29215970787358/prd-front-5954772-1_600x600/prd-front-5954772-1-600x600.jpg"
 }

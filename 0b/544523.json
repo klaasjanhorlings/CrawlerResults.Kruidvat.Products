@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "GEM BOHEMIA S.R.O.",
-  "inStock": "inStock",
-  "onPromo": "1051846",
-  "mmkId": "1051846",
-  "productGroupId": "488421",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-extra-strong-mondwater/p/544523",
@@ -33,5 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/hc3/h47/28029857300510/prd-front-544523-1_600x600/prd-front-544523-1-600x600.jpg"
 }

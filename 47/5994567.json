@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Color Riche 550 Unapologetic Satin Nude Lippenstift",
   "code": "5994567",
   "price": "16.99",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,54g",
-  "image": "/medias/sys_master/prd-images/h5e/h38/30752170573854/prd-front-5994567-1_600x600/prd-front-5994567-1-600x600.jpg"
+  "description": "4,54g"
 }

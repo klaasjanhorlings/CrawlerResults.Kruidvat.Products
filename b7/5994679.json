@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Color Riche 570 Worth It Intense Intense Volume Matte Lippenstift",
   "code": "5994679",
   "price": "16.99",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "1,8g",
-  "image": "/medias/sys_master/prd-images/h7e/h2b/30752170901534/prd-front-5994679-1_600x600/prd-front-5994679-1-600x600.jpg"
+  "description": "1,8g"
 }

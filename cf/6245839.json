@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Juicy Bomb 06 Wake Me Up Before You Coco Glossy Butter Balm",
   "code": "6245839",
   "price": "2.89",
@@ -37,6 +37,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "2,5g",
-  "image": "/medias/sys_master/prd-images/h49/h24/33333857943582/prd-front-6245839-1_600x600/prd-front-6245839-1-600x600.jpg"
+  "description": "2,5g"
 }

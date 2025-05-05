@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Max Factor 030 Brown Oogpotlood",
   "code": "81741",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h26/hf1/28610795765790/prd-front-81741-1_600x600/prd-front-81741-1-600x600.jpg"
+  "description": ""
 }

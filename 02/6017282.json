@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 01 Precision Meets Perfection Pencil Brush",
   "code": "6017282",
   "price": "2.69",
@@ -33,5 +33,6 @@
       "name": "Make-up kwasten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h06/h26/31476003799070/prd-front-6017282-1_600x600/prd-front-6017282-1-600x600.jpg"
 }

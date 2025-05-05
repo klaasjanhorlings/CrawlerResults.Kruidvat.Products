@@ -1,15 +1,15 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Rimmel London Multi-Tasker Better Than Filters 004 Light Medium Primer",
   "code": "6007041",
   "price": "19.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266579,
-      "name": "Primer"
+      "id": 30266589,
+      "name": "Highlighter"
     }
   ],
   "description": "30ml",

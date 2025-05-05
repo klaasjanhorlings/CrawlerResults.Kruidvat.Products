@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice True Skin Warm Beige High Cover Concealer",
   "code": "5230520",
   "price": "4.49",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "4,5ml",
-  "image": "/medias/sys_master/prd-images/hc6/h9b/33042399166494/prd-front-5230520-1_600x600/prd-front-5230520-1-600x600.jpg"
+  "description": "4,5ml"
 }

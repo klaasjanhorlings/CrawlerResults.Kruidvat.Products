@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup SMLC2 Copenhagen Soft Matte Lip Cream",
   "code": "6131249",
   "price": "7.95",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "8ml",
-  "image": "/medias/sys_master/prd-images/h4f/h03/31931294711838/prd-front-6131249-1_600x600/prd-front-6131249-1-600x600.jpg"
+  "description": "8ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "My Nailcandy Lilac Gellak Stickers",
   "code": "6175160",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Nagelstickers"
     }
   ],
-  "description": "22 stuks"
+  "description": "22 stuks",
+  "image": "/medias/sys_master/prd-images/h68/h73/33701237587998/prd-front-6175160-1_600x600/prd-front-6175160-1-600x600.jpg"
 }

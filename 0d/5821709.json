@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Max Factor Facefinity All Day Flawless N45 Warm Almond Foundation",
   "code": "5821709",
   "price": "19.99",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h32/he4/27425515175966/prd-front-5821709-1_600x600/prd-front-5821709-1-600x600.jpg"
+  "description": "30ml"
 }

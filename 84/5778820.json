@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bye Bye Blemish Salicylzuur Drying Lotion",
   "code": "5778820",
   "price": "8.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1051951",
+  "mmkId": "1051951",
+  "productGroupId": "474469",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/bye-bye-blemish-salicylzuur-drying-lotion/p/5778820",
@@ -37,5 +37,6 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-5778820-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA3MzV8aW1hZ2UvanBlZ3xhRFk1TDJnM05DOHhOelEwT0RjNE16a3pOelUyTmk5d2NtUXRabkp2Ym5RdE5UYzNPRGd5TUMweFh6WXdNSGcyTURBfGRmMmQ3MzdjOGI4Njk0YTYzYTIzMWUwNTI3M2JmYjQ5ZDFmZmE0OWM0NmFmOTAzOThjYmYzY2U1MTBhMzEyN2U"
 }

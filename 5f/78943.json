@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Diadermine Lift+ Hydratant Dagcrème",
   "code": "78943",
   "price": "18.39",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1051835",
-  "mmkId": "1051835",
-  "productGroupId": "481760",
+  "onPromo": "1051972",
+  "mmkId": "1051972",
+  "productGroupId": "488074",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/diadermine-lift-hydratant-dagcreme/p/78943",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/he1/hd2/30565868732446/prd-front-78943-1_600x600/prd-front-78943-1-600x600.jpg"
+  "description": "50ml"
 }

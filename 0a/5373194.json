@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Palette Perfect Gloss 3-0 Zwartbruin Niet-Permanente Haarverf",
   "code": "5373194",
   "price": "9.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hff/h58/31593386278942/prd-front-5373194-1_600x600/prd-front-5373194-1-600x600.jpg"
+  "description": ""
 }

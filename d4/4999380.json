@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Wimperserum Lash Booster",
   "code": "4999380",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Wimperserums"
     }
   ],
-  "description": "3ml",
-  "image": "/medias/sys_master/prd-images/h5b/h20/32922345898014/prd-front-4999380-1_600x600/prd-front-4999380-1-600x600.jpg"
+  "description": "3ml"
 }

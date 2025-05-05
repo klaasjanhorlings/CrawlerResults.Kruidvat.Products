@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "KNEIPP NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1051744",
-  "mmkId": "1051744",
-  "productGroupId": "475694",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A or B brand",
   "discount": "",
   "url": "/kneipp-badoliecollectie-geschenkset/p/2043777",
@@ -33,5 +33,6 @@
       "name": "Geschenksets voor haar"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h23/h34/28857620135966/prd-front-2043777-1_600x600/prd-front-2043777-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Blushin' Charm 040 Sparkle Lover Multi Stick",
   "code": "6235031",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Blush"
     }
   ],
-  "description": "5.5g",
-  "image": "/medias/sys_master/prd-images/h56/h67/33040064118814/prd-front-6235031-1_600x600/prd-front-6235031-1-600x600.jpg"
+  "description": "5.5g"
 }

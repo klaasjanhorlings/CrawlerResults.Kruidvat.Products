@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Zenner Style & Go Haarklem met Satijnen Strik",
   "code": "6056811",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/ha5/heb/31169128759326/prd-front-6056811-1_600x600/prd-front-6056811-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Gel Affair 5 Today Was A Fairytale Nagellak",
   "code": "6235108",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "10,5ml"
+  "description": "10,5ml",
+  "image": "/medias/sys_master/prd-images/hb2/h15/33042919653406/prd-front-6235108-1_600x600/prd-front-6235108-1-600x600.jpg"
 }

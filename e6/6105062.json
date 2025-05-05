@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Intense Matte 080 Dusty Rose Lip Pen",
   "code": "6105062",
   "price": "3.99",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "1,2g",
-  "image": "/medias/sys_master/prd-images/h23/h9f/31569619091486/prd-front-6105062-1_600x600/prd-front-6105062-1-600x600.jpg"
+  "description": "1,2g"
 }

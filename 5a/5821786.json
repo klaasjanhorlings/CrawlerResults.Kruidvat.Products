@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Max Factor Facefinity All Day Flawless W78 Warm Honey Foundation",
   "code": "5821786",
   "price": "19.99",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h14/h82/27426679390238/prd-front-5821786-1_600x600/prd-front-5821786-1-600x600.jpg"
+  "description": "30ml"
 }

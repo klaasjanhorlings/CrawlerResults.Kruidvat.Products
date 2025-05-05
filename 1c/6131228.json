@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Worth The Hype WTHWM01 Black Waterproof Mascara",
   "code": "6131228",
   "price": "10.95",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hb9/hc1/31922061869086/prd-front-6131228-1_600x600/prd-front-6131228-1-600x600.jpg"
+  "description": ""
 }

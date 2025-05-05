@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup 19 Cherry Spicy Duck Plump Extreme Sensation Lipgloss",
   "code": "6130206",
   "price": "11.95",
@@ -37,6 +37,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "6,8ml",
-  "image": "/medias/sys_master/prd-images/hb6/h48/31930648592414/prd-front-6130206-1_600x600/prd-front-6130206-1-600x600.jpg"
+  "description": "6,8ml"
 }

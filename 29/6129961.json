@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup High Definition HDFP02 Banana Finish Powder",
   "code": "6129961",
   "price": "10.95",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "8g"
+  "description": "8g",
+  "image": "/medias/sys_master/prd-images/h65/hc0/31926143844382/prd-front-6129961-1_600x600/prd-front-6129961-1-600x600.jpg"
 }

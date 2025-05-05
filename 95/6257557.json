@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Cool Silver 1 Puur Wit Revitaliserende Zilver Verzorging",
   "code": "6257557",
   "price": "14.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h38/h3f/33515492573214/prd-front-6257557-1_600x600/prd-front-6257557-1-600x600.jpg"
+  "description": ""
 }

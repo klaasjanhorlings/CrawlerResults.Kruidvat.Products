@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Wow What a Brow 01 Wenkbrauwpen",
   "code": "5731531",
   "price": "2.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h18/h9d/30115781181470/prd-front-5731531-1_600x600/prd-front-5731531-1-600x600.jpg"
 }

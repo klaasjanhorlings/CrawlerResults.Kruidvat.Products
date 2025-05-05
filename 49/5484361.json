@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Stay With Me 060 C Deep Amber Longlasting Concealer",
   "code": "5484361",
   "price": "3.49",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "7ml"
+  "description": "7ml",
+  "image": "/medias/prd-front-5484361-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDEwNzZ8aW1hZ2UvanBlZ3xhRFk0TDJnMlppOHhOamsxT1RnMk9Ea3lPREF6TUM5d2NtUXRabkp2Ym5RdE5UUTRORE0yTVMweFh6WXdNSGcyTURBfDU2YmNhMGE0N2Q5YzM0Zjg1NjFmNDU2YjZkN2IzZDAzMWU3Y2UxNTFkYmY0NzUxNDYwMzE4ZWI4OTgwZWQ0NjA"
 }

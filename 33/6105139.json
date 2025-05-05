@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Blush Affair 010 Stunning Strawberry Cream & Powder Palette",
   "code": "6105139",
   "price": "5.69",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "6g"
+  "description": "6g",
+  "image": "/medias/sys_master/prd-images/ha5/h9f/33043814809630/prd-front-6105139-1_600x600/prd-front-6105139-1-600x600.jpg"
 }

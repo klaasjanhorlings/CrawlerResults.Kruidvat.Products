@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Creamy Nudes 010 Mocha Me Happy Lip Pen",
   "code": "6104901",
   "price": "3.99",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "1,2g",
-  "image": "/medias/sys_master/prd-images/hc5/h28/31688292794398/prd-front-6104901-1_600x600/prd-front-6104901-1-600x600.jpg"
+  "description": "1,2g"
 }

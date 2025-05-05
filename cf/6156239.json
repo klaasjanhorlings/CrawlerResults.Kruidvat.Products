@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Axe Aqua Bergamot Fine Fragrance Bodyspray & Bodywash Duo",
   "code": "6156239",
   "price": "12.99",
@@ -33,5 +33,6 @@
       "name": "Geschenksets voor hem"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/hca/h8f/33918558208030/prd-front-6156239-1_600x600/prd-front-6156239-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "M. Asam Brilliant Shine Hazelnut Heaven Lipstick",
   "code": "5845250",
   "price": "13.99",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h85/h2e/27530441064478/prd-front-5845250-1_600x600/prd-front-5845250-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Estée Lauder Advanced Night Repair Serum",
   "code": "5971782",
   "price": "42.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 11,96",
+  "discount": "€ 11,96",
   "url": "/estee-lauder-advanced-night-repair-serum/p/5971782",
   "listName": "Lister",
   "brand": "Estée Lauder",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "20ml, alle huidtypes",
-  "image": "/medias/sys_master/prd-images/hcc/hc3/30104510922782/prd-front-5971782-1_600x600/prd-front-5971782-1-600x600.jpg"
+  "description": "20ml, alle huidtypes"
 }

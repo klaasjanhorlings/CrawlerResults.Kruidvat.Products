@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Lash Paradise Noir Extra Zwarte Mascara",
   "code": "6034922",
   "price": "17.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "6,4ml"
+  "description": "6,4ml",
+  "image": "/medias/sys_master/prd-images/h2e/hb5/31686884655134/prd-front-6034922-1_600x600/prd-front-6034922-1-600x600.jpg"
 }
