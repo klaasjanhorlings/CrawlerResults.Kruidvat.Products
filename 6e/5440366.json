@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
-  "onPromo": "1051956",
-  "mmkId": "1051956",
-  "productGroupId": "475978",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-oorspray/p/5440366",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 50ml",
-  "image": "/medias/sys_master/prd-images/h4d/h83/34140129067038/prd-front-5440366-1_600x600/prd-front-5440366-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he4/haf/34146015019038/prd-front-5440366-1_600x600/prd-front-5440366-1-600x600.jpg"
 }
