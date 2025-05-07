@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sense Of Spa For Men Geschenkset",
+  "code": "6268792",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
+  "supplier": "TREFFINA BV",
+  "inStock": "inStock",
+  "onPromo": "1051744",
+  "mmkId": "1051744",
+  "productGroupId": "475694",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/sense-of-spa-for-men-geschenkset/p/6268792",
+  "listName": "Lister",
+  "brand": "Geschenkset",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666181,
+      "name": "Geschenksets voor hem"
+    }
+  ],
+  "description": ""
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051607",
+  "mmkId": "1051607",
+  "productGroupId": "459904",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-q10-verstevigende-en-extra-voedende-bodylotion-met-pomp/p/5475842",
@@ -33,6 +33,5 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/he9/ha8/32904947499038/prd-front-5475842-1_600x600/prd-front-5475842-1-600x600.jpg"
+  "description": "400ml"
 }

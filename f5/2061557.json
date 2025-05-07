@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6158 > 6181",
   "supplier": "AUROBINDO PHARMA BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Naproxen"
     }
   ],
-  "description": "Geneesmiddel - 10 stuks",
-  "image": "/medias/sys_master/prd-images/hc7/ha4/30560080429086/prd-front-2061557-1_600x600/prd-front-2061557-1-600x600.jpg"
+  "description": "Geneesmiddel - 10 stuks"
 }

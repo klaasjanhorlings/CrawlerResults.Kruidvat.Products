@@ -21,8 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266807,
-      "name": "Babyaccessoires"
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266041,
+      "name": "Babykleding"
+    },
+    {
+      "id": 30266849,
+      "name": "Rompertjes"
     }
   ],
   "description": "groen, mt 86-92",

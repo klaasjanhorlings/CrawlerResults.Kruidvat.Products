@@ -21,8 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266807,
-      "name": "Babyaccessoires"
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266780,
+      "name": "Hydrofiele doeken"
     }
   ],
   "description": "bruin, 120cm x 120cm",

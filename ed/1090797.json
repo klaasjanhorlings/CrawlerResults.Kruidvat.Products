@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
-  "onPromo": "1051956",
-  "mmkId": "1051956",
-  "productGroupId": "475978",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/otalgan-oorspray/p/1090797",
@@ -33,8 +33,8 @@
       "name": "Oor en mond"
     },
     {
-      "id": 30266946,
-      "name": "Oorspray"
+      "id": 49949619,
+      "name": "Oorreiniger"
     }
   ],
   "description": "Medisch hulpmiddel - 50ml",

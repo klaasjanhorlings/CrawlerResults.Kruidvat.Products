@@ -7,7 +7,7 @@
   "priceOriginal": "29.99",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69043063,
-      "name": "LEGO Bloemen"
+      "id": 69026508,
+      "name": "LEGO Volwassenen"
     }
   ],
   "description": "",

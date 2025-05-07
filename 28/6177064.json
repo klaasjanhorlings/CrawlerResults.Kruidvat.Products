@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "From PB with Love Rotan Tas",
+  "code": "6177064",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/from-pb-with-love-rotan-tas/p/6177064",
+  "listName": "Lister",
+  "brand": "Patty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "bruin, 61cm x 39cm x 10cm",
+  "image": "/medias/sys_master/prd-images/hf6/h72/33532619456542/prd-front-6177064-1_600x600/prd-front-6177064-1-600x600.jpg"
+}

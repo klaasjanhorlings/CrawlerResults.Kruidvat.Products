@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ajax Eucalyptus Allesreiniger",
+  "code": "4807727",
+  "price": "5.49",
+  "priceOriginal": "12.0",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 6,51",
+  "url": "/ajax-eucalyptus-allesreiniger/p/4807727",
+  "listName": "Lister",
+  "brand": "Ajax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144743,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "5L",
+  "image": "/medias/sys_master/prd-images/h1c/h1f/33480526299166/prd-front-4807727-1_600x600/prd-front-4807727-1-600x600.jpg"
+}
