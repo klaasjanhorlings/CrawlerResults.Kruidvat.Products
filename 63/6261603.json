@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1051676",
-  "mmkId": "1051676",
-  "productGroupId": "470301",
+  "onPromo": "1052033",
+  "mmkId": "1052033",
+  "productGroupId": "479755",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-venus-pro-smooth-sensitive-scheersysteem/p/6261603",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/ha4/he8/33339091910686/prd-front-6261603-1_600x600/prd-front-6261603-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

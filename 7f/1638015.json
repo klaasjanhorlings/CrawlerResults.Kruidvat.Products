@@ -8,8 +8,8 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
+  "onPromo": "1052811",
+  "mmkId": "1052811",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-1638015-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA0ODJ8aW1hZ2UvanBlZ3xhR0ppTDJnd09DOHhOekl3TXpBM05UZzNORGcwTmk5d2NtUXRabkp2Ym5RdE1UWXpPREF4TlMweFh6WXdNSGcyTURBfDlkYTdiZmI0OThkMGMzYjQ0YTkxYjVkMmJlNWJhMDVkNzM5OTI1MDdhNDRiMTFhZDVjNzJjMWFkYTZmZGI0MDI"
 }

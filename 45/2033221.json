@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "inStock",
-  "onPromo": "1051648",
-  "mmkId": "1051648",
-  "productGroupId": "467789",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/durex-play-sensual-ylang-ylang-2-in-1-massageolie-en-glijmiddel/p/2033221",
@@ -37,6 +37,5 @@
       "name": "Waterbasis glijmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 200ml",
-  "image": "/medias/prd-front-2033221-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTI3NzN8aW1hZ2UvanBlZ3xhRFUxTDJnMFlTOHlOekF3TnpNNE1qTXlNekl6TUM5d2NtUXRabkp2Ym5RdE1qQXpNekl5TVMweFh6WXdNSGcyTURBfGY4OTM4M2NmMTBlN2QwOGU1YWU4NGM1YzcxNmJjMjE0ZWU3NzMyNjNkYmUyNDY5YjZiYmJkMjMzMmU3NDY0ZDg"
+  "description": "Medisch hulpmiddel - 200ml"
 }

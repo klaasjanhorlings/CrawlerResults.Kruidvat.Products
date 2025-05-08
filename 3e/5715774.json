@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "SOLUTION EU BV",
-  "inStock": "inStock",
-  "onPromo": "1051772",
-  "mmkId": "1051772",
-  "productGroupId": "477307",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-badeend/p/5715774",
@@ -33,5 +33,6 @@
       "name": "Badspeelgoed"
     }
   ],
-  "description": "geel, rood, 7,5cm"
+  "description": "geel, rood, 7,5cm",
+  "image": "/medias/sys_master/prd-images/h0b/heb/28511371198494/prd-front-5715774-1_600x600/prd-front-5715774-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "SUNSTAR BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel",
-  "image": "/medias/sys_master/prd-images/h45/he5/34152914354206/prd-front-4647721-1_600x600/prd-front-4647721-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hcc/h45/34162799116318/prd-front-4647721-1_600x600/prd-front-4647721-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1051777",
-  "mmkId": "1051777",
-  "productGroupId": "477707",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-botanical-collection-10328-rozenboeket/p/6034446",
@@ -33,5 +33,6 @@
       "name": "LEGO Volwassenen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h44/h86/30037332951070/prd-front-6034446-1_600x600/prd-front-6034446-1-600x600.jpg"
 }

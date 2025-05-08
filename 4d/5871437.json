@@ -29,9 +29,14 @@
       "name": "Nagels"
     },
     {
-      "id": 72476685,
-      "name": "Gellak"
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266633,
+      "name": "Nagellakremover"
     }
   ],
-  "description": "50 stuks"
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/hdc/h6f/30226316656670/prd-front-5871437-1_600x600/prd-front-5871437-1-600x600.jpg"
 }

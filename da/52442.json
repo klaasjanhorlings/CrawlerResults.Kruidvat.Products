@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3070 > 3684",
   "supplier": "REMARK GROEP",
-  "inStock": "inStock",
-  "onPromo": "1051593",
-  "mmkId": "1051593",
-  "productGroupId": "450997",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-sensitive-24h-antitranspirant-stick/p/52442",
@@ -33,6 +33,5 @@
       "name": "Deostick"
     }
   ],
-  "description": "50g",
-  "image": "/medias/sys_master/prd-images/h55/ha3/30703548432414/prd-front-52442-1_600x600/prd-front-52442-1-600x600.jpg"
+  "description": "50g"
 }
