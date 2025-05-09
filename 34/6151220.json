@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
   "supplier": "MAXIM MARKENPRODUKTE",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051843",
+  "mmkId": "1051843",
+  "productGroupId": "486858",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-solait-bronzing-medium-tanning-cream/p/6151220",
@@ -33,5 +33,6 @@
       "name": "Zelfbruiners"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h11/h4a/33109912092702/prd-front-6151220-1_600x600/prd-front-6151220-1-600x600.jpg"
 }

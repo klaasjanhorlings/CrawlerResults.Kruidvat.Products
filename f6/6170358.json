@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "WELEDA BENELUX SE",
-  "inStock": "inStock",
-  "onPromo": "1051972",
-  "mmkId": "1051972",
-  "productGroupId": "488074",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/weleda-skin-food-light-voedende-alles-in-een-creme/p/6170358",
@@ -29,8 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266603,
+      "name": "Nachtcreme"
     }
   ],
   "description": "30ml - Droge huid",

@@ -29,13 +29,10 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267462,
-      "name": "Kindervitamines"
+      "id": 30266729,
+      "name": "Botten en gewrichten"
     }
   ],
-  "description": "50 stuks"
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/h99/hfd/33369852772382/prd-front-3177987-1_600x600/prd-front-3177987-1-600x600.jpg"
 }

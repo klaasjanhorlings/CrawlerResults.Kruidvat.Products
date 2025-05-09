@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Super Collageen 2000mg Tabletten",
+  "code": "6297247",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6193 > 6211 > 6233",
+  "supplier": "PK BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-super-collageen-2000mg-tabletten/p/6297247",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266719,
+      "name": "Beautysupplementen"
+    }
+  ],
+  "description": "150 stuks",
+  "image": "/medias/sys_master/prd-images/hf2/h43/34030022459422/prd-front-6297247-1_600x600/prd-front-6297247-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6198 > 6216 > 6258",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051687",
+  "mmkId": "1051687",
+  "productGroupId": "471157",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-omega-3-probiotica-d3-capsules/p/6163673",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49950650,
-      "name": "Bacteriestammen"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266991,
+      "name": "Vitamine D"
     }
   ],
   "description": "60 stuks",

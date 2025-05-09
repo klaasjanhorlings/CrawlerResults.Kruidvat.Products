@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Philips Sonicare 5300 Elektrische Tandenborstel",
+  "itemName": "Philips Sonicare 5300 Series HX7108/03 Elektrische Tandenborstel",
   "code": "6166438",
   "price": "139.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "485597",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/philips-sonicare-5300-elektrische-tandenborstel/p/6166438",
+  "url": "/philips-sonicare-5300-series-hx7108/03-elektrische-tandenborstel/p/6166438",
   "listName": "Lister",
   "brand": "Philips",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "wit",
-  "image": "/medias/sys_master/prd-images/h16/h0e/34163002671134/prd-front-6166438-1_600x600/prd-front-6166438-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he3/hbc/34181287149598/prd-front-6166438-1_600x600/prd-front-6166438-1-600x600.jpg"
 }

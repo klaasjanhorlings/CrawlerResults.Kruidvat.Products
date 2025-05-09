@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
   "supplier": "ASPIRE BRANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051686",
+  "mmkId": "1051686",
+  "productGroupId": "471064",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/batiste-cherry-droogshampoo/p/2843268",
@@ -29,8 +29,8 @@
       "name": "Haarverzorging"
     },
     {
-      "id": 30266694,
-      "name": "Shampoo"
+      "id": 30266693,
+      "name": "Droogshampoo"
     }
   ],
   "description": "200ml",

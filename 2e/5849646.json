@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
   "supplier": "HALEON (NOVARTIS)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biotene-hydraterende-gel/p/5849646",
@@ -30,11 +30,11 @@
     },
     {
       "id": 30266700,
-      "name": "Oor en mond"
+      "name": "Oor, oog en mond"
     },
     {
-      "id": 49949654,
-      "name": "Mond- en tandgel"
+      "id": 49949629,
+      "name": "Droge mond"
     }
   ],
   "description": "50g",

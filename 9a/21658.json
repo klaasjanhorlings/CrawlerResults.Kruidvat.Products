@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 3469",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Keelpastilles"
     }
   ],
-  "description": "Geneesmiddel - 24 stuks",
-  "image": "/medias/sys_master/prd-images/h3b/h26/34088281669662/prd-front-21658-1_600x600/prd-front-21658-1-600x600.jpg"
+  "description": "Geneesmiddel - 24 stuks"
 }

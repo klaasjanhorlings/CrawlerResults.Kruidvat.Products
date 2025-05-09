@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
   "supplier": "DELARANGE COSMETICS",
-  "inStock": "inStock",
-  "onPromo": "1051916",
-  "mmkId": "1051916",
-  "productGroupId": "456379",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-natures-olive-oil-jojoba-oil-hydrating-lip-balm/p/4973998",
@@ -33,6 +33,5 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "4,8g",
-  "image": "/medias/sys_master/prd-images/hce/h0e/30495086182430/prd-front-4973998-1_600x600/prd-front-4973998-1-600x600.jpg"
+  "description": "4,8g"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051827",
+  "mmkId": "1051827",
+  "productGroupId": "480258",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-pro-care-ceramide-thick-full-shampoo/p/6121834",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h29/he0/31477459353630/prd-front-6121834-1_600x600/prd-front-6121834-1-600x600.jpg"
 }

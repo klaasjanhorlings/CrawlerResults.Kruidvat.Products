@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "ONTEX BVBA",
-  "inStock": "inStock",
-  "onPromo": "1051755",
-  "mmkId": "1051755",
-  "productGroupId": "476111",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-string-inlegkruisjes/p/1391223",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h4f/h2a/28512146325534/prd-front-1391223-1_600x600/prd-front-1391223-1-600x600.jpg"
 }

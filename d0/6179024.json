@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2495 > 3061 > 3791 > 5795 > 5928 > 6716",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Damespyjama's"
     }
   ],
-  "description": "donkerblauw, mt M"
+  "description": "donkerblauw, mt M",
+  "image": "/medias/sys_master/prd-images/h32/h31/33390684307486/prd-front-6179024-1_600x600/prd-front-6179024-1-600x600.jpg"
 }
