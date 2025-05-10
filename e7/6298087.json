@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Myprotein Plastic Shaker",
+  "code": "6298087",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6393 > 6394 > 6397",
+  "supplier": "THG NUTRITION LIMITED",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/myprotein-plastic-shaker/p/6298087",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266755,
+      "name": "Sportaccessoires"
+    }
+  ],
+  "description": "600ml",
+  "image": "/medias/sys_master/prd-images/h18/h5d/33917946134558/prd-front-6298087-1_600x600/prd-front-6298087-1-600x600.jpg"
+}

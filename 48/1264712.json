@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 3020 > 3845",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1051811",
+  "mmkId": "1051811",
+  "productGroupId": "478360",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-maxi-plus-maat-4-luiers-jumbopack/p/1264712",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 4+ (9-15 kg), 70 stuks",
-  "image": "/medias/sys_master/prd-images/hb3/h95/34181958631454/prd-front-1264712-1_600x600/prd-front-1264712-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd7/h50/34192540270622/prd-front-1264712-1_600x600/prd-front-1264712-1-600x600.jpg"
 }

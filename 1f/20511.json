@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 6475 > 6476 > 6477 > 6479",
   "supplier": "FASHY GMBH - PRODUKTION",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/fashy-kruik/p/20511",
@@ -37,6 +37,5 @@
       "name": "Kruiken"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-20511-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzg2ODh8aW1hZ2UvanBlZ3xhR05tTDJneE9DOHlOekF6T1Rrd056RTRORFkzTUM5d2NtUXRabkp2Ym5RdE1qQTFNVEV0TVY4Mk1EQjROakF3fDg4N2EwMDJkNjhkODFlNzkwNjk1YWFjMTcyNDdlNzM2YTkwN2RhNWViOGRlNWVhODlhZmQ5ODIxOWE3ZDlhYzg"
+  "description": ""
 }

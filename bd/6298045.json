@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Myprotein Impact Creatine Monohydrate",
+  "code": "6298045",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6391 > 6392 > 6397",
+  "supplier": "THG NUTRITION LIMITED",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/myprotein-impact-creatine-monohydrate/p/6298045",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266753,
+      "name": "Creatine"
+    }
+  ],
+  "description": "500g",
+  "image": "/medias/sys_master/prd-images/h5e/h25/33917658562590/prd-front-6298045-1_600x600/prd-front-6298045-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Myprotein Clear Orange Mango Whey Protein",
+  "code": "6297989",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
+  "supplier": "THG NUTRITION LIMITED",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/myprotein-clear-orange-mango-whey-protein/p/6297989",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266750,
+      "name": "Proteine eiwit poeders"
+    }
+  ],
+  "description": "261g",
+  "image": "/medias/sys_master/prd-images/hd9/ha2/33920385450014/prd-front-6297989-1_600x600/prd-front-6297989-1-600x600.jpg"
+}

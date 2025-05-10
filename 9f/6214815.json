@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Rugzak met Dierenprint",
+  "code": "6214815",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6417",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1052824",
+  "mmkId": "1052824",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/rugzak-met-dierenprint/p/6214815",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "43cm x 32cm x 14cm",
+  "image": "/medias/sys_master/prd-images/h76/he3/33196874989598/prd-front-6214815-1_600x600/prd-front-6214815-1-600x600.jpg"
+}
