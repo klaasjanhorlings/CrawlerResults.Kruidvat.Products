@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3070 > 3684",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1051627",
-  "mmkId": "1051627",
-  "productGroupId": "464093",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ben-anna-persian-lime-deodorantcreme-in-blik/p/5641630",
@@ -33,6 +33,5 @@
       "name": "Deodorant creme"
     }
   ],
-  "description": "45g",
-  "image": "/medias/sys_master/prd-images/hf7/hdd/27525366382622/prd-front-5641630-1_600x600/prd-front-5641630-1-600x600.jpg"
+  "description": "45g"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "JOHNSON & JOHNSON CONS",
-  "inStock": "inStock",
-  "onPromo": "1051793",
-  "mmkId": "1051793",
-  "productGroupId": "477759",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/listerine-anti-tandsteen-mondspoeling/p/980911",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "500ml",
-  "image": "/medias/sys_master/prd-images/h7f/h9a/34200828182558/prd-front-980911-1_600x600/prd-front-980911-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h20/h26/34209068843038/prd-front-980911-1_600x600/prd-front-980911-1-600x600.jpg"
 }

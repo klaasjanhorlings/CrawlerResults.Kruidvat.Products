@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Edet Ultra Vierlaags Soft Toiletpapier met Stro",
+  "code": "6171478",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
+  "supplier": "ESSITY",
+  "inStock": "inStock",
+  "onPromo": "1052072",
+  "mmkId": "1052072",
+  "productGroupId": "474692",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/edet-ultra-vierlaags-soft-toiletpapier-met-stro/p/6171478",
+  "listName": "Lister",
+  "brand": "Edet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266072,
+      "name": "Toiletpapier"
+    }
+  ],
+  "description": "16 rollen",
+  "image": "/medias/sys_master/prd-images/h8c/h1b/31901625974814/prd-front-6171478-1_600x600/prd-front-6171478-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "JOHNSON & JOHNSON CONS",
-  "inStock": "inStock",
-  "onPromo": "1051793",
-  "mmkId": "1051793",
-  "productGroupId": "477759",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/listerine-total-care-mondspoeling/p/1596729",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "500ml",
-  "image": "/medias/sys_master/prd-images/h07/he1/34201316458526/prd-front-1596729-1_600x600/prd-front-1596729-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h52/h1f/34214167117854/prd-front-1596729-1_600x600/prd-front-1596729-1-600x600.jpg"
 }

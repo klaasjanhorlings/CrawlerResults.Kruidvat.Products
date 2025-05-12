@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6204 > 6222 > 6288",
   "supplier": "HALEON (NOVARTIS)",
   "inStock": "inStock",
-  "onPromo": "1051671",
-  "mmkId": "1051671",
-  "productGroupId": "469871",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/centrum-men-multivitaminen-tabletten/p/3278073",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hde/h03/32539491991582/prd-front-3278073-1_600x600/prd-front-3278073-1-600x600.jpg"
 }

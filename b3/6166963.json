@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "1051819",
-  "mmkId": "1051819",
-  "productGroupId": "478548",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-3100-series-sonicare-hx3673/14-elektrische-tandenborstel/p/6166963",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "zwart",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/hea/h69/34209335377950/prd-front-6166963-1_600x600/prd-front-6166963-1-600x600.jpg"
 }

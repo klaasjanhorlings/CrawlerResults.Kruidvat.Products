@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dizzle",
+  "code": "5654790",
+  "price": "10.99",
+  "priceOriginal": "15.99",
+  "itemBgbcat": "5921 > 6018 > 2181 > 6735 > 6733 > 6734",
+  "supplier": "999 GAMES",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/dizzle/p/5654790",
+  "listName": "Lister",
+  "brand": "999 Games",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/ha8/h92/28717596737566/prd-front-5654790-1_600x600/prd-front-5654790-1-600x600.jpg"
+}

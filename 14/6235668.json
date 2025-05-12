@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1051691",
-  "mmkId": "1051691",
-  "productGroupId": "471424",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-lumi-le-glow-630-creme-chic-highlighter-stick/p/6235668",
@@ -33,5 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h32/hc2/33606138986526/prd-front-6235668-1_600x600/prd-front-6235668-1-600x600.jpg"
 }

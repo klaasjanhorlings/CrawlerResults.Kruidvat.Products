@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1052180",
+  "mmkId": "1052180",
+  "productGroupId": "475880",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-powder-louder-espresso-brow-pencil/p/6129975",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hda/hcc/31926806446110/prd-front-6129975-1_600x600/prd-front-6129975-1-600x600.jpg"
 }

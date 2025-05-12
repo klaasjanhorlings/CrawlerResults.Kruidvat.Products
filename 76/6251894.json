@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1051744",
-  "mmkId": "1051744",
-  "productGroupId": "475694",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/prada-lhomme-leau-eau-de-toilette/p/6251894",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h25/h56/33106017320990/prd-front-6251894-1_600x600/prd-front-6251894-1-600x600.jpg"
 }

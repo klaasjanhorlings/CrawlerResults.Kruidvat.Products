@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1052186",
+  "mmkId": "1052186",
+  "productGroupId": "476144",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-wondspray/p/5676938",
@@ -33,5 +33,6 @@
       "name": "Wondreiniging en/of -ontsmetting"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hba/h80/31149979828254/prd-front-5676938-1_600x600/prd-front-5676938-1-600x600.jpg"
 }

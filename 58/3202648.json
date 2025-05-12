@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1051691",
-  "mmkId": "1051691",
-  "productGroupId": "471424",
+  "onPromo": "1052137",
+  "mmkId": "1052137",
+  "productGroupId": "472881",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/l-oreal-paris-elvive-extraordinary-oil-conditioner/p/3202648",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hb8/h4d/33047775248414/prd-front-3202648-1_600x600/prd-front-3202648-1-600x600.jpg"
 }

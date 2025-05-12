@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1051752",
-  "mmkId": "1051752",
-  "productGroupId": "476024",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ariana-grande-cloud-bodymist/p/5826259",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "236ml"
+  "description": "236ml",
+  "image": "/medias/prd-front-5826259-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDM0MTR8aW1hZ2UvanBlZ3xhR0V4TDJnNE1DOHlOalUyTURZeU1UQTRORGN3TWk5d2NtUXRabkp2Ym5RdE5UZ3lOakkxT1MweFh6WXdNSGcyTURBfDc3NGNjY2JmODFkYzZlOTNmMjFjMWU2YjUyZTZkYzkwNDNkNTM4NTJmNDQ4MzA4ZDNiNDkwMDNjOTNhMjViYzE"
 }

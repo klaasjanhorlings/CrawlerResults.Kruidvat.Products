@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "1051729",
-  "mmkId": "1051729",
-  "productGroupId": "474286",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aunt-jackies-oh-so-clean-shampoo/p/5431105",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "355ml",
-  "image": "/medias/sys_master/prd-images/h50/hd1/27772747710494/prd-front-5431105-1_600x600/prd-front-5431105-1-600x600.jpg"
+  "description": "355ml"
 }

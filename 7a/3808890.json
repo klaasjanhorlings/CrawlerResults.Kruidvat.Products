@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1051834",
-  "mmkId": "1051834",
-  "productGroupId": "481662",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sheamoisture-raw-shea-butter-moisture-retention-shampoo/p/3808890",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "384ml"
+  "description": "384ml",
+  "image": "/medias/prd-front-3808890-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQ2NTJ8aW1hZ2UvanBlZ3xhREZtTDJobVl5OHlOams0TnpZME9ETTROVEExTkM5d2NtUXRabkp2Ym5RdE16Z3dPRGc1TUMweFh6WXdNSGcyTURBfDY3NzY4MGQ5MTJmNjFkNGEzNGE2ZTIzMGRjYTM3MjUyNGI2ZTFiM2I2ZWU3YWJhYWM0MzlmOWM5YzFmZmVlODc"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1051626",
-  "mmkId": "1051626",
-  "productGroupId": "463445",
+  "onPromo": "1052092",
+  "mmkId": "1052092",
+  "productGroupId": "459974",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-oriental-moments-douchecreme/p/3552508",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h72/h2d/28023398629406/prd-front-3552508-1_600x600/prd-front-3552508-1-600x600.jpg"
 }
