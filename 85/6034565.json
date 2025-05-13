@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Ninjago 71808 Kai's Elementaire Vuurmecha",
+  "code": "6034565",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-ninjago-71808-kais-elementaire-vuurmecha/p/6034565",
+  "listName": "Lister",
+  "brand": "LEGO Ninjago",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266812,
+      "name": "LEGO Ninjago"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbf/ha6/30150563495966/prd-front-6034565-1_600x600/prd-front-6034565-1-600x600.jpg"
+}

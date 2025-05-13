@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Tafellamp met Veren",
+  "code": "6211938",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2208 > 4831 > 4846 > 4857 > 5926 > 6024",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-tafellamp-met-veren/p/6211938",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266053,
+      "name": "Verlichting"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8b/hb3/32930319925278/prd-front-6211938-1_600x600/prd-front-6211938-1-600x600.jpg"
+}

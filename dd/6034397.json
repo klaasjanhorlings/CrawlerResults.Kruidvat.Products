@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Ninjago 71811 Arins Ninjaterreinbuggy",
+  "code": "6034397",
+  "price": "44.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-ninjago-71811-arins-ninjaterreinbuggy/p/6034397",
+  "listName": "Lister",
+  "brand": "LEGO Ninjago",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266812,
+      "name": "LEGO Ninjago"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha7/he9/30048267763742/prd-front-6034397-1_600x600/prd-front-6034397-1-600x600.jpg"
+}

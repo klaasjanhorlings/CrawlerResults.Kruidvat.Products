@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 5886 > 6438",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Epilators"
     }
   ],
-  "description": "wit, zilverkleur"
+  "description": "wit, zilverkleur",
+  "image": "/medias/sys_master/prd-images/hed/hbd/27534317355038/prd-front-4386747-1_600x600/prd-front-4386747-1-600x600.jpg"
 }

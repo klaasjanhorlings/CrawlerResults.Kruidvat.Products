@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Harry Potter 76421 Dobby De Huis-Elf",
+  "code": "5887796",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-harry-potter-76421-dobby-de-huis-elf/p/5887796",
+  "listName": "Lister",
+  "brand": "LEGO Harry Potter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266816,
+      "name": "LEGO Harry Potter"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf1/ha6/27928328175646/prd-front-5887796-1_600x600/prd-front-5887796-1-600x600.jpg"
+}

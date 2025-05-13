@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Vision Every Day Sun Protection SPF30 Lotion",
   "code": "1862533",
-  "price": "3.99",
+  "price": "0.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/hf9/hc4/34020173709342/prd-front-1862533-1_600x600/prd-front-1862533-1-600x600.jpg"
+  "description": "15ml"
 }

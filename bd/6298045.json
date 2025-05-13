@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2261 > 2607 > 6391 > 6392 > 6397",
   "supplier": "THG NUTRITION LIMITED",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/myprotein-impact-creatine-monohydrate/p/6298045",
@@ -33,6 +33,5 @@
       "name": "Creatine"
     }
   ],
-  "description": "500g",
-  "image": "/medias/sys_master/prd-images/h5e/h25/33917658562590/prd-front-6298045-1_600x600/prd-front-6298045-1-600x600.jpg"
+  "description": "500g"
 }

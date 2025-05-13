@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Gabby's Dollhouse 10787 Kitty Fee's Tuinfeestje",
+  "code": "5892976",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1040891",
+  "mmkId": "1040891",
+  "productGroupId": "432557",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-gabbys-dollhouse-10787-kitty-fees-tuinfeestje/p/5892976",
+  "listName": "Lister",
+  "brand": "LEGO Gabby's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69048506,
+      "name": "LEGO Gabby’s Dollhouse"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd5/heb/28050736971806/prd-front-5892976-1_600x600/prd-front-5892976-1-600x600.jpg"
+}

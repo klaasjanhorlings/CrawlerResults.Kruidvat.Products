@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ruimte Kinderhorloge",
+  "code": "6102584",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2270 > 4869 > 5042 > 5043 > 5044",
+  "supplier": "GOLDEN GIFT",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/ruimte-kinderhorloge/p/6102584",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266860,
+      "name": "Sieraden en bijoux"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9a/h84/31378047827998/prd-front-6102584-1_600x600/prd-front-6102584-1-600x600.jpg"
+}

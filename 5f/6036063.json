@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clementoni Edukit Disney Princess 4-in-1 Puzzles + Games",
+  "code": "6036063",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6018",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "inStock",
+  "onPromo": "1012132",
+  "mmkId": "1012132",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/clementoni-edukit-disney-princess-4-in-1-puzzles-games/p/6036063",
+  "listName": "Lister",
+  "brand": "Clementoni",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30266837,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7b/h8e/30479883534366/prd-front-6036063-1_600x600/prd-front-6036063-1-600x600.jpg"
+}

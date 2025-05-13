@@ -6,7 +6,7 @@
   "price": "16.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6450 > 3458",
-  "supplier": "JOHNSON & JOHNSON CONS",
+  "supplier": "KENVUE",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
@@ -25,12 +25,16 @@
       "name": "Gezondheid"
     },
     {
-      "id": 48220663,
-      "name": "Voetverzorging"
+      "id": 30266006,
+      "name": "Zelfzorg"
     },
     {
-      "id": 48220885,
-      "name": "Voetschimmelbehandeling"
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 49946950,
+      "name": "Schimmelinfectie"
     }
   ],
   "description": "Geneesmiddel - 30g",

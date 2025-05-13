@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6452 > 6451",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/mycosan-kalknagelpleister/p/6238895",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "14 stuks",
-  "image": "/medias/sys_master/prd-images/h92/hf0/34209630847006/prd-front-6238895-1_600x600/prd-front-6238895-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7f/hc7/34216089092126/prd-front-6238895-1_600x600/prd-front-6238895-1-600x600.jpg"
 }
