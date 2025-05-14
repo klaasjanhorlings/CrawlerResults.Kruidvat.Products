@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052096",
+  "mmkId": "1052096",
+  "productGroupId": "462773",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-pro-care-protein-plex-repair-conditioner/p/6121890",
@@ -25,12 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266692,
-      "name": "Haarstylingproducten"
+      "id": 30266005,
+      "name": "Haarverzorging"
     },
     {
-      "id": 30266926,
-      "name": "Haarcrème"
+      "id": 30266695,
+      "name": "Conditioner"
     }
   ],
   "description": "250ml",

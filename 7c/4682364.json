@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6451 > 6452",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/mycosan-kalknagel-xl-behandelset/p/4682364",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 10ml",
-  "image": "/medias/sys_master/prd-images/h73/h6f/29174688219166/prd-front-4682364-1_600x600/prd-front-4682364-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7a/h79/34226192547870/prd-front-4682364-1_600x600/prd-front-4682364-1-600x600.jpg"
 }

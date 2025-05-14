@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
   "supplier": "MALABAR BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052156",
+  "mmkId": "1052156",
+  "productGroupId": "474767",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-lungo-koffiecapsules/p/6220128",
@@ -20,10 +20,6 @@
   "mpShopId": "1",
   "isSponsored": "false",
   "categories": [
-    {
-      "id": 29536086,
-      "name": "Huishouden"
-    },
     {
       "id": 30266076,
       "name": "Eten en drinken"

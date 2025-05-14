@@ -21,10 +21,6 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536086,
-      "name": "Huishouden"
-    },
-    {
       "id": 30266076,
       "name": "Eten en drinken"
     },
@@ -33,5 +29,6 @@
       "name": "Koffie"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hc5/hb5/28026677264414/prd-front-5433751-1_600x600/prd-front-5433751-1-600x600.jpg"
 }

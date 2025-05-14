@@ -29,13 +29,14 @@
       "name": "Babyverzorging"
     },
     {
-      "id": 30266777,
-      "name": "Baby bad- en doucheverzorging"
+      "id": 30266775,
+      "name": "Baby haarverzorging"
     },
     {
-      "id": 30267021,
-      "name": "Babywasgel"
+      "id": 30267012,
+      "name": "Babyshampoo"
     }
   ],
-  "description": "4 x 15ml"
+  "description": "4 x 15ml",
+  "image": "/medias/sys_master/prd-images/h16/h6d/28612765646878/prd-front-5608786-1_600x600/prd-front-5608786-1-600x600.jpg"
 }

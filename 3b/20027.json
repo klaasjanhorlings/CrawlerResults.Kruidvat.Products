@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3108 > 3485",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,12 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266003,
-      "name": "Handverzorging"
+      "id": 30265995,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30266688,
-      "name": "Handcrèmes"
+      "id": 30266641,
+      "name": "Bodycremes"
     }
   ],
   "description": "50g",

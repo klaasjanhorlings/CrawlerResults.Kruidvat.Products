@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 2839 > 3579",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052112",
+  "mmkId": "1052112",
+  "productGroupId": "471099",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/veet-expert-ontharingscreme-kit-voor-je-bikinilijn/p/5844165",
@@ -33,6 +33,5 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h4b/hfa/27224586649630/prd-front-5844165-1_600x600/prd-front-5844165-1-600x600.jpg"
+  "description": "100ml"
 }
