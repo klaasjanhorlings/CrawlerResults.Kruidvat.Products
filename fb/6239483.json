@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "CCS Eeltcrème",
+  "code": "6239483",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2683 > 3383",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ccs-eeltcreme/p/6239483",
+  "listName": "Lister",
+  "brand": "CCS",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48220898,
+      "name": "Voetcréme"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h52/h39/33338280575006/prd-front-6239483-1_600x600/prd-front-6239483-1-600x600.jpg"
+}

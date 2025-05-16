@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2317 > 2718 > 3421 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052240",
+  "mmkId": "1052240",
+  "productGroupId": "478452",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-molton/p/6284577",
@@ -25,12 +25,16 @@
       "name": "Baby"
     },
     {
-      "id": 30266023,
-      "name": "Zwangerschap en kraamtijd"
+      "id": 49880164,
+      "name": "Babykamer"
     },
     {
-      "id": 30266807,
-      "name": "Babyaccessoires"
+      "id": 51606844,
+      "name": "Baby beddengoed"
+    },
+    {
+      "id": 64170341,
+      "name": "Babymatrasbeschermers"
     }
   ],
   "description": "60cm x 120cm",

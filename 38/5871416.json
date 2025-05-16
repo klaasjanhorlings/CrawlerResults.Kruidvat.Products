@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6505 > 6506",
   "supplier": "COSMO GROUP SP. Z O.O.",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/he3/h7e/33002260725790/prd-front-5871416-1_600x600/prd-front-5871416-1-600x600.jpg"
 }

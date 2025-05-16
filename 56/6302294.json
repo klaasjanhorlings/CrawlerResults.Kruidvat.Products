@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Mystic Rose Hair- & Bodymist",
+  "code": "6302294",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
+  "supplier": "REMARK GROEP",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-mystic-rose-hair-bodymist/p/6302294",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 30266601,
+      "name": "Bodymist"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h5b/h67/34111715147806/prd-front-6302294-1_600x600/prd-front-6302294-1-600x600.jpg"
+}

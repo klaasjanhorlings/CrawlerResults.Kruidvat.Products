@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052314",
+  "mmkId": "1052314",
+  "productGroupId": "469004",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-littekencreme/p/2121869",
@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 51214305,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 30266940,
-      "name": "Littekencremes"
+      "id": 30266603,
+      "name": "Nachtcreme"
     }
   ],
   "description": "75ml - Probleemhuid",

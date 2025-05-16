@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052314",
+  "mmkId": "1052314",
+  "productGroupId": "469004",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/yeauty-cucumber-cooler-eye-pad-masks/p/5969136",
@@ -37,5 +37,6 @@
       "name": "Oogmaskers"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/hbf/h54/28850197495838/prd-front-5969136-1_600x600/prd-front-5969136-1-600x600.jpg"
 }

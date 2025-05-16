@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6323 > 6674",
   "supplier": "LITTLE CONCEPTS NETTO",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052321",
+  "mmkId": "1052321",
+  "productGroupId": "478426",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/my-haircandy-haarklem/p/5860790",
@@ -33,6 +33,5 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": "goudkleurig",
-  "image": "/medias/sys_master/prd-images/hd8/hbe/33905675501598/prd-front-5860790-1_600x600/prd-front-5860790-1-600x600.jpg"
+  "description": "goudkleurig"
 }

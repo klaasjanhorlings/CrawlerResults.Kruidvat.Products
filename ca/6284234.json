@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2330 > 2730 > 3433 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
-  "onPromo": "1052240",
-  "mmkId": "1052240",
-  "productGroupId": "478452",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-meegroeiromper/p/6284234",
@@ -25,12 +25,12 @@
       "name": "Baby"
     },
     {
-      "id": 30266023,
-      "name": "Zwangerschap en kraamtijd"
+      "id": 30266041,
+      "name": "Babykleding"
     },
     {
-      "id": 30266807,
-      "name": "Babyaccessoires"
+      "id": 30266849,
+      "name": "Rompertjes"
     }
   ],
   "description": "groen, mt 74-80",

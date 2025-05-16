@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Snuggs Menstruatieondergoed",
+  "code": "6301671",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
+  "supplier": "SNUGGSWEAR S.R.O.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/snuggs-menstruatieondergoed/p/6301671",
+  "listName": "Lister",
+  "brand": "Snuggs",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266666,
+      "name": "Menstruatieondergoed"
+    }
+  ],
+  "description": "zwart, mt S",
+  "image": "/medias/sys_master/prd-images/h4e/h96/34040467718174/prd-front-6301671-1_600x600/prd-front-6301671-1-600x600.jpg"
+}

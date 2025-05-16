@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1052198",
-  "mmkId": "1052198",
-  "productGroupId": "476555",
+  "onPromo": "1052318",
+  "mmkId": "1052318",
+  "productGroupId": "476546",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-expert-finish-cellular-filler-02-medium-3-in-1-care-cushion-foundation/p/4992394",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "15g"
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/he7/hf2/32903076610078/prd-front-4992394-1_600x600/prd-front-4992394-1-600x600.jpg"
 }

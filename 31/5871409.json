@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2684 > 3384 > 6497 > 6496 > 6520",
   "supplier": "COSMO GROUP SP. Z O.O.",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,12 +29,8 @@
       "name": "Nagels"
     },
     {
-      "id": 30265994,
-      "name": "Nagelverzorging"
-    },
-    {
-      "id": 30266634,
-      "name": "Nagelvijlen"
+      "id": 72476685,
+      "name": "Gellak"
     }
   ],
   "description": "",

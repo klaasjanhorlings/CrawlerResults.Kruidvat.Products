@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052314",
+  "mmkId": "1052314",
+  "productGroupId": "469004",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-retinol-boost-dagcreme/p/5627350",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "50ml",

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1052313",
+  "mmkId": "1052313",
+  "productGroupId": "468882",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-color-riche-intense-volume-635-worth-it-medium-matte-lippenstift/p/6235892",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1a/hb4/33348544790558/prd-front-6235892-1_600x600/prd-front-6235892-1-600x600.jpg"
 }

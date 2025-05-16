@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Moments Peony & Yuzu Handbalm",
+  "code": "6283023",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-moments-peony-yuzu-handbalm/p/6283023",
+  "listName": "Lister",
+  "brand": "Kruidvat Moments",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266003,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30266688,
+      "name": "Handcrèmes"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hde/haa/33848851922974/prd-front-6283023-1_600x600/prd-front-6283023-1-600x600.jpg"
+}

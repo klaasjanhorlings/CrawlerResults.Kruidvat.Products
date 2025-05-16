@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536086,
-      "name": "Huishouden"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266070,
-      "name": "Huishoudelijke accessoires"
+      "id": 30266003,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30266689,
+      "name": "Handzeep"
     }
   ],
   "description": "250ml",

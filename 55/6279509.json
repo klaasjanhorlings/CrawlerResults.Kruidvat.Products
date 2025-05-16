@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "ZENNER NIEUW VENNEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052324",
+  "mmkId": "1052324",
+  "productGroupId": "489767",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zenner-mommy-me-pearls-geschenkset/p/6279509",
@@ -33,5 +33,6 @@
       "name": "Geschenkset voor kinderen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb7/h0f/33631709528094/prd-front-6279509-1_600x600/prd-front-6279509-1-600x600.jpg"
 }

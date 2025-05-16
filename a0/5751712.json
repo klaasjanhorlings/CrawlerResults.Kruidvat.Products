@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052324",
+  "mmkId": "1052324",
+  "productGroupId": "489767",
   "brandType": "A of B merk",
   "discount": "€ 1,59",
   "url": "/therme-hammam-geschenkset/p/5751712",
@@ -37,6 +37,5 @@
       "name": "Bad & douche geschenksets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h37/h17/28630886350878/prd-front-5751712-1_600x600/prd-front-5751712-1-600x600.jpg"
+  "description": ""
 }
