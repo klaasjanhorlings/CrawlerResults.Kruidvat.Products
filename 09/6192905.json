@@ -8,9 +8,9 @@
   "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
   "supplier": "DUGROS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052267",
+  "mmkId": "1052267",
+  "productGroupId": "488886",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/true-spirit-handtas/p/6192905",
@@ -33,5 +33,6 @@
       "name": "Tassen"
     }
   ],
-  "description": "33cm x 10cm x 18cm"
+  "description": "33cm x 10cm x 18cm",
+  "image": "/medias/sys_master/prd-images/hc2/h2c/32492311445534/prd-front-6192905-1_600x600/prd-front-6192905-1-600x600.jpg"
 }

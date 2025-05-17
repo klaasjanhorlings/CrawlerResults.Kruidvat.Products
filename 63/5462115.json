@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Shapewear Highwaist Maxi Damesslip",
+  "code": "5462115",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6621 > 2001",
+  "supplier": "L. TEN CATE BV",
+  "inStock": "inStock",
+  "onPromo": "1052234",
+  "mmkId": "1052234",
+  "productGroupId": "478341",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-shapewear-highwaist-maxi-damesslip/p/5462115",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266842,
+      "name": "Damesondergoed"
+    }
+  ],
+  "description": "zwart, mt L",
+  "image": "/medias/sys_master/prd-images/h77/hd7/27496293335070/prd-front-5462115-1_600x600/prd-front-5462115-1-600x600.jpg"
+}

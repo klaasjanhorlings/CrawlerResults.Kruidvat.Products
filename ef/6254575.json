@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Handbagage Trolley",
+  "code": "6254575",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 4869 > 6088 > 6091 > 6095",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "1052267",
+  "mmkId": "1052267",
+  "productGroupId": "488886",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/handbagage-trolley/p/6254575",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "zwart, 55cm x 35cm x 21cm",
+  "image": "/medias/sys_master/prd-images/h15/h8a/33199001108510/prd-front-6254575-1_600x600/prd-front-6254575-1-600x600.jpg"
+}

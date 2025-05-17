@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052317",
+  "mmkId": "1052317",
+  "productGroupId": "475772",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/david-beckham-botanical-resin-eau-de-parfum/p/6299249",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hb7/h94/34246941048862/prd-front-6299249-1_600x600/prd-front-6299249-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hed/hca/34257362452510/prd-front-6299249-1_600x600/prd-front-6299249-1-600x600.jpg"
 }
