@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olay Regenerist 2-In-1 Dagcrème & Serum",
+  "code": "1931203",
+  "price": "38.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1052314",
+  "mmkId": "1052314",
+  "productGroupId": "469004",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olay-regenerist-2-in-1-dagcreme-serum/p/1931203",
+  "listName": "Lister",
+  "brand": "Olay",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h11/h73/33634124988446/prd-front-1931203-1_600x600/prd-front-1931203-1-600x600.jpg"
+}

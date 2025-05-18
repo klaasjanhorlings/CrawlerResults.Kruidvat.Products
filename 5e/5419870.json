@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 5.000 mAh Powerbank",
   "code": "5419870",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Powerbanks"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h26/hbb/33409957560350/prd-front-5419870-1_600x600/prd-front-5419870-1-600x600.jpg"
 }

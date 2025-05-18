@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Cotton Shape Highleg Damesslips",
-  "code": "5461744",
-  "price": "9.99",
+  "itemName": "Kruidvat Cotton Stretch Damessinglet",
+  "code": "5461653",
+  "price": "4.99",
   "priceOriginal": "",
-  "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6618 > 2001",
+  "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6617 > 2001",
   "supplier": "L. TEN CATE BV",
   "inStock": "outOfStock",
   "onPromo": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-cotton-shape-highleg-damesslips/p/5461744",
+  "url": "/kruidvat-cotton-stretch-damessinglet/p/5461653",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "wit mt M, 2 stuks",
-  "image": "/medias/sys_master/prd-images/hcd/hb2/27772750463006/prd-front-5461744-1_600x600/prd-front-5461744-1-600x600.jpg"
+  "description": "zwart, mt XL",
+  "image": "/medias/sys_master/prd-images/h7d/ha0/27539779452958/prd-front-5461653-1_600x600/prd-front-5461653-1-600x600.jpg"
 }

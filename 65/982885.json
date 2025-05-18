@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "1052169",
-  "mmkId": "1052169",
-  "productGroupId": "475579",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-casting-creme-gloss-200-intens-zwart-semi-permanente-haarkleuring/p/982885",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h79/ha2/34257634295838/prd-front-982885-1_600x600/prd-front-982885-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h28/h86/34267646591006/prd-front-982885-1_600x600/prd-front-982885-1-600x600.jpg"
 }
