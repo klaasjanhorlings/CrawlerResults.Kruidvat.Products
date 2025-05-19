@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1052313",
-  "mmkId": "1052313",
-  "productGroupId": "468882",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-brow-ultra-slim-02-soft-brown-wenkbrauwpotlood/p/5203206",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-5203206-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTgyNTd8aW1hZ2UvanBlZ3xhR0pqTDJoaU55OHhOamd5T0RneE5USTNPREV4TUM5d2NtUXRabkp2Ym5RdE5USXdNekl3TmkweFh6WXdNSGcyTURBfDVjN2MzNzBjYzM2MjU5YTMyNTg0NGJlYTE4MDk1Y2NlNTgyMjgzNDFjNTIwNjU1NWNiODZjNWUzZDMxODYzYmQ"
+  "description": ""
 }

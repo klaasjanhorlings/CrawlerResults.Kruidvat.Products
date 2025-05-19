@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Fujifilm instax Mini 11 Blush Pink Bundelset",
   "code": "5952000",
   "price": "99.99",
@@ -33,5 +33,6 @@
       "name": "Instax cameras"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1f/h7b/29331540344862/prd-front-5952000-1_600x600/prd-front-5952000-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Tristar Tafelventilator",
   "code": "5919961",
   "price": "12.99",
@@ -29,5 +29,6 @@
       "name": "Airco's"
     }
   ],
-  "description": "zwart, Ø23cm"
+  "description": "zwart, Ø23cm",
+  "image": "/medias/sys_master/prd-images/h3c/hca/33080525160478/prd-front-5919961-1_600x600/prd-front-5919961-1-600x600.jpg"
 }

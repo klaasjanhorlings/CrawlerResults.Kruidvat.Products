@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1052317",
-  "mmkId": "1052317",
-  "productGroupId": "475772",
+  "onPromo": "1052717",
+  "mmkId": "1052717",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/giorgio-armani-diamonds-for-him-eau-de-toilette/p/5956214",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hc2/h0b/28626796478494/prd-front-5956214-1_600x600/prd-front-5956214-1-600x600.jpg"
 }

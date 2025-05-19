@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BELFICOS BV",
   "inStock": "inStock",
-  "onPromo": "1052825",
-  "mmkId": "1052825",
-  "productGroupId": "497127",
+  "onPromo": "1052151",
+  "mmkId": "1052151",
+  "productGroupId": "474236",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-solait-spf15-walnoot-zonneoliespray/p/5602654",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h16/hcb/33109697069086/prd-front-5602654-1_600x600/prd-front-5602654-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1052314",
-  "mmkId": "1052314",
-  "productGroupId": "469004",
+  "onPromo": "1052163",
+  "mmkId": "1052163",
+  "productGroupId": "475426",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-egaliserende-bio-rijstscrub/p/4980984",
@@ -37,5 +37,6 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "75ml- Normale huid"
+  "description": "75ml- Normale huid",
+  "image": "/medias/sys_master/prd-images/h8e/h16/32155885994014/prd-front-4980984-1_600x600/prd-front-4980984-1-600x600.jpg"
 }

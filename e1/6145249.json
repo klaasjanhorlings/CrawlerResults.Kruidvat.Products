@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "ASPIRE BRANDS BV",
   "inStock": "inStock",
-  "onPromo": "1052314",
-  "mmkId": "1052314",
-  "productGroupId": "469004",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hero-mighty-patch-the-original/p/6145249",
@@ -37,6 +37,5 @@
       "name": "Verzorging probleemhuid"
     }
   ],
-  "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/hf1/h4d/31438432960542/prd-front-6145249-1_600x600/prd-front-6145249-1-600x600.jpg"
+  "description": "24 stuks"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1052314",
-  "mmkId": "1052314",
-  "productGroupId": "469004",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biovene-barcelona-hyaluronic-eye-filler/p/5930188",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h93/h0d/29620834664478/prd-front-5930188-1_600x600/prd-front-5930188-1-600x600.jpg"
 }

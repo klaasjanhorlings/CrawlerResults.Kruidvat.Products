@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Classic 10696 Creatieve Medium Opbergdoos",
+  "code": "4781344",
+  "price": "22.99",
+  "priceOriginal": "29.99",
+  "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 7,00",
+  "url": "/lego-classic-10696-creatieve-medium-opbergdoos/p/4781344",
+  "listName": "Lister",
+  "brand": "LEGO Classic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266811,
+      "name": "LEGO Classic"
+    }
+  ],
+  "description": ""
+}

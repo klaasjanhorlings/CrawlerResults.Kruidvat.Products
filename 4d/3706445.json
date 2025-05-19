@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1052314",
-  "mmkId": "1052314",
-  "productGroupId": "469004",
+  "onPromo": "1052157",
+  "mmkId": "1052157",
+  "productGroupId": "475099",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-micellair-reinigingswater-voor-langhoudende-en-waterproof-make-up/p/3706445",
@@ -37,5 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml - Alle huidtypen"
+  "description": "400ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h2c/h5e/30209097498654/prd-front-3706445-1_600x600/prd-front-3706445-1-600x600.jpg"
 }

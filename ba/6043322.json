@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "NIP + FAB",
   "inStock": "inStock",
-  "onPromo": "1052314",
-  "mmkId": "1052314",
-  "productGroupId": "469004",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nip-fab-barrier-ceramide-fix-reinigingsbalsem/p/6043322",
@@ -37,5 +37,6 @@
       "name": "Reinigingscreme"
     }
   ],
-  "description": "75ml, rijpe huid"
+  "description": "75ml, rijpe huid",
+  "image": "/medias/sys_master/prd-images/hdc/h27/30113629798430/prd-front-6043322-1_600x600/prd-front-6043322-1-600x600.jpg"
 }

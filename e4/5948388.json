@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1052324",
-  "mmkId": "1052324",
-  "productGroupId": "489767",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A or B brand",
   "discount": "",
   "url": "/kneipp-shower-favourites-geschenkset/p/5948388",
@@ -37,6 +37,5 @@
       "name": "Bad & douche geschenksets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hbd/hc8/32202798170142/prd-front-5948388-1_600x600/prd-front-5948388-1-600x600.jpg"
+  "description": ""
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "DALLI - WERKE GMBH & CO",
   "inStock": "inStock",
-  "onPromo": "1052316",
-  "mmkId": "1052316",
-  "productGroupId": "474211",
+  "onPromo": "1052151",
+  "mmkId": "1052151",
+  "productGroupId": "474236",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-solait-sensitive-spf50-face-sun-serum/p/6003044",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hf6/h24/34278160203806/prd-front-6003044-1_600x600/prd-front-6003044-1-600x600.jpg"
 }

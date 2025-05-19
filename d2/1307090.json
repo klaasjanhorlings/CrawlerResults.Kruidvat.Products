@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1052314",
-  "mmkId": "1052314",
-  "productGroupId": "469004",
+  "onPromo": "1052163",
+  "mmkId": "1052163",
+  "productGroupId": "475426",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-waterproof-oogmake-up-remover/p/1307090",
@@ -37,5 +37,6 @@
       "name": "Oogmake-up remover"
     }
   ],
-  "description": "125ml - Alle huidtypen"
+  "description": "125ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h7f/h7e/32866634039326/prd-front-1307090-1_600x600/prd-front-1307090-1-600x600.jpg"
 }

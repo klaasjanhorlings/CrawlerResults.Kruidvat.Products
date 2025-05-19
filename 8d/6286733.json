@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Magic Mixies Toverdrank Pop-up Spel",
+  "code": "6286733",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5921 > 6018 > 6741 > 6740 > 6739",
+  "supplier": "SPECTRON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/magic-mixies-toverdrank-pop-up-spel/p/6286733",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925806,
+      "name": "Speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfb/h3b/33701862506526/prd-front-6286733-1_600x600/prd-front-6286733-1-600x600.jpg"
+}

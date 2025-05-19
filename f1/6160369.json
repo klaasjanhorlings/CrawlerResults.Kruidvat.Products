@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 6493 > 6492 > 6494",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1052362",
+  "mmkId": "1052362",
+  "productGroupId": "476000",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-prostaat-zelftest/p/6160369",
@@ -37,5 +37,6 @@
       "name": "Gezondheidstesten"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h8a/hb1/32539561852958/prd-front-6160369-1_600x600/prd-front-6160369-1-600x600.jpg"
 }

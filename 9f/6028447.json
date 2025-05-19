@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nescafé Farmers Origins India Espresso Koffiecapsules",
+  "code": "6028447",
+  "price": "2.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
+  "supplier": "NESTLE NEDERLAND B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nescafe-farmers-origins-india-espresso-koffiecapsules/p/6028447",
+  "listName": "Lister",
+  "brand": "Nescafe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/hb9/h41/30468489805854/prd-front-6028447-1_600x600/prd-front-6028447-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6204 > 6222 > 6288",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1052259",
-  "mmkId": "1052259",
-  "productGroupId": "480810",
+  "onPromo": "1052344",
+  "mmkId": "1052344",
+  "productGroupId": "471150",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-multi-compleet-vitaminen-mineralen-tabletten/p/6077447",
@@ -33,5 +33,6 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hf2/hea/30652412002334/prd-front-6077447-1_600x600/prd-front-6077447-1-600x600.jpg"
 }
