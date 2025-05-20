@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Excellence 5U Nudes Lichtbruin Permanente Haarverf",
   "code": "5604677",
   "price": "19.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h4d/hc0/32292720574494/prd-front-5604677-1_600x600/prd-front-5604677-1-600x600.jpg"
+  "description": ""
 }

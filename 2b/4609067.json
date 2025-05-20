@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Revolution Medium Brown Duo Brow Pencil",
   "code": "4609067",
   "price": "5.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc8/h7b/31785410953246/prd-front-4609067-1_600x600/prd-front-4609067-1-600x600.jpg"
 }

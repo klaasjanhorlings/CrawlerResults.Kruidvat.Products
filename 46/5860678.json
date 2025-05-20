@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "My Haircandy Haarklemmen",
   "code": "5860678",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": "beige, 2 stuks"
+  "description": "beige, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hb8/h9a/28950634332190/prd-front-5860678-1_600x600/prd-front-5860678-1-600x600.jpg"
 }

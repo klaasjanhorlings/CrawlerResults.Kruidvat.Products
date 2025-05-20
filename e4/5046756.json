@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Syoss Metallic Shine 4-15 Dusty Chrome Haarkleuring",
   "code": "5046756",
   "price": "16.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h8f/h70/33821467344926/prd-front-5046756-1_600x600/prd-front-5046756-1-600x600.jpg"
+  "description": ""
 }

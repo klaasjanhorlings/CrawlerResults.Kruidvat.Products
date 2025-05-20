@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Butter Drippin' 010 Pink Lemon Squeezin' Glossy Lip Balm",
   "code": "6233372",
   "price": "3.59",
@@ -37,6 +37,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h81/hcc/33045992374302/prd-front-6233372-1_600x600/prd-front-6233372-1-600x600.jpg"
+  "description": "10ml"
 }

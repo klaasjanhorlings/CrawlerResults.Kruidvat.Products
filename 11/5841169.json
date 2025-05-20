@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Shiseido Ultimune Skin Defense Verzorgingsset",
+  "code": "5841169",
+  "price": "49.99",
+  "priceOriginal": "110.0",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
+  "supplier": "JTG BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "$ 60,01",
+  "url": "/shiseido-ultimune-skin-defense-verzorgingsset/p/5841169",
+  "listName": "Lister",
+  "brand": "Shiseido",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc0/h35/27374209925150/prd-front-5841169-1_600x600/prd-front-5841169-1-600x600.jpg"
+}

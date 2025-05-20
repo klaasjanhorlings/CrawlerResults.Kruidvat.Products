@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Gel Nail Colour 54 Plum It Up Nagellak",
   "code": "5804951",
   "price": "1.99",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/h3d/ha1/30119055261726/prd-front-5804951-1_600x600/prd-front-5804951-1-600x600.jpg"
 }

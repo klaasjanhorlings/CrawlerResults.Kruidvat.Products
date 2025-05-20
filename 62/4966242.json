@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Chiazaad",
+  "code": "4966242",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6522",
+  "supplier": "MATTISSON HEALTCARE BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-chiazaad/p/4966242",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 88455220,
+      "name": "Maaltijdverrijkers"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/hdb/hd4/29175113416734/prd-front-4966242-1_600x600/prd-front-4966242-1-600x600.jpg"
+}

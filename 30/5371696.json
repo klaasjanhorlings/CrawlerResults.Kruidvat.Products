@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Lifter Gloss 8 Stone Lipgloss",
   "code": "5371696",
   "price": "11.99",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "5,4ml"
+  "description": "5,4ml",
+  "image": "/medias/sys_master/prd-images/hc7/h76/29032666824734/prd-front-5371696-1_600x600/prd-front-5371696-1-600x600.jpg"
 }

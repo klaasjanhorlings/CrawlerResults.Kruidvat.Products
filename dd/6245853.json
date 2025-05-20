@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Lash Princess Black Brown False Lash Effect Mascara",
   "code": "6245853",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "12ml"
+  "description": "12ml",
+  "image": "/medias/sys_master/prd-images/ha2/hd4/33342903844894/prd-front-6245853-1_600x600/prd-front-6245853-1-600x600.jpg"
 }

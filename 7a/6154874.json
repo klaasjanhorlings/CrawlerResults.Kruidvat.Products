@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Invisible Cover 055W Foundation",
   "code": "6154874",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h20/h9a/33043811926046/prd-front-6154874-1_600x600/prd-front-6154874-1-600x600.jpg"
 }

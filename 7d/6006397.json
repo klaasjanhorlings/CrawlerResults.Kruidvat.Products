@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Max Factor Masterpiece 2-in-1 Lash Wow Midnight Black Mascara",
   "code": "6006397",
   "price": "20.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "7ml"
+  "description": "7ml",
+  "image": "/medias/sys_master/prd-images/hf1/h03/30141905436702/prd-front-6006397-1_600x600/prd-front-6006397-1-600x600.jpg"
 }

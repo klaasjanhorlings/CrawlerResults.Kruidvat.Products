@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Men Sensitive Huid & Stoppelbaard Gezichtsgel",
   "code": "6059352",
   "price": "16.99",
@@ -33,5 +33,6 @@
       "name": "Gezichtscreme mannen"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hda/h69/33143656611870/prd-front-6059352-1_600x600/prd-front-6059352-1-600x600.jpg"
 }

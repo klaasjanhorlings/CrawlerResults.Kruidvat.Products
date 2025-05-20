@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Real Techniques Bubble Blending Brush",
   "code": "6174117",
   "price": "14.99",
@@ -33,6 +33,5 @@
       "name": "Make-up kwasten"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h22/h03/32640496107550/prd-front-6174117-1_600x600/prd-front-6174117-1-600x600.jpg"
+  "description": ""
 }

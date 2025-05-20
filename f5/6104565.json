@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Glam & Doll Endless Lash Mascara",
   "code": "6104565",
   "price": "4.49",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h3f/heb/33038851178526/prd-front-6104565-1_600x600/prd-front-6104565-1-600x600.jpg"
 }

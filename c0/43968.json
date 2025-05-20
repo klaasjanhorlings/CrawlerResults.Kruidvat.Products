@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Cleansing Reinigingsdoekjes voor de Normale en Gemengde Huid",
   "code": "43968",
   "price": "1.79",
@@ -37,5 +37,6 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "25 stuks"
+  "description": "25 stuks",
+  "image": "/medias/sys_master/prd-images/h16/h3a/34225517199390/prd-front-43968-1_600x600/prd-front-43968-1-600x600.jpg"
 }

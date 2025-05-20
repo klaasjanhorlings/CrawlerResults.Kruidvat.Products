@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Riemann P20 Hyperpigmentation Defence SPF50+",
+  "code": "6031961",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/riemann-p20-hyperpigmentation-defence-spf50/p/6031961",
+  "listName": "Lister",
+  "brand": "P20",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30266805,
+      "name": "Mama verzorgingsproducten"
+    }
+  ],
+  "description": "50g",
+  "image": "/medias/sys_master/prd-images/h5f/hc3/34058067902494/prd-front-6031961-1_600x600/prd-front-6031961-1-600x600.jpg"
+}

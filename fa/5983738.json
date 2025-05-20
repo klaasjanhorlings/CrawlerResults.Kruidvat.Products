@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Giorgio Armani My Way Eau de Parfum",
   "code": "5983738",
   "price": "91.99",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "90ml",
-  "image": "/medias/sys_master/prd-images/h95/h5c/31295444189214/prd-front-5983738-1_600x600/prd-front-5983738-1-600x600.jpg"
+  "description": "90ml"
 }

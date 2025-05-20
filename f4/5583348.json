@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Garnier SkinActive Gemengde tot Vette Huid Light BB Cream",
   "code": "5583348",
   "price": "13.99",
@@ -33,6 +33,5 @@
       "name": "BB cream"
     }
   ],
-  "description": "50ml - Gecombineerde en vette huid",
-  "image": "/medias/sys_master/prd-images/h38/hdf/29641213149214/prd-front-5583348-1_600x600/prd-front-5583348-1-600x600.jpg"
+  "description": "50ml - Gecombineerde en vette huid"
 }

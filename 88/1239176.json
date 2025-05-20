@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence 01 Black Fever Long-Lasting Oogpotlood",
   "code": "1239176",
   "price": "1.79",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h3f/h79/33038800355358/prd-front-1239176-1_600x600/prd-front-1239176-1-600x600.jpg"
 }

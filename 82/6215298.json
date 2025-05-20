@@ -4,7 +4,7 @@
   "itemName": "Jumbo Ik Leer Lettergrepen",
   "code": "6215298",
   "price": "4.99",
-  "priceOriginal": "12.99",
+  "priceOriginal": "",
   "itemBgbcat": "2181 > 5164 > 5227 > 5416 > 5921 > 6018",
   "supplier": "JUMBO NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 8,00",
+  "discount": "",
   "url": "/jumbo-ik-leer-lettergrepen/p/6215298",
   "listName": "Lister",
   "brand": "Jumbo",
@@ -25,8 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266034,
-      "name": "Educatief speelgoed"
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30266837,
+      "name": "Puzzels"
     }
   ],
   "description": "Nederlandstalig spel",

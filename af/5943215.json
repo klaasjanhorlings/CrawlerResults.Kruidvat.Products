@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence French Manicure 01 Sjablonen",
   "code": "5943215",
   "price": "1.69",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h5b/h97/30115631235102/prd-front-5943215-1_600x600/prd-front-5943215-1-600x600.jpg"
 }

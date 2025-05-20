@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Zenner Stay-In-Hair Haarklem",
   "code": "5963459",
   "price": "2.99",
@@ -33,6 +33,5 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": "zwart",
-  "image": "/medias/sys_master/prd-images/h1b/hdc/29309004218398/prd-front-5963459-1_600x600/prd-front-5963459-1-600x600.jpg"
+  "description": "zwart"
 }

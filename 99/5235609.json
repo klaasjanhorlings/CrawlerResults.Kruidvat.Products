@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Max Factor Facefinity 002 Warm Tan Bronzer",
   "code": "5235609",
   "price": "14.99",
@@ -33,5 +33,6 @@
       "name": "Bronzer"
     }
   ],
-  "description": "10g"
+  "description": "10g",
+  "image": "/medias/prd-front-5235609-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzQ4ODB8aW1hZ2UvanBlZ3xhREJrTDJnd055OHhOamd6TWpFNU16RXpORFl5TWk5d2NtUXRabkp2Ym5RdE5USXpOVFl3T1MweFh6WXdNSGcyTURBfDFhMjQ5YzNiODMwZTZjMjQ1NGEyY2I0MTZiZGI1NDZkMjU4OWZiMjkwMjk3YzU5OTVmODM1MzU4NTJmMjk0YTI"
 }

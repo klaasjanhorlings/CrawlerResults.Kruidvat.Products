@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Biodermal P-CL-E Crème",
   "code": "130611",
   "price": "55.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/ha4/h67/34276577443870/prd-front-130611-1_600x600/prd-front-130611-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1a/h3a/34283768512542/prd-front-130611-1_600x600/prd-front-130611-1-600x600.jpg"
 }

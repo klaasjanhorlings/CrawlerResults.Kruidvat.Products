@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat High Gloss 230 Marine Girl Nail Color",
   "code": "5422180",
   "price": "3.49",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/prd-front-5422180-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQ4Mzl8aW1hZ2UvanBlZ3xhRGhpTDJoak5pOHhOamd5T1RReU5UQXlOVEExTkM5d2NtUXRabkp2Ym5RdE5UUXlNakU0TUMweFh6WXdNSGcyTURBfGQyOWVlMWY2OTA3YmZlYzE1MDNmNmEwZWM0NDQ0YWRlMmQ5NDUxMmQ5OWZiOThhOTg2ZTAwMDJiZDU5MWU1MDA"
 }

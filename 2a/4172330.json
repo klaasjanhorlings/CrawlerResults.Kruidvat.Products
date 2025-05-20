@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Fit Me Matte & Poreless 100 Warm Ivory Foundation",
   "code": "4172330",
   "price": "12.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-4172330-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDMzODF8aW1hZ2UvanBlZ3xhRFk0TDJnM1l5OHhOamd5TnpjME5qRTRPVE0wTWk5d2NtUXRabkp2Ym5RdE5ERTNNak16TUMweFh6WXdNSGcyTURBfDRmZjJhMTE5Mzc3MDVmOThmZTNjODE3ZjFkMGU2NTA2NjExNGZjN2I0NjNhNTIyNTBkZTlmM2FhNjQ5MTliZWI"
 }

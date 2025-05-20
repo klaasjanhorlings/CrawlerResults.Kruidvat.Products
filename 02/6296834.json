@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Amando Mystery Geschenkset",
   "code": "6296834",
   "price": "14.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h4d/h16/34287345565726/prd-front-6296834-1_600x600/prd-front-6296834-1-600x600.jpg"
 }

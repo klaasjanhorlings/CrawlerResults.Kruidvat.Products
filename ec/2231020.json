@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Lashes To Kill Waterproof Volume Black Mascara",
   "code": "2231020",
   "price": "4.49",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h24/hf6/29849906020382/prd-front-2231020-1_600x600/prd-front-2231020-1-600x600.jpg"
 }

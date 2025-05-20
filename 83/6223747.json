@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Spijkerjas",
+  "code": "6223747",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2640 > 3325 > 4829 > 5812 > 5928 > 6038",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-spijkerjas/p/6223747",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "wit, mt M",
+  "image": "/medias/sys_master/prd-images/hbe/he6/33176455675934/prd-front-6223747-1_600x600/prd-front-6223747-1-600x600.jpg"
+}

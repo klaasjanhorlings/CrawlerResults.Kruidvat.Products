@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Biologisch Gebroken Lijnzaad",
+  "code": "4965850",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6522",
+  "supplier": "MATTISSON HEALTCARE BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-biologisch-gebroken-lijnzaad/p/4965850",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 88455220,
+      "name": "Maaltijdverrijkers"
+    }
+  ],
+  "description": "300g",
+  "image": "/medias/sys_master/prd-images/h44/hf5/32901767725086/prd-front-4965850-1_600x600/prd-front-4965850-1-600x600.jpg"
+}

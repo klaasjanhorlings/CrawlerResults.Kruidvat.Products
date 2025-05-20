@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pure Care Geschenkset",
   "code": "6257858",
   "price": "5.99",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265989,
-      "name": "Geschenksets"
+      "id": 30265988,
+      "name": "Parfum"
     },
     {
-      "id": 72656138,
-      "name": "Geschenkset voor haar"
-    },
-    {
-      "id": 87397518,
-      "name": "Bad & douche geschenksets"
+      "id": 30266601,
+      "name": "Bodymist"
     }
   ],
   "description": "",

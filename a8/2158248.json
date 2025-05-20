@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Color Sensational Shine Stick 360 Plum Reflection Lippenstift",
   "code": "2158248",
   "price": "13.99",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hfb/h56/28233417228318/prd-front-2158248-1_600x600/prd-front-2158248-1-600x600.jpg"
+  "description": ""
 }

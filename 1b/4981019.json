@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Originals Vitamine C Dagcrème",
   "code": "4981019",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h75/h5d/27268545511454/prd-front-4981019-1_600x600/prd-front-4981019-1-600x600.jpg"
 }

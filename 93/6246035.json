@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Baby Got Bronze 20 Holiday Glow Shimmering Bronzer",
   "code": "6246035",
   "price": "3.49",
@@ -33,5 +33,6 @@
       "name": "Bronzer"
     }
   ],
-  "description": "5g"
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/h11/hc2/33334859071518/prd-front-6246035-1_600x600/prd-front-6246035-1-600x600.jpg"
 }

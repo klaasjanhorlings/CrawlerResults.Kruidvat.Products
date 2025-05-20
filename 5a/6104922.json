@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Blush Affair 030 Absolute Apricot Cream & Powder Palette",
   "code": "6104922",
   "price": "5.69",
@@ -33,6 +33,5 @@
       "name": "Blush"
     }
   ],
-  "description": "6g",
-  "image": "/medias/sys_master/prd-images/hb9/h41/33045320368158/prd-front-6104922-1_600x600/prd-front-6104922-1-600x600.jpg"
+  "description": "6g"
 }

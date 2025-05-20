@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup Can't Stop Won't Stop 06 Vanilla Full Coverage Foundation",
   "code": "6129345",
   "price": "16.95",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hc8/h13/31925891072030/prd-front-6129345-1_600x600/prd-front-6129345-1-600x600.jpg"
+  "description": "30ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Revolution Forever Flawless Allure Eyeshadow Palette",
   "code": "5061323",
   "price": "13.99",
@@ -37,5 +37,6 @@
       "name": "Palette oogschaduw"
     }
   ],
-  "description": "19,8g"
+  "description": "19,8g",
+  "image": "/medias/prd-front-5061323-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTkzNDN8aW1hZ2UvanBlZ3xhREJpTDJnNVpDOHhOak0yT1RFNU16Z3hNVGs1T0M5d2NtUXRabkp2Ym5RdE5UQTJNVE15TXkweFh6WXdNSGcyTURBfGYwNjUwZWZjZDJjNTJjMDliYWFjYzFmNmUxZGYzYTcyZTY4Njk3YmVmNWQ2MDc0ZjI5YTM3YjRhYzFkYWZmYjc"
 }

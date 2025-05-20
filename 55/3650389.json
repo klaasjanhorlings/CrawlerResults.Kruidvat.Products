@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L’Oréal Paris Revitalift Filler Anti-Rimpel Nachtcrème",
   "code": "3650389",
   "price": "35.99",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Normale en rijpe huid"
+  "description": "50ml - Normale en rijpe huid",
+  "image": "/medias/sys_master/prd-images/h9b/hb5/29708566495262/prd-front-3650389-1_600x600/prd-front-3650389-1-600x600.jpg"
 }

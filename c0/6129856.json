@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup Can't Stop Won't Stop 16 Mahogany Contour Concealer",
   "code": "6129856",
   "price": "9.95",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "3,5ml"
+  "description": "3,5ml",
+  "image": "/medias/sys_master/prd-images/h67/hca/31924547780638/prd-front-6129856-1_600x600/prd-front-6129856-1-600x600.jpg"
 }

@@ -1,15 +1,15 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Revolution Reloaded Raise The Bar Highlighter",
   "code": "4838961",
   "price": "5.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "NORDIC BEAUTY COMPANY APS",
-  "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266579,
-      "name": "Primer"
+      "id": 30266589,
+      "name": "Highlighter"
     }
   ],
   "description": "",

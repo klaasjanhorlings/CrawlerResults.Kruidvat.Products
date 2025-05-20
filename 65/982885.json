@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Casting Créme Gloss 200 Intens Zwart Semi-Permanente Haarkleuring",
   "code": "982885",
   "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052169",
+  "mmkId": "1052169",
+  "productGroupId": "475579",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-casting-creme-gloss-200-intens-zwart-semi-permanente-haarkleuring/p/982885",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h29/h56/34276585046046/prd-front-982885-1_600x600/prd-front-982885-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd7/h47/34283776245790/prd-front-982885-1_600x600/prd-front-982885-1-600x600.jpg"
 }

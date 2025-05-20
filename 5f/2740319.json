@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Garnier Olia 7.0 Middenblond Permanente Permanente Haarverf",
   "code": "2740319",
   "price": "15.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hd4/hba/33359224799262/prd-front-2740319-1_600x600/prd-front-2740319-1-600x600.jpg"
+  "description": ""
 }

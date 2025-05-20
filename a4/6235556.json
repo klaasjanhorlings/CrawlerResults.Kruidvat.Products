@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Panorama All Night Black Mascara",
   "code": "6235556",
   "price": "21.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h9b/hfb/33608036515870/prd-front-6235556-1_600x600/prd-front-6235556-1-600x600.jpg"
 }

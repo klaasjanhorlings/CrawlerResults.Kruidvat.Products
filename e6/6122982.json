@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Colour It! 03 Light Lilac Liquid Eyeliner",
   "code": "6122982",
   "price": "3.49",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "3ml"
+  "description": "3ml",
+  "image": "/medias/sys_master/prd-images/hc7/h8a/31459460349982/prd-front-6122982-1_600x600/prd-front-6122982-1-600x600.jpg"
 }

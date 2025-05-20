@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice 8D Lashes To Kill 020 Cat-Eye-Look Kunstwimpers",
   "code": "6104572",
   "price": "5.69",
@@ -33,5 +33,6 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7c/hb9/31458531606558/prd-front-6104572-1_600x600/prd-front-6104572-1-600x600.jpg"
 }

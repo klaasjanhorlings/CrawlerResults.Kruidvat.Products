@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "L'Oréal Paris Revitalift Filler Anti-Rimpel Serum",
+  "code": "5081609",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1052153",
+  "mmkId": "1052153",
+  "productGroupId": "474586",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-revitalift-filler-anti-rimpel-serum/p/5081609",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "30ml - Normale huid en alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hf9/hac/33630731894814/prd-front-5081609-1_600x600/prd-front-5081609-1-600x600.jpg"
+}

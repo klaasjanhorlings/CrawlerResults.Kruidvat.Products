@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Color Riche 300 Rouge Confident Intense Volume Matte Lippenstift",
   "code": "5783713",
   "price": "16.99",
@@ -37,6 +37,5 @@
       "name": "Lipliner"
     }
   ],
-  "description": "1,8g",
-  "image": "/medias/prd-front-5783713-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTMyODB8aW1hZ2UvanBlZ3xhR0l6TDJnME5DOHlOamMzTkRjek16UTFOVE01TUM5d2NtUXRabkp2Ym5RdE5UYzRNemN4TXkweFh6WXdNSGcyTURBfDhkOGI0MDM1YTczY2UzMjcxZjc2OTlkZmQwNjIxOWVkZmZiMTAyNWM5OTI1MjU2MjVlMjJjMmRlMWJkZGI1YWM"
+  "description": "1,8g"
 }

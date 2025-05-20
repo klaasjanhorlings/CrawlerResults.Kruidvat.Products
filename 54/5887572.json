@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2451 > 2955 > 3749",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakartikelen"
     }
   ],
-  "description": "mt M",
-  "image": "/medias/sys_master/prd-images/h39/h5d/32039352500254/prd-front-5887572-1_600x600/prd-front-5887572-1-600x600.jpg"
+  "description": "mt M"
 }

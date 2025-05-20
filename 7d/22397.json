@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
   "supplier": "PAB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052368",
+  "mmkId": "1052368",
+  "productGroupId": "482130",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/badedas-classic-badschuim/p/22397",
@@ -33,5 +33,6 @@
       "name": "Badschuim"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h05/h93/33408510459934/prd-front-22397-1_600x600/prd-front-22397-1-600x600.jpg"
 }

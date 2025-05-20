@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup 06 Hits Different Fat Oil Slick Click",
   "code": "6130325",
   "price": "10.95",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "2g"
+  "description": "2g",
+  "image": "/medias/sys_master/prd-images/h11/h7f/31924032405534/prd-front-6130325-1_600x600/prd-front-6130325-1-600x600.jpg"
 }

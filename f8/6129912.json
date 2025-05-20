@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup Powder Louder Taupe Brow Pencil",
   "code": "6129912",
   "price": "8.95",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1e/h67/31920256024606/prd-front-6129912-1_600x600/prd-front-6129912-1-600x600.jpg"
+  "description": ""
 }

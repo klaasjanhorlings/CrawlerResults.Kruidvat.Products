@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Haribo Gekleurde Drop Mix",
+  "code": "4611944",
+  "price": "3.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
+  "supplier": "HARIBO THE NET.& BEL.BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/haribo-gekleurde-drop-mix/p/4611944",
+  "listName": "Lister",
+  "brand": "Haribo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267026,
+      "name": "Snoep"
+    }
+  ],
+  "description": "550g"
+}

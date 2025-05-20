@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NG Red Majesty Eau de Parfum",
   "code": "6302343",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Bodymist"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h8a/h13/34163634077726/prd-front-6302343-1_600x600/prd-front-6302343-1-600x600.jpg"
+  "description": "100ml"
 }

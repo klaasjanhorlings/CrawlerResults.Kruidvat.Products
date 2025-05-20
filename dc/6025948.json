@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Remescar Age Spot Serum",
   "code": "6025948",
   "price": "32.99",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30g, rijpe huid"
+  "description": "30g, rijpe huid",
+  "image": "/medias/sys_master/prd-images/h3b/h59/30503729430558/prd-front-6025948-1_600x600/prd-front-6025948-1-600x600.jpg"
 }

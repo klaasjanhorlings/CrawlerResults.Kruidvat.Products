@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Skin Science Resculpting Lift 55+ Day Cream",
   "code": "5373544",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid"
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h91/h6d/27282157994014/prd-front-5373544-1_600x600/prd-front-5373544-1-600x600.jpg"
 }

@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Lichtsnoer",
+  "code": "6182797",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2208 > 4831 > 4846 > 4857 > 5926 > 6024",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-lichtsnoer/p/6182797",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266053,
+      "name": "Verlichting"
+    }
+  ],
+  "description": ""
+}
