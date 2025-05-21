@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Olay POP Retinol24 Nachtcrème Navulling",
   "code": "6035370",
   "price": "34.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052200",
+  "mmkId": "1052200",
+  "productGroupId": "476662",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-pop-retinol24-nachtcreme-navulling/p/6035370",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50 ml, alle huidtypes"
+  "description": "50 ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/hba/h69/31244336889886/prd-front-6035370-1_600x600/prd-front-6035370-1-600x600.jpg"
 }

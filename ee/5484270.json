@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Blushing Beauty 020 Charming Berry Lip & Cheek Balm",
   "code": "5484270",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Blush"
     }
   ],
-  "description": "6g",
-  "image": "/medias/sys_master/prd-images/h39/h84/27574150725662/prd-front-5484270-1_600x600/prd-front-5484270-1-600x600.jpg"
+  "description": "6g"
 }

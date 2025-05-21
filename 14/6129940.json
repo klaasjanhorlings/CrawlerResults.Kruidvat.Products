@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Powder Louder Auburn Brow Pencil",
   "code": "6129940",
   "price": "8.95",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd4/h29/31921989582878/prd-front-6129940-1_600x600/prd-front-6129940-1-600x600.jpg"
 }

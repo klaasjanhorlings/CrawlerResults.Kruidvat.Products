@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York The Falsies Surreal Extensions Meta Black Mascara",
   "code": "5984746",
   "price": "20.99",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/hb4/hc6/29992093286430/prd-front-5984746-1_600x600/prd-front-5984746-1-600x600.jpg"
+  "description": "10ml"
 }

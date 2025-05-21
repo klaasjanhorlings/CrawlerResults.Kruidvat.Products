@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris False Lash Telescopic Carbon Black Mascara",
   "code": "5798294",
   "price": "20.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/hce/h20/32106712596510/prd-front-5798294-1_600x600/prd-front-5798294-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup SPL810 Natural Slim Lip Pencil",
   "code": "6130997",
   "price": "5.5",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h93/hcb/31927673192478/prd-front-6130997-1_600x600/prd-front-6130997-1-600x600.jpg"
 }

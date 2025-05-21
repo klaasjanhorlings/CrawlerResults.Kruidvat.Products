@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Excellence 3U Nudes Donkerbruin Permanente Haarverf",
   "code": "5604698",
   "price": "19.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hf6/h69/31764704886814/prd-front-5604698-1_600x600/prd-front-5604698-1-600x600.jpg"
+  "description": ""
 }

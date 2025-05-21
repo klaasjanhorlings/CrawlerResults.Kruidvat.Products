@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Aqua Splash Hydrating Grip Primer",
   "code": "6104845",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hf6/hef/33047218683934/prd-front-6104845-1_600x600/prd-front-6104845-1-600x600.jpg"
 }

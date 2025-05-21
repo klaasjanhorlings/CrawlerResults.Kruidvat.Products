@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Gucci Flora Magnolia Geschenkset",
   "code": "6271767",
   "price": "64.99",
@@ -21,22 +21,10 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
-    },
-    {
-      "id": 30265989,
-      "name": "Geschenksets"
-    },
-    {
-      "id": 72656138,
-      "name": "Geschenkset voor haar"
-    },
-    {
-      "id": 72654960,
+      "id": 76977667,
       "name": "Parfum geschenkset voor haar"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h36/h8d/34291531317278/prd-front-6271767-1_600x600/prd-front-6271767-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2e/h28/34302693638174/prd-front-6271767-1_600x600/prd-front-6271767-1-600x600.jpg"
 }

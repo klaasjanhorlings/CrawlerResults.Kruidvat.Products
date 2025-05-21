@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Max Factor Masterpiece 001 Black Waterproof Mascara",
   "code": "1703612",
   "price": "19.99",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h33/h81/30916263804958/prd-front-1703612-1_600x600/prd-front-1703612-1-600x600.jpg"
+  "description": ""
 }

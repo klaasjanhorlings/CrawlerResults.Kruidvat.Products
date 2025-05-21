@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B Pro-Clean Medium Tandenborstel",
+  "code": "6284969",
+  "price": "3.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3858",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1052211",
+  "mmkId": "1052211",
+  "productGroupId": "477787",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-pro-clean-medium-tandenborstel/p/6284969",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266671,
+      "name": "Tandenborstels"
+    }
+  ],
+  "description": "1 stuk - medium borstelharen",
+  "image": "/medias/sys_master/prd-images/hbd/hb6/33885248847902/prd-front-6284969-1_600x600/prd-front-6284969-1-600x600.jpg"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Acqua Di Parma Blu Mediterraneo Cipresso Di Toscana Eau de Toilette",
   "code": "6073604",
   "price": "69.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hb7/hfe/30543782641694/prd-front-6073604-1_600x600/prd-front-6073604-1-600x600.jpg"
 }

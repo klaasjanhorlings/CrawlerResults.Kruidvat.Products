@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Gel Affair 25 Lilac Lullaby Nagellak",
   "code": "6235311",
   "price": "2.99",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "10,5ml",
-  "image": "/medias/sys_master/prd-images/h1c/h70/33041845125150/prd-front-6235311-1_600x600/prd-front-6235311-1-600x600.jpg"
+  "description": "10,5ml"
 }

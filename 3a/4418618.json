@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ardell Natural Variety Pack",
   "code": "4418618",
   "price": "17.99",
@@ -33,6 +33,5 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/h24/h4f/28525852262430/prd-front-4418618-1_600x600/prd-front-4418618-1-600x600.jpg"
+  "description": "4 stuks"
 }

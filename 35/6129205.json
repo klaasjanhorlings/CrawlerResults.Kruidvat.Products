@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Pro Fix Stick Correcting Concealer",
   "code": "6129205",
   "price": "8.95",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "1,6g",
-  "image": "/medias/sys_master/prd-images/h93/h00/31927655170078/prd-front-6129205-1_600x600/prd-front-6129205-1-600x600.jpg"
+  "description": "1,6g"
 }

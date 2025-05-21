@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Natures Reviving Glow Face Mask",
   "code": "5800541",
   "price": "4.99",
@@ -37,5 +37,6 @@
       "name": "Crèmemaskers"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/prd-front-5800541-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTMwMjh8aW1hZ2UvanBlZ3xhR1E0TDJobVl5OHlOamc0TkRFM05qRTFNRFUxT0M5d2NtUXRabkp2Ym5RdE5UZ3dNRFUwTVMweFh6WXdNSGcyTURBfGFlMDRhN2E4ZTVmOTMyYzM5ZTM4MDY4YTY4N2NkZjU3MTlkMjJhMjk4YzA5OTNjMzkxOTI3Y2Y1YWYzMWI0NGQ"
 }

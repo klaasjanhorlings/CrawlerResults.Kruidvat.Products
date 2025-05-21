@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Caffeine Kick Lash & Brow Serum",
   "code": "6104628",
   "price": "4.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwmascara"
     }
   ],
-  "description": "9ml"
+  "description": "9ml",
+  "image": "/medias/sys_master/prd-images/hee/hd3/31570474631198/prd-front-6104628-1_600x600/prd-front-6104628-1-600x600.jpg"
 }

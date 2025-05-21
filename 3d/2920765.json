@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Color Remover Donkere Tonen Haarontkleuring",
   "code": "2920765",
   "price": "7.49",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-2920765-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjU4MzN8aW1hZ2UvanBlZ3xhREUxTDJobVpDOHlOalUyTkRrM05EWTNNemsxTUM5d2NtUXRabkp2Ym5RdE1qa3lNRGMyTlMweFh6WXdNSGcyTURBfDVjMGI4YmM3MmY4MmQ4MWYxNzdkZWUzODlkYjI2NGI1MjdhNzFiYzBmMjhkNTA2MzZjNjYwOWY1MGRiZWMzMzY"
+  "description": ""
 }

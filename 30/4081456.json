@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Syoss Oleo Intense 3-10 Intens Bruin Haarkleuring",
   "code": "4081456",
   "price": "17.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h52/h76/32887793909790/prd-front-4081456-1_600x600/prd-front-4081456-1-600x600.jpg"
+  "description": ""
 }

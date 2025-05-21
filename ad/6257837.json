@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garden Glory Bath & Body met Toilettas Geschenkset",
   "code": "6257837",
   "price": "8.99",
@@ -37,6 +37,5 @@
       "name": "Bad & douche geschenksets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he1/hdd/33344514064414/prd-front-6257837-1_600x600/prd-front-6257837-1-600x600.jpg"
+  "description": ""
 }

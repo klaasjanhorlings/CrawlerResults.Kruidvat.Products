@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Highlight & Contour Pro Palette",
   "code": "6130073",
   "price": "23.95",
@@ -33,5 +33,6 @@
       "name": "Contour"
     }
   ],
-  "description": "2,7g"
+  "description": "2,7g",
+  "image": "/medias/sys_master/prd-images/ha3/h4e/31930669498398/prd-front-6130073-1_600x600/prd-front-6130073-1-600x600.jpg"
 }

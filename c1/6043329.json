@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nip + Fab Retinol Fix Oogcrème",
   "code": "6043329",
   "price": "22.95",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml, rijpe huid"
+  "description": "15ml, rijpe huid",
+  "image": "/medias/sys_master/prd-images/h1b/h1b/30116780113950/prd-front-6043329-1_600x600/prd-front-6043329-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Melt & Shine Juicy 100 Sunny Side Up Lip Balm",
   "code": "6011556",
   "price": "4.69",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "1.3"
+  "description": "1.3",
+  "image": "/medias/sys_master/prd-images/h7c/h67/29954127822878/prd-front-6011556-1_600x600/prd-front-6011556-1-600x600.jpg"
 }

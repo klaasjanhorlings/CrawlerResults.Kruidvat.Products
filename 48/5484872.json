@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Need No More 020 Light Sand Prime, Color & Finish Powder Foundation",
   "code": "5484872",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "10g",
-  "image": "/medias/prd-front-5484872-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTExODg2fGltYWdlL2pwZWd8YURWakwyZzBOQzh4TmprMU5UazFNalEyTXprd01pOXdjbVF0Wm5KdmJuUXROVFE0TkRnM01pMHhYell3TUhnMk1EQXwwZjQ3MWY3ZmU2MjZmZjZiMGI4ODliZjQwNzUxMDYwMjExMzE4NzIzMmRlNWU2ZWYwOWMyMmExODdiMGU0MzI2"
+  "description": "10g"
 }

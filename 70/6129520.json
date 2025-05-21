@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup 06 For The Butta Buttermelt Blush",
   "code": "6129520",
   "price": "10.95",
@@ -33,6 +33,5 @@
       "name": "Blush"
     }
   ],
-  "description": "5g",
-  "image": "/medias/sys_master/prd-images/hc9/h89/31924037255198/prd-front-6129520-1_600x600/prd-front-6129520-1-600x600.jpg"
+  "description": "5g"
 }

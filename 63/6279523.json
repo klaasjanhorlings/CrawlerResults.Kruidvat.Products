@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Zenner Mommy & Me Panter Geschenkset",
   "code": "6279523",
   "price": "9.99",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265989,
-      "name": "Geschenksets"
+      "id": 30265993,
+      "name": "Haaraccessoires"
     },
     {
-      "id": 72656138,
-      "name": "Geschenkset voor haar"
-    },
-    {
-      "id": 87397342,
-      "name": "Make-up geschenksets"
+      "id": 30266627,
+      "name": "Haarbanden"
     }
   ],
   "description": "",

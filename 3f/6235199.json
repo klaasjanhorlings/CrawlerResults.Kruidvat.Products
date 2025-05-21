@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Gel Affair 16 Don't Bite The Apple Nagellak",
   "code": "6235199",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "10,5ml"
+  "description": "10,5ml",
+  "image": "/medias/sys_master/prd-images/h24/h36/33040676323358/prd-front-6235199-1_600x600/prd-front-6235199-1-600x600.jpg"
 }

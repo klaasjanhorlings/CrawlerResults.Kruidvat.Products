@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice 24H Brush Liner Ultra Black Waterproof Eyeliner",
   "code": "5230513",
   "price": "3.69",
@@ -33,6 +33,5 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "3ml",
-  "image": "/medias/sys_master/prd-images/h20/hb1/29943330308126/prd-front-5230513-1_600x600/prd-front-5230513-1-600x600.jpg"
+  "description": "3ml"
 }

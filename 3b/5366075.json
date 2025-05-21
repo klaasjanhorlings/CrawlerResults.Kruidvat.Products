@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Skin Science Firming Luminous 55+ Eye Cream",
   "code": "5366075",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml - Rijpe huid",
-  "image": "/medias/sys_master/prd-images/h03/h34/27278933590046/prd-front-5366075-1_600x600/prd-front-5366075-1-600x600.jpg"
+  "description": "15ml - Rijpe huid"
 }

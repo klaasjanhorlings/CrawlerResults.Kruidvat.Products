@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Viktor & Rolf Flowerbomb Eau de Parfum",
+  "code": "5547018",
+  "price": "87.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "1052717",
+  "mmkId": "1052717",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/viktor-rolf-flowerbomb-eau-de-parfum/p/5547018",
+  "listName": "Lister",
+  "brand": "Viktor&Rolf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h33/hab/31056388882462/prd-front-5547018-1_600x600/prd-front-5547018-1-600x600.jpg"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kiss 24H Strip Lash Adhesive Wimperlijm",
   "code": "6177162",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "5g",
-  "image": "/medias/sys_master/prd-images/h01/h51/32213288157214/prd-front-6177162-1_600x600/prd-front-6177162-1-600x600.jpg"
+  "description": "5g"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Go Magic 005 Rosy Radiance Waterproof Eye Crayon Oogpotlood",
   "code": "6258789",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "1,9g",
-  "image": "/medias/sys_master/prd-images/h9b/h1c/33761917370398/prd-front-6258789-1_600x600/prd-front-6258789-1-600x600.jpg"
+  "description": "1,9g"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York Build-A-Brow 255 Soft Brown Wenkbrauwpotlood en -Gel",
   "code": "5994574",
   "price": "17.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwgel"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6d/h6e/29996252692510/prd-front-5994574-1_600x600/prd-front-5994574-1-600x600.jpg"
 }

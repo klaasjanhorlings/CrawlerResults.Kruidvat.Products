@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Neutrogena Hydro Boost Aqua Gel",
   "code": "4726702",
   "price": "20.59",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h13/h4d/34181144772638/prd-front-4726702-1_600x600/prd-front-4726702-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/haa/hec/34302405836830/prd-front-4726702-1_600x600/prd-front-4726702-1-600x600.jpg"
 }

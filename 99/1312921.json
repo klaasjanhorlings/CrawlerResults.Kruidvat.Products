@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Hydraterende Nachtcrème",
   "code": "1312921",
   "price": "13.99",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Normale en gecombineerde huid"
+  "description": "50ml - Normale en gecombineerde huid",
+  "image": "/medias/sys_master/prd-images/h36/h38/32901362450462/prd-front-1312921-1_600x600/prd-front-1312921-1-600x600.jpg"
 }

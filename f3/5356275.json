@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Excellence Cool Crème 6.11 Ultra As Donkerblond Permanente Haarkleuring",
   "code": "5356275",
   "price": "19.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h41/hb7/31776584695838/prd-front-5356275-1_600x600/prd-front-5356275-1-600x600.jpg"
 }

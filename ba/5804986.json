@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 10 Stay All Day 14H Concealer",
   "code": "5804986",
   "price": "2.99",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "7ml, 10",
-  "image": "/medias/sys_master/prd-images/hc9/h22/30123081269278/prd-front-5804986-1_600x600/prd-front-5804986-1-600x600.jpg"
+  "description": "7ml, 10"
 }

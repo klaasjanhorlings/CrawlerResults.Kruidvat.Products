@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Stay With Me 030 Dewy Beige Longlasting Concealer",
   "code": "5068540",
   "price": "3.49",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "7ml",
-  "image": "/medias/prd-front-5068540-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjExNjd8aW1hZ2UvanBlZ3xhR1JoTDJnMU5pOHhOamsxTkRZek1UWTFNVE0xT0M5d2NtUXRabkp2Ym5RdE5UQTJPRFUwTUMweFh6WXdNSGcyTURBfGQxOGJlNDc0YWE1YWI3YmM5MTRjYjI3NDVkZWNhN2I2MDdiNzc3OTEwZTE3MmRmY2M4ZGZjY2ZhOWJjZTg1Yjg"
+  "description": "7ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Infaillible Skin Ink 100 2-in-1 Foundation & Concealer",
   "code": "6235808",
   "price": "22.99",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h8b/hc0/33671717912606/prd-front-6235808-1_600x600/prd-front-6235808-1-600x600.jpg"
+  "description": ""
 }

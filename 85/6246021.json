@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 340 Foundation Stick",
   "code": "6246021",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "10g",
-  "image": "/medias/sys_master/prd-images/h9d/h9f/33483833081886/prd-front-6246021-1_600x600/prd-front-6246021-1-600x600.jpg"
+  "description": "10g"
 }

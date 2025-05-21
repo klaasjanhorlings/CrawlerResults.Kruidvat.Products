@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Lip IV 11 Red-y.Set.Wet Hydraterende Lipgloss",
   "code": "6230733",
   "price": "11.95",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5d/he7/33963210965022/prd-front-6230733-1_600x600/prd-front-6230733-1-600x600.jpg"
 }

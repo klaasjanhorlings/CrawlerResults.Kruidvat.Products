@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Mylaq My Last Party Gellak",
   "code": "5871787",
   "price": "6.99",
@@ -8,8 +8,8 @@
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6505 > 6506",
   "supplier": "COSMO GROUP SP. Z O.O.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1012132",
+  "mmkId": "1012132",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",

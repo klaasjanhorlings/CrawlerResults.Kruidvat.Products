@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Celenes By Sweden By Sweden Vitamine C 12,5% Actief Serum",
   "code": "6062159",
   "price": "17.95",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hed/h3f/31004037840926/prd-front-6062159-1_600x600/prd-front-6062159-1-600x600.jpg"
+  "description": "30ml - Alle huidtypen"
 }

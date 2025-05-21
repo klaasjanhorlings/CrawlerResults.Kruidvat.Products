@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Organic Shop Apricot & Mango Delicate Face Peeling",
   "code": "6051596",
   "price": "6.99",
@@ -29,12 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266921,
-      "name": "Reinigingsscrub"
+      "id": 87390099,
+      "name": "Peeling"
     }
   ],
   "description": "90g",

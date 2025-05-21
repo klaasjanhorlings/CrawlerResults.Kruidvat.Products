@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA CELLular Expert Filler Anti-Age SPF30 Dagcrème",
   "code": "3459639",
   "price": "32.99",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Ouder wordende huid",
-  "image": "/medias/sys_master/prd-images/h0e/h04/32903422967838/prd-front-3459639-1_600x600/prd-front-3459639-1-600x600.jpg"
+  "description": "50ml - Ouder wordende huid"
 }

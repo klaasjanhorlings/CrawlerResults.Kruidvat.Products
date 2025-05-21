@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L’Oréal Paris Wrinkle Expert 65+ Anti-Rimpel Dagcrème",
   "code": "5374167",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid"
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h2b/ha7/28039102365726/prd-front-5374167-1_600x600/prd-front-5374167-1-600x600.jpg"
 }

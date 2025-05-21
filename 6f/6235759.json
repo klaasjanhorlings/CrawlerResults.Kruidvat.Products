@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Color Riche Intense Volume Matte 1980 L'Ambre Lippenstift",
   "code": "6235759",
   "price": "16.99",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h25/h22/33348546822174/prd-front-6235759-1_600x600/prd-front-6235759-1-600x600.jpg"
 }

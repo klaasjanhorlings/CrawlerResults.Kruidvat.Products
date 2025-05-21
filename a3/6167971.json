@@ -7,10 +7,10 @@
   "priceOriginal": "10.99",
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "1052220",
-  "mmkId": "1052220",
-  "productGroupId": "477985",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 5,49",
   "url": "/always-discreet-sensitive-bladder-normal-verband/p/6167971",
@@ -37,5 +37,6 @@
       "name": "Incontinentieverband"
     }
   ],
-  "description": "Medisch hulpmiddel - 30 stuks"
+  "description": "Medisch hulpmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/h4f/hdf/31620745691166/prd-front-6167971-1_600x600/prd-front-6167971-1-600x600.jpg"
 }

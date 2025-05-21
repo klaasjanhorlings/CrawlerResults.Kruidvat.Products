@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Jumbo Lash Eyeliner",
   "code": "6131130",
   "price": "12.95",
@@ -33,6 +33,5 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "1ml",
-  "image": "/medias/sys_master/prd-images/hb2/h37/31931341242398/prd-front-6131130-1_600x600/prd-front-6131130-1-600x600.jpg"
+  "description": "1ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice 20H Ultra Precision 050 Blue Waterproof Gel Eye Pencil",
   "code": "5493167",
   "price": "2.69",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h06/hc1/33046616047646/prd-front-5493167-1_600x600/prd-front-5493167-1-600x600.jpg"
 }

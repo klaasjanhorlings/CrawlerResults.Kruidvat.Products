@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Freeman Pomegranate Facial Revealing Peel-Off Mask Gezichtsmasker",
   "code": "2785014",
   "price": "4.99",
@@ -37,6 +37,5 @@
       "name": "Peel-off maskers"
     }
   ],
-  "description": "175ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h38/h4d/27804364701726/prd-front-2785014-1_600x600/prd-front-2785014-1-600x600.jpg"
+  "description": "175ml - Alle huidtypen"
 }

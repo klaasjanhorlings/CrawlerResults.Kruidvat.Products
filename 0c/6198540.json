@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Amando Noir Dare to be Strong Geschenkset",
   "code": "6198540",
   "price": "9.99",
@@ -37,5 +37,6 @@
       "name": "Parfum geschenkset voor hem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h62/hd3/32273069408286/prd-front-6198540-1_600x600/prd-front-6198540-1-600x600.jpg"
 }

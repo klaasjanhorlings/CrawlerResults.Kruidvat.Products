@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 01 Buff Away Your Problems Make-up Buffer Brush",
   "code": "6017520",
   "price": "4.49",
@@ -33,6 +33,5 @@
       "name": "Make-up kwasten"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h21/h06/31689022079006/prd-front-6017520-1_600x600/prd-front-6017520-1-600x600.jpg"
+  "description": ""
 }

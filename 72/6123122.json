@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Soft Touch 02 Berry Crush Duo Eyeshadow",
   "code": "6123122",
   "price": "2.49",
@@ -37,6 +37,5 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": "1,8g",
-  "image": "/medias/sys_master/prd-images/h97/h28/31691658854430/prd-front-6123122-1_600x600/prd-front-6123122-1-600x600.jpg"
+  "description": "1,8g"
 }

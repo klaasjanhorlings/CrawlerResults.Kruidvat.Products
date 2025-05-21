@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Epic Wear EWLS23 Emerald Cult Liner Stick",
   "code": "6130556",
   "price": "7.95",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6b/hfc/31921300439070/prd-front-6130556-1_600x600/prd-front-6130556-1-600x600.jpg"
 }

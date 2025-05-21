@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Lumi Le Liquid 635 Worth It Blush",
   "code": "6235969",
   "price": "15.99",
@@ -33,6 +33,5 @@
       "name": "Blush"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h8a/h21/33486271414302/prd-front-6235969-1_600x600/prd-front-6235969-1-600x600.jpg"
+  "description": ""
 }

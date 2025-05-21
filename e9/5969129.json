@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Yeauty Recharging Retinol Eye Pad Mask",
   "code": "5969129",
   "price": "1.0",
@@ -37,5 +37,6 @@
       "name": "Oogmaskers"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h55/h46/28851698008094/prd-front-5969129-1_600x600/prd-front-5969129-1-600x600.jpg"
 }

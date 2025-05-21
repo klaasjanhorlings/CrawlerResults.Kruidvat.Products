@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Jean Paul Gaultier Le Male Eau de Toilette",
   "code": "4811080",
   "price": "99.99",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hca/h65/34029195755550/prd-front-4811080-1_600x600/prd-front-4811080-1-600x600.jpg"
+  "description": "200ml"
 }

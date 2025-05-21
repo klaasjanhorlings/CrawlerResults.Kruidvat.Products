@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lancôme La Vie est Belle L'Elixir Eau de Parfum",
   "code": "6279817",
   "price": "59.99",
@@ -8,8 +8,8 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "MAINSTEIN GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1052717",
+  "mmkId": "1052717",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",

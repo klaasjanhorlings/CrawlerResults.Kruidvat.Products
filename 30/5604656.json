@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Excellence Universal 9U Nudes Zeer Lichtblond Permanente Haarverf",
   "code": "5604656",
   "price": "19.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h9a/h6d/31762486558750/prd-front-5604656-1_600x600/prd-front-5604656-1-600x600.jpg"
+  "description": ""
 }

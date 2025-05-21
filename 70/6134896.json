@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Biodermal Anti-Age Serum",
   "code": "6134896",
   "price": "44.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h2f/hc3/34282961174558/prd-front-6134896-1_600x600/prd-front-6134896-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h97/h29/34291850575902/prd-front-6134896-1_600x600/prd-front-6134896-1-600x600.jpg"
 }
