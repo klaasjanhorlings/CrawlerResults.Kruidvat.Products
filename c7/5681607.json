@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3519",
   "supplier": "CARESSE COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052409",
+  "mmkId": "1052409",
+  "productGroupId": "479213",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-jurassic-world-tandenborstel/p/5681607",
@@ -33,5 +33,6 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5681607-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjY3Mjd8aW1hZ2UvanBlZ3xhRFUxTDJneFl5OHhOalF6TWpFd01qZzVPVGMwTWk5d2NtUXRabkp2Ym5RdE5UWTRNVFl3TnkweFh6WXdNSGcyTURBfDRiNTRjZDk3YmVmMjE2MTZmNTM3YzViMjAzYjc3MTEzMWYzODc1ODQwYzRhZjZhOTg4MmQ5NjNhN2QyNzc2NTU"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Babysokjes",
+  "code": "5614456",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 4362 > 2130 > 5787 > 5788 > 5789",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-babysokjes/p/5614456",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266041,
+      "name": "Babykleding"
+    },
+    {
+      "id": 30266852,
+      "name": "Babysokken"
+    }
+  ],
+  "description": "cognackleur, zwart, wit, mt 0-6m, 3 paar",
+  "image": "/medias/prd-front-5614456-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODg4MjV8aW1hZ2UvanBlZ3xhRFpsTDJnd1l5OHhOak13TURJM09EYzNOVGd6T0M5d2NtUXRabkp2Ym5RdE5UWXhORFExTmkweFh6WXdNSGcyTURBfGE4OTkxNjVhZWJjNmI1YTgzNmQxOWMxYzQwOTU5OTMxY2ZkMWM5YzM1NDY3ZDI5YWMzZjM3MTBkNDIyNTA5NDI"
+}

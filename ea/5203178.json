@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1052397",
+  "mmkId": "1052397",
+  "productGroupId": "475887",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-brow-ultra-slim-03-warm-brown-wenkbrauwpotlood/p/5203178",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-5203178-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTY5NjF8aW1hZ2UvanBlZ3xhRFJoTDJnNE5TOHhOamd6TVRBd05UZ3hPRGt4TUM5d2NtUXRabkp2Ym5RdE5USXdNekUzT0MweFh6WXdNSGcyTURBfDc5YWE2NGUyNTg3YzcxNWM5OWRjOTI5NDFkM2I5YjhkYWM2M2Y3NDNlYmM5ZWNjY2VhMzAwYjAxNWNiOThlYjg"
+  "description": ""
 }

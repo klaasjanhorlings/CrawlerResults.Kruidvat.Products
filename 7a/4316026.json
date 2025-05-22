@@ -7,7 +7,7 @@
   "priceOriginal": "79.99",
   "itemBgbcat": "5929 > 6019 > 2197 > 4901 > 4947 > 4993",
   "supplier": "DUMMY EXTERN",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Stofzuigers"
     }
   ],
-  "description": "3L",
-  "image": "/medias/sys_master/prd-images/ha3/h98/29398384377886/prd-front-4316026-1_600x600/prd-front-4316026-1-600x600.jpg"
+  "description": "3L"
 }

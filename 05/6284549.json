@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2130 > 2499 > 3106 > 3973 > 4362",
   "supplier": "MUNDIA BV",
   "inStock": "inStock",
-  "onPromo": "1052240",
-  "mmkId": "1052240",
-  "productGroupId": "478452",
+  "onPromo": "1052403",
+  "mmkId": "1052403",
+  "productGroupId": "478863",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-slabbetjes/p/6284549",
@@ -33,5 +33,6 @@
       "name": "Slabbetjes"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h56/h62/33674430087198/prd-front-6284549-1_600x600/prd-front-6284549-1-600x600.jpg"
 }
