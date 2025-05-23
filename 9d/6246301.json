@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Lashes To Impress 01 Kunstwimpers",
   "code": "6246301",
   "price": "7.69",
@@ -33,5 +33,6 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "3 stuks"
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/hf2/h15/33568731070494/prd-front-6246301-1_600x600/prd-front-6246301-1-600x600.jpg"
 }

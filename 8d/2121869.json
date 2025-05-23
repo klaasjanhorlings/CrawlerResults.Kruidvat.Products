@@ -21,18 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 30266006,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30266603,
-      "name": "Nachtcreme"
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 30266940,
+      "name": "Littekencremes"
     }
   ],
   "description": "75ml - Probleemhuid",
-  "image": "/medias/sys_master/prd-images/hbe/hde/34303625429022/prd-front-2121869-1_600x600/prd-front-2121869-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd6/h1e/34325720563742/prd-front-2121869-1_600x600/prd-front-2121869-1-600x600.jpg"
 }

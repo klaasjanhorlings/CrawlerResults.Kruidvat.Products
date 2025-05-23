@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence 60 Skin Tint",
   "code": "6246063",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hca/h5a/33334531096606/prd-front-6246063-1_600x600/prd-front-6246063-1-600x600.jpg"
+  "description": "30ml"
 }

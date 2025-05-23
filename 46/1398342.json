@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Sun Club 02 Sunny Brunettes Matt Bronzing Powder",
   "code": "1398342",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Bronzer"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1b/h42/30118002982942/prd-front-1398342-1_600x600/prd-front-1398342-1-600x600.jpg"
+  "description": ""
 }

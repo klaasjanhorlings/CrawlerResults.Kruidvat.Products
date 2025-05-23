@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence 04 Micro Precise Wenkbrauwpenceel",
   "code": "5608639",
   "price": "1.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h84/hb9/30113619247134/prd-front-5608639-1_600x600/prd-front-5608639-1-600x600.jpg"
 }

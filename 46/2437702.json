@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Liquid Ink 01 Black Waterproof Eyeliner",
   "code": "2437702",
   "price": "2.79",
@@ -33,6 +33,5 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc9/h6c/33041751212062/prd-front-2437702-1_600x600/prd-front-2437702-1-600x600.jpg"
+  "description": ""
 }

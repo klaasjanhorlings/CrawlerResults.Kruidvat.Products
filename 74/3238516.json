@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Men Sensitive Hydro Face Cream",
   "code": "3238516",
   "price": "4.29",
@@ -29,8 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266610,
-      "name": "Gezichtscreme mannen"
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "50ml",

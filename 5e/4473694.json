@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Infaillible 20 Ivory SPF25 32H Fresh Wear Foundation",
   "code": "4473694",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h83/h0c/31774202232862/prd-front-4473694-1_600x600/prd-front-4473694-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Aqua Boost Hydrating Gel Cream Mask",
   "code": "6042944",
   "price": "1.29",
@@ -37,5 +37,6 @@
       "name": "Crèmemaskers"
     }
   ],
-  "description": "16ml, alle huidtypes"
+  "description": "16ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h83/hb9/30168452661278/prd-front-6042944-1_600x600/prd-front-6042944-1-600x600.jpg"
 }

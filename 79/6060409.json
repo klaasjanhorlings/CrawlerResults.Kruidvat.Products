@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Neutrogena Hydro Boost Aqua Gezichtsreiniger",
   "code": "6060409",
   "price": "7.49",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hd0/h8b/32061859594270/prd-front-6060409-1_600x600/prd-front-6060409-1-600x600.jpg"
 }

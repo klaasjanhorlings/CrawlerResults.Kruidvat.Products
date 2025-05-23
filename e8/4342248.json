@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2913 > 3709",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/mycosan-voet-schoenpoeder/p/4342248",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 65g",
-  "image": "/medias/sys_master/prd-images/ha7/hbd/34303626280990/prd-front-4342248-1_600x600/prd-front-4342248-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h32/hae/34325789311006/prd-front-4342248-1_600x600/prd-front-4342248-1-600x600.jpg"
 }

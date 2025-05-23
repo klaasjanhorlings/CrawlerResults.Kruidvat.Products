@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Stay All Night Micro-Fine Setting Mist",
+  "code": "6275897",
+  "price": "12.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-stay-all-night-micro-fine-setting-mist/p/6275897",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266594,
+      "name": "Fixing sprays"
+    }
+  ],
+  "description": "80ml",
+  "image": "/medias/sys_master/prd-images/he0/h19/34040493015070/prd-front-6275897-1_600x600/prd-front-6275897-1-600x600.jpg"
+}

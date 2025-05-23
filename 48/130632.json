@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Biodermal Face Wash Gezichtsreiniging voor alle Huidtypen",
   "code": "130632",
   "price": "16.49",
@@ -37,5 +37,6 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "150ml - Alle huidtypen"
+  "description": "150ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h97/hd0/34325108293662/prd-front-130632-1_600x600/prd-front-130632-1-600x600.jpg"
 }

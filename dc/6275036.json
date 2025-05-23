@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Brow Lift Applicator",
+  "code": "6275036",
+  "price": "5.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-brow-lift-applicator/p/6275036",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266617,
+      "name": "Make-up kwasten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb7/ha3/34021264162846/prd-front-6275036-1_600x600/prd-front-6275036-1-600x600.jpg"
+}

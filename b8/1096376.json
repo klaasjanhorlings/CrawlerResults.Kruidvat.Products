@@ -1,9 +1,9 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Cleansing Lotion Oog Make-Up Remover",
   "code": "1096376",
-  "price": "1.79",
+  "price": "1.89",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "MAXIM MARKENPRODUKTE",
@@ -37,5 +37,6 @@
       "name": "Oogmake-up remover"
     }
   ],
-  "description": "150ml - Alle huidtypen"
+  "description": "150ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h69/h13/34258386059294/prd-front-1096376-1_600x600/prd-front-1096376-1-600x600.jpg"
 }

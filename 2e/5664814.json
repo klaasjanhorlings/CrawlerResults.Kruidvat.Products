@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Vaseline Rosy Lip Therapy",
   "code": "5664814",
   "price": "2.99",
@@ -33,6 +33,5 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "7g",
-  "image": "/medias/sys_master/prd-images/hac/h7a/34162679382046/prd-front-5664814-1_600x600/prd-front-5664814-1-600x600.jpg"
+  "description": "7g"
 }

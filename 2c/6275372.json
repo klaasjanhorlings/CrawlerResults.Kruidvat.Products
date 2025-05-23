@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Glow Reviver Strawberry Shortcake Melting Lipbalm",
+  "code": "6275372",
+  "price": "10.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-glow-reviver-strawberry-shortcake-melting-lipbalm/p/6275372",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 87395308,
+      "name": "Lip balm"
+    }
+  ],
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/h87/h4e/34284256952350/prd-front-6275372-1_600x600/prd-front-6275372-1-600x600.jpg"
+}

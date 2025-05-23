@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Soft Glam Filter 040 Medium - Tan Stick",
   "code": "6233771",
   "price": "4.99",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266588,
-      "name": "Bronzer"
+      "id": 30266577,
+      "name": "Foundation"
     }
   ],
   "description": "9g",

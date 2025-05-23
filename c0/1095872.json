@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Cleansing Reinigingsgel voor de Normale en Gemengde Huid",
   "code": "1095872",
   "price": "1.99",
@@ -37,5 +37,6 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "150ml - Normale en gecombineerde huid"
+  "description": "150ml - Normale en gecombineerde huid",
+  "image": "/medias/sys_master/prd-images/heb/h30/34286621491230/prd-front-1095872-1_600x600/prd-front-1095872-1-600x600.jpg"
 }

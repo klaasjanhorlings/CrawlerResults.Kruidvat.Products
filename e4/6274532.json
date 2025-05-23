@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Berry Necessary Smokey Kohl Eyeliner",
+  "code": "6274532",
+  "price": "4.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-berry-necessary-smokey-kohl-eyeliner/p/6274532",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266585,
+      "name": "Oogpotlood"
+    }
+  ],
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h7d/h7d/34283621646366/prd-front-6274532-1_600x600/prd-front-6274532-1-600x600.jpg"
+}

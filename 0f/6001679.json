@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Skin Glaze Hydraterende Serum Primer",
   "code": "6001679",
   "price": "5.49",
@@ -25,12 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30265987,
-      "name": "Make-up"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 30266579,
-      "name": "Primer"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
   "description": "15ml",

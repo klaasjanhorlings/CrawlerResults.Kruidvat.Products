@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Adidas Vibes Chill Zone Eau de Parfum",
   "code": "6133874",
   "price": "19.99",
@@ -29,8 +29,8 @@
       "name": "Parfum"
     },
     {
-      "id": 72654362,
-      "name": "Damesparfum"
+      "id": 72654823,
+      "name": "Herenparfum"
     }
   ],
   "description": "30ml",

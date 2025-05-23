@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Magic Repair Blossom Nail Oil",
   "code": "6235297",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/h2b/hf2/33047226810398/prd-front-6235297-1_600x600/prd-front-6235297-1-600x600.jpg"
 }

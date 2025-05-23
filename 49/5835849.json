@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Syoss 7.1 Natuurlijk Middenblond Permanente Haarkleuring",
   "code": "5835849",
   "price": "16.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6f/h5b/33821480845342/prd-front-5835849-1_600x600/prd-front-5835849-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Peppe Jeans London Cocktail For Her Geschenkset",
   "code": "6276492",
   "price": "24.95",
@@ -21,7 +21,19 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 76977667,
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72656138,
+      "name": "Geschenkset voor haar"
+    },
+    {
+      "id": 72654960,
       "name": "Parfum geschenkset voor haar"
     }
   ],

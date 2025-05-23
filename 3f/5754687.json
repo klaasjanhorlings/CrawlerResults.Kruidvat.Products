@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Drs Leenarts Aanstiplotion bij Puistjes",
   "code": "5754687",
   "price": "12.99",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 50048154,
-      "name": "Verzorging probleemhuid"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "15ml",

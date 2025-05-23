@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Biodermal Couperosecrème",
   "code": "2798517",
   "price": "43.99",
@@ -29,10 +29,10 @@
       "name": "Skincare"
     },
     {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266603,
+      "name": "Nachtcreme"
     }
   ],
   "description": "Medisch hulpmiddel - 30ml",
-  "image": "/medias/sys_master/prd-images/hc4/hd9/34307150970910/prd-front-2798517-1_600x600/prd-front-2798517-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha2/haf/34324293353502/prd-front-2798517-1_600x600/prd-front-2798517-1-600x600.jpg"
 }

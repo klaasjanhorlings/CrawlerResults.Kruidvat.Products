@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Neutrogena Hydro Boost 3-in-1 Micellair Water",
   "code": "4726625",
   "price": "10.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h96/hd6/34308634640414/prd-front-4726625-1_600x600/prd-front-4726625-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he6/hcd/34320204496926/prd-front-4726625-1_600x600/prd-front-4726625-1-600x600.jpg"
 }

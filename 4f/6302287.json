@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Tom Tailor Pure For Him Eau de Toilette",
   "code": "6302287",
   "price": "16.95",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hf3/h3d/33962453663774/prd-front-6302287-1_600x600/prd-front-6302287-1-600x600.jpg"
+  "description": "30ml"
 }

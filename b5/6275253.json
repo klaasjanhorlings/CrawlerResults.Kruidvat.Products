@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. O Face Shameless Satin Lipstick",
+  "code": "6275253",
+  "price": "10.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-o-face-shameless-satin-lipstick/p/6275253",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "3,8g",
+  "image": "/medias/sys_master/prd-images/h7b/h70/34039098114078/prd-front-6275253-1_600x600/prd-front-6275253-1-600x600.jpg"
+}

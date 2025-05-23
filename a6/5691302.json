@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York SuperStay Vinyl Ink 55 Royal Lipstick",
   "code": "5691302",
   "price": "17.99",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,2ml",
-  "image": "/medias/sys_master/prd-images/ha4/heb/33960600371230/prd-front-5691302-1_600x600/prd-front-5691302-1-600x600.jpg"
+  "description": "4,2ml"
 }

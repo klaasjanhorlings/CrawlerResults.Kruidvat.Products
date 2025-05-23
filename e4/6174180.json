@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Zenner Facial Hair Remover Wenkbrauwscheermesjes",
   "code": "6174180",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Pincetten"
     }
   ],
-  "description": "3 stuks",
-  "image": "/medias/sys_master/prd-images/h39/h95/32639891243038/prd-front-6174180-1_600x600/prd-front-6174180-1-600x600.jpg"
+  "description": "3 stuks"
 }

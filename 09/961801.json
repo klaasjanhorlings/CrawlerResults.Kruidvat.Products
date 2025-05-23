@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Lash Brow Gel Mascara",
   "code": "961801",
   "price": "1.99",
@@ -33,8 +33,8 @@
       "name": "Wenkbrauw make-up"
     },
     {
-      "id": 30266906,
-      "name": "Wenkbrauwmascara"
+      "id": 30266905,
+      "name": "Wenkbrauwgel"
     }
   ],
   "description": "",

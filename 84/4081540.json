@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Skin Science Wrinkle Reducing Serum",
   "code": "4081540",
   "price": "8.99",
@@ -29,12 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266605,
-      "name": "Serum"
-    },
-    {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 30266604,
+      "name": "Oogcreme"
     }
   ],
   "description": "20ml",

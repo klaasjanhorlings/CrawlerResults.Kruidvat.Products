@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Zenner Mommy & Me Pearls Geschenkset",
   "code": "6279509",
   "price": "12.99",
@@ -29,12 +29,8 @@
       "name": "Geschenksets"
     },
     {
-      "id": 72656138,
-      "name": "Geschenkset voor haar"
-    },
-    {
-      "id": 87397342,
-      "name": "Make-up geschenksets"
+      "id": 72666497,
+      "name": "Geschenkset voor kinderen"
     }
   ],
   "description": "",

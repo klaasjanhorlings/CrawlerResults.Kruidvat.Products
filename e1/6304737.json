@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "CeraVe Blemish Control Gel",
+  "code": "6304737",
+  "price": "17.35",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 6704",
+  "supplier": "LOREAL NED B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cerave-blemish-control-gel/p/6304737",
+  "listName": "Lister",
+  "brand": "CeraVe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50048154,
+      "name": "Verzorging probleemhuid"
+    }
+  ],
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h57/h4c/34315730059294/prd-front-6304737-1_600x600/prd-front-6304737-1-600x600.jpg"
+}

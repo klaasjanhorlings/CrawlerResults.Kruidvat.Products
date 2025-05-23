@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Olay Eyes Retinol24 Oogcrème voor de Nacht",
   "code": "5056017",
   "price": "39.99",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml - Alle huidtypen"
+  "description": "15ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h2c/hf2/31598807547934/prd-front-5056017-1_600x600/prd-front-5056017-1-600x600.jpg"
 }

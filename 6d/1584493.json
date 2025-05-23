@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Biodermal Dag & Nachtcrème voor alle Huidtypen",
   "code": "1584493",
   "price": "38.99",
@@ -29,10 +29,10 @@
       "name": "Skincare"
     },
     {
-      "id": 30266603,
-      "name": "Nachtcreme"
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "100ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/he9/h2a/34303253348382/prd-front-1584493-1_600x600/prd-front-1584493-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h77/hdd/34325108621342/prd-front-1584493-1_600x600/prd-front-1584493-1-600x600.jpg"
 }

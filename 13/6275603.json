@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Deep Brown Incredible Curl Mascara",
+  "code": "6275603",
+  "price": "9.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-deep-brown-incredible-curl-mascara/p/6275603",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266576,
+      "name": "Mascara"
+    }
+  ],
+  "description": "9,2g",
+  "image": "/medias/sys_master/prd-images/h48/h54/34287317712926/prd-front-6275603-1_600x600/prd-front-6275603-1-600x600.jpg"
+}

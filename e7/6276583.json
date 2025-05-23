@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Treaclemoon Brazilian Love Collection Geschenkset",
   "code": "6276583",
   "price": "9.99",
@@ -33,9 +33,10 @@
       "name": "Geschenkset voor haar"
     },
     {
-      "id": 87397518,
-      "name": "Bad & douche geschenksets"
+      "id": 72654960,
+      "name": "Parfum geschenkset voor haar"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9a/hac/33895263010846/prd-front-6276583-1_600x600/prd-front-6276583-1-600x600.jpg"
 }

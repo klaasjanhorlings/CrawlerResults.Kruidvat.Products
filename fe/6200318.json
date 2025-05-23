@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Beauty of Joseon Apricot Blossom Peeling Gel",
   "code": "6200318",
   "price": "14.9",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 87390099,
-      "name": "Peeling"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266915,
+      "name": "Reinigingsgel"
     }
   ],
   "description": "100ml",

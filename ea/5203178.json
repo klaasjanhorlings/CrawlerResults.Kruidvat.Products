@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Brow Ultra Slim 03 Warm Brown Wenkbrauwpotlood",
   "code": "5203178",
   "price": "9.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5203178-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTY5NjF8aW1hZ2UvanBlZ3xhRFJoTDJnNE5TOHhOamd6TVRBd05UZ3hPRGt4TUM5d2NtUXRabkp2Ym5RdE5USXdNekUzT0MweFh6WXdNSGcyTURBfDc5YWE2NGUyNTg3YzcxNWM5OWRjOTI5NDFkM2I5YjhkYWM2M2Y3NDNlYmM5ZWNjY2VhMzAwYjAxNWNiOThlYjg"
 }

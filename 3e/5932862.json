@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Cantu 2-In-1 Edges Borstel & Kam",
   "code": "5932862",
   "price": "3.99",
@@ -29,8 +29,8 @@
       "name": "Haaraccessoires"
     },
     {
-      "id": 30266624,
-      "name": "Haarborstels"
+      "id": 30266625,
+      "name": "Kammen"
     }
   ],
   "description": "grijs",

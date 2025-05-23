@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "SKIN1004 Madagascar Centella Hyalu-Cica Blue Serum",
   "code": "6200556",
   "price": "16.9",
@@ -25,12 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
   "description": "30ml",

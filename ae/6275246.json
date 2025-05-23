@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Cream Glide Dark Cocoa Lipliner",
+  "code": "6275246",
+  "price": "3.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-cream-glide-dark-cocoa-lipliner/p/6275246",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266595,
+      "name": "Lipliner"
+    }
+  ],
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h9b/h98/34039224500254/prd-front-6275246-1_600x600/prd-front-6275246-1-600x600.jpg"
+}

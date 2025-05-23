@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea Men Deep Black Carbon Beat Antitranspirant Spray",
+  "itemName": "NIVEA Men Deep Black Carbon Beat Antitranspirant Spray",
   "code": "5512613",
   "price": "6.49",
   "priceOriginal": "",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h2a/h00/33179713404958/prd-front-5512613-1_600x600/prd-front-5512613-1-600x600.jpg"
+  "description": "150ml"
 }

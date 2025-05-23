@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mixsoon Bean Essence",
   "code": "6200108",
   "price": "22.9",
@@ -25,14 +25,13 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 73443492,
-      "name": "Essence"
+      "id": 73443650,
+      "name": "Korean Skincare"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h05/hc8/32600827723806/prd-front-6200108-1_600x600/prd-front-6200108-1-600x600.jpg"
+  "description": "30ml"
 }

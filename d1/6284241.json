@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2330 > 2730 > 3433 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
-  "onPromo": "1052403",
-  "mmkId": "1052403",
-  "productGroupId": "478863",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-meegroeiromper/p/6284241",
@@ -33,5 +33,6 @@
       "name": "Babyaccessoires"
     }
   ],
-  "description": "groen, mt 86-92"
+  "description": "groen, mt 86-92",
+  "image": "/medias/sys_master/prd-images/h56/h2e/33642048258078/prd-front-6284241-1_600x600/prd-front-6284241-1-600x600.jpg"
 }

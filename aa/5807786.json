@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dermolin Zeer Droge Huid Dagcrème",
   "code": "5807786",
   "price": "14.95",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "50ml",

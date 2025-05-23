@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea Black & White Invisible Pure Antitranspirant Spray",
+  "itemName": "NIVEA Black & White Invisible Pure Antitranspirant Spray",
   "code": "2746780",
   "price": "6.29",
   "priceOriginal": "",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/ha6/h5d/33178577960990/prd-front-2746780-1_600x600/prd-front-2746780-1-600x600.jpg"
+  "description": "150ml"
 }

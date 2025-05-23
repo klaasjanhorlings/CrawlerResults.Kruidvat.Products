@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Squeeze Me Grape Lipbalm",
+  "code": "6275379",
+  "price": "5.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-squeeze-me-grape-lipbalm/p/6275379",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 87395308,
+      "name": "Lip balm"
+    }
+  ],
+  "description": "6g",
+  "image": "/medias/sys_master/prd-images/hf1/h36/34282670587934/prd-front-6275379-1_600x600/prd-front-6275379-1-600x600.jpg"
+}

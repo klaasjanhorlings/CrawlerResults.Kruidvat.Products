@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Guess Seductive Red Bodymist",
   "code": "5546339",
   "price": "11.99",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h21/hbc/27496298643486/prd-front-5546339-1_600x600/prd-front-5546339-1-600x600.jpg"
 }

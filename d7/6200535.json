@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "SKIN1004 Madagascar Centella Toning Toner",
   "code": "6200535",
   "price": "10.9",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 73443559,
-      "name": "Toner"
+      "id": 73443650,
+      "name": "Korean Skincare"
     }
   ],
   "description": "30ml - Alle huidtypen",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L’Oréal Paris Revitalift SPF30 Anti-Rimpel Dagcrème",
   "code": "3441747",
   "price": "24.99",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h72/h04/29709027639326/prd-front-3441747-1_600x600/prd-front-3441747-1-600x600.jpg"
 }

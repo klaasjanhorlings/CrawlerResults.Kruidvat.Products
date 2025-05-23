@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Jean Paul Gaultier Scandal Pour Homme Geschenkset",
   "code": "6296722",
   "price": "69.99",
@@ -21,21 +21,10 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
-    },
-    {
-      "id": 30265989,
-      "name": "Geschenksets"
-    },
-    {
-      "id": 72666181,
-      "name": "Geschenkset voor hem"
-    },
-    {
-      "id": 72655057,
+      "id": 76977692,
       "name": "Parfum geschenkset voor hem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc1/h82/33831734247454/prd-front-6296722-1_600x600/prd-front-6296722-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Préférence 9.1 Zeer Licht Asblond Permanente Haarkleuring",
   "code": "45202",
   "price": "22.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h92/hea/32296247394334/prd-front-45202-1_600x600/prd-front-45202-1-600x600.jpg"
 }

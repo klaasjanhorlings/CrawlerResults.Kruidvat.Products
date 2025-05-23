@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nip + Fab Illuminate Vitamin C Fix Hybrid Gel-crème",
   "code": "6045079",
   "price": "29.95",
@@ -29,8 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266603,
-      "name": "Nachtcreme"
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "50ml, alle huidtypes",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Organic Shop Cherry & Ginger Cleansing Face Scrub",
   "code": "5992397",
   "price": "4.99",
@@ -37,5 +37,6 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h22/h0f/29461862219806/prd-front-5992397-1_600x600/prd-front-5992397-1-600x600.jpg"
 }

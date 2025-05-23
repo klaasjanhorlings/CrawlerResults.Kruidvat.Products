@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup Vivid Rich 9 It's Giving Jade Mechanical Liner",
   "code": "6130171",
   "price": "7.95",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5f/h76/31930010140702/prd-front-6130171-1_600x600/prd-front-6130171-1-600x600.jpg"
 }

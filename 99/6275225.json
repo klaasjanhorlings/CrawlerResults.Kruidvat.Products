@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Glow Reviver Jam Session Lip Oil",
+  "code": "6275225",
+  "price": "9.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-glow-reviver-jam-session-lip-oil/p/6275225",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 87393641,
+      "name": "Lip oil"
+    }
+  ],
+  "description": "7,6ml",
+  "image": "/medias/sys_master/prd-images/hb1/h4b/34022118129694/prd-front-6275225-1_600x600/prd-front-6275225-1-600x600.jpg"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Marc Jacobs Daisy Eau So Intense Eau de Parfum",
   "code": "5860958",
   "price": "69.99",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h97/h62/27236799774750/prd-front-5860958-1_600x600/prd-front-5860958-1-600x600.jpg"
+  "description": "50ml"
 }

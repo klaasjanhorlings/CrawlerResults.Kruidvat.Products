@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Zenner Sweet Dreams Set",
   "code": "6163995",
   "price": "19.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,00",
+  "discount": "$ 2,00",
   "url": "/zenner-sweet-dreams-set/p/6163995",
   "listName": "Lister",
   "brand": "Zenner",
@@ -37,5 +37,6 @@
       "name": "Make-up geschenksets"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h63/h15/32336186933278/prd-front-6163995-1_600x600/prd-front-6163995-1-600x600.jpg"
 }

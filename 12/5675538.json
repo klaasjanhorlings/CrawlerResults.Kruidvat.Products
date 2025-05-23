@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Skin Science Brightening Correcting Serum",
   "code": "5675538",
   "price": "10.99",
@@ -29,12 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266605,
-      "name": "Serum"
-    },
-    {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 30266604,
+      "name": "Oogcreme"
     }
   ],
   "description": "30ml",

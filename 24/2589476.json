@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nikos Sculpture Homme Eau de Toilette",
   "code": "2589476",
   "price": "24.99",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h19/hb5/30546160386078/prd-front-2589476-1_600x600/prd-front-2589476-1-600x600.jpg"
 }

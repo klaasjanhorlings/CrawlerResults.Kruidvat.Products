@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Cosrx The 6 Peptide Skin Booster Serum",
   "code": "6200031",
   "price": "25.0",
@@ -25,18 +25,13 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266605,
-      "name": "Serum"
-    },
-    {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 73443650,
+      "name": "Korean Skincare"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h71/h72/32249773293598/prd-front-6200031-1_600x600/prd-front-6200031-1-600x600.jpg"
+  "description": "150ml"
 }

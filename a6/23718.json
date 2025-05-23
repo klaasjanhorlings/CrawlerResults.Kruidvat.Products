@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Garnier NutrisseUltra Crème 1 Zwart Permanente Haarkleuring",
   "code": "23718",
   "price": "15.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h29/h33/31776540524574/prd-front-23718-1_600x600/prd-front-23718-1-600x600.jpg"
 }

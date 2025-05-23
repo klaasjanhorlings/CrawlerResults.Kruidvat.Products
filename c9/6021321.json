@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Neutrogena Anti-Spot+ Peeling Serum",
   "code": "6021321",
   "price": "16.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hc5/hfb/34305870364702/prd-front-6021321-1_600x600/prd-front-6021321-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf2/h93/34317221756958/prd-front-6021321-1_600x600/prd-front-6021321-1-600x600.jpg"
 }

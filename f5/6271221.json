@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maison Margiela by the Fireplace Geschenkset",
   "code": "6271221",
   "price": "52.99",
@@ -21,19 +21,7 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
-    },
-    {
-      "id": 30265989,
-      "name": "Geschenksets"
-    },
-    {
-      "id": 72656138,
-      "name": "Geschenkset voor haar"
-    },
-    {
-      "id": 72654960,
+      "id": 76977667,
       "name": "Parfum geschenkset voor haar"
     }
   ],

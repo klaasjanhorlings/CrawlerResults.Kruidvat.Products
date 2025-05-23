@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Cantu Sturdy Double Lift Pick Kam",
   "code": "5932708",
   "price": "4.99",
@@ -29,8 +29,8 @@
       "name": "Haaraccessoires"
     },
     {
-      "id": 30266624,
-      "name": "Haarborstels"
+      "id": 30266625,
+      "name": "Kammen"
     }
   ],
   "description": "grijs",

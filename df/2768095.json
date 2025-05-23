@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Schwarzkopf Blonde L101 Platinablond Haarverf",
   "code": "2768095",
   "price": "16.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h0b/h2e/33075924205598/prd-front-2768095-1_600x600/prd-front-2768095-1-600x600.jpg"
+  "description": ""
 }

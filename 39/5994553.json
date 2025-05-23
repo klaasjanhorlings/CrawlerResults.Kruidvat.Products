@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Build-A-Brow 259 Ash Brown Wenkbrauwpotlood en -Gel",
   "code": "5994553",
   "price": "17.99",
@@ -33,8 +33,8 @@
       "name": "Wenkbrauw make-up"
     },
     {
-      "id": 30266908,
-      "name": "Wenkbrauwpotlood"
+      "id": 30266905,
+      "name": "Wenkbrauwgel"
     }
   ],
   "description": "",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Cosrx Salicylic Acid Gentle Cleanser",
   "code": "6200325",
   "price": "12.0",
@@ -25,14 +25,17 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677303,
+      "name": "Reinigingslotion"
     }
   ],
-  "description": "150ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h93/h7e/32249175801886/prd-front-6200325-1_600x600/prd-front-6200325-1-600x600.jpg"
+  "description": "150ml - Alle huidtypen"
 }

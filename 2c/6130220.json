@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup Vivid Rich 15 Smokin Topaz Mechanical Liner",
   "code": "6130220",
   "price": "7.95",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9b/h6e/31920487039006/prd-front-6130220-1_600x600/prd-front-6130220-1-600x600.jpg"
 }

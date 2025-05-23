@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Infaillible 24H Fresh Wear 245 Golden Honey Foundation in a Powder",
   "code": "5369176",
   "price": "19.99",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266587,
-      "name": "Gezichtspoeder"
+      "id": 30266577,
+      "name": "Foundation"
     }
   ],
   "description": "9g",

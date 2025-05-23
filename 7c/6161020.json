@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Hydro Boost Hydrating Fluid met SPF50",
+  "code": "6161020",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutrogena-hydro-boost-hydrating-fluid-met-spf50/p/6161020",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h3e/h25/34039215128606/prd-front-6161020-1_600x600/prd-front-6161020-1-600x600.jpg"
+}

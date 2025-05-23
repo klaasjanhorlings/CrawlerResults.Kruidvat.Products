@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mixsoon Centella Cleansing Water",
   "code": "6200122",
   "price": "13.9",
@@ -25,14 +25,17 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266919,
+      "name": "Reinigingstonic"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/hf0/h79/32249773031454/prd-front-6200122-1_600x600/prd-front-6200122-1-600x600.jpg"
+  "description": "300ml"
 }

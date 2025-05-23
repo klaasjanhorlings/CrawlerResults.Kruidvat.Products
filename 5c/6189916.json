@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Max Factor Miracle Pure 4 Light Medium Hydratint Essence Foundation",
   "code": "6189916",
   "price": "24.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h87/h91/33045322334238/prd-front-6189916-1_600x600/prd-front-6189916-1-600x600.jpg"
 }

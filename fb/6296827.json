@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Van Gils Basic Instinct Geschenkset",
   "code": "6296827",
   "price": "9.99",
@@ -21,8 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 76977692,
-      "name": "Parfum geschenkset voor hem"
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666181,
+      "name": "Geschenkset voor hem"
     }
   ],
   "description": "",

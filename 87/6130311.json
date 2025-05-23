@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup 01 My Main Fat Oil Lip Drip Lipolie",
   "code": "6130311",
   "price": "9.95",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "4,8ml"
+  "description": "4,8ml",
+  "image": "/medias/sys_master/prd-images/h36/hea/31921512251422/prd-front-6130311-1_600x600/prd-front-6130311-1-600x600.jpg"
 }

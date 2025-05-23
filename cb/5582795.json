@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Olay Retinol24 Max Nachtoogcrème",
   "code": "5582795",
   "price": "37.99",
@@ -33,6 +33,5 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/h15/hbe/31599128248350/prd-front-5582795-1_600x600/prd-front-5582795-1-600x600.jpg"
+  "description": "15ml"
 }

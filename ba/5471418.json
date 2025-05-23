@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Gestippelde Toilettas",
   "code": "5471418",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Toilettassen"
     }
   ],
-  "description": "25cm x 15cm x 14cm"
+  "description": "25cm x 15cm x 14cm",
+  "image": "/medias/sys_master/prd-images/h14/hd9/28294735462430/prd-front-5471418-1_600x600/prd-front-5471418-1-600x600.jpg"
 }

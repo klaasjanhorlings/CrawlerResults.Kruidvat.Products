@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "CeraVe Hydrating Cleanser",
+  "code": "5835527",
+  "price": "13.46",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3889",
+  "supplier": "L.B. 16 BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cerave-hydrating-cleanser/p/5835527",
+  "listName": "Lister",
+  "brand": "CeraVe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266914,
+      "name": "Reinigingsmelk"
+    }
+  ],
+  "description": "236ml",
+  "image": "/medias/sys_master/prd-images/h77/hc2/34326124789790/prd-front-5835527-1_600x600/prd-front-5835527-1-600x600.jpg"
+}

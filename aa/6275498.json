@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Love You a Latte Bite-Size Oogschaduwpalet",
+  "code": "6275498",
+  "price": "4.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-love-you-a-latte-bite-size-oogschaduwpalet/p/6275498",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266596,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30266911,
+      "name": "Palette oogschaduw"
+    }
+  ],
+  "description": "3,5g",
+  "image": "/medias/sys_master/prd-images/hff/h8c/34038483451934/prd-front-6275498-1_600x600/prd-front-6275498-1-600x600.jpg"
+}

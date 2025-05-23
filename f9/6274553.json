@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Halo Glow 3.5 Medium Liquid Filter",
+  "code": "6274553",
+  "price": "16.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-halo-glow-35-medium-liquid-filter/p/6274553",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266577,
+      "name": "Foundation"
+    }
+  ],
+  "description": "31,5ml",
+  "image": "/medias/sys_master/prd-images/hde/h33/34025283125278/prd-front-6274553-1_600x600/prd-front-6274553-1-600x600.jpg"
+}

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Bional Nachtrust Extra Sterk Capsules",
+  "itemName": "Bional Nachtrust Valeriaan Forte** Capsules",
   "code": "1691859",
   "price": "19.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "472703",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/bional-nachtrust-extra-sterk-capsules/p/1691859",
+  "url": "/bional-nachtrust-valeriaan-forte-capsules/p/1691859",
   "listName": "Lister",
   "brand": "Bional",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h13/h3a/34303021121566/prd-front-1691859-1_600x600/prd-front-1691859-1-600x600.jpg"
+  "description": "60 stuks"
 }

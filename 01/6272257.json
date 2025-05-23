@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Camo Coral Crush Liquid Blush",
+  "code": "6272257",
+  "price": "8.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-camo-coral-crush-liquid-blush/p/6272257",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266590,
+      "name": "Blush"
+    }
+  ],
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h0c/h4b/34022733774878/prd-front-6272257-1_600x600/prd-front-6272257-1-600x600.jpg"
+}

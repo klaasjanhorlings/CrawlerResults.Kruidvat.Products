@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Space Glam 010 Milky Way Liquid Chrome Eyeshadow",
   "code": "6104607",
   "price": "4.99",
@@ -37,6 +37,5 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": "2,2ml",
-  "image": "/medias/sys_master/prd-images/h98/h20/31477457911838/prd-front-6104607-1_600x600/prd-front-6104607-1-600x600.jpg"
+  "description": "2,2ml"
 }

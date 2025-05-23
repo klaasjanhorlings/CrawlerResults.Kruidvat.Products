@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Diadermine Expert Fondamental Dagcrème",
   "code": "4064705",
   "price": "21.99",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid",
-  "image": "/medias/sys_master/prd-images/h52/ha2/28309024342046/prd-front-4064705-1_600x600/prd-front-4064705-1-600x600.jpg"
+  "description": "50ml - Rijpe huid"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Calvin Klein Obsession for Women Eau de Parfum",
   "code": "2732045",
   "price": "25.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-2732045-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTUxNzF8aW1hZ2UvanBlZ3xhR00yTDJnME9TOHlOekUwTXpRek1EZzJORGt5Tmk5d2NtUXRabkp2Ym5RdE1qY3pNakEwTlMweFh6WXdNSGcyTURBfDM0YTMxOGY5MTlkMGZjYjI3Y2I5MWZiMjY4NTkzMmJkMDRmMGQxOTlhNzMxMGVhN2FhMDg4YWE0NjNkODdjYzc"
 }

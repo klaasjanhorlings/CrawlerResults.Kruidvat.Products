@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Tom Tailor Cool Mind For Him Eau de Parfum",
   "code": "6302273",
   "price": "16.95",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h3e/h80/33963214503966/prd-front-6302273-1_600x600/prd-front-6302273-1-600x600.jpg"
 }

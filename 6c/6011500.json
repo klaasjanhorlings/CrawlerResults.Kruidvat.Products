@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Melt & Shine Juicy 020 Beach Blossom Lip Balm",
   "code": "6011500",
   "price": "4.69",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "1,3g"
+  "description": "1,3g",
+  "image": "/medias/sys_master/prd-images/h13/he3/29939864535070/prd-front-6011500-1_600x600/prd-front-6011500-1-600x600.jpg"
 }

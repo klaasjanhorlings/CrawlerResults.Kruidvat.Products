@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Poly Palette Intensive Oil-Care Color U71 Puur Zilvergrijs Haarverf",
   "code": "5372956",
   "price": "9.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h29/h21/31763181010974/prd-front-5372956-1_600x600/prd-front-5372956-1-600x600.jpg"
 }

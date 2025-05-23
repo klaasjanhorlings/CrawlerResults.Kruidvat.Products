@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Solait SPF50 Lip Protection Lippenbalsem",
+  "code": "6300544",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3328 > 4232",
+  "supplier": "DELARANGE COSMETICS",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-solait-spf50-lip-protection-lippenbalsem/p/6300544",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/had/hfe/33895267205150/prd-front-6300544-1_600x600/prd-front-6300544-1-600x600.jpg"
+}

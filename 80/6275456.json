@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Fine as Fleck Champagne Showers Glitteroogschaduw",
+  "code": "6275456",
+  "price": "7.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-fine-as-fleck-champagne-showers-glitteroogschaduw/p/6275456",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266596,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30266910,
+      "name": "Mono oogschaduw"
+    }
+  ],
+  "description": "2g",
+  "image": "/medias/sys_master/prd-images/h3a/h46/34039683809310/prd-front-6275456-1_600x600/prd-front-6275456-1-600x600.jpg"
+}

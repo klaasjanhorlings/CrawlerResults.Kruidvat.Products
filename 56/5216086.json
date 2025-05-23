@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat No Ammonia 2.0 Diep Zwart Crème Haarkleuring",
   "code": "5216086",
   "price": "7.49",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hd3/h46/28665299730462/prd-front-5216086-1_600x600/prd-front-5216086-1-600x600.jpg"
+  "description": ""
 }

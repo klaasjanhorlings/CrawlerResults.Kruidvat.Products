@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Laneige Cream Skin Milk Oil Cleanser",
   "code": "6246392",
   "price": "29.0",
@@ -33,8 +33,8 @@
       "name": "Gezichtsreiniging"
     },
     {
-      "id": 50677212,
-      "name": "Reinigingsolie"
+      "id": 30266914,
+      "name": "Reinigingsmelk"
     }
   ],
   "description": "200ml",

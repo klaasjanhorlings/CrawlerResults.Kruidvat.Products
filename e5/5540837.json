@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "1052344",
-  "mmkId": "1052344",
-  "productGroupId": "471150",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-vegan-omega-3-microalgen-capsules/p/5540837",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49792812,
-      "name": "Omega 3"
+      "id": 30266727,
+      "name": "Hart en/of bloedvaten"
     }
   ],
   "description": "60 stuks",

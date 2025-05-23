@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "E.l.f. Fine as Fleck It's Glit Glitteroogschaduw",
+  "code": "6275484",
+  "price": "7.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-fine-as-fleck-its-glit-glitteroogschaduw/p/6275484",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266596,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30266910,
+      "name": "Mono oogschaduw"
+    }
+  ],
+  "description": "2g",
+  "image": "/medias/sys_master/prd-images/h23/h0f/34039854202910/prd-front-6275484-1_600x600/prd-front-6275484-1-600x600.jpg"
+}

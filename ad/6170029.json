@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "My Nailcandy Mini Uv-ledlamp",
   "code": "6170029",
   "price": "7.99",
@@ -29,8 +29,8 @@
       "name": "Nagels"
     },
     {
-      "id": 72476848,
-      "name": "Nagel-ledlamp"
+      "id": 72476685,
+      "name": "Gellak"
     }
   ],
   "description": "",

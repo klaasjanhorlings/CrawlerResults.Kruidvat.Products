@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "E.l.f. Skin Holy Hydration! SPF30 Dagcrème",
+  "code": "6303736",
+  "price": "15.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-skin-holy-hydration-spf30-dagcreme/p/6303736",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "50g",
+  "image": "/medias/sys_master/prd-images/h53/h0c/34090362339358/prd-front-6303736-1_600x600/prd-front-6303736-1-600x600.jpg"
+}

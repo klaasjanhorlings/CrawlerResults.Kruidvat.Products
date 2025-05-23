@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Tweezerman Mini Slant Tweezer",
   "code": "5221994",
   "price": "16.99",
@@ -33,5 +33,6 @@
       "name": "Pincetten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h73/h0e/27398592921630/prd-front-5221994-1_600x600/prd-front-5221994-1-600x600.jpg"
 }
