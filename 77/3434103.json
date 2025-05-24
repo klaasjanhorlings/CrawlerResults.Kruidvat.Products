@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Biodermal Reinigingsmousse",
   "code": "3434103",
   "price": "19.99",
@@ -37,6 +37,5 @@
       "name": "Reinigingsmousse"
     }
   ],
-  "description": "150ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h43/h35/27288621154334/prd-front-3434103-1_600x600/prd-front-3434103-1-600x600.jpg"
+  "description": "150ml - Alle huidtypen"
 }

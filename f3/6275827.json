@@ -1,7 +1,7 @@
 {
   "type": "product",
-  "currency": "USD",
-  "itemName": "E.l.f. Power Grip Niacinamide Primer",
+  "currency": "EUR",
+  "itemName": "e.l.f. Power Grip Niacinamide Primer",
   "code": "6275827",
   "price": "12.0",
   "priceOriginal": "",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "24ml"
+  "description": "24ml",
+  "image": "/medias/sys_master/prd-images/he9/he1/34026626187294/prd-front-6275827-1_600x600/prd-front-6275827-1-600x600.jpg"
 }

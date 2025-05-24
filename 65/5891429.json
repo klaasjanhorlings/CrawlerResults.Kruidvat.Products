@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Cellular Luminous630 Anti-Age & Anti-Spot Serum",
   "code": "5891429",
   "price": "43.99",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml - Rijpe huid"
+  "description": "30ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h27/hcc/32906501488670/prd-front-5891429-1_600x600/prd-front-5891429-1-600x600.jpg"
 }

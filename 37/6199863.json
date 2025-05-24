@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Beauty of Joseon Glow Deep Serum",
   "code": "6199863",
   "price": "20.9",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h2d/h9d/32251199389726/prd-front-6199863-1_600x600/prd-front-6199863-1-600x600.jpg"
 }

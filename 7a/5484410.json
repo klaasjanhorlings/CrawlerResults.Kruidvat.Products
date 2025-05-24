@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Wear It Nude 020 Medium Under Eye Cushion Concealer",
   "code": "5484410",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "3ml",
-  "image": "/medias/sys_master/prd-images/hf7/h63/27622156730398/prd-front-5484410-1_600x600/prd-front-5484410-1-600x600.jpg"
+  "description": "3ml"
 }

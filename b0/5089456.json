@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Magic Retouch Dark Roots Lichtblond Uitgroeispray",
   "code": "5089456",
   "price": "13.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h34/ha5/31776584106014/prd-front-5089456-1_600x600/prd-front-5089456-1-600x600.jpg"
+  "description": "75ml"
 }

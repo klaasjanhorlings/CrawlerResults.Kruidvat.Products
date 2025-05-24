@@ -29,13 +29,14 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266706,
-      "name": "Pijn"
+      "id": 30266708,
+      "name": "Spieren en gewrichten"
     },
     {
-      "id": 30266971,
-      "name": "Diclofenac"
+      "id": 30266977,
+      "name": "Spier- en gewrichtsbalsems"
     }
   ],
-  "description": "Geneesmiddel - 120g"
+  "description": "Geneesmiddel - 120g",
+  "image": "/medias/sys_master/prd-images/he9/h6b/32353236647966/prd-front-4125262-1_600x600/prd-front-4125262-1-600x600.jpg"
 }

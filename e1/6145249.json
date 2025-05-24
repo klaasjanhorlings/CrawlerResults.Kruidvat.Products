@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hero Mighty Patch The Original",
   "code": "6145249",
   "price": "8.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "ASPIRE BRANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Verzorging probleemhuid"
     }
   ],
-  "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/hf1/h4d/31438432960542/prd-front-6145249-1_600x600/prd-front-6145249-1-600x600.jpg"
+  "description": "24 stuks"
 }

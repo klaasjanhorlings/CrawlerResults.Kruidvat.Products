@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 5.75 Donker Mahonie Crème Haarkleuring",
   "code": "660576",
   "price": "6.49",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h30/h4f/28668590227486/prd-front-660576-1_600x600/prd-front-660576-1-600x600.jpg"
+  "description": ""
 }

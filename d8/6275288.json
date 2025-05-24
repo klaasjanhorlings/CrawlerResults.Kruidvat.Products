@@ -1,7 +1,7 @@
 {
   "type": "product",
-  "currency": "USD",
-  "itemName": "E.l.f. Squeeze Me Strawberry Lipbalm",
+  "currency": "EUR",
+  "itemName": "e.l.f. Squeeze Me Strawberry Lipbalm",
   "code": "6275288",
   "price": "5.0",
   "priceOriginal": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "6g",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h96/h42/34326517153822/prd-front-6275288-1_600x600/prd-front-6275288-1-600x600.jpg"
 }

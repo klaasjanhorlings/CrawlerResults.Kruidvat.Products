@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Magic Shaper 10 Holy Grail Face Cream Palette",
   "code": "6011647",
   "price": "6.69",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266589,
-      "name": "Highlighter"
+      "id": 30266591,
+      "name": "Contour"
     }
   ],
   "description": "6g",

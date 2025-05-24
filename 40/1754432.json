@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Ultra Sensitive Reinigingsmelk 2 in 1",
   "code": "1754432",
   "price": "2.19",
@@ -37,6 +37,5 @@
       "name": "Reinigingsmelk"
     }
   ],
-  "description": "250ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h05/hf6/33929006841886/prd-front-1754432-1_600x600/prd-front-1754432-1-600x600.jpg"
+  "description": "250ml - Gevoelige huid"
 }

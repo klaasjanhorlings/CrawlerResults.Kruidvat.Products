@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Gucci Flora Gorgeous Jasmine 5 Eau de Parfum",
   "code": "6114484",
   "price": "89.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h4c/h85/31060324876318/prd-front-6114484-1_600x600/prd-front-6114484-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Schwarzkopf Poly Palette 800 Donkerbruin Haarkleuring",
   "code": "647353",
   "price": "9.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hcf/h47/31766691643422/prd-front-647353-1_600x600/prd-front-647353-1-600x600.jpg"
+  "description": ""
 }

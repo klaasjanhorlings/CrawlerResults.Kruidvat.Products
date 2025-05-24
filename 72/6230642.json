@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Buttermelt Glaze 3 Cashew Butta Skin Tint",
   "code": "6230642",
   "price": "14.95",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hd2/he0/33641046507550/prd-front-6230642-1_600x600/prd-front-6230642-1-600x600.jpg"
+  "description": "30ml"
 }

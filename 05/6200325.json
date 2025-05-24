@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cosrx Salicylic Acid Gentle Cleanser",
   "code": "6200325",
   "price": "12.0",
@@ -37,5 +37,6 @@
       "name": "Reinigingslotion"
     }
   ],
-  "description": "150ml - Alle huidtypen"
+  "description": "150ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h93/h7e/32249175801886/prd-front-6200325-1_600x600/prd-front-6200325-1-600x600.jpg"
 }

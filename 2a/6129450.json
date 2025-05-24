@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Can't Stop Won't Stop 07 Natural Full Coverage Foundation",
   "code": "6129450",
   "price": "16.95",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h80/hfd/31925411348510/prd-front-6129450-1_600x600/prd-front-6129450-1-600x600.jpg"
 }

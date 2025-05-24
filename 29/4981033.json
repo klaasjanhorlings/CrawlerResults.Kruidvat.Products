@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Originals Vitamine C Nachtcrème",
   "code": "4981033",
   "price": "2.99",
@@ -33,6 +33,5 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "100ml - Alle huidtypen",
-  "image": "/medias/prd-front-4981033-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzcxNTV8aW1hZ2UvanBlZ3xhRFprTDJoaFl5OHhOelEwTlRJNE9USTVOVGt3TWk5d2NtUXRabkp2Ym5RdE5EazRNVEF6TXkweFh6WXdNSGcyTURBfGYxODg2OTBlYmQwZjVhOTQ0MzEwOGE4M2Y0NWU3ZGFjYzZiNjc5NTYzY2Q3YzUwNTc0YWM3MTU0NDZiOWNiNzE"
+  "description": "100ml - Alle huidtypen"
 }

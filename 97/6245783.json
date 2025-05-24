@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Stay & Play 01 Black Gel Eyeliner Pot",
   "code": "6245783",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "5g",
-  "image": "/medias/sys_master/prd-images/h60/hfb/33337541722142/prd-front-6245783-1_600x600/prd-front-6245783-1-600x600.jpg"
+  "description": "5g"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "CeraVe Hydrating Foaming Oil Cleanser",
+  "code": "5936369",
+  "price": "14.55",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
+  "supplier": "LOREAL NED B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cerave-hydrating-foaming-oil-cleanser/p/5936369",
+  "listName": "Lister",
+  "brand": "CeraVe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677212,
+      "name": "Reinigingsolie"
+    }
+  ],
+  "description": "236ml",
+  "image": "/medias/sys_master/prd-images/h5c/h54/34326487662622/prd-front-5936369-1_600x600/prd-front-5936369-1-600x600.jpg"
+}

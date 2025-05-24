@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice 010 Black Glam & Doll Waterproof Volume Mascara",
   "code": "2865738",
   "price": "4.49",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h8f/h7e/32743430684702/prd-front-2865738-1_600x600/prd-front-2865738-1-600x600.jpg"
+  "description": ""
 }

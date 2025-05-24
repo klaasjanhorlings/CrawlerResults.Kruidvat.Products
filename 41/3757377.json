@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Revitalift Serum",
   "code": "3757377",
   "price": "22.99",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml - Normale en rijpe huid",
-  "image": "/medias/sys_master/prd-images/h9f/h9f/28802998698014/prd-front-3757377-1_600x600/prd-front-3757377-1-600x600.jpg"
+  "description": "30ml - Normale en rijpe huid"
 }

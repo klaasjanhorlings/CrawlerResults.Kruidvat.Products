@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 8H Matte Comfort 14 Because It's Iconic Lipliner",
   "code": "6123031",
   "price": "1.99",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "3g"
+  "description": "3g",
+  "image": "/medias/sys_master/prd-images/h87/hf4/31477459943454/prd-front-6123031-1_600x600/prd-front-6123031-1-600x600.jpg"
 }

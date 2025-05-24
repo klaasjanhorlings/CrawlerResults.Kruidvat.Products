@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Bare 08 With Me Sand Concealer Serum",
   "code": "6129646",
   "price": "11.95",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he6/hed/31925416460318/prd-front-6129646-1_600x600/prd-front-6129646-1-600x600.jpg"
+  "description": ""
 }

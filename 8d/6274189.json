@@ -1,7 +1,7 @@
 {
   "type": "product",
-  "currency": "USD",
-  "itemName": "E.l.f. Fair Rose Hydrating Camo Concealer Satin Finish",
+  "currency": "EUR",
+  "itemName": "e.l.f. Fair Rose Hydrating Camo Concealer Satin Finish",
   "code": "6274189",
   "price": "8.0",
   "priceOriginal": "",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "6ml",
-  "image": "/medias/sys_master/prd-images/heb/h08/34023143538718/prd-front-6274189-1_600x600/prd-front-6274189-1-600x600.jpg"
+  "description": "6ml"
 }

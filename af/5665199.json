@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Gel Nail Colour 47 Pink Ink Nagellak",
   "code": "5665199",
   "price": "1.99",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/he9/hce/30121262514206/prd-front-5665199-1_600x600/prd-front-5665199-1-600x600.jpg"
 }

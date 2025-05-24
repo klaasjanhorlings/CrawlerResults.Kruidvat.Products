@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hugo Boss Orange Woman Eau de Toilette",
   "code": "3969827",
   "price": "33.99",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/prd-front-3969827-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTM0OTh8aW1hZ2UvanBlZ3xhR1ZrTDJneU5DOHlOekEyTlRJNE1URTFNVEF3Tmk5d2NtUXRabkp2Ym5RdE16azJPVGd5TnkweFh6WXdNSGcyTURBfGQ3ZWMyYmVjNTg0YTZlMGY2YTk2YTUxY2U3MTAwZmQzNjIyMDZiNmQ2Mjg1MjAwZjlkNjYyMDljMjk4NDkwZTA"
+  "description": "75ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Skin Science Instant Effect Eye Serum",
   "code": "4542931",
   "price": "8.99",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "2,5ml",
-  "image": "/medias/prd-front-4542931-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDkwMDd8aW1hZ2UvanBlZ3xhRGRrTDJneVppOHhOekl5TnpRNE1qYzFPVEU1T0M5d2NtUXRabkp2Ym5RdE5EVTBNamt6TVMweFh6WXdNSGcyTURBfGM0YWY5ZTU2MDIwOTY0MDJlYjBmNDVjY2UwMDQyMDcxY2MzNWMzZjI2NmJhNTk1ZmY4M2FkMTJjZDg3ZjIxZjQ"
+  "description": "2,5ml"
 }

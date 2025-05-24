@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Amando Mystery Geschenkset",
   "code": "6296834",
   "price": "14.99",
@@ -25,6 +25,5 @@
       "name": "Parfum geschenkset voor hem"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hfa/h1b/34326135078942/prd-front-6296834-1_600x600/prd-front-6296834-1-600x600.jpg"
+  "description": ""
 }

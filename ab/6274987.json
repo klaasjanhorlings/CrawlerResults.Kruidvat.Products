@@ -1,7 +1,7 @@
 {
   "type": "product",
-  "currency": "USD",
-  "itemName": "E.l.f. Halo Glow Contour Fair/Light Beauty Wand",
+  "currency": "EUR",
+  "itemName": "e.l.f. Halo Glow Contour Fair/Light Beauty Wand",
   "code": "6274987",
   "price": "10.0",
   "priceOriginal": "",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266591,
-      "name": "Contour"
+      "id": 30266588,
+      "name": "Bronzer"
     }
   ],
   "description": "10ml",

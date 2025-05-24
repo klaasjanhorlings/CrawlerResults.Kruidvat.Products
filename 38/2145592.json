@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier Nutrisse Ultra Color 6.60 Vurig Rood Permanente Haarkleuring",
   "code": "2145592",
   "price": "15.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h85/h21/31776537444382/prd-front-2145592-1_600x600/prd-front-2145592-1-600x600.jpg"
+  "description": ""
 }

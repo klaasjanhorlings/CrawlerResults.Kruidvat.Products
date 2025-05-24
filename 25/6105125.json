@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Colour Flush 010 Pretty in Pink PH-Reactive Multi Stick",
   "code": "6105125",
   "price": "4.99",
@@ -29,8 +29,12 @@
       "name": "Make-up"
     },
     {
-      "id": 30266590,
-      "name": "Blush"
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
     }
   ],
   "description": "5g",

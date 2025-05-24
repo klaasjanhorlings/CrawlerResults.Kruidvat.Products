@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat High Gloss 190 Pink Peacock Nail Color",
   "code": "5422201",
   "price": "3.49",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/prd-front-5422201-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTc1Mzh8aW1hZ2UvanBlZ3xhRGt5TDJnNU5pOHhOak0yTlRFME56a3hOREkzTUM5d2NtUXRabkp2Ym5RdE5UUXlNakl3TVMweFh6WXdNSGcyTURBfGUyMDBiOWRmYWQ2YmE1MTQ3ZmRmOTRhZDlkZDQ2ODBiYjUzODgzZDc3YjllYjg4ODZlZTY5ZGYyZjg5YmRkZWE"
+  "description": "10ml"
 }

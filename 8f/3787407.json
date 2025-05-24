@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier PureActive 3-In-1 Anti-Mee-Eters Gezichtsreiniger met Charcoal",
   "code": "3787407",
   "price": "9.99",
@@ -37,6 +37,5 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "150ml - Vette en onzuivere huid",
-  "image": "/medias/sys_master/prd-images/h38/h5c/30207568773150/prd-front-3787407-1_600x600/prd-front-3787407-1-600x600.jpg"
+  "description": "150ml - Vette en onzuivere huid"
 }

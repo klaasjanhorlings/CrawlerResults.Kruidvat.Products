@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 8H Matte Comfort 04 Lipliner",
   "code": "5731265",
   "price": "1.99",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h8f/hab/33333901262878/prd-front-5731265-1_600x600/prd-front-5731265-1-600x600.jpg"
 }

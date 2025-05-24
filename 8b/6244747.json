@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Biodermal Glow Exfoliant 5% AHA + 5% PHA Lotion",
   "code": "6244747",
   "price": "29.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h58/hd6/34331396440094/prd-front-6244747-1_600x600/prd-front-6244747-1-600x600.jpg"
 }

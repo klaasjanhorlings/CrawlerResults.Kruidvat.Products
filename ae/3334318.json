@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Issey Miyake Pleats Please Eau de Toilette",
   "code": "3334318",
   "price": "25.99",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h20/hb6/27500404244510/prd-front-3334318-1_600x600/prd-front-3334318-1-600x600.jpg"
+  "description": "50ml"
 }

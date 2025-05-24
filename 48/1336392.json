@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier Pure Active Anti-Puistjes 3-in-1 Klei",
   "code": "1336392",
   "price": "9.99",
@@ -37,6 +37,5 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "150ml - Onzuivere huid",
-  "image": "/medias/sys_master/prd-images/hf3/h43/30207563530270/prd-front-1336392-1_600x600/prd-front-1336392-1-600x600.jpg"
+  "description": "150ml - Onzuivere huid"
 }

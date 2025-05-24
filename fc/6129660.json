@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup 12 Bare With Me Rich Concealer Serum",
   "code": "6129660",
   "price": "11.95",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h58/h84/31922026151966/prd-front-6129660-1_600x600/prd-front-6129660-1-600x600.jpg"
 }

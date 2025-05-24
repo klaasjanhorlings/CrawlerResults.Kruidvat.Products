@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier Olia 4.15 IJs Kastanje Middenbruin Permanente Haarkleuring",
   "code": "2745401",
   "price": "15.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h73/h35/33362768986142/prd-front-2745401-1_600x600/prd-front-2745401-1-600x600.jpg"
+  "description": ""
 }

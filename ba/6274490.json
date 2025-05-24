@@ -1,7 +1,7 @@
 {
   "type": "product",
-  "currency": "USD",
-  "itemName": "E.l.f. Halo Glow 8.5 Rich Liquid Filter",
+  "currency": "EUR",
+  "itemName": "e.l.f. Halo Glow 8.5 Rich Liquid Filter",
   "code": "6274490",
   "price": "16.0",
   "priceOriginal": "",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "31,5ml"
+  "description": "31,5ml",
+  "image": "/medias/sys_master/prd-images/hd1/h87/34021555863582/prd-front-6274490-1_600x600/prd-front-6274490-1-600x600.jpg"
 }

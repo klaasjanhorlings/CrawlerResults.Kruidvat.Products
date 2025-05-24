@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Préférence 7.4 Dublin Permanente Haarkleuring",
   "code": "1357322",
   "price": "22.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hea/h5c/32291832528926/prd-front-1357322-1_600x600/prd-front-1357322-1-600x600.jpg"
+  "description": ""
 }

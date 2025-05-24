@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence 20 Contouring Foundation Duo Palet",
   "code": "4914638",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Contour"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h4f/h89/30119008108574/prd-front-4914638-1_600x600/prd-front-4914638-1-600x600.jpg"
+  "description": ""
 }

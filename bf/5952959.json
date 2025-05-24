@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Medium/Dark Glam Sculpting Liquid Contour",
   "code": "5952959",
   "price": "5.49",
@@ -33,5 +33,6 @@
       "name": "Contour"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/ha5/ha4/28939732811806/prd-front-5952959-1_600x600/prd-front-5952959-1-600x600.jpg"
 }

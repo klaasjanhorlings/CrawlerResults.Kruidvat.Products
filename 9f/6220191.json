@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Olay Total Effects 7-in-1 SPF30 Dagcrème Keith Haring Artist Edition",
   "code": "6220191",
   "price": "29.99",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h10/h2d/33539030155294/prd-front-6220191-1_600x600/prd-front-6220191-1-600x600.jpg"
 }

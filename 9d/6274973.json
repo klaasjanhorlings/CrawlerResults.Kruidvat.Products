@@ -1,7 +1,7 @@
 {
   "type": "product",
-  "currency": "USD",
-  "itemName": "E.l.f. Halo Glow Contour Deep/Rich Beauty Wand",
+  "currency": "EUR",
+  "itemName": "e.l.f. Halo Glow Contour Deep/Rich Beauty Wand",
   "code": "6274973",
   "price": "10.0",
   "priceOriginal": "",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266588,
-      "name": "Bronzer"
+      "id": 30266591,
+      "name": "Contour"
     }
   ],
   "description": "10ml",

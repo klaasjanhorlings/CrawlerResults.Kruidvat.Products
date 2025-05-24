@@ -1,7 +1,7 @@
 {
   "type": "product",
-  "currency": "USD",
-  "itemName": "E.l.f. Halo Glow SPF50 9 Medium Cool Skin Tint",
+  "currency": "EUR",
+  "itemName": "e.l.f. Halo Glow SPF50 9 Medium Cool Skin Tint",
   "code": "6275771",
   "price": "20.0",
   "priceOriginal": "",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hcf/h93/34282681401374/prd-front-6275771-1_600x600/prd-front-6275771-1-600x600.jpg"
+  "description": "30ml"
 }

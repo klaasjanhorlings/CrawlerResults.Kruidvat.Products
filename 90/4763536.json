@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Magic BB Very Light 5-in-1 Transforming Skin Corrector",
   "code": "4763536",
   "price": "16.99",
@@ -33,6 +33,5 @@
       "name": "CC cream"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/ha2/h9c/31774903566366/prd-front-4763536-1_600x600/prd-front-4763536-1-600x600.jpg"
+  "description": "30ml"
 }

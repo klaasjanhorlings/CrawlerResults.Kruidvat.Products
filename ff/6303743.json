@@ -1,7 +1,7 @@
 {
   "type": "product",
-  "currency": "USD",
-  "itemName": "E.l.f. Skin Holy Hydration! Oogcrème",
+  "currency": "EUR",
+  "itemName": "e.l.f. Skin Holy Hydration! Oogcrème",
   "code": "6303743",
   "price": "12.0",
   "priceOriginal": "",
@@ -37,5 +37,6 @@
       "name": "Oogmaskers"
     }
   ],
-  "description": "15g"
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/hc0/hdc/34089267298334/prd-front-6303743-1_600x600/prd-front-6303743-1-600x600.jpg"
 }

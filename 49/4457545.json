@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Wow! 20 Camouflage+ Matt Concealer",
   "code": "4457545",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcf/hba/33045968519198/prd-front-4457545-1_600x600/prd-front-4457545-1-600x600.jpg"
 }

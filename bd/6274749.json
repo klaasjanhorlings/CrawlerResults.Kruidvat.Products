@@ -1,7 +1,7 @@
 {
   "type": "product",
-  "currency": "USD",
-  "itemName": "E.l.f. Soft Glam 12 Fair Warm Satin Foundation",
+  "currency": "EUR",
+  "itemName": "e.l.f. Soft Glam 12 Fair Warm Satin Foundation",
   "code": "6274749",
   "price": "9.0",
   "priceOriginal": "",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h6b/h47/34020698947614/prd-front-6274749-1_600x600/prd-front-6274749-1-600x600.jpg"
 }

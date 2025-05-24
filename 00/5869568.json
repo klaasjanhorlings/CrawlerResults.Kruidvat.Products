@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "CeraVe Foaming Cleanser",
+  "code": "5869568",
+  "price": "19.6",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
+  "supplier": "L.B. 16 BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cerave-foaming-cleanser/p/5869568",
+  "listName": "Lister",
+  "brand": "CeraVe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266915,
+      "name": "Reinigingsgel"
+    }
+  ],
+  "description": "473ml - Normale tot gemengde huid",
+  "image": "/medias/sys_master/prd-images/hb6/ha0/34327205838878/prd-front-5869568-1_600x600/prd-front-5869568-1-600x600.jpg"
+}

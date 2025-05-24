@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Infaillible 24H Brow 7.0 Blonde Filling Triangular Pencil",
   "code": "5783244",
   "price": "13.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "1ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/hff/h3f/34326487072798/prd-front-5783244-1_600x600/prd-front-5783244-1-600x600.jpg"
 }

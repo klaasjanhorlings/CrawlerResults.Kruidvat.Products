@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Zuiverende Clear-Up Strips",
   "code": "1301427",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Pimple patches"
     }
   ],
-  "description": "6 stuks"
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/hff/h6d/32903685898270/prd-front-1301427-1_600x600/prd-front-1301427-1-600x600.jpg"
 }

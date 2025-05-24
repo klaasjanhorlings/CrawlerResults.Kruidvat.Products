@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Mylaq My Modern Graphite Uv Gellak",
   "code": "6032997",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h34/hd0/33002264985630/prd-front-6032997-1_600x600/prd-front-6032997-1-600x600.jpg"
+  "description": "5ml"
 }

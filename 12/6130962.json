@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Lingerie XXL 02 Turn On Lippenstift",
   "code": "6130962",
   "price": "10.95",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h27/h6d/31931298218014/prd-front-6130962-1_600x600/prd-front-6130962-1-600x600.jpg"
+  "description": ""
 }
