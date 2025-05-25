@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mycosan Kalknagel Behandelset",
   "code": "1873894",
   "price": "26.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 5ml",
-  "image": "/medias/sys_master/prd-images/ha7/h95/34325653192734/prd-front-1873894-1_600x600/prd-front-1873894-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha4/hf6/34335606997022/prd-front-1873894-1_600x600/prd-front-1873894-1-600x600.jpg"
 }

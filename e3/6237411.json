@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
   "supplier": "RUBY-TOYS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Speelsets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h38/hdd/32897705836574/prd-front-6237411-1_600x600/prd-front-6237411-1-600x600.jpg"
+  "description": ""
 }

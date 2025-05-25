@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Mylaq My Modern Blue Uv Gellak",
-  "code": "6033088",
+  "itemName": "Mylaq My Deep Rouge Gellak",
+  "code": "5871752",
   "price": "6.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
+  "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 6505 > 6506",
   "supplier": "COSMO GROUP SP. Z O.O.",
   "inStock": "inStock",
   "onPromo": "1012132",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/mylaq-my-modern-blue-uv-gellak/p/6033088",
+  "url": "/mylaq-my-deep-rouge-gellak/p/5871752",
   "listName": "Lister",
   "brand": "Mylaq",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h63/h6b/33001369305118/prd-front-6033088-1_600x600/prd-front-6033088-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h16/h6b/33001359114270/prd-front-5871752-1_600x600/prd-front-5871752-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Natterman Voor Alle Hoest Kindersiroop",
   "code": "3662926",
   "price": "15.19",
@@ -37,6 +37,5 @@
       "name": "Hoestdrank"
     }
   ],
-  "description": "Medisch hulpmiddel - 180ml",
-  "image": "/medias/sys_master/prd-images/h39/hae/32897017970718/prd-front-3662926-1_600x600/prd-front-3662926-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 180ml"
 }

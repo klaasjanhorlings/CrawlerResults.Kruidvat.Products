@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Strepsils Citroen & Honing Zuigtabletten",
   "code": "505225",
   "price": "9.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Geneesmiddel - 36 stuks",
-  "image": "/medias/sys_master/prd-images/hec/hf5/34326476193822/prd-front-505225-1_600x600/prd-front-505225-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h42/had/34339452354590/prd-front-505225-1_600x600/prd-front-505225-1-600x600.jpg"
 }

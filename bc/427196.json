@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Drop Siroop",
   "code": "427196",
   "price": "3.79",
@@ -37,5 +37,6 @@
       "name": "Keelsiropen"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hb1/h10/29034639130654/prd-front-427196-1_600x600/prd-front-427196-1-600x600.jpg"
 }

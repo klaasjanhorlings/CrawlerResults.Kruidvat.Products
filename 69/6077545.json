@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Vitamine B12 & Foliumzuur Tabletten",
   "code": "6077545",
   "price": "12.99",
@@ -37,5 +37,6 @@
       "name": "Vitamine B"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h4c/h1e/30650235584542/prd-front-6077545-1_600x600/prd-front-6077545-1-600x600.jpg"
 }

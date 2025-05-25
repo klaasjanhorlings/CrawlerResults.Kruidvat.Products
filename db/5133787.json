@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bepanthen 4-in-1 Wondgel",
   "code": "5133787",
   "price": "10.89",
@@ -33,5 +33,6 @@
       "name": "EHBO-doos"
     }
   ],
-  "description": "Medisch hulpmiddel - 50g"
+  "description": "Medisch hulpmiddel - 50g",
+  "image": "/medias/sys_master/prd-images/hed/ha6/31287448010782/prd-front-5133787-1_600x600/prd-front-5133787-1-600x600.jpg"
 }

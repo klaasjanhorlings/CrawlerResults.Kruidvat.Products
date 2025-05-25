@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Leefvitaal Cranberry + Probiotica Capsules",
   "code": "5425113",
   "price": "17.99",
@@ -33,6 +33,5 @@
       "name": "Cranberrysupplementen"
     }
   ],
-  "description": "70 stuks",
-  "image": "/medias/sys_master/prd-images/hcb/hfe/29571141074974/prd-front-5425113-1_600x600/prd-front-5425113-1-600x600.jpg"
+  "description": "70 stuks"
 }

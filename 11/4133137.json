@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Physiomer Normal Jet Neusspray",
   "code": "4133137",
   "price": "14.49",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 135ml",
-  "image": "/medias/sys_master/prd-images/h6b/h63/34327651418142/prd-front-4133137-1_600x600/prd-front-4133137-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h69/h24/34336609632286/prd-front-4133137-1_600x600/prd-front-4133137-1-600x600.jpg"
 }

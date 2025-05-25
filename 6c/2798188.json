@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Chocolade Crunch Maaltijdreep",
   "code": "2798188",
   "price": "1.49",
@@ -33,6 +33,5 @@
       "name": "Maaltijdvervangers"
     }
   ],
-  "description": "58g",
-  "image": "/medias/prd-front-2798188-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTg3Mjh8aW1hZ2UvanBlZ3xhRGMyTDJobE1TOHlOamt4TkRVek9ERTJNREUxT0M5d2NtUXRabkp2Ym5RdE1qYzVPREU0T0MweFh6WXdNSGcyTURBfGNjNmM1YmJlYzM2ZTBmYWFhMjE0ZWQ3OTQzYTdlOTk1MWE0NTBiM2U3MzE5NzgwOWYyYTAzYTMzZjY2YzljZTI"
+  "description": "58g"
 }
