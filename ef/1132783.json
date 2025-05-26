@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dr. Scholl's Gelbeschermer voor Vingers en Tenen",
   "code": "1132783",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Hulpmiddelen voetproblemen"
     }
   ],
-  "description": "Medisch hulpmiddel",
-  "image": "/medias/sys_master/prd-images/hbc/hd7/28024002773022/prd-front-1132783-1_600x600/prd-front-1132783-1-600x600.jpg"
+  "description": "Medisch hulpmiddel"
 }

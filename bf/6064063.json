@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1052096",
-  "mmkId": "1052096",
-  "productGroupId": "462773",
+  "onPromo": "1052630",
+  "mmkId": "1052630",
+  "productGroupId": "478026",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/prodent-complete-bescherming-tandpasta/p/6064063",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h09/h5e/31295669174302/prd-front-6064063-1_600x600/prd-front-6064063-1-600x600.jpg"
 }

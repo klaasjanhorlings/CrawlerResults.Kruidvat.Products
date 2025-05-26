@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mokken",
+  "code": "6257165",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/mokken/p/6257165",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 80863512,
+      "name": "Servies"
+    },
+    {
+      "id": 84926195,
+      "name": "Kopjes en mokken"
+    }
+  ],
+  "description": "beige, 2 x 320ml",
+  "image": "/medias/sys_master/prd-images/h70/hf4/34317233618974/prd-front-6257165-1_600x600/prd-front-6257165-1-600x600.jpg"
+}

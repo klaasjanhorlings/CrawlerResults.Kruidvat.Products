@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1052583",
+  "mmkId": "1052583",
+  "productGroupId": "474447",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-camo-hot-pink-liquid-blush/p/6272264",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "4ml"
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h4b/h67/34021553045534/prd-front-6272264-1_600x600/prd-front-6272264-1-600x600.jpg"
 }

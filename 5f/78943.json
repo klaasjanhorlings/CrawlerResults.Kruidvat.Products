@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1052142",
-  "mmkId": "1052142",
-  "productGroupId": "473106",
+  "onPromo": "1052575",
+  "mmkId": "1052575",
+  "productGroupId": "473138",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/diadermine-lift-hydratant-dagcreme/p/78943",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/he1/hd2/30565868732446/prd-front-78943-1_600x600/prd-front-78943-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bional Nachtrust Valeriaan Forte** Capsules",
   "code": "1691859",
   "price": "19.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "OCE BIO NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1052134",
-  "mmkId": "1052134",
-  "productGroupId": "472703",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bional-nachtrust-valeriaan-forte-capsules/p/1691859",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h4a/he6/34335517933598/prd-front-1691859-1_600x600/prd-front-1691859-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h10/h23/34344278753310/prd-front-1691859-1_600x600/prd-front-1691859-1-600x600.jpg"
 }

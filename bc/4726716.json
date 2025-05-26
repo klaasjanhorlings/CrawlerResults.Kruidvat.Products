@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052586",
+  "mmkId": "1052586",
+  "productGroupId": "474526",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-hydro-boost-nachtcreme/p/4726716",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h7c/hb0/34347382407198/prd-front-4726716-1_600x600/prd-front-4726716-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Mycosan Wrattentinctuur",
   "code": "6239350",
   "price": "16.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6458 > 6457",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1052480",
+  "mmkId": "1052480",
+  "productGroupId": "461505",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/mycosan-wrattentinctuur/p/6239350",
@@ -37,5 +37,6 @@
       "name": "Wrattenbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 2ml"
+  "description": "Medisch hulpmiddel - 2ml",
+  "image": "/medias/sys_master/prd-images/h9b/he3/34325284814878/prd-front-6239350-1_600x600/prd-front-6239350-1-600x600.jpg"
 }

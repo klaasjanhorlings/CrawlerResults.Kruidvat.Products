@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sinaspril Vloeibaar Paracetamol",
   "code": "739677",
   "price": "7.49",
@@ -37,5 +37,6 @@
       "name": "Pijnstiller"
     }
   ],
-  "description": "Geneesmiddel - 100ml"
+  "description": "Geneesmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/h5c/hdd/32164461051934/prd-front-739677-1_600x600/prd-front-739677-1-600x600.jpg"
 }

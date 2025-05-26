@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hansaplast Sensitive Kids Pleisters",
   "code": "5414809",
   "price": "4.89",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3032 > 3774",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1052095",
-  "mmkId": "1052095",
-  "productGroupId": "462060",
+  "onPromo": "1052482",
+  "mmkId": "1052482",
+  "productGroupId": "462064",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-sensitive-kids-pleisters/p/5414809",
@@ -37,6 +37,5 @@
       "name": "Sensitive pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 1m x 6cm",
-  "image": "/medias/sys_master/prd-images/h50/h12/31942514999326/prd-front-5414809-1_600x600/prd-front-5414809-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 1m x 6cm"
 }

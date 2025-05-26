@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon Multi Vrouw 50+ Tabletten",
   "code": "5932757",
   "price": "22.99",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hf1/h06/31457929855006/prd-front-5932757-1_600x600/prd-front-5932757-1-600x600.jpg"
 }

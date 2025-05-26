@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Invisible Damespants",
+  "code": "5462234",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6619 > 2001",
+  "supplier": "L. TEN CATE BV",
+  "inStock": "inStock",
+  "onPromo": "1052660",
+  "mmkId": "1052660",
+  "productGroupId": "478343",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-invisible-damespants/p/5462234",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266842,
+      "name": "Damesondergoed"
+    }
+  ],
+  "description": "zwart, mt L",
+  "image": "/medias/sys_master/prd-images/h86/haf/27501577142302/prd-front-5462234-1_600x600/prd-front-5462234-1-600x600.jpg"
+}

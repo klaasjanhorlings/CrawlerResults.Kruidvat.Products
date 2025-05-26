@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1052583",
+  "mmkId": "1052583",
+  "productGroupId": "474447",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-light-beige-hydrating-camo-concealer-satin-finish/p/6274315",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "6ml"
+  "description": "6ml",
+  "image": "/medias/sys_master/prd-images/hb4/h0a/34020973150238/prd-front-6274315-1_600x600/prd-front-6274315-1-600x600.jpg"
 }

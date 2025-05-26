@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "GluconCombi Glucosamine Chondroïtine/MSM+ Mangaan Tabletten",
   "code": "2042524",
   "price": "21.29",
@@ -33,5 +33,6 @@
       "name": "Glucosamine"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/prd-front-2042524-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODU1ODh8aW1hZ2UvanBlZ3xhRGhrTDJnNFppOHhOak00TVRRME5ETTVNRGswTWk5d2NtUXRabkp2Ym5RdE1qQTBNalV5TkMweFh6WXdNSGcyTURBfDIxNjhkZjM5MzlkNmFmYjQwNzU2NzczMGYwOWZkNjViZTJhZjAwZGUyMjRkY2Q4YjVhYTc5M2ZjMThiZmY2ZTk"
 }

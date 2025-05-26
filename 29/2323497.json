@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Zalfgaasjes",
   "code": "2323497",
   "price": "2.69",
@@ -33,6 +33,5 @@
       "name": "Steriele gaasjes"
     }
   ],
-  "description": "Medisch hulpmiddel - 7,5cm x 10cm, 6 stuks",
-  "image": "/medias/sys_master/prd-images/he6/hd5/30076302983198/prd-front-2323497-1_600x600/prd-front-2323497-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 7,5cm x 10cm, 6 stuks"
 }

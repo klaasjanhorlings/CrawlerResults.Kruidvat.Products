@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "SoreFix Aften Plus Gel",
   "code": "6080681",
   "price": "12.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 7ml",
-  "image": "/medias/sys_master/prd-images/h4e/h06/34343799128094/prd-front-6080681-1_600x600/prd-front-6080681-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6a/h10/34352314318878/prd-front-6080681-1_600x600/prd-front-6080681-1-600x600.jpg"
 }

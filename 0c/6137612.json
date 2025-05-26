@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1052228",
-  "mmkId": "1052228",
-  "productGroupId": "478178",
+  "onPromo": "1052654",
+  "mmkId": "1052654",
+  "productGroupId": "478183",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-men-expert-power-age-serum-met-hyaluronzuur/p/6137612",
@@ -33,5 +33,6 @@
       "name": "Gezichtsserum mannen"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h17/h27/32535640604702/prd-front-6137612-1_600x600/prd-front-6137612-1-600x600.jpg"
 }

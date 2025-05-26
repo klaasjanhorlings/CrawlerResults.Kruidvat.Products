@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bronchostop Direct Nacht 5-in-1 Hoestdrank",
   "code": "5505620",
   "price": "17.79",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1052697",
+  "mmkId": "1052697",
+  "productGroupId": "490673",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bronchostop-direct-nacht-5-in-1-hoestdrank/p/5505620",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 120ml",
-  "image": "/medias/sys_master/prd-images/h02/h29/34339773120542/prd-front-5505620-1_600x600/prd-front-5505620-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h70/h20/34348402343966/prd-front-5505620-1_600x600/prd-front-5505620-1-600x600.jpg"
 }

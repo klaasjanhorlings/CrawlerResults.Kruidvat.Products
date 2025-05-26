@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "BMEDCARE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052698",
+  "mmkId": "1052698",
+  "productGroupId": "490826",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dermolin-facewash/p/5807716",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-5807716-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjEwMDd8aW1hZ2UvanBlZ3xhRGhtTDJobFlpOHlOalE1TWprMk1qTXdPREV5Tmk5d2NtUXRabkp2Ym5RdE5UZ3dOemN4TmkweFh6WXdNSGcyTURBfDYzZjI0OWRkOTkwYzM4YTI3MWRlMDAwMGY1NDMxZTU3ZDMzNDYwYzY0YjBkZWRjNmJjYTRhMDU5MDJmMmZhNGI"
+  "description": "100ml"
 }

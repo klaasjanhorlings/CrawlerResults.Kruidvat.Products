@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Leefvitaal Rode Gist Rijst Tabletten",
   "code": "5654125",
   "price": "15.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1052110",
-  "mmkId": "1052110",
-  "productGroupId": "470283",
+  "onPromo": "1051509",
+  "mmkId": "1051509",
+  "productGroupId": "491141",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/leefvitaal-rode-gist-rijst-tabletten/p/5654125",
@@ -33,6 +33,5 @@
       "name": "Rode gist rijst"
     }
   ],
-  "description": "50 stuks",
-  "image": "/medias/sys_master/prd-images/h32/h11/29570164916254/prd-front-5654125-1_600x600/prd-front-5654125-1-600x600.jpg"
+  "description": "50 stuks"
 }

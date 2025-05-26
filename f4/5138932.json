@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Durex Performa Condooms",
   "code": "5138932",
   "price": "16.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053181",
+  "mmkId": "1053181",
+  "productGroupId": "466729",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/durex-performa-condooms/p/5138932",
@@ -33,6 +33,5 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks",
-  "image": "/medias/sys_master/prd-images/h41/hdf/27991941251102/prd-front-5138932-1_600x600/prd-front-5138932-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 10 stuks"
 }

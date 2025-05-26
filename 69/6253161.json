@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Durex Intensity Condooms",
   "code": "6253161",
   "price": "9.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1053181",
+  "mmkId": "1053181",
+  "productGroupId": "466729",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/durex-intensity-condooms/p/6253161",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "5 stuks",
-  "image": "/medias/sys_master/prd-images/h54/ha4/34341355290654/prd-front-6253161-1_600x600/prd-front-6253161-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he3/h8b/34349456064542/prd-front-6253161-1_600x600/prd-front-6253161-1-600x600.jpg"
 }

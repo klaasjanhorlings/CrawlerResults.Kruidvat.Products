@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Merci Coconut Collection Chocolade",
+  "code": "5856093",
+  "price": "4.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "STORCK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/merci-coconut-collection-chocolade/p/5856093",
+  "listName": "Lister",
+  "brand": "Merci",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h08/hb5/27348692140062/prd-front-5856093-1_600x600/prd-front-5856093-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wave Kandelaren",
+  "code": "6245013",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2060 > 2192 > 5088 > 5113 > 5117 > 5926",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/wave-kandelaren/p/6245013",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 80863011,
+      "name": "Decoratie"
+    },
+    {
+      "id": 80863063,
+      "name": "Vazen"
+    }
+  ],
+  "description": "roze, 8cm x 9cm, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h63/hf7/34315733729310/prd-front-6245013-1_600x600/prd-front-6245013-1-600x600.jpg"
+}

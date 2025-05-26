@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Elastisch Fixatiewindsel",
   "code": "25815",
   "price": "1.29",
@@ -33,5 +33,6 @@
       "name": "Bandages en windsels"
     }
   ],
-  "description": "Medisch hulpmiddel - 400cm x 8cm"
+  "description": "Medisch hulpmiddel - 400cm x 8cm",
+  "image": "/medias/prd-front-25815-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njg0MDV8aW1hZ2UvanBlZ3xhRFE0TDJobFpTOHlOamt4TlRrNU5EVTJOalk0Tmk5d2NtUXRabkp2Ym5RdE1qVTRNVFV0TVY4Mk1EQjROakF3fDA1MDZiZDJlNGJmOGYzNDlhMWRiOWM2YThkMTBmMzQwYjhmZTEzMjkxZTdkNjZhNjg3MzQ4Mjc4ZDExNGI4ZjQ"
 }

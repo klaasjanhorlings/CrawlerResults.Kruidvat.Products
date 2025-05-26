@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052521",
+  "mmkId": "1052521",
+  "productGroupId": "470084",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vagisan-beschermende-zalf/p/4772580",
@@ -33,5 +33,6 @@
       "name": "Intieme hygiëne"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h56/h78/32826502873118/prd-front-4772580-1_600x600/prd-front-4772580-1-600x600.jpg"
 }

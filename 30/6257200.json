@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bubble Waterkan",
+  "code": "6257200",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/bubble-waterkan/p/6257200",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 80863512,
+      "name": "Servies"
+    },
+    {
+      "id": 84926195,
+      "name": "Kopjes en mokken"
+    }
+  ],
+  "description": "roze, 15cm x 18cm x 18cm",
+  "image": "/medias/sys_master/prd-images/h10/h37/34312755937310/prd-front-6257200-1_600x600/prd-front-6257200-1-600x600.jpg"
+}

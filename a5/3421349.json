@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3303 > 3756",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1052361",
-  "mmkId": "1052361",
-  "productGroupId": "475917",
+  "onPromo": "1052521",
+  "mmkId": "1052521",
+  "productGroupId": "470084",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tampax-compak-pearl-super-tampons-met-inbrenghuls/p/3421349",
@@ -33,5 +33,6 @@
       "name": "Tampons"
     }
   ],
-  "description": "18 stuks"
+  "description": "18 stuks",
+  "image": "/medias/sys_master/prd-images/hf2/hfc/34039204642846/prd-front-3421349-1_600x600/prd-front-3421349-1-600x600.jpg"
 }

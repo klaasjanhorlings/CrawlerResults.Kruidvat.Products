@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1052405",
-  "mmkId": "1052405",
-  "productGroupId": "478940",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A or B brand",
   "discount": "",
   "url": "/kneipp-pure-harmony-sinaasappel-lindebloesem-badolie/p/17973",
@@ -33,5 +33,6 @@
       "name": "Badolie"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-17973-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAyNDQ5fGltYWdlL2pwZWd8YUdJMkwyZ3pOeTh5TmprMk9UQXhNRE16T1RnM01DOXdjbVF0Wm5KdmJuUXRNVGM1TnpNdE1WODJNREI0TmpBd3w2YTc3OTMxNTAxOWY2ZDQ5YjAzYThjOGM1MThlNWJiMTE1YzJjMjdjMmVkMmRlYzBhZjFiM2NiMDA5ODgyMTM3"
 }

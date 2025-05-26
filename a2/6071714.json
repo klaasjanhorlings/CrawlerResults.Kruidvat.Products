@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Valdispert Mentaal Welzijn Positieve Stemming Dragees",
   "code": "6071714",
   "price": "13.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1052109",
-  "mmkId": "1052109",
-  "productGroupId": "470260",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/valdispert-mentaal-welzijn-positieve-stemming-dragees/p/6071714",
@@ -33,6 +33,5 @@
       "name": "Natuurlijke supplementen"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h87/h08/33819594489886/prd-front-6071714-1_600x600/prd-front-6071714-1-600x600.jpg"
+  "description": "30 stuks"
 }

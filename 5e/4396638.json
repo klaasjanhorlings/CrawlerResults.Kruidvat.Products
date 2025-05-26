@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NiQuitin Clear Pleister Stap 2 - 14 mg - Nicotinepleister",
   "code": "4396638",
   "price": "45.99",
@@ -37,5 +37,6 @@
       "name": "Nicotinepleisters"
     }
   ],
-  "description": "Geneesmiddel - 14 stuks"
+  "description": "Geneesmiddel - 14 stuks",
+  "image": "/medias/sys_master/prd-images/h0c/h2a/33282051375134/prd-front-4396638-1_600x600/prd-front-4396638-1-600x600.jpg"
 }

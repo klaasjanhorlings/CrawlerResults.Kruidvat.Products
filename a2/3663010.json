@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Opticare -2.25 Zachte Maandlenzen",
   "code": "3663010",
   "price": "15.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3027 > 3565",
   "supplier": "LENSCONCEPT BV",
   "inStock": "inStock",
-  "onPromo": "1052193",
-  "mmkId": "1052193",
-  "productGroupId": "476331",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-opticare-225-zachte-maandlenzen/p/3663010",
@@ -37,5 +37,6 @@
       "name": "Maandlenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks"
+  "description": "Medisch hulpmiddel - 6 stuks",
+  "image": "/medias/prd-front-3663010-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzY0MDR8aW1hZ2UvanBlZ3xhR0pqTDJobVlpOHhOelEwTXpNM01qWTVOVFU0TWk5d2NtUXRabkp2Ym5RdE16WTJNekF4TUMweFh6WXdNSGcyTURBfDgxYWZiMjdmOWRjNjEwMzQ0OTczNzIwZDY2NGU5NTljNDZlZGE0MGQ4YWY4YjhlYTkyMmEwNGMzZjYzNGM2ZDY"
 }

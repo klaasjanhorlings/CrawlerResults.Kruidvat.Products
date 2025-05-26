@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1052556",
+  "mmkId": "1052556",
+  "productGroupId": "471890",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-color-riche-volume-matte-480-plum-dominant-intense-lippenstift/p/5580702",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "1,8g"
+  "description": "1,8g",
+  "image": "/medias/sys_master/prd-images/h1e/hb0/27570173575198/prd-front-5580702-1_600x600/prd-front-5580702-1-600x600.jpg"
 }

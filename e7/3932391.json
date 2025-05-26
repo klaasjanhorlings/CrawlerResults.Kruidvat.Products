@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Vitamine B12 1000 Mcg Tabletten",
   "code": "3932391",
   "price": "5.69",
@@ -37,5 +37,6 @@
       "name": "Vitamine B"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/ha3/h08/33348517265438/prd-front-3932391-1_600x600/prd-front-3932391-1-600x600.jpg"
 }

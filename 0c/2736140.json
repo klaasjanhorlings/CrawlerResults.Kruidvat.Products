@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1052556",
+  "mmkId": "1052556",
+  "productGroupId": "471890",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-24h-312-incessant-russet-lipstick/p/2736140",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-2736140-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDg0OTV8aW1hZ2UvanBlZ3xhR1l3TDJneU55OHlOamt3TXpReU9EY3lOamd4TkM5d2NtUXRabkp2Ym5RdE1qY3pOakUwTUMweFh6WXdNSGcyTURBfGE5MjMxMWU4MzM3NDJlZmQ2ZjI5MGJhMTk4ZTc3OWFiZGU0ZjkxNGNmYzVlNjI4MGIxYjlkNjc0ZWUyZGExYjE"
 }

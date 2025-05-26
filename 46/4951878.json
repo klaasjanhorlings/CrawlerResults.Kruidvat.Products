@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Leefvitaal Kurkuma Capsules",
   "code": "4951878",
   "price": "11.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1052110",
-  "mmkId": "1052110",
-  "productGroupId": "470283",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/leefvitaal-kurkuma-capsules/p/4951878",
@@ -33,6 +33,5 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "50 stuks",
-  "image": "/medias/sys_master/prd-images/h52/h03/29569164214302/prd-front-4951878-1_600x600/prd-front-4951878-1-600x600.jpg"
+  "description": "50 stuks"
 }

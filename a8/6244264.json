@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Easytoys Panthra Shaka Wand Vibrator",
   "code": "6244264",
   "price": "79.99",
@@ -41,5 +41,6 @@
       "name": "Wand vibrators"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf7/h3c/33047228776478/prd-front-6244264-1_600x600/prd-front-6244264-1-600x600.jpg"
 }

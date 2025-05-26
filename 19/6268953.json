@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1052357",
-  "mmkId": "1052357",
-  "productGroupId": "474470",
+  "onPromo": "1052616",
+  "mmkId": "1052616",
+  "productGroupId": "476768",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-super-serum/p/6268953",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h44/hab/33987916038174/prd-front-6268953-1_600x600/prd-front-6268953-1-600x600.jpg"
 }

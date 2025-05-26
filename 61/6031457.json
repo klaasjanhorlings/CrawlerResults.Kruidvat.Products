@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "MARION PRIVATE LABEL",
   "inStock": "inStock",
-  "onPromo": "1052162",
-  "mmkId": "1052162",
-  "productGroupId": "475364",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-derma-indrogende-aanstiplotion-bij-puistjes/p/6031457",
@@ -37,5 +37,6 @@
       "name": "Verzorging probleemhuid"
     }
   ],
-  "description": "30ml, onzuivere huid"
+  "description": "30ml, onzuivere huid",
+  "image": "/medias/sys_master/prd-images/hee/h51/33347896279070/prd-front-6031457-1_600x600/prd-front-6031457-1-600x600.jpg"
 }

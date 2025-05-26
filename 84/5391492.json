@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Toi-Toys Splash Waterpistool",
+  "code": "5391492",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6023 > 2263 > 4940 > 4986 > 5032",
+  "supplier": "TOI-TOYS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/toi-toys-splash-waterpistool/p/5391492",
+  "listName": "Lister",
+  "brand": "Toi-Toys",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 61682353,
+      "name": "Waterspeelgoed"
+    }
+  ],
+  "description": "55cm",
+  "image": "/medias/sys_master/prd-images/h9c/h8f/30493275979806/prd-front-5391492-1_600x600/prd-front-5391492-1-600x600.jpg"
+}

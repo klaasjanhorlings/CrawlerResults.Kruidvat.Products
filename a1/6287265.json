@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Splashers Maat 4-5 Zwemluiers",
+  "code": "6287265",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 4306 > 4303 > 4307",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "1052450",
+  "mmkId": "1052450",
+  "productGroupId": "481852",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-splashers-maat-4-5-zwemluiers/p/6287265",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266017,
+      "name": "Luiers"
+    },
+    {
+      "id": 30266787,
+      "name": "Luiers maat 4"
+    }
+  ],
+  "description": "mt 4-5 (9-15kg), 11 stuks",
+  "image": "/medias/sys_master/prd-images/h19/h37/33748036943902/prd-front-6287265-1_600x600/prd-front-6287265-1-600x600.jpg"
+}

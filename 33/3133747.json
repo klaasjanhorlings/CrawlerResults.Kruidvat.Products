@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Voetbadbruistabletten",
   "code": "3133747",
   "price": "2.99",
@@ -33,6 +33,5 @@
       "name": "Voetbad"
     }
   ],
-  "description": "8 stuks",
-  "image": "/medias/sys_master/prd-images/h65/h51/29174408675358/prd-front-3133747-1_600x600/prd-front-3133747-1-600x600.jpg"
+  "description": "8 stuks"
 }

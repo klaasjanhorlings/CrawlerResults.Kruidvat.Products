@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wave Vaas",
+  "code": "6244929",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2060 > 2192 > 5088 > 5113 > 5117 > 5926",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/wave-vaas/p/6244929",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 80863011,
+      "name": "Decoratie"
+    },
+    {
+      "id": 80863063,
+      "name": "Vazen"
+    }
+  ],
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/hc3/h0a/34314413867038/prd-front-6244929-1_600x600/prd-front-6244929-1-600x600.jpg"
+}

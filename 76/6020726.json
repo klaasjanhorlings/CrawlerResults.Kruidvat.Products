@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1052153",
-  "mmkId": "1052153",
-  "productGroupId": "474586",
+  "onPromo": "1052557",
+  "mmkId": "1052557",
+  "productGroupId": "472009",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-bright-reveal-peeling-exfoliant/p/6020726",
@@ -33,5 +33,6 @@
       "name": "Exfoliant"
     }
   ],
-  "description": "25ml"
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/h60/hb9/29685559984158/prd-front-6020726-1_600x600/prd-front-6020726-1-600x600.jpg"
 }

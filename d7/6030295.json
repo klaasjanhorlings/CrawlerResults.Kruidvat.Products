@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "MARION PRIVATE LABEL",
   "inStock": "inStock",
-  "onPromo": "1051654",
-  "mmkId": "1051654",
-  "productGroupId": "468813",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-hydrate-hyaluron-2-serum/p/6030295",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml, alle huidtypes"
+  "description": "30ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h71/hf5/30079812010014/prd-front-6030295-1_600x600/prd-front-6030295-1-600x600.jpg"
 }

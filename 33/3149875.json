@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1052405",
-  "mmkId": "1052405",
-  "productGroupId": "478940",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A or B brand",
   "discount": "",
   "url": "/kneipp-relaxing-lavendel-douchegel/p/3149875",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h68/h33/29955377233950/prd-front-3149875-1_600x600/prd-front-3149875-1-600x600.jpg"
+  "description": "250ml - Normale huid"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Laura's Bakery Vorkjes",
+  "code": "6268295",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "AVEC STUDIO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/lauras-bakery-vorkjes/p/6268295",
+  "listName": "Lister",
+  "brand": "Laura's Bakery",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 80863211,
+      "name": "Bakspullen"
+    }
+  ],
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/h0e/h95/34192607969310/prd-front-6268295-1_600x600/prd-front-6268295-1-600x600.jpg"
+}

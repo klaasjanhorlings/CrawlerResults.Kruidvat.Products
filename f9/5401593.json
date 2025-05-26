@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3698",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052739",
+  "mmkId": "1052739",
+  "productGroupId": "496270",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-dream-lengths-heat-protect-hittespray/p/5401593",
@@ -33,6 +33,5 @@
       "name": "Heat protectors"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h2e/h26/33046944153630/prd-front-5401593-1_600x600/prd-front-5401593-1-600x600.jpg"
+  "description": "150ml"
 }

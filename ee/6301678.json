@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "SNUGGSWEAR S.R.O.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052521",
+  "mmkId": "1052521",
+  "productGroupId": "470084",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/snuggs-menstruatieondergoed/p/6301678",
@@ -33,5 +33,6 @@
       "name": "Menstruatieondergoed"
     }
   ],
-  "description": "zwart, mt M"
+  "description": "zwart, mt M",
+  "image": "/medias/sys_master/prd-images/h0d/h3e/34038659055646/prd-front-6301678-1_600x600/prd-front-6301678-1-600x600.jpg"
 }

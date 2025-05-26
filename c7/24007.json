@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bional Prostavit Capsules",
   "code": "24007",
   "price": "29.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6202 > 6220 > 6278",
   "supplier": "OCE BIO NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1052134",
-  "mmkId": "1052134",
-  "productGroupId": "472703",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bional-prostavit-capsules/p/24007",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/hb9/h91/34340674371614/prd-front-24007-1_600x600/prd-front-24007-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h62/h6e/34349391773726/prd-front-24007-1_600x600/prd-front-24007-1-600x600.jpg"
 }
