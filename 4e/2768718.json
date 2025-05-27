@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 6529 > 2756 > 3946",
   "supplier": "A.VOGEL",
-  "inStock": "inStock",
-  "onPromo": "1052568",
-  "mmkId": "1052568",
-  "productGroupId": "472613",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-pollinosan-hooikoorts-oogdruppels/p/2768718",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml"
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h54/hc6/33350418595870/prd-front-2768718-1_600x600/prd-front-2768718-1-600x600.jpg"
 }

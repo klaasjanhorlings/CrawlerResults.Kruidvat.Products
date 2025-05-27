@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
-  "inStock": "inStock",
-  "onPromo": "1052521",
-  "mmkId": "1052521",
-  "productGroupId": "470084",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tena-discreet-extra-incontinentieverband/p/6015980",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 12 stuks",
-  "image": "/medias/sys_master/prd-images/h47/h66/34347676205086/prd-front-6015980-1_600x600/prd-front-6015980-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha3/hd5/34361627279390/prd-front-6015980-1_600x600/prd-front-6015980-1-600x600.jpg"
 }

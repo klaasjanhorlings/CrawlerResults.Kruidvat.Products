@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PHARCONA GMBH",
-  "inStock": "inStock",
-  "onPromo": "1028975",
-  "mmkId": "1028975",
-  "productGroupId": "362258",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-originals-vitamine-c-dagcreme/p/4981019",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h75/h5d/27268545511454/prd-front-4981019-1_600x600/prd-front-4981019-1-600x600.jpg"
 }

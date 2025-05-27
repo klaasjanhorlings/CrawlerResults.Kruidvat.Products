@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Loungejurk",
+  "code": "6170953",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2495 > 3061 > 3791 > 5795 > 5928 > 6716",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/loungejurk/p/6170953",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266843,
+      "name": "Damespyjama's"
+    }
+  ],
+  "description": "zwart, mt L",
+  "image": "/medias/sys_master/prd-images/hb0/hc0/33056546455582/prd-front-6170953-1_600x600/prd-front-6170953-1-600x600.jpg"
+}

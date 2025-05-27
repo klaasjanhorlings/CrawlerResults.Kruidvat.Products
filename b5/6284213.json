@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2324 > 2723 > 3426 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
-  "onPromo": "1052668",
-  "mmkId": "1052668",
-  "productGroupId": "478437",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-afritsslaapzak/p/6284213",
@@ -33,6 +33,5 @@
       "name": "Slaapzakken"
     }
   ],
-  "description": "beige, mt 86-98",
-  "image": "/medias/sys_master/prd-images/h2e/h06/33641056862238/prd-front-6284213-1_600x600/prd-front-6284213-1-600x600.jpg"
+  "description": "beige, mt 86-98"
 }

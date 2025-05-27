@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052610",
+  "mmkId": "1052610",
+  "productGroupId": "476550",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-luminous630-skin-glow-serum/p/6299403",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hf3/h67/34347403575326/prd-front-6299403-1_600x600/prd-front-6299403-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha3/h99/34356345733150/prd-front-6299403-1_600x600/prd-front-6299403-1-600x600.jpg"
 }

@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Baby & Kids Lotion Wipes Billendoekjes",
+  "code": "6268197",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
+  "supplier": "NAIF CARE BV",
+  "inStock": "inStock",
+  "onPromo": "1052476",
+  "mmkId": "1052476",
+  "productGroupId": "461144",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-baby-kids-lotion-wipes-billendoekjes/p/6268197",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266018,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "3 x 54 stuks"
+}

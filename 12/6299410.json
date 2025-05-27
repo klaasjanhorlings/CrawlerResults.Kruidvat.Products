@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052610",
+  "mmkId": "1052610",
+  "productGroupId": "476550",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-luminous630-skin-glow-liquid-refiner/p/6299410",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h8b/h4c/34345368059934/prd-front-6299410-1_600x600/prd-front-6299410-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h45/hdc/34353901273118/prd-front-6299410-1_600x600/prd-front-6299410-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Magnetics Mansion Set",
+  "itemName": "Magnetics Dinosaur Set",
   "code": "6277913",
   "price": "12.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "494945",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/magnetics-mansion-set/p/6277913",
+  "url": "/magnetics-dinosaur-set/p/6277913",
   "listName": "Lister",
   "brand": "Overig",
   "mpOrigin": "Kruidvat",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hbe/h3a/34030438744094/prd-front-6277913-1_600x600/prd-front-6277913-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb3/h33/34359798300702/prd-front-6277913-1_600x600/prd-front-6277913-1-600x600.jpg"
 }
