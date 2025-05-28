@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Dermo Sensitive 24-Uur Antitranspirant Spray",
+  "code": "2767990",
+  "price": "5.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "1052493",
+  "mmkId": "1052493",
+  "productGroupId": "464965",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-dermo-sensitive-24-uur-antitranspirant-spray/p/2767990",
+  "listName": "Lister",
+  "brand": "Sanex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266644,
+      "name": "Deospray"
+    }
+  ],
+  "description": "200ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h32/h23/33906062360606/prd-front-2767990-1_600x600/prd-front-2767990-1-600x600.jpg"
+}

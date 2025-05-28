@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "CeraVe Balancing Air Foam Cleanser",
+  "itemName": "CeraVe Balancing Air Foam Reiniger",
   "code": "6308524",
   "price": "15.45",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/cerave-balancing-air-foam-cleanser/p/6308524",
+  "url": "/cerave-balancing-air-foam-reiniger/p/6308524",
   "listName": "Lister",
   "brand": "CeraVe",
   "mpOrigin": "Kruidvat",
@@ -25,18 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266916,
-      "name": "Cleanser"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "148ml",
-  "image": "/medias/sys_master/prd-images/h29/h6c/34364234858526/prd-front-6308524-1_600x600/prd-front-6308524-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd7/h97/34375163084830/prd-front-6308524-1_600x600/prd-front-6308524-1-600x600.jpg"
 }

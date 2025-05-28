@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2328 > 2728 > 3431",
   "supplier": "VITAFRUIT BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052605",
+  "mmkId": "1052605",
+  "productGroupId": "476237",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-6m-bio-appel-diksap/p/5958027",
@@ -33,5 +33,6 @@
       "name": "Babysiroop"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hec/h34/28738963931166/prd-front-5958027-1_600x600/prd-front-5958027-1-600x600.jpg"
 }

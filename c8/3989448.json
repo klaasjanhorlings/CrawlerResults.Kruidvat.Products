@@ -21,18 +21,13 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266078,
-      "name": "Wonen"
+      "id": 29536085,
+      "name": "Elektronica"
     },
     {
-      "id": 80863743,
-      "name": "Veiligheid"
-    },
-    {
-      "id": 80864029,
-      "name": "Rook en koolmonoxidemelders"
+      "id": 30266052,
+      "name": "Huishoudelijke apparaten"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h06/he8/27927934599198/prd-front-3989448-1_600x600/prd-front-3989448-1-600x600.jpg"
+  "description": ""
 }

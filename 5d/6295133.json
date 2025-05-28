@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Hyaluron Hydraterende Liquid Care",
+  "code": "6295133",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 4226 > 6702",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1052552",
+  "mmkId": "1052552",
+  "productGroupId": "471444",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-hyaluron-hydraterende-liquid-care/p/6295133",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 73443559,
+      "name": "Toner"
+    }
+  ],
+  "description": "120ml",
+  "image": "/medias/sys_master/prd-images/h20/h27/33931059265566/prd-front-6295133-1_600x600/prd-front-6295133-1-600x600.jpg"
+}

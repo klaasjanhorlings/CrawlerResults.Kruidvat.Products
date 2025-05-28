@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,9 +29,10 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266655,
-      "name": "Badschuim"
+      "id": 30266647,
+      "name": "Douchecrème"
     }
   ],
-  "description": "1L - Normale huid"
+  "description": "1L - Normale huid",
+  "image": "/medias/prd-front-105384-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzk1OTd8aW1hZ2UvanBlZ3xhR0ZtTDJnNVlTOHlOamsyTkRJeU5UQTJORGs1TUM5d2NtUXRabkp2Ym5RdE1UQTFNemcwTFRGZk5qQXdlRFl3TUF8ZmFkYTE4MDY4ZDZmMWFmNjk0NzdiMmNmN2IwZjU5MmVmZDIzZTJhMDYxMTNlMWFlOGZiNDk2YWY0ZmExOTZkZQ"
 }

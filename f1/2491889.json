@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5678 > 5679",
   "supplier": "NESTLE NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052614",
+  "mmkId": "1052614",
+  "productGroupId": "476687",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nestle-baby-6m-banaan-pyjamapapje/p/2491889",
@@ -33,5 +33,6 @@
       "name": "Babypap"
     }
   ],
-  "description": "3 x 250ml"
+  "description": "3 x 250ml",
+  "image": "/medias/prd-front-2491889-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzc5Njd8aW1hZ2UvanBlZ3xhR016TDJobFlpOHlOalUzTWpNMU1qVTFNams1TUM5d2NtUXRabkp2Ym5RdE1qUTVNVGc0T1MweFh6WXdNSGcyTURBfGQ5N2Q5YTkxZWFiNzRiYTVhYWUyNWY5ZjZhZDAwYjFmMzUzNTA4YmUwYzhiY2VjNzdjZDQwYmY4NTQ2ZWU2YjY"
 }

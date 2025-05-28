@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Loving Blends Blond Remedy Sun-Kissed Chamomile & Bloemenhoning Herstellend Masker",
+  "code": "6256885",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6695",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1052552",
+  "mmkId": "1052552",
+  "productGroupId": "471444",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-loving-blends-blond-remedy-sun-kissed-chamomile-bloemenhoning-herstellend-masker/p/6256885",
+  "listName": "Lister",
+  "brand": "Loving Blends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266697,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "340ml",
+  "image": "/medias/sys_master/prd-images/h07/h29/33983941771294/prd-front-6256885-1_600x600/prd-front-6256885-1-600x600.jpg"
+}

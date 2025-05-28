@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2316 > 2717 > 3420 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
-  "onPromo": "1052668",
-  "mmkId": "1052668",
-  "productGroupId": "478437",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-hydrofielwashandjes/p/6284178",
@@ -25,12 +25,12 @@
       "name": "Baby"
     },
     {
-      "id": 30266023,
-      "name": "Zwangerschap en kraamtijd"
+      "id": 30266016,
+      "name": "Babyverzorging"
     },
     {
-      "id": 30266807,
-      "name": "Babyaccessoires"
+      "id": 30266780,
+      "name": "Hydrofiele doeken"
     }
   ],
   "description": "3 stuks",

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 3865 > 5730",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1052486",
-  "mmkId": "1052486",
-  "productGroupId": "462783",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-mencare-advanced-sandelwood-vanilla-antitranspirant-spray/p/6228010",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h37/h55/34360395497502/prd-front-6228010-1_600x600/prd-front-6228010-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h89/hca/34370828042270/prd-front-6228010-1_600x600/prd-front-6228010-1-600x600.jpg"
 }

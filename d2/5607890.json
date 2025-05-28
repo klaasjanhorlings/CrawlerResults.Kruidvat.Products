@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6451 > 6452",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
-  "onPromo": "1052545",
-  "mmkId": "1052545",
-  "productGroupId": "471158",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/mycosan-behandel-camoufleer-kalknagel/p/5607890",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "5ml + 8ml",
-  "image": "/medias/sys_master/prd-images/h31/ha0/34357258518558/prd-front-5607890-1_600x600/prd-front-5607890-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h79/h8a/34372823023646/prd-front-5607890-1_600x600/prd-front-5607890-1-600x600.jpg"
 }

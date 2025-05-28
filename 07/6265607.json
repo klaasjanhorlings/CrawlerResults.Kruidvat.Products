@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Attaro Damesjoggingbroek",
   "code": "6265607",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Dameskleding"
     }
   ],
-  "description": "lila, mt XL"
+  "description": "lila, mt XL",
+  "image": "/medias/sys_master/prd-images/h48/h00/33576143454238/prd-front-6265593-1_600x600/prd-front-6265593-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Cremepotjes",
+  "code": "6267714",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4310 > 4311 > 4917 > 4963 > 5009",
+  "supplier": "DECOTRADE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-cremepotjes/p/6267714",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266050,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30266876,
+      "name": "Reisartikelen"
+    },
+    {
+      "id": 80864361,
+      "name": "Koffers"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h6b/h97/33918207066142/prd-front-6267714-1_600x600/prd-front-6267714-1-600x600.jpg"
+}

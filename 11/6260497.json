@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2181 > 5164 > 5227 > 5416 > 5921 > 6018",
   "supplier": "999 GAMES",
-  "inStock": "inStock",
-  "onPromo": "1052741",
-  "mmkId": "1052741",
-  "productGroupId": "494945",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/999-games-clever-tot-de-3e-macht/p/6260497",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h54/h8a/33763660824606/prd-front-6260497-1_600x600/prd-front-6260497-1-600x600.jpg"
 }

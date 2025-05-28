@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "CeraVe Eye Repair Cream",
+  "itemName": "CeraVe Verbeterende Oogcrème ",
   "code": "5909391",
   "price": "18.65",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/cerave-eye-repair-cream/p/5909391",
+  "url": "/cerave-verbeterende-oogcreme-/p/5909391",
   "listName": "Lister",
   "brand": "CeraVe",
   "mpOrigin": "Kruidvat",
@@ -25,10 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266604,
+      "name": "Oogcreme"
     }
   ],
   "description": "14 ml",
-  "image": "/medias/sys_master/prd-images/he1/hc6/34360902746142/prd-front-5909391-1_600x600/prd-front-5909391-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/heb/h7d/34371526754334/prd-front-5909391-1_600x600/prd-front-5909391-1-600x600.jpg"
 }

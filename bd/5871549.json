@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mylaq Uv/Led Lamp",
+  "code": "5871549",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
+  "supplier": "COSMO GROUP SP. Z O.O.",
+  "inStock": "inStock",
+  "onPromo": "1012132",
+  "mmkId": "1012132",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mylaq-uv/led-lamp/p/5871549",
+  "listName": "Lister",
+  "brand": "Mylaq",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 72476685,
+      "name": "Gellak"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf0/h1f/29850416611358/prd-front-5871549-1_600x600/prd-front-5871549-1-600x600.jpg"
+}

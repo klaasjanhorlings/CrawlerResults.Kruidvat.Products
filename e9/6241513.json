@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2183 > 4933 > 4980 > 5026 > 5921 > 6040",
   "supplier": "MATTEL EUROPA BV",
-  "inStock": "inStock",
-  "onPromo": "1052741",
-  "mmkId": "1052741",
-  "productGroupId": "494945",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/polly-pocket-llama-camp-adventure/p/6241513",
@@ -33,6 +33,5 @@
       "name": "Speelsets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h5c/ha0/32894774476830/prd-front-6241513-1_600x600/prd-front-6241513-1-600x600.jpg"
+  "description": ""
 }

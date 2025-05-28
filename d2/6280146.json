@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pauline Wingelaar Bloemoorbellen",
+  "code": "6280146",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2143 > 2348 > 2749 > 4869 > 6580",
+  "supplier": "J-CLUB E-COMM",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/pauline-wingelaar-bloemoorbellen/p/6280146",
+  "listName": "Lister",
+  "brand": "Pauline Wingelaar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266860,
+      "name": "Sieraden en bijoux"
+    }
+  ],
+  "description": "roze, oranje",
+  "image": "/medias/sys_master/prd-images/h6e/h4b/33486374633502/prd-front-6280146-1_600x600/prd-front-6280146-1-600x600.jpg"
+}

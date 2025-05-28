@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3345 > 4249",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052518",
+  "mmkId": "1052518",
+  "productGroupId": "469691",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/got2b-glued-wax-stick/p/6236305",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50g",
-  "image": "/medias/sys_master/prd-images/hed/h1f/34361638748190/prd-front-6236305-1_600x600/prd-front-6236305-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0a/hb6/34368547651614/prd-front-6236305-1_600x600/prd-front-6236305-1-600x600.jpg"
 }

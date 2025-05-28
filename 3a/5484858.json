@@ -5,11 +5,11 @@
   "code": "5484858",
   "price": "4.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "ORCHARD BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -29,10 +29,9 @@
       "name": "Make-up"
     },
     {
-      "id": 30266577,
-      "name": "Foundation"
+      "id": 30266587,
+      "name": "Gezichtspoeder"
     }
   ],
-  "description": "10g",
-  "image": "/medias/prd-front-5484858-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTA4ODE3fGltYWdlL2pwZWd8YURNM0wyZzNPUzh4TmprMU9UZzJPRFkyTlRnNE5pOXdjbVF0Wm5KdmJuUXROVFE0TkRnMU9DMHhYell3TUhnMk1EQXw4NTRiZDk2OWViMDJiNzZjOTEyYWIwMzI1OTZlZTU0NWIxZDhmODdjNTRiMDE1MDUwOWQ3Mjk5YWExODgwODMy"
+  "description": "10g"
 }

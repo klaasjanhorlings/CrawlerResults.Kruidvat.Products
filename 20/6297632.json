@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Adidas Ice Dive Geschenkset",
+  "code": "6297632",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4114 > 5861 > 5864 > 6705 > 6706",
+  "supplier": "COTY NETHERLANDS BV CB",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/adidas-ice-dive-geschenkset/p/6297632",
+  "listName": "Lister",
+  "brand": "Adidas",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666181,
+      "name": "Geschenkset voor hem"
+    },
+    {
+      "id": 72655057,
+      "name": "Parfum geschenkset voor hem"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hca/hd6/33811341508638/prd-front-6297632-1_600x600/prd-front-6297632-1-600x600.jpg"
+}

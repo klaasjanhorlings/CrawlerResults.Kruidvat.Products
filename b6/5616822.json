@@ -25,14 +25,13 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266005,
-      "name": "Haarverzorging"
+      "id": 30266692,
+      "name": "Haarstylingproducten"
     },
     {
-      "id": 82417013,
-      "name": "Krullenverzorging"
+      "id": 30266926,
+      "name": "Haarcrème"
     }
   ],
-  "description": "340g",
-  "image": "/medias/sys_master/prd-images/h19/hbb/27530324705310/prd-front-5616822-1_600x600/prd-front-5616822-1-600x600.jpg"
+  "description": "340g"
 }

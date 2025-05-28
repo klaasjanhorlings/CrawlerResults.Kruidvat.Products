@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2243 > 4870 > 6031 > 2307 > 2697 > 3397",
   "supplier": "LUPUS IMAGING & MEDIA",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Verrassend elektronica"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h60/ha3/30750473289758/prd-front-2224083-1_600x600/prd-front-2224083-1-600x600.jpg"
+  "description": ""
 }

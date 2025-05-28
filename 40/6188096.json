@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kindernachthemd met Regenboogprint",
   "code": "6188096",
   "price": "2.49",
@@ -33,6 +33,5 @@
       "name": "Kinderpyjama's"
     }
   ],
-  "description": "roze, mt 116-122",
-  "image": "/medias/sys_master/prd-images/haf/h0f/33070066303006/prd-front-6188096-1_600x600/prd-front-6188096-1-600x600.jpg"
+  "description": "roze, mt 116-122"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pauline Wingelaar Gestreepte Toilettas",
+  "code": "6255583",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2271 > 2637 > 3320 > 6343 > 6674",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/pauline-wingelaar-gestreepte-toilettas/p/6255583",
+  "listName": "Lister",
+  "brand": "Pauline Wingelaar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266620,
+      "name": "Toilettassen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h13/h90/33185810382878/prd-front-6255583-1_600x600/prd-front-6255583-1-600x600.jpg"
+}
