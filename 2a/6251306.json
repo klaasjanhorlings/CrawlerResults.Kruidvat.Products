@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kinder-T-Shirts met Bloemenprint",
   "code": "6251306",
   "price": "7.99",
@@ -33,6 +33,5 @@
       "name": "Kinderkleding"
     }
   ],
-  "description": "roze, wit, mintgroen, mt 116-122, 3 stuks",
-  "image": "/medias/sys_master/prd-images/h14/hf8/33673315352606/prd-front-6251306-1_600x600/prd-front-6251306-1-600x600.jpg"
+  "description": "roze, wit, mintgroen, mt 116-122, 3 stuks"
 }

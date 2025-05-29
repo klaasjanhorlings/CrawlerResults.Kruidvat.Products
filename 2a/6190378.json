@@ -7,10 +7,10 @@
   "priceOriginal": "79.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052641",
+  "mmkId": "1052641",
+  "productGroupId": "478143",
   "brandType": "A of B merk",
   "discount": "€ 32,00",
   "url": "/oral-b-io-series-2-clean-care-elektrische-tandenborstel/p/6190378",
@@ -33,6 +33,5 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "groen",
-  "image": "/medias/sys_master/prd-images/h17/ha4/32247714873374/prd-front-6190378-1_600x600/prd-front-6190378-1-600x600.jpg"
+  "description": "groen"
 }

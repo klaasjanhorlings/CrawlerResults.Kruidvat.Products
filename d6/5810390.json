@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Bio 12+M Aardappel, Groenten & Linzen Maaltijd",
+  "itemName": "Kruidvat 12+M Bio Aardappel, Groenten & Linzen Maaltijd",
   "code": "5810390",
   "price": "2.79",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "476237",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-bio-12m-aardappel-groenten-linzen-maaltijd/p/5810390",
+  "url": "/kruidvat-12m-bio-aardappel-groenten-linzen-maaltijd/p/5810390",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -37,5 +37,6 @@
       "name": "12+ maanden"
     }
   ],
-  "description": "500g"
+  "description": "500g",
+  "image": "/medias/prd-front-5810390-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTQzNzF8aW1hZ2UvanBlZ3xhR05tTDJoaVlTOHlOalF3T1RJNU1EQXdOalUxT0M5d2NtUXRabkp2Ym5RdE5UZ3hNRE01TUMweFh6WXdNSGcyTURBfGJjN2UwYWVhNmJhNWEwNmIyMjExN2I2MGRiYzNjNjgxNjQ4YzNiYjJjNzUxNGFiMTBkM2I4NjVmMjY4MDMwYWI"
 }

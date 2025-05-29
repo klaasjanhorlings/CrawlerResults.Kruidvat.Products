@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Retinol Boost Oogcrème",
+  "itemName": "Neutrogena Retinol Boost Anti-Age Oogcrème",
   "code": "5627371",
   "price": "35.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "476614",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/neutrogena-retinol-boost-oogcreme/p/5627371",
+  "url": "/neutrogena-retinol-boost-anti-age-oogcreme/p/5627371",
   "listName": "Lister",
   "brand": "Neutrogena",
   "mpOrigin": "Kruidvat",
@@ -25,14 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266604,
-      "name": "Oogcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
-  "description": "15ml",
+  "description": "15ml - Alle huidtypen",
   "image": "/medias/sys_master/prd-images/hcf/he0/29145112084510/prd-front-5627371-1_600x600/prd-front-5627371-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "NIVEA Luminous630 Skin Glow Serum",
+  "itemName": "NIVEA Luminous630 Skin Glow Instant Glow Serum",
   "code": "6299403",
   "price": "24.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "476550",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-luminous630-skin-glow-serum/p/6299403",
+  "url": "/nivea-luminous630-skin-glow-instant-glow-serum/p/6299403",
   "listName": "Lister",
   "brand": "Nivea Skincare",
   "mpOrigin": "Kruidvat",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h58/h50/34371639607326/prd-front-6299403-1_600x600/prd-front-6299403-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he6/h25/34377775382558/prd-front-6299403-1_600x600/prd-front-6299403-1-600x600.jpg"
 }

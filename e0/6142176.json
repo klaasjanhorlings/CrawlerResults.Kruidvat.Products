@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
   "supplier": "CAMPS FOOD BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052690",
+  "mmkId": "1052690",
+  "productGroupId": "486985",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ellas-kitchen-organic-4m-bio-wortel-pastinaak-en-appel-knijpzakje/p/6142176",
@@ -37,5 +37,6 @@
       "name": "4+ maanden"
     }
   ],
-  "description": "120g"
+  "description": "120g",
+  "image": "/medias/sys_master/prd-images/h4f/ha0/31476700086302/prd-front-6142176-1_600x600/prd-front-6142176-1-600x600.jpg"
 }

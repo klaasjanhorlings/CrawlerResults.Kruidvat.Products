@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "BAYER BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052472",
+  "mmkId": "1052472",
+  "productGroupId": "459702",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bepanthen-tattoo-verzorgende-creme/p/6149064",
@@ -37,5 +37,6 @@
       "name": "Tattooverzorging"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/hdd/hff/31917244317726/prd-front-6149064-1_600x600/prd-front-6149064-1-600x600.jpg"
 }
