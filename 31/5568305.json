@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2729 > 3432",
   "supplier": "GALVASTORE BV",
-  "inStock": "inStock",
-  "onPromo": "1052666",
-  "mmkId": "1052666",
-  "productGroupId": "478396",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-baby-talkpoeder/p/5568305",
@@ -37,6 +37,5 @@
       "name": "Talkpoeder"
     }
   ],
-  "description": "100g",
-  "image": "/medias/sys_master/prd-images/ha8/h2d/27516280045598/prd-front-5568305-1_600x600/prd-front-5568305-1-600x600.jpg"
+  "description": "100g"
 }

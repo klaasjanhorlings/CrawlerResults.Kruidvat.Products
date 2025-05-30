@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Draadloze Slimme Deurbel",
+  "code": "6303512",
+  "price": "29.99",
+  "priceOriginal": "39.99",
+  "itemBgbcat": "2153 > 5929 > 6014 > 6587 > 6588 > 6589",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "€ 10,00",
+  "url": "/kruidvat-draadloze-slimme-deurbel/p/6303512",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266057,
+      "name": "Smarthome"
+    },
+    {
+      "id": 30266879,
+      "name": "Camera’s"
+    }
+  ],
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

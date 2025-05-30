@@ -5,7 +5,7 @@
   "code": "2210825",
   "price": "7.49",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 2969 > 3771",
+  "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4344 > 4345",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
   "onPromo": "1010662",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 5"
     }
   ],
-  "description": "mt 5 (10-16 kg), 24 stuks"
+  "description": "mt 5 (10-16 kg), 24 stuks",
+  "image": "/medias/sys_master/prd-images/h21/h14/34223999287326/prd-front-2210825-1_600x600/prd-front-2210825-1-600x600.jpg"
 }

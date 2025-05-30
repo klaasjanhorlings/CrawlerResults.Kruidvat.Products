@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "SUNVAL BABY FOOD GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052605",
+  "mmkId": "1052605",
+  "productGroupId": "476237",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-bio-8m-groenten-volkoren-spelt-pasta-maaltijd/p/5813421",
@@ -37,5 +37,6 @@
       "name": "8+ maanden"
     }
   ],
-  "description": "380g"
+  "description": "380g",
+  "image": "/medias/prd-front-5813421-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTE3NzZ8aW1hZ2UvanBlZ3xhREJpTDJnM1ppOHlOall5T0RFek9UQTRPVGsxTUM5d2NtUXRabkp2Ym5RdE5UZ3hNelF5TVMweFh6WXdNSGcyTURBfGFkYjMzZWRhZjI3M2JmYzljNjU4ZTY5MjU5NTlkZWE1ZGI4M2EzMDY3ODRiZWIwMTZkZTI5NzE0YjU0YjVjMWM"
 }
