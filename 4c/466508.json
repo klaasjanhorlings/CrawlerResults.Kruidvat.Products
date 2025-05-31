@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "BENCKMAR BV",
-  "inStock": "inStock",
-  "onPromo": "1028975",
-  "mmkId": "1028975",
-  "productGroupId": "362258",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cleansing-lotion-oogmake-upremoverpads/p/466508",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "100 stuks - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hae/hbc/34283215912990/prd-front-466508-1_600x600/prd-front-466508-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h9e/hc1/34398964842526/prd-front-466508-1_600x600/prd-front-466508-1-600x600.jpg"
 }

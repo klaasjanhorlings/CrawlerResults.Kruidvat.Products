@@ -6,8 +6,8 @@
   "price": "19.6",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
-  "supplier": "L.B. 16 BV",
-  "inStock": "outOfStock",
+  "supplier": "LOREAL NED B.V.",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,18 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266915,
-      "name": "Reinigingsgel"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "473ml - Normale tot gemengde huid",
-  "image": "/medias/sys_master/prd-images/h48/h38/34388312653854/prd-front-5869568-1_600x600/prd-front-5869568-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he4/h4d/34401411203102/prd-front-5869568-1_600x600/prd-front-5869568-1-600x600.jpg"
 }

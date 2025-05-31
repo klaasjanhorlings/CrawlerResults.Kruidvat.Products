@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
   "supplier": "LOREAL NED B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,18 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266916,
-      "name": "Cleanser"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "473ml",
-  "image": "/medias/sys_master/prd-images/h2b/hf3/34389432959006/prd-front-6304688-1_600x600/prd-front-6304688-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h73/hc4/34395659370526/prd-front-6304688-1_600x600/prd-front-6304688-1-600x600.jpg"
 }

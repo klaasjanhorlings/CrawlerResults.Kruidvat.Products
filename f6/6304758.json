@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "52ml"
+  "description": "52ml",
+  "image": "/medias/sys_master/prd-images/hb5/h12/34394648182814/prd-front-6304758-1_600x600/prd-front-6304758-1-600x600.jpg"
 }

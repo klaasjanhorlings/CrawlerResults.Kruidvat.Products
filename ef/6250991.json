@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2243 > 2408 > 2849 > 3588 > 4870 > 6031",
   "supplier": "I-STAR WORLD BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Camera’s"
     }
   ],
-  "description": "mintgroen"
+  "description": "mintgroen",
+  "image": "/medias/sys_master/prd-images/h0c/hf5/34181994283038/prd-front-6250991-1_600x600/prd-front-6250991-1-600x600.jpg"
 }

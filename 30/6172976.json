@@ -7,7 +7,7 @@
   "priceOriginal": "14.99",
   "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
   "supplier": "TUPPERWARE PRODUCTS AG",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Tupperware"
     }
   ],
-  "description": "1L",
-  "image": "/medias/sys_master/prd-images/h0c/h5c/33047223336990/prd-front-6172976-1_600x600/prd-front-6172976-1-600x600.jpg"
+  "description": "1L"
 }

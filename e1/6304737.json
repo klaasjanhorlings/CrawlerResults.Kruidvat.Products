@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 6704",
   "supplier": "LOREAL NED B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,18 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 50048154,
-      "name": "Verzorging probleemhuid"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h30/he1/34388872626206/prd-front-6304737-1_600x600/prd-front-6304737-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h18/h65/34394987298846/prd-front-6304737-1_600x600/prd-front-6304737-1-600x600.jpg"
 }

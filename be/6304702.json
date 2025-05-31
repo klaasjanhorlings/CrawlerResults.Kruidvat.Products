@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,14 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "454g",
-  "image": "/medias/sys_master/prd-images/hb3/hca/34387559809054/prd-front-6304702-1_600x600/prd-front-6304702-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc4/h18/34394648313886/prd-front-6304702-1_600x600/prd-front-6304702-1-600x600.jpg"
 }

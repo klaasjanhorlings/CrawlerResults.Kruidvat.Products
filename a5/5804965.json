@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "7ml, 30"
+  "description": "7ml, 30",
+  "image": "/medias/sys_master/prd-images/hec/hcd/30114431303710/prd-front-5804965-1_600x600/prd-front-5804965-1-600x600.jpg"
 }
