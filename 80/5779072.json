@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1052363",
-  "mmkId": "1052363",
-  "productGroupId": "476485",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cetaphil-hydraterende-creme/p/5779072",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h28/ha7/32313621413918/prd-front-5779072-1_600x600/prd-front-5779072-1-600x600.jpg"
 }
