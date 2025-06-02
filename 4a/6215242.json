@@ -8,9 +8,9 @@
   "itemBgbcat": "4830 > 4936 > 4982 > 5028 > 5921 > 6023",
   "supplier": "THE ESSENTIALS BV",
   "inStock": "inStock",
-  "onPromo": "1052741",
-  "mmkId": "1052741",
-  "productGroupId": "494945",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/swim-essentials-zwemhulpmiddel-met-schildpadprint/p/6215242",
@@ -33,5 +33,6 @@
       "name": "Zwembaden en opblaasfiguren"
     }
   ],
-  "description": "15-30kg"
+  "description": "15-30kg",
+  "image": "/medias/sys_master/prd-images/h57/h5c/33741277626398/prd-front-6215242-1_600x600/prd-front-6215242-1-600x600.jpg"
 }

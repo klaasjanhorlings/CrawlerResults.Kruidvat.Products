@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips HD9318/10 Waterkoker",
+  "code": "5802340",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5929 > 6019 > 2197 > 2454 > 2957 > 3751",
+  "supplier": "VERSUNI NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-hd9318/10-waterkoker/p/5802340",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053282,
+      "name": "Keukenapparatuur"
+    },
+    {
+      "id": 75053670,
+      "name": "Waterkokers"
+    }
+  ],
+  "description": "zwart, 1,7L",
+  "image": "/medias/prd-front-5802340-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTIwNTZ8aW1hZ2UvanBlZ3xhREJoTDJnMU5DOHhOelUxTVRFeE1EQTBOVGN5Tmk5d2NtUXRabkp2Ym5RdE5UZ3dNak0wTUMweFh6WXdNSGcyTURBfGYwODhkOTAyODRhOWJhNmNlNTNmZDZmMTZlZDkzOGIxYmNkMjljZDMyMjJiNGQwZjkwNDI1OWM3ODU2YzM2MWI"
+}

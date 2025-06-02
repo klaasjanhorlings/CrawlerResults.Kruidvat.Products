@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bluey Pop-up Spel",
+  "code": "6290506",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5921 > 6018 > 6741 > 6740 > 6739",
+  "supplier": "SPECTRON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bluey-pop-up-spel/p/6290506",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc9/h70/33765194727454/prd-front-6290506-1_600x600/prd-front-6290506-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Givenchy Gentleman Eau de Parfum",
+  "code": "6305332",
+  "price": "69.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
+  "supplier": "JTG BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/givenchy-gentleman-eau-de-parfum/p/6305332",
+  "listName": "Lister",
+  "brand": "Givenchy",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654823,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h1a/hc1/34028293259294/prd-front-6305332-1_600x600/prd-front-6305332-1-600x600.jpg"
+}

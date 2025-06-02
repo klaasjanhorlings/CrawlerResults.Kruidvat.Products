@@ -8,9 +8,9 @@
   "itemBgbcat": "4830 > 4936 > 4982 > 5028 > 5921 > 6023",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1052741",
-  "mmkId": "1052741",
-  "productGroupId": "494945",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bestway-opblaasbare-schildpad/p/4721060",
@@ -33,5 +33,6 @@
       "name": "Zwembaden en opblaasfiguren"
     }
   ],
-  "description": "140cm x 140cm"
+  "description": "140cm x 140cm",
+  "image": "/medias/sys_master/prd-images/h89/h06/29965663272990/prd-front-4721060-1_600x600/prd-front-4721060-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bestway Fantasy Unicorn Ride-On",
+  "code": "6290107",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4830 > 5178 > 5286 > 5475 > 5921 > 6023",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bestway-fantasy-unicorn-ride-on/p/6290107",
+  "listName": "Lister",
+  "brand": "Bestway",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30266838,
+      "name": "Zwembaden en opblaasfiguren"
+    }
+  ],
+  "description": "155 cm x 119 cm",
+  "image": "/medias/sys_master/prd-images/hce/h9f/33929275867166/prd-front-6290107-1_600x600/prd-front-6290107-1-600x600.jpg"
+}

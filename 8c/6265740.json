@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6717 > 6719 > 6718",
   "supplier": "ALPINE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052800",
+  "mmkId": "1052800",
+  "productGroupId": "476059",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/alpine-partyplug-pro-oordoppen/p/6265740",
@@ -37,6 +37,5 @@
       "name": "Oordoppen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h29/h5d/33465548963870/prd-front-6265740-1_600x600/prd-front-6265740-1-600x600.jpg"
+  "description": ""
 }

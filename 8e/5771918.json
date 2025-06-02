@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Leev Bio Rosemary Lentil Protein Cakes Linzenwafels",
+  "code": "5771918",
+  "price": "2.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6522",
+  "supplier": "LEEV.NU BV",
+  "inStock": "inStock",
+  "onPromo": "1052653",
+  "mmkId": "1052653",
+  "productGroupId": "478177",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/leev-bio-rosemary-lentil-protein-cakes-linzenwafels/p/5771918",
+  "listName": "Lister",
+  "brand": "Leev",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30266746,
+      "name": "Verantwoorde tussendoortjes"
+    }
+  ],
+  "description": "54g, 3 x 2 stuks",
+  "image": "/medias/sys_master/prd-images/h83/h70/31177128869918/prd-front-5771918-1_600x600/prd-front-5771918-1-600x600.jpg"
+}
