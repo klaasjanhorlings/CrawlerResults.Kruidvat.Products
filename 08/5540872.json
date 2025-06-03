@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "REMARK GROEP",
-  "inStock": "inStock",
-  "onPromo": "1052461",
-  "mmkId": "1052461",
-  "productGroupId": "452329",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-mystic-rose-eau-de-parfum/p/5540872",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h37/hc0/28761520537630/prd-front-5540872-1_600x600/prd-front-5540872-1-600x600.jpg"
+  "description": "30ml"
 }

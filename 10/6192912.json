@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "True Spirit Mesh Shopper",
+  "code": "6192912",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6416",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-mesh-shopper/p/6192912",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "zwart, 52,5cm x 37xm x 14,5cm",
+  "image": "/medias/sys_master/prd-images/h09/hf5/32468657897502/prd-front-6192912-1_600x600/prd-front-6192912-1-600x600.jpg"
+}

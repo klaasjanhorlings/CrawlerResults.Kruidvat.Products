@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Slim Shape Glans 20 Den Panty",
   "code": "5465790",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Panty's"
     }
   ],
-  "description": "beige, mt 42-44"
+  "description": "beige, mt 42-44",
+  "image": "/medias/sys_master/prd-images/he6/hec/28482397601822/prd-front-5465790-1_600x600/prd-front-5465790-1-600x600.jpg"
 }

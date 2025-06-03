@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052468",
+  "mmkId": "1052468",
+  "productGroupId": "457121",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-venus-pro-comfortglide-coconut-scheersysteem/p/6261897",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/h49/33470787059742/prd-front-6261897-1_600x600/prd-front-6261897-1-600x600.jpg"
 }

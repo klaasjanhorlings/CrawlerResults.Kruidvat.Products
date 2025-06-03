@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Heren-T-Shirts",
+  "code": "6224755",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5815 > 5816 > 5928 > 6038 > 6044 > 6046",
+  "supplier": "TEXSPORT BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/heren-t-shirts/p/6224755",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266040,
+      "name": "Heren"
+    },
+    {
+      "id": 30266846,
+      "name": "Herenkleding"
+    }
+  ],
+  "description": "groen, navy, mt M, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hfd/hd5/33129374482462/prd-front-6224755-1_600x600/prd-front-6224755-1-600x600.jpg"
+}

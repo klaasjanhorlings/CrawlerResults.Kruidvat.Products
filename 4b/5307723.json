@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Smart A60 E27 806LM Ledlamp",
   "code": "5307723",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Lampen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb4/h6f/32343328489502/prd-front-5307723-1_600x600/prd-front-5307723-1-600x600.jpg"
 }

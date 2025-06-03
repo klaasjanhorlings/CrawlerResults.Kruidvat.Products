@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Surf Kinderpyjama",
+  "code": "6168167",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2495 > 3061 > 3520 > 5795 > 5928 > 6716",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/surf-kinderpyjama/p/6168167",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266856,
+      "name": "Kinderpyjama's"
+    }
+  ],
+  "description": "mt 128-134",
+  "image": "/medias/sys_master/prd-images/hcb/hc0/33771491196958/prd-front-6168167-1_600x600/prd-front-6168167-1-600x600.jpg"
+}

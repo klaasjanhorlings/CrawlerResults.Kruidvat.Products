@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Watshome Ronde Solar Muurlamp",
   "code": "6211840",
   "price": "4.99",
@@ -29,5 +29,6 @@
       "name": "Verlichting"
     }
   ],
-  "description": "13cm x 9cm x 13cm"
+  "description": "13cm x 9cm x 13cm",
+  "image": "/medias/sys_master/prd-images/h6f/h94/32540709748766/prd-front-6211840-1_600x600/prd-front-6211840-1-600x600.jpg"
 }

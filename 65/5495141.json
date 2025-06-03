@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bausch-lomb-easysept-peroxide-lensvloeistof/p/5495141",
@@ -33,5 +33,6 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "Medisch hulpmiddel - 360ml"
+  "description": "Medisch hulpmiddel - 360ml",
+  "image": "/medias/prd-front-5495141-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzgyOTJ8aW1hZ2UvanBlZ3xhR1JpTDJoaE5TOHhOek0zTWpNMU9ETTBORGN6TkM5d2NtUXRabkp2Ym5RdE5UUTVOVEUwTVMweFh6WXdNSGcyTURBfDg0OTY1MGNjNDNiYzIyZWY4YWVhNDA4MmE4Y2NiMDQ2YTNjZDMyMjNlZGUwYmNkMjQ2YzcxOTk1ODliMDVjM2M"
 }

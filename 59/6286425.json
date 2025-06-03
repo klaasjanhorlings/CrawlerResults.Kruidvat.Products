@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zand-Watertafel",
+  "code": "6286425",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2263 > 4939 > 4985 > 5031 > 5921 > 6023",
+  "supplier": "OTTO SIMON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/zand-watertafel/p/6286425",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 61682353,
+      "name": "Waterspeelgoed"
+    }
+  ],
+  "description": "44cm x 35cm x 28cm",
+  "image": "/medias/sys_master/prd-images/h0c/h68/33951073009694/prd-front-6286425-1_600x600/prd-front-6286425-1-600x600.jpg"
+}

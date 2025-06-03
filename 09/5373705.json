@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mattel Pictionary Air",
+  "code": "5373705",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mattel-pictionary-air/p/5373705",
+  "listName": "Lister",
+  "brand": "Mattel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel"
+}

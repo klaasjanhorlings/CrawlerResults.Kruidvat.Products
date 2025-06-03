@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "True Spirit 7/8 Damesbroek",
+  "code": "6251719",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2640 > 3325 > 3802 > 4829 > 5928 > 6038",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-7/8-damesbroek/p/6251719",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "zandkleur, mt L",
+  "image": "/medias/sys_master/prd-images/hc9/h35/33918569283614/prd-front-6251719-1_600x600/prd-front-6251719-1-600x600.jpg"
+}

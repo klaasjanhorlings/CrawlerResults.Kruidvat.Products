@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Pokémon Kinder-T-Shirts",
+  "code": "6266356",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5808 > 5810 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "VAN DER ERVE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pokemon-kinder-t-shirts/p/6266356",
+  "listName": "Lister",
+  "brand": "Pokemon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "wit, lila, 2 stuks, mt 104-110",
+  "image": "/medias/sys_master/prd-images/h77/h42/34239077875742/prd-front-6266356-1_600x600/prd-front-6266356-1-600x600.jpg"
+}
