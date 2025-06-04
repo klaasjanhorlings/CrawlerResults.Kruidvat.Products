@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "True Spirit Mama-tas",
   "code": "6174292",
   "price": "12.99",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536082,
+      "name": "Fashion"
     },
     {
-      "id": 49880156,
-      "name": "Onderweg"
+      "id": 30266046,
+      "name": "Accessoires"
     },
     {
-      "id": 51606545,
-      "name": "Luiertassen"
+      "id": 30266863,
+      "name": "Tassen"
     }
   ],
   "description": "bruin, 54cm x 37cm x 12cm",

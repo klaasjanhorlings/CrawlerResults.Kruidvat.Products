@@ -5,7 +5,7 @@
   "code": "5754694",
   "price": "18.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
   "onPromo": "1052613",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hb8/h23/33480534229022/prd-front-5754694-1_600x600/prd-front-5754694-1-600x600.jpg"
 }

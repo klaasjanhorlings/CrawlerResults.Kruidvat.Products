@@ -5,7 +5,7 @@
   "code": "6304695",
   "price": "16.65",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
+  "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
   "onPromo": "1053321",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266915,
-      "name": "Reinigingsgel"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "473ml",

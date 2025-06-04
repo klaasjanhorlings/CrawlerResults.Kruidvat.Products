@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Tristar PD3853 Keramische Bureaukachel",
   "code": "6165927",
   "price": "9.99",
@@ -29,5 +29,6 @@
       "name": "Kachels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2d/hf9/31639265116190/prd-front-6165927-1_600x600/prd-front-6165927-1-600x600.jpg"
 }

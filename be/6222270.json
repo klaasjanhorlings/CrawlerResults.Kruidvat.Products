@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "True Spirit Damestrui",
   "code": "6222270",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Dameskleding"
     }
   ],
-  "description": "crèmewit, mt S-M",
-  "image": "/medias/sys_master/prd-images/h3a/hcf/33048316772382/prd-front-6222270-1_600x600/prd-front-6222270-1-600x600.jpg"
+  "description": "crèmewit, mt S-M"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "CEDO HOUSEHOLD PRODUCTS",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052521",
+  "mmkId": "1052521",
+  "productGroupId": "470084",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-hygienische-wegwerp-zakjes/p/28328",
@@ -33,8 +33,8 @@
       "name": "Incontinentie"
     },
     {
-      "id": 30266923,
-      "name": "Incontinentieverband"
+      "id": 30266922,
+      "name": "Incontinentie-inlegkruisjes"
     }
   ],
   "description": "50 stuks",

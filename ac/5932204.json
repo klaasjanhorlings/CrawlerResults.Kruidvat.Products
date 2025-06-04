@@ -5,7 +5,7 @@
   "code": "5932204",
   "price": "17.95",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
   "onPromo": "1053321",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "470ml",

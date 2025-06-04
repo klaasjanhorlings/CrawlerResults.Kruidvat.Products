@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "True Spirit Stalen Horloge",
   "code": "6192310",
   "price": "7.99",
@@ -29,8 +29,8 @@
       "name": "Accessoires"
     },
     {
-      "id": 86672226,
-      "name": "Horloges"
+      "id": 30266860,
+      "name": "Sieraden en bijoux"
     }
   ],
   "description": "zilverkleur",

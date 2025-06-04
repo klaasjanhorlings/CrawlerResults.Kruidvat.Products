@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Villa Volance Horen Zien Zwijgen Lamp",
   "code": "6178394",
   "price": "12.99",
@@ -29,6 +29,5 @@
       "name": "Verlichting"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h59/hb7/31908382015518/prd-front-6178394-1_600x600/prd-front-6178394-1-600x600.jpg"
+  "description": ""
 }

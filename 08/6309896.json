@@ -5,7 +5,7 @@
   "code": "6309896",
   "price": "15.5",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
+  "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
   "onPromo": "1053321",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 84945977,
-      "name": "Exfoliant"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266916,
+      "name": "Cleanser"
     }
   ],
   "description": "236ml",

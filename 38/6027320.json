@@ -5,7 +5,7 @@
   "code": "6027320",
   "price": "23.95",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
   "onPromo": "1052586",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266604,
-      "name": "Oogcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "15ml, vochtarme en vermoeide huid",

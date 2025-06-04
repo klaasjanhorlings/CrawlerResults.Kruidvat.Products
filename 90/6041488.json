@@ -5,7 +5,7 @@
   "code": "6041488",
   "price": "16.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5665 > 6702",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
   "supplier": "KENVUE",
   "inStock": "inStock",
   "onPromo": "1052611",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 84945977,
-      "name": "Exfoliant"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "125ml - Alle huidtypen en onzuivere huid",

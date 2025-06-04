@@ -5,7 +5,7 @@
   "code": "5835401",
   "price": "18.65",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
   "onPromo": "1053321",
@@ -25,10 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "52ml",
-  "image": "/medias/sys_master/prd-images/h38/h61/34415336128542/prd-front-5835401-1_600x600/prd-front-5835401-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb6/hb1/34426598096926/prd-front-5835401-1_600x600/prd-front-5835401-1-600x600.jpg"
 }

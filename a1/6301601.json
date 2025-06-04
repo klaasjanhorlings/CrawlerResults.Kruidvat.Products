@@ -5,7 +5,7 @@
   "code": "6301601",
   "price": "14.95",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "BMEDCARE BV",
   "inStock": "inStock",
   "onPromo": "1053321",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87639222,
+      "name": "Gezichtsolie"
     }
   ],
   "description": "30ml",

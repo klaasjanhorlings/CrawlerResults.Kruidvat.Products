@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6018",
   "supplier": "CLEMENTONI SPA",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,8 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266034,
-      "name": "Educatief speelgoed"
+      "id": 30266027,
+      "name": "Spellen en puzzels"
+    },
+    {
+      "id": 30266837,
+      "name": "Puzzels"
     }
   ],
   "description": "Nederlandstalig spel",

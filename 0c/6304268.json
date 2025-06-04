@@ -29,10 +29,14 @@
       "name": "Skincare"
     },
     {
-      "id": 30266603,
-      "name": "Nachtcreme"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87639222,
+      "name": "Gezichtsolie"
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h59/hdf/34426280280094/prd-front-6304268-1_600x600/prd-front-6304268-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h09/h28/34435572039710/prd-front-6304268-1_600x600/prd-front-6304268-1-600x600.jpg"
 }

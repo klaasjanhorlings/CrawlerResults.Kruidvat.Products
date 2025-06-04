@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
   "supplier": "DP FACTORY BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Kopjes en mokken"
     }
   ],
-  "description": "beige, 300ml"
+  "description": "beige, 300ml",
+  "image": "/medias/sys_master/prd-images/hff/h8f/34312584560670/prd-front-6257144-1_600x600/prd-front-6257144-1-600x600.jpg"
 }
