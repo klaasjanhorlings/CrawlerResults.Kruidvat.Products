@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "YARI BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "1kg"
+  "description": "1kg",
+  "image": "/medias/prd-front-5431042-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjkzMjV8aW1hZ2UvanBlZ3xhREpqTDJneE1DOHhOalUxTkRJNE56RTJPVFUyTmk5d2NtUXRabkp2Ym5RdE5UUXpNVEEwTWkweFh6WXdNSGcyTURBfDIyN2U2ZjQzODY1MWM4ZjYyMmI5MzRlMDllY2M3ZTM4YjIyODkzNzkzZDk2ZTM5OGI2YjdmODRiNzA3YzdkYTM"
 }
