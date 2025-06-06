@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6618 > 2001",
   "supplier": "L. TEN CATE BV",
-  "inStock": "inStock",
-  "onPromo": "1052660",
-  "mmkId": "1052660",
-  "productGroupId": "478343",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cotton-shape-highleg-damesslips/p/5461814",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt M, 2 stuks"
+  "description": "zwart, mt M, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h7f/h47/27773257547806/prd-front-5461814-1_600x600/prd-front-5461814-1-600x600.jpg"
 }

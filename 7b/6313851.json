@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Marcel's Green Soap Patchouli Cranberry Universeel Wasmiddel",
+  "code": "6313851",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "GREEN SOAP COMPANY BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/marcels-green-soap-patchouli-cranberry-universeel-wasmiddel/p/6313851",
+  "listName": "Lister",
+  "brand": "Marcel's Green Soap",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266066,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "3L, 69 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h22/h7b/34145600372766/prd-front-6313851-1_600x600/prd-front-6313851-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hasbro Play-Doh Classic Colors",
+  "code": "6016589",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hasbro-play-doh-classic-colors/p/6016589",
+  "listName": "Lister",
+  "brand": "Play-Doh",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266030,
+      "name": "Hobby en creatief"
+    }
+  ],
+  "description": "15 stuks",
+  "image": "/medias/sys_master/prd-images/h05/h23/29654190325790/prd-front-6016589-1_600x600/prd-front-6016589-1-600x600.jpg"
+}

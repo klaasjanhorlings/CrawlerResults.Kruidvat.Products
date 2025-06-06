@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "NAIF CARE BV",
-  "inStock": "inStock",
-  "onPromo": "1052476",
-  "mmkId": "1052476",
-  "productGroupId": "461144",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-baby-kids-2-in-1-shampoo-body-wash/p/6122793",
@@ -29,12 +29,12 @@
       "name": "Babyverzorging"
     },
     {
-      "id": 30266777,
-      "name": "Baby bad- en doucheverzorging"
+      "id": 30266775,
+      "name": "Baby haarverzorging"
     },
     {
-      "id": 30267021,
-      "name": "Babywasgel"
+      "id": 30267012,
+      "name": "Babyshampoo"
     }
   ],
   "description": "200ml",

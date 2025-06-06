@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Super Ninja Waspinator Wespenverjager",
+  "code": "6313865",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2907 > 6067",
+  "supplier": "SUPER NINJA (FRUIT FLY NINJA BV)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/super-ninja-waspinator-wespenverjager/p/6313865",
+  "listName": "Lister",
+  "brand": "Fruit Fly Ninja",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266896,
+      "name": "Insectenbestrijding"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha2/h2f/34415992340510/prd-front-6313865-1_600x600/prd-front-6313865-1-600x600.jpg"
+}
