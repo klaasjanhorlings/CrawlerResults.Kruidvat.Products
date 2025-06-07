@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2629 > 2795 > 3536",
   "supplier": "KELLOGG'S",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1040786",
+  "mmkId": "1040786",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -20,6 +20,10 @@
   "mpShopId": "1",
   "isSponsored": "false",
   "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
     {
       "id": 30266076,
       "name": "Eten en drinken"

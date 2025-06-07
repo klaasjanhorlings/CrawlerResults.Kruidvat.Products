@@ -21,18 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30265999,
-      "name": "Zonbescherming"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 30266657,
-      "name": "Zonnebrand"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h94/hb4/34455390486558/prd-front-6200563-1_600x600/prd-front-6200563-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h39/h95/34466124333086/prd-front-6200563-1_600x600/prd-front-6200563-1-600x600.jpg"
 }

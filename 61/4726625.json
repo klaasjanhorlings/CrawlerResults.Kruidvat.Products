@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "KENVUE",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052586",
+  "mmkId": "1052586",
+  "productGroupId": "474526",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-hydro-boost-3-in-1-micellair-water/p/4726625",
@@ -25,8 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266913,
+      "name": "Micellair water"
     }
   ],
   "description": "400ml - Alle huidtypen",

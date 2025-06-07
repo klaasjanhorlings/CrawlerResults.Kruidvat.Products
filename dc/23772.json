@@ -21,6 +21,10 @@
   "isSponsored": "false",
   "categories": [
     {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
       "id": 30266076,
       "name": "Eten en drinken"
     },
@@ -33,5 +37,6 @@
       "name": "Snoep"
     }
   ],
-  "description": "500g"
+  "description": "500g",
+  "image": "/medias/sys_master/prd-images/hdd/hc7/29275334246430/prd-front-23772-1_600x600/prd-front-23772-1-600x600.jpg"
 }

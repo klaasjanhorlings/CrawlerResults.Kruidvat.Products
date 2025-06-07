@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2716 > 3419",
   "supplier": "DR LEENARTS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052613",
+  "mmkId": "1052613",
+  "productGroupId": "476649",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-extra-vettende-badolie/p/5894152",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hc3/h1a/27823448621086/prd-front-5894152-1_600x600/prd-front-5894152-1-600x600.jpg"
 }
