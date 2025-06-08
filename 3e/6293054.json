@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7e/hbc/33749810020382/prd-front-6293054-1_600x600/prd-front-6293054-1-600x600.jpg"
+  "description": ""
 }

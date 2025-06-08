@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "1052575",
-  "mmkId": "1052575",
-  "productGroupId": "473138",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/diadermine-lift-direct-effect-capsules/p/259214",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "7 stuks - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/ha8/h53/34462511071262/prd-front-259214-1_600x600/prd-front-259214-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h83/h81/34472380530718/prd-front-259214-1_600x600/prd-front-259214-1-600x600.jpg"
 }

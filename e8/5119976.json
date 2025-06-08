@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "4870 > 6017 > 2173 > 2427 > 3260 > 4158",
   "supplier": "FUJIFILM IMAGING PRODUC",
-  "inStock": "inStock",
-  "onPromo": "1052626",
-  "mmkId": "1052626",
-  "productGroupId": "477627",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fujifilm-instax-square-film-fotopapier/p/5119976",
@@ -33,5 +33,6 @@
       "name": "Instax fotopapier"
     }
   ],
-  "description": "2 x 10 stuks"
+  "description": "2 x 10 stuks",
+  "image": "/medias/sys_master/prd-images/hf9/h82/27535495462942/prd-front-5119976-1_600x600/prd-front-5119976-1-600x600.jpg"
 }
