@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052894",
+  "mmkId": "1052894",
+  "productGroupId": "469704",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-stronger-for-longer-hair-shampoo/p/6240736",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h2f/h3e/32929698742302/prd-front-6240736-1_600x600/prd-front-6240736-1-600x600.jpg"
+  "description": "400ml"
 }

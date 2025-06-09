@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Philips Sonicare Premium All-in-One HX9092/87 Opzetborstels",
   "code": "6298276",
-  "price": "14.99",
+  "price": "42.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2885 > 4228 > 5693",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 2 stuks"
+  "description": "wit, 2 stuks",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

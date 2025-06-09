@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 6065",
   "supplier": "EUROSTYLE BV",
   "inStock": "inStock",
-  "onPromo": "1052477",
-  "mmkId": "1052477",
-  "productGroupId": "461341",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ecostyle-slakvrij-koperband/p/6283422",
@@ -29,6 +29,5 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "4m",
-  "image": "/medias/sys_master/prd-images/h68/hd5/34100124549150/prd-front-6283422-1_600x600/prd-front-6283422-1-600x600.jpg"
+  "description": "4m"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Autostoel Tekentafel",
+  "code": "6257452",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2195 > 4910 > 4956 > 5860 > 5926 > 6727",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/autostoel-tekentafel/p/6257452",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266024,
+      "name": "Verrassend Babyvoordeel"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8d/h33/33550473986078/prd-front-6257452-1_600x600/prd-front-6257452-1-600x600.jpg"
+}

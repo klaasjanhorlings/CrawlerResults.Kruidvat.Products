@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1052489",
-  "mmkId": "1052489",
-  "productGroupId": "463444",
+  "onPromo": "1052879",
+  "mmkId": "1052879",
+  "productGroupId": "463443",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-men-sport-energy-boost-deodorant-spray/p/2405446",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h2e/h73/28039091814430/prd-front-2405446-1_600x600/prd-front-2405446-1-600x600.jpg"
 }

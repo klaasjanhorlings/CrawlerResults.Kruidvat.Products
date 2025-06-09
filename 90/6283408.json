@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2907 > 6067",
   "supplier": "EUROSTYLE BV",
   "inStock": "inStock",
-  "onPromo": "1052477",
-  "mmkId": "1052477",
-  "productGroupId": "461341",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ecostyle-fruitvliegval/p/6283408",
@@ -29,6 +29,5 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/haf/h55/34103554801694/prd-front-6283408-1_600x600/prd-front-6283408-1-600x600.jpg"
+  "description": ""
 }

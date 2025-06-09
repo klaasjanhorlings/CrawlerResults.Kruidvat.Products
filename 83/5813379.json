@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "SUNVAL BABY FOOD GMBH",
   "inStock": "inStock",
-  "onPromo": "1052605",
-  "mmkId": "1052605",
-  "productGroupId": "476237",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-bio-6m-wortel-zoete-aardappel-kip-broccoli-mais-maaltijd/p/5813379",
@@ -37,5 +37,6 @@
       "name": "6+ maanden"
     }
   ],
-  "description": "380g"
+  "description": "380g",
+  "image": "/medias/prd-front-5813379-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTAzNDF8aW1hZ2UvanBlZ3xhRGd3TDJoaE1pOHlOalF3T1RJNE5UZzNOemM1TUM5d2NtUXRabkp2Ym5RdE5UZ3hNek0zT1MweFh6WXdNSGcyTURBfDUzYzQwZjI5YmYzNTdlNTc3NmM1Yjg2OWUxYTlkZTE0Y2E2MWM3YzllYjA2ZDI0NTk1YWU0ZTdlZTMxMWJjNTk"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052932",
+  "mmkId": "1052932",
+  "productGroupId": "475255",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/beauty-of-joseon-glow-deep-serum/p/6199863",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h99/ha8/34473624403998/prd-front-6199863-1_600x600/prd-front-6199863-1-600x600.jpg"
+  "description": "30ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1052560",
-  "mmkId": "1052560",
-  "productGroupId": "472205",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bondi-sands-ultra-dark-self-tanning-foam/p/6022546",
@@ -33,5 +33,6 @@
       "name": "Zelfbruiners"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h12/hd3/33356044599326/prd-front-6022546-1_600x600/prd-front-6022546-1-600x600.jpg"
 }

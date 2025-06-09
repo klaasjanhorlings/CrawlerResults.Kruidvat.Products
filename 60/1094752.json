@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 4144",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052876",
+  "mmkId": "1052876",
+  "productGroupId": "461347",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-insectenspray-tegen-kruipende-insecten-en-wespen/p/1094752",
@@ -29,6 +29,5 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h8d/h96/27777957199902/prd-front-1094752-1_600x600/prd-front-1094752-1-600x600.jpg"
+  "description": "400ml"
 }

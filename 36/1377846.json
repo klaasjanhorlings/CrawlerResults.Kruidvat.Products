@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
   "supplier": "DRYLOCK TECHNOLOGIES SR",
   "inStock": "inStock",
-  "onPromo": "1052521",
-  "mmkId": "1052521",
-  "productGroupId": "470084",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-ultra-normal-maandverband/p/1377846",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "16 stuks"
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/h93/h6e/33391884435486/prd-front-1377846-1_600x600/prd-front-1377846-1-600x600.jpg"
 }

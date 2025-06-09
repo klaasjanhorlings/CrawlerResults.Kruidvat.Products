@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1052934",
+  "mmkId": "1052934",
+  "productGroupId": "475317",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-2000-calorie-dramatic-volume-001-black-waterproof-mascara/p/2402898",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h92/hfa/30917613781022/prd-front-2402898-1_600x600/prd-front-2402898-1-600x600.jpg"
 }

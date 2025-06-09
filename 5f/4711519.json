@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 3270 > 4171",
   "supplier": "TOBY'S BV",
   "inStock": "inStock",
-  "onPromo": "1052650",
-  "mmkId": "1052650",
-  "productGroupId": "478155",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-ultradent-original-kleefpasta/p/4711519",
@@ -33,5 +33,6 @@
       "name": "Kleefpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 75g"
+  "description": "Medisch hulpmiddel - 75g",
+  "image": "/medias/sys_master/prd-images/hf7/h0c/28794790412318/prd-front-4711519-1_600x600/prd-front-4711519-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Opblaasdier Unicorn",
+  "code": "6290051",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4830 > 5178 > 5286 > 5475 > 5921 > 6023",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/opblaasdier-unicorn/p/6290051",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30266838,
+      "name": "Zwembaden en opblaasfiguren"
+    }
+  ],
+  "description": "138cm x 70cm x 24cm",
+  "image": "/medias/sys_master/prd-images/hf8/hfd/34315738054686/prd-front-6290051-1_600x600/prd-front-6290051-1-600x600.jpg"
+}

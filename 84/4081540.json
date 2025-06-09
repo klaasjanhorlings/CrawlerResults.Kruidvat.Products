@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "OCEANIC SP. Z O.O.",
   "inStock": "inStock",
-  "onPromo": "1052589",
-  "mmkId": "1052589",
-  "productGroupId": "475310",
+  "onPromo": "1052931",
+  "mmkId": "1052931",
+  "productGroupId": "475243",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-skin-science-wrinkle-reducing-serum/p/4081540",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/hee/hd2/28801221951518/prd-front-4081540-1_600x600/prd-front-4081540-1-600x600.jpg"
 }

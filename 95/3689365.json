@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1052452",
-  "mmkId": "1052452",
-  "productGroupId": "486936",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pantene-active-nutri-plex-pro-v-classic-clean-shampoo/p/3689365",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml - Normaal tot vet haar"
+  "description": "400ml - Normaal tot vet haar",
+  "image": "/medias/sys_master/prd-images/h8b/ha0/32283216576542/prd-front-3689365-1_600x600/prd-front-3689365-1-600x600.jpg"
 }

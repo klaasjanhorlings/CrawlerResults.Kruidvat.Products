@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1052616",
-  "mmkId": "1052616",
-  "productGroupId": "476768",
+  "onPromo": "1053004",
+  "mmkId": "1053004",
+  "productGroupId": "483916",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-vitamin-c-aha24-serum/p/5583390",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "40 ml - Alle huidtypen"
+  "description": "40 ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h07/h33/33929017393182/prd-front-5583390-1_600x600/prd-front-5583390-1-600x600.jpg"
 }

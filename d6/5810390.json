@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 3025 > 3850",
   "supplier": "SUNVAL BABY FOOD GMBH",
   "inStock": "inStock",
-  "onPromo": "1052605",
-  "mmkId": "1052605",
-  "productGroupId": "476237",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-12m-bio-aardappel-groenten-linzen-maaltijd/p/5810390",
@@ -37,5 +37,6 @@
       "name": "12+ maanden"
     }
   ],
-  "description": "500g"
+  "description": "500g",
+  "image": "/medias/prd-front-5810390-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTQzNzF8aW1hZ2UvanBlZ3xhR05tTDJoaVlTOHlOalF3T1RJNU1EQXdOalUxT0M5d2NtUXRabkp2Ym5RdE5UZ3hNRE01TUMweFh6WXdNSGcyTURBfGJjN2UwYWVhNmJhNWEwNmIyMjExN2I2MGRiYzNjNjgxNjQ4YzNiYjJjNzUxNGFiMTBkM2I4NjVmMjY4MDMwYWI"
 }

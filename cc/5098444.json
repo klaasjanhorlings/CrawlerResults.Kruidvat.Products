@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1052630",
-  "mmkId": "1052630",
-  "productGroupId": "478026",
+  "onPromo": "1053012",
+  "mmkId": "1053012",
+  "productGroupId": "484341",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zendium-sensitive-tandpasta/p/5098444",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h5c/h98/32096021741598/prd-front-5098444-1_600x600/prd-front-5098444-1-600x600.jpg"
+  "description": "75ml"
 }

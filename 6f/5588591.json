@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ALL-IN-1 BVBA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053005",
+  "mmkId": "1053005",
+  "productGroupId": "483986",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/remescar-retinol-anti-aging-serum/p/5588591",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hb0/h15/29678616608798/prd-front-5588591-1_600x600/prd-front-5588591-1-600x600.jpg"
 }

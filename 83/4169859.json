@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "CAMPS FOOD BV",
   "inStock": "inStock",
-  "onPromo": "1052690",
-  "mmkId": "1052690",
-  "productGroupId": "486985",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ellas-kitchen-6m-yoghurt-aardbei-griekse-stijl/p/4169859",
@@ -37,6 +37,5 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "90g",
-  "image": "/medias/sys_master/prd-images/h46/ha6/28593296736286/prd-front-4169859-1_600x600/prd-front-4169859-1-600x600.jpg"
+  "description": "90g"
 }

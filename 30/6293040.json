@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 6065",
   "supplier": "EUROSTYLE BV",
   "inStock": "inStock",
-  "onPromo": "1052477",
-  "mmkId": "1052477",
-  "productGroupId": "461341",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ecostyle-escar-go-slakkenkorrels/p/6293040",
@@ -29,5 +29,6 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/hfc/h95/34100422017054/prd-front-6293040-1_600x600/prd-front-6293040-1-600x600.jpg"
 }

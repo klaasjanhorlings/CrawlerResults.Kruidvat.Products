@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6413",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Tassen"
     }
   ],
-  "description": "antraciet, 40cm x 15cm x 30cm",
-  "image": "/medias/sys_master/prd-images/h8b/he2/32572527083550/prd-front-6202474-1_600x600/prd-front-6202474-1-600x600.jpg"
+  "description": "antraciet, 40cm x 15cm x 30cm"
 }

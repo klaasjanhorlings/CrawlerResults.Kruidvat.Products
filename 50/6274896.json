@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1052583",
-  "mmkId": "1052583",
-  "productGroupId": "474447",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-halo-glow-powder-filter-fair-neutral-cool-pressed-powder/p/6274896",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "10g"
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/h19/h22/34426953957406/prd-front-6274896-1_600x600/prd-front-6274896-1-600x600.jpg"
 }

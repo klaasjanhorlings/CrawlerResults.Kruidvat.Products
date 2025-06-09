@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1052885",
+  "mmkId": "1052885",
+  "productGroupId": "466686",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-pro-nature-rosemary-refresh-shampoo/p/5829248",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hc5/hdd/27428264771614/prd-front-5829248-1_600x600/prd-front-5829248-1-600x600.jpg"
 }

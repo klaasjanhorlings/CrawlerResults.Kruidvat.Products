@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "OCEANIC SP. Z O.O.",
   "inStock": "inStock",
-  "onPromo": "1052589",
-  "mmkId": "1052589",
-  "productGroupId": "475310",
+  "onPromo": "1052931",
+  "mmkId": "1052931",
+  "productGroupId": "475243",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-skin-science-brightening-correcting-serum/p/5675538",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h01/h1f/34481381146654/prd-front-5675538-1_600x600/prd-front-5675538-1-600x600.jpg"
 }
