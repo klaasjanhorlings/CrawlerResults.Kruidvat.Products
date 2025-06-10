@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Lash Princess Curl & Volume Black Mascara",
   "code": "5506614",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "12ml"
+  "description": "12ml",
+  "image": "/medias/sys_master/prd-images/h03/h72/33040357556254/prd-front-5506614-1_600x600/prd-front-5506614-1-600x600.jpg"
 }

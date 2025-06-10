@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA 5-In-1 SPF15 Lichte Huidskleur BB Dagcrème",
   "code": "2636110",
   "price": "14.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1053094",
-  "mmkId": "1053094",
-  "productGroupId": "490806",
+  "onPromo": "1052903",
+  "mmkId": "1052903",
+  "productGroupId": "471184",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-5-in-1-spf15-lichte-huidskleur-bb-dagcreme/p/2636110",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h1d/ha1/34490669891614/prd-front-2636110-1_600x600/prd-front-2636110-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Bodybutter"
     }
   ],
-  "description": "225g",
-  "image": "/medias/sys_master/prd-images/h4d/h79/28760406032414/prd-front-4773637-1_600x600/prd-front-4773637-1-600x600.jpg"
+  "description": "225g"
 }

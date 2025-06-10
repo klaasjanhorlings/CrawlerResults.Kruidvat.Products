@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Vaseline Original Lippenbalsem",
   "code": "1284781",
   "price": "2.49",
@@ -33,6 +33,5 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "20g",
-  "image": "/medias/prd-front-1284781-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzc5NjB8aW1hZ2UvanBlZ3xhREUwTDJnNU1pOHlOall6T0RVd09EazBPVFV6TkM5d2NtUXRabkp2Ym5RdE1USTRORGM0TVMweFh6WXdNSGcyTURBfDU5N2JmMTAzZWJmNTk1MmRmOGQzYWViYzQ4NjgwZjdiYWMxMGY0ZjQ3OGVlOWNkMWYxNGQ4NDRjYzIyNDliNTY"
+  "description": "20g"
 }

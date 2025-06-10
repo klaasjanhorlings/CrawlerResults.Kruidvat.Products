@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Glow Rijstscrub",
   "code": "4982006",
   "price": "10.49",
@@ -37,6 +37,5 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "75ml- Droge en gevoelige huid",
-  "image": "/medias/sys_master/prd-images/hc2/h20/34479102492702/prd-front-4982006-1_600x600/prd-front-4982006-1-600x600.jpg"
+  "description": "75ml- Droge en gevoelige huid"
 }

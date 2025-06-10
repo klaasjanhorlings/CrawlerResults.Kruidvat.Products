@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Verzachtende Reinigingsmelk",
   "code": "1306215",
   "price": "7.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/hca/h75/34480625090590/prd-front-1306215-1_600x600/prd-front-1306215-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5e/h9d/34490669760542/prd-front-1306215-1_600x600/prd-front-1306215-1-600x600.jpg"
 }

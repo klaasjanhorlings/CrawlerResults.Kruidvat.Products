@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bioré Diep Reinigende Poriestrips met Houtskool",
   "code": "4077655",
   "price": "9.49",
@@ -37,5 +37,6 @@
       "name": "Reinigingsstrips"
     }
   ],
-  "description": "6 stuks - Onzuivere huid"
+  "description": "6 stuks - Onzuivere huid",
+  "image": "/medias/sys_master/prd-images/h58/h80/34485472034846/prd-front-4077655-1_600x600/prd-front-4077655-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Salon Nails Natural Look Oval Kunstnagels",
   "code": "2928997",
   "price": "7.99",
@@ -37,5 +37,6 @@
       "name": "Nepnagels"
     }
   ],
-  "description": "216 stuks"
+  "description": "216 stuks",
+  "image": "/medias/prd-front-2928997-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE5MDF8aW1hZ2UvanBlZ3xhR1JqTDJoa01TOHlOekF6T1RVNU16WTJNRFEwTmk5d2NtUXRabkp2Ym5RdE1qa3lPRGs1TnkweFh6WXdNSGcyTURBfGE5NDU4NTZkYjliYzBiMTM0ZDNkYmE3M2FjNGEyMDRhZGJjYWQzNzgyZWI0MzNhMDNjMGViMjY4ZDFhMDI0ZWY"
 }

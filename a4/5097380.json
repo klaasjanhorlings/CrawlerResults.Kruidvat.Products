@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Olay Cleanse Make-up Oplossende Reinigingsmelk",
   "code": "5097380",
   "price": "6.99",
@@ -37,5 +37,6 @@
       "name": "Reinigingsmelk"
     }
   ],
-  "description": "200ml - Alle huidtypen"
+  "description": "200ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h42/h91/27801267077150/prd-front-5097380-1_600x600/prd-front-5097380-1-600x600.jpg"
 }

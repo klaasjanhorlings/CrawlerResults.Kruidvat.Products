@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
-  "onPromo": "1053732",
-  "mmkId": "1053732",
-  "productGroupId": "500062",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sensodyne-gentle-whitening-tandpasta/p/2882909",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "75ml",
-  "image": "/medias/sys_master/prd-images/hae/h80/34484490862622/prd-front-2882909-1_600x600/prd-front-2882909-1-600x600.jpg"
+  "image": "https://www.kruidvat.nl/medias/sys_master/images/h57/h4e/34423830347806/5054563233684_V2a/5054563233684-V2a.png"
 }

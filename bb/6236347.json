@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Got2b Tinted Glued Dark Brown to Black 4 Brows & Edges Gel",
   "code": "6236347",
   "price": "10.99",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwgel"
     }
   ],
-  "description": "16ml"
+  "description": "16ml",
+  "image": "/medias/sys_master/prd-images/h43/h18/34427526086686/prd-front-6236347-1_600x600/prd-front-6236347-1-600x600.jpg"
 }

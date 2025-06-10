@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Garnier Pure Active Salicylic Liquid Care",
   "code": "6236984",
   "price": "14.99",
@@ -33,6 +33,5 @@
       "name": "Exfoliant"
     }
   ],
-  "description": "120ml",
-  "image": "/medias/sys_master/prd-images/hf9/hcd/33154476703774/prd-front-6236984-1_600x600/prd-front-6236984-1-600x600.jpg"
+  "description": "120ml"
 }

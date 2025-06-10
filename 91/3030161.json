@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence 11 Pastel Beige Mattifying Compact Powder",
   "code": "3030161",
   "price": "2.99",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "12g",
-  "image": "/medias/sys_master/prd-images/h90/hbb/30118644875294/prd-front-3030161-1_600x600/prd-front-3030161-1-600x600.jpg"
+  "description": "12g"
 }

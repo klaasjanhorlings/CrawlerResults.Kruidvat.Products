@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Ardell Naked Lashes 421 Kunstwimpers",
   "code": "5134620",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5134620-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzYzNTF8aW1hZ2UvanBlZ3xhR0UyTDJneFl5OHlOalV6TlRreE16VTROamN4T0M5d2NtUXRabkp2Ym5RdE5URXpORFl5TUMweFh6WXdNSGcyTURBfGVkNmI1MDM5MzM5ZGY4YzY3N2RlYjJiMzZkOTQ3MzBiMWM2NjgwMDAxNmUwMTgwYmI2M2UyMjhmZDNjZGIyMGE"
 }

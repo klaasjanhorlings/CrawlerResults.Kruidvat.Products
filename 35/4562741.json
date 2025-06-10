@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kiss Natural Lashes 04C 96690 Gorgeous Kunstwimpers",
   "code": "4562741",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha6/hef/30071539957790/prd-front-4562741-1_600x600/prd-front-4562741-1-600x600.jpg"
 }

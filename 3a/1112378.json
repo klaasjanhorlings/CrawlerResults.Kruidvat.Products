@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 100% Cotton Wattenstaafjes",
   "code": "1112378",
   "price": "0.69",
@@ -33,5 +33,6 @@
       "name": "Wattenschijfjes en staafjes"
     }
   ],
-  "description": "200 stuks"
+  "description": "200 stuks",
+  "image": "/medias/prd-front-1112378-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODczMDB8aW1hZ2UvanBlZ3xhREUxTDJnM01pOHhOelF5TXpBek1UWTJORFkzTUM5d2NtUXRabkp2Ym5RdE1URXhNak0zT0MweFh6WXdNSGcyTURBfDMzZmU5ZWI4NTEyYjcxYzRjMmYxMjRmNGRlYTY5OWJmOGQ4MWVjOTUzNjRiNmJkNzU2NTRiZDRiNDM2OGE0NWE"
 }

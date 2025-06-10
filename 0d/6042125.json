@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sebamed Clear Face Anti-Pimple Gel",
   "code": "6042125",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h2a/hec/30568229404702/prd-front-6042125-1_600x600/prd-front-6042125-1-600x600.jpg"
+  "description": "10ml"
 }

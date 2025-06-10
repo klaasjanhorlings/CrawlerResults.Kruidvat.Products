@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Gel Affair 30 Oh So Fresh! Nagellak",
   "code": "6235283",
   "price": "2.99",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "10,5ml",
-  "image": "/medias/sys_master/prd-images/h44/h13/33044427636766/prd-front-6235283-1_600x600/prd-front-6235283-1-600x600.jpg"
+  "description": "10,5ml"
 }

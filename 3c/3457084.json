@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Intense 3.66 Cosmic Purple Crème Haarkleuring",
   "code": "3457084",
   "price": "6.69",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h60/h54/28217135530014/prd-front-3457084-1_600x600/prd-front-3457084-1-600x600.jpg"
+  "description": ""
 }

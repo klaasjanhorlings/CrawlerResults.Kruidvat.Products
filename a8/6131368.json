@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup SMLC60 Leon Soft Matte Lip Cream",
   "code": "6131368",
   "price": "7.95",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "8ml",
-  "image": "/medias/sys_master/prd-images/h73/he6/31926136242206/prd-front-6131368-1_600x600/prd-front-6131368-1-600x600.jpg"
+  "description": "8ml"
 }

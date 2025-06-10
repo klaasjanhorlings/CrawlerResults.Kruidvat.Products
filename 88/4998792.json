@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Verzachtende Dagcrème met SPF15",
   "code": "4998792",
   "price": "11.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1053094",
-  "mmkId": "1053094",
-  "productGroupId": "490806",
+  "onPromo": "1052903",
+  "mmkId": "1052903",
+  "productGroupId": "471184",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-verzachtende-dagcreme-met-spf15/p/4998792",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h44/he9/34477345898526/prd-front-4998792-1_600x600/prd-front-4998792-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hef/h97/34485477212190/prd-front-4998792-1_600x600/prd-front-4998792-1-600x600.jpg"
 }

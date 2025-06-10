@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Denman D200 The Skeleton Vent Borstel",
   "code": "5949074",
   "price": "12.99",
@@ -33,5 +33,6 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/he4/h82/29088540426270/prd-front-5949074-1_600x600/prd-front-5949074-1-600x600.jpg"
 }

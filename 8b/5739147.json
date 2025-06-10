@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Wrinkle Expert 45+ SPF20 Anti-rimpel Dagcrème",
   "code": "5739147",
   "price": "10.99",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h51/hda/28654786052126/prd-front-5739147-1_600x600/prd-front-5739147-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Excellence Crème 7 Middenblond Permanente Haarverf",
   "code": "16737",
   "price": "19.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hd8/hc3/32293893767198/prd-front-16737-1_600x600/prd-front-16737-1-600x600.jpg"
+  "description": ""
 }

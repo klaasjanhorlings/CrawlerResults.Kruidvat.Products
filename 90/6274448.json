@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "e.l.f. Halo Glow 0.5 Fair Liquid Filter",
   "code": "6274448",
   "price": "16.0",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "31,5ml"
+  "description": "31,5ml",
+  "image": "/medias/sys_master/prd-images/hcd/h4c/34021419286558/prd-front-6274448-1_600x600/prd-front-6274448-1-600x600.jpg"
 }

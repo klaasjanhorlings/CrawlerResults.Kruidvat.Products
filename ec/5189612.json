@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Dubbelzijdige Spiegel",
   "code": "5189612",
   "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6410",
   "supplier": "TREFFINA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Make-up spiegels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfe/h82/28519856832542/prd-front-5189612-1_600x600/prd-front-5189612-1-600x600.jpg"
 }

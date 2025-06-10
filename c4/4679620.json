@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nivea Cellular Expert Lift Anti-Age SPF30 Dagcrème",
   "code": "4679620",
   "price": "36.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1053094",
-  "mmkId": "1053094",
-  "productGroupId": "490806",
+  "onPromo": "1052903",
+  "mmkId": "1052903",
+  "productGroupId": "471184",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-cellular-expert-lift-anti-age-spf30-dagcreme/p/4679620",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Rijpe huid",
-  "image": "/medias/sys_master/prd-images/h75/h2b/34484491255838/prd-front-4679620-1_600x600/prd-front-4679620-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h31/h45/34496916979742/prd-front-4679620-1_600x600/prd-front-4679620-1-600x600.jpg"
 }

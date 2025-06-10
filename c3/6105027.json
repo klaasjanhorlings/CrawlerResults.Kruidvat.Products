@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Lip Lovin' 020 Cherry Pop Overnight Lip Mask",
   "code": "6105027",
   "price": "3.99",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/hce/h9c/31689733636126/prd-front-6105027-1_600x600/prd-front-6105027-1-600x600.jpg"
 }

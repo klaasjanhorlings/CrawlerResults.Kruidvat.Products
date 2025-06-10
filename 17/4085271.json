@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Colors to Cover 4-5 Donkerbruin Uitgroeispray",
   "code": "4085271",
   "price": "5.49",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hb4/hfe/28030554406942/prd-front-4085271-1_600x600/prd-front-4085271-1-600x600.jpg"
+  "description": "100ml"
 }

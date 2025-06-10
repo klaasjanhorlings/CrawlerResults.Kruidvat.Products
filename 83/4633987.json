@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Infaillible 120 Vanille SPF25 32H Fresh Wear Foundation",
   "code": "4633987",
   "price": "19.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1053077",
-  "mmkId": "1053077",
-  "productGroupId": "488598",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-120-vanille-spf25-32h-fresh-wear-foundation/p/4633987",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hc9/h33/31771650359326/prd-front-4633987-1_600x600/prd-front-4633987-1-600x600.jpg"
 }

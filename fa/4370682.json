@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA SPF30 24H Hydration Voedende Dagcrème",
   "code": "4370682",
   "price": "13.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1053094",
-  "mmkId": "1053094",
-  "productGroupId": "490806",
+  "onPromo": "1052903",
+  "mmkId": "1052903",
+  "productGroupId": "471184",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-spf30-24h-hydration-voedende-dagcreme/p/4370682",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Droge en gecombineerde huid"
+  "description": "50ml - Droge en gecombineerde huid",
+  "image": "/medias/sys_master/prd-images/he8/h94/34487873437726/prd-front-4370682-1_600x600/prd-front-4370682-1-600x600.jpg"
 }

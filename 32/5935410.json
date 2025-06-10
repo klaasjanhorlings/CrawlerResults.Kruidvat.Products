@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "CeraVe Resurfacing Retinol Serum",
   "code": "5935410",
   "price": "23.25",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/he5/he3/34477707755550/prd-front-5935410-1_600x600/prd-front-5935410-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hde/h66/34485809479710/prd-front-5935410-1_600x600/prd-front-5935410-1-600x600.jpg"
 }

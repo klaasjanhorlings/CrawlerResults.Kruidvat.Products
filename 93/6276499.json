@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Peppe Jeans London Mini Gift Collection Geschenkset",
   "code": "6276499",
   "price": "36.95",
@@ -29,7 +29,11 @@
       "name": "Geschenksets"
     },
     {
-      "id": 76977667,
+      "id": 72656138,
+      "name": "Geschenkset voor haar"
+    },
+    {
+      "id": 72654960,
       "name": "Parfum geschenkset voor haar"
     }
   ],

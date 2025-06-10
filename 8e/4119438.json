@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Fit Me Matte 120 Classic Poreless Powder",
   "code": "4119438",
   "price": "10.99",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-4119438-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjU0MDN8aW1hZ2UvanBlZ3xhREV3TDJnMU5TOHhOamd6TWpFeE5UTXhNRFl5TWk5d2NtUXRabkp2Ym5RdE5ERXhPVFF6T0MweFh6WXdNSGcyTURBfDcwODhmMGJlMzdjYTg0YTk3ZGUzOGVjOWVmM2NmMzMzNzk4ZGI4MTA0M2Q3NDMxYmU2NjJjZDIzYjQzOGQ1NzQ"
+  "description": ""
 }

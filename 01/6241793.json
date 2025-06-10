@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Superstay 367 Lumi Matte Foundation",
   "code": "6241793",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb4/h9d/33604970840094/prd-front-6241793-1_600x600/prd-front-6241793-1-600x600.jpg"
 }

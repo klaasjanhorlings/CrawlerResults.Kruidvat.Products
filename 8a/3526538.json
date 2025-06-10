@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Refreshing Micellair Water",
   "code": "3526538",
   "price": "5.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h68/h75/34479620456478/prd-front-3526538-1_600x600/prd-front-3526538-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hec/h9e/34488873811998/prd-front-3526538-1_600x600/prd-front-3526538-1-600x600.jpg"
 }

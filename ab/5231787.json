@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice More Than Glow Ultimate Platinum Glaze Highlighter",
   "code": "5231787",
   "price": "4.49",
@@ -33,6 +33,5 @@
       "name": "Highlighter"
     }
   ],
-  "description": "5,9g",
-  "image": "/medias/sys_master/prd-images/heb/hbc/29924065050654/prd-front-5231787-1_600x600/prd-front-5231787-1-600x600.jpg"
+  "description": "5,9g"
 }

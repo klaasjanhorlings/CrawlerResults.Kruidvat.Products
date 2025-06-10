@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "e.l.f. Soft Glam 44 Tan Cool Satin Foundation",
   "code": "6274686",
   "price": "9.0",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hd9/hc3/34025829171230/prd-front-6274686-1_600x600/prd-front-6274686-1-600x600.jpg"
+  "description": "30ml"
 }

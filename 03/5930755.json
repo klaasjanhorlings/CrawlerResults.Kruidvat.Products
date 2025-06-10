@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Biovène Barcelona Hydrapower Eye Roll-On Serum",
   "code": "5930755",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hb5/hf1/34490783989790/prd-front-5930755-1_600x600/prd-front-5930755-1-600x600.jpg"
 }

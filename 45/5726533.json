@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Yeauty Energy Elixir Oogmaskers",
   "code": "5726533",
   "price": "1.0",
@@ -37,5 +37,6 @@
       "name": "Oogmaskers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h61/hdc/33766096797726/prd-front-5726533-1_600x600/prd-front-5726533-1-600x600.jpg"
 }

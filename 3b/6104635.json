@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Space Glam 020 Cosmic Lights Liquid Chrome Eyeshadow",
   "code": "6104635",
   "price": "4.99",
@@ -37,6 +37,5 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": "2,2ml",
-  "image": "/medias/sys_master/prd-images/h00/h18/31462611124254/prd-front-6104635-1_600x600/prd-front-6104635-1-600x600.jpg"
+  "description": "2,2ml"
 }

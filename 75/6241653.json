@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Lash Sensational Sky High Green Altitude Mascara",
   "code": "6241653",
   "price": "20.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h15/h46/33349150703646/prd-front-6241653-1_600x600/prd-front-6241653-1-600x600.jpg"
 }

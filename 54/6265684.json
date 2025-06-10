@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Garnier Olia 8.31 Goud Asblond Permanente Haarkleuring",
   "code": "6265684",
   "price": "15.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6d/hc2/33360493150238/prd-front-6265684-1_600x600/prd-front-6265684-1-600x600.jpg"
 }

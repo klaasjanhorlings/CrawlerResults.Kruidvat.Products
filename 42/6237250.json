@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Revitalift Laser Serum",
   "code": "6237250",
   "price": "39.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1053077",
-  "mmkId": "1053077",
-  "productGroupId": "488598",
+  "onPromo": "1053003",
+  "mmkId": "1053003",
+  "productGroupId": "483892",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-revitalift-laser-serum/p/6237250",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/ha8/hff/34479320596510/prd-front-6237250-1_600x600/prd-front-6237250-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he0/ha7/34487897161758/prd-front-6237250-1_600x600/prd-front-6237250-1-600x600.jpg"
 }

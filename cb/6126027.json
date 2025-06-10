@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4152",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053331",
+  "mmkId": "1053331",
+  "productGroupId": "498627",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/donttellmum-eczeem-repair-junior/p/6126027",
@@ -37,6 +37,5 @@
       "name": "Eczeemcreme"
     }
   ],
-  "description": "Medisch hulpmiddel - 50ml",
-  "image": "/medias/sys_master/prd-images/hf0/hd5/31388008742942/prd-front-6126027-1_600x600/prd-front-6126027-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 50ml"
 }

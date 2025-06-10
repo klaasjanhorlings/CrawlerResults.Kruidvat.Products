@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1053093",
-  "mmkId": "1053093",
-  "productGroupId": "490761",
+  "onPromo": "1052958",
+  "mmkId": "1052958",
+  "productGroupId": "479444",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-hydraplus-spf30-zonnecreme-voor-het-gezicht/p/4700907",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h69/h4e/34371516858398/prd-front-4700907-1_600x600/prd-front-4700907-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Superstay 24H 760 Pink Spice Lippenstift",
   "code": "2035538",
   "price": "17.99",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8e/hd2/29031550812190/prd-front-2035538-1_600x600/prd-front-2035538-1-600x600.jpg"
 }

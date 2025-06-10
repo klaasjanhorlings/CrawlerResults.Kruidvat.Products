@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "CeraVe Verbeterende Oogcrème ",
   "code": "5909391",
   "price": "18.65",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "14 ml",
-  "image": "/medias/sys_master/prd-images/h6b/h5d/34482303172638/prd-front-5909391-1_600x600/prd-front-5909391-1-600x600.jpg"
+  "description": "14 ml"
 }

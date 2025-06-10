@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Bright Reveal Dark Spot Uv Tinted Glow Fluid",
   "code": "6236928",
   "price": "29.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1053077",
-  "mmkId": "1053077",
-  "productGroupId": "488598",
+  "onPromo": "1053003",
+  "mmkId": "1053003",
+  "productGroupId": "483892",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-bright-reveal-dark-spot-uv-tinted-glow-fluid/p/6236928",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h76/h73/34480287285278/prd-front-6236928-1_600x600/prd-front-6236928-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8c/h02/34489914818590/prd-front-6236928-1_600x600/prd-front-6236928-1-600x600.jpg"
 }

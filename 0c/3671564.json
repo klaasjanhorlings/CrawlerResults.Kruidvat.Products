@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Préférence 6 Donkerblond Permanente Haarkleuring",
   "code": "3671564",
   "price": "22.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf8/h01/32292613324830/prd-front-3671564-1_600x600/prd-front-3671564-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Organic Shop Hydrating Eye Gel Patch",
   "code": "5992390",
   "price": "15.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "TRADE SENSE BV",
   "inStock": "inStock",
-  "onPromo": "1052853",
-  "mmkId": "1052853",
-  "productGroupId": "489887",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organic-shop-hydrating-eye-gel-patch/p/5992390",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h61/hb5/34480280666142/prd-front-5992390-1_600x600/prd-front-5992390-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h3f/hd2/34489908789278/prd-front-5992390-1_600x600/prd-front-5992390-1-600x600.jpg"
 }

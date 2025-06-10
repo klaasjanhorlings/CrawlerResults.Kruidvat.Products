@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Touch Up Lash Refresh Mascara",
   "code": "6258796",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "7ml",
-  "image": "/medias/sys_master/prd-images/h14/h3d/33760657408030/prd-front-6258796-1_600x600/prd-front-6258796-1-600x600.jpg"
+  "description": "7ml"
 }

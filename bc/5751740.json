@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Therme Gift Of Wellness Geschenkset",
   "code": "5751740",
   "price": "11.95",
@@ -37,6 +37,5 @@
       "name": "Bad & douche geschenksets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hcc/h39/34427334131742/prd-front-5751740-1_600x600/prd-front-5751740-1-600x600.jpg"
+  "description": ""
 }

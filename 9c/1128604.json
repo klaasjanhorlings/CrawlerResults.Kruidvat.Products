@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1052984",
-  "mmkId": "1052984",
-  "productGroupId": "483112",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-baby-anti-klit-shampoo/p/1128604",
@@ -37,6 +37,5 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/prd-front-1128604-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTY4NjV8aW1hZ2UvanBlZ3xhRFJsTDJnMFpDOHhOelF4T1RFMU5UZ3pNamcyTWk5d2NtUXRabkp2Ym5RdE1URXlPRFl3TkMweFh6WXdNSGcyTURBfDM5MTk1ZmE1ZDM1MDk5YTFjNTk0MDY2ZTMyY2JhMzAxMGY5ZmQxNDAzNDExMjllMTgyOGQ5MDYzZjFlNTQxZmI"
+  "description": "300ml"
 }

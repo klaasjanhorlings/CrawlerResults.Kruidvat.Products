@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup Dual Ended 03 Coral and Deep Peach Cream Blush Wonderstick",
   "code": "6129338",
   "price": "13.95",
@@ -33,6 +33,5 @@
       "name": "Blush"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hf8/h7f/31924632813598/prd-front-6129338-1_600x600/prd-front-6129338-1-600x600.jpg"
+  "description": ""
 }

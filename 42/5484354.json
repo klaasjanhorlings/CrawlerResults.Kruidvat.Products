@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Sunny Side Up 010 Natural Tan Matte Bronzing Powder",
   "code": "5484354",
   "price": "4.49",
@@ -33,6 +33,5 @@
       "name": "Bronzer"
     }
   ],
-  "description": "10g",
-  "image": "/medias/prd-front-5484354-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTA5MjQ3fGltYWdlL2pwZWd8YURJMUwyZ3haUzh5TmpZd01UTTFOVEU0TWpFeE1DOXdjbVF0Wm5KdmJuUXROVFE0TkRNMU5DMHhYell3TUhnMk1EQXw5ZmNiZjczMTRlMjBmZTFmZDI1ZmNjMGMxZjNmYmI0MzUyMTJhNjFlYzBjZDliZjhjMDY3OWMxMzFmZDdjMTY1"
+  "description": "10g"
 }

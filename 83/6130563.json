@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup 10 Splash Fat Oil Lip Drip Lipgloss",
   "code": "6130563",
   "price": "9.95",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "4,8ml"
+  "description": "4,8ml",
+  "image": "/medias/sys_master/prd-images/h30/hc0/31931291795486/prd-front-6130563-1_600x600/prd-front-6130563-1-600x600.jpg"
 }
