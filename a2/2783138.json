@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Syoss Oleo Intense 4-60 Goudbruin Haarkleuring",
   "code": "2783138",
   "price": "17.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h50/hf6/32892486942750/prd-front-2783138-1_600x600/prd-front-2783138-1-600x600.jpg"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bench For Him Eau de Toillette",
   "code": "6196874",
   "price": "15.0",
@@ -29,8 +29,8 @@
       "name": "Parfum"
     },
     {
-      "id": 72654823,
-      "name": "Herenparfum"
+      "id": 30266601,
+      "name": "Bodymist"
     }
   ],
   "description": "30ml",

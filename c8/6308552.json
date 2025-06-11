@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Labello Mango Shine Lippenbalsem",
   "code": "6308552",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0d/h1f/34459861549086/prd-front-6308552-1_600x600/prd-front-6308552-1-600x600.jpg"
 }

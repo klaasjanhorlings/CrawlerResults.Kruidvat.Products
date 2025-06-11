@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "SKIN1004 Madagascar Centella Ampoule Foam",
   "code": "6200570",
   "price": "7.9",
@@ -25,12 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677303,
+      "name": "Reinigingslotion"
     }
   ],
   "description": "20ml",

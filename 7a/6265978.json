@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Damescapribroek",
+  "code": "6265978",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2640 > 3325 > 3802 > 4829 > 5928 > 6038",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-damescapribroek/p/6265978",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "wit, mt M",
+  "image": "/medias/sys_master/prd-images/hce/h28/33747273646110/prd-front-6265978-1_600x600/prd-front-6265978-1-600x600.jpg"
+}

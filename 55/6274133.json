@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "e.l.f. Neutral Brown Holy Strokes Micro-Fine Brow Pen",
   "code": "6274133",
   "price": "8.0",
@@ -25,12 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30265992,
-      "name": "Make-up accessoires"
+      "id": 30265987,
+      "name": "Make-up"
     },
     {
-      "id": 30266617,
-      "name": "Make-up kwasten"
+      "id": 30266592,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30266908,
+      "name": "Wenkbrauwpotlood"
     }
   ],
   "description": "0,7ml",

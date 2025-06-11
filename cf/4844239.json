@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Max Factor Colour Elixir 55 Desert Lipstick",
   "code": "4844239",
   "price": "15.99",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h35/h35/31158658564126/prd-front-4844239-1_600x600/prd-front-4844239-1-600x600.jpg"
 }

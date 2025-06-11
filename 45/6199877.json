@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cosrx Propolis Synergy Toner",
   "code": "6199877",
   "price": "21.0",
@@ -33,8 +33,8 @@
       "name": "Gezichtsreiniging"
     },
     {
-      "id": 30266919,
-      "name": "Reinigingstonic"
+      "id": 73443559,
+      "name": "Toner"
     }
   ],
   "description": "150ml",

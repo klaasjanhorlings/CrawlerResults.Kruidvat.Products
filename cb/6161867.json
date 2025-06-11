@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Adopt Au Féminin Eau de Parfum",
   "code": "6161867",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h53/h62/32306189598750/prd-front-6161867-1_600x600/prd-front-6161867-1-600x600.jpg"
+  "description": "30ml"
 }

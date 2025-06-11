@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice More Than Glow Roségoud Gezichtsset",
   "code": "6234800",
   "price": "12.99",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265989,
-      "name": "Geschenksets"
+      "id": 30265987,
+      "name": "Make-up"
     },
     {
-      "id": 72656138,
-      "name": "Geschenkset voor haar"
-    },
-    {
-      "id": 87397342,
-      "name": "Make-up geschenksets"
+      "id": 30266589,
+      "name": "Highlighter"
     }
   ],
   "description": "3 stuks",

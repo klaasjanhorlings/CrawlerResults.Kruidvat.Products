@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 4306 > 4303 > 4307",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052951",
+  "mmkId": "1052951",
+  "productGroupId": "477999",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-splashers-3-4-zwemluiers/p/6287258",
@@ -29,8 +29,8 @@
       "name": "Luiers"
     },
     {
-      "id": 30266787,
-      "name": "Luiers maat 4"
+      "id": 30266786,
+      "name": "Luiers maat 3"
     }
   ],
   "description": "mt 3-4 (6-11 kg), 12 stuks",

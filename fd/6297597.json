@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Pepe Jeans London Cocktail For Him Geschenkset",
   "code": "6297597",
   "price": "24.95",
@@ -31,10 +31,6 @@
     {
       "id": 72666181,
       "name": "Geschenkset voor hem"
-    },
-    {
-      "id": 72655057,
-      "name": "Parfum geschenkset voor hem"
     }
   ],
   "description": "",

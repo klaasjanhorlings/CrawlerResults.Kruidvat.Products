@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Estée Lauder Pleasures Eau de Parfum",
   "code": "5875301",
   "price": "31.99",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h95/hb9/27525409800222/prd-front-5875301-1_600x600/prd-front-5875301-1-600x600.jpg"
+  "description": "30ml"
 }

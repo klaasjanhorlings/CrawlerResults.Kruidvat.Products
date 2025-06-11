@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Infaillible 24H 808 Limitless Beige Lipstick",
   "code": "6235724",
   "price": "21.99",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9f/h2b/33353437610014/prd-front-6235724-1_600x600/prd-front-6235724-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Stay Well Moisturizing Lemongrass Cleansing Foam",
   "code": "6199919",
   "price": "7.9",
@@ -25,12 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50676912,
+      "name": "Reinigingsmousse"
     }
   ],
   "description": "150ml",

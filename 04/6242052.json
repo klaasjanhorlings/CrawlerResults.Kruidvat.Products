@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline Sunkisser 35 Spritzy Orange Hazy Matte Blush",
   "code": "6242052",
   "price": "14.99",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266590,
-      "name": "Blush"
+      "id": 30266589,
+      "name": "Highlighter"
     }
   ],
   "description": "",

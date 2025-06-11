@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "CeraVe Moisturising Cream Refill",
   "code": "6304702",
   "price": "19.45",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1053079",
+  "mmkId": "1053079",
+  "productGroupId": "488687",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cerave-moisturising-cream-refill/p/6304702",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "454g",

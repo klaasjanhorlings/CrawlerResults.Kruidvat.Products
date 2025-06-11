@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Estée Lauder Advanced Night Repair Serum",
   "code": "6178324",
   "price": "54.95",
@@ -29,12 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266605,
-      "name": "Serum"
-    },
-    {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 30266603,
+      "name": "Nachtcreme"
     }
   ],
   "description": "30ml",

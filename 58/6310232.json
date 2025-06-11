@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cetaphil 6 Hours Fast Clear Pimple Patch",
   "code": "6310232",
   "price": "12.95",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 81073358,
-      "name": "Pimple patches"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "24 stuks",

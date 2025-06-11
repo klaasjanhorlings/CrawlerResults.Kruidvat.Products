@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris True Match W8 Golden Cappuccino Poeder",
   "code": "4473708",
   "price": "16.99",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-4473708-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ3Nzh8aW1hZ2UvanBlZ3xhRGc0TDJnME5pOHhOak0yTlRBNU9UWTBOekF3Tmk5d2NtUXRabkp2Ym5RdE5EUTNNemN3T0MweFh6WXdNSGcyTURBfDQzZmNjNWM4ODcwN2ZiOTdkYjI1OTdhZDJhZDBhZjEzMGViMzY4NTlhNjg5ZDM1MDIxMzQyNWE0MDc0MzBkZjI"
+  "description": ""
 }

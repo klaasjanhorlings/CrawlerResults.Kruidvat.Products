@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Clinique Moisture Surge Gel Cream",
   "code": "5872956",
   "price": "24.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 13,51",
+  "discount": "€ 13,51",
   "url": "/clinique-moisture-surge-gel-cream/p/5872956",
   "listName": "Lister",
   "brand": "Clinique",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Droge, gecombineerde en vette huid",
-  "image": "/medias/sys_master/prd-images/h4c/h24/34493029711902/prd-front-5872956-1_600x600/prd-front-5872956-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5e/hcf/34503170424862/prd-front-5872956-1_600x600/prd-front-5872956-1-600x600.jpg"
 }

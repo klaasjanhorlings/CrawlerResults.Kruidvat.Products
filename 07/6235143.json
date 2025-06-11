@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Gel Affair 11 I Ap-PEACH-iate You Nagellak",
   "code": "6235143",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "10,5ml"
+  "description": "10,5ml",
+  "image": "/medias/sys_master/prd-images/h86/h5d/33047796416542/prd-front-6235143-1_600x600/prd-front-6235143-1-600x600.jpg"
 }

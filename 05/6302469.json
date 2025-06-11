@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Goodal Vita-C Dark Circle Oogcrème",
   "code": "6302469",
   "price": "21.9",
@@ -25,14 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266604,
+      "name": "Oogcreme"
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h76/h71/34493245849630/prd-front-6302469-1_600x600/prd-front-6302469-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h23/h4e/34503189233694/prd-front-6302469-1_600x600/prd-front-6302469-1-600x600.jpg"
 }

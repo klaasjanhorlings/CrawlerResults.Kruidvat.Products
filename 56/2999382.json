@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Soothing Micellair Water",
   "code": "2999382",
   "price": "5.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h7d/h64/34492206120990/prd-front-2999382-1_600x600/prd-front-2999382-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5e/he4/34502829899806/prd-front-2999382-1_600x600/prd-front-2999382-1-600x600.jpg"
 }

@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Beauty of Joseon Ginseng Essence Water",
   "code": "6199912",
   "price": "19.9",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 4226 > 6702",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052932",
+  "mmkId": "1052932",
+  "productGroupId": "475255",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/beauty-of-joseon-ginseng-essence-water/p/6199912",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h67/hb2/34486474539038/prd-front-6199912-1_600x600/prd-front-6199912-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he0/h82/34508130484254/prd-front-6199912-1_600x600/prd-front-6199912-1-600x600.jpg"
 }

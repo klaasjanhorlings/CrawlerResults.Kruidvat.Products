@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6452 > 6451",
   "supplier": "ALL-IN-1 BVBA",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nailner-2-in-1-kalknagelkwastje/p/6123605",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 14ml",
-  "image": "/medias/sys_master/prd-images/h36/h72/34490790412318/prd-front-6123605-1_600x600/prd-front-6123605-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8e/h12/34500753752094/prd-front-6123605-1_600x600/prd-front-6123605-1-600x600.jpg"
 }

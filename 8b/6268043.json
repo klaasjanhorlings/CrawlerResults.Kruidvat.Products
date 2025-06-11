@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kindersweatshort",
+  "code": "6268043",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5808 > 5810 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "FASHION LINQ BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kindersweatshort/p/6268043",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "roze, mt 116-122",
+  "image": "/medias/sys_master/prd-images/h0f/hd5/33674997039134/prd-front-6268043-1_600x600/prd-front-6268043-1-600x600.jpg"
+}

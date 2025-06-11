@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Broken Glass 050 Sparkling Reflection Effect Topcoat",
   "code": "6235262",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "10,5ml"
+  "description": "10,5ml",
+  "image": "/medias/sys_master/prd-images/hd8/h64/33039019048990/prd-front-6235262-1_600x600/prd-front-6235262-1-600x600.jpg"
 }

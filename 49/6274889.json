@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "e.l.f. Halo Glow Contour Tan/Deep Beauty Wand",
   "code": "6274889",
   "price": "10.0",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266591,
-      "name": "Contour"
+      "id": 30266588,
+      "name": "Bronzer"
     }
   ],
   "description": "10ml",

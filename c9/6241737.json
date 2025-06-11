@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York Instant Eraser Green Color Correcting Concealer",
   "code": "6241737",
   "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052959",
+  "mmkId": "1052959",
+  "productGroupId": "480377",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-instant-eraser-green-color-correcting-concealer/p/6241737",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h19/hf6/33962448846878/prd-front-6241737-1_600x600/prd-front-6241737-1-600x600.jpg"
+  "description": ""
 }

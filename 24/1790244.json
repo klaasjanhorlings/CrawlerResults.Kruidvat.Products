@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Van Gils Strictly for Men Eau de Toilette",
   "code": "1790244",
   "price": "29.99",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-1790244-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTM2Nzl8aW1hZ2UvanBlZ3xhR0UwTDJobVpDOHhOamsxTnpZNE16azVNRFUxT0M5d2NtUXRabkp2Ym5RdE1UYzVNREkwTkMweFh6WXdNSGcyTURBfDVhMzY0MmFhZmMxN2M1ZmNiNTExZjk3Y2NjZTdmZTYyYmU1YWRiZTg4MzQ2Nzc1ZGZhMDhjNGM1NzU3ZjBjYzc"
 }

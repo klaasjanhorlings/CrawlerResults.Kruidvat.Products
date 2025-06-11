@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tafelkleed",
+  "code": "6258096",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2956 > 3750 > 5926 > 6020 > 6047",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/tafelkleed/p/6258096",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 80863211,
+      "name": "Bakspullen"
+    }
+  ],
+  "description": "oranje, paars, 140cm x 240cm",
+  "image": "/medias/sys_master/prd-images/h3f/h51/33588028801054/prd-front-6258096-1_600x600/prd-front-6258096-1-600x600.jpg"
+}

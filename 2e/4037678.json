@@ -6,7 +6,7 @@
   "price": "3.89",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
-  "supplier": "UNILEVER NEDERLAND BV",
+  "supplier": "UNILEVER BELGIUM",
   "inStock": "inStock",
   "onPromo": "1031982",
   "mmkId": "1031982",
@@ -37,5 +37,6 @@
       "name": "Baby cremespoeling"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/he2/h04/31698689327134/prd-front-4037678-1_600x600/prd-front-4037678-1-600x600.jpg"
 }

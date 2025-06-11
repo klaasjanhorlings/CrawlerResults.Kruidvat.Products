@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Bare With Me Blur 21: Rich Foundation",
   "code": "6129849",
   "price": "11.5",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h49/hd6/31930030194718/prd-front-6129849-1_600x600/prd-front-6129849-1-600x600.jpg"
+  "description": "30ml"
 }

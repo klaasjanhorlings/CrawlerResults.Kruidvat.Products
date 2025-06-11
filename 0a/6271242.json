@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Tommy Hilfiger Tommy Girl Geschenkset",
   "code": "6271242",
   "price": "24.99",
@@ -29,11 +29,7 @@
       "name": "Geschenksets"
     },
     {
-      "id": 72656138,
-      "name": "Geschenkset voor haar"
-    },
-    {
-      "id": 72654960,
+      "id": 76977667,
       "name": "Parfum geschenkset voor haar"
     }
   ],

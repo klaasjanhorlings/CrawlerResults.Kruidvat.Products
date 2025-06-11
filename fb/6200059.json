@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cosrx Advanced Snail 96 Mucin Power Essence",
   "code": "6200059",
   "price": "24.0",
@@ -25,14 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 73443492,
-      "name": "Essence"
+      "id": 73443650,
+      "name": "Korean Skincare"
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/ha0/h8a/34492560015390/prd-front-6200059-1_600x600/prd-front-6200059-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h3a/h18/34503185629214/prd-front-6200059-1_600x600/prd-front-6200059-1-600x600.jpg"
 }

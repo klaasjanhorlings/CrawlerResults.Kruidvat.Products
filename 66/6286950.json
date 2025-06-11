@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nickelodeon Paw Patrol Waterfall Playset",
+  "code": "6286950",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2263 > 4939 > 4985 > 5031 > 5921 > 6023",
+  "supplier": "HTI TOYS UK LTD",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nickelodeon-paw-patrol-waterfall-playset/p/6286950",
+  "listName": "Lister",
+  "brand": "Paw Patrol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 61682353,
+      "name": "Waterspeelgoed"
+    }
+  ],
+  "description": ""
+}

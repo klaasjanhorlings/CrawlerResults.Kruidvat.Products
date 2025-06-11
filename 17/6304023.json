@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Mixsoon Soondy Centella Asiatica Essence",
   "code": "6304023",
   "price": "17.9",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 73443492,
-      "name": "Essence"
+      "id": 73443650,
+      "name": "Korean Skincare"
     }
   ],
   "description": "30ml",

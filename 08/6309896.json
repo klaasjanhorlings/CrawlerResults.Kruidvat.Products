@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cetaphil Gentle Exfoliating SA Cleanser",
   "code": "6309896",
   "price": "15.5",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 84945977,
-      "name": "Exfoliant"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266916,
+      "name": "Cleanser"
     }
   ],
   "description": "236ml",

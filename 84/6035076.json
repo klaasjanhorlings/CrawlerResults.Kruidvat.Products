@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Tommy Girl Summer Edition Eau de Toillette",
   "code": "6035076",
   "price": "29.99",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hab/h6c/34505504194590/prd-front-6035076-1_600x600/prd-front-6035076-1-600x600.jpg"
 }

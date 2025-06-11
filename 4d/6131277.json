@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup SMLC10 Monte Carlo Soft Matte Lip Cream",
   "code": "6131277",
   "price": "7.95",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/h39/h9c/31924039417886/prd-front-6131277-1_600x600/prd-front-6131277-1-600x600.jpg"
 }

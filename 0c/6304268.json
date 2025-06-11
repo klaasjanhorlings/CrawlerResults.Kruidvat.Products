@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "e.l.f. Skin Youth Boosting Blue-Ty Sleep Night Oil",
   "code": "6304268",
   "price": "19.0",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 30266603,
-      "name": "Nachtcreme"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87639222,
+      "name": "Gezichtsolie"
     }
   ],
   "description": "30ml",

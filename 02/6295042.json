@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Goodal Vita-C Toner",
   "code": "6295042",
   "price": "15.9",
@@ -25,14 +25,18 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
   "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h36/hfa/34486164258846/prd-front-6295042-1_600x600/prd-front-6295042-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h37/hd8/34499985145886/prd-front-6295042-1_600x600/prd-front-6295042-1-600x600.jpg"
 }

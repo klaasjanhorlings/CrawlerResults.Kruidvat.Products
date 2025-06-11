@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "e.l.f. Taupe Holy Strokes Micro-Fine Brow Pen",
   "code": "6274385",
   "price": "8.0",
@@ -33,8 +33,8 @@
       "name": "Wenkbrauw make-up"
     },
     {
-      "id": 30266908,
-      "name": "Wenkbrauwpotlood"
+      "id": 30266906,
+      "name": "Wenkbrauwmascara"
     }
   ],
   "description": "0,7ml",

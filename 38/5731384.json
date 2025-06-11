@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Nail Art Duo Designer",
   "code": "5731384",
   "price": "1.99",
@@ -29,16 +29,8 @@
       "name": "Nagels"
     },
     {
-      "id": 30265994,
-      "name": "Nagelverzorging"
-    },
-    {
-      "id": 30266632,
-      "name": "Nagelaccessoires"
-    },
-    {
-      "id": 87391028,
-      "name": "Nepnageltools"
+      "id": 30266584,
+      "name": "Nagellak"
     }
   ],
   "description": "8ml",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Revitalift Laser Serum",
   "code": "6237250",
   "price": "39.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/he0/ha7/34487897161758/prd-front-6237250-1_600x600/prd-front-6237250-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h94/he0/34498808479774/prd-front-6237250-1_600x600/prd-front-6237250-1-600x600.jpg"
 }

@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Olay Beauty Fluid Hydraterende Lotion",
   "code": "22022",
   "price": "10.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "1052951",
-  "mmkId": "1052951",
-  "productGroupId": "477999",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-beauty-fluid-hydraterende-lotion/p/22022",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hfb/ha1/34487868129310/prd-front-22022-1_600x600/prd-front-22022-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc4/hf3/34498646999070/prd-front-22022-1_600x600/prd-front-22022-1-600x600.jpg"
 }

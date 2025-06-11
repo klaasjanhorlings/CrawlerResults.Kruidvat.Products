@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Mixsoon Pore Tory Clay Pack",
   "code": "6200003",
   "price": "19.9",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266607,
-      "name": "Gezichtsmaskers"
-    },
-    {
-      "id": 87375000,
-      "name": "Crèmemaskers"
+      "id": 73443650,
+      "name": "Korean Skincare"
     }
   ],
   "description": "100g",

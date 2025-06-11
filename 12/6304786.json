@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "CeraVe Oil Control Moisturising Gel-Cream",
   "code": "6304786",
   "price": "18.65",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1053079",
+  "mmkId": "1053079",
+  "productGroupId": "488687",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cerave-oil-control-moisturising-gel-cream/p/6304786",
@@ -25,8 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "52ml",

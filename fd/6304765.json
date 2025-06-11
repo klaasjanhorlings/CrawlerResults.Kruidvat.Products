@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1053079",
+  "mmkId": "1053079",
+  "productGroupId": "488687",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cerave-moisturising-lotion-refill/p/6304765",
@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265995,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30266637,
+      "name": "Bodylotion"
     }
   ],
   "description": "473ml",

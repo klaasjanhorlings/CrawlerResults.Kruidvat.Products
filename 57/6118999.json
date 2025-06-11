@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Sandelwood & Cardamom Eau de Parfum",
   "code": "6118999",
   "price": "7.99",
@@ -29,9 +29,10 @@
       "name": "Parfum"
     },
     {
-      "id": 72654920,
-      "name": "Unisex parfum"
+      "id": 72654362,
+      "name": "Damesparfum"
     }
   ],
-  "description": "50ml - Unisex"
+  "description": "50ml - Unisex",
+  "image": "/medias/sys_master/prd-images/h3b/heb/32306175016990/prd-front-6118999-1_600x600/prd-front-6118999-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Goodal Vita-C Dark Spot Care Cream",
   "code": "6304030",
   "price": "21.9",
@@ -25,14 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 73443650,
+      "name": "Korean Skincare"
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h0c/h20/34488972836894/prd-front-6304030-1_600x600/prd-front-6304030-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf8/h44/34499157098526/prd-front-6304030-1_600x600/prd-front-6304030-1-600x600.jpg"
 }

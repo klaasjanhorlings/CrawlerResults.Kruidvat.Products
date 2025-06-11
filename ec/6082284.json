@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Skin Recharge Micellair Water",
   "code": "6082284",
   "price": "9.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "400ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h71/hb0/34491720564766/prd-front-6082284-1_600x600/prd-front-6082284-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h66/he1/34501989072926/prd-front-6082284-1_600x600/prd-front-6082284-1-600x600.jpg"
 }

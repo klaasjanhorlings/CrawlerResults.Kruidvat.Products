@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline Sunkisser 34 Peachy Quench Hazy Matte Blush",
   "code": "6241961",
   "price": "14.99",
@@ -29,10 +29,9 @@
       "name": "Make-up"
     },
     {
-      "id": 30266590,
-      "name": "Blush"
+      "id": 30266589,
+      "name": "Highlighter"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h85/hd6/33672307507230/prd-front-6241961-1_600x600/prd-front-6241961-1-600x600.jpg"
+  "description": ""
 }

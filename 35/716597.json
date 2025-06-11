@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Originals Tea Tree Huidzuiverend Dag & Nachtcrème",
   "code": "716597",
   "price": "2.99",
@@ -29,8 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266603,
-      "name": "Nachtcreme"
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "100ml - Onzuivere huid",

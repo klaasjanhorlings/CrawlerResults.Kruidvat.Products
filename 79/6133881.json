@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Adidas Vibes Energy Drive Eau de Parfum",
   "code": "6133881",
   "price": "19.99",
@@ -29,8 +29,8 @@
       "name": "Parfum"
     },
     {
-      "id": 72654920,
-      "name": "Unisex parfum"
+      "id": 72654362,
+      "name": "Damesparfum"
     }
   ],
   "description": "30ml",

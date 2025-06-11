@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice The Matte Face Pro Set",
   "code": "6234786",
   "price": "12.99",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266579,
-      "name": "Primer"
+      "id": 30266594,
+      "name": "Fixing sprays"
     }
   ],
   "description": "3 stuks",

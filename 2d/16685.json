@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Préférence 5 Lichtbruin Permanente Haarkleuring",
   "code": "16685",
   "price": "22.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7c/h8f/32154276266014/prd-front-16685-1_600x600/prd-front-16685-1-600x600.jpg"
+  "description": ""
 }

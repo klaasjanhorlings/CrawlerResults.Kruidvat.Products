@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "e.l.f. Halo Glow Dark Setting Powder",
   "code": "6275820",
   "price": "9.0",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "6,8g",
-  "image": "/medias/sys_master/prd-images/hf6/h30/34038484041758/prd-front-6275820-1_600x600/prd-front-6275820-1-600x600.jpg"
+  "description": "6,8g"
 }

@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Weleda Skin Food Voedende Alles-in-één Crème",
   "code": "6168755",
   "price": "6.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "WELEDA BENELUX SE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml - Droge en ruwe huid",
-  "image": "/medias/sys_master/prd-images/h34/hf4/34485494775838/prd-front-6168755-1_600x600/prd-front-6168755-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h22/h16/34497635975198/prd-front-6168755-1_600x600/prd-front-6168755-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vormkaarsen",
+  "code": "6255870",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 2351 > 2851 > 3590 > 5926 > 6679",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/vormkaarsen/p/6255870",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266895,
+      "name": "Kaarsen"
+    },
+    {
+      "id": 84925918,
+      "name": "Stomp en tafelkaarsen"
+    }
+  ],
+  "description": "3 stuks, Ø2,2cm x 25cm",
+  "image": "/medias/sys_master/prd-images/hfe/h85/33614196178974/prd-front-6255870-1_600x600/prd-front-6255870-1-600x600.jpg"
+}

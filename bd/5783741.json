@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York SuperStay Up To 24HR 40 Hybrid Powder-Foundation",
   "code": "5783741",
   "price": "18.99",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266587,
-      "name": "Gezichtspoeder"
+      "id": 30266577,
+      "name": "Foundation"
     }
   ],
   "description": "9g, Gezien op Tiktok",

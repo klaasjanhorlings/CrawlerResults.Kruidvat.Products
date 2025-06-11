@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Verzachtend & Verzorgend Micellair Water",
   "code": "3901129",
   "price": "7.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "400ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/h35/h59/34497396408350/prd-front-3901129-1_600x600/prd-front-3901129-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h85/h92/34508641992734/prd-front-3901129-1_600x600/prd-front-3901129-1-600x600.jpg"
 }

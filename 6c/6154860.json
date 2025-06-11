@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Invisible Cover 077C Foundation",
   "code": "6154860",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hde/h8f/33045316567070/prd-front-6154860-1_600x600/prd-front-6154860-1-600x600.jpg"
 }

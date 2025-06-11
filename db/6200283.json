@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cosrx BHA Blackhead Power Liquid",
   "code": "6200283",
   "price": "23.0",
@@ -29,12 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 30266605,
-      "name": "Serum"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
     },
     {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 50048154,
+      "name": "Verzorging probleemhuid"
     }
   ],
   "description": "100ml",

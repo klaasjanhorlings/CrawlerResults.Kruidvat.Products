@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Biodermal Crème bij Puistjes & Onzuiverheden",
   "code": "4726996",
   "price": "25.99",
@@ -29,10 +29,14 @@
       "name": "Skincare"
     },
     {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50048154,
+      "name": "Verzorging probleemhuid"
     }
   ],
   "description": "30ml - Onzuivere huid",
-  "image": "/medias/sys_master/prd-images/hb0/h69/34486639329310/prd-front-4726996-1_600x600/prd-front-4726996-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0f/hf4/34498201550878/prd-front-4726996-1_600x600/prd-front-4726996-1-600x600.jpg"
 }

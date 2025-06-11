@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "e.l.f. Skin Holy Hydration! Makeup Melting Cleansing Balm",
   "code": "6304009",
   "price": "13.0",
@@ -33,8 +33,8 @@
       "name": "Gezichtsreiniging"
     },
     {
-      "id": 30266917,
-      "name": "Reinigingscreme"
+      "id": 87390033,
+      "name": "Reinigingsbalsem"
     }
   ],
   "description": "56,5g",

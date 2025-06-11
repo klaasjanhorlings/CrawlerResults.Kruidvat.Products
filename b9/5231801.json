@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Slim'Matic Ash Blonde Ultra Precise Waterproof Wenkbrauwpotlood",
   "code": "5231801",
   "price": "3.49",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h98/h0b/33048274501662/prd-front-5231801-1_600x600/prd-front-5231801-1-600x600.jpg"
 }

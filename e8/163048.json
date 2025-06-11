@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Blistex MedPlus Lippenbalsem",
   "code": "163048",
   "price": "3.79",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h43/hfb/30648974999582/prd-front-163048-1_600x600/prd-front-163048-1-600x600.jpg"
 }

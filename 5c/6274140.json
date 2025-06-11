@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "e.l.f. Waterproof Deep Brown Instant Lift Brow Pencil",
   "code": "6274140",
   "price": "5.0",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265987,
-      "name": "Make-up"
+      "id": 30265992,
+      "name": "Make-up accessoires"
     },
     {
-      "id": 30266592,
-      "name": "Wenkbrauw make-up"
-    },
-    {
-      "id": 30266908,
-      "name": "Wenkbrauwpotlood"
+      "id": 30266617,
+      "name": "Make-up kwasten"
     }
   ],
   "description": "0,24g",

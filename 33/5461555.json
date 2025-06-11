@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6617 > 2001",
   "supplier": "L. TEN CATE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052998",
+  "mmkId": "1052998",
+  "productGroupId": "483682",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cotton-stretch-damesshorts/p/5461555",
@@ -33,6 +33,5 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt XL, 2 stuks",
-  "image": "/medias/sys_master/prd-images/h91/hb8/27502825865246/prd-front-5461555-1_600x600/prd-front-5461555-1-600x600.jpg"
+  "description": "zwart, mt XL, 2 stuks"
 }

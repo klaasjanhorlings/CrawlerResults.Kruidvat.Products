@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ariana Grande Cloud Eau de Parfum ",
   "code": "6173053",
   "price": "34.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hb2/h4e/31905125629982/prd-front-6173053-1_600x600/prd-front-6173053-1-600x600.jpg"
 }

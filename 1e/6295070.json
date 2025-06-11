@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Mixsoon Bifida Ferment Essence",
   "code": "6295070",
   "price": "17.9",
@@ -25,14 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 73443492,
+      "name": "Essence"
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hd4/h0f/34491731705886/prd-front-6295070-1_600x600/prd-front-6295070-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6d/had/34502002835486/prd-front-6295070-1_600x600/prd-front-6295070-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Schwarzkopf Poly Palette 750 Chocoladebruin Haarkleuring",
   "code": "649096",
   "price": "9.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h74/h97/31776573030430/prd-front-649096-1_600x600/prd-front-649096-1-600x600.jpg"
 }
