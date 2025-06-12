@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2495 > 3061 > 3520 > 5795 > 5928 > 6716",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Kinderpyjama's"
     }
   ],
-  "description": "roze, mt 128-134"
+  "description": "roze, mt 128-134",
+  "image": "/medias/sys_master/prd-images/hf0/hbf/33917041901598/prd-front-6188103-1_600x600/prd-front-6188103-1-600x600.jpg"
 }

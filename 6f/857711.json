@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Multi A-Z Tuttifrutti Kauwtabletten voor Kinderen",
+  "itemName": "Kruidvat Multi A-Z Kauwtabletten voor Kinderen",
   "code": "857711",
   "price": "4.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-multi-a-z-tuttifrutti-kauwtabletten-voor-kinderen/p/857711",
+  "url": "/kruidvat-multi-a-z-kauwtabletten-voor-kinderen/p/857711",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,8 +33,8 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267462,
-      "name": "Kindervitamines"
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
   "description": "60 stuks",

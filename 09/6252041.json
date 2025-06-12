@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
   "supplier": "A.VOGEL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-oorsmeer-oorspray/p/6252041",
@@ -37,5 +37,6 @@
       "name": "Oorspray"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 ml"
+  "description": "Medisch hulpmiddel - 10 ml",
+  "image": "/medias/sys_master/prd-images/hfc/ha1/34293482749982/prd-front-6252041-1_600x600/prd-front-6252041-1-600x600.jpg"
 }
