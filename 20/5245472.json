@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Strepfen Flurbiprofen Keelspray",
   "code": "5245472",
   "price": "10.99",
@@ -37,5 +37,6 @@
       "name": "Keelspray"
     }
   ],
-  "description": "Geneesmiddel - 15ml"
+  "description": "Geneesmiddel - 15ml",
+  "image": "/medias/prd-front-5245472-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzExMDh8aW1hZ2UvanBlZ3xhR0l6TDJnM055OHhOalE0TURNMk1EZzFOell6TUM5d2NtUXRabkp2Ym5RdE5USTBOVFEzTWkweFh6WXdNSGcyTURBfGYwMTBmMWU5YzJkOWMzMzM1NTkyZDE4ODRhMWQ4MzgxY2I2ODk4YmVlOWMwODk5NjE5OThhODVmOTEyMDM0ZDY"
 }

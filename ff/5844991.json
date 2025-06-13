@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Valdispert Slaap Spray",
   "code": "5844991",
   "price": "15.99",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "20ml",
-  "image": "/medias/sys_master/prd-images/hb0/h29/34257035755550/prd-front-5844991-1_600x600/prd-front-5844991-1-600x600.jpg"
+  "description": "20ml"
 }

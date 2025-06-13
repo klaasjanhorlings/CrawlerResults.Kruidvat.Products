@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Voltaren K 12,5mg Diclofenac-Kalium Filmomhulde Tabletten",
   "code": "228226",
   "price": "7.19",
@@ -33,10 +33,10 @@
       "name": "Pijn"
     },
     {
-      "id": 30266970,
-      "name": "Pijnstiller"
+      "id": 30266971,
+      "name": "Diclofenac"
     }
   ],
   "description": "Geneesmiddel - 20 stuks",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h6b/h77/34532596613150/prd-front-228226-1_600x600/prd-front-228226-1-600x600.jpg"
 }

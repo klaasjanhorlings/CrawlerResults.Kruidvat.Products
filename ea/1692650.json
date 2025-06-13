@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dagravit Kids Vitamine D Aquosum Druppels",
   "code": "1692650",
   "price": "9.99",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266729,
-      "name": "Botten en gewrichten"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267462,
+      "name": "Kindervitamines"
     }
   ],
   "description": "25ml",

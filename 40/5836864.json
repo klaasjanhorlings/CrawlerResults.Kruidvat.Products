@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Silk Hechtpleister",
   "code": "5836864",
   "price": "1.69",
@@ -33,6 +33,5 @@
       "name": "Hechtpleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 5m x 2,5cm",
-  "image": "/medias/prd-front-5836864-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODI1OTF8aW1hZ2UvanBlZ3xhR1kxTDJnME5DOHlOamsyTmpneU5UZzJNVEUxTUM5d2NtUXRabkp2Ym5RdE5UZ3pOamcyTkMweFh6WXdNSGcyTURBfGM3YTcwOTVjMWRjZmM4YjllOWIwOWYzMmYwYWM3MjkwYzhkZThiZDkzZGYwZWUyN2QzNTJlMmVlOGRhNTFhZDM"
+  "description": "Medisch hulpmiddel - 5m x 2,5cm"
 }

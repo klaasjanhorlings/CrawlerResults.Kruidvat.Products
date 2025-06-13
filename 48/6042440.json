@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Scholl Gel Activ Professioneel Inlegzolen",
+  "code": "6042440",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 3567 > 6449",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/scholl-gel-activ-professioneel-inlegzolen/p/6042440",
+  "listName": "Lister",
+  "brand": "Dr. Scholl's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 49316592,
+      "name": "Inlegzolen"
+    }
+  ],
+  "description": "mt 35,5-40,5, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h8b/h03/34314413408286/prd-front-6042440-1_600x600/prd-front-6042440-1-600x600.jpg"
+}

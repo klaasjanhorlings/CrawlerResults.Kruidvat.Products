@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Shiepz Slaap Formule Tabletten",
   "code": "5139009",
   "price": "15.99",
@@ -33,5 +33,6 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h72/hdf/32586504634398/prd-front-5139009-1_600x600/prd-front-5139009-1-600x600.jpg"
 }

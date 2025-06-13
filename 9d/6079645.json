@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal SlaapSap",
   "code": "6079645",
   "price": "19.99",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h47/hc0/30653022601246/prd-front-6079645-1_600x600/prd-front-6079645-1-600x600.jpg"
+  "description": "200ml"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "The Master Perfumer Nr.12 Black Musk Eau de Toilette",
+  "code": "6119244",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "MORE LABELS GROUP BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/the-master-perfumer-nr12-black-musk-eau-de-toilette/p/6119244",
+  "listName": "Lister",
+  "brand": "The Master Perfumer",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654823,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hb0/h65/32699972911134/prd-front-6119244-1_600x600/prd-front-6119244-1-600x600.jpg"
+}

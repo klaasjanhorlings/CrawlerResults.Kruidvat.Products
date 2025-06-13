@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Leukoplast Elastomull Haft Zelfklevend Elastisch Windsel",
   "code": "4399536",
   "price": "3.59",
@@ -33,6 +33,5 @@
       "name": "Bandages en windsels"
     }
   ],
-  "description": "Medisch hulpmiddel - 4m x 8cm",
-  "image": "/medias/sys_master/prd-images/h1c/h78/28819617775646/prd-front-4399536-1_600x600/prd-front-4399536-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 4m x 8cm"
 }

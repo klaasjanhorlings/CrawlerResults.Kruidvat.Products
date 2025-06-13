@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal D-Mannose Cranberry Tabletten",
   "code": "4967467",
   "price": "20.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266728,
-      "name": "Blaas supplementen"
+      "id": 30266734,
+      "name": "Cranberrysupplementen"
     }
   ],
   "description": "60 stuks",

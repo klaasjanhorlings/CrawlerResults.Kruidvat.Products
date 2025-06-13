@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sperti Preparation H Aambeienzalf",
   "code": "21742",
   "price": "11.79",
@@ -37,6 +37,5 @@
       "name": "Aambeien"
     }
   ],
-  "description": "Geneesmiddel - 25g",
-  "image": "/medias/sys_master/prd-images/h48/h18/28083382911006/prd-front-21742-1_600x600/prd-front-21742-1-600x600.jpg"
+  "description": "Geneesmiddel - 25g"
 }

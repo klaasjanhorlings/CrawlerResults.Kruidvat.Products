@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Multi A-Z Dragees",
   "code": "3909795",
   "price": "12.49",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "500 stuks",
-  "image": "/medias/sys_master/prd-images/hd8/h87/33703437172766/prd-front-3909795-1_600x600/prd-front-3909795-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

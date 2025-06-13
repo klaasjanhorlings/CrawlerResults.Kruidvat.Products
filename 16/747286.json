@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Advil Reliva Forte 400mg Oval-Tabs",
   "code": "747286",
   "price": "5.99",
@@ -33,10 +33,10 @@
       "name": "Pijn"
     },
     {
-      "id": 30266967,
-      "name": "Ibuprofen"
+      "id": 30266970,
+      "name": "Pijnstiller"
     }
   ],
   "description": "Geneesmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/hf8/h66/34514611437598/prd-front-747286-1_600x600/prd-front-747286-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h57/he3/34527077498910/prd-front-747286-1_600x600/prd-front-747286-1-600x600.jpg"
 }

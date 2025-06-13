@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Fluimucil Bruistabletten",
   "code": "325983",
   "price": "7.89",
@@ -37,6 +37,5 @@
       "name": "Hoesttabletten"
     }
   ],
-  "description": "Geneesmiddel - 6 stuks",
-  "image": "/medias/sys_master/prd-images/hdf/hb1/28484238835742/prd-front-325983-1_600x600/prd-front-325983-1-600x600.jpg"
+  "description": "Geneesmiddel - 6 stuks"
 }

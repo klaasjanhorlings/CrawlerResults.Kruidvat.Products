@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Duo Maagzuur Suspensie",
   "code": "6077776",
   "price": "3.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 200ml",
-  "image": "/medias/sys_master/prd-images/h32/h15/31262535221278/prd-front-6077776-1_600x600/prd-front-6077776-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb2/hc0/34524750446622/prd-front-6077776-1_600x600/prd-front-6077776-1-600x600.jpg"
 }

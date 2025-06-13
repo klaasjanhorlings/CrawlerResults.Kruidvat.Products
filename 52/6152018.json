@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Spierspray",
   "code": "6152018",
   "price": "6.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 3956",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-spierspray/p/6152018",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h56/ha8/31783701086238/prd-front-6152018-1_600x600/prd-front-6152018-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h02/h1b/34523346599966/prd-front-6152018-1_600x600/prd-front-6152018-1-600x600.jpg"
 }

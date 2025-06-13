@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Luizenkam",
   "code": "3856973",
   "price": "6.49",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/prd-front-3856973-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjU2NDl8aW1hZ2UvanBlZ3xhRGd5TDJnM09TOHhOek0wTmpnMU1Ua3pNREUwTWk5d2NtUXRabkp2Ym5RdE16ZzFOamszTXkweFh6WXdNSGcyTURBfGQxN2QxY2YxNWM4ZjEzZjE0NDBhZjNmNWU4ZmNhZjQwYzBmODc4NTRkOWNkYTE5MTA4MzI0MTQzYzc2MDllYzY"
+  "image": "/medias/sys_master/prd-images/h88/h4c/34531814015006/prd-front-3856973-1_600x600/prd-front-3856973-1-600x600.jpg"
 }

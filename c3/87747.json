@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053183",
+  "mmkId": "1053183",
+  "productGroupId": "485680",
   "brandType": "A of B merk",
   "discount": "€ 30,67",
   "url": "/hugo-boss-vapo-deep-red-eau-de-parfum/p/87747",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/prd-front-87747-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDk2Njh8aW1hZ2UvanBlZ3xhRFU0TDJnMFl5OHlOamt3TmpNd01EQTFOVFU0TWk5d2NtUXRabkp2Ym5RdE9EYzNORGN0TVY4Mk1EQjROakF3fDRkODU5NTUyNTU2NWE4NTU2MjU4MjJmZDEzYWQ2ZmE4MTEyMDU0OWU4ZTUwYTA2ODcxZTRhMjM4YTNkZDE0ODE"
 }

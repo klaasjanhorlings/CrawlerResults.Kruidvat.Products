@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dampo Kids Alle Hoest + Vrije Luchtwegen Nacht Kindersiroop",
   "code": "5143657",
   "price": "11.19",
@@ -37,5 +37,6 @@
       "name": "Hoestsiropen"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml"
+  "description": "Medisch hulpmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/h3e/h85/32163917332510/prd-front-5143657-1_600x600/prd-front-5143657-1-600x600.jpg"
 }

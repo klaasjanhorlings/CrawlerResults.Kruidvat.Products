@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536081,
-      "name": "Speelgoed"
+      "id": 30266078,
+      "name": "Wonen"
     },
     {
-      "id": 30266034,
-      "name": "Educatief speelgoed"
+      "id": 30266901,
+      "name": "Huishoudelijk textiel"
+    },
+    {
+      "id": 80863125,
+      "name": "Theedoeken"
     }
   ],
   "description": "Nederlandstalig boek",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Cannabidiol CBD 20% Olie",
   "code": "5846937",
   "price": "59.95",
@@ -33,5 +33,6 @@
       "name": "CBD"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h78/hc0/27294598299678/prd-front-5846937-1_600x600/prd-front-5846937-1-600x600.jpg"
 }

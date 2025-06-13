@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Collageen Super 5000mg Doseringen",
   "code": "5717286",
   "price": "39.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266719,
-      "name": "Beautysupplementen"
+      "id": 49363733,
+      "name": "Collageensupplementen"
     }
   ],
   "description": "33 stuks",

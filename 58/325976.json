@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Fluimucil Pastilles",
   "code": "325976",
   "price": "8.79",
@@ -37,5 +37,6 @@
       "name": "Hoesttabletten"
     }
   ],
-  "description": "Geneesmiddel - 20 stuks"
+  "description": "Geneesmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/haf/h37/28483269623838/prd-front-325976-1_600x600/prd-front-325976-1-600x600.jpg"
 }

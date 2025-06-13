@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Prostaat Zelftest",
   "code": "6160369",
   "price": "6.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel",
-  "image": "/medias/sys_master/prd-images/h8a/hb1/32539561852958/prd-front-6160369-1_600x600/prd-front-6160369-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h63/h47/34525885104158/prd-front-6160369-1_600x600/prd-front-6160369-1-600x600.jpg"
 }

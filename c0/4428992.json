@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Collageen Vitaminen & Mineralen Compleet Tabletten",
   "code": "4428992",
   "price": "14.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49363733,
-      "name": "Collageensupplementen"
+      "id": 30266719,
+      "name": "Beautysupplementen"
     }
   ],
   "description": "60 stuks",

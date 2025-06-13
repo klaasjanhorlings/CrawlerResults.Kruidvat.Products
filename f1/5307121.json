@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Satisfyer Penguin Air Pulse Stimulator Vibrator",
   "code": "5307121",
   "price": "34.95",
@@ -37,5 +37,6 @@
       "name": "Satisfyer"
     }
   ],
-  "description": "10,8cm x 5,8cm x 5,5cm"
+  "description": "10,8cm x 5,8cm x 5,5cm",
+  "image": "/medias/sys_master/prd-images/h41/hd2/28449773912094/prd-front-5307121-1_600x600/prd-front-5307121-1-600x600.jpg"
 }

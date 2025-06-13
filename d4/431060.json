@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Nachtrust met Magnesium Tabletten",
   "code": "431060",
   "price": "6.79",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/h13/h10/33139439173662/prd-front-431060-1_600x600/prd-front-431060-1-600x600.jpg"
+  "description": "90 stuks"
 }

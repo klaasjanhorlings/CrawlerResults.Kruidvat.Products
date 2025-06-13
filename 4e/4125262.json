@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Voltaren Emulgel 1,16% (diclofenac) Gel",
   "code": "4125262",
   "price": "21.79",
@@ -29,14 +29,14 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266708,
-      "name": "Spieren en gewrichten"
+      "id": 30266706,
+      "name": "Pijn"
     },
     {
-      "id": 30266977,
-      "name": "Spier- en gewrichtsbalsems"
+      "id": 30266971,
+      "name": "Diclofenac"
     }
   ],
   "description": "Geneesmiddel - 120g",
-  "image": "/medias/sys_master/prd-images/he6/h41/34520434999326/prd-front-4125262-1_600x600/prd-front-4125262-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h60/haa/34532251009054/prd-front-4125262-1_600x600/prd-front-4125262-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Warmtepleister",
   "code": "2927079",
   "price": "5.49",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 2 stuks",
-  "image": "/medias/prd-front-2927079-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzc4MDB8aW1hZ2UvanBlZ3xhREkwTDJoaE9TOHhOamN4T0RJek5qZzNOamd6TUM5d2NtUXRabkp2Ym5RdE1qa3lOekEzT1MweFh6WXdNSGcyTURBfDI3MDhmZDcxZDY5ODJhMjJiMDRmMzE3MTU5NjFlYzMwMDdiM2E2NTAxZDUwNjEwMGYwODY1YmJmMzhiNDU2Y2E"
+  "image": "/medias/sys_master/prd-images/h9c/h09/34532246355998/prd-front-2927079-1_600x600/prd-front-2927079-1-600x600.jpg"
 }

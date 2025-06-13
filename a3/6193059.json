@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Oorthermometer",
   "code": "6193059",
   "price": "25.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 6431 > 6492 > 6676",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-oorthermometer/p/6193059",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel",
-  "image": "/medias/sys_master/prd-images/h93/h74/33580460245022/prd-front-6193059-1_600x600/prd-front-6193059-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6a/h3f/34527490408478/prd-front-6193059-1_600x600/prd-front-6193059-1-600x600.jpg"
 }

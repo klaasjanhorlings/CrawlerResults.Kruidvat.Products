@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Anti-Transpiratie Voetspray",
   "code": "502880",
   "price": "4.29",
@@ -33,6 +33,5 @@
       "name": "Zweetvoeten"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h8b/hc4/28462017511454/prd-front-502880-1_600x600/prd-front-502880-1-600x600.jpg"
+  "description": "200ml"
 }

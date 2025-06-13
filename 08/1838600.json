@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Breathe Right Neusstrips",
   "code": "1838600",
   "price": "19.99",
@@ -33,8 +33,8 @@
       "name": "Luchtwegen"
     },
     {
-      "id": 49950085,
-      "name": "Neusstrip"
+      "id": 49950093,
+      "name": "Snurken"
     }
   ],
   "description": "Medisch hulpmiddel - mt L, 30 stuks",

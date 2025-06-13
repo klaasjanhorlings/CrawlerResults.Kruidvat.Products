@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nestlé 6+M Biscuit Ontbijtpapje",
+  "code": "1366793",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5679 > 5678",
+  "supplier": "NESTLE NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nestle-6m-biscuit-ontbijtpapje/p/1366793",
+  "listName": "Lister",
+  "brand": "Nestle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266772,
+      "name": "Babypap"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h8a/he9/34147284811806/prd-front-1366793-1_600x600/prd-front-1366793-1-600x600.jpg"
+}

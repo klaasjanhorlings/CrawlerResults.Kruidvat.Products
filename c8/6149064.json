@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bepanthen Tattoo Verzorgende Crème",
   "code": "6149064",
   "price": "14.99",
@@ -37,6 +37,5 @@
       "name": "Tattooverzorging"
     }
   ],
-  "description": "100g",
-  "image": "/medias/sys_master/prd-images/hdd/hff/31917244317726/prd-front-6149064-1_600x600/prd-front-6149064-1-600x600.jpg"
+  "description": "100g"
 }

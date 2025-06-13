@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Beschermkapjes",
   "code": "6193052",
   "price": "7.69",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 40 stuks",
-  "image": "/medias/sys_master/prd-images/hde/h74/33575435173918/prd-front-6193052-1_600x600/prd-front-6193052-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0d/hc2/34523348828190/prd-front-6193052-1_600x600/prd-front-6193052-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Cetomacrogol 50% Vaseline Vetcrème",
   "code": "6077496",
   "price": "6.49",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "100g",
-  "image": "/medias/sys_master/prd-images/h75/hdf/30584969461790/prd-front-6077496-1_600x600/prd-front-6077496-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hcf/h61/34523049263134/prd-front-6077496-1_600x600/prd-front-6077496-1-600x600.jpg"
 }

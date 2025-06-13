@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3382",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053055",
+  "mmkId": "1053055",
+  "productGroupId": "487028",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-avent-ultra-air-night-time-6-18m-scf376/13-fopspeen/p/5972139",
@@ -33,6 +33,5 @@
       "name": "Fopspenen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h0a/hb4/33613600784414/prd-front-5972139-1_600x600/prd-front-5972139-1-600x600.jpg"
+  "description": ""
 }

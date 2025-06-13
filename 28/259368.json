@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Advil Reliva Forte 400mg Liquid-Caps",
   "code": "259368",
   "price": "10.59",
@@ -33,10 +33,10 @@
       "name": "Pijn"
     },
     {
-      "id": 30266967,
-      "name": "Ibuprofen"
+      "id": 30266970,
+      "name": "Pijnstiller"
     }
   ],
   "description": "Geneesmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/hd7/h04/34520969576478/prd-front-259368-1_600x600/prd-front-259368-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5a/h19/34533412339742/prd-front-259368-1_600x600/prd-front-259368-1-600x600.jpg"
 }

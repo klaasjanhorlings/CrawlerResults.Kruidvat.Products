@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Davitamon Cranberry Capsules",
   "code": "5240691",
   "price": "17.29",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266734,
-      "name": "Cranberrysupplementen"
+      "id": 30266728,
+      "name": "Blaas supplementen"
     }
   ],
   "description": "30 stuks",

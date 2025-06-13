@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Natures Vitamine D3 20Μg Capsules",
   "code": "5836836",
   "price": "4.79",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
-  "onPromo": "1052870",
-  "mmkId": "1052870",
-  "productGroupId": "456380",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-natures-vitamine-d3-20μg-capsules/p/5836836",
@@ -37,5 +37,6 @@
       "name": "Vitamine D"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h7b/h20/33347325853726/prd-front-5836836-1_600x600/prd-front-5836836-1-600x600.jpg"
 }
