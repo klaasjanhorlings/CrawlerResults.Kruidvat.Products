@@ -8,8 +8,8 @@
   "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
   "supplier": "MIJNSCHOENENSHOP.NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1053802",
+  "mmkId": "1053802",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Tassen"
     }
   ],
-  "description": "zwart, 27cm x 12cm x 18cm"
+  "description": "zwart, 27cm x 12cm x 18cm",
+  "image": "/medias/sys_master/prd-images/h9c/h61/32336505765918/prd-front-6174033-1_600x600/prd-front-6174033-1-600x600.jpg"
 }

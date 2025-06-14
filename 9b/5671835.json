@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Leev Bio Linzenwafels",
   "code": "5671835",
   "price": "2.29",
@@ -12,7 +12,7 @@
   "mmkId": "1053035",
   "productGroupId": "485657",
   "brandType": "A of B merk",
-  "discount": "$ 0,30",
+  "discount": "€ 0,30",
   "url": "/leev-bio-linzenwafels/p/5671835",
   "listName": "Lister",
   "brand": "Leev",

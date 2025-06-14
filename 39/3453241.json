@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Wrattenpen",
   "code": "3453241",
   "price": "6.89",
@@ -37,6 +37,5 @@
       "name": "Wrattenbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 2ml",
-  "image": "/medias/sys_master/prd-images/h3a/haa/29097081831454/prd-front-3453241-1_600x600/prd-front-3453241-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 2ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "EasyGlide Anaal Glijmiddel",
   "code": "6155742",
   "price": "7.99",
@@ -37,6 +37,5 @@
       "name": "Anale glijmiddelen"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h97/hb8/31585029816350/prd-front-6155742-1_600x600/prd-front-6155742-1-600x600.jpg"
+  "description": "150ml"
 }

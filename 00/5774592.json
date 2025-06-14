@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Traagschuim Orthopedisch Kniekussen",
   "code": "5774592",
   "price": "7.99",
@@ -29,5 +29,6 @@
       "name": "Hulpmiddelen gezondheid"
     }
   ],
-  "description": "27cm x 24cm x 12,8cm"
+  "description": "27cm x 24cm x 12,8cm",
+  "image": "/medias/prd-front-5774592-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjI4MDF8aW1hZ2UvanBlZ3xhRGc1TDJobFpTOHhOall3TVRjME56WTROVFF3Tmk5d2NtUXRabkp2Ym5RdE5UYzNORFU1TWkweFh6WXdNSGcyTURBfDNhN2EyODYxNWI4YTg4ZjRlY2M5NzQ3ZDA5YmRjYWU5ZDM3MjM2NTYyNmU1ZTFlYjI4MjBiM2U3OGFjNWZmMDM"
 }

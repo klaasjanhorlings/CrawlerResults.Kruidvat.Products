@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Viola Chlamydia Sneltest",
   "code": "6290695",
   "price": "9.99",
@@ -37,5 +37,6 @@
       "name": "Gezondheidstesten"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/hef/h29/33974503604254/prd-front-6290695-1_600x600/prd-front-6290695-1-600x600.jpg"
 }

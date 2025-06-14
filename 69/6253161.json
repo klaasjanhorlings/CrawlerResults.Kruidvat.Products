@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Durex Intensity Condooms",
   "code": "6253161",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Condooms"
     }
   ],
-  "description": "5 stuks",
-  "image": "/medias/sys_master/prd-images/h81/hb4/34382736850974/prd-front-6253161-1_600x600/prd-front-6253161-1-600x600.jpg"
+  "description": "5 stuks"
 }

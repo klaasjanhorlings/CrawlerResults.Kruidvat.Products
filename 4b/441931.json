@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lamisil Voetschimmelcrème",
   "code": "441931",
   "price": "12.49",
@@ -33,6 +33,5 @@
       "name": "Voetschimmelbehandeling"
     }
   ],
-  "description": "Geneesmiddel - 15g",
-  "image": "/medias/sys_master/prd-images/hb1/he2/32663309647902/prd-front-441931-1_600x600/prd-front-441931-1-600x600.jpg"
+  "description": "Geneesmiddel - 15g"
 }

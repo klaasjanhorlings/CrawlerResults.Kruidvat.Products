@@ -8,8 +8,8 @@
   "itemBgbcat": "4830 > 5178 > 5286 > 5475 > 5921 > 6023",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1053801",
+  "mmkId": "1053801",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -31,6 +31,10 @@
     {
       "id": 30266838,
       "name": "Zwembaden en opblaasfiguren"
+    },
+    {
+      "id": 90162677,
+      "name": "Opblaasfiguren"
     }
   ],
   "description": "groen, Ø91cm",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Carelastin Extra Sterk Neusspray",
   "code": "5611047",
   "price": "17.95",
@@ -37,5 +37,6 @@
       "name": "Azelastine"
     }
   ],
-  "description": "Geneesmiddel - 10ml"
+  "description": "Geneesmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h32/h38/27855784280094/prd-front-5611047-1_600x600/prd-front-5611047-1-600x600.jpg"
 }

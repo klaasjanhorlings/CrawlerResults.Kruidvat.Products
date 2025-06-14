@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon Elke Dag Bruistabletten",
   "code": "4373258",
   "price": "10.99",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "15 stuks"
+  "description": "15 stuks",
+  "image": "/medias/sys_master/prd-images/h1b/h67/31477435301918/prd-front-4373258-1_600x600/prd-front-4373258-1-600x600.jpg"
 }

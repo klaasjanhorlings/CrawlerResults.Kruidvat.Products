@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "VSM Spiroflor SRL Spier- en Gewrichtsgel",
+  "code": "22628",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "HEEL BIOLOGISCHE GENEES",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vsm-spiroflor-srl-spier-en-gewrichtsgel/p/22628",
+  "listName": "Lister",
+  "brand": "VSM",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266712,
+      "name": "Natuurlijke zelfzorgmiddelen"
+    }
+  ],
+  "description": "Homeopathisch geneesmiddel - 150g",
+  "image": "/medias/sys_master/prd-images/h0b/h59/32165399232542/prd-front-22628-1_600x600/prd-front-22628-1-600x600.jpg"
+}

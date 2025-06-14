@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Wondhelende Zalf",
   "code": "6249941",
   "price": "5.99",
@@ -33,6 +33,6 @@
       "name": "Wondzalven"
     }
   ],
-  "description": "60g",
+  "description": "75g",
   "image": "/medias/sys_master/prd-images/hc5/h03/33713514348574/prd-front-6249941-1_600x600/prd-front-6249941-1-600x600.jpg"
 }

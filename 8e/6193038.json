@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Contactloze Thermometer",
   "code": "6193038",
   "price": "29.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel",
-  "image": "/medias/sys_master/prd-images/h3b/h46/34527490605086/prd-front-6193038-1_600x600/prd-front-6193038-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hfa/h64/34536170389534/prd-front-6193038-1_600x600/prd-front-6193038-1-600x600.jpg"
 }

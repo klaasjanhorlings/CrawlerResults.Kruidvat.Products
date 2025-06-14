@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Paracetamol met Coffeïne 500mg/50mg Tabletten",
   "code": "21657",
   "price": "1.79",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6157 > 6176",
   "supplier": "AUROBINDO PHARMA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Geneesmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/h7e/h56/31198456119326/prd-front-21657-1_600x600/prd-front-21657-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha2/h84/34532596252702/prd-front-21657-1_600x600/prd-front-21657-1-600x600.jpg"
 }

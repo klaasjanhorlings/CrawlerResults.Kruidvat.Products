@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3245 > 4136",
   "supplier": "RB HYGIENE HOME NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052789",
+  "mmkId": "1052789",
+  "productGroupId": "472342",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/calgon-4-in-1-power-wasmachinereiniger-gel/p/4689847",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "750ml",
-  "image": "/medias/sys_master/prd-images/h5b/h1b/31242829103134/prd-front-4689847-1_600x600/prd-front-4689847-1-600x600.jpg"
+  "description": "750ml"
 }

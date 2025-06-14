@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "A.Vogel Cinuforce Extra Forte Neusspray",
   "code": "3902662",
   "price": "8.49",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h1b/h6e/33348440358942/prd-front-3902662-1_600x600/prd-front-3902662-1-600x600.jpg"
 }

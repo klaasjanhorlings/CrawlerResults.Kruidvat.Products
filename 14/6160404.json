@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Vitamine D Zelftest",
   "code": "6160404",
   "price": "9.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel",
-  "image": "/medias/sys_master/prd-images/hf1/h17/34523346665502/prd-front-6160404-1_600x600/prd-front-6160404-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he9/h8c/34533216452638/prd-front-6160404-1_600x600/prd-front-6160404-1-600x600.jpg"
 }

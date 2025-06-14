@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Opticare -1.25 Zachte Daglenzen",
   "code": "1974988",
   "price": "5.69",
@@ -37,5 +37,6 @@
       "name": "Daglenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks"
+  "description": "Medisch hulpmiddel - 10 stuks",
+  "image": "/medias/prd-front-1974988-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjIxNjd8aW1hZ2UvanBlZ3xhR1F4TDJoak9TOHhOelEwTkRRd016UTNPRFUxT0M5d2NtUXRabkp2Ym5RdE1UazNORGs0T0MweFh6WXdNSGcyTURBfDBhZjc5ZDY0ZDczOWFmNTE0MmU2OWY1YjU5NWQ2ZTJmZWFiMTI0MjE5MDYzMDg1NDhiM2E1YmJlYTFkZGY1NWQ"
 }

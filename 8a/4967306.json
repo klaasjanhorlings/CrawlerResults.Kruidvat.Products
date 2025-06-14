@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dampo Inhaler en 2-in-1 Inhalatiedruppels",
   "code": "4967306",
   "price": "5.19",
@@ -37,6 +37,5 @@
       "name": "Neusdruppels"
     }
   ],
-  "description": "2ml",
-  "image": "/medias/sys_master/prd-images/h49/h16/29032654962718/prd-front-4967306-1_600x600/prd-front-4967306-1-600x600.jpg"
+  "description": "2ml"
 }

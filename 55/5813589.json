@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Reinigende Oogdoekjes",
   "code": "5813589",
   "price": "7.49",
@@ -33,6 +33,5 @@
       "name": "Oogreiniging"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/h77/h84/30265671122974/prd-front-5813589-1_600x600/prd-front-5813589-1-600x600.jpg"
+  "description": "20 stuks"
 }

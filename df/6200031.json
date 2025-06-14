@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052932",
+  "mmkId": "1052932",
+  "productGroupId": "475255",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cosrx-the-6-peptide-skin-booster-serum/p/6200031",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h37/hde/34526646829086/prd-front-6200031-1_600x600/prd-front-6200031-1-600x600.jpg"
+  "description": "150ml"
 }

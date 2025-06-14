@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Wondspray",
   "code": "5676938",
   "price": "4.29",
@@ -33,5 +33,6 @@
       "name": "Wondreiniging en/of -ontsmetting"
     }
   ],
-  "description": "Medisch hulpmiddel - 75ml"
+  "description": "Medisch hulpmiddel - 75ml",
+  "image": "/medias/sys_master/prd-images/hba/h80/31149979828254/prd-front-5676938-1_600x600/prd-front-5676938-1-600x600.jpg"
 }
