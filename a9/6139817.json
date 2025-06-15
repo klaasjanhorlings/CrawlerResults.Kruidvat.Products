@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Paw Patrol Figure Giftset",
   "code": "6139817",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Speelfiguren"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/h16/hda/31587745628190/prd-front-6139817-1_600x600/prd-front-6139817-1-600x600.jpg"
 }

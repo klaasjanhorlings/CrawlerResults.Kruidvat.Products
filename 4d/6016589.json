@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Hasbro Play-Doh Classic Colors",
   "code": "6016589",
   "price": "8.99",
@@ -29,6 +29,5 @@
       "name": "Knutselen"
     }
   ],
-  "description": "15 stuks",
-  "image": "/medias/sys_master/prd-images/h05/h23/29654190325790/prd-front-6016589-1_600x600/prd-front-6016589-1-600x600.jpg"
+  "description": "15 stuks"
 }

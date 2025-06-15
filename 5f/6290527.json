@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "999 Games Zookini Kaartspel",
   "code": "6290527",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/hf7/h8a/33926303186974/prd-front-6290527-1_600x600/prd-front-6290527-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

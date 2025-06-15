@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Goliath Koe Hatsjoe",
   "code": "6263437",
   "price": "12.99",
   "priceOriginal": "",
   "itemBgbcat": "2181 > 5921 > 6018 > 6741 > 6740 > 6739",
   "supplier": "GOLIATH B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h1c/hc1/33749077131294/prd-front-6263437-1_600x600/prd-front-6263437-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

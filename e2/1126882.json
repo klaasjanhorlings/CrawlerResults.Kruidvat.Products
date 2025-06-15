@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4264",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-baby-zinkzalf/p/1126882",
@@ -37,6 +37,5 @@
       "name": "Zinkzalf"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-1126882-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA1MjJ8aW1hZ2UvanBlZ3xhR05qTDJneU5DOHlOamc0TkRrM05USTVOalUwTWk5d2NtUXRabkp2Ym5RdE1URXlOamc0TWkweFh6WXdNSGcyTURBfGZiNGQ3YTcyZTc3OTk1ZGE3MDliYmRmYmVhOGE1MjAwNzgzOWVhMTM5ZDhmMzE3ZjgyYmJlZmVmYjNlMWRjMDg"
+  "description": "100ml"
 }
