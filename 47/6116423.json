@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Clementoni Disney Baby Stitch Musical Pluch",
   "code": "6116423",
   "price": "22.99",
@@ -29,5 +29,6 @@
       "name": "Poppen en knuffels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6e/hcb/31232524288030/prd-front-6116423-1_600x600/prd-front-6116423-1-600x600.jpg"
 }

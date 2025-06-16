@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L.O.L. Surprise! Let's Guess",
   "code": "6256178",
   "price": "4.99",
@@ -8,8 +8,8 @@
   "itemBgbcat": "2181 > 5921 > 6018 > 6741 > 6740 > 6739",
   "supplier": "SPEELGOEDLAND",
   "inStock": "inStock",
-  "onPromo": "1053801",
-  "mmkId": "1053801",
+  "onPromo": "1053749",
+  "mmkId": "1053749",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",

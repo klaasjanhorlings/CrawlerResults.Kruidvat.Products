@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Spider-Man Tekenset",
   "code": "5699065",
   "price": "7.99",
@@ -8,8 +8,8 @@
   "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
   "supplier": "SPEELGOEDLAND",
   "inStock": "inStock",
-  "onPromo": "1053801",
-  "mmkId": "1053801",
+  "onPromo": "1053749",
+  "mmkId": "1053749",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",

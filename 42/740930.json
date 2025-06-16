@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3465",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-maagtabletten/p/740930",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/he2/hda/34543893741598/prd-front-740930-1_600x600/prd-front-740930-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h81/hb9/34550784688158/prd-front-740930-1_600x600/prd-front-740930-1-600x600.jpg"
 }

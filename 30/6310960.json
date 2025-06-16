@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bedankt Lieve Juf Geschenkset",
+  "code": "6310960",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
+  "supplier": "JEAN LASSCHUIT PRODUCTS",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/bedankt-lieve-juf-geschenkset/p/6310960",
+  "listName": "Lister",
+  "brand": "Geschenkset",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72656138,
+      "name": "Geschenkset voor haar"
+    },
+    {
+      "id": 87397518,
+      "name": "Bad & douche geschenksets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hed/h2d/34101403516958/prd-front-6310960-1_600x600/prd-front-6310960-1-600x600.jpg"
+}

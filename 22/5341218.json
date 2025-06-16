@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Goliath Travel Woordzoeker",
   "code": "5341218",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6b/hd6/33752682823710/prd-front-5341218-1_600x600/prd-front-5341218-1-600x600.jpg"
 }

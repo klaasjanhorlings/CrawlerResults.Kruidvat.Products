@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hartvormige Zwemband",
   "code": "6270276",
   "price": "1.99",
@@ -8,8 +8,8 @@
   "itemBgbcat": "4830 > 5178 > 5286 > 5475 > 5921 > 6023",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1053801",
-  "mmkId": "1053801",
+  "onPromo": "1053749",
+  "mmkId": "1053749",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",

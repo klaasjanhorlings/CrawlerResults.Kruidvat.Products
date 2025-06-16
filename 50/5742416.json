@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Kids Conditioner",
+  "code": "5742416",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
+  "supplier": "NAIF CARE BV",
+  "inStock": "inStock",
+  "onPromo": "1031992",
+  "mmkId": "1031992",
+  "productGroupId": "381933",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-kids-conditioner/p/5742416",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266775,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267012,
+      "name": "Babyshampoo"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-5742416-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQ0Njd8aW1hZ2UvanBlZ3xhRFE1TDJnMU9TOHhOak13T0RRNE9EQXhNVGd3Tmk5d2NtUXRabkp2Ym5RdE5UYzBNalF4TmkweFh6WXdNSGcyTURBfDE2ZGZiYzk3MjFjYTM0MmU4Mzg4NDg5MGM0MDAxYWE5MjYwMzFlYTliNzRkZjhjZDJkOGEwYzBkYzQxN2MxNDU"
+}

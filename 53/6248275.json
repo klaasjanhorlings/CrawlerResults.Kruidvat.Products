@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Luxe Washandjes",
+  "code": "6248275",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 5799 > 5800 > 5926 > 6020 > 6049",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-luxe-washandjes/p/6248275",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266901,
+      "name": "Huishoudelijk textiel"
+    },
+    {
+      "id": 80863144,
+      "name": "Washandjes"
+    }
+  ],
+  "description": "zandkleur, 16cm x 21cm, 6 stuks"
+}

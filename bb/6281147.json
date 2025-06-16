@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Zebra Zwemband",
   "code": "6281147",
   "price": "4.99",
@@ -37,5 +37,6 @@
       "name": "Opblaasfiguren"
     }
   ],
-  "description": "104cmx 92cm"
+  "description": "104cmx 92cm",
+  "image": "/medias/sys_master/prd-images/h3e/h84/34146846474270/prd-front-6281147-1_600x600/prd-front-6281147-1-600x600.jpg"
 }

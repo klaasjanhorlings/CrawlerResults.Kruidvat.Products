@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "999 Games Vlotte Geesten 2.0",
   "code": "5892899",
   "price": "11.99",
@@ -8,8 +8,8 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "999 GAMES",
   "inStock": "inStock",
-  "onPromo": "1053801",
-  "mmkId": "1053801",
+  "onPromo": "1053749",
+  "mmkId": "1053749",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",

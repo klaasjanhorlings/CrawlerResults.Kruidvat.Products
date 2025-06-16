@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1052870",
-  "mmkId": "1052870",
-  "productGroupId": "456380",
+  "onPromo": "1053244",
+  "mmkId": "1053244",
+  "productGroupId": "483124",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-natures-passiebloem-rust/p/5836766",
@@ -33,5 +33,6 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h78/hf7/33350971392030/prd-front-5836766-1_600x600/prd-front-5836766-1-600x600.jpg"
 }

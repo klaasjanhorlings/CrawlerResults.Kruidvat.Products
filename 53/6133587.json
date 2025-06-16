@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Tactic Touché Spel",
   "code": "6133587",
   "price": "17.99",
@@ -8,8 +8,8 @@
   "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
   "supplier": "SELECTA SPEL EN HOBBY",
   "inStock": "inStock",
-  "onPromo": "1053801",
-  "mmkId": "1053801",
+  "onPromo": "1053749",
+  "mmkId": "1053749",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",

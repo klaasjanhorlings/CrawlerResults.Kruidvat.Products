@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "999 Games Paleo",
   "code": "6232385",
   "price": "32.99",
@@ -8,8 +8,8 @@
   "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
   "supplier": "999 GAMES",
   "inStock": "inStock",
-  "onPromo": "1053801",
-  "mmkId": "1053801",
+  "onPromo": "1053749",
+  "mmkId": "1053749",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h31/h18/32675045081118/prd-front-6232385-1_600x600/prd-front-6232385-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

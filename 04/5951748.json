@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3686 > 5723",
   "supplier": "MARION PRIVATE LABEL",
-  "inStock": "inStock",
-  "onPromo": "1053106",
-  "mmkId": "1053106",
-  "productGroupId": "496037",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-derma-doucheolie/p/5951748",
@@ -33,5 +33,6 @@
       "name": "Doucheolie"
     }
   ],
-  "description": "250ml - Gevoelige huid"
+  "description": "250ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/had/h3e/28685919911966/prd-front-5951748-1_600x600/prd-front-5951748-1-600x600.jpg"
 }

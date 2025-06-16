@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Creator 3-in-1 31153 Modern Huis",
   "code": "6086883",
   "price": "89.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Creator"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha9/hc4/30948571512862/prd-front-6086883-1_600x600/prd-front-6086883-1-600x600.jpg"
 }
