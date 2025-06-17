@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "NIVEA MEN Vitality 3-in-1 Douchegel",
+  "itemName": "NIVEA Men Vitality 3-in-1 Douchegel",
   "code": "2361598",
   "price": "5.29",
   "priceOriginal": "",
@@ -25,13 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266005,
-      "name": "Haarverzorging"
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266694,
-      "name": "Shampoo"
+      "id": 30266648,
+      "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/ha2/h97/32395607113758/prd-front-2361598-1_600x600/prd-front-2361598-1-600x600.jpg"
 }

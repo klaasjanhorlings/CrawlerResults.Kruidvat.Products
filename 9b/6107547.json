@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Speed Champions 76935 NASCAR Next Gen Chevrolet Camaro ZL1",
+  "code": "6107547",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1053122",
+  "mmkId": "1053122",
+  "productGroupId": "477762",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-speed-champions-76935-nascar-next-gen-chevrolet-camaro-zl1/p/6107547",
+  "listName": "Lister",
+  "brand": "LEGO Speed Champs.",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266818,
+      "name": "LEGO Speed Champions"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf1/h01/31271464009758/prd-front-6107547-1_600x600/prd-front-6107547-1-600x600.jpg"
+}

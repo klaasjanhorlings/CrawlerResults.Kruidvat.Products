@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6695",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052892",
+  "mmkId": "1052892",
+  "productGroupId": "469700",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-4-in-1-nourishment-bond-building-haarmasker/p/6022154",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h61/h9b/34028565135390/prd-front-6022154-1_600x600/prd-front-6022154-1-600x600.jpg"
 }

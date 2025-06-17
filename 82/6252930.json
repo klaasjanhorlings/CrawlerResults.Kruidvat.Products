@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Creator 31169 Typemachine met Bloemen",
+  "code": "6252930",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1053122",
+  "mmkId": "1053122",
+  "productGroupId": "477762",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-creator-31169-typemachine-met-bloemen/p/6252930",
+  "listName": "Lister",
+  "brand": "LEGO Creator",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266815,
+      "name": "LEGO Creator"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf6/hc7/34100116029470/prd-front-6252930-1_600x600/prd-front-6252930-1-600x600.jpg"
+}

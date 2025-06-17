@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2196 > 5799 > 5800 > 5926 > 6020 > 6049",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Washandjes"
     }
   ],
-  "description": "zandkleur, 16cm x 21cm, 6 stuks"
+  "description": "zandkleur, 16cm x 21cm, 6 stuks",
+  "image": "/medias/sys_master/prd-images/hb3/h32/33750639411230/prd-front-6248275-1_600x600/prd-front-6248275-1-600x600.jpg"
 }

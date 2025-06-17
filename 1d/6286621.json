@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bestway Sparkle Shell Speelzwembad",
+  "code": "6286621",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4830 > 4845 > 4856 > 4867 > 5921 > 6023",
+  "supplier": "HERMANEX INTERNATIONAL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bestway-sparkle-shell-speelzwembad/p/6286621",
+  "listName": "Lister",
+  "brand": "Bestway",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30266838,
+      "name": "Zwembaden en opblaasfiguren"
+    },
+    {
+      "id": 90161849,
+      "name": "Zwembaden en accessoires"
+    }
+  ],
+  "description": "150cm x 127cm x 43cm",
+  "image": "/medias/sys_master/prd-images/h0a/h4e/33679946514462/prd-front-6286621-1_600x600/prd-front-6286621-1-600x600.jpg"
+}

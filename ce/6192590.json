@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Limone T-Shirt",
+  "code": "6192590",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2640 > 3325 > 4829 > 5813 > 5928 > 6038",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "1053749",
+  "mmkId": "1053749",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-limone-t-shirt/p/6192590",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "wit, mt M",
+  "image": "/medias/sys_master/prd-images/h0a/ha0/33579176263710/prd-front-6192590-1_600x600/prd-front-6192590-1-600x600.jpg"
+}
