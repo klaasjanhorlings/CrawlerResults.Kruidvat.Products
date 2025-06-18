@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2197 > 2454 > 2957 > 3751 > 5929 > 6019",
   "supplier": "VERSUNI NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,12 +25,8 @@
       "name": "Elektronica"
     },
     {
-      "id": 75053282,
-      "name": "Keukenapparatuur"
-    },
-    {
-      "id": 75053357,
-      "name": "Koffiezetapparaten"
+      "id": 30266052,
+      "name": "Huishoudelijke apparaten"
     }
   ],
   "description": "blauw",

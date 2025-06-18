@@ -21,22 +21,17 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 51214305,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 30266940,
-      "name": "Littekencremes"
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
-  "description": "25ml - Probleemhuid",
-  "image": "/medias/sys_master/prd-images/h16/h9b/34487863410718/prd-front-130604-1_600x600/prd-front-130604-1-600x600.jpg"
+  "description": "25ml - Probleemhuid"
 }

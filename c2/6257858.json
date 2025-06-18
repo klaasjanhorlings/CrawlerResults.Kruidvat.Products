@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
-  "onPromo": "1053260",
-  "mmkId": "1053260",
-  "productGroupId": "495477",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/pure-care-geschenkset/p/6257858",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265989,
-      "name": "Geschenksets"
+      "id": 30265988,
+      "name": "Parfum"
     },
     {
-      "id": 72656138,
-      "name": "Geschenkset voor haar"
-    },
-    {
-      "id": 87397518,
-      "name": "Bad & douche geschenksets"
+      "id": 30266601,
+      "name": "Bodymist"
     }
   ],
   "description": "",

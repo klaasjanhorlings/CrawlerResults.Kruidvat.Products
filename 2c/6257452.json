@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2195 > 4910 > 4956 > 5860 > 5926 > 6727",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,8 +25,12 @@
       "name": "Baby"
     },
     {
-      "id": 30266024,
-      "name": "Verrassend Babyvoordeel"
+      "id": 49880156,
+      "name": "Onderweg"
+    },
+    {
+      "id": 51606489,
+      "name": "Autostoelaccessoires"
     }
   ],
   "description": "",

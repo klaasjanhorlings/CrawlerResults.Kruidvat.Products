@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3034 > 3887",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pure-soft-maat-3-luiers-volumedoos/p/5662077",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 3"
     }
   ],
-  "description": "mt 3 (4-9 kg), 264 stuks"
+  "description": "mt 3 (4-9 kg), 264 stuks",
+  "image": "/medias/prd-front-5662077-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzk0NzV8aW1hZ2UvanBlZ3xhR0ZqTDJnME15OHlOams0TVRFNE5USTVNREkzTUM5d2NtUXRabkp2Ym5RdE5UWTJNakEzTnkweFh6WXdNSGcyTURBfDlkNzExMWI2NjE3MGY0N2U3NzU3NmFlODE3NGYzMjE5MmE1MDNhNTFkYjE0NTg5NmUzMmQ4YTdiZTgxZGU1Nzk"
 }

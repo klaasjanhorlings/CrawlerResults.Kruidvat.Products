@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2892 > 3667",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
-  "onPromo": "1053293",
-  "mmkId": "1053293",
-  "productGroupId": "495890",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pants-maat-6-extra-large-luierbroekjes-midpack/p/5052580",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 6"
     }
   ],
-  "description": "mt 6 (16-26 kg), 19 stuks"
+  "description": "mt 6 (16-26 kg), 19 stuks",
+  "image": "/medias/prd-front-5052580-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAyNjQ2fGltYWdlL2pwZWd8YURZNEwyZzVaaTh4TmpBNU5Ea3lNREE0TVRRek9DOXdjbVF0Wm5KdmJuUXROVEExTWpVNE1DMHhYell3TUhnMk1EQXw4YWU2YzBiNDBhODk0MWEyZmRhYjBhNjQyYzg1YmIzMmJjZTYyYTU1OTM1YTc5ZThiODE2NTg2NTk3YzFhODUy"
 }

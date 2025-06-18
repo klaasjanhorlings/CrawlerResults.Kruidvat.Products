@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1052928",
+  "mmkId": "1052928",
+  "productGroupId": "475146",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vaseline-aloe-soothe-bodylotion-spray/p/2849120",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "190ml"
+  "description": "190ml",
+  "image": "/medias/sys_master/prd-images/h4a/hac/27771989950494/prd-front-2849120-1_600x600/prd-front-2849120-1-600x600.jpg"
 }

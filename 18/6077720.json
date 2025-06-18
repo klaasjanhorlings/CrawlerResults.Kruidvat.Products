@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2759 > 3950",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-micro-klysma/p/6077720",
@@ -37,6 +37,5 @@
       "name": "Stoelgang"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks",
-  "image": "/medias/sys_master/prd-images/h11/h23/30936916951070/prd-front-6077720-1_600x600/prd-front-6077720-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 6 stuks"
 }
