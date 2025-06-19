@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2553 > 3187 > 4122",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-early-zwangerschapstest/p/1521654",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 2 stuks",
-  "image": "/medias/sys_master/prd-images/h11/h4e/34568402206750/prd-front-1521654-1_600x600/prd-front-1521654-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he0/hb3/34580850769950/prd-front-1521654-1_600x600/prd-front-1521654-1-600x600.jpg"
 }

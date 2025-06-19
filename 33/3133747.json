@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2914 > 3708",
   "supplier": "TOPBRANDS EUROPE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053067",
+  "mmkId": "1053067",
+  "productGroupId": "487473",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-voetbadbruistabletten/p/3133747",
@@ -33,6 +33,5 @@
       "name": "Voetbad"
     }
   ],
-  "description": "8 stuks",
-  "image": "/medias/sys_master/prd-images/h65/h51/29174408675358/prd-front-3133747-1_600x600/prd-front-3133747-1-600x600.jpg"
+  "description": "8 stuks"
 }

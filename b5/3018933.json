@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1052903",
-  "mmkId": "1052903",
-  "productGroupId": "471184",
+  "onPromo": "1054164",
+  "mmkId": "1054164",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-protect-care-3-in-1-douchegel/p/3018933",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/hd6/hbb/32901478907934/prd-front-3018933-1_600x600/prd-front-3018933-1-600x600.jpg"
+  "description": "250ml - Normale huid"
 }
