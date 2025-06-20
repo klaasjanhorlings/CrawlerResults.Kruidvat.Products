@@ -29,10 +29,13 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266717,
-      "name": "Weerstand en energie"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
-  "description": "150 stuks",
-  "image": "/medias/sys_master/prd-images/h36/h97/31462586875934/prd-front-3587984-1_600x600/prd-front-3587984-1-600x600.jpg"
+  "description": "150 stuks"
 }

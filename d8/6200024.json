@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "inStock",
-  "onPromo": "1052932",
-  "mmkId": "1052932",
-  "productGroupId": "475255",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/beauty-of-joseon-revive-eye-serum/p/6200024",
@@ -29,12 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266605,
-      "name": "Serum"
-    },
-    {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 30266604,
+      "name": "Oogcreme"
     }
   ],
   "description": "30ml",

@@ -21,17 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265995,
+      "name": "Huidverzorging"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266637,
+      "name": "Bodylotion"
     }
   ],
-  "description": "55ml"
+  "description": "55ml",
+  "image": "/medias/sys_master/prd-images/he1/h9d/32250468728862/prd-front-6199954-1_600x600/prd-front-6199954-1-600x600.jpg"
 }

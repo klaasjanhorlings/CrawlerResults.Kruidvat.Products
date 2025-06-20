@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Perfecte Krul Rijk Voedende Leave-in Haarcrème",
+  "code": "6299606",
+  "price": "7.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 3577 > 6689",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1052892",
+  "mmkId": "1052892",
+  "productGroupId": "469700",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-perfecte-krul-rijk-voedende-leave-in-haarcreme/p/6299606",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266926,
+      "name": "Haarcrème"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hf5/h22/34247185170462/prd-front-6299606-1_600x600/prd-front-6299606-1-600x600.jpg"
+}

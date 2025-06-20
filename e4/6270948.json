@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "1053260",
-  "mmkId": "1053260",
-  "productGroupId": "495477",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-pink-soft-skincare-moments-geschenkset/p/6270948",
@@ -37,5 +37,6 @@
       "name": "Bad & douche geschenksets"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha2/h58/33499204681758/prd-front-6270948-1_600x600/prd-front-6270948-1-600x600.jpg"
 }

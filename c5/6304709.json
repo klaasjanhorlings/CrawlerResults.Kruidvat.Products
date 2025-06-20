@@ -21,17 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
-    },
-    {
-      "id": 30266641,
-      "name": "Bodycremes"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
-  "description": "88ml"
+  "description": "88ml",
+  "image": "/medias/sys_master/prd-images/hde/h9a/34485498052638/prd-front-6304709-1_600x600/prd-front-6304709-1-600x600.jpg"
 }
