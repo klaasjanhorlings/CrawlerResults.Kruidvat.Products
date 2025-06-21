@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
   "supplier": "HEEL BIOLOGISCHE GENEES",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vsm-kind-chamodent-tandgel/p/4227014",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "10g",
-  "image": "/medias/sys_master/prd-images/h38/hda/34595239723038/prd-front-4227014-1_600x600/prd-front-4227014-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf0/h48/34607629041694/prd-front-4227014-1_600x600/prd-front-4227014-1-600x600.jpg"
 }

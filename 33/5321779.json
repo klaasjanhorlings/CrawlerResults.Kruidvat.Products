@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 6356",
   "supplier": "DIFRAX BV",
-  "inStock": "inStock",
-  "onPromo": "1053224",
-  "mmkId": "1053224",
-  "productGroupId": "467118",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-natural-20m-fopspeen/p/5321779",
@@ -33,6 +33,5 @@
       "name": "Fopspenen"
     }
   ],
-  "description": "donkerblauw, geel",
-  "image": "/medias/sys_master/prd-images/hf6/h3f/29331222659102/prd-front-5321779-1_600x600/prd-front-5321779-1-600x600.jpg"
+  "description": "donkerblauw, geel"
 }
