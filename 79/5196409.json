@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6520 > 6496 > 6508 > 6512 > 6516",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "inStock",
-  "onPromo": "1052934",
-  "mmkId": "1052934",
-  "productGroupId": "475317",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/ardell-wispies-kunstwimpers/p/5196409",
@@ -33,6 +33,5 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "zwart, 5 paar",
-  "image": "/medias/prd-front-5196409-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTExNzExfGltYWdlL2pwZWd8YUdJd0wyZzNPUzh4TmpVME16TTRPRFF6TkRRMk1pOXdjbVF0Wm5KdmJuUXROVEU1TmpRd09TMHhYell3TUhnMk1EQXxmOGI2N2I5NTMwZDFmNzAwNDIxZmU4ZmVkODI0MmQzYjhkZGZiZWYxZDc3N2FjOTA1NTk2ZTBhNzhhMDliZmU4"
+  "description": "zwart, 5 paar"
 }
