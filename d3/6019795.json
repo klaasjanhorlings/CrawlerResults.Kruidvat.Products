@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053507",
+  "mmkId": "1053507",
+  "productGroupId": "480420",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-anti-puistjes-peeling-wasgel/p/6019795",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "200ml - Acne en onzuivere huid",
-  "image": "/medias/sys_master/prd-images/h0e/hff/34375361888286/prd-front-6019795-1_600x600/prd-front-6019795-1-600x600.jpg"
+  "description": "200ml - Acne en onzuivere huid"
 }

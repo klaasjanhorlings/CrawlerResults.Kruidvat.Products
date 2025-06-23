@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 6070",
   "supplier": "OMEGA PHARMA NEDERLAND",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Geneesmiddel - 10g",
-  "image": "/medias/sys_master/prd-images/hfc/h74/34619758116894/prd-front-19982-1_600x600/prd-front-19982-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h95/h86/34630234013726/prd-front-19982-1_600x600/prd-front-19982-1-600x600.jpg"
 }

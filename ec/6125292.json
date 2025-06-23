@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "COBECO PHARMA WHOLESALE",
   "inStock": "inStock",
-  "onPromo": "1052953",
-  "mmkId": "1052953",
-  "productGroupId": "478397",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-natural-toycleaner-spray/p/6125292",
@@ -33,5 +33,6 @@
       "name": "Toy reiniger"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h3a/h84/31851832573982/prd-front-6125292-1_600x600/prd-front-6125292-1-600x600.jpg"
 }

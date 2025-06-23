@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5722 > 3870",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "1052951",
-  "mmkId": "1052951",
-  "productGroupId": "477999",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-blue-ii-plus-wegwerpscheermesjes/p/4677912",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/hed/he2/29289124200478/prd-front-4677912-1_600x600/prd-front-4677912-1-600x600.jpg"
+  "description": "10 stuks"
 }

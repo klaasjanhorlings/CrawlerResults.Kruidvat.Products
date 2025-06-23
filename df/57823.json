@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
-  "onPromo": "1052981",
-  "mmkId": "1052981",
-  "productGroupId": "483108",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-multi-a-z-compleet-tabletten/p/57823",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h81/h38/34624692813854/prd-front-57823-1_600x600/prd-front-57823-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h43/h54/34633950003230/prd-front-57823-1_600x600/prd-front-57823-1-600x600.jpg"
 }

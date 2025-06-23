@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 3577 > 6689",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1052892",
-  "mmkId": "1052892",
-  "productGroupId": "469700",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-pro-nature-coco-curl-creation-leave-in-creme/p/6116353",
@@ -33,6 +33,5 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h94/h9a/31400801075230/prd-front-6116353-1_600x600/prd-front-6116353-1-600x600.jpg"
+  "description": "200ml"
 }

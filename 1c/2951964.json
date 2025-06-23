@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3067 > 3681",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1052869",
-  "mmkId": "1052869",
-  "productGroupId": "452500",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odaban-antitranspirant-spray/p/2951964",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-2951964-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDk0NzB8aW1hZ2UvanBlZ3xhRGRsTDJoaE5TOHlOekl3TURVeU9UQTNNakUxT0M5d2NtUXRabkp2Ym5RdE1qazFNVGsyTkMweFh6WXdNSGcyTURBfGJmNjE1ODFkYTMxOTRhMGM5YTk4MGU0MzZlMWMyZDIyZjkxZDE0MjUzNzUwOWNiYzRmOWY2MjBjYmYyMjA2OGE"
 }

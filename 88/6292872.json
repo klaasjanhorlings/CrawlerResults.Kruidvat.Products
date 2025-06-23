@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1052885",
-  "mmkId": "1052885",
-  "productGroupId": "466686",
+  "onPromo": "1053402",
+  "mmkId": "1053402",
+  "productGroupId": "466690",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-iedere-dag-shampoo/p/6292872",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hcf/h75/34246678249502/prd-front-6292872-1_600x600/prd-front-6292872-1-600x600.jpg"
+  "description": "400ml"
 }

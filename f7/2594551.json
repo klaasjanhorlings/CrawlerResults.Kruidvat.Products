@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1052879",
-  "mmkId": "1052879",
-  "productGroupId": "463443",
+  "onPromo": "1053370",
+  "mmkId": "1053370",
+  "productGroupId": "459976",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-pink-passion-douchegel/p/2594551",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h61/he4/28188488663070/prd-front-2594551-1_600x600/prd-front-2594551-1-600x600.jpg"
 }

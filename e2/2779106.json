@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 4303 > 4306 > 4307 > 2272",
   "supplier": "KIMBERLY-CLARK BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053415",
+  "mmkId": "1053415",
+  "productGroupId": "468731",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/huggies-2-3-little-swimmers-3-8-kg-zwemluiers/p/2779106",
@@ -33,6 +33,5 @@
       "name": "Zwemluiers"
     }
   ],
-  "description": "12 stuks",
-  "image": "/medias/sys_master/prd-images/ha7/h6a/27773241458718/prd-front-2779106-1_600x600/prd-front-2779106-1-600x600.jpg"
+  "description": "12 stuks"
 }

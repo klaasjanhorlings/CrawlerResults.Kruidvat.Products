@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Minecraft Strandlaken",
+  "code": "6296365",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 5799 > 5802 > 5926 > 6020 > 6049",
+  "supplier": "TEXTIEL TRADE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/minecraft-strandlaken/p/6296365",
+  "listName": "Lister",
+  "brand": "Minecraft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266901,
+      "name": "Huishoudelijk textiel"
+    },
+    {
+      "id": 80863175,
+      "name": "Badhanddoeken"
+    }
+  ],
+  "description": "groen, 70cm x 140cm",
+  "image": "/medias/sys_master/prd-images/h6a/h95/34324912865310/prd-front-6296365-1_600x600/prd-front-6296365-1-600x600.jpg"
+}

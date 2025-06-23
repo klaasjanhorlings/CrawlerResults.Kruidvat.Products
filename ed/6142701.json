@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6323 > 6674",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053396",
+  "mmkId": "1053396",
+  "productGroupId": "465423",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/invisibobble-everclaw/p/6142701",
@@ -33,5 +33,6 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": "panterprint"
+  "description": "panterprint",
+  "image": "/medias/sys_master/prd-images/hb7/h65/31690364747806/prd-front-6142701-1_600x600/prd-front-6142701-1-600x600.jpg"
 }

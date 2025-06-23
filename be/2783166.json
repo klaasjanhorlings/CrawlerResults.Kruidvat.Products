@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "1052974",
-  "mmkId": "1052974",
-  "productGroupId": "482569",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-oleo-intense-5-86-lichtbruin-haarkleuring/p/2783166",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hdb/hb1/32893136109598/prd-front-2783166-1_600x600/prd-front-2783166-1-600x600.jpg"
+  "description": ""
 }

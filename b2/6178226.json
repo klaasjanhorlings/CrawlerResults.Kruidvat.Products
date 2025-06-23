@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
   "supplier": "MARQUE OF BRANDS BV",
   "inStock": "inStock",
-  "onPromo": "1052971",
-  "mmkId": "1052971",
-  "productGroupId": "482562",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/b-tan-gimme-the-glow-down-facial-tan-mist/p/6178226",
@@ -33,5 +33,6 @@
       "name": "Zelfbruiners"
     }
   ],
-  "description": "190ml"
+  "description": "190ml",
+  "image": "/medias/sys_master/prd-images/h28/hfb/34282079518750/prd-front-6178226-1_600x600/prd-front-6178226-1-600x600.jpg"
 }

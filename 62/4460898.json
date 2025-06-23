@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1052903",
-  "mmkId": "1052903",
-  "productGroupId": "471184",
+  "onPromo": "1053441",
+  "mmkId": "1053441",
+  "productGroupId": "471183",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-q10-power-sensitive-anti-rimpel-nachtcreme/p/4460898",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Gevoelige huid"
+  "description": "50ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hb5/hcf/32904250753054/prd-front-4460898-1_600x600/prd-front-4460898-1-600x600.jpg"
 }

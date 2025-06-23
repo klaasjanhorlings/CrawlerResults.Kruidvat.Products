@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "The Musical Tea Set",
+  "code": "6295966",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 2441 > 2936 > 3731 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/the-musical-tea-set/p/6295966",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925806,
+      "name": "Speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he5/hc2/33889169932318/prd-front-6295966-1_600x600/prd-front-6295966-1-600x600.jpg"
+}

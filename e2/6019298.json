@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1052903",
-  "mmkId": "1052903",
-  "productGroupId": "471184",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-repair-care-fragrance-free-bodycreme/p/6019298",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h9a/h8b/34393471647774/prd-front-6019298-1_600x600/prd-front-6019298-1-600x600.jpg"
+  "description": "400ml"
 }

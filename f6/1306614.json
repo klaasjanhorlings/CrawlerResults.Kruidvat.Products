@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1052903",
-  "mmkId": "1052903",
-  "productGroupId": "471184",
+  "onPromo": "1053620",
+  "mmkId": "1053620",
+  "productGroupId": "495754",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-verzachtende-reinigingscreme/p/1306614",
@@ -37,5 +37,6 @@
       "name": "Reinigingscreme"
     }
   ],
-  "description": "150ml - Droge of gevoelige huid"
+  "description": "150ml - Droge of gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h89/hb5/34522006781982/prd-front-1306614-1_600x600/prd-front-1306614-1-600x600.jpg"
 }

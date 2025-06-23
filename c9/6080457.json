@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 2842 > 3581",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
-  "onPromo": "1052944",
-  "mmkId": "1052944",
-  "productGroupId": "477403",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sorefix-rescue-koortslipcreme/p/6080457",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 6ml",
-  "image": "/medias/sys_master/prd-images/h01/h8d/34623421775902/prd-front-6080457-1_600x600/prd-front-6080457-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7a/h0f/34633089056798/prd-front-6080457-1_600x600/prd-front-6080457-1-600x600.jpg"
 }

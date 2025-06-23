@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
   "supplier": "HISMILE PTY LTD.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053345",
+  "mmkId": "1053345",
+  "productGroupId": "487511",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hismile-barbie-elektrische-tandenborstel/p/6289988",
@@ -33,6 +33,5 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "roze",
-  "image": "/medias/sys_master/prd-images/h03/hb9/34147170746398/prd-front-6289988-1_600x600/prd-front-6289988-1-600x600.jpg"
+  "description": "roze"
 }

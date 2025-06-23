@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1053122",
-  "mmkId": "1053122",
-  "productGroupId": "477762",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-disney-43272-heihei/p/6232399",
@@ -33,6 +33,5 @@
       "name": "LEGO Disney"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h34/h76/33459235094558/prd-front-6232399-1_600x600/prd-front-6232399-1-600x600.jpg"
+  "description": ""
 }

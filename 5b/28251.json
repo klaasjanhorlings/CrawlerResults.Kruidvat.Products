@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3395",
   "supplier": "MAURER&WIRTZ GMBH&CO KG",
   "inStock": "inStock",
-  "onPromo": "1052798",
-  "mmkId": "1052798",
-  "productGroupId": "476005",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tabac-original-aftershave-natural-spray/p/28251",
@@ -33,6 +33,5 @@
       "name": "Aftershave"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h35/hf1/30703411920926/prd-front-28251-1_600x600/prd-front-28251-1-600x600.jpg"
+  "description": "50ml"
 }

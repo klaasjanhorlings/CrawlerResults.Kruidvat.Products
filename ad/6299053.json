@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ravensburger Nijntje 4-in-1 Puzzel",
+  "code": "6299053",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "inStock",
+  "onPromo": "1053594",
+  "mmkId": "1053594",
+  "productGroupId": "487731",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ravensburger-nijntje-4-in-1-puzzel/p/6299053",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30266832,
+      "name": "Vormenstoof"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd7/hfa/34038673932318/prd-front-6299053-1_600x600/prd-front-6299053-1-600x600.jpg"
+}

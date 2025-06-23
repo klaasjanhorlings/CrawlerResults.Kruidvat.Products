@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
   "supplier": "MGBI SA (MEGABLEU)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053594",
+  "mmkId": "1053594",
+  "productGroupId": "487731",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/megableu-kuddegedrag-moosic-moovies-mini-spel/p/6286663",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/hde/h6c/33679949791262/prd-front-6286663-1_600x600/prd-front-6286663-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

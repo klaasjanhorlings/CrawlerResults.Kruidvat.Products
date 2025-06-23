@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1052945",
-  "mmkId": "1052945",
-  "productGroupId": "477418",
+  "onPromo": "1053606",
+  "mmkId": "1053606",
+  "productGroupId": "491498",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ymea-overgang-dag-nacht-capsules/p/1695506",
@@ -33,5 +33,6 @@
       "name": "Overgang"
     }
   ],
-  "description": "64 stuks"
+  "description": "64 stuks",
+  "image": "/medias/sys_master/prd-images/h1a/h71/34635492130846/prd-front-1695506-1_600x600/prd-front-1695506-1-600x600.jpg"
 }

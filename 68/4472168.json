@@ -8,9 +8,9 @@
   "itemBgbcat": "5929 > 6014 > 2153 > 2632 > 6446 > 6423",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053579",
+  "mmkId": "1053579",
+  "productGroupId": "486582",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-usb-a-naar-usb-c-oplaadkabel/p/4472168",
@@ -33,5 +33,6 @@
       "name": "Telefoonkabeltjes"
     }
   ],
-  "description": "wit, 3m"
+  "description": "wit, 3m",
+  "image": "/medias/sys_master/prd-images/h8d/hd2/33408183173150/prd-front-4472168-1_600x600/prd-front-4472168-1-600x600.jpg"
 }

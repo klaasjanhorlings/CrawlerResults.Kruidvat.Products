@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1053041",
-  "mmkId": "1053041",
-  "productGroupId": "486232",
+  "onPromo": "1053386",
+  "mmkId": "1053386",
+  "productGroupId": "464063",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-advanced-care-deeply-nourishing-douchegel/p/6058246",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml - Droge huid"
+  "description": "400ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hf1/h8d/30702527676446/prd-front-6058246-1_600x600/prd-front-6058246-1-600x600.jpg"
 }

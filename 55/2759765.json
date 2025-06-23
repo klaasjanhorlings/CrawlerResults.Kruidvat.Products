@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dettol Power & Fresh Katoenfris Allesreininger",
+  "code": "2759765",
+  "price": "2.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "1053446",
+  "mmkId": "1053446",
+  "productGroupId": "471466",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dettol-power-fresh-katoenfris-allesreininger/p/2759765",
+  "listName": "Lister",
+  "brand": "Dettol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144743,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "1L",
+  "image": "/medias/prd-front-2759765-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTI1NzZ8aW1hZ2UvanBlZ3xhR1kwTDJnMFlpOHlOalUyT0RFM05URTVNREEwTmk5d2NtUXRabkp2Ym5RdE1qYzFPVGMyTlMweFh6WXdNSGcyTURBfDI2ZThkOTg5OGE5NzMwYTczNjNhMDk3NjY1MTZlMGJhM2MxNzY4NDhkZTZkNjQ0ZmQwNTUxMjA4OGQ5YTNjMDQ"
+}

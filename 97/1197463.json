@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "1053028",
-  "mmkId": "1053028",
-  "productGroupId": "485134",
+  "onPromo": "1053560",
+  "mmkId": "1053560",
+  "productGroupId": "485149",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-kleurbehoud-verzorging-conditioner/p/1197463",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hea/had/27530045947934/prd-front-1197463-1_600x600/prd-front-1197463-1-600x600.jpg"
 }
