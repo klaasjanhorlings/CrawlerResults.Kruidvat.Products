@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "K3 1-Persoons Dekbedovertrek",
+  "code": "6266937",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2453 > 2738 > 3440 > 5926 > 6020",
+  "supplier": "STUDIO 100 NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/k3-1-persoons-dekbedovertrek/p/6266937",
+  "listName": "Lister",
+  "brand": "K3",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 65815325,
+      "name": "Dekbedovertrekken"
+    }
+  ],
+  "description": "140cm x 200cm",
+  "image": "/medias/sys_master/prd-images/hbb/h8c/33370054852638/prd-front-6266937-1_600x600/prd-front-6266937-1-600x600.jpg"
+}

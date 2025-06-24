@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Cozy Glow Eye & Cheek Palette",
+  "code": "6104733",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-cozy-glow-eye-cheek-palette/p/6104733",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266589,
+      "name": "Highlighter"
+    }
+  ],
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/h13/he7/31565082624030/prd-front-6104733-1_600x600/prd-front-6104733-1-600x600.jpg"
+}

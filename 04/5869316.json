@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
   "supplier": "CLEMENTONI SPA",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053594",
+  "mmkId": "1053594",
+  "productGroupId": "487731",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/clementoni-baby-radio/p/5869316",
@@ -33,5 +33,6 @@
       "name": "Interactief speelgoed"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1c/h1a/32539548385310/prd-front-5869316-1_600x600/prd-front-5869316-1-600x600.jpg"
 }

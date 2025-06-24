@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Revolution Professional Oil Control Fixing Spray",
+  "code": "4390121",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "NORDIC BEAUTY COMPANY APS",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/revolution-professional-oil-control-fixing-spray/p/4390121",
+  "listName": "Lister",
+  "brand": "Revolution",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266594,
+      "name": "Fixing sprays"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-4390121-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQ2ODV8aW1hZ2UvanBlZ3xhR0k1TDJoa015OHhOamd6TWpFNE16SXdOVGt4T0M5d2NtUXRabkp2Ym5RdE5ETTVNREV5TVMweFh6WXdNSGcyTURBfDJkOGZmN2YyMmQ1ZDEyYzk4YTk3NWZmNGM5MzIzYzA2OGFlNjNiZjY5NjQ3YTBiMWIyY2MzN2IwODFjZjE3OTU"
+}

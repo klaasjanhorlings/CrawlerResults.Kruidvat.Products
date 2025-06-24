@@ -8,8 +8,8 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1053370",
-  "mmkId": "1053370",
+  "onPromo": "1054475",
+  "mmkId": "1054475",
   "productGroupId": "459976",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hb2/h51/32039336640542/prd-front-2099497-1_600x600/prd-front-2099497-1-600x600.jpg"
 }

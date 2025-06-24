@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Squishmallows Fifi de Vos Shopper",
+  "code": "6293103",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6415",
+  "supplier": "DURABO BV",
+  "inStock": "inStock",
+  "onPromo": "1053624",
+  "mmkId": "1053624",
+  "productGroupId": "498170",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/squishmallows-fifi-de-vos-shopper/p/6293103",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "rood",
+  "image": "/medias/sys_master/prd-images/h35/h1d/33740687573022/prd-front-6293103-1_600x600/prd-front-6293103-1-600x600.jpg"
+}

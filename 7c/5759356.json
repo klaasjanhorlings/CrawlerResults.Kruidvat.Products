@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "MAXIM MARKENPRODUKTE",
-  "inStock": "inStock",
-  "onPromo": "1028975",
-  "mmkId": "1028975",
-  "productGroupId": "362258",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-men-fresh-douchefoam/p/5759356",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/prd-front-5759356-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTkyNTZ8aW1hZ2UvanBlZ3xhR0k1TDJobVlpOHhOamM1T0RRek16WTNNekkwTmk5d2NtUXRabkp2Ym5RdE5UYzFPVE0xTmkweFh6WXdNSGcyTURBfDBkZjI3NGUzY2Y1YjI0MjFmOTNkYTMzOGVmN2JkOTI3YmIxYzFlZjk4NmEyMTlmZTA1ODU3YmNkNTBmZmUzNWU"
 }
