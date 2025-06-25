@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
   "supplier": "SPEELGOEDLAND",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053594",
+  "mmkId": "1053594",
+  "productGroupId": "487731",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/minecraft-super-activity-album/p/6256150",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hef/h24/33340031467550/prd-front-6256150-1_600x600/prd-front-6256150-1-600x600.jpg"
 }

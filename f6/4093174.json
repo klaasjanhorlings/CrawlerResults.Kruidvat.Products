@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "PREMIUM COSMETICS GMBH",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "125ml",
-  "image": "/medias/sys_master/prd-images/h3d/h20/28482145615902/prd-front-4093174-1_600x600/prd-front-4093174-1-600x600.jpg"
+  "description": "125ml"
 }

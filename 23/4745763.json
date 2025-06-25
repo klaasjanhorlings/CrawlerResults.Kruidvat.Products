@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2332 > 2732 > 3651",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053380",
+  "mmkId": "1053380",
+  "productGroupId": "462069",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-finger-cohesive-zelfhechtende-vingerbandage/p/4745763",
@@ -29,8 +29,12 @@
       "name": "Wondverzorging"
     },
     {
-      "id": 30266737,
-      "name": "Bandages en windsels"
+      "id": 30266739,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414265,
+      "name": "Vingerpleisters"
     }
   ],
   "description": "Medisch hulpmiddel - 5m x 2,5cm",

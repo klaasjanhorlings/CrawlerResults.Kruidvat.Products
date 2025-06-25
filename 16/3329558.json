@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "KNEIPP NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Doucheolie"
     }
   ],
-  "description": "200ml - Droge huid"
+  "description": "200ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hb8/h0e/33464976769054/prd-front-3329558-1_600x600/prd-front-3329558-1-600x600.jpg"
 }

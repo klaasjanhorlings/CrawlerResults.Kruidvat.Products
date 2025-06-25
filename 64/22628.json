@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
   "supplier": "HEEL BIOLOGISCHE GENEES",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "Homeopathisch geneesmiddel - 150g"
+  "description": "Homeopathisch geneesmiddel - 150g",
+  "image": "/medias/sys_master/prd-images/ha8/hfe/34654146265118/prd-front-22628-1_600x600/prd-front-22628-1-600x600.jpg"
 }

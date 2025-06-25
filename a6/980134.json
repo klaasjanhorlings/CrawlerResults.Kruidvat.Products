@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1016191",
+  "mmkId": "1016191",
+  "productGroupId": "9004942",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-perfect-curls-shampoo/p/980134",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/he0/hc2/30686469652510/prd-front-980134-1_600x600/prd-front-980134-1-600x600.jpg"
 }

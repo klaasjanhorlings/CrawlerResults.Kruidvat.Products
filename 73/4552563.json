@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "MAE PHARMA BV",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-2-in-1-hoestdrank/p/4552563",
@@ -37,5 +37,6 @@
       "name": "Hoestdrank"
     }
   ],
-  "description": "Medisch hulpmiddel - 120ml"
+  "description": "Medisch hulpmiddel - 120ml",
+  "image": "/medias/prd-front-4552563-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzgwNTl8aW1hZ2UvanBlZ3xhR00wTDJnd05TOHhOak15TlRNd01ESTRPVFUyTmk5d2NtUXRabkp2Ym5RdE5EVTFNalUyTXkweFh6WXdNSGcyTURBfDVjYTYxNjYxYTk1ZWQwYmRkMWUwYTYzMzZmMDllYjYzNmQ1MTc5ZTJjOWY3OWQzM2Y2MzFlOWQzYjBlM2EwYTE"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053302",
+  "mmkId": "1053302",
+  "productGroupId": "468611",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nestosyl-wondgel/p/3726948",
@@ -29,8 +29,8 @@
       "name": "Wondverzorging"
     },
     {
-      "id": 30266735,
-      "name": "EHBO-doos"
+      "id": 49950783,
+      "name": "Wondzalven"
     }
   ],
   "description": "Medisch hulpmiddel - 75ml",

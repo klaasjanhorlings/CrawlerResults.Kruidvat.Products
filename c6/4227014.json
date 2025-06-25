@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
   "supplier": "HEEL BIOLOGISCHE GENEES",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053614",
+  "mmkId": "1053614",
+  "productGroupId": "495151",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vsm-kind-chamodent-tandgel/p/4227014",
@@ -29,14 +29,10 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266700,
-      "name": "Oor, oog en mond"
-    },
-    {
-      "id": 30266949,
-      "name": "Doorkomende tandjes"
+      "id": 30266712,
+      "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
   "description": "10g",
-  "image": "/medias/sys_master/prd-images/h88/he5/34639059255326/prd-front-4227014-1_600x600/prd-front-4227014-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7d/h54/34650521436190/prd-front-4227014-1_600x600/prd-front-4227014-1-600x600.jpg"
 }

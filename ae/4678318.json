@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5722 > 3880",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053519",
+  "mmkId": "1053519",
+  "productGroupId": "482279",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-fusion5-scheerapparaat/p/4678318",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": "Inclusief 2 scheermesjes"
+  "description": "Inclusief 2 scheermesjes",
+  "image": "/medias/sys_master/prd-images/he5/h6c/33338967359518/prd-front-4678318-1_600x600/prd-front-4678318-1-600x600.jpg"
 }

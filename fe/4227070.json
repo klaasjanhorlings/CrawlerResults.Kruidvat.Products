@@ -29,13 +29,14 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
+      "id": 30266715,
+      "name": "Mineralen"
     },
     {
-      "id": 30267461,
-      "name": "Multivitamines"
+      "id": 50001842,
+      "name": "Magnesium"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/prd-front-4227070-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODcwMDh8aW1hZ2UvanBlZ3xhREUwTDJobU5DOHhOalUzTmpBMk5EVTFNams1TUM5d2NtUXRabkp2Ym5RdE5ESXlOekEzTUMweFh6WXdNSGcyTURBfDExODhlMDQ3NDVhMjIzNjYzZjA5OTFhNzBlY2JiNDBmMGM2OGQ5YWM3NDkwMGQ0MTM4ZGZkMzQwMjEyODNmM2Y"
 }
