@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dobble Classic Pocket",
   "code": "6117956",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h11/hc4/34249080406046/prd-front-6117956-1_600x600/prd-front-6117956-1-600x600.jpg"
+  "description": ""
 }

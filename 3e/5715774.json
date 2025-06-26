@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Badeend",
   "code": "5715774",
   "price": "1.99",
@@ -33,5 +33,6 @@
       "name": "Badspeelgoed"
     }
   ],
-  "description": "geel, rood, 7,5cm"
+  "description": "geel, rood, 7,5cm",
+  "image": "/medias/sys_master/prd-images/h0b/heb/28511371198494/prd-front-5715774-1_600x600/prd-front-5715774-1-600x600.jpg"
 }

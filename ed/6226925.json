@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO DUPLO 10442 Families van Wilde Dieren: Pinguïns en Leeuwen",
   "code": "6226925",
   "price": "8.99",
@@ -33,6 +33,5 @@
       "name": "LEGO Duplo"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h20/h51/33143659888670/prd-front-6226925-1_600x600/prd-front-6226925-1-600x600.jpg"
+  "description": ""
 }

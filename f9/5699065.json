@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Spider-Man Tekenset",
+  "code": "5699065",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
+  "supplier": "SPEELGOEDLAND",
+  "inStock": "inStock",
+  "onPromo": "1053594",
+  "mmkId": "1053594",
+  "productGroupId": "487731",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/spider-man-tekenset/p/5699065",
+  "listName": "Lister",
+  "brand": "Spiderman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266030,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h17/h59/31368276508702/prd-front-5699065-1_600x600/prd-front-5699065-1-600x600.jpg"
+}

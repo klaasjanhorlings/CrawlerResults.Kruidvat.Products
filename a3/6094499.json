@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "LEGO DUPLO Spidey 10424 De Motoravonturen van Spin",
+  "code": "6094499",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1040890",
+  "mmkId": "1040890",
+  "productGroupId": "432542",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-duplo-spidey-10424-de-motoravonturen-van-spin/p/6094499",
+  "listName": "Lister",
+  "brand": "LEGO Duplo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 69053413,
+      "name": "Bouwen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5d/he9/30948843487262/prd-front-6094499-1_600x600/prd-front-6094499-1-600x600.jpg"
+}

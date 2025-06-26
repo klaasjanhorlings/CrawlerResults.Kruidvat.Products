@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053450",
+  "mmkId": "1053450",
+  "productGroupId": "471985",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-revitalift-filler-tissuemasker/p/5081553",
@@ -37,6 +37,5 @@
       "name": "Sheet maskers"
     }
   ],
-  "description": "9,1ml - Normale en rijpe huid",
-  "image": "/medias/sys_master/prd-images/h78/h79/29709107429406/prd-front-5081553-1_600x600/prd-front-5081553-1-600x600.jpg"
+  "description": "9,1ml - Normale en rijpe huid"
 }

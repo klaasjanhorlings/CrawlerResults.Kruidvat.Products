@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Goliath 6 That's Life Junior Picknick Puzzel",
   "code": "6146761",
   "price": "3.99",
@@ -29,5 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": "240 stukjes"
+  "description": "240 stukjes",
+  "image": "/medias/sys_master/prd-images/h2b/h23/31842068463646/prd-front-6146761-1_600x600/prd-front-6146761-1-600x600.jpg"
 }

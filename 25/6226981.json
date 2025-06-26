@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Marvel 76307 Iron Man Mecha vs. Ultron",
   "code": "6226981",
   "price": "12.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Marvel"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/h77/33146007584798/prd-front-6226981-1_600x600/prd-front-6226981-1-600x600.jpg"
 }

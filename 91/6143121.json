@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Munchkin Fun Ice Chewy Teether Bijtring",
   "code": "6143121",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Grijp- en bijtspeelgoed"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h15/hd7/32539567751198/prd-front-6143121-1_600x600/prd-front-6143121-1-600x600.jpg"
 }

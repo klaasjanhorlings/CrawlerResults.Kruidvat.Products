@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Clementoni Nijntje Puzzelblokken",
   "code": "6102059",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Vormenstoof"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc1/hfb/32779421286430/prd-front-6102059-1_600x600/prd-front-6102059-1-600x600.jpg"
+  "description": ""
 }

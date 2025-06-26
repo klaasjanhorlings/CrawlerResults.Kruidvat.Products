@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Goliath Chuck Pinson Country Puzzel",
+  "code": "6266048",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6018",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "1053594",
+  "mmkId": "1053594",
+  "productGroupId": "487731",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/goliath-chuck-pinson-country-puzzel/p/6266048",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90170187,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "1000 stukjes",
+  "image": "/medias/sys_master/prd-images/hde/h6d/33391897018398/prd-front-6266048-1_600x600/prd-front-6266048-1-600x600.jpg"
+}
