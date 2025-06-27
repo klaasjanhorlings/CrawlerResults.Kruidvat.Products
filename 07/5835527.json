@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "CeraVe Hydrating Cleanser",
+  "itemName": "CeraVe Hydraterende Reinigingscrème",
   "code": "5835527",
   "price": "13.46",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/cerave-hydrating-cleanser/p/5835527",
+  "url": "/cerave-hydraterende-reinigingscreme/p/5835527",
   "listName": "Lister",
   "brand": "CeraVe",
   "mpOrigin": "Kruidvat",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266914,
-      "name": "Reinigingsmelk"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "236ml",

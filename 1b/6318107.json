@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty 4-in-1 Peach Colour Corrector",
+  "code": "6318107",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/mcobeauty-4-in-1-peach-colour-corrector/p/6318107",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266594,
+      "name": "Fixing sprays"
+    }
+  ],
+  "description": "4,3ml",
+  "image": "/medias/sys_master/prd-images/h70/h06/34681377619998/prd-front-6318107-1_600x600/prd-front-6318107-1-600x600.jpg"
+}

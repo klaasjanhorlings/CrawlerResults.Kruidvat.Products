@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Pure & Soft Badolie",
+  "code": "6316014",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2716 > 3419",
+  "supplier": "PHARCONA GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pure-soft-badolie/p/6316014",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266777,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 48682538,
+      "name": "Babybadolie"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h99/heb/34525895065630/prd-front-6316014-1_600x600/prd-front-6316014-1-600x600.jpg"
+}

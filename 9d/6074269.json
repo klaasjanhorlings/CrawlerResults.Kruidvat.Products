@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Ninjago 71816 Zane's IJsmotor",
   "code": "6074269",
   "price": "8.99",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69044935,
-      "name": "LEGO Verjaardagscadeaus"
+      "id": 30266812,
+      "name": "LEGO Ninjago"
     }
   ],
   "description": "",

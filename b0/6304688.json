@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "CeraVe Blemish Control Reinigingsgel",
+  "itemName": "CeraVe Anti-Onzuiverheden Reinigingsgel",
   "code": "6304688",
   "price": "20.95",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/cerave-blemish-control-reinigingsgel/p/6304688",
+  "url": "/cerave-anti-onzuiverheden-reinigingsgel/p/6304688",
   "listName": "Lister",
   "brand": "CeraVe",
   "mpOrigin": "Kruidvat",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266916,
-      "name": "Cleanser"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "473ml",

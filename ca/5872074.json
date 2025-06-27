@@ -21,22 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 30265999,
+      "name": "Zonbescherming"
     },
     {
-      "id": 51214305,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 49431546,
-      "name": "Tattooverzorging"
+      "id": 30266657,
+      "name": "Zonnebrand"
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hce/h7c/34673636999198/prd-front-5872074-1_600x600/prd-front-5872074-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6c/h54/34688320208926/prd-front-5872074-1_600x600/prd-front-5872074-1-600x600.jpg"
 }

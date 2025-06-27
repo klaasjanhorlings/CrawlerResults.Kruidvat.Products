@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "NIVEA Rich Caring Shower Oil",
+  "itemName": "NIVEA Doucheolie",
   "code": "3071370",
   "price": "7.69",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "495754",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-rich-caring-shower-oil/p/3071370",
+  "url": "/nivea-doucheolie/p/3071370",
   "listName": "Lister",
   "brand": "Nivea",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Doucheolie"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h65/h9a/32930597306398/prd-front-3071370-1_600x600/prd-front-3071370-1-600x600.jpg"
 }

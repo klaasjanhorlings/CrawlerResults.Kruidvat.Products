@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty Light/Medium Instant Contour Cream Bronzer",
+  "code": "6317106",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/mcobeauty-light/medium-instant-contour-cream-bronzer/p/6317106",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266591,
+      "name": "Contour"
+    }
+  ],
+  "description": "12ml",
+  "image": "/medias/sys_master/prd-images/h2c/h3d/34677698527262/prd-front-6317106-1_600x600/prd-front-6317106-1-600x600.jpg"
+}

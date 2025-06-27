@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Megableu First to Worst Minispel",
   "code": "6281777",
   "price": "7.99",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h98/hfd/33555028115486/prd-front-6281777-1_600x600/prd-front-6281777-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

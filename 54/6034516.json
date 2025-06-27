@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Dreamzzz 71475 De Ruimteauto Van Meneer Oz",
   "code": "6034516",
   "price": "27.99",
@@ -33,5 +33,6 @@
       "name": "LEGO DreamZzz"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha2/h0e/30039247093790/prd-front-6034516-1_600x600/prd-front-6034516-1-600x600.jpg"
 }

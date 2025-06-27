@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Pure & Soft Wasgel",
+  "code": "6316021",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
+  "supplier": "PHARCONA GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pure-soft-wasgel/p/6316021",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266777,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267021,
+      "name": "Babywasgel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h8c/ha3/34522048725022/prd-front-6316021-1_600x600/prd-front-6316021-1-600x600.jpg"
+}

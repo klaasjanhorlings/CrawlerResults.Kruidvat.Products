@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "CeraVe Foaming Cleanser",
+  "itemName": "CeraVe Schuimende Reinigingsgel",
   "code": "5834365",
   "price": "14.25",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/cerave-foaming-cleanser/p/5834365",
+  "url": "/cerave-schuimende-reinigingsgel/p/5834365",
   "listName": "Lister",
   "brand": "CeraVe",
   "mpOrigin": "Kruidvat",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "236ml"
+  "description": "236ml",
+  "image": "/medias/sys_master/prd-images/h20/h35/34427212464158/prd-front-5834365-1_600x600/prd-front-5834365-1-600x600.jpg"
 }

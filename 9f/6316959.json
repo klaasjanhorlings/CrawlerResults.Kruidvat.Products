@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty Glow Super Bright Primer",
+  "code": "6316959",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/mcobeauty-glow-super-bright-primer/p/6316959",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266579,
+      "name": "Primer"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hb9/h12/34689906442270/prd-front-6316959-1_600x600/prd-front-6316959-1-600x600.jpg"
+}

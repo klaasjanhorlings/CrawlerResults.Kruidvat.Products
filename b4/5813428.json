@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "SUNVAL BABY FOOD GMBH",
-  "inStock": "inStock",
-  "onPromo": "1053484",
-  "mmkId": "1053484",
-  "productGroupId": "476255",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-6m-bio-groenten-gierst-maaltijd/p/5813428",
@@ -37,6 +37,5 @@
       "name": "6+ maanden"
     }
   ],
-  "description": "380g",
-  "image": "/medias/prd-front-5813428-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODcwMzF8aW1hZ2UvanBlZ3xhREEwTDJoaE1pOHlOalF4TVRreU9UUXpOakU1TUM5d2NtUXRabkp2Ym5RdE5UZ3hNelF5T0MweFh6WXdNSGcyTURBfDg4NjQ5MmY3M2NiNGVjNzZmYzMxOWVmNTRhZDIzZTMyMjQ0ODYzNDY3Yjk5OGVjODUzYzQ1OWQyNDczYzQ2OTA"
+  "description": "380g"
 }

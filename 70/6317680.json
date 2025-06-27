@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty Precision Medium/Dark Super Fine Brow Pencil",
+  "code": "6317680",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/mcobeauty-precision-medium/dark-super-fine-brow-pencil/p/6317680",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266592,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30266908,
+      "name": "Wenkbrauwpotlood"
+    }
+  ],
+  "description": "0,1g",
+  "image": "/medias/sys_master/prd-images/h5f/h97/34678064218142/prd-front-6317680-1_600x600/prd-front-6317680-1-600x600.jpg"
+}

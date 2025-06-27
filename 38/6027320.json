@@ -25,13 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266604,
-      "name": "Oogcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
-  "description": "15ml, vochtarme en vermoeide huid"
+  "description": "15ml, vochtarme en vermoeide huid",
+  "image": "/medias/sys_master/prd-images/h25/h03/32313352159262/prd-front-6027320-1_600x600/prd-front-6027320-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 15% Zinkoxide Zinkcrème",
+  "code": "6322055",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4264",
+  "supplier": "MAE PHARMA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-15-zinkoxide-zinkcreme/p/6322055",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266776,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267017,
+      "name": "Zinkzalf"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h5c/h93/34580635779102/prd-front-6322055-1_600x600/prd-front-6322055-1-600x600.jpg"
+}

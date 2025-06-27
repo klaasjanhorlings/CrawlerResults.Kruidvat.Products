@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Jiggly Pets Gele Bij",
   "code": "6269660",
   "price": "9.99",
@@ -29,6 +29,5 @@
       "name": "Elektronisch speelgoed"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hf0/ha7/33809558994974/prd-front-6269660-1_600x600/prd-front-6269660-1-600x600.jpg"
+  "description": ""
 }

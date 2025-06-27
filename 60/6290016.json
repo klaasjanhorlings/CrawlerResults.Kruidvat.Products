@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Opblaasdier Lama",
   "code": "6290016",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Opblaasfiguren"
     }
   ],
-  "description": "130cm x 68cm x 30cm",
-  "image": "/medias/sys_master/prd-images/hef/h4f/34315116642334/prd-front-6290016-1_600x600/prd-front-6290016-1-600x600.jpg"
+  "description": "130cm x 68cm x 30cm"
 }

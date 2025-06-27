@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty Bella Vita Sheer Tint Lipbalm",
+  "code": "6317925",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/mcobeauty-bella-vita-sheer-tint-lipbalm/p/6317925",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 87395308,
+      "name": "Lip balm"
+    }
+  ],
+  "description": "3g",
+  "image": "/medias/sys_master/prd-images/hc2/h27/34681372180510/prd-front-6317925-1_600x600/prd-front-6317925-1-600x600.jpg"
+}

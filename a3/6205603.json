@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Playing Kids Houten Snijset",
   "code": "6205603",
   "price": "5.99",
@@ -25,12 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266026,
-      "name": "Baby- en peuterspeelgoed"
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
     },
     {
-      "id": 49281541,
-      "name": "Interactief speelgoed"
+      "id": 84925806,
+      "name": "Speelsets"
     }
   ],
   "description": "",

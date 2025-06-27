@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Toilettas",
+  "code": "6264641",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2271 > 2637 > 3320 > 6344 > 6674",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-toilettas/p/6264641",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266620,
+      "name": "Toilettassen"
+    }
+  ],
+  "description": "groen",
+  "image": "/medias/sys_master/prd-images/h00/hc5/33713188765726/prd-front-6264641-1_600x600/prd-front-6264641-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Pure & Soft Shampoo",
+  "code": "6316028",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
+  "supplier": "PHARCONA GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pure-soft-shampoo/p/6316028",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266775,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267012,
+      "name": "Babyshampoo"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hd6/hfc/34526654070814/prd-front-6316028-1_600x600/prd-front-6316028-1-600x600.jpg"
+}

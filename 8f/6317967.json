@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty Disco Hot Lip Plump",
+  "code": "6317967",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/mcobeauty-disco-hot-lip-plump/p/6317967",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 87395798,
+      "name": "Lip plumper"
+    }
+  ],
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h31/h53/34680548392990/prd-front-6317967-1_600x600/prd-front-6317967-1-600x600.jpg"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Classic 11026 Witte Bouwplaat",
   "code": "5082757",
   "price": "7.99",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 49429181,
-      "name": "LEGO bouwplaten"
+      "id": 30266811,
+      "name": "LEGO Classic"
     }
   ],
   "description": "25cm x 25cm",

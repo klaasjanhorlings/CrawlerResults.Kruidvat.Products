@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty Silky Smooth Natural Bronze Bronzer",
+  "code": "6318037",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/mcobeauty-silky-smooth-natural-bronze-bronzer/p/6318037",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266578,
+      "name": "Concealer"
+    }
+  ],
+  "description": "7g",
+  "image": "/medias/sys_master/prd-images/h6d/ha8/34681374081054/prd-front-6318037-1_600x600/prd-front-6318037-1-600x600.jpg"
+}

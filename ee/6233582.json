@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Catrice Glass Like 040 You Do You Dewy Lip Tint",
   "code": "6233582",
-  "price": "4.69",
+  "price": "6.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "3ml"
+  "description": "3ml",
+  "image": "/medias/sys_master/prd-images/had/h17/33041052434462/prd-front-6233582-1_600x600/prd-front-6233582-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "CeraVe SPF30 Facial Moisturising Lotion",
+  "itemName": "CeraVe SPF30 Hydraterende Gezichtscrème",
   "code": "6304758",
   "price": "18.95",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/cerave-spf30-facial-moisturising-lotion/p/6304758",
+  "url": "/cerave-spf30-hydraterende-gezichtscreme/p/6304758",
   "listName": "Lister",
   "brand": "CeraVe",
   "mpOrigin": "Kruidvat",
@@ -25,14 +25,9 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
-  "description": "52ml",
-  "image": "/medias/sys_master/prd-images/h79/hf3/34486164062238/prd-front-6304758-1_600x600/prd-front-6304758-1-600x600.jpg"
+  "description": "52ml"
 }
