@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3429",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053433",
+  "mmkId": "1053433",
+  "productGroupId": "470537",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-anti-klit-shampoo/p/6315377",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hb4/hdb/34683309031454/prd-front-6315377-1_600x600/prd-front-6315377-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h72/h41/34691793682462/prd-front-6315377-1_600x600/prd-front-6315377-1-600x600.jpg"
 }

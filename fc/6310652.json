@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2716 > 3419",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053433",
+  "mmkId": "1053433",
+  "productGroupId": "470537",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-badolie/p/6310652",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hff/h37/34689882652702/prd-front-6310652-1_600x600/prd-front-6310652-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc8/ha1/34700646023198/prd-front-6310652-1_600x600/prd-front-6310652-1-600x600.jpg"
 }

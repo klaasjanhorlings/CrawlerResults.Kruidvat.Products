@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053433",
+  "mmkId": "1053433",
+  "productGroupId": "470537",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-bodylotion/p/6310722",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h46/h82/34685804871710/prd-front-6310722-1_600x600/prd-front-6310722-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h08/h78/34694112018462/prd-front-6310722-1_600x600/prd-front-6310722-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Conditioner",
+  "code": "6310715",
+  "price": "4.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1053433",
+  "mmkId": "1053433",
+  "productGroupId": "470537",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-conditioner/p/6310715",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266775,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 49719250,
+      "name": "Baby cremespoeling"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h83/h75/34697532243998/prd-front-6310715-1_600x600/prd-front-6310715-1-600x600.jpg"
+}

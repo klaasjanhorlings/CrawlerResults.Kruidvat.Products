@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "SOLUTION EU BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053536",
+  "mmkId": "1053536",
+  "productGroupId": "483694",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-6m-360-anti-lekbeker/p/5093845",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "rood, wit, 210ml"
+  "description": "rood, wit, 210ml",
+  "image": "/medias/sys_master/prd-images/h34/hc0/27403939872798/prd-front-5093845-1_600x600/prd-front-5093845-1-600x600.jpg"
 }
