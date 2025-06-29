@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Rood Melange Dessert Snelfiltermaling",
+  "code": "2895432",
+  "price": "6.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 2810 > 3551",
+  "supplier": "UCC COFFEE BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-rood-melange-dessert-snelfiltermaling/p/2895432",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    }
+  ],
+  "description": "500g",
+  "image": "/medias/sys_master/prd-images/h4b/h5d/32302741454878/prd-front-2895432-1_600x600/prd-front-2895432-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 6483 > 6484",
   "supplier": "LENSCONCEPT BV",
-  "inStock": "inStock",
-  "onPromo": "1053262",
-  "mmkId": "1053262",
-  "productGroupId": "497097",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-opticare-antibacterieel-contactlenshouder/p/3664739",
@@ -33,6 +33,5 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "Medisch hulpmiddel",
-  "image": "/medias/sys_master/prd-images/ha2/hb8/29173922758686/prd-front-3664739-1_600x600/prd-front-3664739-1-600x600.jpg"
+  "description": "Medisch hulpmiddel"
 }

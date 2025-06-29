@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Byoux Verrassingsbox",
+  "code": "6309497",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2143 > 4869 > 4905 > 5074 > 5073",
+  "supplier": "J-CLUB E-COMM",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-byoux-verrassingsbox/p/6309497",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266860,
+      "name": "Sieraden en bijoux"
+    },
+    {
+      "id": 90372134,
+      "name": "Oorbellen"
+    }
+  ],
+  "description": ""
+}

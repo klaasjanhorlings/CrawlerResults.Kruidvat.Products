@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Latte Macchiato Koffiecapsules",
+  "code": "6220135",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
+  "supplier": "MALABAR BV",
+  "inStock": "inStock",
+  "onPromo": "1053475",
+  "mmkId": "1053475",
+  "productGroupId": "474771",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-latte-macchiato-koffiecapsules/p/6220135",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    }
+  ],
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/h5b/h74/33079748526110/prd-front-6220135-1_600x600/prd-front-6220135-1-600x600.jpg"
+}

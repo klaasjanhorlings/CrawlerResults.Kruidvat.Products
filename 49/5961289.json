@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
   "supplier": "NAIF CARE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Babybadschuim"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/h5e/h59/32793030492190/prd-front-5961289-1_600x600/prd-front-5961289-1-600x600.jpg"
+  "description": "500ml"
 }
