@@ -8,9 +8,9 @@
   "itemBgbcat": "2196 > 2956 > 3750 > 5926 > 6020 > 6047",
   "supplier": "ESSCHERT DESIGN B.V.",
   "inStock": "inStock",
-  "onPromo": "1053678",
-  "mmkId": "1053678",
-  "productGroupId": "499620",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/boerenbont-placemats/p/6294503",
@@ -33,5 +33,6 @@
       "name": "Dienbladen"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/h68/h11/33836721733662/prd-front-6294503-1_600x600/prd-front-6294503-1-600x600.jpg"
 }

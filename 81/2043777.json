@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "KNEIPP NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1053617",
-  "mmkId": "1053617",
-  "productGroupId": "495487",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A or B brand",
   "discount": "",
   "url": "/kneipp-badoliecollectie-geschenkset/p/2043777",
@@ -37,6 +37,5 @@
       "name": "Bad & douche geschenksets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h45/h4d/34414943666206/prd-front-2043777-1_600x600/prd-front-2043777-1-600x600.jpg"
+  "description": ""
 }

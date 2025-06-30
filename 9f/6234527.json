@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Weekendtas met Bloemenprint",
+  "code": "6234527",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 4869 > 6088 > 6091 > 6095",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1053624",
+  "mmkId": "1053624",
+  "productGroupId": "498170",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-weekendtas-met-bloemenprint/p/6234527",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "56cm x 38cm x 18cm",
+  "image": "/medias/sys_master/prd-images/h90/h5e/33535096815646/prd-front-6234527-1_600x600/prd-front-6234527-1-600x600.jpg"
+}

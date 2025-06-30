@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2885 > 4228 > 5693",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "inStock",
-  "onPromo": "1053591",
-  "mmkId": "1053591",
-  "productGroupId": "487295",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-sonicare-optimal-sensitive-hx6052/10-opzetborstels/p/6036322",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "wit, 2 stuks",
-  "image": "/medias/sys_master/prd-images/h7e/hce/34701751123998/prd-front-6036322-1_600x600/prd-front-6036322-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h3f/h24/34711519461406/prd-front-6036322-1_600x600/prd-front-6036322-1-600x600.jpg"
 }

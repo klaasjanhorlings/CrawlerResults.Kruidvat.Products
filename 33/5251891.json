@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1053675",
-  "mmkId": "1053675",
-  "productGroupId": "486563",
+  "onPromo": "1053569",
+  "mmkId": "1053569",
+  "productGroupId": "486328",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-pro-precision-clean-opzetborstels/p/5251891",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 4 stuks"
+  "description": "wit, 4 stuks",
+  "image": "/medias/sys_master/prd-images/h2a/h3d/32944353738782/prd-front-5251891-1_600x600/prd-front-5251891-1-600x600.jpg"
 }

@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Paw Patrol Labyrinth Junior",
+  "code": "6323021",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "inStock",
+  "onPromo": "1053594",
+  "mmkId": "1053594",
+  "productGroupId": "487731",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/paw-patrol-labyrinth-junior/p/6323021",
+  "listName": "Lister",
+  "brand": "Paw Patrol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": ""
+}

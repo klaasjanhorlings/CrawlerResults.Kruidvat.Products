@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ravensburger Bluey Memory",
+  "code": "5952609",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "inStock",
+  "onPromo": "1053594",
+  "mmkId": "1053594",
+  "productGroupId": "487731",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ravensburger-bluey-memory/p/5952609",
+  "listName": "Lister",
+  "brand": "Ravensburger",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h80/h21/31371574706206/prd-front-5952609-1_600x600/prd-front-5952609-1-600x600.jpg"
+}

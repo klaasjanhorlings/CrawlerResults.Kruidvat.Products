@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "HEEL BIOLOGISCHE GENEES",
-  "inStock": "inStock",
-  "onPromo": "1053614",
-  "mmkId": "1053614",
-  "productGroupId": "495151",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vsm-arniflor-eerste-hulp-zalf/p/2722315",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "25g",
-  "image": "/medias/sys_master/prd-images/h95/hee/34703641346078/prd-front-2722315-1_600x600/prd-front-2722315-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hca/hfc/34712579997726/prd-front-2722315-1_600x600/prd-front-2722315-1-600x600.jpg"
 }

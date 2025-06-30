@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ravensburger Marvel Spider-Man Memory",
+  "code": "5522812",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "inStock",
+  "onPromo": "1053594",
+  "mmkId": "1053594",
+  "productGroupId": "487731",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ravensburger-marvel-spider-man-memory/p/5522812",
+  "listName": "Lister",
+  "brand": "Spiderman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1a/h93/31367991689246/prd-front-5522812-1_600x600/prd-front-5522812-1-600x600.jpg"
+}

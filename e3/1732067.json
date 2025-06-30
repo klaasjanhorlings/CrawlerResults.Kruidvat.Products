@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 3878 > 5725",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1053386",
-  "mmkId": "1053386",
-  "productGroupId": "464063",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-mencare-extra-fresh-douchegel/p/1732067",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hdd/hc0/33611147870238/prd-front-1732067-1_600x600/prd-front-1732067-1-600x600.jpg"
+  "description": "250ml"
 }

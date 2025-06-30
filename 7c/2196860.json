@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
   "supplier": "ELLIPSE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-2196860-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODU3Mjd8aW1hZ2UvanBlZ3xhRGt3TDJobE1DOHlOall6T0RVd09URTBOakUwTWk5d2NtUXRabkp2Ym5RdE1qRTVOamcyTUMweFh6WXdNSGcyTURBfDM5MDVmOGI4NWIwN2VmNDIyODU3MTJjMzY0ZWNiMTlhMjQwYjFjZjNlZjAyY2I4Y2U0NzA4YzhiNjBjOTAzY2Y"
 }

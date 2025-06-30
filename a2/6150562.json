@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Waterschoenen",
+  "code": "6150562",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2487 > 3056 > 3904 > 5928 > 6351 > 6352",
+  "supplier": "VIMPEX INT FOOTWEAR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/waterschoenen/p/6150562",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266043,
+      "name": "Schoenen"
+    },
+    {
+      "id": 30266859,
+      "name": "Herenschoenen"
+    }
+  ],
+  "description": "zwart, mt 42-43",
+  "image": "/medias/sys_master/prd-images/hf5/hef/34712202969118/prd-front-6150562-1_600x600/prd-front-6150562-1-600x600.jpg"
+}
