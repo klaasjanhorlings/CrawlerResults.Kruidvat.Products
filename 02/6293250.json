@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swim Essentials Babyfloat",
+  "code": "6293250",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4830 > 4936 > 4982 > 5028 > 5921 > 6023",
+  "supplier": "THE ESSENTIALS BV",
+  "inStock": "inStock",
+  "onPromo": "1053594",
+  "mmkId": "1053594",
+  "productGroupId": "487731",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/swim-essentials-babyfloat/p/6293250",
+  "listName": "Lister",
+  "brand": "Swim Essentials",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30266838,
+      "name": "Zwembaden en accessoires"
+    },
+    {
+      "id": 90160655,
+      "name": "Zwemveiligheid"
+    }
+  ],
+  "description": "69cm",
+  "image": "/medias/sys_master/prd-images/h0c/h41/33984776798238/prd-front-6293250-1_600x600/prd-front-6293250-1-600x600.jpg"
+}

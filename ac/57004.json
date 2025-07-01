@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "HERKEL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053561",
+  "mmkId": "1053561",
+  "productGroupId": "485171",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-vitamine-b-complex-50mg-tabletten/p/57004",
@@ -37,6 +37,5 @@
       "name": "Vitamine B"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/haf/h9c/33325820346398/prd-front-57004-1_600x600/prd-front-57004-1-600x600.jpg"
+  "description": "60 stuks"
 }

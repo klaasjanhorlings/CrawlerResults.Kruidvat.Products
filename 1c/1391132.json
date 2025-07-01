@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Classic Inlegkruisjes",
+  "code": "1391132",
+  "price": "1.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
+  "supplier": "ONTEX BVBA",
+  "inStock": "inStock",
+  "onPromo": "1053593",
+  "mmkId": "1053593",
+  "productGroupId": "487500",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-classic-inlegkruisjes/p/1391132",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266663,
+      "name": "Inlegkruisjes"
+    }
+  ],
+  "description": "45 stuks",
+  "image": "/medias/sys_master/prd-images/h64/h27/28228920999966/prd-front-1391132-1_600x600/prd-front-1391132-1-600x600.jpg"
+}

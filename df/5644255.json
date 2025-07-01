@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Verrassend Volume Droogshampoo",
+  "code": "5644255",
+  "price": "44.94",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1053439",
+  "mmkId": "1053439",
+  "productGroupId": "471065",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-verrassend-volume-droogshampoo/p/5644255",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266693,
+      "name": "Droogshampoo"
+    }
+  ],
+  "description": "6 x 250ml",
+  "image": "/medias/prd-front-5644255-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjI5NjQzNXxpbWFnZS9qcGVnfGFHRTJMMmhrWmk4eU5qZzRPVFUyTXpJM05USTVOQzl3Y21RdFpuSnZiblF0TlRZME5ESTFOUzB4WHpZd01IZzJNREF8MzQzYzc0N2RlZDJlMTUzMmRkZWVkNjU0YTRkMGY3MzgwOWI3MWVkMGFiY2EzYjM5OWVlZDVmYzFiOGM2NDQzYg"
+}

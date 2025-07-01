@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053400",
+  "mmkId": "1053400",
+  "productGroupId": "466113",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-night-pants-maat-6-luierbroekjes/p/6291920",
@@ -29,6 +29,5 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "mt 6 (13+kg), 38 stuks",
-  "image": "/medias/sys_master/prd-images/h04/h4f/34715784314910/prd-front-6291920-1_600x600/prd-front-6291920-1-600x600.jpg"
+  "description": "mt 6 (13+kg), 38 stuks"
 }

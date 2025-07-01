@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Happy Horse Pluchen Muis Knuffel",
+  "code": "6286369",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 5179 > 5303 > 5492 > 5921 > 6040",
+  "supplier": "HAPPY HORSE BV",
+  "inStock": "inStock",
+  "onPromo": "1053594",
+  "mmkId": "1053594",
+  "productGroupId": "487731",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/happy-horse-pluchen-muis-knuffel/p/6286369",
+  "listName": "Lister",
+  "brand": "Happy Horse",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266029,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "groen, 32cm",
+  "image": "/medias/sys_master/prd-images/h20/hb4/34111966904350/prd-front-6286369-1_600x600/prd-front-6286369-1-600x600.jpg"
+}

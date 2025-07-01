@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zebra Zwemband",
+  "code": "6281147",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4830 > 5178 > 5286 > 5475 > 5921 > 6023",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "1053594",
+  "mmkId": "1053594",
+  "productGroupId": "487731",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/zebra-zwemband/p/6281147",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 90162677,
+      "name": "Opblaasfiguren"
+    }
+  ],
+  "description": "104cmx 92cm"
+}
