@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "CODI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1053595",
-  "mmkId": "1053595",
-  "productGroupId": "487826",
+  "onPromo": "1053775",
+  "mmkId": "1053775",
+  "productGroupId": "488387",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pure-soft-babydoekjes/p/5661496",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "12 x 54 stuks"
+  "description": "12 x 54 stuks",
+  "image": "/medias/sys_master/prd-images/h1e/hce/27540209860638/prd-front-5661496-1_600x600/prd-front-5661496-1-600x600.jpg"
 }

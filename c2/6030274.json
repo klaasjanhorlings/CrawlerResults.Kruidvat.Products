@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "MARION PRIVATE LABEL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053756",
+  "mmkId": "1053756",
+  "productGroupId": "476836",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-renew-retinol-0-2-night-serum/p/6030274",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 30266604,
-      "name": "Oogcreme"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
   "description": "30ml, alle huidtypes",

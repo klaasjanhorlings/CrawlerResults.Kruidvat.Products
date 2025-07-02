@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3686 > 5723",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1054475",
-  "mmkId": "1054475",
-  "productGroupId": "459976",
+  "onPromo": "1053793",
+  "mmkId": "1053793",
+  "productGroupId": "489960",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-cocomilk-douchecreme/p/5908229",
@@ -29,9 +29,10 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266648,
-      "name": "Douchegel"
+      "id": 30266647,
+      "name": "Douchecrème"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h2f/h79/31037277405214/prd-front-5908229-1_600x600/prd-front-5908229-1-600x600.jpg"
 }

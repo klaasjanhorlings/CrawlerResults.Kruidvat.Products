@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053567",
+  "mmkId": "1053567",
+  "productGroupId": "486134",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/corega-fresh-cleanse-reinigingsmousse/p/1467453",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30266672,
-      "name": "Kunstgebitreiniger"
+      "id": 30266673,
+      "name": "Kleefpasta"
     }
   ],
   "description": "Medisch hulpmiddel - 125ml",

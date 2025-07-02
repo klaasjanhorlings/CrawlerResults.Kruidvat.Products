@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
   "supplier": "KNEIPP NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053727",
+  "mmkId": "1053727",
+  "productGroupId": "496043",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kneipp-men-shower-geschenkset/p/6161559",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30265989,
-      "name": "Geschenksets"
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
     },
     {
-      "id": 72666181,
-      "name": "Geschenkset voor hem"
+      "id": 30266648,
+      "name": "Douchegel"
     }
   ],
   "description": "",

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Douwe Egberts Aroma Rood Koffiepads",
   "code": "4409560",
-  "price": "7.49",
+  "price": "7.99",
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 4354 > 4355",
   "supplier": "JACOBS DOUWE EGBERTS",
@@ -29,5 +29,6 @@
       "name": "Koffie"
     }
   ],
-  "description": "54 stuks"
+  "description": "54 stuks",
+  "image": "/medias/sys_master/prd-images/hea/hbb/28231595720734/prd-front-4409560-1_600x600/prd-front-4409560-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6210 > 6228 > 6597",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053460",
+  "mmkId": "1053460",
+  "productGroupId": "472384",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-blaasontsteking-urineweginfecties/p/6160446",
@@ -33,5 +33,6 @@
       "name": "Blaasontsteking"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks"
+  "description": "Medisch hulpmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/h81/h28/31697126227998/prd-front-6160446-1_600x600/prd-front-6160446-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1053347",
+  "mmkId": "1053347",
+  "productGroupId": "491107",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-vette-onzuivere-huid-spf30-dagcreme/p/5754694",
@@ -25,8 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "50ml",

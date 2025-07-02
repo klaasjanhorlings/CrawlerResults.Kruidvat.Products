@@ -6,7 +6,7 @@
   "price": "12.99",
   "priceOriginal": "",
   "itemBgbcat": "5929 > 6019 > 2197 > 6148 > 6149 > 6150",
-  "supplier": "TRISTAR EUROPE B.V.",
+  "supplier": "DUMMY EXTERN",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
@@ -29,5 +29,6 @@
       "name": "Airco's"
     }
   ],
-  "description": "zwart, Ø23cm"
+  "description": "zwart, Ø23cm",
+  "image": "/medias/sys_master/prd-images/h3c/hca/33080525160478/prd-front-5919961-1_600x600/prd-front-5919961-1-600x600.jpg"
 }

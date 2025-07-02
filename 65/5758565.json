@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6760 > 6762 > 6761 > 6759 > 6758",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1053347",
+  "mmkId": "1053347",
+  "productGroupId": "491107",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-herstellende-bodycreme/p/5758565",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hf9/h92/33466548092958/prd-front-5758565-1_600x600/prd-front-5758565-1-600x600.jpg"
 }

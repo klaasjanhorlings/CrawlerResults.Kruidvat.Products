@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1054475",
-  "mmkId": "1054475",
-  "productGroupId": "459976",
+  "onPromo": "1053788",
+  "mmkId": "1053788",
+  "productGroupId": "489335",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-max-hold-haarmousse/p/4041192",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h95/h74/34436270751774/prd-front-4041192-1_600x600/prd-front-4041192-1-600x600.jpg"
 }

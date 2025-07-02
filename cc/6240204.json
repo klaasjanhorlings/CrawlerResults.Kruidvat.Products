@@ -5,7 +5,7 @@
   "code": "6240204",
   "price": "13.49",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3021 > 3846",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
   "onPromo": "1053646",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 7"
     }
   ],
-  "description": "mt 7 (15+kg), 20 stuks"
+  "description": "mt 7 (15+kg), 20 stuks",
+  "image": "/medias/sys_master/prd-images/h1f/hf0/33356809797662/prd-front-6240204-1_600x600/prd-front-6240204-1-600x600.jpg"
 }

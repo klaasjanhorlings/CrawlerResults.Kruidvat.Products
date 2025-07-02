@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "NEXT GENERATION PERFUME",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053773",
+  "mmkId": "1053773",
+  "productGroupId": "488317",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ng-red-majesty-eau-de-parfum/p/6302343",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h8a/h13/34163634077726/prd-front-6302343-1_600x600/prd-front-6302343-1-600x600.jpg"
 }

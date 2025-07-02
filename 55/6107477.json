@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2683 > 3383",
   "supplier": "PIETERCIL BARENDS BV",
-  "inStock": "inStock",
-  "onPromo": "1053373",
-  "mmkId": "1053373",
-  "productGroupId": "460488",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-scholls-voetvijl-voor-harde-huid/p/6107477",
@@ -33,5 +33,6 @@
       "name": "Eeltverwijderaars"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2f/hde/34313664462878/prd-front-6107477-1_600x600/prd-front-6107477-1-600x600.jpg"
 }
