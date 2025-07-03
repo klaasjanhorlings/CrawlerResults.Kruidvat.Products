@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1053620",
-  "mmkId": "1053620",
-  "productGroupId": "495754",
+  "onPromo": "1053820",
+  "mmkId": "1053820",
+  "productGroupId": "488922",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-exotic-feeling-antitranspirant-spray/p/6037799",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/he9/h43/34567040860190/prd-front-6037799-1_600x600/prd-front-6037799-1-600x600.jpg"
 }

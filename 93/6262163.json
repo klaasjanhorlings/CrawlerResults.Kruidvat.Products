@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "inStock",
-  "onPromo": "1053342",
-  "mmkId": "1053342",
-  "productGroupId": "483913",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-harmonie-maat-4-luiers/p/6262163",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "Maat 4 (9-14kg), 78 stuks"
+  "description": "Maat 4 (9-14kg), 78 stuks",
+  "image": "/medias/sys_master/prd-images/h21/h3e/34757690949662/prd-front-6262163-1_600x600/prd-front-6262163-1-600x600.jpg"
 }

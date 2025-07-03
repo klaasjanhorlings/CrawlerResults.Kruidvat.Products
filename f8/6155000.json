@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "UNIVERSAL COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1053784",
-  "mmkId": "1053784",
-  "productGroupId": "488812",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-volume-boost-lash-primer/p/6155000",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "8g"
+  "description": "8g",
+  "image": "/medias/sys_master/prd-images/hc4/h34/33767028883486/prd-front-6155000-1_600x600/prd-front-6155000-1-600x600.jpg"
 }

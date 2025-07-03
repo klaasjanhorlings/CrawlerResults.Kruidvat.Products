@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "FRUITFUNK BV",
   "inStock": "inStock",
-  "onPromo": "1053772",
-  "mmkId": "1053772",
-  "productGroupId": "488224",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-6m-bio-aardbei-met-appel-knijpzakje/p/5471572",
@@ -37,5 +37,6 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "90g"
+  "description": "90g",
+  "image": "/medias/sys_master/prd-images/h57/h6e/27495356596254/prd-front-5471572-1_600x600/prd-front-5471572-1-600x600.jpg"
 }
