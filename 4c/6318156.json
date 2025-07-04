@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "MCoBeauty XtendBrows Light/Medium Treatment Gel",
   "code": "6318156",
   "price": "9.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "5g",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/ha0/h50/34758239551518/prd-front-6318156-1_600x600/prd-front-6318156-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lala's Baby Regular Vaseline",
+  "code": "2594859",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
+  "supplier": "YARI BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lalas-baby-regular-vaseline/p/2594859",
+  "listName": "Lister",
+  "brand": "Lala's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266776,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267018,
+      "name": "Babylotion"
+    }
+  ],
+  "description": "368g",
+  "image": "/medias/prd-front-2594859-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzU4OTB8aW1hZ2UvanBlZ3xhR0UxTDJnME9TOHhOVFF3T0RBeE9EUTRPVE0zTkM5d2NtUXRabkp2Ym5RdE1qVTVORGcxT1MweFh6WXdNSGcyTURBfDNkMDgxMTljM2Q0YzM0NzY4MTFlZTVjYjU1NGU4Y2IxMWUxM2I4OGE2MzkzOGNlZDc1NzVlZmY2OGNlNmQyY2Y"
+}

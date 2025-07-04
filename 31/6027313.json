@@ -25,10 +25,17 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml, vochtarme en vermoeide huid",
-  "image": "/medias/sys_master/prd-images/h33/h4a/32313699991582/prd-front-6027313-1_600x600/prd-front-6027313-1-600x600.jpg"
+  "description": "30ml, vochtarme en vermoeide huid"
 }

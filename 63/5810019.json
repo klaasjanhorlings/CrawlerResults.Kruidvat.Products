@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
   "supplier": "SUNVAL BABY FOOD GMBH",
-  "inStock": "inStock",
-  "onPromo": "1053484",
-  "mmkId": "1053484",
-  "productGroupId": "476255",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-4m-bio-wortel-groentehapje/p/5810019",
@@ -37,5 +37,6 @@
       "name": "4+ maanden"
     }
   ],
-  "description": "250g"
+  "description": "250g",
+  "image": "/medias/prd-front-5810019-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzA2NjV8aW1hZ2UvanBlZ3xhRFk1TDJnMVpTOHlOalF4TXprMU9UVXhNakE1TkM5d2NtUXRabkp2Ym5RdE5UZ3hNREF4T1MweFh6WXdNSGcyTURBfDcyOWViNTRlZDMzNTVmMjE4M2Y0YzBkMzg3ZTAyYjU3NWVkMjljZTIyZTc0OWZiZGIwODEyZjQ3ODVhOGU0YTg"
 }

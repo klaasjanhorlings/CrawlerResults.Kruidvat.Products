@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Inoli Baby Intensief Vettende Badolie",
+  "code": "4409735",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2716 > 3419",
+  "supplier": "NIA CARE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/inoli-baby-intensief-vettende-badolie/p/4409735",
+  "listName": "Lister",
+  "brand": "Inoli",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266777,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 48682538,
+      "name": "Babybadolie"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-4409735-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDgxMTF8aW1hZ2UvanBlZ3xhRFZpTDJoaVlTOHhOVFV5TWpNMU5UWXdPVFl6TUM5d2NtUXRabkp2Ym5RdE5EUXdPVGN6TlMweFh6WXdNSGcyTURBfDg2YTUwMDljMzAxMDNkODM5NGQ4NWYyMWVlNzUzZTZhODE1MTlhMTRlMDdiYzAxYjEyNTBlNDRlMDAzYTcyZWU"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olvarit 4+M Pompoen Rijst",
+  "code": "3817633",
+  "price": "1.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/olvarit-4m-pompoen-rijst/p/3817633",
+  "listName": "Lister",
+  "brand": "Olvarit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266771,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267005,
+      "name": "4+ maanden"
+    }
+  ],
+  "description": "125g",
+  "image": "/medias/prd-front-3817633-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTMyOTJ8aW1hZ2UvanBlZ3xhREl4TDJnMll5OHhOVFV4TXprMk16Y3lORGd6TUM5d2NtUXRabkp2Ym5RdE16Z3hOell6TXkweFh6WXdNSGcyTURBfGI0ZTU2YmE5YWZkNjE1ZjQyZjNkNzJkMjk3ZjVhN2M1YTM4MDIwMTI4NGM1ZmY3ODdlMWY3ZmM5MTNiODk1OWM"
+}

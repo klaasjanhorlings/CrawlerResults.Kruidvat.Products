@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Style Icon Argan Oil Styling Gel",
+  "code": "3808918",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
+  "supplier": "YARI BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/style-icon-argan-oil-styling-gel/p/3808918",
+  "listName": "Lister",
+  "brand": "Style Icon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266928,
+      "name": "Haargel"
+    }
+  ],
+  "description": "525ml",
+  "image": "/medias/sys_master/prd-images/ha8/hd8/33103188099102/prd-front-3808918-1_600x600/prd-front-3808918-1-600x600.jpg"
+}

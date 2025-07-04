@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Inoli Huidolie",
+  "code": "5633286",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2724 > 3427",
+  "supplier": "NIA CARE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/inoli-huidolie/p/5633286",
+  "listName": "Lister",
+  "brand": "Inoli",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266776,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267015,
+      "name": "Babyolie"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/prd-front-5633286-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTk5MjZ8aW1hZ2UvanBlZ3xhRFkxTDJnMVpTOHhORFF6TnprNE1qUTNNREUzTkM5d2NtUXRabkp2Ym5RdE5UWXpNekk0TmkweFh6WXdNSGcyTURBfDlhMTgzOWY4YzMzNTAyNDBmOGU1YTlkYjFkYWNmZjg5ZjAwM2Q5MjFjMTZmNmM1MGZhY2U3MjgyNWI3ODAyZWQ"
+}

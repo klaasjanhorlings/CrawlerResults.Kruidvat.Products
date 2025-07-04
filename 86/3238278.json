@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266610,
+      "name": "Gezichtscreme mannen"
     }
   ],
   "description": "50ml",

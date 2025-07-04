@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "MCoBeauty Miracle Flawless Translucent Pressed Powder",
   "code": "6316861",
   "price": "13.99",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "8g",
-  "image": "/medias/sys_master/prd-images/h6a/h47/34757880741918/prd-front-6316861-1_600x600/prd-front-6316861-1-600x600.jpg"
+  "description": "8g"
 }
