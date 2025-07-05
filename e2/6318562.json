@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "MCoBeauty Shimmer Lip Plump Chilli Dusty Rose 4-in-1 Hydrating Lacquer",
   "code": "6318562",
   "price": "7.99",
@@ -37,6 +37,5 @@
       "name": "Lip plumper"
     }
   ],
-  "description": "2g",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "2g"
 }

@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 4306 > 4303 > 4307",
   "supplier": "KIMBERLY-CLARK BV",
-  "inStock": "inStock",
-  "onPromo": "1054051",
-  "mmkId": "1054051",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Zwemluiers"
     }
   ],
-  "description": "mt 2-3 (5-11kg)"
+  "description": "mt 2-3 (5-11kg)",
+  "image": "/medias/sys_master/prd-images/h3e/h62/30915664609310/prd-front-6090747-1_600x600/prd-front-6090747-1-600x600.jpg"
 }

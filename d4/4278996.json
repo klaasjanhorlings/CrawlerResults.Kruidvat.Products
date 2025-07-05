@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Visage Sensitive 3-in-1 Micellair Water",
+  "code": "4278996",
+  "price": "3.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-visage-sensitive-3-in-1-micellair-water/p/4278996",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-4278996-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ3NDF8aW1hZ2UvanBlZ3xhRFppTDJnNVppOHhORFF4TVRFNU5UTXhPRE13TWk5d2NtUXRabkp2Ym5RdE5ESTNPRGs1TmkweFh6WXdNSGcyTURBfGViZWUwY2E5NDcwNTRkMmRlMjFlZWU1YmZkZmQ4ZmIzYjVjMGI4MDY2ODAwNmM5NzhhNzUyODBlNTA0YTlkMTk"
+}

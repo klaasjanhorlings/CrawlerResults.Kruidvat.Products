@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6023 > 4830 > 4845 > 4856 > 4867",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
-  "onPromo": "1053594",
-  "mmkId": "1053594",
-  "productGroupId": "487731",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/familiezwembad/p/5646558",
@@ -37,5 +37,6 @@
       "name": "Zwembaden"
     }
   ],
-  "description": "211cm x 132cm x 46cm"
+  "description": "211cm x 132cm x 46cm",
+  "image": "/medias/sys_master/prd-images/hff/h70/33396891516958/prd-front-5646558-1_600x600/prd-front-5646558-1-600x600.jpg"
 }

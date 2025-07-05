@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "SUNVAL BABY FOOD GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053484",
+  "mmkId": "1053484",
+  "productGroupId": "476255",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-8m-bio-mango-banaan-granen-yoghurt-fruithapje/p/5813211",
@@ -37,5 +37,6 @@
       "name": "8 maanden +"
     }
   ],
-  "description": "380g"
+  "description": "380g",
+  "image": "/medias/prd-front-5813211-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODc2OTF8aW1hZ2UvanBlZ3xhRFZsTDJoaVlTOHlOamM1TkRnME1EQTJOREF6TUM5d2NtUXRabkp2Ym5RdE5UZ3hNekl4TVMweFh6WXdNSGcyTURBfDgyOTIyZmI2MmMyMmM0NDRjNjcyYWUzYWEyMjRmN2M3NGRlNjliYzM3OTBkNDQyYWNiN2E4NTI3NzBmNmE0Nzk"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Celebrations",
+  "code": "4108763",
+  "price": "6.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2734 > 3436",
+  "supplier": "MARS NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/celebrations/p/4108763",
+  "listName": "Lister",
+  "brand": "Celebrations",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "385g",
+  "image": "/medias/sys_master/prd-images/h53/he8/28847730786334/prd-front-4108763-1_600x600/prd-front-4108763-1-600x600.jpg"
+}
