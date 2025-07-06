@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Enkele Fietstas met Panterprint",
+  "code": "6276877",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6418",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1053624",
+  "mmkId": "1053624",
+  "productGroupId": "498170",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/enkele-fietstas-met-panterprint/p/6276877",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266050,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 75054406,
+      "name": "Fietsaccessoires"
+    }
+  ],
+  "description": "35,5cm x 14,5cm x 31,5cm",
+  "image": "/medias/sys_master/prd-images/h3f/h41/33916742041630/prd-front-6276877-1_600x600/prd-front-6276877-1-600x600.jpg"
+}

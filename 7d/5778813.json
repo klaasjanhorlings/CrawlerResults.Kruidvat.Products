@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bye Bye Blemish Vulcanic Ash Drying Lotion",
   "code": "5778813",
   "price": "8.99",
@@ -37,6 +37,5 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/prd-front-5778813-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzkwMTZ8aW1hZ2UvanBlZ3xhREUwTDJnNU5pOHhOelEwT1RneE5UTXhNRE0yTmk5d2NtUXRabkp2Ym5RdE5UYzNPRGd4TXkweFh6WXdNSGcyTURBfDExZjZkZmFiMDA1ZjY3ZGY4OTk1NmQzZWZkNThiNTU0OTg1Y2FhOTAzOGUwZmIzNDIyYTk3Nzg1YjYzZGU0MmE"
+  "description": "30ml"
 }

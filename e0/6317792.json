@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "MCoBeauty Brighten & Perfect Medium 1.25 - Buff Cream Concealer",
   "code": "6317792",
   "price": "7.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "5,5ml",
-  "image": "/medias/sys_master/prd-images/h51/h55/34768662659102/prd-front-6317792-1_600x600/prd-front-6317792-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2243 > 4870 > 6031 > 2307 > 2697 > 3397",
   "supplier": "LUPUS IMAGING & MEDIA",
-  "inStock": "inStock",
-  "onPromo": "1053659",
-  "mmkId": "1053659",
-  "productGroupId": "482444",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/agfaphoto-lebox-flash-wegwerpcamera-met-flits/p/2224083",
@@ -29,5 +29,6 @@
       "name": "Verrassend elektronica"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h60/ha3/30750473289758/prd-front-2224083-1_600x600/prd-front-2224083-1-600x600.jpg"
 }

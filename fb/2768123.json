@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Just For Men Autostop Middenbruin Haarkleuring",
   "code": "2768123",
   "price": "14.59",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "35g",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "35g"
 }

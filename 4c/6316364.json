@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Bleach London Total Bleach Salon Standard  Home Toning Kit",
+  "code": "6316364",
+  "price": "22.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "BLEACH PRODUCTS LIMITED",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bleach-london-total-bleach-salon-standard-home-toning-kit/p/6316364",
+  "listName": "Lister",
+  "brand": "BLEACH LONDON",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265990,
+      "name": "Haarverf"
+    }
+  ],
+  "description": ""
+}

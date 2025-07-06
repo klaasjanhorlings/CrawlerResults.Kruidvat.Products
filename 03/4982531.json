@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Real Techniques Expert Concealer Brush",
+  "code": "4982531",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6327 > 6674",
+  "supplier": "EMA COMPANY BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/real-techniques-expert-concealer-brush/p/4982531",
+  "listName": "Lister",
+  "brand": "Real Techniques",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266617,
+      "name": "Make-up kwasten"
+    }
+  ],
+  "description": ""
+}

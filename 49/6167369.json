@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053615",
+  "mmkId": "1053615",
+  "productGroupId": "495403",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guess-amore-venezia-eau-de-toilette/p/6167369",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h5d/hcd/31843317678110/prd-front-6167369-1_600x600/prd-front-6167369-1-600x600.jpg"
 }

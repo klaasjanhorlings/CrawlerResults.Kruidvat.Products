@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3114 > 4120",
   "supplier": "EAST MIDLANDS PHARMA LTD",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-opticare-oogdouche/p/1497434",
@@ -33,6 +33,5 @@
       "name": "Oogreiniging"
     }
   ],
-  "description": "Medisch hulpmiddel - 110ml",
-  "image": "/medias/sys_master/prd-images/h54/hab/27935575965726/prd-front-1497434-1_600x600/prd-front-1497434-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 110ml"
 }

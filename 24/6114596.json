@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lancôme Tresor Eau de Parfum",
   "code": "6114596",
   "price": "76.99",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hc6/h5a/31057234722846/prd-front-6114596-1_600x600/prd-front-6114596-1-600x600.jpg"
+  "description": "50ml"
 }

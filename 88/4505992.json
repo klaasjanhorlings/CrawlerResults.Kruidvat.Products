@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Calvin Klein IN2U For Her Eau de Toilette",
   "code": "4505992",
   "price": "17.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h91/h87/28272066658334/prd-front-4505992-1_600x600/prd-front-4505992-1-600x600.jpg"
 }

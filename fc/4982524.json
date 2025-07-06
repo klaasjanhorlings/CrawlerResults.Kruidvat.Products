@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Real Techniques Miracle Face +  Body Sponge",
+  "code": "4982524",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6406 > 6674",
+  "supplier": "EMA COMPANY BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/real-techniques-miracle-face-body-sponge/p/4982524",
+  "listName": "Lister",
+  "brand": "Real Techniques",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266619,
+      "name": "Make-up sponsjes"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4982524-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTYwOTZ8aW1hZ2UvanBlZ3xhREUxTDJnMU5TODRPVEEyTnprMk5EQXdOamN3TDNCeVpDMW1jbTl1ZEMwME9UZ3lOVEkwTFRGZk5qQXdlRFl3TUF8NGRjZGU2Yzk3N2M0Nzc5ODg2NTI4NDExOGQ2YjY1NGY3NzA1YTgxM2Q3YWI5MjJkZDg4M2FlMmE3ZDgxM2M2YQ"
+}
