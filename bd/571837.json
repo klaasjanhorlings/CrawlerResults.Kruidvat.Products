@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1054475",
-  "mmkId": "1054475",
-  "productGroupId": "459976",
+  "onPromo": "1053904",
+  "mmkId": "1053904",
+  "productGroupId": "480142",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-ultra-level-4-haargel/p/571837",
@@ -33,6 +33,5 @@
       "name": "Haargel"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h83/hcc/33759053676574/prd-front-571837-1_600x600/prd-front-571837-1-600x600.jpg"
+  "description": "150ml"
 }

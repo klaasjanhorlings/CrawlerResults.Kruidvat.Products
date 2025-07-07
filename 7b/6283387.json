@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 6065",
   "supplier": "EUROSTYLE BV",
   "inStock": "inStock",
-  "onPromo": "1053376",
-  "mmkId": "1053376",
-  "productGroupId": "461349",
+  "onPromo": "1053865",
+  "mmkId": "1053865",
+  "productGroupId": "461345",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-slakkenkorrels/p/6283387",
@@ -29,5 +29,6 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "400g"
+  "description": "400g",
+  "image": "/medias/sys_master/prd-images/h0f/hd4/33576140963870/prd-front-6283387-1_600x600/prd-front-6283387-1-600x600.jpg"
 }

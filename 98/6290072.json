@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2885 > 4228 > 5693",
   "supplier": "HISMILE PTY LTD.",
   "inStock": "inStock",
-  "onPromo": "1053345",
-  "mmkId": "1053345",
-  "productGroupId": "487511",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hismile-opzetborstel/p/6290072",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "blauw"
+  "description": "blauw",
+  "image": "/medias/sys_master/prd-images/ha4/hcc/34145939750942/prd-front-6290072-1_600x600/prd-front-6290072-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1053970",
+  "mmkId": "1053970",
+  "productGroupId": "484689",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cetaphil-gentle-exfoliating-sa-cleanser/p/6309896",
@@ -37,5 +37,6 @@
       "name": "Cleanser"
     }
   ],
-  "description": "236ml"
+  "description": "236ml",
+  "image": "/medias/sys_master/prd-images/h1c/h45/34048583139358/prd-front-6309896-1_600x600/prd-front-6309896-1-600x600.jpg"
 }

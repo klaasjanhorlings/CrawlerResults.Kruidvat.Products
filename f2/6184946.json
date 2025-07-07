@@ -8,9 +8,9 @@
   "itemBgbcat": "4830 > 4845 > 4856 > 4867 > 5921 > 6023",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1053594",
-  "mmkId": "1053594",
-  "productGroupId": "487731",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bestway-crocodile-cove-playcenter/p/6184946",
@@ -37,5 +37,6 @@
       "name": "Zwembaden"
     }
   ],
-  "description": "224 cm x 141cm x 72cm"
+  "description": "224 cm x 141cm x 72cm",
+  "image": "/medias/sys_master/prd-images/hc3/hb3/33884965863454/prd-front-6184946-1_600x600/prd-front-6184946-1-600x600.jpg"
 }

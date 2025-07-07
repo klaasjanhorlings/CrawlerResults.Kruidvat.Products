@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6197 > 6215 > 6253",
   "supplier": "COBECO PHARMA WHOLESALE",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1053948",
+  "mmkId": "1053948",
+  "productGroupId": "483091",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-q10-30-mg-met-vitamine-b1-capsules/p/639282",
@@ -33,5 +33,6 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "50 stuks"
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/had/h60/33355318689822/prd-front-639282-1_600x600/prd-front-639282-1-600x600.jpg"
 }

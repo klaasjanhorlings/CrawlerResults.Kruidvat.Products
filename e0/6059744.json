@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1053503",
-  "mmkId": "1053503",
-  "productGroupId": "479741",
+  "onPromo": "1053900",
+  "mmkId": "1053900",
+  "productGroupId": "479740",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/palmolive-skin-radiance-papaya-peach-bodywash/p/6059744",
@@ -33,6 +33,5 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h60/h61/30976785023006/prd-front-6059744-1_600x600/prd-front-6059744-1-600x600.jpg"
+  "description": "250ml - Normale huid"
 }

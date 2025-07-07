@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1053449",
-  "mmkId": "1053449",
-  "productGroupId": "471913",
+  "onPromo": "1053882",
+  "mmkId": "1053882",
+  "productGroupId": "471423",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-matte-resistance-645-crush-alert-lipstick/p/6035391",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/he7/h01/30688178896926/prd-front-6035391-1_600x600/prd-front-6035391-1-600x600.jpg"
 }

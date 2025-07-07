@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier Nutrisse Ultra Crème 9.13 Zeer Licht Goud Asblond Intens Voedende Permanente Haarkleuring",
   "code": "5831607",
   "price": "15.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hce/hd6/31762489770014/prd-front-5831607-1_600x600/prd-front-5831607-1-600x600.jpg"
+  "description": ""
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 5717 > 5718 > 5719",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "1053432",
-  "mmkId": "1053432",
-  "productGroupId": "470303",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-venus-satin-care-scheergel-voor-een-droge-huid/p/1816200",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hf5/h62/27804008775710/prd-front-1816200-1_600x600/prd-front-1816200-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "5929 > 6014 > 2153 > 2632 > 6423 > 6446",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "1053579",
-  "mmkId": "1053579",
-  "productGroupId": "486582",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-usb-c-kabel/p/5310992",
@@ -33,6 +33,5 @@
       "name": "Telefoonkabeltjes"
     }
   ],
-  "description": "wit, 1m",
-  "image": "/medias/sys_master/prd-images/hc5/hc8/33410277670942/prd-front-5310992-1_600x600/prd-front-5310992-1-600x600.jpg"
+  "description": "wit, 1m"
 }

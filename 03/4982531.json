@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Real Techniques Expert Concealer Brush",
   "code": "4982531",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Make-up kwasten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-4982531-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTQxOTF8aW1hZ2UvanBlZ3xhREV3TDJneFppODRPVEEyTnprM056RXhNemt3TDNCeVpDMW1jbTl1ZEMwME9UZ3lOVE14TFRGZk5qQXdlRFl3TUF8NTM3MDc5ZDY3ZGViMmFhN2Y2NDY0ZDA5ZDBjYWU1YzM2N2JlMzMxZDJjZTZjOWIzOTcxOGY4YjcyMWJjY2RmYg"
 }

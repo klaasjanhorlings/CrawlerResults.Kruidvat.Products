@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1053449",
-  "mmkId": "1053449",
-  "productGroupId": "471913",
+  "onPromo": "1053882",
+  "mmkId": "1053882",
+  "productGroupId": "471423",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-132-32h-fresh-wear-foundation/p/5994644",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h5a/hf7/31686401949726/prd-front-5994644-1_600x600/prd-front-5994644-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LITTLE CONCEPTS NETTO",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053969",
+  "mmkId": "1053969",
+  "productGroupId": "484592",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/my-nailcandy-mother-of-pearl-gelnagels/p/6175146",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "22 stuks"
+  "description": "22 stuks",
+  "image": "/medias/sys_master/prd-images/hed/hc7/33705213362206/prd-front-6175146-1_600x600/prd-front-6175146-1-600x600.jpg"
 }

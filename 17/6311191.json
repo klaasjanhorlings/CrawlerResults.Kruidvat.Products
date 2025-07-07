@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "1053102",
-  "mmkId": "1053102",
-  "productGroupId": "493004",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/libresse-teens-hipster-menstruatieondergoed/p/6311191",
@@ -33,5 +33,6 @@
       "name": "Menstruatieondergoed"
     }
   ],
-  "description": "roze, mt XS"
+  "description": "roze, mt XS",
+  "image": "/medias/sys_master/prd-images/h75/hf9/34145942044702/prd-front-6311191-1_600x600/prd-front-6311191-1-600x600.jpg"
 }

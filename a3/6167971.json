@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Discreet Sensitive Bladder Normal Verband",
+  "code": "6167971",
+  "price": "5.5",
+  "priceOriginal": "10.99",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1054016",
+  "mmkId": "1054016",
+  "productGroupId": "487610",
+  "brandType": "A of B merk",
+  "discount": "€ 5,49",
+  "url": "/always-discreet-sensitive-bladder-normal-verband/p/6167971",
+  "listName": "Lister",
+  "brand": "Always Discreet",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266660,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30266923,
+      "name": "Incontinentieverband"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/h4f/hdf/31620745691166/prd-front-6167971-1_600x600/prd-front-6167971-1-600x600.jpg"
+}

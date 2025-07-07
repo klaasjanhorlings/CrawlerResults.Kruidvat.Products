@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1053548",
-  "mmkId": "1053548",
-  "productGroupId": "484060",
+  "onPromo": "1053886",
+  "mmkId": "1053886",
+  "productGroupId": "475256",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/skin1004-madagascar-centella-hyalu-cica-blue-serum/p/6200556",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hf1/h09/32247711268894/prd-front-6200556-1_600x600/prd-front-6200556-1-600x600.jpg"
 }

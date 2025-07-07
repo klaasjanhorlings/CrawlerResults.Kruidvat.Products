@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1052949",
-  "mmkId": "1052949",
-  "productGroupId": "477998",
+  "onPromo": "1054014",
+  "mmkId": "1054014",
+  "productGroupId": "487597",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-ultra-secure-night-maandverband/p/6267567",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "mt 4, 22 stuks"
+  "description": "mt 4, 22 stuks",
+  "image": "/medias/sys_master/prd-images/h15/h04/34146525544478/prd-front-6267567-1_600x600/prd-front-6267567-1-600x600.jpg"
 }

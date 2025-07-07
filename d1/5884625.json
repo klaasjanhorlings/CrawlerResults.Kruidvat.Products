@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sportlife Peppermint Suikervrije Kauwgom",
+  "code": "5884625",
+  "price": "2.99",
+  "priceOriginal": "5.75",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3275 > 4176",
+  "supplier": "CLOETTA HOLLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 2,76",
+  "url": "/sportlife-peppermint-suikervrije-kauwgom/p/5884625",
+  "listName": "Lister",
+  "brand": "Sportlife",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267027,
+      "name": "Mondverfrissers"
+    }
+  ],
+  "description": "68 stuks",
+  "image": "/medias/sys_master/prd-images/hff/h45/27602790318110/prd-front-5884625-1_600x600/prd-front-5884625-1-600x600.jpg"
+}

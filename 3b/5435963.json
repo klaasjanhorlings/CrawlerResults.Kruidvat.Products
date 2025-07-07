@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6700 > 5896",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1053623",
-  "mmkId": "1053623",
-  "productGroupId": "497676",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sheamoisture-manuka-honey-mafura-oil-intensive-hydration-conditioner/p/5435963",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "384ml",
-  "image": "/medias/prd-front-5435963-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA3NjB8aW1hZ2UvanBlZ3xhR05sTDJobVlTOHlOekV6T1RFNE1UY3dOekk1TkM5d2NtUXRabkp2Ym5RdE5UUXpOVGsyTXkweFh6WXdNSGcyTURBfDQ2ZGQ0OGM4NTY3MjQ3YjdiM2Y2NmYzMzY2OTQzYTQ1OGJkYjUwZjYxNGQ5ZGRkZTk4ODU4NjgxMDU5NWU1ZjQ"
+  "description": "384ml"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 3775",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "1053380",
-  "mmkId": "1053380",
-  "productGroupId": "462069",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-kids-dierenpleisterstrips/p/5134690",
@@ -37,5 +37,6 @@
       "name": "Kinderpleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks"
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h22/hee/32905755590686/prd-front-5134690-1_600x600/prd-front-5134690-1-600x600.jpg"
 }

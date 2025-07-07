@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6323 > 6674",
   "supplier": "ZENNER NIEUW VENNEP BV",
   "inStock": "inStock",
-  "onPromo": "1053660",
-  "mmkId": "1053660",
-  "productGroupId": "499569",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zenner-haarklem/p/5965027",
@@ -33,5 +33,6 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": "beige"
+  "description": "beige",
+  "image": "/medias/sys_master/prd-images/ha4/h2a/29077696839710/prd-front-5965027-1_600x600/prd-front-5965027-1-600x600.jpg"
 }

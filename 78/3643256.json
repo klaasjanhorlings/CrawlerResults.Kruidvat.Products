@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "1053819",
-  "mmkId": "1053819",
-  "productGroupId": "485150",
+  "onPromo": "1053974",
+  "mmkId": "1053974",
+  "productGroupId": "485161",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-fris-luchtig-anti-vet-shampoo/p/3643256",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hfd/hbe/34787957112862/prd-front-3643256-1_600x600/prd-front-3643256-1-600x600.jpg"
 }

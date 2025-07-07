@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6196 > 6214 > 6248",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1053460",
-  "mmkId": "1053460",
-  "productGroupId": "472384",
+  "onPromo": "1053945",
+  "mmkId": "1053945",
+  "productGroupId": "482954",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-pre-pro-post-biotica-capsules/p/6075942",
@@ -33,5 +33,6 @@
       "name": "Bacteriestammen"
     }
   ],
-  "description": "30 capsules"
+  "description": "30 capsules",
+  "image": "/medias/sys_master/prd-images/h54/h2e/30650798800926/prd-front-6075942-1_600x600/prd-front-6075942-1-600x600.jpg"
 }

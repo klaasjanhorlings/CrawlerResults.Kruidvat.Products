@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "CAMPS FOOD BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053864",
+  "mmkId": "1053864",
+  "productGroupId": "457034",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ellas-kitchen-baby-bananen-ontbijtje/p/3584015",
@@ -37,5 +37,6 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "90g"
+  "description": "90g",
+  "image": "/medias/sys_master/prd-images/hdc/h7a/27774456463390/prd-front-3584015-1_600x600/prd-front-3584015-1-600x600.jpg"
 }

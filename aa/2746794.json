@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1053820",
-  "mmkId": "1053820",
-  "productGroupId": "488922",
+  "onPromo": "1053972",
+  "mmkId": "1053972",
+  "productGroupId": "484969",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-black-white-invisible-original-antitranspirant-spray/p/2746794",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hda/h65/33178070384670/prd-front-2746794-1_600x600/prd-front-2746794-1-600x600.jpg"
 }
