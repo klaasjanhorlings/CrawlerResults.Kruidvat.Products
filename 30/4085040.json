@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Moroccan Argan Oil Shampoo",
+  "code": "4085040",
+  "price": "0.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4314",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-moroccan-argan-oil-shampoo/p/4085040",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-4085040-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjUxMjd8aW1hZ2UvanBlZ3xhR0k1TDJoaU9DOHhORE0wTmprNU1UZzVORFUxT0M5d2NtUXRabkp2Ym5RdE5EQTROVEEwTUMweFh6WXdNSGcyTURBfDI0Y2E2YWZmNjliN2MxOThmYWE4OTg3Y2Q5NDZlMjM4MDBjZGQzNWVhZDU1YTM4MWQ3NDNmM2M4NjI1NDdiMzM"
+}

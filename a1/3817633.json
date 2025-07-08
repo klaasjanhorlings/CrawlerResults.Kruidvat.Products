@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1012123",
+  "mmkId": "1012123",
+  "productGroupId": "246095",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-4m-pompoen-rijst/p/3817633",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "125g",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h41/h18/34802313003038/prd-front-3817633-1_600x600/prd-front-3817633-1-600x600.jpg"
 }

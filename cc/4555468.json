@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "999 Games Saboteur Het Duel",
+  "code": "4555468",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
+  "supplier": "999 GAMES",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/999-games-saboteur-het-duel/p/4555468",
+  "listName": "Lister",
+  "brand": "999 Games",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/prd-front-4555468-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTE1MzU4fGltYWdlL2pwZWd8YUdNMUwyZ3pOUzh4TmpFd09EUXhOalUyTlRJM09DOXdjbVF0Wm5KdmJuUXRORFUxTlRRMk9DMHhYell3TUhnMk1EQXwwMjgyMTAyYTAyYTM5NWE0ZWQwYTEzZjZmZjgzMTc1YmQyZmUyNzNkN2E5MTI3OTlhMWQwY2E0NTU3OTQ1MDJi"
+}

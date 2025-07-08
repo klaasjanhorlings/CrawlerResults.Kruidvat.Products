@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 6070",
   "supplier": "OMEGA PHARMA NEDERLAND",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266711,
-      "name": "Insecten"
-    },
-    {
-      "id": 30266987,
-      "name": "Na de beet"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "Geneesmiddel - 10g",

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Baby Zeepvrije Wasgel",
+  "code": "34962",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-baby-zeepvrije-wasgel/p/34962",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hdb/hd5/34804409794590/prd-front-34962-1_600x600/prd-front-34962-1-600x600.jpg"
+}

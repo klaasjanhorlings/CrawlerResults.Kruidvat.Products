@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Micro Biotica 2 Bacterie Stammen Kids Druppels",
+  "code": "6316378",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6196 > 6214 > 6244",
+  "supplier": "HERKEL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-micro-biotica-2-bacterie-stammen-kids-druppels/p/6316378",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49950650,
+      "name": "Bacteriestammen"
+    }
+  ],
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h89/h8a/34802636849182/prd-front-6316378-1_600x600/prd-front-6316378-1-600x600.jpg"
+}

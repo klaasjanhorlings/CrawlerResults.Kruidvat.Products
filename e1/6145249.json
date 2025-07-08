@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hero Mighty Patch The Original",
+  "code": "6145249",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "ASPIRE BRANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hero-mighty-patch-the-original/p/6145249",
+  "listName": "Lister",
+  "brand": "Hero",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50048154,
+      "name": "Verzorging probleemhuid"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 24 stuks",
+  "image": "/medias/sys_master/prd-images/hf1/h4d/31438432960542/prd-front-6145249-1_600x600/prd-front-6145249-1-600x600.jpg"
+}

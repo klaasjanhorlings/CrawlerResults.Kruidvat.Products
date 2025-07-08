@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Boerenbont Broodmand",
+  "code": "6287342",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "ESSCHERT DESIGN B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/boerenbont-broodmand/p/6287342",
+  "listName": "Lister",
+  "brand": "Boerenbont",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 80863512,
+      "name": "Servies"
+    },
+    {
+      "id": 84926202,
+      "name": "Serveerschalen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he3/hc4/33819343355934/prd-front-6287342-1_600x600/prd-front-6287342-1-600x600.jpg"
+}

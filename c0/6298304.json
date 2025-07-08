@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nijntje Babyroller",
+  "code": "6298304",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
+  "supplier": "VAN DER MEULEN SNEEK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nijntje-babyroller/p/6298304",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 49281541,
+      "name": "Interactief speelgoed"
+    }
+  ],
+  "description": "45cm x 20cm"
+}

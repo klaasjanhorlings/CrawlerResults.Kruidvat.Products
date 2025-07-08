@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Pluizenverwijderaar",
+  "code": "4074008",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 4901 > 4947 > 4993 > 5929 > 6019",
+  "supplier": "VERSUNI NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-pluizenverwijderaar/p/4074008",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266061,
+      "name": "Verrassend elektronica"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha8/h82/32354388344862/prd-front-4074008-1_600x600/prd-front-4074008-1-600x600.jpg"
+}

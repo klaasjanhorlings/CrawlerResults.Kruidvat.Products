@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Daily Essentials Refreshing Facial Cleansing Wipes",
+  "code": "3427152",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-daily-essentials-refreshing-facial-cleansing-wipes/p/3427152",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266912,
+      "name": "Reinigingsdoekjes"
+    }
+  ],
+  "description": "7 stuks",
+  "image": "/medias/prd-front-3427152-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTUxMzd8aW1hZ2UvanBlZ3xhRGszTDJnNVppOHhORFF4TXpnNE5EY3hPVEV6TkM5d2NtUXRabkp2Ym5RdE16UXlOekUxTWkweFh6WXdNSGcyTURBfGZmMmI0ZTQzYjM2ZWI0OTMwYmZhNDExNGEzZDNkNTE1MmI5NzBmYTE0NTgxZTIxMjA1ZmQ3NzA4MDU0ODQyNmE"
+}
