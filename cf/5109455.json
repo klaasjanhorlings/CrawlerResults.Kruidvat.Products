@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Maxi Plus Maat 4+ Luiers Volumedoos 2 Maanden",
+  "itemName": "Kruidvat Maxi Plus Maat 4+ Luiers Volumedoos",
   "code": "5109455",
   "price": "47.97",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-maxi-plus-maat-4-luiers-volumedoos-2-maanden/p/5109455",
+  "url": "/kruidvat-maxi-plus-maat-4-luiers-volumedoos/p/5109455",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "mt 4+ (9-15kg), 210 stuks",
+  "description": "mt 4+ (9-14kg), 210 stuks",
   "image": "/medias/sys_master/prd-images/h6e/h33/27976570765342/prd-front-5109455-1_600x600/prd-front-5109455-1-600x600.jpg"
 }

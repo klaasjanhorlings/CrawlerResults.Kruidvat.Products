@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4264",
   "supplier": "TEVA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054077",
+  "mmkId": "1054077",
+  "productGroupId": "488367",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sudocrem-multi-expert-creme/p/3595320",
@@ -33,9 +33,10 @@
       "name": "Baby huidverzorging"
     },
     {
-      "id": 30267014,
-      "name": "Babycreme"
+      "id": 30267016,
+      "name": "Luierzalf"
     }
   ],
-  "description": "Medisch hulpmiddel - 400g"
+  "description": "Medisch hulpmiddel - 400g",
+  "image": "/medias/sys_master/prd-images/he8/h2b/28811048812574/prd-front-3595320-1_600x600/prd-front-3595320-1-600x600.jpg"
 }

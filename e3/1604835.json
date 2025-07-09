@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Midi Maat 3 Luiers Jumbopack",
+  "itemName": "Kruidvat Midi Maat 3 Luiers",
   "code": "1604835",
   "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 3033 > 3886",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1053916",
-  "mmkId": "1053916",
-  "productGroupId": "482043",
+  "onPromo": "1054063",
+  "mmkId": "1054063",
+  "productGroupId": "482484",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-midi-maat-3-luiers-jumbopack/p/1604835",
+  "url": "/kruidvat-midi-maat-3-luiers/p/1604835",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Luiers maat 3"
     }
   ],
-  "description": "mt 3 (4-9 kg), 94 stuks",
+  "description": "mt 3 (5-9 kg), 94 stuks",
   "image": "/medias/sys_master/prd-images/h04/h23/34736284368926/prd-front-1604835-1_600x600/prd-front-1604835-1-600x600.jpg"
 }

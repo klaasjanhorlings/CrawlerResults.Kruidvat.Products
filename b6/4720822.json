@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Extra Large Maat 6 Luiers Jumbopack",
+  "itemName": "Kruidvat Extra Large Maat 6 Luiers",
   "code": "4720822",
   "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4342 > 4343",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1053916",
-  "mmkId": "1053916",
-  "productGroupId": "482043",
+  "onPromo": "1054063",
+  "mmkId": "1054063",
+  "productGroupId": "482484",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-extra-large-maat-6-luiers-jumbopack/p/4720822",
+  "url": "/kruidvat-extra-large-maat-6-luiers/p/4720822",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Luiers maat 6"
     }
   ],
-  "description": "mt 6 (15-20 kg), 54 stuks",
+  "description": "mt 6 (16-21 kg), 54 stuks",
   "image": "/medias/sys_master/prd-images/h3b/h8c/34730404610078/prd-front-4720822-1_600x600/prd-front-4720822-1-600x600.jpg"
 }

@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Maxi Plus Maat 4+ Luiers Jumbopack",
+  "itemName": "Kruidvat Maxi+ Maat 4+ Luiers",
   "code": "1264712",
   "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 3020 > 3845",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1053916",
-  "mmkId": "1053916",
-  "productGroupId": "482043",
+  "onPromo": "1054063",
+  "mmkId": "1054063",
+  "productGroupId": "482484",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-maxi-plus-maat-4-luiers-jumbopack/p/1264712",
+  "url": "/kruidvat-maxi-maat-4-luiers/p/1264712",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "mt 4+ (9-15 kg), 70 stuks",
+  "description": "mt 4+ (9-14 kg), 70 stuks",
   "image": "/medias/sys_master/prd-images/h41/hae/34730145251358/prd-front-1264712-1_600x600/prd-front-1264712-1-600x600.jpg"
 }

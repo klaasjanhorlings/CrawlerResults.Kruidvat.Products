@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Maxi Maat 4 Luiers Midpack",
+  "itemName": "Kruidvat Maxi Maat 4 Luiers",
   "code": "2210804",
   "price": "7.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-maxi-maat-4-luiers-midpack/p/2210804",
+  "url": "/kruidvat-maxi-maat-4-luiers/p/2210804",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "mt 4 (8-14 kg), 29 stuks",
+  "description": "mt 4 (8-12 kg), 29 stuks",
   "image": "/medias/sys_master/prd-images/ha4/h7c/34732292341790/prd-front-2210804-1_600x600/prd-front-2210804-1-600x600.jpg"
 }

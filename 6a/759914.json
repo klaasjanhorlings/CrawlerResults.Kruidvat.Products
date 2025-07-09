@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
   "supplier": "SOLUTION EU BV",
   "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "onPromo": "1054070",
+  "mmkId": "1054070",
+  "productGroupId": "483720",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-6m-anti-koliek-fast-flow-brede-hals-flesspenen/p/759914",
@@ -33,5 +33,6 @@
       "name": "Flessenspenen"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h76/hdf/27553170751518/prd-front-759914-1_600x600/prd-front-759914-1-600x600.jpg"
 }

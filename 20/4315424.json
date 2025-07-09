@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wilkinson Sword Hydro5 Skin Protection Advanced Scheersysteem",
+  "code": "4315424",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5722 > 3880",
+  "supplier": "WILKINSON SWORD GMBH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wilkinson-sword-hydro5-skin-protection-advanced-scheersysteem/p/4315424",
+  "listName": "Lister",
+  "brand": "Wilkinson Sword",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266679,
+      "name": "Scheerapparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4315424-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTc5MDd8aW1hZ2UvanBlZ3xhRFJoTDJneU5DOHlOamc1T0RBek16RTRNRGN3TWk5d2NtUXRabkp2Ym5RdE5ETXhOVFF5TkMweFh6WXdNSGcyTURBfDNjNThhMGNhNjgwZDcwNDNkNDFhMGZmNzdhODJlY2QwZDQ5ZjZkYzAxYTA3OTllZTlmYTQ3Mjc2MDFiOGYwMzk"
+}

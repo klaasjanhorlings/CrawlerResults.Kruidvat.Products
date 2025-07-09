@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2326 > 2995 > 3822",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1054160",
+  "mmkId": "1054160",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -29,13 +29,14 @@
       "name": "Babyverzorging"
     },
     {
-      "id": 30266777,
-      "name": "Baby bad- en doucheverzorging"
+      "id": 30266775,
+      "name": "Baby haarverzorging"
     },
     {
-      "id": 30267021,
-      "name": "Babywasgel"
+      "id": 30267012,
+      "name": "Babyshampoo"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h73/h5e/31387115552798/prd-front-6126020-1_600x600/prd-front-6126020-1-600x600.jpg"
 }

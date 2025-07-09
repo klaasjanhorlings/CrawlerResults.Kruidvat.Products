@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Pro Age Calcium 60+ Nachtcrème",
+  "code": "1694022",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "1028975",
+  "mmkId": "1028975",
+  "productGroupId": "362258",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pro-age-calcium-60-nachtcreme/p/1694022",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266603,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h4e/h49/34458283573278/prd-front-1694022-1_600x600/prd-front-1694022-1-600x600.jpg"
+}

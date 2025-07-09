@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aunt Jackie's Girls Knot Having It Conditioner",
+  "code": "3805180",
+  "price": "7.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aunt-jackies-girls-knot-having-it-conditioner/p/3805180",
+  "listName": "Lister",
+  "brand": "Aunt Jackie's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 82417013,
+      "name": "Krullenverzorging"
+    }
+  ],
+  "description": "355ml",
+  "image": "/medias/prd-front-3805180-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDIyMTV8aW1hZ2UvanBlZ3xhR1EyTDJnM01pOHhORFU1TVRjNE1URTBNalUxT0M5d2NtUXRabkp2Ym5RdE16Z3dOVEU0TUMweFh6WXdNSGcyTURBfDAyNGY1ZWMxMzM4NjdhNzhkMzhiODU3NWE1NjNlYmMwZmQ3NWM0NjhiOTI2OTJjYzBlNGQ4NzVjYTZjZjY1Yzc"
+}

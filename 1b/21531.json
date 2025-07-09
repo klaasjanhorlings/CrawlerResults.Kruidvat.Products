@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6239",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1053941",
-  "mmkId": "1053941",
-  "productGroupId": "482877",
+  "onPromo": "1054103",
+  "mmkId": "1054103",
+  "productGroupId": "466720",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/davitamon-vitamine-d-olie-voor-baby-en-kind/p/21531",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266729,
-      "name": "Botten en gewrichten"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267462,
+      "name": "Kindervitamines"
     }
   ],
   "description": "25ml",

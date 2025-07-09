@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 5710 > 5711 > 5712",
   "supplier": "THEOTCLAB HEALTHCARE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054066",
+  "mmkId": "1054066",
+  "productGroupId": "482531",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/just-for-men-autostop-a-55-zwart-haarkleuring/p/2768165",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "35g",
-  "image": "/medias/sys_master/prd-images/h13/h24/34796758499358/prd-front-2768165-1_600x600/prd-front-2768165-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf4/h1e/34804635369502/prd-front-2768165-1_600x600/prd-front-2768165-1-600x600.jpg"
 }
