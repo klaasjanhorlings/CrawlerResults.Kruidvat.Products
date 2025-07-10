@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "1054160",
-  "mmkId": "1054160",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "368g",
-  "image": "/medias/prd-front-2594859-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzU4OTB8aW1hZ2UvanBlZ3xhR0UxTDJnME9TOHhOVFF3T0RBeE9EUTRPVE0zTkM5d2NtUXRabkp2Ym5RdE1qVTVORGcxT1MweFh6WXdNSGcyTURBfDNkMDgxMTljM2Q0YzM0NzY4MTFlZTVjYjU1NGU4Y2IxMWUxM2I4OGE2MzkzOGNlZDc1NzVlZmY2OGNlNmQyY2Y"
+  "image": "/medias/sys_master/prd-images/h4e/h4e/34816506495006/prd-front-2594859-1_600x600/prd-front-2594859-1-600x600.jpg"
 }

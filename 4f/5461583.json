@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6617 > 2001",
   "supplier": "L. TEN CATE BV",
-  "inStock": "inStock",
-  "onPromo": "1053955",
-  "mmkId": "1053955",
-  "productGroupId": "483717",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cotton-stretch-maxi-damesslips/p/5461583",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "wit, mt XL, 2 stuks"
+  "description": "wit, mt XL, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h7f/h0d/27496290582558/prd-front-5461583-1_600x600/prd-front-5461583-1-600x600.jpg"
 }

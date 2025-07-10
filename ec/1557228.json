@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3943",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/infacol-orale-suspensie/p/1557228",
@@ -37,5 +37,6 @@
       "name": "Maag- en of darmkramp"
     }
   ],
-  "description": "Medisch hulpmiddel - 50ml"
+  "description": "Medisch hulpmiddel - 50ml",
+  "image": "/medias/sys_master/prd-images/h26/h92/33279874990110/prd-front-1557228-1_600x600/prd-front-1557228-1-600x600.jpg"
 }

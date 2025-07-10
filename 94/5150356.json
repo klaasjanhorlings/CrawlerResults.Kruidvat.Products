@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
-  "onPromo": "1054160",
-  "mmkId": "1054160",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "12 x 72 stuks"
+  "description": "12 x 72 stuks",
+  "image": "/medias/sys_master/prd-images/h6d/h7b/28228413980702/prd-front-5150356-1_600x600/prd-front-5150356-1-600x600.jpg"
 }

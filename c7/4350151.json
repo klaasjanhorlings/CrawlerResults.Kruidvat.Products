@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1054080",
-  "mmkId": "1054080",
-  "productGroupId": "500741",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-sensitive-billendoekjes/p/4350151",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "12 x 57 stuks",
-  "image": "/medias/sys_master/prd-images/hb5/h1b/31459946397726/prd-front-4350151-1_600x600/prd-front-4350151-1-600x600.jpg"
+  "description": "12 x 57 stuks"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 4306 > 4303 > 4307",
   "supplier": "KIMBERLY-CLARK BV",
   "inStock": "inStock",
-  "onPromo": "1054074",
-  "mmkId": "1054074",
-  "productGroupId": "485708",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/huggies-little-swimmers-reusable-zwemluier/p/6090726",
@@ -33,5 +33,6 @@
       "name": "Zwemluiers"
     }
   ],
-  "description": "mt 5-6 (13+ kg)"
+  "description": "mt 5-6 (13+ kg)",
+  "image": "/medias/sys_master/prd-images/had/h73/30915360391198/prd-front-6090726-1_600x600/prd-front-6090726-1-600x600.jpg"
 }

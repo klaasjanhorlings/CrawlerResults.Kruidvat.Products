@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053945",
+  "mmkId": "1053945",
+  "productGroupId": "482954",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-multi-kids-gummies/p/5138708",
@@ -33,8 +33,8 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267462,
-      "name": "Kindervitamines"
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
   "description": "60 stuks",

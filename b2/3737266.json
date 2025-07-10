@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2501 > 3109 > 3975",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "1054070",
-  "mmkId": "1054070",
-  "productGroupId": "483720",
+  "onPromo": "1053873",
+  "mmkId": "1053873",
+  "productGroupId": "465711",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-xl-papfles/p/3737266",
@@ -33,5 +33,6 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "310ml"
+  "description": "310ml",
+  "image": "/medias/sys_master/prd-images/h9f/h47/27778420768798/prd-front-3737266-1_600x600/prd-front-3737266-1-600x600.jpg"
 }

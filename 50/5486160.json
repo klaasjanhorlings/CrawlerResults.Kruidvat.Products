@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2243 > 2408 > 2849 > 3588 > 4870 > 6031",
   "supplier": "FUJIFILM IMAGING PRODUC",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053851",
+  "mmkId": "1053851",
+  "productGroupId": "495276",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fujifilm-instax-mini-9-camera/p/5486160",
@@ -33,6 +33,5 @@
       "name": "Instax cameras"
     }
   ],
-  "description": "roze",
-  "image": "/medias/sys_master/prd-images/h50/h49/30987025023006/prd-front-5486160-1_600x600/prd-front-5486160-1-600x600.jpg"
+  "description": "roze"
 }
