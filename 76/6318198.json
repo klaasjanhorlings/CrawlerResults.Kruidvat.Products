@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "MCoBeauty Lip Scrub Sugar Exfoliating Balm",
+  "code": "6318198",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/mcobeauty-lip-scrub-sugar-exfoliating-balm/p/6318198",
+  "listName": "Lister",
+  "brand": "MCoBeauty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 87395846,
+      "name": "Lipscrubs"
+    }
+  ],
+  "description": "3.5g",
+  "image": "/medias/sys_master/prd-images/h72/hf6/34795852857374/prd-front-6318198-1_600x600/prd-front-6318198-1-600x600.jpg"
+}

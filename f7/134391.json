@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3790",
   "supplier": "WILKINSON SWORD GMBH",
-  "inStock": "inStock",
-  "onPromo": "1054023",
-  "mmkId": "1054023",
-  "productGroupId": "488572",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wilkinson-sword-xtreme3-beauty-wegwerpscheermesjes/p/134391",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "6 stuks"
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/hbf/h78/30284056494110/prd-front-134391-1_600x600/prd-front-134391-1-600x600.jpg"
 }

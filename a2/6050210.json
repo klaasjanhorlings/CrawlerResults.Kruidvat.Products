@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265995,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30266637,
+      "name": "Bodylotion"
     }
   ],
   "description": "250ml",

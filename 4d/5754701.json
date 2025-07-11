@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
   "supplier": "DR LEENARTS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053970",
+  "mmkId": "1053970",
+  "productGroupId": "484689",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-salicylzuur-2-gel/p/5754701",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266915,
-      "name": "Reinigingsgel"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "50ml",

@@ -21,8 +21,8 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266078,
-      "name": "Wonen"
+      "id": 29536086,
+      "name": "Huishouden"
     },
     {
       "id": 30266077,
@@ -41,6 +41,5 @@
       "name": "Natvoer katten"
     }
   ],
-  "description": "32 x 85g",
-  "image": "/medias/sys_master/prd-images/h89/hc4/30168267259934/prd-front-6033725-1_600x600/prd-front-6033725-1-600x600.jpg"
+  "description": "32 x 85g"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Build-A-Brow 257 Medium Brown Wenkbrauwpotlood en -Gel",
+  "code": "5994602",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "supplier": "MAYBELLINE MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1053882",
+  "mmkId": "1053882",
+  "productGroupId": "471423",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-build-a-brow-257-medium-brown-wenkbrauwpotlood-en-gel/p/5994602",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266592,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30266908,
+      "name": "Wenkbrauwpotlood"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he4/h93/29992887910430/prd-front-5994602-1_600x600/prd-front-5994602-1-600x600.jpg"
+}

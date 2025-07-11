@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Kruidvat Natures Hooikoorts Neusspray",
   "code": "5981722",
-  "price": "6.99",
+  "price": "5.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2756 > 4146 > 6529",
   "supplier": "OTC MEDICAL BV",
@@ -29,12 +29,8 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266701,
-      "name": "Allergische reacties"
-    },
-    {
-      "id": 30266952,
-      "name": "Hooikoorts neussprays"
+      "id": 30266712,
+      "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
   "description": "Medisch hulpmiddel - 20ml",

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 3177 > 3445",
   "supplier": "GEOCOS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054011",
+  "mmkId": "1054011",
+  "productGroupId": "487476",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-voorkom-blaren-tape/p/6098104",
@@ -33,6 +33,5 @@
       "name": "Blarenpleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 30 stuks",
-  "image": "/medias/sys_master/prd-images/h8b/h99/31564854231070/prd-front-6098104-1_600x600/prd-front-6098104-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 30 stuks"
 }

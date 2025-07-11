@@ -25,9 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266927,
+      "name": "Haarwax"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/prd-front-2499904-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjMwNzZ8aW1hZ2UvanBlZ3xhRFk0TDJoa09DODRPVGt3T1RFeU16UTRNVGt3TDNCeVpDMW1jbTl1ZEMweU5EazVPVEEwTFRGZk5qQXdlRFl3TUF8ODk3NzRlNjhhMTZkODA2NGQ4MzE0NjBiOTE3YmM2ZDE2YWUwOTFiOWRhNmUwOTRmNzViN2NjNTU2YzM2YjY4Mw"
 }

@@ -21,14 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266633,
+      "name": "Nagellakremover"
     }
   ],
   "description": "50ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/he6/h15/34837404221470/prd-front-5546073-1_600x600/prd-front-5546073-1-600x600.jpg"
 }

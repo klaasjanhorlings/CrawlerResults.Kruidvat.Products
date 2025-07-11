@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Wimperkruller",
+  "code": "5104366",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6328",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-wimperkruller/p/5104366",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266622,
+      "name": "Wimperkrullers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0f/hd1/28317271883806/prd-front-5104366-1_600x600/prd-front-5104366-1-600x600.jpg"
+}

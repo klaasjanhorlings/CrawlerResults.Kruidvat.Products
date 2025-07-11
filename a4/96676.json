@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Lipfinity Lip Colour 140 Charming 2-Step Longlasting Lipstick",
+  "code": "96676",
+  "price": "20.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-lipfinity-lip-colour-140-charming-2-step-longlasting-lipstick/p/96676",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "2,3ml"
+}

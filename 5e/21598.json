@@ -21,12 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266711,
+      "name": "Insecten"
+    },
+    {
+      "id": 30266987,
+      "name": "Na de beet"
     }
   ],
   "description": "Geneesmiddel - 5,75g",

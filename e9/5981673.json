@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Kruidvat Natures Geïrriteerde Ogen Oogdruppels",
   "code": "5981673",
-  "price": "6.99",
+  "price": "5.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2756 > 3609 > 6529",
   "supplier": "OTC MEDICAL BV",
@@ -29,8 +29,12 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266712,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 30266701,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 30266953,
+      "name": "Hooikoorts oogdruppels"
     }
   ],
   "description": "Medisch hulpmiddel - 15ml",

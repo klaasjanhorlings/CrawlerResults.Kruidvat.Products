@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "A.VOGEL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-nachtrust-sterk-tabletten/p/2015252",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266724,
-      "name": "Rust en ontspanning"
+      "id": 49950694,
+      "name": "Natuurlijke supplementen"
     }
   ],
   "description": "30 stuks",

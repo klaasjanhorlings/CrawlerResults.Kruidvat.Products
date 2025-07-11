@@ -25,17 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 50677303,
-      "name": "Reinigingslotion"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
-  "description": "237ml, droge en gevoelige huid"
+  "description": "237ml, droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h46/hf7/30643936591902/prd-front-6045093-1_600x600/prd-front-6045093-1-600x600.jpg"
 }
