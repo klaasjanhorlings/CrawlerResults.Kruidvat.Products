@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Lift+ Sun Protect Dagcrème",
+  "code": "2405544",
+  "price": "20.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "1053888",
+  "mmkId": "1053888",
+  "productGroupId": "475314",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-lift-sun-protect-dagcreme/p/2405544",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h02/ha2/30568163016734/prd-front-2405544-1_600x600/prd-front-2405544-1-600x600.jpg"
+}

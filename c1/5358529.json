@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
   "supplier": "TONY'S CHOCOLONELY",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Chocolade"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/hb4/h63/31853428998174/prd-front-5358529-1_600x600/prd-front-5358529-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sensodyne Repair & Protect Deep Repair Tandpasta",
+  "code": "5613231",
+  "price": "1.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4316",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sensodyne-repair-protect-deep-repair-tandpasta/p/5613231",
+  "listName": "Lister",
+  "brand": "Sensodyne",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
+    }
+  ],
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h06/h20/34845036118046/prd-front-5613231-1_600x600/prd-front-5613231-1-600x600.jpg"
+}

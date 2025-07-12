@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Heren-T-Shirts",
+  "code": "6281028",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5815 > 5816 > 5928 > 6038 > 6044 > 6046",
+  "supplier": "TEXSPORT BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/heren-t-shirts/p/6281028",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266040,
+      "name": "Heren"
+    },
+    {
+      "id": 30266846,
+      "name": "Herenkleding"
+    }
+  ],
+  "description": "beige, 2 stuks, mt M"
+}

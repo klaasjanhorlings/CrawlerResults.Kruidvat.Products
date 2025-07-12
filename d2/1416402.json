@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2907 > 6067",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053865",
+  "mmkId": "1053865",
+  "productGroupId": "461345",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-vliegenvangers/p/1416402",
@@ -29,5 +29,6 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/h44/h9d/28959532548126/prd-front-1416402-1_600x600/prd-front-1416402-1-600x600.jpg"
 }
