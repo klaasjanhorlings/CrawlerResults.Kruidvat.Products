@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3112 > 3978",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
-  "onPromo": "1053707",
-  "mmkId": "1053707",
-  "productGroupId": "479865",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-beckmann-ultra-intensieve-wasmachinereiniger/p/3076480",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "250g"
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/hde/h57/34352661200926/prd-front-3076480-1_600x600/prd-front-3076480-1-600x600.jpg"
 }
