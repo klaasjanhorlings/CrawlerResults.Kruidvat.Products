@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "SpongeBob Pluchen SpongeBob Knuffel",
+  "code": "6320585",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 5179 > 5303 > 5492 > 5921 > 6040",
+  "supplier": "DURABO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/spongebob-pluchen-spongebob-knuffel/p/6320585",
+  "listName": "Lister",
+  "brand": "Spongebob",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266029,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "30cm",
+  "image": "/medias/sys_master/prd-images/h61/hc1/34694803095582/prd-front-6320585-1_600x600/prd-front-6320585-1-600x600.jpg"
+}

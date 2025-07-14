@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Today Verkoelend Hoeslaken",
+  "code": "6296512",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2453 > 2738 > 5803 > 5926 > 6020",
+  "supplier": "LEFEBVRE TEXTILE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/today-verkoelend-hoeslaken/p/6296512",
+  "listName": "Lister",
+  "brand": "Today",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 61702185,
+      "name": "Hoeslakens"
+    }
+  ],
+  "description": "wit, 90cm x 200cm",
+  "image": "/medias/sys_master/prd-images/h6d/h4f/34000045801502/prd-front-6296512-1_600x600/prd-front-6296512-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054131",
+  "mmkId": "1054131",
+  "productGroupId": "479866",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-beckmann-deodorant-zweet-vlekkenspray/p/6046458",
@@ -29,6 +29,5 @@
       "name": "Vlekverwijderaars"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hd6/h2c/34358404087838/prd-front-6046458-1_600x600/prd-front-6046458-1-600x600.jpg"
+  "description": "250ml"
 }

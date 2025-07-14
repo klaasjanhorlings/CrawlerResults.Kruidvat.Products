@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
   "supplier": "NESTLE NEDERLAND B.V",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Koffie"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/h0c/h29/33079136321566/prd-front-6077909-1_600x600/prd-front-6077909-1-600x600.jpg"
+  "description": "10 stuks"
 }

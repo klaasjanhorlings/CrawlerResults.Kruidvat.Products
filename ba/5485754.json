@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "World Of Dinos Vanaf 12 Jaar Ticket",
+  "code": "5485754",
+  "price": "14.0",
+  "priceOriginal": "21.5",
+  "itemBgbcat": "4870 > 6447 > 4891 > 6540 > 6541 > 6542",
+  "supplier": "HILLENAAR EVENTS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 7,50",
+  "url": "/world-of-dinos-vanaf-12-jaar-ticket/p/5485754",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536083,
+      "name": "Tickets"
+    },
+    {
+      "id": 30266047,
+      "name": "Dagje uit"
+    },
+    {
+      "id": 30266867,
+      "name": "Museum"
+    }
+  ],
+  "description": "Verzilver via de link in de productinformatie"
+}

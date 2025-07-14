@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054126",
+  "mmkId": "1054126",
+  "productGroupId": "463759",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-100-natural-jasmine-ho-wood-deodorant-roller/p/5633160",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h8c/hc9/34758820954142/prd-front-5633160-1_600x600/prd-front-5633160-1-600x600.jpg"
 }

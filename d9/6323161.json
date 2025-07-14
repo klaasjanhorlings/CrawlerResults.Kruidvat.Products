@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "My Hero Academia Collectible Card Game Wild Wild Pussycats",
+  "code": "6323161",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5921 > 6018 > 6743 > 6742 > 6744",
+  "supplier": "HEATHSIDE TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/my-hero-academia-collectible-card-game-wild-wild-pussycats/p/6323161",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h90/hed/34286783692830/prd-front-6323161-1_600x600/prd-front-6323161-1-600x600.jpg"
+}

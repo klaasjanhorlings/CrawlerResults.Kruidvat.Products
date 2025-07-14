@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
   "supplier": "SA NESTLE BELGILUX",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Koffie"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/h6f/h86/30493288824862/prd-front-6028454-1_600x600/prd-front-6028454-1-600x600.jpg"
+  "description": "10 stuks"
 }
