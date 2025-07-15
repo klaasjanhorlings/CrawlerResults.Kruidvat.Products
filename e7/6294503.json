@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Boerenbont Placemats",
+  "code": "6294503",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2956 > 3750 > 5926 > 6020 > 6047",
+  "supplier": "ESSCHERT DESIGN B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/boerenbont-placemats/p/6294503",
+  "listName": "Lister",
+  "brand": "Boerenbont",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 80863506,
+      "name": "Dienbladen"
+    }
+  ],
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/h68/h11/33836721733662/prd-front-6294503-1_600x600/prd-front-6294503-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Depend Fine-Extra Fine Nagelvijl",
+  "code": "6312794",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/depend-fine-extra-fine-nagelvijl/p/6312794",
+  "listName": "Lister",
+  "brand": "Depend",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266634,
+      "name": "Nagelvijlen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h82/h26/34868308574238/prd-front-6312794-1_600x600/prd-front-6312794-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat +2.5 Zonneleesbril",
+  "code": "6321159",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3202 > 4074",
+  "supplier": "J-CLUB E-COMM",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-25-zonneleesbril/p/6321159",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266013,
+      "name": "Optiek"
+    },
+    {
+      "id": 30266756,
+      "name": "Leesbrillen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hea/hf5/34312758493214/prd-front-6321159-1_600x600/prd-front-6321159-1-600x600.jpg"
+}

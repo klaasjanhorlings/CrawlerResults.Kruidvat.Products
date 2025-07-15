@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
   "supplier": "MONDELEZ NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Koek"
     }
   ],
-  "description": "175g"
+  "description": "175g",
+  "image": "/medias/sys_master/prd-images/h29/h47/27804364570654/prd-front-2895761-1_600x600/prd-front-2895761-1-600x600.jpg"
 }
