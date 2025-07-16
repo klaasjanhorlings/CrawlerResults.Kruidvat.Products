@@ -21,14 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266913,
+      "name": "Micellair water"
     }
   ],
   "description": "100ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/hba/ha6/34860517949470/prd-front-5160520-1_600x600/prd-front-5160520-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7d/hd6/34869898412062/prd-front-5160520-1_600x600/prd-front-5160520-1-600x600.jpg"
 }

@@ -21,14 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265995,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30266637,
+      "name": "Bodylotion"
     }
   ],
   "description": "473ml",
-  "image": "/medias/sys_master/prd-images/hd4/had/34861801046046/prd-front-6304744-1_600x600/prd-front-6304744-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he6/h0e/34869859811358/prd-front-6304744-1_600x600/prd-front-6304744-1-600x600.jpg"
 }

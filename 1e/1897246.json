@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nivea Men Antiroos Power Shampoo",
+  "code": "1897246",
+  "price": "4.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
+  "supplier": "BEIERSDORF NV BL",
+  "inStock": "inStock",
+  "onPromo": "1053972",
+  "mmkId": "1053972",
+  "productGroupId": "484969",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-antiroos-power-shampoo/p/1897246",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h3f/h44/34724452794398/prd-front-1897246-1_600x600/prd-front-1897246-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "1053882",
-  "mmkId": "1053882",
-  "productGroupId": "471423",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-men-expert-power-age-24h-gezichtscreme/p/6058673",
@@ -33,5 +33,6 @@
       "name": "Gezichtscreme mannen"
     }
   ],
-  "description": "50ml - Droge en rijpe huid"
+  "description": "50ml - Droge en rijpe huid",
+  "image": "/medias/sys_master/prd-images/h77/hde/33765148590110/prd-front-6058673-1_600x600/prd-front-6058673-1-600x600.jpg"
 }

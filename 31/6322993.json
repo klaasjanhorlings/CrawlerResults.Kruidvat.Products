@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 30266078,
+      "name": "Wonen"
     },
     {
-      "id": 30265992,
-      "name": "Make-up accessoires"
+      "id": 30266050,
+      "name": "Buiten en vrije tijd"
     },
     {
-      "id": 30266620,
-      "name": "Toilettassen"
+      "id": 30266876,
+      "name": "Reisartikelen"
+    },
+    {
+      "id": 84925931,
+      "name": "Reisaccessoires"
     }
   ],
   "description": "",
