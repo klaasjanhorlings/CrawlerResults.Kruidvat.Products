@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
   "supplier": "ESSITY",
-  "inStock": "inStock",
-  "onPromo": "1053681",
-  "mmkId": "1053681",
-  "productGroupId": "481366",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/edet-ultra-vierlaags-soft-toiletpapier-met-stro/p/6171478",
@@ -29,6 +29,5 @@
       "name": "Toiletpapier"
     }
   ],
-  "description": "16 rollen",
-  "image": "/medias/sys_master/prd-images/h8c/h1b/31901625974814/prd-front-6171478-1_600x600/prd-front-6171478-1-600x600.jpg"
+  "description": "16 rollen"
 }

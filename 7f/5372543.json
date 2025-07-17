@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1053960",
-  "mmkId": "1053960",
-  "productGroupId": "483918",
+  "onPromo": "1054173",
+  "mmkId": "1054173",
+  "productGroupId": "483920",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-eyes-collagen-peptide24-oogcreme/p/5372543",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml - Alle huidtypen"
+  "description": "15ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/ha0/hdf/31598323597342/prd-front-5372543-1_600x600/prd-front-5372543-1-600x600.jpg"
 }

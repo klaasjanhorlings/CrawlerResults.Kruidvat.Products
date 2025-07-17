@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
   "supplier": "UNILEVER NEDERLAND",
-  "inStock": "inStock",
-  "onPromo": "1054185",
-  "mmkId": "1054185",
-  "productGroupId": "486828",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/robijn-classics-passiebloem-bergamot-wasverzachter/p/5858011",
@@ -29,6 +29,5 @@
       "name": "Wasverzachter"
     }
   ],
-  "description": "4 x 780ml, 156 wasbeurten",
-  "image": "/medias/sys_master/prd-images/h64/h8d/34868677279774/prd-front-5858011-1_600x600/prd-front-5858011-1-600x600.jpg"
+  "description": "4 x 780ml, 156 wasbeurten"
 }
