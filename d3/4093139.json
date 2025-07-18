@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 5+ jaar Tandpasta",
+  "code": "4093139",
+  "price": "0.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3532",
+  "supplier": "PREMIUM COSMETICS GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-5-jaar-tandpasta/p/4093139",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-4093139-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njc3NDJ8aW1hZ2UvanBlZ3xhREE1TDJnek1TOHhOalF6T0RjMk5EY3pNalEwTmk5d2NtUXRabkp2Ym5RdE5EQTVNekV6T1MweFh6WXdNSGcyTURBfGVkNzY4MTAzODc0MjFjZjFkZmYyMWQ5MWUzM2E0MjU1Y2QyOWQxOGMyMjc5ODhhNmNjNDk2YWU4Y2M1MDIyMjM"
+}

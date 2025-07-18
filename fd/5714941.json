@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ALL-IN-1 BVBA",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053888",
+  "mmkId": "1053888",
+  "productGroupId": "475314",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/remescar-instant-facelift-v-shape-ampullen/p/5714941",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "5 x 2ml",
-  "image": "/medias/sys_master/prd-images/hdf/h0c/33356034834462/prd-front-5714941-1_600x600/prd-front-5714941-1-600x600.jpg"
+  "description": "5 x 2ml"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LEIJTENS IMPORT BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1053969",
+  "mmkId": "1053969",
+  "productGroupId": "484592",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/depend-gel-iq-less-but-better-gellak/p/6312486",
@@ -33,6 +33,5 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h12/h7d/34883397484574/prd-front-6312486-1_600x600/prd-front-6312486-1-600x600.jpg"
+  "description": "5ml"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tommy Hilfiger Tommy Girl Eau de Toilette",
+  "code": "2907129",
+  "price": "34.99",
+  "priceOriginal": "73.0",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "1054005",
+  "mmkId": "1054005",
+  "productGroupId": "487304",
+  "brandType": "A of B merk",
+  "discount": "€ 38,01",
+  "url": "/tommy-hilfiger-tommy-girl-eau-de-toilette/p/2907129",
+  "listName": "Lister",
+  "brand": "Tommy Hilfiger",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hcd/h7e/34356279574558/prd-front-2907129-1_600x600/prd-front-2907129-1-600x600.jpg"
+}
