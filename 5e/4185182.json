@@ -4,7 +4,7 @@
   "itemName": "Goliath Triominos in Tasje",
   "code": "4185182",
   "price": "9.99",
-  "priceOriginal": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 5162 > 5217 > 5406",
   "supplier": "GOLIATH B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/goliath-triominos-in-tasje/p/4185182",
   "listName": "Lister",
   "brand": "Goliath",
@@ -29,8 +29,8 @@
       "name": "Spellen"
     },
     {
-      "id": 30266836,
-      "name": "Reisspellen"
+      "id": 30266835,
+      "name": "Bordspellen"
     }
   ],
   "description": "",

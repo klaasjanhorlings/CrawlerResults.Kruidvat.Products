@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "MCoBeauty Hair & Brow Clear Magic Wand",
-  "code": "6317701",
-  "price": "7.99",
+  "itemName": "Catrice 3-in-1 030 Dark Brown Brow Perfector",
+  "code": "6011451",
+  "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
-  "supplier": "VIDACORP NETHERLANDS B.V.",
+  "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/mcobeauty-hair-brow-clear-magic-wand/p/6317701",
+  "url": "/catrice-3-in-1-030-dark-brown-brow-perfector/p/6011451",
   "listName": "Lister",
-  "brand": "MCoBeauty",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,10 +33,10 @@
       "name": "Wenkbrauw make-up"
     },
     {
-      "id": 30266905,
-      "name": "Wenkbrauwgel"
+      "id": 30266908,
+      "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h8c/h3e/34826207199262/prd-front-6317701-1_600x600/prd-front-6317701-1-600x600.jpg"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h51/hf4/29938864390174/prd-front-6011451-1_600x600/prd-front-6011451-1-600x600.jpg"
 }

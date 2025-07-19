@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Celenes by Sweden Cloudberry Ooogcontourcrème",
   "code": "6214584",
   "price": "19.95",
@@ -33,6 +33,5 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml - Droge en gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h3f/h55/33293305577502/prd-front-6214584-1_600x600/prd-front-6214584-1-600x600.jpg"
+  "description": "15ml - Droge en gevoelige huid"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Calvin Klein Euphoria Eau de Parfum",
   "code": "5373635",
   "price": "31.23",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hf2/h46/34360894554142/prd-front-5373635-1_600x600/prd-front-5373635-1-600x600.jpg"
+  "description": "50ml"
 }

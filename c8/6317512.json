@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "MCoBeauty Liquid Eyeliner Precision Pen",
   "code": "6317512",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "1.5ml",
-  "image": "/medias/sys_master/prd-images/h49/hb2/34868551352350/prd-front-6317512-1_600x600/prd-front-6317512-1-600x600.jpg"
+  "description": "1.5ml"
 }

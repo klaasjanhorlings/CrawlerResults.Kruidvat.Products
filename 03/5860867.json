@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Keratin Repair Anti-klit Spray",
+  "code": "5860867",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4314",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-keratin-repair-anti-klit-spray/p/5860867",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213300,
+      "name": "Anti-klitspray"
+    }
+  ],
+  "description": "50ml"
+}

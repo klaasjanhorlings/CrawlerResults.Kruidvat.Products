@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Max Factor Miracle Pure 202 Nagellak",
   "code": "5911288",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "12ml",
-  "image": "/medias/sys_master/prd-images/ha5/ha5/28520421785630/prd-front-5911288-1_600x600/prd-front-5911288-1-600x600.jpg"
+  "description": "12ml"
 }

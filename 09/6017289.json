@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence 03 Peach Matte Liquid Eyeshadow",
-  "code": "6245706",
+  "itemName": "Essence 8H Matte 09 Fiery Red Liquid Lipstick",
+  "code": "6017289",
   "price": "2.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-03-peach-matte-liquid-eyeshadow/p/6245706",
+  "url": "/essence-8h-matte-09-fiery-red-liquid-lipstick/p/6017289",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30266596,
-      "name": "Oogschaduw"
+      "id": 87391909,
+      "name": "Lipmake-up"
     },
     {
-      "id": 30266910,
-      "name": "Mono oogschaduw"
+      "id": 30266582,
+      "name": "Lipstick"
     }
   ],
-  "description": "3ml",
-  "image": "/medias/sys_master/prd-images/he5/haa/33480058142750/prd-front-6245706-1_600x600/prd-front-6245706-1-600x600.jpg"
+  "description": "2,5ml",
+  "image": "/medias/sys_master/prd-images/h72/h20/34677940551710/prd-front-6017289-1_600x600/prd-front-6017289-1-600x600.jpg"
 }

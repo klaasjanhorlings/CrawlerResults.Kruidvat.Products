@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Or Espresso Onyx Intensity 12 Bonen",
   "code": "6323644",
   "price": "8.99",
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6643 > 6644",
   "supplier": "JACOBS DOUWE EGBERTS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Koffie"
     }
   ],
-  "description": "500g",
-  "image": "/medias/sys_master/prd-images/h0c/h87/34853757911070/prd-front-6323644-1_600x600/prd-front-6323644-1-600x600.jpg"
+  "description": "500g"
 }
