@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cosrx Master Patch Original Fit Blemish Cover Patches",
   "code": "6200276",
   "price": "5.9",
@@ -37,6 +37,5 @@
       "name": "Verzorging probleemhuid"
     }
   ],
-  "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/h42/h5c/32246586834974/prd-front-6200276-1_600x600/prd-front-6200276-1-600x600.jpg"
+  "description": "24 stuks"
 }

@@ -1,8 +1,8 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "MCoBeauty Light/Medium Tattoo Brow Microblading Ink Pen",
-  "code": "6317519",
+  "itemName": "MCoBeauty Hair & Brow Clear Magic Wand",
+  "code": "6317701",
   "price": "7.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/mcobeauty-light/medium-tattoo-brow-microblading-ink-pen/p/6317519",
+  "url": "/mcobeauty-hair-brow-clear-magic-wand/p/6317701",
   "listName": "Lister",
   "brand": "MCoBeauty",
   "mpOrigin": "Kruidvat",
@@ -33,10 +33,10 @@
       "name": "Wenkbrauw make-up"
     },
     {
-      "id": 30266908,
-      "name": "Wenkbrauwpotlood"
+      "id": 30266905,
+      "name": "Wenkbrauwgel"
     }
   ],
-  "description": "1,5ml",
-  "image": "/medias/sys_master/prd-images/hb2/ha9/34868290387998/prd-front-6317519-1_600x600/prd-front-6317519-1-600x600.jpg"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h8c/h3e/34826207199262/prd-front-6317701-1_600x600/prd-front-6317701-1-600x600.jpg"
 }

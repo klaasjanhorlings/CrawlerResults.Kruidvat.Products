@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Depend Myrrh & Avocado Nail Oil",
+  "code": "6312808",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "inStock",
+  "onPromo": "1053969",
+  "mmkId": "1053969",
+  "productGroupId": "484592",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/depend-myrrh-avocado-nail-oil/p/6312808",
+  "listName": "Lister",
+  "brand": "Depend Gel iQ",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266631,
+      "name": "Nagelbehandeling"
+    }
+  ],
+  "description": "8ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

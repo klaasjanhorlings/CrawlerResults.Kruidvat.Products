@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Dreumesmelk"
     }
   ],
-  "description": "800g",
-  "image": "/medias/sys_master/prd-images/h1b/h49/33885869965342/prd-front-2152991-1_600x600/prd-front-2152991-1-600x600.jpg"
+  "description": "800g"
 }

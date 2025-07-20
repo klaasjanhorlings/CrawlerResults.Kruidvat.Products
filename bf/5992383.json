@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Organic Shop Glow Skin Eye Gel Patch",
   "code": "5992383",
   "price": "15.99",
@@ -37,6 +37,5 @@
       "name": "Oogmaskers"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h8c/hec/34533435080734/prd-front-5992383-1_600x600/prd-front-5992383-1-600x600.jpg"
+  "description": "60 stuks"
 }

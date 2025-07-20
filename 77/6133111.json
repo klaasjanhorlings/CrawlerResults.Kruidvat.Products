@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Douwe Egberts Intens Bonen",
   "code": "6133111",
   "price": "13.19",
@@ -29,5 +29,6 @@
       "name": "Koffie"
     }
   ],
-  "description": "900g"
+  "description": "900g",
+  "image": "/medias/sys_master/prd-images/h47/h57/33075669237790/prd-front-6133111-1_600x600/prd-front-6133111-1-600x600.jpg"
 }

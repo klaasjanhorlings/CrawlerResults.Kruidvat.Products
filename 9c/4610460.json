@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
   "supplier": "HARIBO THE NET.& BEL.BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Snoep"
     }
   ],
-  "description": "550g",
-  "image": "/medias/sys_master/prd-images/hb7/h93/33325013565470/prd-front-4610460-1_600x600/prd-front-4610460-1-600x600.jpg"
+  "description": "550g"
 }
