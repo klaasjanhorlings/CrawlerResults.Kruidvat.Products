@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054344",
+  "mmkId": "1054344",
+  "productGroupId": "482540",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/st-moriz-professional-medium-dark-clear-tanning-mousse/p/6248674",
@@ -33,6 +33,5 @@
       "name": "Zelfbruiners"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hba/hb0/33281656619038/prd-front-6248674-1_600x600/prd-front-6248674-1-600x600.jpg"
+  "description": "200ml"
 }

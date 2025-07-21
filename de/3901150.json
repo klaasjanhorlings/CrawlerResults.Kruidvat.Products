@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054293",
+  "mmkId": "1054293",
+  "productGroupId": "479186",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sensodyne-deep-clean-gel-tandpasta-voor-gevoelige-tanden/p/3901150",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h5f/hcf/34225219665950/prd-front-3901150-1_600x600/prd-front-3901150-1-600x600.jpg"
 }

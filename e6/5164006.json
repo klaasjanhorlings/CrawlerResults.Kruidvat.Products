@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "MAXIM MARKENPRODUKTE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054249",
+  "mmkId": "1054249",
+  "productGroupId": "468774",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-natures-repair-shampoo/p/5164006",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/prd-front-5164006-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTE3NzB8aW1hZ2UvanBlZ3xhREJrTDJnMk5pOHlOamM0TkRVd056a3lNRFF4TkM5d2NtUXRabkp2Ym5RdE5URTJOREF3TmkweFh6WXdNSGcyTURBfDIxOTc4ODdhNGVjYjNjN2MwZjE4ZDVjZDcwMmIwNzMzZWE5MjRjZDU3MzRlN2RlNTNiMzEzMGUyMjlkOWNhYTQ"
 }

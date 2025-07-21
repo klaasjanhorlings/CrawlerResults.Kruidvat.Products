@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Sonicare 4300 Protective Clean HX6806/04 Elektrische Tandenborstel",
+  "code": "5140549",
+  "price": "39.99",
+  "priceOriginal": "99.99",
+  "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 60,00",
+  "url": "/philips-sonicare-4300-protective-clean-hx6806/04-elektrische-tandenborstel/p/5140549",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266677,
+      "name": "Elektrische tandenborstels"
+    }
+  ],
+  "description": "roze",
+  "image": "/medias/prd-front-5140549-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDM0NjJ8aW1hZ2UvanBlZ3xhRGxtTDJnd05TOHhOelF4T0RneE1qVTRPREEyTWk5d2NtUXRabkp2Ym5RdE5URTBNRFUwT1MweFh6WXdNSGcyTURBfDU0OTUwNjhkNTUxMGE4OTNjMjliYWJmOGFhNmM4NWU1NWFmYjY2MDIwMmNjMzJlNzA4M2E0YWU3Njg4OWRiNDg"
+}

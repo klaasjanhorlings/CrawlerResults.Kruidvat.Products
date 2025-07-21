@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6647",
   "supplier": "NUTRITION&SANTE BENELX",
   "inStock": "inStock",
-  "onPromo": "1053982",
-  "mmkId": "1053982",
-  "productGroupId": "486290",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wecare-natural-tortillas-lower-carb-wraps/p/5487854",
@@ -33,5 +33,6 @@
       "name": "Verlaagd koolhydraatgehalte"
     }
   ],
-  "description": "160g"
+  "description": "160g",
+  "image": "/medias/sys_master/prd-images/hb0/h43/31685602574366/prd-front-5487854-1_600x600/prd-front-5487854-1-600x600.jpg"
 }

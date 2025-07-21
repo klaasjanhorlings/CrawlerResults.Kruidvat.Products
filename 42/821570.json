@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1053904",
-  "mmkId": "1053904",
-  "productGroupId": "480142",
+  "onPromo": "1054237",
+  "mmkId": "1054237",
+  "productGroupId": "459980",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-titane-level-6-haargel/p/821570",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hbb/hf4/33761003012126/prd-front-821570-1_600x600/prd-front-821570-1-600x600.jpg"
 }

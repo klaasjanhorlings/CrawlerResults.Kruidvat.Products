@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3027 > 6779",
   "supplier": "LENSCONCEPT BV",
   "inStock": "inStock",
-  "onPromo": "1053893",
-  "mmkId": "1053893",
-  "productGroupId": "476760",
+  "onPromo": "1016529",
+  "mmkId": "1016529",
+  "productGroupId": "286850",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-opticare-125-zachte-maandlenzen/p/3662989",
@@ -37,5 +37,6 @@
       "name": "Maandlenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks"
+  "description": "Medisch hulpmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/h19/h45/28452709564446/prd-front-3662989-1_600x600/prd-front-3662989-1-600x600.jpg"
 }

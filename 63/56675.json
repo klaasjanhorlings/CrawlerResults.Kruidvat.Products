@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "RIDAM CARE BV",
   "inStock": "inStock",
-  "onPromo": "1053893",
-  "mmkId": "1053893",
-  "productGroupId": "476760",
+  "onPromo": "1054238",
+  "mmkId": "1054238",
+  "productGroupId": "460412",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-opticare-harde-lenzen-conditioner/p/56675",
@@ -33,5 +33,6 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "Medisch hulpmiddel - 120ml"
+  "description": "Medisch hulpmiddel - 120ml",
+  "image": "/medias/sys_master/prd-images/h6c/h49/28538777108510/prd-front-56675-1_600x600/prd-front-56675-1-600x600.jpg"
 }

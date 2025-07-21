@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat TS-203 Mee-eterverwijderaar",
+  "code": "5284287",
+  "price": "9.99",
+  "priceOriginal": "17.95",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6433",
+  "supplier": "DUMMY",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "€ 7,96",
+  "url": "/kruidvat-ts-203-mee-eterverwijderaar/p/5284287",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50966992,
+      "name": "Gezichtsreinigingstools"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5284287-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzY4MDJ8aW1hZ2UvanBlZ3xhR1JqTDJnMVlTOHhOelV3TmpnMU1qa3lPVFUyTmk5d2NtUXRabkp2Ym5RdE5USTROREk0TnkweFh6WXdNSGcyTURBfDJjNzVmNjg4YmI2NmVlZDJlZDQ2YjkxMDE0OTRhYjZjNDA3MWRmOWEyNTlkMWMxZTYxYWY4NjRjMWQxOTUwY2Y"
+}

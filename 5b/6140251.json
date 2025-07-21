@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath That's Life Gallery Edition Piet Mondriaan Puzzel",
+  "code": "6140251",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6018",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/goliath-thats-life-gallery-edition-piet-mondriaan-puzzel/p/6140251",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90170187,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "1000 stukjes"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "ORIGINAL ADDITIONS (BP)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054241",
+  "mmkId": "1054241",
+  "productGroupId": "462717",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/cantu-shea-butter-shampoo/p/3805222",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/prd-front-3805222-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTM0Mjh8aW1hZ2UvanBlZ3xhRGc1TDJnM1lpOHhOelUzTnpnNE5qZzNOVFkzT0M5d2NtUXRabkp2Ym5RdE16Z3dOVEl5TWkweFh6WXdNSGcyTURBfDE4MDkxNDJlZjYzMjAxZTczZDcxNDkxNGE3YmFmNDYzNDA1ZDNiOWJlYmY1MGNkMzNlODFiMWJhNDAyMzlkNDI"
 }

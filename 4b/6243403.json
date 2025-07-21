@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "COSMOGROUP BRANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054477",
+  "mmkId": "1054477",
+  "productGroupId": "502811",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/umberto-giannini-frizz-fix-conditioner/p/6243403",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hec/hee/33108370358302/prd-front-6243403-1_600x600/prd-front-6243403-1-600x600.jpg"
+  "description": "250ml"
 }

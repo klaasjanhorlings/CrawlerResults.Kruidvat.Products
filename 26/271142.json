@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 3324 > 4227",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054273",
+  "mmkId": "1054273",
+  "productGroupId": "475387",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jordan-double-ended-regular-tandenstokers/p/271142",
@@ -33,6 +33,5 @@
       "name": "Tandenstokers"
     }
   ],
-  "description": "100 stuks",
-  "image": "/medias/sys_master/prd-images/hf8/h90/28674711093278/prd-front-271142-1_600x600/prd-front-271142-1-600x600.jpg"
+  "description": "100 stuks"
 }

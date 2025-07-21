@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1054608",
-  "mmkId": "1054608",
-  "productGroupId": "503756",
+  "onPromo": "1054252",
+  "mmkId": "1054252",
+  "productGroupId": "471182",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-2-in-1-primer-daily-uv-serum/p/6242444",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hcb/h52/34394977992734/prd-front-6242444-1_600x600/prd-front-6242444-1-600x600.jpg"
+  "description": "30ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3027 > 3565",
   "supplier": "LENSCONCEPT BV",
   "inStock": "inStock",
-  "onPromo": "1053893",
-  "mmkId": "1053893",
-  "productGroupId": "476760",
+  "onPromo": "1054238",
+  "mmkId": "1054238",
+  "productGroupId": "460412",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-opticare-700-zachte-daglenzen/p/3664921",
@@ -37,5 +37,6 @@
       "name": "Daglenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks"
+  "description": "Medisch hulpmiddel - 10 stuks",
+  "image": "/medias/prd-front-3664921-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjIzODN8aW1hZ2UvanBlZ3xhR1EyTDJnMU9DOHhOelEwTnpjNE1UUXpNek0zTkM5d2NtUXRabkp2Ym5RdE16WTJORGt5TVMweFh6WXdNSGcyTURBfDFiYTYwNGE4NTk5NTM5OWQ3ZGRjNmJkMDIyYzdlMWE5ZWE3MGExYjMzYmNhMDJmNjk1Y2E2YTcxMmVmMzNmNTE"
 }

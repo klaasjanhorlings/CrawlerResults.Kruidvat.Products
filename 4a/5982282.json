@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Protective Clean 4500 Series Elektrische Tandenborstel",
+  "code": "5982282",
+  "price": "39.99",
+  "priceOriginal": "99.99",
+  "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 60,00",
+  "url": "/philips-protective-clean-4500-series-elektrische-tandenborstel/p/5982282",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266677,
+      "name": "Elektrische tandenborstels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc6/h44/30585237930014/prd-front-5982282-1_600x600/prd-front-5982282-1-600x600.jpg"
+}

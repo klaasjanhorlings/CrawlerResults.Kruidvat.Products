@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6760 > 6762 > 6761 > 6759 > 6758",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
-  "onPromo": "1053970",
-  "mmkId": "1053970",
-  "productGroupId": "484689",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cerave-hydraterende-melk/p/6304751",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "473ml"
+  "description": "473ml",
+  "image": "/medias/sys_master/prd-images/hd6/h66/34900353122334/prd-front-6304751-1_600x600/prd-front-6304751-1-600x600.jpg"
 }

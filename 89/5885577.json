@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1053970",
-  "mmkId": "1053970",
-  "productGroupId": "484689",
+  "onPromo": "1054292",
+  "mmkId": "1054292",
+  "productGroupId": "478814",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cetaphil-pro-itch-control-hydraterende-melk/p/5885577",
@@ -37,5 +37,6 @@
       "name": "Reinigingsmelk"
     }
   ],
-  "description": "295ml"
+  "description": "295ml",
+  "image": "/medias/sys_master/prd-images/h15/h8a/27838676729886/prd-front-5885577-1_600x600/prd-front-5885577-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Jersey Hoeslaken",
+  "code": "6314656",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2453 > 2738 > 5803 > 5926 > 6020",
+  "supplier": "LUMAS INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-jersey-hoeslaken/p/6314656",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 61702185,
+      "name": "Hoeslakens"
+    }
+  ],
+  "description": "grijs, 90cm x 200cm",
+  "image": "/medias/sys_master/prd-images/he2/h21/34325287895070/prd-front-6314656-1_600x600/prd-front-6314656-1-600x600.jpg"
+}

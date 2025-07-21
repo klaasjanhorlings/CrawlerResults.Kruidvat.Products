@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "To Go Kruimelzuiger",
+  "code": "6315615",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 4901 > 4947 > 4993 > 5929 > 6019",
+  "supplier": "THE MERCHANDISE CLUB BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/to-go-kruimelzuiger/p/6315615",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053317,
+      "name": "Schoonmaakapparatuur"
+    },
+    {
+      "id": 75054064,
+      "name": "Stofzuigers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc3/hce/34224366190622/prd-front-6315615-1_600x600/prd-front-6315615-1-600x600.jpg"
+}

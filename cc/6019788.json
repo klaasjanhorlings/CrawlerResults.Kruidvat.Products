@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2962 > 3763",
   "supplier": "TROPENZORG BV",
   "inStock": "inStock",
-  "onPromo": "1053930",
-  "mmkId": "1053930",
-  "productGroupId": "482526",
+  "onPromo": "1054341",
+  "mmkId": "1054341",
+  "productGroupId": "482527",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/care-plus-50-deet-anti-insect-spray/p/6019788",
@@ -37,5 +37,6 @@
       "name": "Voor de beet"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h28/h7e/33423586394142/prd-front-6019788-1_600x600/prd-front-6019788-1-600x600.jpg"
 }

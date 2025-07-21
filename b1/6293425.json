@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1054893",
-  "mmkId": "1054893",
-  "productGroupId": "504054",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/beauty-of-joseon-calming-serum/p/6293425",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h84/hd5/34111957467166/prd-front-6293425-1_600x600/prd-front-6293425-1-600x600.jpg"
+  "description": "30ml"
 }

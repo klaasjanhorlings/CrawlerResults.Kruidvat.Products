@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Kleine Nagelknipper",
+  "code": "5659816",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6331",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-kleine-nagelknipper/p/5659816",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266635,
+      "name": "Nagelknippers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5659816-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA0Mjh8aW1hZ2UvanBlZ3xhR05sTDJnNFpTOHhOakUxT1RneU5UWXlOVEV4T0M5d2NtUXRabkp2Ym5RdE5UWTFPVGd4TmkweFh6WXdNSGcyTURBfDVhMzVkNTZjOTE1YTU5Yzg4NzQzNGNkMWI3ZjQyMWVjOTA3YmVmNzVhZTFkNTQ0YTQ5ZDRkNmQ2YzMxNjYyYTI"
+}
