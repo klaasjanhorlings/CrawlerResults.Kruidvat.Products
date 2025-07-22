@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "35ml"
+  "description": "35ml",
+  "image": "/medias/sys_master/prd-images/ha3/h49/33641031893022/prd-front-6230488-1_600x600/prd-front-6230488-1-600x600.jpg"
 }
