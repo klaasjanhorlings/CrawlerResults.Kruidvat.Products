@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Calvin Klein Beauty Eau de Parfum",
+  "code": "2991129",
+  "price": "26.77",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "SAR TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/calvin-klein-beauty-eau-de-parfum/p/2991129",
+  "listName": "Lister",
+  "brand": "Calvin Klein",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-2991129-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjM1ODJ8aW1hZ2UvanBlZ3xhR013TDJoak15OHhOalUzTmpRNU1qZzJNelV4T0M5d2NtUXRabkp2Ym5RdE1qazVNVEV5T1MweFh6WXdNSGcyTURBfDBlMjQ4NmM3Y2VhMTI3ZmVkODk3ZWJiYjFhYjI5MGM0NDQ0ZTM1ZTJhMjhkZTRkMDJlZTMzMWU2NTdlY2UxYzM"
+}

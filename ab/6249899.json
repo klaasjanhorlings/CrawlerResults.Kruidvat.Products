@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 6778",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "1054370",
-  "mmkId": "1054370",
-  "productGroupId": "483307",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-color-vive-shampoo-refill/p/6249899",
@@ -29,8 +29,8 @@
       "name": "Haarverzorging"
     },
     {
-      "id": 30266694,
-      "name": "Shampoo"
+      "id": 82417299,
+      "name": "Shampoo navulling"
     }
   ],
   "description": "250ml",

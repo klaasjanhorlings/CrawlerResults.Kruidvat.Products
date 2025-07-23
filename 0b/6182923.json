@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
-  "onPromo": "1054238",
-  "mmkId": "1054238",
-  "productGroupId": "460412",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bausch-lomb-boston-alles-in-een-vloeistof/p/6182923",
@@ -33,6 +33,5 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "120ml",
-  "image": "/medias/sys_master/prd-images/h33/h15/32085328920606/prd-front-6182923-1_600x600/prd-front-6182923-1-600x600.jpg"
+  "description": "120ml"
 }

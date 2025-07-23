@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
   "supplier": "THG NUTRITION LIMITED",
-  "inStock": "inStock",
-  "onPromo": "1054454",
-  "mmkId": "1054454",
-  "productGroupId": "492826",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/myprotein-clear-peach-tea-whey-protein/p/6297996",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "244g"
+  "description": "244g",
+  "image": "/medias/sys_master/prd-images/h87/h89/33918210277406/prd-front-6297996-1_600x600/prd-front-6297996-1-600x600.jpg"
 }

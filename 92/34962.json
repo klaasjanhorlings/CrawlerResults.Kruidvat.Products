@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266016,
-      "name": "Babyverzorging"
-    },
-    {
-      "id": 30266777,
-      "name": "Baby bad- en doucheverzorging"
-    },
-    {
-      "id": 30267021,
-      "name": "Babywasgel"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "75ml",

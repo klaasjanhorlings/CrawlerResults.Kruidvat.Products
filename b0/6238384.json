@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
   "supplier": "BODY & FIT SPORTSNUTRIT",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/body-fit-vanilla-flavour-whey-essential-eiwitpoeder/p/6238384",
@@ -33,6 +33,5 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "500g",
-  "image": "/medias/sys_master/prd-images/hb6/h8b/33019442036766/prd-front-6238384-1_600x600/prd-front-6238384-1-600x600.jpg"
+  "description": "500g"
 }

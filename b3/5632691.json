@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054273",
+  "mmkId": "1054273",
+  "productGroupId": "475387",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-zen-white-lotus-extra-dry-48h-cream/p/5632691",
@@ -33,5 +33,6 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h51/h62/29340081422366/prd-front-5632691-1_600x600/prd-front-5632691-1-600x600.jpg"
 }

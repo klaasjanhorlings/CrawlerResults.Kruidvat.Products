@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2183 > 4933 > 4980 > 5026 > 5921 > 6040",
   "supplier": "OSTOY TRADING B.V.",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Poppen en knuffels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h21/he5/33952803192862/prd-front-6296729-1_600x600/prd-front-6296729-1-600x600.jpg"
 }
