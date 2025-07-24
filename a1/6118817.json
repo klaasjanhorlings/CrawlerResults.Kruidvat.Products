@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "MORE LABELS GROUP BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054421",
+  "mmkId": "1054421",
+  "productGroupId": "487311",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/the-master-perfumer-nr43-white-cedar-eau-de-toilette/p/6118817",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h88/h0a/32700650553374/prd-front-6118817-1_600x600/prd-front-6118817-1-600x600.jpg"
 }
