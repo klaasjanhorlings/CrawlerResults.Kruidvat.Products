@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4114 > 5861 > 5864 > 6705 > 6706",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054514",
+  "mmkId": "1054514",
+  "productGroupId": "497706",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/amando-mystery-geschenkset/p/6296834",
@@ -33,5 +33,6 @@
       "name": "Geschenkset voor hem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hdd/ha1/34366961385502/prd-front-6296834-1_600x600/prd-front-6296834-1-600x600.jpg"
 }

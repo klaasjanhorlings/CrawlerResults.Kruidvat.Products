@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1054514",
+  "mmkId": "1054514",
+  "productGroupId": "497706",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-very-shelley-creme-matte-luxe-lipstick/p/6318415",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3,5g"
+  "description": "3,5g",
+  "image": "/medias/sys_master/prd-images/h9c/h37/34873559253022/prd-front-6318415-1_600x600/prd-front-6318415-1-600x600.jpg"
 }

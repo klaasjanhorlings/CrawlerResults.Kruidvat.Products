@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1054514",
+  "mmkId": "1054514",
+  "productGroupId": "497706",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-lifter-stix-30-foundation-stick/p/6241730",
@@ -33,5 +33,6 @@
       "name": "Contour"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha0/h03/33605478449182/prd-front-6241730-1_600x600/prd-front-6241730-1-600x600.jpg"
 }

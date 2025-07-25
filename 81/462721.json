@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Isostar Fast Hydration Orange Powertabs Bruistabletten",
+  "code": "462721",
+  "price": "6.65",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 3241 > 4132 > 6397",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/isostar-fast-hydration-orange-powertabs-bruistabletten/p/462721",
+  "listName": "Lister",
+  "brand": "Isostar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266752,
+      "name": "Sportdrank"
+    }
+  ],
+  "description": "120g",
+  "image": "/medias/prd-front-462721-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjQyNTZ8aW1hZ2UvanBlZ3xhRFprTDJobVpTODRPVGswTnpZME1ESTVPVGd5TDNCeVpDMW1jbTl1ZEMwME5qSTNNakV0TVY4Mk1EQjROakF3fDA4OTFiMWJiOGU2YWFhNmE5OWE0Y2FmNDVmZWMwOTQ5NmQ1M2QxYWVmMGM3NWEwYzkzZjkzYmUxOTk3NjM2NDY"
+}

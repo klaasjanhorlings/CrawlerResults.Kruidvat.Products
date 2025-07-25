@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1054288",
-  "mmkId": "1054288",
-  "productGroupId": "477581",
+  "onPromo": "1054500",
+  "mmkId": "1054500",
+  "productGroupId": "469003",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-regenerist-2-in-1-dagcreme-serum/p/1931203",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h11/h73/33634124988446/prd-front-1931203-1_600x600/prd-front-1931203-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
   "supplier": "GEM BOHEMIA S.R.O.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054514",
+  "mmkId": "1054514",
+  "productGroupId": "497706",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-zero-0-alcohol-mondwater/p/2838249",
@@ -25,12 +25,8 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266001,
-      "name": "Mondverzorging"
-    },
-    {
-      "id": 30266676,
-      "name": "Mondwater en mondspray"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "100ml",

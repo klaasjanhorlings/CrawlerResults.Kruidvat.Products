@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WeCare Cranberry Cheesecake Meal Replacement Bars",
+  "code": "4493364",
+  "price": "4.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3435",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wecare-cranberry-cheesecake-meal-replacement-bars/p/4493364",
+  "listName": "Lister",
+  "brand": "WeCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30266743,
+      "name": "Maaltijdvervangers"
+    }
+  ],
+  "description": "2 x 58g",
+  "image": "/medias/sys_master/prd-images/h4c/h75/27570078154782/prd-front-4493364-1_600x600/prd-front-4493364-1-600x600.jpg"
+}

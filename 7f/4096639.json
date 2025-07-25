@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Céréal Suikervrije Koekjes met Citroen- en Yuzusmaak",
+  "code": "4096639",
+  "price": "3.05",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6648",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cereal-suikervrije-koekjes-met-citroen-en-yuzusmaak/p/4096639",
+  "listName": "Lister",
+  "brand": "Cereal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30266746,
+      "name": "Verantwoorde tussendoortjes"
+    }
+  ],
+  "description": "132g",
+  "image": "/medias/prd-front-4096639-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzE1NzF8aW1hZ2UvanBlZ3xhRGRsTDJoaU1TOHhORE0wTURZME1qYzJOamczT0M5d2NtUXRabkp2Ym5RdE5EQTVOall6T1MweFh6WXdNSGcyTURBfDIzNGFiNzc3ZmQzMWNjMTdmOTAwNjIwNjcyOGM0MmE0ZWVjNDc0YTUwMTEyMTM3NzRhMjhlZGJjMTUzMmRmMWU"
+}

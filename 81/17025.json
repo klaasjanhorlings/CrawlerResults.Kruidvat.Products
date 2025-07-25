@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054514",
+  "mmkId": "1054514",
+  "productGroupId": "497706",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/labello-original-lippenbalsem/p/17025",
@@ -29,5 +29,6 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "4,8g"
+  "description": "4,8g",
+  "image": "/medias/sys_master/prd-images/h54/h61/34522010714142/prd-front-17025-1_600x600/prd-front-17025-1-600x600.jpg"
 }

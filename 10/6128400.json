@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Body & Fit Perfection Bar Deluxe Chocolate Caramel",
+  "code": "6128400",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6389 > 6390 > 6397",
+  "supplier": "BODY & FIT SPORTSNUTRIT",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/body-fit-perfection-bar-deluxe-chocolate-caramel/p/6128400",
+  "listName": "Lister",
+  "brand": "Body & Fit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266751,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

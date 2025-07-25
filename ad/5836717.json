@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Garnier SkinActive 10% Pure Vitamine C Anti-Pigmentvlekken Nachtserum met Hyaluronzuur",
+  "itemName": "Garnier SkinActive 10% Pure Vitamine C Anti-Pigmentvlekken Nachtserum",
   "code": "5836717",
   "price": "24.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1054390",
-  "mmkId": "1054390",
-  "productGroupId": "483915",
+  "onPromo": "1054500",
+  "mmkId": "1054500",
+  "productGroupId": "469003",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/garnier-skinactive-10-pure-vitamine-c-anti-pigmentvlekken-nachtserum-met-hyaluronzuur/p/5836717",
+  "url": "/garnier-skinactive-10-pure-vitamine-c-anti-pigmentvlekken-nachtserum/p/5836717",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
   "mpOrigin": "Kruidvat",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h32/h96/34936143183902/prd-front-5836717-1_600x600/prd-front-5836717-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/heb/hfa/34949666603038/prd-front-5836717-1_600x600/prd-front-5836717-1-600x600.jpg"
 }

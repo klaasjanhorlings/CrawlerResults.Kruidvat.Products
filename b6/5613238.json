@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4316",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054514",
+  "mmkId": "1054514",
+  "productGroupId": "497706",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/parodontax-original-mini-tandpasta/p/5613238",
@@ -25,10 +25,13 @@
       "name": "Verzorging"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/h46/ha2/34898815025182/prd-front-5613238-1_600x600/prd-front-5613238-1-600x600.jpg"
+  "description": "15ml"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Céréal  Suikerarm Koffiewafels",
+  "code": "1447083",
+  "price": "2.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6648",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cereal-suikerarm-koffiewafels/p/1447083",
+  "listName": "Lister",
+  "brand": "Cereal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30266746,
+      "name": "Verantwoorde tussendoortjes"
+    }
+  ],
+  "description": "90g",
+  "image": "/medias/prd-front-1447083-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODIzMzF8aW1hZ2UvanBlZ3xhREppTDJoaVlTOHhOREk1T0RnMU9ETTRPVFV6TkM5d2NtUXRabkp2Ym5RdE1UUTBOekE0TXkweFh6WXdNSGcyTURBfDZhMzA2ZWVhOWE0ODMxYzIyODdhZDBiM2Y2N2E4NjViZTU0NzM1MGU0MTJmZjk4M2JjNTk3MjE4OGQ1YzZmYmI"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054514",
+  "mmkId": "1054514",
+  "productGroupId": "497706",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/depend-gel-iq-yoga-gellak/p/6312584",
@@ -33,5 +33,6 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h57/h7e/34890412130334/prd-front-6312584-1_600x600/prd-front-6312584-1-600x600.jpg"
 }

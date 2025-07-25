@@ -7,7 +7,7 @@
   "priceOriginal": "144.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "DUMMY EXTERN",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h6d/h53/30087251460126/prd-front-5683763-1_600x600/prd-front-5683763-1-600x600.jpg"
 }

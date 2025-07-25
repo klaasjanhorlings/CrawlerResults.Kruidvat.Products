@@ -6,7 +6,7 @@
   "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
-  "supplier": "SPEELGOEDLAND",
+  "supplier": "DUMMY INTERN",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
@@ -29,6 +29,5 @@
       "name": "Knutselen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h34/h02/30633460760606/prd-front-6068690-1_600x600/prd-front-6068690-1-600x600.jpg"
+  "description": ""
 }

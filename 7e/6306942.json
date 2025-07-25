@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dove Body+Mind French Lavender & Oat Milk Serum Body Wash",
+  "itemName": "Dove Body+Mind French Lavender & Oat Milk Serum Body Wash Douchegel",
   "code": "6306942",
   "price": "11.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "495444",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dove-bodymind-french-lavender-oat-milk-serum-body-wash/p/6306942",
+  "url": "/dove-bodymind-french-lavender-oat-milk-serum-body-wash-douchegel/p/6306942",
   "listName": "Lister",
   "brand": "Dove",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "350ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/hd6/h8a/34947939434526/prd-front-6306942-1_600x600/prd-front-6306942-1-600x600.jpg"
 }

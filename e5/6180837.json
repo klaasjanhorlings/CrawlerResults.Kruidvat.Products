@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3202 > 4074",
   "supplier": "J-CLUB E-COMM",
-  "inStock": "inStock",
-  "onPromo": "1054238",
-  "mmkId": "1054238",
-  "productGroupId": "460412",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-30-wider-fit-leesbril/p/6180837",
@@ -33,5 +33,6 @@
       "name": "Leesbrillen"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/hb4/ha5/32709545820190/prd-front-6180837-1_600x600/prd-front-6180837-1-600x600.jpg"
 }

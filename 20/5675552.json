@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "MAXIM MARKENPRODUKTE",
   "inStock": "inStock",
-  "onPromo": "1054271",
-  "mmkId": "1054271",
-  "productGroupId": "475242",
+  "onPromo": "1054501",
+  "mmkId": "1054501",
+  "productGroupId": "469156",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-skin-science-redefinition-power-45-face-serum/p/5675552",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h4d/h24/28795627012126/prd-front-5675552-1_600x600/prd-front-5675552-1-600x600.jpg"
 }

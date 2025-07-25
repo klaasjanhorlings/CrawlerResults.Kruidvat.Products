@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6617 > 2001",
   "supplier": "L. TEN CATE BV",
-  "inStock": "inStock",
-  "onPromo": "1054379",
-  "mmkId": "1054379",
-  "productGroupId": "483740",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cotton-stretch-damesslips/p/5461527",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt L, 2 stuks"
+  "description": "zwart, mt L, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h8d/h04/27531194826782/prd-front-5461527-1_600x600/prd-front-5461527-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054514",
+  "mmkId": "1054514",
+  "productGroupId": "497706",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sensodyne-extra-fresh-gel-mini-tandpasta-mint-voor-gevoelige-tanden/p/890268",
@@ -25,12 +25,8 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266001,
-      "name": "Mondverzorging"
-    },
-    {
-      "id": 30266674,
-      "name": "Tandpasta"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "15ml",

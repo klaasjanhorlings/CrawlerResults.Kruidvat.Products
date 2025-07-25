@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1054380",
-  "mmkId": "1054380",
-  "productGroupId": "483755",
+  "onPromo": "1054500",
+  "mmkId": "1054500",
+  "productGroupId": "469003",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-p-cl-e-creme/p/1584479",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Droge huid"
+  "description": "50ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hf8/h27/34536604336158/prd-front-1584479-1_600x600/prd-front-1584479-1-600x600.jpg"
 }

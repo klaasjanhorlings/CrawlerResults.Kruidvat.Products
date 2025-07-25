@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4314",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054514",
+  "mmkId": "1054514",
+  "productGroupId": "497706",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-men-2-in-1-shampoo/p/4085054",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h55/hd7/27759575891998/prd-front-4085054-1_600x600/prd-front-4085054-1-600x600.jpg"
 }

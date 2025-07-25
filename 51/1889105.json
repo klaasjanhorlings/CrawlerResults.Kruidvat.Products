@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054508",
+  "mmkId": "1054508",
+  "productGroupId": "486174",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-eau-de-zwitsal/p/1889105",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "95ml"
+  "description": "95ml",
+  "image": "/medias/prd-front-1889105-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQ4NjB8aW1hZ2UvanBlZ3xhRGM1TDJnMFpDOHhOalUzTmpRNU1EQTNPREl6T0M5d2NtUXRabkp2Ym5RdE1UZzRPVEV3TlMweFh6WXdNSGcyTURBfDJhMTI3NTk0MTIwMGViOGZhMDRjOTIwMTlkNjhmYTFhNmU5NThiZDFlMzE4ZjA3MDM4NTVkZmEyYjMzNzJlNWQ"
 }

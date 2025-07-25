@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Céréal Suikervrije Speculaas met Stukjes Amandel",
+  "code": "462805",
+  "price": "2.75",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 4086",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cereal-suikervrije-speculaas-met-stukjes-amandel/p/462805",
+  "listName": "Lister",
+  "brand": "Cereal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30266746,
+      "name": "Verantwoorde tussendoortjes"
+    }
+  ],
+  "description": "113g",
+  "image": "/medias/prd-front-462805-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTExNDYxfGltYWdlL2pwZWd8YURRekwyZ3lZeTh4TXpjNU56YzFNVGt4TkRVeU5pOXdjbVF0Wm5KdmJuUXRORFl5T0RBMUxURmZOakF3ZURZd01BfDJlNzg2Njk2NTEwMGY4NjdkOTA1ZTcyNGEzYjA4ZmEyOWYwODg0NTZkYTRlOTc5ZDI4N2I2YzExNDRmMjYyZTk"
+}

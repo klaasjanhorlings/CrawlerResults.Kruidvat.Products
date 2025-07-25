@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054508",
+  "mmkId": "1054508",
+  "productGroupId": "486174",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/marc-jacobs-dot-eau-de-parfum/p/6007118",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/he6/h5b/29359612493854/prd-front-6007118-1_600x600/prd-front-6007118-1-600x600.jpg"
 }
