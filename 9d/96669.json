@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1054514",
-  "mmkId": "1054514",
-  "productGroupId": "497706",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-lipfinity-lip-colour-130-luscious-2-step-longlasting-lipstick/p/96669",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "2,3ml",
-  "image": "/medias/prd-front-96669-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDk2NTF8aW1hZ2UvanBlZ3xhREZpTDJnME9DOHhOekl3TWpVME56WTFORFk0Tmk5d2NtUXRabkp2Ym5RdE9UWTJOamt0TVY4Mk1EQjROakF3fDQ1NWNkZTc2ZWZkMWQ4MDg0ZGMzZDFiZjQxNTdhMmIyMWNkOGViMjcwNjZmOGIyYzYzNWU5ZWJlNDE3YzU4Yzg"
+  "description": "2,3ml"
 }

@@ -8,8 +8,8 @@
   "itemBgbcat": "2181 > 5921 > 6018 > 6741 > 6740 > 6739",
   "supplier": "HERMANEX INTERNATIONAL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha0/h47/33985788182558/prd-front-6293173-1_600x600/prd-front-6293173-1-600x600.jpg"
+  "description": ""
 }

@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Modifast Banaan Maaltijddrink",
-  "code": "3161866",
-  "price": "2.59",
+  "itemName": "WeCare Crunchy Choco Swirl Bars",
+  "code": "6119888",
+  "price": "3.05",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3600",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3435",
   "supplier": "NUTRITION&SANTE BENELX",
   "inStock": "outOfStock",
   "onPromo": "",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/modifast-banaan-maaltijddrink/p/3161866",
+  "url": "/wecare-crunchy-choco-swirl-bars/p/6119888",
   "listName": "Lister",
-  "brand": "Modifast",
+  "brand": "WeCare",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Maaltijdrepen, drinkmaaltijden"
     }
   ],
-  "description": "236ml",
-  "image": "/medias/prd-front-3161866-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODEyNjh8aW1hZ2UvanBlZ3xhR0ZpTDJneVlpOHhNRE0zTlRnM01EVTNPRGN4T0M5d2NtUXRabkp2Ym5RdE16RTJNVGcyTmkweFh6WXdNSGcyTURBfDc0NzBiMTc5OTkxMDY0Y2Y4Mzk2ZjUxZDIxNDQ1Yjc3MzBlNDNjZTVmNmYzMGNiNjIzNDc1ZDI5MDE0ZTYwOGM"
+  "description": "6 stuks",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

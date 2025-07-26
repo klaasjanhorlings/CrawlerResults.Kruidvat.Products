@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "True Spirit Stalen Horloge",
   "code": "6254218",
   "price": "7.99",
@@ -33,6 +33,5 @@
       "name": "Horloges"
     }
   ],
-  "description": "goudkleur",
-  "image": "/medias/sys_master/prd-images/h32/h59/33578533519390/prd-front-6254218-1_600x600/prd-front-6254218-1-600x600.jpg"
+  "description": "goudkleur"
 }
