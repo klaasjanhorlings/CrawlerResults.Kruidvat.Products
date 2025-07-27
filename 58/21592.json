@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Wondreiniging en/of -ontsmetting"
     }
   ],
-  "description": "Geneesmiddel - 500ml",
-  "image": "/medias/prd-front-21592-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDkwNTB8aW1hZ2UvanBlZ3xhRGswTDJnNE1TOHlOamt4TWpZMk56TXdNemsyTmk5d2NtUXRabkp2Ym5RdE1qRTFPVEl0TVY4Mk1EQjROakF3fGRmYjkzNjY5MmY1MjMyYjU0OTRlMDY0OGZjMjk3YWRiZDUwMmMwNTU5Y2MzOTYxZWMwMThlMmE2NzljM2Y4NDk"
+  "description": "Geneesmiddel - 500ml"
 }
