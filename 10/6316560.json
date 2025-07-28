@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Washandjes",
+  "code": "6316560",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 5799 > 5800 > 5926 > 6020 > 6049",
+  "supplier": "LUMAS INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-washandjes/p/6316560",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266901,
+      "name": "Huishoudelijk textiel"
+    },
+    {
+      "id": 80863144,
+      "name": "Washandjes"
+    }
+  ],
+  "description": "grijs, 16cm x 21cm, 6 stuks",
+  "image": "/medias/sys_master/prd-images/ha3/h3a/34568189313054/prd-front-6316560-1_600x600/prd-front-6316560-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1054514",
-  "mmkId": "1054514",
-  "productGroupId": "497706",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cucumber-deep-cleaning-peel-off-mask/p/5752776",
@@ -37,5 +37,6 @@
       "name": "Peel-off maskers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5752776-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTgyMzZ8aW1hZ2UvanBlZ3xhR0poTDJnMlpDOHhOalEwTVRVMU9EQTNNek0zTkM5d2NtUXRabkp2Ym5RdE5UYzFNamMzTmkweFh6WXdNSGcyTURBfDlkNWNhNDk4ZGI0MjkwZDljN2I2ZDQzNDFiMmNiM2U0Nzg4NjMwMzZmZjc2YzE5ZDNmNzBiZjUxNzg3ZjA5OGE"
 }

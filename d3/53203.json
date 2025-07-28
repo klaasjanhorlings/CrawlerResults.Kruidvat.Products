@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 6070",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aspivenin-vacuumpomp/p/53203",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h2c/h77/34971596226590/prd-front-53203-1_600x600/prd-front-53203-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf1/h32/34980334927902/prd-front-53203-1_600x600/prd-front-53203-1-600x600.jpg"
 }

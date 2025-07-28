@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 4226 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1054514",
-  "mmkId": "1054514",
-  "productGroupId": "497706",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/beauty-of-joseon-ginseng-essence-water/p/6199912",
@@ -33,5 +33,6 @@
       "name": "Essence"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h77/h46/34531894657054/prd-front-6199912-1_600x600/prd-front-6199912-1-600x600.jpg"
 }

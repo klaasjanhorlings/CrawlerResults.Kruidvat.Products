@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1054500",
-  "mmkId": "1054500",
-  "productGroupId": "469003",
+  "onPromo": "1054389",
+  "mmkId": "1054389",
+  "productGroupId": "483909",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-pureactive-micellair-water-voor-de-gevoelige-gemengde-tot-vette-huid/p/3675547",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "400ml - Gevoelige, gecombineerde en vette huid",
-  "image": "/medias/sys_master/prd-images/h34/hf3/34970461601822/prd-front-3675547-1_600x600/prd-front-3675547-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

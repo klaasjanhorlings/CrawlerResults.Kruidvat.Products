@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1054500",
-  "mmkId": "1054500",
-  "productGroupId": "469003",
+  "onPromo": "1054268",
+  "mmkId": "1054268",
+  "productGroupId": "474529",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-revitalift-filler-anti-rimpel-serum/p/5081609",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "30ml - Normale huid en alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hab/h2a/34970464485406/prd-front-5081609-1_600x600/prd-front-5081609-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

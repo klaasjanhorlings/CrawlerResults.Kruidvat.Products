@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6427",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1054511",
-  "mmkId": "1054511",
-  "productGroupId": "489096",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-professional-19mm-krultang/p/4766595",
@@ -37,5 +37,6 @@
       "name": "Krultangen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h31/h09/28242082758686/prd-front-4766595-1_600x600/prd-front-4766595-1-600x600.jpg"
 }

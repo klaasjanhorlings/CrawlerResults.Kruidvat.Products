@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "KALEGRA SAS",
   "inStock": "inStock",
-  "onPromo": "1054508",
-  "mmkId": "1054508",
-  "productGroupId": "486174",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-time-to-relax-eau-de-toilette/p/5625509",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h7b/h74/27530334765086/prd-front-5625509-1_600x600/prd-front-5625509-1-600x600.jpg"
 }

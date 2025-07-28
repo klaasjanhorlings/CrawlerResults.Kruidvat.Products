@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Amore Damesslippers",
+  "code": "6180074",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2487 > 3056 > 3904 > 5928 > 6351 > 6352",
+  "supplier": "SHOES4ALL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/amore-damesslippers/p/6180074",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266043,
+      "name": "Schoenen"
+    },
+    {
+      "id": 30266858,
+      "name": "Damesschoenen"
+    }
+  ],
+  "description": "beige, mt 40-41",
+  "image": "/medias/sys_master/prd-images/h35/h5b/32335918497822/prd-front-6180074-1_600x600/prd-front-6180074-1-600x600.jpg"
+}

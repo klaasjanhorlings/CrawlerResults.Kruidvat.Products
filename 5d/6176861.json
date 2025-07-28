@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6496 > 6508 > 6512 > 6516 > 6520",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1054514",
-  "mmkId": "1054514",
-  "productGroupId": "497706",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/ardell-undies-naked-seamless-underlash-extensions-navulverpakking/p/6176861",
@@ -33,5 +33,6 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "32 stuks"
+  "description": "32 stuks",
+  "image": "/medias/sys_master/prd-images/hcd/h1c/32086549430302/prd-front-6176861-1_600x600/prd-front-6176861-1-600x600.jpg"
 }
