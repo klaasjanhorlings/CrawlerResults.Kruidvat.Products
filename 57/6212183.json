@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gestreepte Keukendoekenset",
+  "code": "6212183",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 5798 > 5797 > 5926 > 6020 > 6048",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/gestreepte-keukendoekenset/p/6212183",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266901,
+      "name": "Huishoudelijk textiel"
+    },
+    {
+      "id": 80863125,
+      "name": "Theedoeken"
+    }
+  ],
+  "description": "beige, 3 stuks",
+  "image": "/medias/sys_master/prd-images/h41/h79/33671727677470/prd-front-6212183-1_600x600/prd-front-6212183-1-600x600.jpg"
+}

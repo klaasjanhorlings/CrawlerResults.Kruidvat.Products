@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6208 > 6226 > 6308",
   "supplier": "COBECO PHARMA WHOLESALE",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-teunisbloemolie/p/5611733",
@@ -37,5 +37,6 @@
       "name": "Vitamine E"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf5/hcb/33139241713694/prd-front-5611733-1_600x600/prd-front-5611733-1-600x600.jpg"
 }
