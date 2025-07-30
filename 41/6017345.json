@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Meta Glow 4 Duo-Chrome Eye Pencil",
-  "code": "6245692",
-  "price": "2.69",
+  "itemName": "Essence 8H Matte Comfort 09 Fiery Red Lipliner",
+  "code": "6017345",
+  "price": "1.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-meta-glow-4-duo-chrome-eye-pencil/p/6245692",
+  "url": "/essence-8h-matte-comfort-09-fiery-red-lipliner/p/6017345",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30266585,
-      "name": "Oogpotlood"
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266595,
+      "name": "Lipliner"
     }
   ],
-  "description": "2g",
-  "image": "/medias/sys_master/prd-images/h65/h60/33489905057822/prd-front-6245692-1_600x600/prd-front-6245692-1-600x600.jpg"
+  "description": "3g",
+  "image": "/medias/sys_master/prd-images/h67/h73/34685023846430/prd-front-6017345-1_600x600/prd-front-6017345-1-600x600.jpg"
 }

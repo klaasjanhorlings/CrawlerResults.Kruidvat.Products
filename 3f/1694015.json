@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Pro Age Calcium 60+ SPF30 Dagcrème",
+  "code": "1694015",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "1054269",
+  "mmkId": "1054269",
+  "productGroupId": "475220",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pro-age-calcium-60-spf30-dagcreme/p/1694015",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/hbb/hb5/34455366172702/prd-front-1694015-1_600x600/prd-front-1694015-1-600x600.jpg"
+}

@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Drunk'N Diamonds 40 Plumping Lip Balm",
-  "code": "5911778",
-  "price": "4.99",
+  "itemName": "Essence Extreme Shine 08 Gold Dust Volume Lipgloss",
+  "code": "5444678",
+  "price": "2.29",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -13,9 +13,9 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-drunkn-diamonds-40-plumping-lip-balm/p/5911778",
+  "url": "/essence-extreme-shine-08-gold-dust-volume-lipgloss/p/5444678",
   "listName": "Lister",
-  "brand": "Catrice",
+  "brand": "Essence",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,10 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30266582,
-      "name": "Lipstick"
+      "id": 30266583,
+      "name": "Lipgloss"
     }
   ],
-  "description": "3,5g",
-  "image": "/medias/sys_master/prd-images/h91/h01/29948062105630/prd-front-5911778-1_600x600/prd-front-5911778-1-600x600.jpg"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/hec/h15/34611128991774/prd-front-5444678-1_600x600/prd-front-5444678-1-600x600.jpg"
 }
