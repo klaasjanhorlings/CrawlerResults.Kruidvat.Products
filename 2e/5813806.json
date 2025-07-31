@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "SUNVAL BABY FOOD GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054373",
+  "mmkId": "1054373",
+  "productGroupId": "483574",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-8m-bio-spaghetti-bolognese-maaltijd/p/5813806",
@@ -37,5 +37,6 @@
       "name": "8+ maanden"
     }
   ],
-  "description": "380g"
+  "description": "380g",
+  "image": "/medias/prd-front-5813806-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTE5OTN8aW1hZ2UvanBlZ3xhR1EzTDJnek9TOHlOalEwTmpNM05qRXdPREEyTWk5d2NtUXRabkp2Ym5RdE5UZ3hNemd3TmkweFh6WXdNSGcyTURBfGIxMTAzZDIzMTY4MDAwZDFlNWViY2U2MzhlYTdmYWEyY2RiNTJjOWE5M2Y4NWMzMWMxNDA0MjJlZmZkYmNiNzk"
 }

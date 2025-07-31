@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054601",
+  "mmkId": "1054601",
+  "productGroupId": "480322",
   "brandType": "A of B merk",
   "discount": "€ 11,50",
   "url": "/vanish-oxi-action-vlekverwijderaar-poeder-/p/6049580",
@@ -29,6 +29,5 @@
       "name": "Vlekverwijderaars"
     }
   ],
-  "description": "940g",
-  "image": "/medias/sys_master/prd-images/h51/h69/31935181717534/prd-front-6049580-1_600x600/prd-front-6049580-1-600x600.jpg"
+  "description": "940g"
 }

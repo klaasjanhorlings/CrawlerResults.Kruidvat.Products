@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "1054388",
-  "mmkId": "1054388",
-  "productGroupId": "483903",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-age-perfect-cell-renaissance-midnight-nachtcreme/p/5780668",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h4d/h91/34613298921502/prd-front-5780668-1_600x600/prd-front-5780668-1-600x600.jpg"
 }
