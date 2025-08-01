@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Star Wars Wild Ridin' Grogu",
+  "code": "6305262",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2140 > 5153 > 5581 > 5611 > 5921 > 6040",
+  "supplier": "OSTOY TRADING B.V.",
+  "inStock": "inStock",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/star-wars-wild-ridin-grogu/p/6305262",
+  "listName": "Lister",
+  "brand": "Star Wars",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

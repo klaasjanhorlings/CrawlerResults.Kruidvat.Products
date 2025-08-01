@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Hydro Gel Ice, Eyes Baby! Eye Patches",
-  "code": "6017205",
-  "price": "7.99",
+  "itemName": "Yeauty Energy Elixir Oogmaskers",
+  "code": "5726533",
+  "price": "1.0",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 6134 > 6135 > 6133",
-  "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "Exclusief merk",
+  "brandType": "A of B merk",
   "discount": "",
-  "url": "/essence-hydro-gel-ice-eyes-baby-eye-patches/p/6017205",
+  "url": "/yeauty-energy-elixir-oogmaskers/p/5726533",
   "listName": "Lister",
-  "brand": "Essence",
+  "brand": "Yeauty",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,6 +37,6 @@
       "name": "Oogmaskers"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/hcb/hf7/34676557021214/prd-front-6017205-1_600x600/prd-front-6017205-1-600x600.jpg"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h61/hdc/33766096797726/prd-front-5726533-1_600x600/prd-front-5726533-1-600x600.jpg"
 }

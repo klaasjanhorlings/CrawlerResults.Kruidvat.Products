@@ -25,9 +25,18 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677212,
+      "name": "Reinigingsolie"
     }
   ],
-  "description": "473ml"
+  "description": "473ml",
+  "image": "/medias/sys_master/prd-images/h0b/ha1/34456591695902/prd-front-6308538-1_600x600/prd-front-6308538-1-600x600.jpg"
 }

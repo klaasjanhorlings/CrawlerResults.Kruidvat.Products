@@ -21,18 +21,13 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266609,
-      "name": "Lippenbalsem"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/had/hfe/33895267205150/prd-front-6300544-1_600x600/prd-front-6300544-1-600x600.jpg"
+  "description": "10ml"
 }

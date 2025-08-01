@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 6604",
   "supplier": "GREEN SOAP COMPANY BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054398",
+  "mmkId": "1054398",
+  "productGroupId": "484530",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/marcels-green-soap-vanilla-cherry-blossom-shower-bar/p/5423216",
@@ -33,6 +33,5 @@
       "name": "Zeepbar"
     }
   ],
-  "description": "150g",
-  "image": "/medias/sys_master/prd-images/hc5/h12/28949305458718/prd-front-5423216-1_600x600/prd-front-5423216-1-600x600.jpg"
+  "description": "150g"
 }
