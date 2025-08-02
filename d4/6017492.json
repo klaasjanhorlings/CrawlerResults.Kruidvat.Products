@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Cateyes! 01 Catwalk False Lashes",
-  "code": "6123024",
-  "price": "2.99",
+  "itemName": "Essence Blush Crush 60 Lovely Lilac Blush",
+  "code": "6017492",
+  "price": "2.69",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6103 > 6104",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-cateyes-01-catwalk-false-lashes/p/6123024",
+  "url": "/essence-blush-crush-60-lovely-lilac-blush/p/6017492",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -25,13 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30265992,
-      "name": "Make-up accessoires"
+      "id": 30265987,
+      "name": "Make-up"
     },
     {
-      "id": 30266615,
-      "name": "Nepwimpers"
+      "id": 30266577,
+      "name": "Foundation"
     }
   ],
-  "description": ""
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/had/h90/34682303774750/prd-front-6017492-1_600x600/prd-front-6017492-1-600x600.jpg"
 }

@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Heart Core 01 Crazy Cherry Fruity Lip Balm",
-  "code": "5608422",
-  "price": "1.79",
+  "itemName": "Essence Meta Glow 4 Duo-Chrome Eye Pencil",
+  "code": "6245692",
+  "price": "2.69",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-heart-core-01-crazy-cherry-fruity-lip-balm/p/5608422",
+  "url": "/essence-meta-glow-4-duo-chrome-eye-pencil/p/6245692",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 87391909,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 30266582,
-      "name": "Lipstick"
+      "id": 30266585,
+      "name": "Oogpotlood"
     }
   ],
-  "description": "3g, 01",
-  "image": "/medias/sys_master/prd-images/h57/h8b/34607048032286/prd-front-5608422-1_600x600/prd-front-5608422-1-600x600.jpg"
+  "description": "2g",
+  "image": "/medias/sys_master/prd-images/h65/h60/33489905057822/prd-front-6245692-1_600x600/prd-front-6245692-1-600x600.jpg"
 }

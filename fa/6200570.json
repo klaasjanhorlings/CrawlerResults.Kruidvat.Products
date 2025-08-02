@@ -25,21 +25,18 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
     },
     {
-      "id": 90761979,
-      "name": "Korean gezichtsreiniging"
-    },
-    {
-      "id": 90766123,
-      "name": "Korean reinigingsmousse"
+      "id": 50676912,
+      "name": "Reinigingsmousse"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h0e/h96/32249173114910/prd-front-6200570-1_600x600/prd-front-6200570-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2261 > 2607 > 6385 > 6386 > 6397",
   "supplier": "MONDELEZ NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/grenade-salted-peanut-proteinereep/p/5946806",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "60g",
-  "image": "/medias/sys_master/prd-images/hec/h37/35032426348574/prd-front-5946806-1_600x600/prd-front-5946806-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hcb/h38/35042435301406/prd-front-5946806-1_600x600/prd-front-5946806-1-600x600.jpg"
 }

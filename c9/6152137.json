@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 5690 > 5691 > 5692",
   "supplier": "BRANSUS COSM ULTIMATCH",
-  "inStock": "inStock",
-  "onPromo": "1050801",
-  "mmkId": "1050801",
-  "productGroupId": "483557",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-beauty-innovatiebox/p/6152137",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 30265987,
+      "name": "Make-up"
     },
     {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266589,
+      "name": "Highlighter"
     }
   ],
   "description": "Alleen online",

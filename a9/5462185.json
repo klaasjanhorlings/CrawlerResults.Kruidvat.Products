@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Cotton Stretch Dameshipsters",
-  "code": "5461590",
-  "price": "4.99",
+  "itemName": "Kruidvat Invisible Brazilian Damesslips",
+  "code": "5462185",
+  "price": "7.99",
   "priceOriginal": "",
-  "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6617 > 2001",
+  "itemBgbcat": "2001 > 2095 > 2150 > 2644 > 6616 > 6619",
   "supplier": "L. TEN CATE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054379",
+  "mmkId": "1054379",
+  "productGroupId": "483740",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-cotton-stretch-dameshipsters/p/5461590",
+  "url": "/kruidvat-invisible-brazilian-damesslips/p/5462185",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "zwart, mt L, 2 stuks",
-  "image": "/medias/sys_master/prd-images/hb5/h3c/27540573028382/prd-front-5461590-1_600x600/prd-front-5461590-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7c/hbf/27500256034846/prd-front-5462185-1_600x600/prd-front-5462185-1-600x600.jpg"
 }

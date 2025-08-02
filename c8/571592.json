@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Diadermine Lift+ Boost Éclat Oogcrème",
-  "code": "6225273",
-  "price": "21.99",
+  "itemName": "Diadermine Rimpel Expert 3D Pro-Hyaluron Dagcrème",
+  "code": "571592",
+  "price": "5.0",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
   "onPromo": "1054260",
@@ -13,7 +13,7 @@
   "productGroupId": "473103",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/diadermine-lift-boost-eclat-oogcreme/p/6225273",
+  "url": "/diadermine-rimpel-expert-3d-pro-hyaluron-dagcreme/p/571592",
   "listName": "Lister",
   "brand": "Diadermine",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Skincare"
     },
     {
-      "id": 30266604,
-      "name": "Oogcreme"
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/hef/h7d/32583509934110/prd-front-6225273-1_600x600/prd-front-6225273-1-600x600.jpg"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/ha0/hd6/27236322607134/prd-front-571592-1_600x600/prd-front-571592-1-600x600.jpg"
 }

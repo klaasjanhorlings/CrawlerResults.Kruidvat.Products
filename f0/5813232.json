@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "SUNVAL BABY FOOD GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054373",
+  "mmkId": "1054373",
+  "productGroupId": "483574",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-8m-bio-peer-pruim-abrikoos-fruithapje/p/5813232",
@@ -37,5 +37,6 @@
       "name": "8 maanden +"
     }
   ],
-  "description": "380g"
+  "description": "380g",
+  "image": "/medias/prd-front-5813232-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODkwODJ8aW1hZ2UvanBlZ3xhR05qTDJnME5TOHlOalF4TVRreU5UVXpOamM1T0M5d2NtUXRabkp2Ym5RdE5UZ3hNekl6TWkweFh6WXdNSGcyTURBfDMwYTk5NTk1YWEzMWZkZWY3NmYyZDRhODU4OGIzNzQyYzBmYTFlMGZlMzM5NjRkMmVmZTE5ZWJkMjU3ZDkwZTQ"
 }
