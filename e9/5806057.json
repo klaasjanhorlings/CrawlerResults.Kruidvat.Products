@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h30/h14/35040639287326/prd-front-5806057-1_600x600/prd-front-5806057-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h13/hfc/35050993778718/prd-front-5806057-1_600x600/prd-front-5806057-1-600x600.jpg"
 }

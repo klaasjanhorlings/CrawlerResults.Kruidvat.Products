@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ALLMATTERS APS",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054208",
+  "mmkId": "1054208",
+  "productGroupId": "487276",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/allmatters-menstruatiecup/p/4248791",
@@ -33,5 +33,6 @@
       "name": "Menstruatiecups"
     }
   ],
-  "description": "Size A"
+  "description": "Size A",
+  "image": "/medias/sys_master/prd-images/hcf/h34/27781213814814/prd-front-4248791-1_600x600/prd-front-4248791-1-600x600.jpg"
 }
