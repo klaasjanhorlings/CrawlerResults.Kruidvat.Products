@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1054288",
-  "mmkId": "1054288",
-  "productGroupId": "477581",
+  "onPromo": "1054714",
+  "mmkId": "1054714",
+  "productGroupId": "483926",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-regenerist-active-firming-oogcreme/p/6215655",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h7c/hcc/33279053496350/prd-front-6215655-1_600x600/prd-front-6215655-1-600x600.jpg"
 }

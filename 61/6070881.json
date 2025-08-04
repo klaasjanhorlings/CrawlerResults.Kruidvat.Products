@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1054281",
-  "mmkId": "1054281",
-  "productGroupId": "476457",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-africa-3-in-1-douchegel/p/6070881",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "700ml",
-  "image": "/medias/sys_master/prd-images/h82/hb5/33408973275166/prd-front-6070881-1_600x600/prd-front-6070881-1-600x600.jpg"
+  "description": "700ml"
 }

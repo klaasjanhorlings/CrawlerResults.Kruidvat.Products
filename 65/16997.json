@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054808",
+  "mmkId": "1054808",
+  "productGroupId": "493103",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-oogreinigingslotion/p/16997",
@@ -37,6 +37,5 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "125ml",
-  "image": "/medias/prd-front-16997-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTE5OTV8aW1hZ2UvanBlZ3xhREZsTDJnd015OHhOelEwTlRReE5EazJNVEU0TWk5d2NtUXRabkp2Ym5RdE1UWTVPVGN0TVY4Mk1EQjROakF3fDMzMjYzYTkyOTUwZTM0ZTNjMjMyOTNlMmJjYzU0NzRlMGU4NzE0ZDg1ZDdmNjNiZDc3MzgwZDNjOTQ4ZDRlYmM"
+  "description": "125ml"
 }

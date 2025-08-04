@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Palmolive Naturals Delicate Care Crème Douche avec Pulvérisateur",
+  "code": "2883707",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "1054684",
+  "mmkId": "1054684",
+  "productGroupId": "479738",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/palmolive-naturals-delicate-care-creme-douche-avec-pulverisateur/p/2883707",
+  "listName": "Lister",
+  "brand": "Palmolive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266647,
+      "name": "Douchecrème"
+    }
+  ],
+  "description": "750ml",
+  "image": "/medias/sys_master/prd-images/h34/h3c/31996532326430/prd-front-2883707-1_600x600/prd-front-2883707-1-600x600.jpg"
+}

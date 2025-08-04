@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Venco Fruitige Dropmix",
+  "code": "6151682",
+  "price": "2.49",
+  "priceOriginal": "3.49",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 2741 > 3443",
+  "supplier": "CLOETTA HOLLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,00",
+  "url": "/venco-fruitige-dropmix/p/6151682",
+  "listName": "Lister",
+  "brand": "Venco",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267026,
+      "name": "Snoep"
+    }
+  ],
+  "description": "400g",
+  "image": "/medias/sys_master/prd-images/h23/he3/31566384627742/prd-front-6151682-1_600x600/prd-front-6151682-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1054237",
-  "mmkId": "1054237",
-  "productGroupId": "459980",
+  "onPromo": "1054689",
+  "mmkId": "1054689",
+  "productGroupId": "480153",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-antiroos-deep-caring-shampoo/p/6240680",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "440ml"
+  "description": "440ml",
+  "image": "/medias/sys_master/prd-images/h95/he2/33578413654046/prd-front-6240680-1_600x600/prd-front-6240680-1-600x600.jpg"
 }

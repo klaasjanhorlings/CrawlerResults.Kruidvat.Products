@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1054268",
-  "mmkId": "1054268",
-  "productGroupId": "474529",
+  "onPromo": "1054808",
+  "mmkId": "1054808",
+  "productGroupId": "493103",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-revitalift-filler-oogserum/p/5583439",
@@ -37,5 +37,6 @@
       "name": "Oogserum"
     }
   ],
-  "description": "20ml - Alle huidtypen"
+  "description": "20ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h90/h69/34986429382686/prd-front-5583439-1_600x600/prd-front-5583439-1-600x600.jpg"
 }

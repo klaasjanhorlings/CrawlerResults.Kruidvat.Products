@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hair Hacks Ocean View Haarcuff",
+  "code": "6302938",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6323 > 6674",
+  "supplier": "THE BRANDSTUDIO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hair-hacks-ocean-view-haarcuff/p/6302938",
+  "listName": "Lister",
+  "brand": "Hair Hacks",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265993,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30266623,
+      "name": "Haarelastiekjes"
+    }
+  ],
+  "description": "goudkleurig",
+  "image": "/medias/sys_master/prd-images/h4f/h52/34113417936926/prd-front-6302938-1_600x600/prd-front-6302938-1-600x600.jpg"
+}

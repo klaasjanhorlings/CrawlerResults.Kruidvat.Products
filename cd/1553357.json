@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 2839 > 3579",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "1054402",
-  "mmkId": "1054402",
-  "productGroupId": "485227",
+  "onPromo": "1053210",
+  "mmkId": "1053210",
+  "productGroupId": "497908",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/veet-in-shower-ontharingscreme-voor-de-gevoelige-huid/p/1553357",
@@ -33,5 +33,6 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hb2/h6e/33555839615006/prd-front-1553357-1_600x600/prd-front-1553357-1-600x600.jpg"
 }

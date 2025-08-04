@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 3272 > 4173",
   "supplier": "GEOCOS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054803",
+  "mmkId": "1054803",
+  "productGroupId": "493026",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-ontharingsstrips-voor-bikinilijn/p/2522948",
@@ -33,6 +33,5 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/h8d/h70/27324967157790/prd-front-2522948-1_600x600/prd-front-2522948-1-600x600.jpg"
+  "description": "20 stuks"
 }

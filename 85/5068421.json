@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "ORCHARD BV",
   "inStock": "inStock",
-  "onPromo": "1054452",
-  "mmkId": "1054452",
-  "productGroupId": "489859",
+  "onPromo": "1054716",
+  "mmkId": "1054716",
+  "productGroupId": "484223",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-velvet-glow-010-pastel-peach-baked-blush/p/5068421",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "6g"
+  "description": "6g",
+  "image": "/medias/sys_master/prd-images/hab/h3a/33758500519966/prd-front-5068421-1_600x600/prd-front-5068421-1-600x600.jpg"
 }

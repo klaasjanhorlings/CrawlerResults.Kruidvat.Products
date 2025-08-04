@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1054267",
-  "mmkId": "1054267",
-  "productGroupId": "474473",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/bye-bye-blemish-tea-tree-drying-lotion/p/5778806",
@@ -37,6 +37,5 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/prd-front-5778806-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ4NDF8aW1hZ2UvanBlZ3xhR1prTDJneU55OHhOelEwTmpBNU5UZzRNREl5TWk5d2NtUXRabkp2Ym5RdE5UYzNPRGd3TmkweFh6WXdNSGcyTURBfDc5NjY2ZWZmZjk3ZjhhOTcxNTI0YjE0ZjJjZGUxZTkzZTE1NjhjOGMzY2RkYTc3Y2Q3NjNiYTRmZTNlN2JlOWI"
+  "description": "30ml"
 }

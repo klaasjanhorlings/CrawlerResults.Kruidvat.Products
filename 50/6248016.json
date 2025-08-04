@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gillette Fusion5 Scheermesjes",
   "code": "6248016",
-  "price": "37.99",
-  "priceOriginal": "97.95",
+  "price": "97.95",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "1054434",
-  "mmkId": "1054434",
-  "productGroupId": "487448",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 59,96",
+  "discount": "",
   "url": "/gillette-fusion5-scheermesjes/p/6248016",
   "listName": "Lister",
   "brand": "Gillette",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "16 stuks"
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/h20/hc8/33334859202590/prd-front-6248016-1_600x600/prd-front-6248016-1-600x600.jpg"
 }

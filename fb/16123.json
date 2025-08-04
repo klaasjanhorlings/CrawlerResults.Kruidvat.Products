@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1054701",
+  "mmkId": "1054701",
+  "productGroupId": "482616",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-echinaforce-tabletten/p/16123",
@@ -33,5 +33,6 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "200 stuks"
+  "description": "200 stuks",
+  "image": "/medias/sys_master/prd-images/hd8/hf5/32574519181342/prd-front-16123-1_600x600/prd-front-16123-1-600x600.jpg"
 }

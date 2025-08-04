@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "BOLTON NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054649",
+  "mmkId": "1054649",
+  "productGroupId": "463302",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/chilly-delicate-intieme-wasemulsie/p/5896273",
@@ -33,6 +33,5 @@
       "name": "Intieme hygiëne"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h68/h1f/34040456249374/prd-front-5896273-1_600x600/prd-front-5896273-1-600x600.jpg"
+  "description": "200ml"
 }

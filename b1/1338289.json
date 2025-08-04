@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1054306",
-  "mmkId": "1054306",
-  "productGroupId": "480068",
+  "onPromo": "1054647",
+  "mmkId": "1054647",
+  "productGroupId": "462787",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-styling-verrassend-volume-mousse/p/1338289",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h88/h49/28023849386014/prd-front-1338289-1_600x600/prd-front-1338289-1-600x600.jpg"
 }

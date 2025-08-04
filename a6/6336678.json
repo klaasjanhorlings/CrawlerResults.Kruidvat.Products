@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Xelly Beauty Sweet Pop Blush",
+  "code": "6336678",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "BRANSUS COSM ULTIMATCH",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/xelly-beauty-sweet-pop-blush/p/6336678",
+  "listName": "Lister",
+  "brand": "XELLY BEAUTY",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266590,
+      "name": "Blush"
+    }
+  ],
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/h75/hc9/35008835387422/prd-front-6336678-1_600x600/prd-front-6336678-1-600x600.jpg"
+}

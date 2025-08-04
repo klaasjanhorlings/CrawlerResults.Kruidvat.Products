@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1054252",
-  "mmkId": "1054252",
-  "productGroupId": "471182",
+  "onPromo": "1054657",
+  "mmkId": "1054657",
+  "productGroupId": "471181",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-stress-protect-antitranspirant-spray/p/2739402",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h2e/h7f/34357248032798/prd-front-2739402-1_600x600/prd-front-2739402-1-600x600.jpg"
 }

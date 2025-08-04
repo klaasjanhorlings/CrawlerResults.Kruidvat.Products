@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dubbele Fietstas met Panterprint",
+  "code": "6276905",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6418",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/dubbele-fietstas-met-panterprint/p/6276905",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "36,5cm x 14cm x 30cm"
+}

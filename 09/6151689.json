@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Venco Zacht & Zoet Dropmix",
+  "code": "6151689",
+  "price": "2.49",
+  "priceOriginal": "3.49",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 2741 > 3443",
+  "supplier": "CLOETTA HOLLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,00",
+  "url": "/venco-zacht-zoet-dropmix/p/6151689",
+  "listName": "Lister",
+  "brand": "Venco",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267026,
+      "name": "Snoep"
+    }
+  ],
+  "description": "440g",
+  "image": "/medias/sys_master/prd-images/h86/haf/31566383513630/prd-front-6151689-1_600x600/prd-front-6151689-1-600x600.jpg"
+}

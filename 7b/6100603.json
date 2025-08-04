@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Brainbox Pocket Gevaarlijke Dieren Geheugenspel",
+  "code": "6100603",
+  "price": "4.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
+  "supplier": "ASMODEE THE NETHERLANDS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 3,00",
+  "url": "/brainbox-pocket-gevaarlijke-dieren-geheugenspel/p/6100603",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hee/h3e/34889977102366/prd-front-6100603-1_600x600/prd-front-6100603-1-600x600.jpg"
+}

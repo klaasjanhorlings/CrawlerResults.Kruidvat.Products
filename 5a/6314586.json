@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "TMC Multishakemaker",
+  "code": "6314586",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 4901 > 4947 > 4993 > 5929 > 6019",
+  "supplier": "THE MERCHANDISE CLUB BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/tmc-multishakemaker/p/6314586",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053282,
+      "name": "Keukenapparatuur"
+    },
+    {
+      "id": 75053688,
+      "name": "Keukenmachines en mixers"
+    },
+    {
+      "id": 84926375,
+      "name": "Blenders"
+    }
+  ],
+  "description": "crèmekleurig",
+  "image": "/medias/sys_master/prd-images/hc9/h75/34237320953886/prd-front-6314586-1_600x600/prd-front-6314586-1-600x600.jpg"
+}

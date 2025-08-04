@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1054423",
-  "mmkId": "1054423",
-  "productGroupId": "487335",
+  "onPromo": "1054761",
+  "mmkId": "1054761",
+  "productGroupId": "491067",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/colgate-max-white-white-crystals-tandpasta/p/1269325",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Whitening",
-  "image": "/medias/sys_master/prd-images/h2d/h2d/30584843108382/prd-front-1269325-1_600x600/prd-front-1269325-1-600x600.jpg"
+  "description": "75ml - Whitening"
 }

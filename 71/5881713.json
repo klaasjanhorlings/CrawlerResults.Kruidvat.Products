@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 4018",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1054423",
-  "mmkId": "1054423",
-  "productGroupId": "487335",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/colgate-max-white-led-whitening-kit-pen/p/5881713",
@@ -33,6 +33,5 @@
       "name": "Whitening producten"
     }
   ],
-  "description": "Whitening",
-  "image": "/medias/sys_master/prd-images/h6e/hd1/33905674387486/prd-front-5881713-1_600x600/prd-front-5881713-1-600x600.jpg"
+  "description": "Whitening"
 }

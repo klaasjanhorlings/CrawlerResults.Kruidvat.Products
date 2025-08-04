@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hair Hacks Ocean View Schelpvormige Haarklemmetjes",
+  "code": "6302896",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6323 > 6674",
+  "supplier": "THE BRANDSTUDIO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hair-hacks-ocean-view-schelpvormige-haarklemmetjes/p/6302896",
+  "listName": "Lister",
+  "brand": "Hair Hacks",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265993,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30266626,
+      "name": "Haarklemmen"
+    }
+  ],
+  "description": "blauw, goudkleur",
+  "image": "/medias/sys_master/prd-images/hc1/hda/34114437480478/prd-front-6302896-1_600x600/prd-front-6302896-1-600x600.jpg"
+}

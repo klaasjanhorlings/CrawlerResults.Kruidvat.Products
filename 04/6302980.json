@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hair Hacks Ocean View Gestippelde Scrunchie",
+  "code": "6302980",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6326 > 6674",
+  "supplier": "THE BRANDSTUDIO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hair-hacks-ocean-view-gestippelde-scrunchie/p/6302980",
+  "listName": "Lister",
+  "brand": "Hair Hacks",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265993,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30266623,
+      "name": "Haarelastiekjes"
+    }
+  ],
+  "description": "bruin",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

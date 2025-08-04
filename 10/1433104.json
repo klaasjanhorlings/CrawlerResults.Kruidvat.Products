@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054680",
+  "mmkId": "1054680",
+  "productGroupId": "478269",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sebamed-alledag-zeepvrije-shampoo/p/1433104",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h09/h6c/30557244555294/prd-front-1433104-1_600x600/prd-front-1433104-1-600x600.jpg"
+  "description": "200ml"
 }

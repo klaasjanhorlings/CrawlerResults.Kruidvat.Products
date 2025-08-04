@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "1054326",
-  "mmkId": "1054326",
-  "productGroupId": "481494",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-hydro-boost-aqua-gel/p/4726702",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Normale en (acne)gevoelige huid"
+  "description": "50ml - Normale en (acne)gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hf2/h06/34375301070878/prd-front-4726702-1_600x600/prd-front-4726702-1-600x600.jpg"
 }
