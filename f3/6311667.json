@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips Series 5000 S5885/50 Scheerapparaat",
+  "code": "6311667",
+  "price": "99.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6441 > 6672 > 6673",
+  "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
+  "inStock": "inStock",
+  "onPromo": "1054814",
+  "mmkId": "1054814",
+  "productGroupId": "493418",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-series-5000-s5885/50-scheerapparaat/p/6311667",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266679,
+      "name": "Scheerapparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb3/h6f/34872148131870/prd-front-6311667-1_600x600/prd-front-6311667-1-600x600.jpg"
+}

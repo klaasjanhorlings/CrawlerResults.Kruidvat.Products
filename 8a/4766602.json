@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6427",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Krultangen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0a/h1c/28238028996638/prd-front-4766602-1_600x600/prd-front-4766602-1-600x600.jpg"
 }

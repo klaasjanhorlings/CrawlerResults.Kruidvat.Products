@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Zwitsal Baby Zeepvrije Wasgel",
+  "itemName": "Zwitsal Baby Zeepvrije Mini Wasgel",
   "code": "34962",
   "price": "2.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/zwitsal-baby-zeepvrije-wasgel/p/34962",
+  "url": "/zwitsal-baby-zeepvrije-mini-wasgel/p/34962",
   "listName": "Lister",
   "brand": "Zwitsal",
   "mpOrigin": "Kruidvat",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266016,
-      "name": "Babyverzorging"
-    },
-    {
-      "id": 30266777,
-      "name": "Baby bad- en doucheverzorging"
-    },
-    {
-      "id": 30267021,
-      "name": "Babywasgel"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "75ml",

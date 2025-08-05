@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2317 > 2718 > 3421 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1031971",
+  "mmkId": "1031971",
+  "productGroupId": "381442",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-xl-hydrofiele-doek/p/6284570",
@@ -33,6 +33,5 @@
       "name": "Babyaccessoires"
     }
   ],
-  "description": "bruin, 120cm x 120cm",
-  "image": "/medias/sys_master/prd-images/he0/h36/33671740325918/prd-front-6284570-1_600x600/prd-front-6284570-1-600x600.jpg"
+  "description": "bruin, 120cm x 120cm"
 }

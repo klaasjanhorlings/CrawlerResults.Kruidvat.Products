@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Nicotine Mint 4mg Kauwgom",
+  "itemName": "Kruidvat Nicotine Mint 4mg Suikervrij Kauwgom",
   "code": "2708196",
   "price": "7.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-nicotine-mint-4mg-kauwgom/p/2708196",
+  "url": "/kruidvat-nicotine-mint-4mg-suikervrij-kauwgom/p/2708196",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -37,5 +37,6 @@
       "name": "Nicotinekauwgom"
     }
   ],
-  "description": "Geneesmiddel - 24 stuks"
+  "description": "Geneesmiddel - 24 stuks",
+  "image": "/medias/sys_master/prd-images/h1e/hc9/32164481269790/prd-front-2708196-1_600x600/prd-front-2708196-1-600x600.jpg"
 }

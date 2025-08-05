@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "ELF BEAUTY UK LIMITED",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "6,8ml"
+  "description": "6,8ml",
+  "image": "/medias/sys_master/prd-images/h87/h89/34287315419166/prd-front-6276072-1_600x600/prd-front-6276072-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6320 > 6674",
   "supplier": "NEW FLAG BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "1054652",
-  "mmkId": "1054652",
-  "productGroupId": "465477",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tangle-teezer-rose-detangling-hairbrush/p/5939484",
@@ -33,5 +33,6 @@
       "name": "Haarborstels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h92/h72/30948420190238/prd-front-5939484-1_600x600/prd-front-5939484-1-600x600.jpg"
 }
