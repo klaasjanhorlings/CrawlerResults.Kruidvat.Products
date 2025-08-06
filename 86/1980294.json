@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054668",
+  "mmkId": "1054668",
+  "productGroupId": "475316",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-all-eyes-on-me-01-soft-black-multi-effect-mascara/p/1980294",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hc6/h65/34685000974366/prd-front-1980294-1_600x600/prd-front-1980294-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb3/h8f/35072029065246/prd-front-1980294-1_600x600/prd-front-1980294-1-600x600.jpg"
 }

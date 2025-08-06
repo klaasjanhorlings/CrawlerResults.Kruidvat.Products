@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2038 > 2157 > 2385 > 2827 > 4088",
   "supplier": "CURATEX GMBH (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1054857",
-  "mmkId": "1054857",
-  "productGroupId": "495629",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-100-cotton-bio-wattenschijfjes/p/2400399",
@@ -33,5 +33,6 @@
       "name": "Wattenschijfjes en staafjes"
     }
   ],
-  "description": "80 stuks"
+  "description": "80 stuks",
+  "image": "/medias/sys_master/prd-images/hb2/hdb/27403728355358/prd-front-2400399-1_600x600/prd-front-2400399-1-600x600.jpg"
 }

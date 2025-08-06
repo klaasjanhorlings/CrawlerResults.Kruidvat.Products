@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robo Smart Puppy",
+  "code": "6316441",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 5177 > 5271 > 5460 > 5921 > 6040",
+  "supplier": "SPECTRON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/robo-smart-puppy/p/6316441",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6a/hd4/34868991262750/prd-front-6316441-1_600x600/prd-front-6316441-1-600x600.jpg"
+}

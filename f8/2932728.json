@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054662",
+  "mmkId": "1054662",
+  "productGroupId": "473136",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/diadermine-express-3-in-1-reinigingsdoekjes/p/2932728",
@@ -37,5 +37,6 @@
       "name": "Reinigingsdoekjes"
     }
   ],
-  "description": "40 stuks"
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/h0e/h61/27252720304158/prd-front-2932728-1_600x600/prd-front-2932728-1-600x600.jpg"
 }
