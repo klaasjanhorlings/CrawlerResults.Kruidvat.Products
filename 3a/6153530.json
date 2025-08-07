@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2153 > 2632 > 5929 > 6014 > 6421 > 6446",
   "supplier": "I-STAR WORLD BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Telefoonkabeltjes"
     }
   ],
-  "description": "1,25m",
-  "image": "/medias/sys_master/prd-images/ha4/h8d/33409669693470/prd-front-6153530-1_600x600/prd-front-6153530-1-600x600.jpg"
+  "description": "1,25m"
 }

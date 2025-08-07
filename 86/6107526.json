@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Speed Champions 76934 Ferrari F40",
   "code": "6107526",
   "price": "24.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Verjaardagscadeaus"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h61/h7b/31270268665886/prd-front-6107526-1_600x600/prd-front-6107526-1-600x600.jpg"
 }

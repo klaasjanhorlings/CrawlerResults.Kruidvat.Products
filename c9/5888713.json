@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Goliath That's Life Gallery Edition Alma Tadema Puzzel",
   "code": "5888713",
   "price": "6.99",
@@ -29,6 +29,5 @@
       "name": "Puzzels"
     }
   ],
-  "description": "1000 stukjes",
-  "image": "/medias/sys_master/prd-images/hef/hbc/31724909461534/prd-front-5888713-1_600x600/prd-front-5888713-1-600x600.jpg"
+  "description": "1000 stukjes"
 }

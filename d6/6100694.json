@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L.O.L. Voorgevormde Etui",
   "code": "6100694",
   "price": "3.99",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h43/hb9/33140026408990/prd-front-6100694-1_600x600/prd-front-6100694-1-600x600.jpg"
 }

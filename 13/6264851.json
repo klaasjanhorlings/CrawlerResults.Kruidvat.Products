@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054797",
+  "mmkId": "1054797",
+  "productGroupId": "492681",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-excellence-creme-641-hazelnoot-permanente-haarkleuring/p/6264851",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hd6/h95/33364090617886/prd-front-6264851-1_600x600/prd-front-6264851-1-600x600.jpg"
+  "description": ""
 }

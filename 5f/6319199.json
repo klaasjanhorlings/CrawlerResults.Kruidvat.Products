@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Stitch 3-in-1 Puzzel",
   "code": "6319199",
   "price": "4.99",
@@ -29,5 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h51/h9f/34687147245598/prd-front-6319199-1_600x600/prd-front-6319199-1-600x600.jpg"
 }

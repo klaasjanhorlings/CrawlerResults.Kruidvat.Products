@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Batman 76303 Batman Tumbler vs. Two-Face en The Joker",
   "code": "6232287",
   "price": "54.99",
@@ -30,7 +30,7 @@
     },
     {
       "id": 69040785,
-      "name": "LEGO Films"
+      "name": "LEGO Films en series"
     }
   ],
   "description": "",

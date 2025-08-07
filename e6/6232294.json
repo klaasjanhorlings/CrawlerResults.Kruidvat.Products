@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Jurassic World 76969 Dinosaurusfossielen: Triceratops Schedel",
   "code": "6232294",
   "price": "40.99",
@@ -30,7 +30,7 @@
     },
     {
       "id": 69040785,
-      "name": "LEGO Films"
+      "name": "LEGO Films en series"
     }
   ],
   "description": "",

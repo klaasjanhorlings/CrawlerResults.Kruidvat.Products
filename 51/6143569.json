@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "South Park Kenny Vinyl Figuur",
   "code": "6143569",
   "price": "4.99",
@@ -12,7 +12,7 @@
   "mmkId": "1025309",
   "productGroupId": "",
   "brandType": "Ander merk",
-  "discount": "€ 5,00",
+  "discount": "$ 5,00",
   "url": "/south-park-kenny-vinyl-figuur/p/6143569",
   "listName": "Lister",
   "brand": "Overig",
@@ -33,5 +33,6 @@
       "name": "Actie- en verzamelfiguren"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hde/h17/31843315122206/prd-front-6143569-1_600x600/prd-front-6143569-1-600x600.jpg"
 }

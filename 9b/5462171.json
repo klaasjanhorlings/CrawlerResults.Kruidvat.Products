@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6621 > 2001",
   "supplier": "L. TEN CATE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054767",
+  "mmkId": "1054767",
+  "productGroupId": "491241",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-invisible-shape-highwaist-damesslip/p/5462171",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt XL"
+  "description": "zwart, mt XL",
+  "image": "/medias/sys_master/prd-images/hc2/h86/27499019108382/prd-front-5462171-1_600x600/prd-front-5462171-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "SUNVAL BABY FOOD GMBH",
-  "inStock": "inStock",
-  "onPromo": "1054806",
-  "mmkId": "1054806",
-  "productGroupId": "493065",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-8m-bio-groenten-pasta-kip-maaltijd/p/5813365",
@@ -37,6 +37,5 @@
       "name": "8+ maanden"
     }
   ],
-  "description": "380g",
-  "image": "/medias/prd-front-5813365-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTAwOTJ8aW1hZ2UvanBlZ3xhRE5oTDJoak5TOHlOall5TlRZeU9URTFPVFExTkM5d2NtUXRabkp2Ym5RdE5UZ3hNek0yTlMweFh6WXdNSGcyTURBfGRiYjRlY2FkMWU4Yzc0ZTViZjVjMDFmODdmZDgwZWQ0MWQ3OGIwYTAxNzBkNTM1NTU0MmQ5NGNjNGZiODNhNTM"
+  "description": "380g"
 }

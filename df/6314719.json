@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Minecraft Voor Beginners - Boek",
   "code": "6314719",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Kinderboeken"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h3a/h5d/34224364159006/prd-front-6314719-1_600x600/prd-front-6314719-1-600x600.jpg"
 }

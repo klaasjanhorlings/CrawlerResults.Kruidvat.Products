@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "South Park Randy Vinyl Figuur",
   "code": "6143618",
   "price": "4.99",
@@ -12,7 +12,7 @@
   "mmkId": "1025309",
   "productGroupId": "",
   "brandType": "Ander merk",
-  "discount": "€ 5,00",
+  "discount": "$ 5,00",
   "url": "/south-park-randy-vinyl-figuur/p/6143618",
   "listName": "Lister",
   "brand": "Overig",
@@ -33,6 +33,5 @@
       "name": "Actie- en verzamelfiguren"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h80/h92/31843929915422/prd-front-6143618-1_600x600/prd-front-6143618-1-600x600.jpg"
+  "description": ""
 }

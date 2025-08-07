@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Batman 76301 Batman & Batmobile Vs. Mr. Freeze",
   "code": "6226995",
   "price": "17.99",
@@ -30,7 +30,7 @@
     },
     {
       "id": 69040785,
-      "name": "LEGO Films"
+      "name": "LEGO Films en series"
     }
   ],
   "description": "",

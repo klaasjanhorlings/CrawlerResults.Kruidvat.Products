@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bburago Alfa Romeo Giulia GTAm",
   "code": "6267483",
   "price": "24.99",
@@ -29,5 +29,6 @@
       "name": "Voertuigen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h11/h69/33747594018846/prd-front-6267483-1_600x600/prd-front-6267483-1-600x600.jpg"
 }

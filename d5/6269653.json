@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Jiggly Pets Oranje Slak",
   "code": "6269653",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Speelfiguren"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h98/h2b/33807783657502/prd-front-6269653-1_600x600/prd-front-6269653-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2197 > 2454 > 2957 > 3751 > 5929 > 6019",
   "supplier": "VERSUNI NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Airfryers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd0/hec/31447686578206/prd-front-6141021-1_600x600/prd-front-6141021-1-600x600.jpg"
 }

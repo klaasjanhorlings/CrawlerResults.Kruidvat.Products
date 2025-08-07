@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pokemon 9-Pocket A4 Portfolio",
   "code": "6152480",
   "price": "14.99",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfa/h05/31639611736094/prd-front-6152480-1_600x600/prd-front-6152480-1-600x600.jpg"
 }
