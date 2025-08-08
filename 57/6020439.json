@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,10 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hbe/h52/35081256927262/prd-front-6020439-1_600x600/prd-front-6020439-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he7/h44/35090274156574/prd-front-6020439-1_600x600/prd-front-6020439-1-600x600.jpg"
 }

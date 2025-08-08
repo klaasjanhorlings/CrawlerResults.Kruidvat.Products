@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "SUNSTAR BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,10 +29,10 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 64453990,
-      "name": "Beugelverzorging"
+      "id": 30266674,
+      "name": "Tandpasta"
     }
   ],
   "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h52/h68/34509502349342/prd-front-4647714-1_600x600/prd-front-4647714-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4d/hb1/35092141572126/prd-front-4647714-1_600x600/prd-front-4647714-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "1054658",
-  "mmkId": "1054658",
-  "productGroupId": "471181",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-creme-soft-douchecreme/p/3777229",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "750ml",
-  "image": "/medias/sys_master/prd-images/hbc/h75/35080296005662/prd-front-3777229-1_600x600/prd-front-3777229-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h71/h1a/35089672273950/prd-front-3777229-1_600x600/prd-front-3777229-1-600x600.jpg"
 }

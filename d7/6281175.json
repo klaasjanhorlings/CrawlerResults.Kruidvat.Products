@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bloem Luchtbed",
   "code": "6281175",
   "price": "6.99",
@@ -8,8 +8,8 @@
   "itemBgbcat": "4830 > 4935 > 4981 > 5027 > 5921 > 6023",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1025309",
-  "mmkId": "1025309",
+  "onPromo": "1012132",
+  "mmkId": "1012132",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",

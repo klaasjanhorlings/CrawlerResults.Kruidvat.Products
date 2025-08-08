@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Goliath That's Life Water World Puzzel",
   "code": "6022105",
   "price": "3.99",
@@ -29,6 +29,5 @@
       "name": "Puzzels"
     }
   ],
-  "description": "1000 stukjes",
-  "image": "/medias/sys_master/prd-images/ha5/h2c/30044633792542/prd-front-6022105-1_600x600/prd-front-6022105-1-600x600.jpg"
+  "description": "1000 stukjes"
 }

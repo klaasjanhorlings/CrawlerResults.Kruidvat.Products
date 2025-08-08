@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Playing Kids Houten Regenboog",
   "code": "6200913",
   "price": "7.99",
@@ -25,12 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266036,
-      "name": "Houten speelgoed"
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
     },
     {
-      "id": 84925671,
-      "name": "Houten speelsets"
+      "id": 30266832,
+      "name": "Vormenstoof"
     }
   ],
   "description": "",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Playgro Giraffe Stroller Friend",
   "code": "6295854",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Grijp- en bijtspeelgoed"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h39/h37/34249680945182/prd-front-6295854-1_600x600/prd-front-6295854-1-600x600.jpg"
 }

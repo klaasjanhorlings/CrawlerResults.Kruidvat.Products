@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Technic 42170 Kawasaki Ninja H2R",
   "code": "6075662",
   "price": "74.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Technic"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h75/hca/30556549513246/prd-front-6075662-1_600x600/prd-front-6075662-1-600x600.jpg"
 }

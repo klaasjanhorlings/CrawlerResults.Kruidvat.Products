@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ravensburger Mijn Eerste Doolhof",
   "code": "2651818",
   "price": "8.99",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h6d/h5a/28500904149022/prd-front-2651818-1_600x600/prd-front-2651818-1-600x600.jpg"
 }

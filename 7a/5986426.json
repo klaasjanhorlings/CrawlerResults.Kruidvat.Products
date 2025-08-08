@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "John Frieda Blonde+ Repair System Bond Building Shampoo",
+  "code": "5986426",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "1054721",
+  "mmkId": "1054721",
+  "productGroupId": "485168",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/john-frieda-blonde-repair-system-bond-building-shampoo/p/5986426",
+  "listName": "Lister",
+  "brand": "John Frieda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h65/hc9/29124134993950/prd-front-5986426-1_600x600/prd-front-5986426-1-600x600.jpg"
+}

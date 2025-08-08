@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Fallout T-51 & Vault Boy (Classic) Verzamelfiguren Set",
   "code": "6267364",
   "price": "17.99",
@@ -33,5 +33,6 @@
       "name": "Actie- en verzamelfiguren"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h10/h3e/33431237525534/prd-front-6267364-1_600x600/prd-front-6267364-1-600x600.jpg"
 }

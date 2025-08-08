@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Zwemband met Zebraprint",
   "code": "6281056",
   "price": "4.99",
@@ -8,8 +8,8 @@
   "itemBgbcat": "4830 > 5178 > 5286 > 5475 > 5921 > 6023",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1025309",
-  "mmkId": "1025309",
+  "onPromo": "1012132",
+  "mmkId": "1012132",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Opblaasfiguren"
     }
   ],
-  "description": "Ø102cm"
+  "description": "Ø102cm",
+  "image": "/medias/sys_master/prd-images/h49/hfa/34182570770462/prd-front-6281056-1_600x600/prd-front-6281056-1-600x600.jpg"
 }

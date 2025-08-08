@@ -29,10 +29,13 @@
       "name": "Babyvoeding"
     },
     {
-      "id": 30266774,
-      "name": "Babytussendoortjes"
+      "id": 30266770,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267004,
+      "name": "12 maanden +"
     }
   ],
-  "description": "100g",
-  "image": "/medias/sys_master/prd-images/ha9/h8d/32879831744542/prd-front-4630480-1_600x600/prd-front-4630480-1-600x600.jpg"
+  "description": "100g"
 }

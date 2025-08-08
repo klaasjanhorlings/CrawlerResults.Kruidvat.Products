@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ankh'Or",
   "code": "6183231",
   "price": "8.99",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h05/h6a/34314419044382/prd-front-6183231-1_600x600/prd-front-6183231-1-600x600.jpg"
+  "description": ""
 }
