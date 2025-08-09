@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "NIVEA Sun Hydraterende & Kalmerende Aftersun Lotion",
-  "code": "1859474",
-  "price": "15.99",
+  "itemName": "Corine De Farme Eilandenparfum Uiervet",
+  "code": "5602563",
+  "price": "5.5",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
-  "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "supplier": "LABORATOIRES SARBEC",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-sun-hydraterende-kalmerende-aftersun-lotion/p/1859474",
+  "url": "/corine-de-farme-eilandenparfum-uiervet/p/5602563",
   "listName": "Lister",
-  "brand": "Nivea Sun",
+  "brand": "Corine De Farme",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Aftersun"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h9c/h9f/34392633147422/prd-front-1859474-1_600x600/prd-front-1859474-1-600x600.jpg"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h46/hb5/29991955038238/prd-front-5602563-1_600x600/prd-front-5602563-1-600x600.jpg"
 }

@@ -5,7 +5,7 @@
   "code": "5480175",
   "price": "8.49",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 3041 > 3892",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "outOfStock",
   "onPromo": "",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 2"
     }
   ],
-  "description": "mt 2 (3-6 kg), 38 stuks"
+  "description": "mt 2 (3-6 kg), 38 stuks",
+  "image": "/medias/sys_master/prd-images/h3c/h5e/35102310596638/prd-front-5480175-1_600x600/prd-front-5480175-1-600x600.jpg"
 }
