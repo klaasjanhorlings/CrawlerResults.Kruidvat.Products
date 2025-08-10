@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h95/h90/35101284007966/prd-front-4024469-1_600x600/prd-front-4024469-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h80/hce/35108122984478/prd-front-4024469-1_600x600/prd-front-4024469-1-600x600.jpg"
 }
