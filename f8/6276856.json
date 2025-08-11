@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Smartwatch",
+  "code": "6276856",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2270 > 4869 > 5045 > 5046 > 5047",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-smartwatch/p/6276856",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 86672226,
+      "name": "Horloges"
+    }
+  ],
+  "description": "bruin",
+  "image": "/medias/sys_master/prd-images/h37/h1b/33681495916574/prd-front-6276856-1_600x600/prd-front-6276856-1-600x600.jpg"
+}

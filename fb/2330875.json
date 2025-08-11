@@ -8,8 +8,8 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1055655",
+  "mmkId": "1055655",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/prd-front-2330875-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjEyMzd8aW1hZ2UvanBlZ3xhR1l6TDJnME1DOHhOelF3T0RZeU9Ua3pNakEyTWk5d2NtUXRabkp2Ym5RdE1qTXpNRGczTlMweFh6WXdNSGcyTURBfGUwMGQ0YmVjZDA3NTQxNzg0MTc2ZjUzZGM1MjhiNmU5ZWQ3ODhiMTg2ZDlhZTVmNmRkY2YzYjFmMTc2NzdmYWM"
+  "description": "500ml"
 }

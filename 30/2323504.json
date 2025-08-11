@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3032 > 4109",
   "supplier": "BEVAPLAST BV",
-  "inStock": "inStock",
-  "onPromo": "1054673",
-  "mmkId": "1054673",
-  "productGroupId": "476273",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-eilandpleisters/p/2323504",
@@ -37,5 +37,6 @@
       "name": "Klassieke pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 5 stuks"
+  "description": "Medisch hulpmiddel - 5 stuks",
+  "image": "/medias/prd-front-2323504-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjIyMDB8aW1hZ2UvanBlZ3xhRGN4TDJnd1pTOHlOamt4TkRVek5UWXdOREkxTkM5d2NtUXRabkp2Ym5RdE1qTXlNelV3TkMweFh6WXdNSGcyTURBfDhjMjc3NmJhMDA1OGIzZDc0MmE2YWEyNWVkNTlhMWFiZDAyMzdhZTEyZGYxMDgyOTU0M2E0ZDhiY2YwZDVkY2U"
 }

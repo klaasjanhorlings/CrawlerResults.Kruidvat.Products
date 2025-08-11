@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 2973 > 3777",
   "supplier": "SOFIDEL BENELUX NV/SA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054915",
+  "mmkId": "1054915",
+  "productGroupId": "493149",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nalys-vochtvangers-keukenpapier/p/6084685",
@@ -29,6 +29,5 @@
       "name": "Keukenpapier"
     }
   ],
-  "description": "12 stuks",
-  "image": "/medias/sys_master/prd-images/h6e/h7f/30753434042398/prd-front-6084685-1_600x600/prd-front-6084685-1-600x600.jpg"
+  "description": "12 stuks"
 }

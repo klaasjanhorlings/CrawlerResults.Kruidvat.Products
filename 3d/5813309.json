@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "SUNVAL BABY FOOD GMBH",
-  "inStock": "inStock",
-  "onPromo": "1054806",
-  "mmkId": "1054806",
-  "productGroupId": "493065",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-6m-bio-wortel-aardappel-volkoren-spelt-pasta-broccoli-maaltijd/p/5813309",
@@ -37,6 +37,5 @@
       "name": "6+ maanden"
     }
   ],
-  "description": "380g",
-  "image": "/medias/prd-front-5813309-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTI2OTV8aW1hZ2UvanBlZ3xhR1kzTDJobE15OHlOalEyT0RjNE9UVTFNVEV6TkM5d2NtUXRabkp2Ym5RdE5UZ3hNek13T1MweFh6WXdNSGcyTURBfDdlODEwOTIyNjM2NmFlYjRkYjQzNzllY2RhZGNhYzk0ZGYwYmNjN2M1M2YzYjI0NjE5Mzc5NmJmODlkNjNlZWM"
+  "description": "380g"
 }

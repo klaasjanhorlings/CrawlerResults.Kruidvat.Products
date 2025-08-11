@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Disney Bowdazzling Styling Figure Minnie Mouse",
+  "code": "6322776",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 5177 > 5271 > 5460 > 5921 > 6040",
+  "supplier": "SPECTRON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/disney-bowdazzling-styling-figure-minnie-mouse/p/6322776",
+  "listName": "Lister",
+  "brand": "Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925814,
+      "name": "Actie- en verzamelfiguren"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbb/hb7/35101320642590/prd-front-6322776-1_600x600/prd-front-6322776-1-600x600.jpg"
+}

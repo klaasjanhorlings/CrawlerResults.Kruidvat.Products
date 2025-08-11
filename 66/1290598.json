@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6283",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1054831",
-  "mmkId": "1054831",
-  "productGroupId": "494392",
+  "onPromo": "1054935",
+  "mmkId": "1054935",
+  "productGroupId": "485063",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-calcium-tabletten/p/1290598",
@@ -33,5 +33,6 @@
       "name": "Botten en spieren"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/hf1/he0/33142660956190/prd-front-1290598-1_600x600/prd-front-1290598-1-600x600.jpg"
 }
