@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Laura's Bakery Schort met Bijenprint",
+  "code": "6283898",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2956 > 3750 > 5926 > 6020 > 6047",
+  "supplier": "AVEC STUDIO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/lauras-bakery-schort-met-bijenprint/p/6283898",
+  "listName": "Lister",
+  "brand": "Laura's Bakery",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 84926245,
+      "name": "Keukenschorten"
+    }
+  ],
+  "description": "70cm x 80cm",
+  "image": "/medias/sys_master/prd-images/h18/h7e/33576427487262/prd-front-6283898-1_600x600/prd-front-6283898-1-600x600.jpg"
+}

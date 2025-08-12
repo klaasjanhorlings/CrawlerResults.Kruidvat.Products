@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tupperware Eco+ Portion & Go Lunchbox",
+  "code": "6084419",
+  "price": "4.99",
+  "priceOriginal": "6.99",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 2,00",
+  "url": "/tupperware-eco-portion-go-lunchbox/p/6084419",
+  "listName": "Lister",
+  "brand": "Tupperware®",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 62664562,
+      "name": "Tupperware"
+    }
+  ],
+  "description": "550ml",
+  "image": "/medias/sys_master/prd-images/hbb/h1f/31037899472926/prd-front-6084419-1_600x600/prd-front-6084419-1-600x600.jpg"
+}

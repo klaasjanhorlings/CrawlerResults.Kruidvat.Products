@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1054628",
+  "mmkId": "1054628",
+  "productGroupId": "494206",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cetaphil-optimal-hydration-48h-activation-serum/p/6027313",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml, vochtarme en vermoeide huid"
+  "description": "30ml, vochtarme en vermoeide huid",
+  "image": "/medias/sys_master/prd-images/h33/h4a/32313699991582/prd-front-6027313-1_600x600/prd-front-6027313-1-600x600.jpg"
 }

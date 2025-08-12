@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "1054808",
-  "mmkId": "1054808",
-  "productGroupId": "493103",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-revitalift-anti-rimpel-dagcreme/p/1423178",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h6e/hcc/35114836262942/prd-front-1423178-1_600x600/prd-front-1423178-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hca/h26/35121139810334/prd-front-1423178-1_600x600/prd-front-1423178-1-600x600.jpg"
 }

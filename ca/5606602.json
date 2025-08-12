@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B iO Ultimate Clean Opzetborstels",
+  "code": "5606602",
+  "price": "44.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "inStock",
+  "onPromo": "1055659",
+  "mmkId": "1055659",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-io-ultimate-clean-opzetborstels/p/5606602",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266675,
+      "name": "Opzetborstels"
+    }
+  ],
+  "description": "zwart, 4 stuks",
+  "image": "/medias/sys_master/prd-images/hbe/h8f/32943351267358/prd-front-5606602-1_600x600/prd-front-5606602-1-600x600.jpg"
+}
