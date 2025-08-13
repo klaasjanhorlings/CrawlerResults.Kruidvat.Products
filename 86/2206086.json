@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054808",
+  "mmkId": "1054808",
+  "productGroupId": "493103",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-age-perfect-intensief-voedende-nachtcreme/p/2206086",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Normale en rijpe huid",
-  "image": "/medias/sys_master/prd-images/h4c/hb8/35120975216670/prd-front-2206086-1_600x600/prd-front-2206086-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2b/h49/35129158500382/prd-front-2206086-1_600x600/prd-front-2206086-1-600x600.jpg"
 }

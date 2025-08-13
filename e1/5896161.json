@@ -29,10 +29,13 @@
       "name": "Skincare"
     },
     {
-      "id": 80553729,
-      "name": "Gezichtsserum mannen"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h16/h86/34520056332318/prd-front-5896161-1_600x600/prd-front-5896161-1-600x600.jpg"
+  "description": "50ml"
 }

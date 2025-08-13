@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054657",
+  "mmkId": "1054657",
+  "productGroupId": "471181",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-cellular-expert-filler-anti-age-spf30-dagcreme/p/3459639",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Ouder wordende huid",
-  "image": "/medias/sys_master/prd-images/h45/h88/35123231490078/prd-front-3459639-1_600x600/prd-front-3459639-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he7/hc5/35129402589214/prd-front-3459639-1_600x600/prd-front-3459639-1-600x600.jpg"
 }

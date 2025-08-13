@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054799",
+  "mmkId": "1054799",
+  "productGroupId": "492904",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dagravit-totaal-30-multivitaminen-dragees/p/5930594",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "350 stuks",
-  "image": "/medias/sys_master/prd-images/h63/h62/35126237003806/prd-front-5930594-1_600x600/prd-front-5930594-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NG Next Fragrance Geurstokjes",
+  "code": "6314593",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 2351 > 2704 > 3407 > 5926 > 6679",
+  "supplier": "NEXT GENERATION PERFUME",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ng-next-fragrance-geurstokjes/p/6314593",
+  "listName": "Lister",
+  "brand": "NG",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266894,
+      "name": "Geurstokjes"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h1c/h94/34575865905182/prd-front-6314593-1_600x600/prd-front-6314593-1-600x600.jpg"
+}

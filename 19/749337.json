@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "John Frieda Frizz Ease Dream Curls Daily Styling Spray",
+  "code": "749337",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "1054721",
+  "mmkId": "1054721",
+  "productGroupId": "485168",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/john-frieda-frizz-ease-dream-curls-daily-styling-spray/p/749337",
+  "listName": "Lister",
+  "brand": "John Frieda",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266933,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-749337-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDE4NTR8aW1hZ2UvanBlZ3xhR0U0TDJnNE9DOHhOekk0TmpnMU1qZ3dORFl6T0M5d2NtUXRabkp2Ym5RdE56UTVNek0zTFRGZk5qQXdlRFl3TUF8NmMyMjVmODgzNmVmZmQyMDc1MTlkMjhiYzMyOTg1ZTA2NDUzYjVkMjIzMThmNWUxODcxZTlmZGI1NjE2ZjdmNQ"
+}

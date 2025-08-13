@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swiffer Dry Droge Vloerdoekjes",
+  "code": "6151038",
+  "price": "20.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 6076 > 6077",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1054725",
+  "mmkId": "1054725",
+  "productGroupId": "485419",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/swiffer-dry-droge-vloerdoekjes/p/6151038",
+  "listName": "Lister",
+  "brand": "Swiffer",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144853,
+      "name": "Dweilen en vloerwissers"
+    }
+  ],
+  "description": "72 stuks",
+  "image": "/medias/sys_master/prd-images/h7e/hbe/34125187022878/prd-front-6151038-1_600x600/prd-front-6151038-1-600x600.jpg"
+}

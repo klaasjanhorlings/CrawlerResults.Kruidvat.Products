@@ -5,7 +5,7 @@
   "code": "5156726",
   "price": "7.49",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4350 > 4351",
+  "itemBgbcat": "2001 > 2043 > 2169 > 6359 > 6360 > 6361",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
   "onPromo": "1010662",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 1"
     }
   ],
-  "description": "mt 1 (2-5 kg), 48 stuks"
+  "description": "mt 1 (2-5 kg), 48 stuks",
+  "image": "/medias/sys_master/prd-images/h7c/he8/31620062248990/prd-front-5156726-1_600x600/prd-front-5156726-1-600x600.jpg"
 }
