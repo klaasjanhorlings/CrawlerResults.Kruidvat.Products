@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6662 > 6663",
   "supplier": "TOPBRANDS EUROPE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-nourishing-foot-mask-voedend-voetenmasker/p/5449634",
@@ -33,5 +33,6 @@
       "name": "Voetmasker"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5449634-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODI4ODl8aW1hZ2UvanBlZ3xhREk0TDJneU15OHhOek0zTVRBMk1URTVNRFk0Tmk5d2NtUXRabkp2Ym5RdE5UUTBPVFl6TkMweFh6WXdNSGcyTURBfGRkMDVkMmU4ODIzNGYxMDlkZGY3YmRkOWUyYjYzNGVlMWFkZjM4OGI4Njc5MWExMDEzMWMxODZhOTZlM2U5MzM"
 }

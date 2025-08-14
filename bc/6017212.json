@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 6134 > 6135 > 6133",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "8 stuks"
+  "description": "8 stuks",
+  "image": "/medias/sys_master/prd-images/hbc/h03/34685022470174/prd-front-6017212-1_600x600/prd-front-6017212-1-600x600.jpg"
 }

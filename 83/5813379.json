@@ -1,8 +1,8 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat 8+M Bio Groenten, Zoete Aardappel & Rundvlees Maaltijd",
-  "code": "5813358",
+  "itemName": "Kruidvat Bio 6+M Wortel, Zoete Aardappel, Kip  Broccoli, & Mais Maaltijd",
+  "code": "5813379",
   "price": "2.15",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-8m-bio-groenten-zoete-aardappel-rundvlees-maaltijd/p/5813358",
+  "url": "/kruidvat-bio-6m-wortel-zoete-aardappel-kip-broccoli-mais-maaltijd/p/5813379",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,10 +33,10 @@
       "name": "Babymaaltijden"
     },
     {
-      "id": 30267007,
-      "name": "8+ maanden"
+      "id": 30267006,
+      "name": "6+ maanden"
     }
   ],
   "description": "380g",
-  "image": "/medias/prd-front-5813358-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTM3MTB8aW1hZ2UvanBlZ3xhRGhoTDJneU1DOHlOalF4TURNM016YzBNall5TWk5d2NtUXRabkp2Ym5RdE5UZ3hNek0xT0MweFh6WXdNSGcyTURBfGQ4OTc4MWZiYmZlNDE3YmEzZGNhZDUxYTFkY2I5ODQyZTA4N2FhMjA1NTYyYzRkZTJkMDQzODk0ZWJkY2MxZjU"
+  "image": "/medias/prd-front-5813379-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTAzNDF8aW1hZ2UvanBlZ3xhRGd3TDJoaE1pOHlOalF3T1RJNE5UZzNOemM1TUM5d2NtUXRabkp2Ym5RdE5UZ3hNek0zT1MweFh6WXdNSGcyTURBfDUzYzQwZjI5YmYzNTdlNTc3NmM1Yjg2OWUxYTlkZTE0Y2E2MWM3YzllYjA2ZDI0NTk1YWU0ZTdlZTMxMWJjNTk"
 }
