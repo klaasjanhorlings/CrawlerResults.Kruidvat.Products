@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea Men Protect & Care Anti-transpirant Roller",
+  "itemName": "NIVEA Men Protect & Care Antitranspirant Roller",
   "code": "3647561",
   "price": "5.79",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "490264",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nivea-men-protect-care-anti-transpirant-roller/p/3647561",
+  "url": "/nivea-men-protect-care-antitranspirant-roller/p/3647561",
   "listName": "Lister",
   "brand": "Nivea Men",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h98/h4c/34863340945438/prd-front-3647561-1_600x600/prd-front-3647561-1-600x600.jpg"
+  "description": "50ml"
 }

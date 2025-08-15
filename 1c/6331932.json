@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1054647",
+  "mmkId": "1054647",
+  "productGroupId": "462787",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-dark-temptation-3-in-1-douchegel/p/6331932",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "900ml"
+  "description": "900ml",
+  "image": "/medias/sys_master/prd-images/hd9/h6f/34389986803742/prd-front-6331932-1_600x600/prd-front-6331932-1-600x600.jpg"
 }

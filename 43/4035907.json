@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nivea Men Black & White Invisible Fresh Antitranspirant Roller",
+  "itemName": "NIVEA Men Black & White Invisible Fresh Antitranspirant Roller",
   "code": "4035907",
   "price": "5.79",
   "priceOriginal": "",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hd3/h14/33180721020958/prd-front-4035907-1_600x600/prd-front-4035907-1-600x600.jpg"
+  "description": "50ml"
 }
