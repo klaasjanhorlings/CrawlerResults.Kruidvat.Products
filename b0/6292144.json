@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Intense Repair Herstellend Haarmasker",
+  "code": "6292144",
+  "price": "8.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6695",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1054647",
+  "mmkId": "1054647",
+  "productGroupId": "462787",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-intense-repair-herstellend-haarmasker/p/6292144",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266697,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h5c/hc5/34926085636126/prd-front-6292144-1_600x600/prd-front-6292144-1-600x600.jpg"
+}

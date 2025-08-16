@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3381",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Fopspenen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5749703-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODU5NzF8aW1hZ2UvanBlZ3xhRGN5TDJnek1TOHhOakU0TmpFMk1UWXlOekUyTmk5d2NtUXRabkp2Ym5RdE5UYzBPVGN3TXkweFh6WXdNSGcyTURBfGRhNzQwNjZhODA2Y2ExYzU5MjE1ZjQzM2EyMmJlNjZmNDU4ZGM5NDEwNTUyNGZkZDlkYjU0NWFkMTNjMmJjMGY"
 }

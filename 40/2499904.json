@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4314",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,12 +25,8 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266692,
-      "name": "Haarstylingproducten"
-    },
-    {
-      "id": 30266927,
-      "name": "Haarwax"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "50ml",

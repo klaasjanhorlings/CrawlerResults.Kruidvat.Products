@@ -25,13 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
+      "id": 30265999,
+      "name": "Zonbescherming"
     },
     {
-      "id": 30266637,
-      "name": "Bodylotion"
+      "id": 30266659,
+      "name": "Zelfbruiners"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h01/h26/34394061144094/prd-front-5084640-1_600x600/prd-front-5084640-1-600x600.jpg"
 }

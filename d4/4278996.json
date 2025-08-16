@@ -21,22 +21,13 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266913,
-      "name": "Micellair water"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hb7/h2c/34898932006942/prd-front-4278996-1_600x600/prd-front-4278996-1-600x600.jpg"
+  "description": "100ml"
 }
