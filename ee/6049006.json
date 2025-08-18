@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "1054195",
-  "mmkId": "1054195",
-  "productGroupId": "480318",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 65,00",
   "url": "/finish-powerball-all-in-1-power-vaatwastabletten/p/6049006",
@@ -33,6 +33,5 @@
       "name": "Vaatwastabletten"
     }
   ],
-  "description": "272 stuks",
-  "image": "/medias/sys_master/prd-images/hff/h79/31642796916766/prd-front-6049006-1_600x600/prd-front-6049006-1-600x600.jpg"
+  "description": "272 stuks"
 }

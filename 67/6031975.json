@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5918",
   "supplier": "ORIGINAL ADDITIONS (BP)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055168",
+  "mmkId": "1055168",
+  "productGroupId": "482910",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/cantu-guava-cream-gel/p/6031975",
@@ -33,6 +33,5 @@
       "name": "Haargel"
     }
   ],
-  "description": "340g",
-  "image": "/medias/sys_master/prd-images/h4f/h07/29995465211934/prd-front-6031975-1_600x600/prd-front-6031975-1-600x600.jpg"
+  "description": "340g"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Slaaptrainer",
+  "code": "6182349",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 2454 > 2957 > 3751 > 5929 > 6019",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/slaaptrainer/p/6182349",
+  "listName": "Lister",
+  "brand": "Watshome",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 49880164,
+      "name": "Babykamer"
+    },
+    {
+      "id": 51606947,
+      "name": "Slaaptrainers"
+    }
+  ],
+  "description": "groen",
+  "image": "/medias/sys_master/prd-images/hb8/h9f/32534963945502/prd-front-6182349-1_600x600/prd-front-6182349-1-600x600.jpg"
+}

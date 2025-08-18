@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 3063 > 4236",
   "supplier": "S.C. JOHNSON",
   "inStock": "inStock",
-  "onPromo": "1054940",
-  "mmkId": "1054940",
-  "productGroupId": "485462",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/glade-by-brise-touch-fresh-pure-clean-linen-duo-luchtverfrisser-navullingen/p/5960638",
@@ -29,6 +29,5 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "2 x 10ml",
-  "image": "/medias/sys_master/prd-images/h15/h57/31177614065694/prd-front-5960638-1_600x600/prd-front-5960638-1-600x600.jpg"
+  "description": "2 x 10ml"
 }

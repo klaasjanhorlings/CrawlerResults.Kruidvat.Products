@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Education Clementoni Letters",
+  "code": "5918764",
+  "price": "2.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "2181 > 5164 > 5227 > 5416 > 5921 > 6018",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 5,00",
+  "url": "/education-clementoni-letters/p/5918764",
+  "listName": "Lister",
+  "brand": "Clementoni",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266034,
+      "name": "Educatief speelgoed"
+    },
+    {
+      "id": 90169580,
+      "name": "Educatieve spellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hca/h96/28513973731358/prd-front-5918764-1_600x600/prd-front-5918764-1-600x600.jpg"
+}

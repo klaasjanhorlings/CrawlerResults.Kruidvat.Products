@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2271 > 2637 > 3320 > 6343 > 6674",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1054653",
-  "mmkId": "1054653",
-  "productGroupId": "465651",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-quilted-toilettas/p/6264669",
@@ -33,5 +33,6 @@
       "name": "Toilettassen"
     }
   ],
-  "description": "bordeauxrood"
+  "description": "bordeauxrood",
+  "image": "/medias/sys_master/prd-images/hf6/h17/33714014093342/prd-front-6264669-1_600x600/prd-front-6264669-1-600x600.jpg"
 }

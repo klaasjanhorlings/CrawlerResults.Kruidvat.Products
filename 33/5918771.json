@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Education Clementoni Ik Kan Het!",
+  "code": "5918771",
+  "price": "2.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "2181 > 5164 > 5227 > 5416 > 5921 > 6018",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 5,00",
+  "url": "/education-clementoni-ik-kan-het/p/5918771",
+  "listName": "Lister",
+  "brand": "Clementoni",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266034,
+      "name": "Educatief speelgoed"
+    },
+    {
+      "id": 90169580,
+      "name": "Educatieve spellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha1/he5/28513164525598/prd-front-5918771-1_600x600/prd-front-5918771-1-600x600.jpg"
+}

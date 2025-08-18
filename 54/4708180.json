@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1054709",
-  "mmkId": "1054709",
-  "productGroupId": "483669",
+  "onPromo": "1055029",
+  "mmkId": "1055029",
+  "productGroupId": "483680",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-dream-lengths-rapid-reviver-conditioner/p/4708180",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "180ml"
+  "description": "180ml",
+  "image": "/medias/sys_master/prd-images/h8b/h8c/33042397003806/prd-front-4708180-1_600x600/prd-front-4708180-1-600x600.jpg"
 }

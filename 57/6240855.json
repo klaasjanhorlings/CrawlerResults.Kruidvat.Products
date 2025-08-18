@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath Suite Spaces Living Room Set",
+  "code": "6240855",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 5176 > 5269 > 5458 > 5921 > 6040",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/goliath-suite-spaces-living-room-set/p/6240855",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925806,
+      "name": "Speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb7/h0f/34869870690334/prd-front-6240855-1_600x600/prd-front-6240855-1-600x600.jpg"
+}

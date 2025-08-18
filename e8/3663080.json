@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3027 > 6779",
   "supplier": "LENSCONCEPT BV",
   "inStock": "inStock",
-  "onPromo": "1054929",
-  "mmkId": "1054929",
-  "productGroupId": "481561",
+  "onPromo": "1016529",
+  "mmkId": "1016529",
+  "productGroupId": "286850",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-opticare-300-zachte-maandlenzen/p/3663080",
@@ -37,5 +37,6 @@
       "name": "Maandlenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks"
+  "description": "Medisch hulpmiddel - 6 stuks",
+  "image": "/medias/prd-front-3663080-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzU5OTV8aW1hZ2UvanBlZ3xhRFUzTDJnMU1TOHhOelEwTnpjNE1UWTVOVFV4T0M5d2NtUXRabkp2Ym5RdE16WTJNekE0TUMweFh6WXdNSGcyTURBfGY1MTg1YTNiYjgyYzNmZTBmOGIzMGJmZjJlYzdhNzMxYjk3ZWQ1YzdkMDAyYjI0NTVlMGRlMTdiMzEzMWY1Zjk"
 }

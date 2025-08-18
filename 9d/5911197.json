@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1054668",
-  "mmkId": "1054668",
-  "productGroupId": "475316",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-2000-calorie-pro-stylist-black-mascara/p/5911197",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "9ml"
+  "description": "9ml",
+  "image": "/medias/sys_master/prd-images/hc9/hdd/28619679989790/prd-front-5911197-1_600x600/prd-front-5911197-1-600x600.jpg"
 }

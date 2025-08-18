@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2630 > 2947 > 3743",
   "supplier": "WESSANEN BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "1054952",
-  "mmkId": "1054952",
-  "productGroupId": "494123",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/clipper-happy-mondays-thee/p/5829024",
@@ -29,6 +29,5 @@
       "name": "Thee"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/prd-front-5829024-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTY1NTh8aW1hZ2UvanBlZ3xhR1kyTDJoaFl5OHlOalU1T1RVME5UTXpPVGt6TkM5d2NtUXRabkp2Ym5RdE5UZ3lPVEF5TkMweFh6WXdNSGcyTURBfDFlN2Q1MTU2YTYxODU4ZTQ2N2NhMjdjMzVkZDIzMTgxZjlkZGRjNGU3MTM4YjQxZjQ3ODQyNTM2ZWMzYTdiYzM"
+  "description": "20 stuks"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1054819",
-  "mmkId": "1054819",
-  "productGroupId": "493715",
+  "onPromo": "1055108",
+  "mmkId": "1055108",
+  "productGroupId": "493725",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-platinum-long-maandverband/p/4081946",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "mt 2, 10 stuks"
+  "description": "mt 2, 10 stuks",
+  "image": "/medias/sys_master/prd-images/h4d/hdd/33458553389086/prd-front-4081946-1_600x600/prd-front-4081946-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diamond Painting",
+  "code": "6295406",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2191 > 2512 > 3126 > 3991 > 5697 > 5921",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/diamond-painting/p/6295406",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266030,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "paars, 42cm x 31,5cm",
+  "image": "/medias/sys_master/prd-images/h81/hdf/34594357215262/prd-front-6295406-1_600x600/prd-front-6295406-1-600x600.jpg"
+}

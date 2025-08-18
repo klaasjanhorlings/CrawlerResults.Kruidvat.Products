@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "MORE LABELS GROUP BV",
-  "inStock": "inStock",
-  "onPromo": "1054856",
-  "mmkId": "1054856",
-  "productGroupId": "495564",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/the-master-perfumer-nr53-amber-eau-de-toilette/p/6119139",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h26/h37/32700316418078/prd-front-6119139-1_600x600/prd-front-6119139-1-600x600.jpg"
 }
