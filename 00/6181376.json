@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swim Essentials Kinderwaterschoenen met Stippen",
+  "code": "6181376",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2487 > 3056 > 3904 > 5928 > 6351 > 6352",
+  "supplier": "THE ESSENTIALS BV",
+  "inStock": "inStock",
+  "onPromo": "1012132",
+  "mmkId": "1012132",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/swim-essentials-kinderwaterschoenen-met-stippen/p/6181376",
+  "listName": "Lister",
+  "brand": "Swim Essentials",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266857,
+      "name": "Kinderschoenen"
+    }
+  ],
+  "description": "blauw, mt 28",
+  "image": "/medias/sys_master/prd-images/h57/hb0/33944466718750/prd-front-6181376-1_600x600/prd-front-6181376-1-600x600.jpg"
+}

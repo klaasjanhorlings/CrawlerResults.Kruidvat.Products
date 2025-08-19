@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
   "supplier": "INEX NV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,10 +33,10 @@
       "name": "Flesvoeding"
     },
     {
-      "id": 30267000,
-      "name": "Dreumesmelk"
+      "id": 30267001,
+      "name": "Peutermelk"
     }
   ],
-  "description": "",
+  "description": "3 x 250ml",
   "image": "/medias/sys_master/prd-images/h77/h1a/29480638382110/prd-front-5947079-1_600x600/prd-front-5947079-1-600x600.jpg"
 }

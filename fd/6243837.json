@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6696",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "120ml"
+  "description": "120ml",
+  "image": "/medias/sys_master/prd-images/hd4/h8c/35026187747358/prd-front-6243837-1_600x600/prd-front-6243837-1-600x600.jpg"
 }
