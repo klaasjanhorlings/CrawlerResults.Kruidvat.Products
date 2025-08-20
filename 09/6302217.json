@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1055105",
-  "mmkId": "1055105",
-  "productGroupId": "493443",
+  "onPromo": "1055193",
+  "mmkId": "1055193",
+  "productGroupId": "493199",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pepe-jeans-london-portobello-road-colorful-chaos-bodymist/p/6302217",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/he2/h3c/34029213777950/prd-front-6302217-1_600x600/prd-front-6302217-1-600x600.jpg"
 }

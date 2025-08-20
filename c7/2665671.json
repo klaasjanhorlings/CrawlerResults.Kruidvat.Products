@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055191",
+  "mmkId": "1055191",
+  "productGroupId": "492350",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-prothese-reinigingsgel/p/2665671",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 64453990,
-      "name": "Beugelverzorging"
+      "id": 30266672,
+      "name": "Kunstgebitreiniger"
     }
   ],
   "description": "100ml",

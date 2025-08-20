@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "BOLTON NEDERLAND",
-  "inStock": "inStock",
-  "onPromo": "1055149",
-  "mmkId": "1055149",
-  "productGroupId": "497888",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/borotalco-active-citrus-and-lime-fresh-deodorant-spray/p/4703525",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hea/hba/34860591284254/prd-front-4703525-1_600x600/prd-front-4703525-1-600x600.jpg"
+  "description": "150ml"
 }

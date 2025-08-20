@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055188",
+  "mmkId": "1055188",
+  "productGroupId": "491417",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-active-care-deodorant-spray/p/3940938",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/he6/h9b/27325116121118/prd-front-3940938-1_600x600/prd-front-3940938-1-600x600.jpg"
 }

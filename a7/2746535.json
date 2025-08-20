@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1055102",
-  "mmkId": "1055102",
-  "productGroupId": "493362",
+  "onPromo": "1055156",
+  "mmkId": "1055156",
+  "productGroupId": "503255",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-fresh-active-deodorant-spray/p/2746535",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h4a/hbb/34395624374302/prd-front-2746535-1_600x600/prd-front-2746535-1-600x600.jpg"
 }

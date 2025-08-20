@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055156",
+  "mmkId": "1055156",
+  "productGroupId": "503255",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-fresh-pure-deodorant-roller/p/2746864",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h95/h35/35128343330846/prd-front-2746864-1_600x600/prd-front-2746864-1-600x600.jpg"
 }

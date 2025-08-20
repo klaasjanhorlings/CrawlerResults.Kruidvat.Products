@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055029",
+  "mmkId": "1055029",
+  "productGroupId": "483680",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-extraordinary-oil-kokos-shampoo/p/4129707",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h4d/h4e/32818742493214/prd-front-4129707-1_600x600/prd-front-4129707-1-600x600.jpg"
+  "description": "250ml"
 }

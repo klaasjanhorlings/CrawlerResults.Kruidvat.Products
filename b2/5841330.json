@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055197",
+  "mmkId": "1055197",
+  "productGroupId": "493445",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tena-discreet-ultra-normal-dunne-verbanden/p/5841330",
@@ -37,5 +37,6 @@
       "name": "Incontinentieverband"
     }
   ],
-  "description": "Medisch hulpmiddel - 16 stuks"
+  "description": "Medisch hulpmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/hff/h0d/33389476642846/prd-front-5841330-1_600x600/prd-front-5841330-1-600x600.jpg"
 }

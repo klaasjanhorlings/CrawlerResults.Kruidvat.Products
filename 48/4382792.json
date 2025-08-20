@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055156",
+  "mmkId": "1055156",
+  "productGroupId": "503255",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-deep-black-carbon-dark-wood-antitranspirant-spray/p/4382792",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hd9/h62/34394059440158/prd-front-4382792-1_600x600/prd-front-4382792-1-600x600.jpg"
+  "description": "150ml"
 }

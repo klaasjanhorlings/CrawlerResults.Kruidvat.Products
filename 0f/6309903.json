@@ -25,9 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 84945977,
+      "name": "Exfoliant"
     }
   ],
-  "description": "236ml"
+  "description": "236ml",
+  "image": "/medias/sys_master/prd-images/hcb/h49/34049178370078/prd-front-6309903-1_600x600/prd-front-6309903-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6198 > 6216 > 6256",
   "supplier": "GOOD LIFE INTERNATIONAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mollers-omega-3-tutti-frutti-visolie/p/6092308",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266727,
-      "name": "Hart en/of bloedvaten"
+      "id": 49792812,
+      "name": "Omega 3"
     }
   ],
   "description": "250ml",
