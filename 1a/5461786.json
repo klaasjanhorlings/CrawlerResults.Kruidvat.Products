@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Cotton Shape Maxi Damesslips",
   "code": "5461786",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "wit mt M, 2 stuks"
+  "description": "wit mt M, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hf6/h64/27770264813598/prd-front-5461786-1_600x600/prd-front-5461786-1-600x600.jpg"
 }

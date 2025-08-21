@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 5886 > 6437",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1054780",
+  "mmkId": "1054780",
+  "productGroupId": "491935",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/braun-silk-epil-5160-3in1-lady-shaver/p/5844949",
@@ -33,5 +33,6 @@
       "name": "Elektrische scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h00/h37/27590008373278/prd-front-5844949-1_600x600/prd-front-5844949-1-600x600.jpg"
 }

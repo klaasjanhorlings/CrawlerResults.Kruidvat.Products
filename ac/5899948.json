@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055213",
+  "mmkId": "1055213",
+  "productGroupId": "491140",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-matte-resistance-420-true-romance-lipstick/p/5899948",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/ha9/hb7/35064461426718/prd-front-5899948-1_600x600/prd-front-5899948-1-600x600.jpg"
 }

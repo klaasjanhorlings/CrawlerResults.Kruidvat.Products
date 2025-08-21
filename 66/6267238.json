@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "True Spirit Zwangerschapstop",
   "code": "6267238",
   "price": "7.99",
@@ -33,6 +33,5 @@
       "name": "Dameskleding"
     }
   ],
-  "description": "rood, mt M",
-  "image": "/medias/sys_master/prd-images/h90/hdb/33919717343262/prd-front-6267238-1_600x600/prd-front-6267238-1-600x600.jpg"
+  "description": "rood, mt M"
 }

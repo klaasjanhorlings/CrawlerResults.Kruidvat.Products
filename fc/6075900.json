@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3052 > 3901",
   "supplier": "GEM BOHEMIA S.R.O.",
   "inStock": "inStock",
-  "onPromo": "1055191",
-  "mmkId": "1055191",
-  "productGroupId": "492350",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-0-alcohol-mondspoeling/p/6075900",
@@ -33,6 +33,5 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/h5a/h6e/30723480158238/prd-front-6075900-1_600x600/prd-front-6075900-1-600x600.jpg"
+  "description": "500ml"
 }

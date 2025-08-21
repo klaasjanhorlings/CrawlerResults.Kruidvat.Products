@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5918",
   "supplier": "ORIGINAL ADDITIONS (BP)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "248ml"
+  "description": "248ml",
+  "image": "/medias/sys_master/prd-images/hb5/hb8/29993638264862/prd-front-6032003-1_600x600/prd-front-6032003-1-600x600.jpg"
 }

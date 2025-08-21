@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1055209",
-  "mmkId": "1055209",
-  "productGroupId": "498405",
+  "onPromo": "1055006",
+  "mmkId": "1055006",
+  "productGroupId": "459982",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-men-sport-deodorant-bodyspray/p/633752",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h53/h48/28039099547678/prd-front-633752-1_600x600/prd-front-633752-1-600x600.jpg"
+  "description": "150ml"
 }

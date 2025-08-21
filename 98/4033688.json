@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/prd-front-4033688-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODg4MTh8aW1hZ2UvanBlZ3xhRE14TDJnMVpTOHhOamczTXpRMU1EazVOVGMwTWk5d2NtUXRabkp2Ym5RdE5EQXpNelk0T0MweFh6WXdNSGcyTURBfDA4YWNjYzJhNTI0MDIyZWU4M2VhOGQwOGQyNDMxNTcxMmQ5Yjc3ZjdjZDY3YjU0ODRlNjgwYmQyNmU3Y2NiZTc"
 }

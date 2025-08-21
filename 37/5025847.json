@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 3775",
   "supplier": "CARESSE COSMETICS BV",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-holografische-glitterpleisters/p/5025847",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 18 stuks",
-  "image": "/medias/sys_master/prd-images/h13/h8b/35183954755614/prd-front-5025847-1_600x600/prd-front-5025847-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2b/h70/43989689630750/prd-front-5025847-1_600x600/prd-front-5025847-1-600x600.jpg"
 }

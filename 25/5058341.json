@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055213",
+  "mmkId": "1055213",
+  "productGroupId": "491140",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-brow-80-light-cool-blonde-24h-micro-precision-wenkbrauwpotlood/p/5058341",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "4,5g"
+  "description": "4,5g",
+  "image": "/medias/sys_master/prd-images/h64/hd9/35062461071390/prd-front-5058341-1_600x600/prd-front-5058341-1-600x600.jpg"
 }

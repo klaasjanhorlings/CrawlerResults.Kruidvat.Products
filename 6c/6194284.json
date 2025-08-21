@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3625",
   "supplier": "AVENTUS BV",
   "inStock": "inStock",
-  "onPromo": "1055194",
-  "mmkId": "1055194",
-  "productGroupId": "493203",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jo-malone-london-peony-blush-suede-eau-de-cologne/p/6194284",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hb5/hae/32205676019742/prd-front-6194284-1_600x600/prd-front-6194284-1-600x600.jpg"
 }

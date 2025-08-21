@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055213",
+  "mmkId": "1055213",
+  "productGroupId": "491140",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-15n-linen-foundation/p/4167080",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h4e/h0e/35063896440862/prd-front-4167080-1_600x600/prd-front-4167080-1-600x600.jpg"
 }

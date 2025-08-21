@@ -7,10 +7,10 @@
   "priceOriginal": "73.62",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "SAR TRADING BV",
-  "inStock": "inStock",
-  "onPromo": "1055194",
-  "mmkId": "1055194",
-  "productGroupId": "493203",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 47,53",
   "url": "/davidoff-cool-water-woman-eau-de-toilette/p/31310",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-31310-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjExNDV8aW1hZ2UvanBlZ3xhRFpoTDJobU9DOHlOekUwTWpRMk1qRTBORFUwTWk5d2NtUXRabkp2Ym5RdE16RXpNVEF0TVY4Mk1EQjROakF3fDdlYTgzNzMxNjU3NjgwMzg0NjhmZDdiYmNlNTcxMzZhZDc2ZjgyMDBmMWNiMzc0ZDBiZDg4ZTY5YTY2NzQyYjA"
+  "description": "100ml"
 }

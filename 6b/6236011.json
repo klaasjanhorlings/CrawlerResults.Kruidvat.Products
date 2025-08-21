@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Infaillible Laque Resistance 215 Drunk in Rose Lippenstift",
+  "code": "6236011",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1055213",
+  "mmkId": "1055213",
+  "productGroupId": "491140",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-infaillible-laque-resistance-215-drunk-in-rose-lippenstift/p/6236011",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he2/h75/35128075091998/prd-front-6236011-1_600x600/prd-front-6236011-1-600x600.jpg"
+}

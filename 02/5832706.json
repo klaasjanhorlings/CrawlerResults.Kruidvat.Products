@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "MEUBLEPLUS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055211",
+  "mmkId": "1055211",
+  "productGroupId": "467120",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/munchkin-miracle-360-sippy-cup/p/5832706",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "blauw, 295ml"
+  "description": "blauw, 295ml",
+  "image": "/medias/prd-front-5832706-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTUwNjZ8aW1hZ2UvanBlZ3xhR05sTDJneVlTOHlOalkzTURjeE5UZzVOVGd6T0M5d2NtUXRabkp2Ym5RdE5UZ3pNamN3TmkweFh6WXdNSGcyTURBfDkwYzc2MTQ0NDE4YmZmNmUxNjJiZjllZTAyZjFjYjYxMTMwZjhhMTFjYjBmMzBhNDA0NzFhYzc4MGQ5ZjI3MGU"
 }
