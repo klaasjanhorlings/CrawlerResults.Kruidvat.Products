@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bepanthen Babyzalf",
+  "code": "4342822",
+  "price": "11.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4152",
+  "supplier": "BAYER SA NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bepanthen-babyzalf/p/4342822",
+  "listName": "Lister",
+  "brand": "Bepanthen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266776,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267014,
+      "name": "Babycreme"
+    }
+  ],
+  "description": "50g",
+  "image": "/medias/prd-front-4342822-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDUzNDF8aW1hZ2UvanBlZ3xhRGszTDJnNU1pOHhOalkzTXpjME1UZ3pNakl5TWk5d2NtUXRabkp2Ym5RdE5ETTBNamd5TWkweFh6WXdNSGcyTURBfDRiNzNjYmNjMzdmZmM1ZmU2ZjdmZWQ3OTNlNWRkZGMxZTEyY2JmOTdkNTgyNmU5MjJjNjE0ZjYxNTBlYWU5YTM"
+}

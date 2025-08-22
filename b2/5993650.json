@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "M&M's Salted Caramel",
   "code": "5993650",
   "price": "3.49",
@@ -33,6 +33,5 @@
       "name": "Chocolade"
     }
   ],
-  "description": "367g",
-  "image": "/medias/sys_master/prd-images/ha9/h21/29201551196190/prd-front-5993650-1_600x600/prd-front-5993650-1-600x600.jpg"
+  "description": "367g"
 }

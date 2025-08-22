@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sportlife Frozn Deepmint Kauwgom",
   "code": "5888993",
   "price": "2.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,76",
+  "discount": "$ 2,76",
   "url": "/sportlife-frozn-deepmint-kauwgom/p/5888993",
   "listName": "Lister",
   "brand": "Sportlife",
@@ -33,6 +33,5 @@
       "name": "Kauwgom en pepermunt"
     }
   ],
-  "description": "130g",
-  "image": "/medias/sys_master/prd-images/hf6/hfa/27603272106014/prd-front-5888993-1_600x600/prd-front-5888993-1-600x600.jpg"
+  "description": "130g"
 }

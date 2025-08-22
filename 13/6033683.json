@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Fujifilm instax Mini 12 Camera",
   "code": "6033683",
   "price": "89.99",
@@ -33,6 +33,5 @@
       "name": "Instax cameras"
     }
   ],
-  "description": "paars",
-  "image": "/medias/sys_master/prd-images/h1c/h60/33064612167710/prd-front-6033683-1_600x600/prd-front-6033683-1-600x600.jpg"
+  "description": "paars"
 }

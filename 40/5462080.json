@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Invisible Damesshorts",
   "code": "5462080",
   "price": "7.99",
@@ -33,6 +33,5 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt M, 2 stuks",
-  "image": "/medias/sys_master/prd-images/h89/hc0/27495133511710/prd-front-5462080-1_600x600/prd-front-5462080-1-600x600.jpg"
+  "description": "zwart, mt M, 2 stuks"
 }

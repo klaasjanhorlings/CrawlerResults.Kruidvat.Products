@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Invisible Damespants",
   "code": "5462024",
   "price": "7.99",
@@ -33,6 +33,5 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt S",
-  "image": "/medias/sys_master/prd-images/h77/h79/27501128646686/prd-front-5462024-1_600x600/prd-front-5462024-1-600x600.jpg"
+  "description": "zwart, mt S"
 }

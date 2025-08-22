@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Swim Essentials Gestreepte Kinderwatersandalen",
   "code": "6181278",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Kinderschoenen"
     }
   ],
-  "description": "lila, mt 27"
+  "description": "lila, mt 27",
+  "image": "/medias/sys_master/prd-images/hdb/h39/34415992045598/prd-front-6181278-1_600x600/prd-front-6181278-1-600x600.jpg"
 }
