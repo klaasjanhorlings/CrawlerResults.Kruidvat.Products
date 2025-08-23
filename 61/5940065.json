@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Knuffelboekje",
+  "code": "5940065",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1055127",
+  "mmkId": "1055127",
+  "productGroupId": "495063",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-knuffelboekje/p/5940065",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30266834,
+      "name": "Grijp- en bijtspeelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hff/h29/28626204786718/prd-front-5940065-1_600x600/prd-front-5940065-1-600x600.jpg"
+}

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "GUM Soft-Picks Minty Tandenstokers",
+  "itemName": "GUM Soft-Picks Minty Interdentale Tandenstokers",
   "code": "5138246",
   "price": "7.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/gum-soft-picks-minty-tandenstokers/p/5138246",
+  "url": "/gum-soft-picks-minty-interdentale-tandenstokers/p/5138246",
   "listName": "Lister",
   "brand": "Gum",
   "mpOrigin": "Kruidvat",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30266667,
-      "name": "Tandenstokers"
+      "id": 30266669,
+      "name": "Tandenragers"
     }
   ],
   "description": "mt M, 40 stuks",

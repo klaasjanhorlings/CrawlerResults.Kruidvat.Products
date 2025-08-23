@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat High Gloss 119 Nagellak",
+  "itemName": "Kruidvat High Gloss 119 Nail Color",
   "code": "5953141",
   "price": "3.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-high-gloss-119-nagellak/p/5953141",
+  "url": "/kruidvat-high-gloss-119-nail-color/p/5953141",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": ""
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h3f/hd9/28937664200734/prd-front-5953141-1_600x600/prd-front-5953141-1-600x600.jpg"
 }

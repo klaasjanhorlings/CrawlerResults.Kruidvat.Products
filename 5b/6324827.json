@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 3865 > 5730",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h49/hef/44009908961310/prd-front-6324827-1_600x600/prd-front-6324827-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hde/hf3/44017307942942/prd-front-6324827-1_600x600/prd-front-6324827-1-600x600.jpg"
 }

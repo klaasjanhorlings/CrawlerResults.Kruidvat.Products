@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 6575 > 6576 > 6577",
   "supplier": "TOBY'S BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-urinecontainers/p/1606004",
@@ -33,5 +33,6 @@
       "name": "Medische hulpmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 3 stuks"
+  "description": "Medisch hulpmiddel - 3 stuks",
+  "image": "/medias/sys_master/prd-images/h79/h84/27272171421726/prd-front-1606004-1_600x600/prd-front-1606004-1-600x600.jpg"
 }
