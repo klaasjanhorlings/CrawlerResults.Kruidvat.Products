@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pokémon Pyjama",
+  "code": "6322062",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2495 > 3061 > 3520 > 5795 > 5928 > 6716",
+  "supplier": "VAN DER ERVE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pokemon-pyjama/p/6322062",
+  "listName": "Lister",
+  "brand": "Pokemon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266856,
+      "name": "Kinderpyjama's"
+    }
+  ],
+  "description": "roze, mt 110-116",
+  "image": "/medias/sys_master/prd-images/h7a/ha9/34769610407966/prd-front-6322062-1_600x600/prd-front-6322062-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pokémon Battle Ready Battle Figuren",
+  "code": "6325702",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
+  "supplier": "JAZWARES GMBH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pokemon-battle-ready-battle-figuren/p/6325702",
+  "listName": "Lister",
+  "brand": "Pokemon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/hfd/hb3/34567843315742/prd-front-6325702-1_600x600/prd-front-6325702-1-600x600.jpg"
+}

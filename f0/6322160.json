@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pokémon T-shirt",
+  "code": "6322160",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5808 > 5810 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "VAN DER ERVE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pokemon-t-shirt/p/6322160",
+  "listName": "Lister",
+  "brand": "Pokemon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "blauw, mt 110-116",
+  "image": "/medias/sys_master/prd-images/h9e/h86/34795193925662/prd-front-6322160-1_600x600/prd-front-6322160-1-600x600.jpg"
+}
