@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO City 60312 Politiewagen",
+  "code": "5584916",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1055517",
+  "mmkId": "1055517",
+  "productGroupId": "494053",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-city-60312-politiewagen/p/5584916",
+  "listName": "Lister",
+  "brand": "LEGO City",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266810,
+      "name": "LEGO City"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5584916-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTYzMDMzfGltYWdlL2pwZWd8YUdJMUwyZzVNUzh4TnpVNE16QXpPREl3TVRnNE5pOXdjbVF0Wm5KdmJuUXROVFU0TkRreE5pMHhYell3TUhnMk1EQXxlMzM2Y2U4NTBhOGE4NTlmNzc1MzA1NTI3NDEwNTIwNmU4MDAyYWYyOWVkZjYwNDg2ZjY1MjIwOTljYzY2MTE2"
+}

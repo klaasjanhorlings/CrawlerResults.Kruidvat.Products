@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1055008",
-  "mmkId": "1055008",
-  "productGroupId": "462772",
+  "onPromo": "1055296",
+  "mmkId": "1055296",
+  "productGroupId": "479693",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vaseline-gluta-hya-overnight-radiance-serum-burst-lotion/p/6287384",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h23/h6a/34181154013214/prd-front-6287384-1_600x600/prd-front-6287384-1-600x600.jpg"
 }

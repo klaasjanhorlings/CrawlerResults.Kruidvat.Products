@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Stedentrip Praag, Berlijn of Dresden",
+  "code": "6339821",
+  "price": "169.0",
+  "priceOriginal": "",
+  "itemBgbcat": "4870 > 4893 > 4891 > 4892 > 4894 > 6447",
+  "supplier": "FLYWISE TRAVEL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/stedentrip-praag-berlijn-of-dresden/p/6339821",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536083,
+      "name": "Tickets"
+    },
+    {
+      "id": 30266048,
+      "name": "Vakantie"
+    },
+    {
+      "id": 30266871,
+      "name": "Vakantie"
+    }
+  ],
+  "description": "Verzilver via de link in de productinformatie",
+  "image": "/medias/sys_master/prd-images/h23/h9c/34861219971102/prd-front-6339821-1_600x600/prd-front-6339821-1-600x600.jpg"
+}

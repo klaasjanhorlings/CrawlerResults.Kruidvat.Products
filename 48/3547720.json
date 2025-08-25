@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "MAXIM MARKENPRODUKTE",
   "inStock": "inStock",
-  "onPromo": "1016191",
-  "mmkId": "1016191",
-  "productGroupId": "9004942",
+  "onPromo": "1055456",
+  "mmkId": "1055456",
+  "productGroupId": "495335",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-vanilla-macadamia-body-oil/p/3547720",
@@ -33,5 +33,6 @@
       "name": "Bodyolie"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hb6/h3d/30800577757214/prd-front-3547720-1_600x600/prd-front-3547720-1-600x600.jpg"
 }

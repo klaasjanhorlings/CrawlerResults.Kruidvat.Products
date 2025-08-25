@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
   "supplier": "THG NUTRITION LIMITED",
-  "inStock": "inStock",
-  "onPromo": "1055096",
-  "mmkId": "1055096",
-  "productGroupId": "492831",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/myprotein-clear-orange-mango-whey-protein/p/6297989",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "261g"
+  "description": "261g",
+  "image": "/medias/sys_master/prd-images/hd9/ha2/33920385450014/prd-front-6297989-1_600x600/prd-front-6297989-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Paraplu met Hartjesprint",
+  "code": "6244894",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 4294 > 4869 > 6347 > 6348 > 6349",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/paraplu-met-hartjesprint/p/6244894",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266862,
+      "name": "Regenkleding"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h71/h09/33700969938974/prd-front-6244894-1_600x600/prd-front-6244894-1-600x600.jpg"
+}

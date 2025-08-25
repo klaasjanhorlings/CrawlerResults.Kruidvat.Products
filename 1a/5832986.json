@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3755",
   "supplier": "ONTEX BVBA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055368",
+  "mmkId": "1055368",
+  "productGroupId": "488383",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-normal-tampons-met-applicator/p/5832986",
@@ -33,6 +33,5 @@
       "name": "Tampons"
     }
   ],
-  "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/he5/h97/32105498181662/prd-front-5832986-1_600x600/prd-front-5832986-1-600x600.jpg"
+  "description": "16 stuks"
 }

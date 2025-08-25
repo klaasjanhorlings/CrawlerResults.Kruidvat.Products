@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Head & Shoulders Citrus Fresh Shampoo met Pomp",
+  "code": "6306956",
+  "price": "10.0",
+  "priceOriginal": "24.99",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1055243",
+  "mmkId": "1055243",
+  "productGroupId": "457124",
+  "brandType": "A of B merk",
+  "discount": "€ 14,99",
+  "url": "/head-shoulders-citrus-fresh-shampoo-met-pomp/p/6306956",
+  "listName": "Lister",
+  "brand": "Head & Shoulders",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "1L"
+}

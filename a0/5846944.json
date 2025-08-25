@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1055035",
-  "mmkId": "1055035",
-  "productGroupId": "484439",
+  "onPromo": "1055444",
+  "mmkId": "1055444",
+  "productGroupId": "494449",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-magnesium-bisglycinaat-375mg-tabletten/p/5846944",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h46/hd7/27373972652062/prd-front-5846944-1_600x600/prd-front-5846944-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055356",
+  "mmkId": "1055356",
+  "productGroupId": "484199",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-egyptian-shower-oil/p/6283296",
@@ -33,5 +33,6 @@
       "name": "Doucheolie"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hda/h00/34183077527582/prd-front-6283296-1_600x600/prd-front-6283296-1-600x600.jpg"
 }

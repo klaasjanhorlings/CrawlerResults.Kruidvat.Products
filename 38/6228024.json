@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 3865 > 5730",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1055008",
-  "mmkId": "1055008",
-  "productGroupId": "462772",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rexona-men-maximum-protection-antitranspirant-spray/p/6228024",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/haf/h46/34697032073246/prd-front-6228024-1_600x600/prd-front-6228024-1-600x600.jpg"
+  "description": "150ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "PS PRODUCT SERVICES",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055368",
+  "mmkId": "1055368",
+  "productGroupId": "488383",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-menstruatiecup/p/4927161",
@@ -33,5 +33,6 @@
       "name": "Menstruatiecups"
     }
   ],
-  "description": "maat B"
+  "description": "maat B",
+  "image": "/medias/sys_master/prd-images/h1b/h3e/28464805773342/prd-front-4927161-1_600x600/prd-front-4927161-1-600x600.jpg"
 }

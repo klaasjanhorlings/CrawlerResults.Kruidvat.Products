@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1055029",
-  "mmkId": "1055029",
-  "productGroupId": "483680",
+  "onPromo": "1055303",
+  "mmkId": "1055303",
+  "productGroupId": "480299",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-hyaluron-pure-hydraterende-conditioner/p/6029035",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h88/h57/32824821415966/prd-front-6029035-1_600x600/prd-front-6029035-1-600x600.jpg"
 }

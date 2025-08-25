@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6760 > 6762 > 6761 > 6759 > 6758",
   "supplier": "BMEDCARE BV",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1055447",
+  "mmkId": "1055447",
+  "productGroupId": "494763",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dermolin-bodymilk/p/5827708",
@@ -33,6 +33,5 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hea/h75/27374606483486/prd-front-5827708-1_600x600/prd-front-5827708-1-600x600.jpg"
+  "description": "200ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1055054",
-  "mmkId": "1055054",
-  "productGroupId": "490913",
+  "onPromo": "1055395",
+  "mmkId": "1055395",
+  "productGroupId": "491047",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-protect-bronze-spf30-zonnemelk/p/1854203",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h99/h2a/34394355105822/prd-front-1854203-1_600x600/prd-front-1854203-1-600x600.jpg"
 }

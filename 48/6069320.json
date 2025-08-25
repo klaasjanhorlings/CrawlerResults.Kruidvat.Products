@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055341",
+  "mmkId": "1055341",
+  "productGroupId": "483504",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sheamoisture-manuka-honey-mafura-oil-intensief-hydraterende-leave-in-conditioner/p/6069320",
@@ -33,5 +33,6 @@
       "name": "Leave-in conditioner"
     }
   ],
-  "description": "326ml"
+  "description": "326ml",
+  "image": "/medias/sys_master/prd-images/h11/h62/30586174177310/prd-front-6069320-1_600x600/prd-front-6069320-1-600x600.jpg"
 }

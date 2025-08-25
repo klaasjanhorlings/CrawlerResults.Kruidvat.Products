@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 6070",
   "supplier": "HEEL BIOLOGISCHE GENEES",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1055480",
+  "mmkId": "1055480",
+  "productGroupId": "500989",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vsm-insectenbeet-prrrikweg-roller/p/1199262",
@@ -37,5 +37,6 @@
       "name": "Na de beet"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h10/he5/34730756538398/prd-front-1199262-1_600x600/prd-front-1199262-1-600x600.jpg"
 }

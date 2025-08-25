@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1055323",
+  "mmkId": "1055323",
+  "productGroupId": "481499",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-retinol-boost-anti-age-oogcreme/p/5627371",
@@ -33,6 +33,5 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hba/h33/44018156306462/prd-front-5627371-1_600x600/prd-front-5627371-1-600x600.jpg"
+  "description": "15ml - Alle huidtypen"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vershoudboxen Set",
+  "code": "6327676",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "KOOPMAN INTERN STOCK",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/vershoudboxen-set/p/6327676",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 84926275,
+      "name": "Voedsel bewaren"
+    }
+  ],
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/h10/h2c/34394391642142/prd-front-6327676-1_600x600/prd-front-6327676-1-600x600.jpg"
+}

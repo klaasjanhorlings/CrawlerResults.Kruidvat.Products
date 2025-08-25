@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3060 > 3908",
   "supplier": "DRYLOCK TECHNOLOGIES SR",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055368",
+  "mmkId": "1055368",
+  "productGroupId": "488383",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-night-plus-ultra-maandverband/p/1377888",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/prd-front-1377888-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njg1MDd8aW1hZ2UvanBlZ3xhRGd3TDJobU15OHhOall3TlRrek5EVXhPRE13TWk5d2NtUXRabkp2Ym5RdE1UTTNOemc0T0MweFh6WXdNSGcyTURBfDg3NTQyZjdkNWUyMzFjNTkwNjA1Nzg2N2EyODY5YzNlZDUyNzM2NGNhNGRiYTY3OWZhOTcwOTk0Nzc0MTcyN2Q"
 }

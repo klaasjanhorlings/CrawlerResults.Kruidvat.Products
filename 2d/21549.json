@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 4100",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Verkoudheidsbalsems"
     }
   ],
-  "description": "Geneesmiddel - 30g"
+  "description": "Geneesmiddel - 30g",
+  "image": "/medias/sys_master/prd-images/h98/he1/34732532531230/prd-front-21549-1_600x600/prd-front-21549-1-600x600.jpg"
 }

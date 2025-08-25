@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5918",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055356",
+  "mmkId": "1055356",
+  "productGroupId": "484199",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-green-curls-hairwax/p/6247820",
@@ -33,5 +33,6 @@
       "name": "Haarwax"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h31/h6b/33104724754462/prd-front-6247820-1_600x600/prd-front-6247820-1-600x600.jpg"
 }

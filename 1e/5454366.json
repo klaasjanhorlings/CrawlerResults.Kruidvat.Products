@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3659",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055239",
+  "mmkId": "1055239",
+  "productGroupId": "456178",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ob-procomfort-normal-tampons/p/5454366",
@@ -33,5 +33,6 @@
       "name": "Tampons"
     }
   ],
-  "description": "32 stuks"
+  "description": "32 stuks",
+  "image": "/medias/sys_master/prd-images/h8d/h93/35129486934046/prd-front-5454366-1_600x600/prd-front-5454366-1-600x600.jpg"
 }
