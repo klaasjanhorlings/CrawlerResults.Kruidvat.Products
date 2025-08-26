@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hcd/h64/27521007648798/prd-front-33663-1_600x600/prd-front-33663-1-600x600.jpg"
 }

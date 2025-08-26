@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "K3 Gevuld Logeerkoffertje",
+  "code": "6283835",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2440 > 2935 > 3730 > 5861 > 5864",
+  "supplier": "CARESSE COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "1056030",
+  "mmkId": "1056030",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/k3-gevuld-logeerkoffertje/p/6283835",
+  "listName": "Lister",
+  "brand": "K3",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666497,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

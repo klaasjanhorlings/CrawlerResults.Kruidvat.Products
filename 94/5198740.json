@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2634 > 3298 > 4197",
   "supplier": "CONFISERIE NAPOLEON SALES BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Mondverfrissers"
     }
   ],
-  "description": "275g",
-  "image": "/medias/sys_master/prd-images/h1c/hac/28218713047070/prd-front-5198740-1_600x600/prd-front-5198740-1-600x600.jpg"
+  "description": "275g"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Finn Sauna Fresh Foaming Shower Gel",
+  "code": "4672844",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "1055272",
+  "mmkId": "1055272",
+  "productGroupId": "475377",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-finn-sauna-fresh-foaming-shower-gel/p/4672844",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266650,
+      "name": "Doucheschuim"
+    }
+  ],
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h6d/h97/28870212419614/prd-front-4672844-1_600x600/prd-front-4672844-1-600x600.jpg"
+}

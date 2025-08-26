@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6023 > 4830 > 4935 > 4981 > 5027",
   "supplier": "DUMMY EXTERN",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Luchtbedden"
     }
   ],
-  "description": "203cm x 102cm x 38cm"
+  "description": "203cm x 102cm x 38cm",
+  "image": "/medias/sys_master/prd-images/hfd/h8e/30167178608670/prd-front-3446094-1_600x600/prd-front-3446094-1-600x600.jpg"
 }
