@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6696",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055522",
+  "mmkId": "1055522",
+  "productGroupId": "492096",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-sun-kissed-chamomile-bloemenhoning-lightening-elixir/p/6256878",
@@ -33,5 +33,6 @@
       "name": "Haarserum"
     }
   ],
-  "description": "120ml"
+  "description": "120ml",
+  "image": "/medias/sys_master/prd-images/h46/haf/33992029831198/prd-front-6256878-1_600x600/prd-front-6256878-1-600x600.jpg"
 }

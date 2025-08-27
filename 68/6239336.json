@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Wasparfum"
     }
   ],
-  "description": "155g",
-  "image": "/medias/sys_master/prd-images/h22/haf/32876107137054/prd-front-6239336-1_600x600/prd-front-6239336-1-600x600.jpg"
+  "description": "155g"
 }

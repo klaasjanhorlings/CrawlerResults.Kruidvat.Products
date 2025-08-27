@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Fujifilm instax Mini 11 Camera",
   "code": "5841393",
   "price": "79.99",
@@ -33,5 +33,6 @@
       "name": "Instax cameras"
     }
   ],
-  "description": "wit"
+  "description": "wit",
+  "image": "/medias/sys_master/prd-images/h53/h95/29299036618782/prd-front-5841393-1_600x600/prd-front-5841393-1-600x600.jpg"
 }

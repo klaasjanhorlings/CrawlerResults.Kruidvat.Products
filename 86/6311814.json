@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Goliath Jumping Jack Kinderspel",
   "code": "6311814",
   "price": "14.99",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hd8/h5b/34725692014622/prd-front-6311814-1_600x600/prd-front-6311814-1-600x600.jpg"
+  "description": ""
 }

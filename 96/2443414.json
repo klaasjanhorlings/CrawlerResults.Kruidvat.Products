@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
   "supplier": "HERO NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1053205",
-  "mmkId": "1053205",
-  "productGroupId": "497804",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organix-7m-appel-rijstwafels/p/2443414",
@@ -33,5 +33,6 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "40g"
+  "description": "40g",
+  "image": "/medias/sys_master/prd-images/h1f/h3b/32827605352478/prd-front-2443414-1_600x600/prd-front-2443414-1-600x600.jpg"
 }

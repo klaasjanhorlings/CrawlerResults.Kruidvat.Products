@@ -7,7 +7,7 @@
   "priceOriginal": "5.75",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3275 > 4176",
   "supplier": "CLOETTA HOLLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Kauwgom en pepermunt"
     }
   ],
-  "description": "136g"
+  "description": "136g",
+  "image": "/medias/sys_master/prd-images/ha9/h01/27624431747102/prd-front-5884604-1_600x600/prd-front-5884604-1-600x600.jpg"
 }

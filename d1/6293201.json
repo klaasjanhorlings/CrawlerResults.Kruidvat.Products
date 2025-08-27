@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pokémon Trading Card Game Paradox Clash Ex Tin",
   "code": "6293201",
   "price": "17.99",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h85/h81/34685804806174/prd-front-6293201-1_600x600/prd-front-6293201-1-600x600.jpg"
+  "description": ""
 }

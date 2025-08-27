@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Diamond Painting",
   "code": "6295406",
   "price": "2.99",
@@ -29,6 +29,5 @@
       "name": "Knutselen"
     }
   ],
-  "description": "paars, 42cm x 31,5cm",
-  "image": "/medias/sys_master/prd-images/h81/hdf/34594357215262/prd-front-6295406-1_600x600/prd-front-6295406-1-600x600.jpg"
+  "description": "paars, 42cm x 31,5cm"
 }

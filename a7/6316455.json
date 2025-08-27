@@ -1,15 +1,15 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Robo Smart Unicorn",
   "code": "6316455",
   "price": "11.99",
   "priceOriginal": "",
   "itemBgbcat": "2183 > 5177 > 5271 > 5460 > 5921 > 6040",
   "supplier": "SPECTRON BV",
-  "inStock": "inStock",
-  "onPromo": "1025309",
-  "mmkId": "1025309",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
@@ -29,5 +29,6 @@
       "name": "Elektronisch speelgoed"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7f/hc0/34872803295262/prd-front-6316455-1_600x600/prd-front-6316455-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3395",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055528",
+  "mmkId": "1055528",
+  "productGroupId": "493263",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/paco-rabanne-pour-homme-aftershave/p/17789",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-17789-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTk5MzV8aW1hZ2UvanBlZ3xhRE5rTDJobE5DOHhOalUzT0RVd01qY3lNVFUyTmk5d2NtUXRabkp2Ym5RdE1UYzNPRGt0TVY4Mk1EQjROakF3fDI3YjRlYTdiMTZjNTczMmVlN2U4ZTJiYzBkNzQ0NWIwZWZhNWUxMTYwYjU3MzEyMzcwNWJhOTkxZWZmYjc1Njg"
 }

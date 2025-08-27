@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "INTERNATIONAL LACQUERS SA",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055291",
+  "mmkId": "1055291",
+  "productGroupId": "478305",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cosmic-dreams-010-starlit-gold-long-lasting-gel-color-nagellak/p/6258873",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "9ml",
-  "image": "/medias/sys_master/prd-images/hda/hb9/33761036763166/prd-front-6258873-1_600x600/prd-front-6258873-1-600x600.jpg"
+  "description": "9ml"
 }

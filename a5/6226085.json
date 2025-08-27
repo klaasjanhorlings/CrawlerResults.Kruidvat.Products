@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Super Mario 72032 Standaardkart",
   "code": "6226085",
   "price": "17.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Super Mario"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h79/h05/32881339891742/prd-front-6226085-1_600x600/prd-front-6226085-1-600x600.jpg"
 }

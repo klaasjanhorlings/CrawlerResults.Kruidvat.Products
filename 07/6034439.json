@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Classic 11034 Creatieve Huisdieren",
   "code": "6034439",
   "price": "29.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Classic"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd7/hd5/30035993198622/prd-front-6034439-1_600x600/prd-front-6034439-1-600x600.jpg"
 }
