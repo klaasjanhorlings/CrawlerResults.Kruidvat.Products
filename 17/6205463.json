@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Playing Kids Houten Koffiemachine",
   "code": "6205463",
   "price": "8.99",
@@ -25,12 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266036,
-      "name": "Houten speelgoed"
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
     },
     {
-      "id": 84925671,
-      "name": "Houten speelsets"
+      "id": 84925806,
+      "name": "Speelsets"
     }
   ],
   "description": "",

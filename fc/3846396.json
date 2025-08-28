@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "1055551",
-  "mmkId": "1055551",
-  "productGroupId": "500063",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/durex-play-sensitive-glijmiddel/p/3846396",
@@ -37,5 +37,6 @@
       "name": "Waterbasis glijmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml"
+  "description": "Medisch hulpmiddel - 100ml",
+  "image": "/medias/prd-front-3846396-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA1NDl8aW1hZ2UvanBlZ3xhRGd4TDJneE1DOHlOams1T1RFMU1URTJOVFEzTUM5d2NtUXRabkp2Ym5RdE16ZzBOak01TmkweFh6WXdNSGcyTURBfGJmMDQwY2JjODhlZjllYzRmMGI4Njk0NzI5NTZkN2E5OGNjODdhZGZhNTZmNzZkY2ZlMjVkYWY0Mjc2NzQ2NDY"
 }

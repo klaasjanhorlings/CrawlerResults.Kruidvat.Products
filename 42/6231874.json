@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO 43256 Disney Anna's Slee-Avontuur",
   "code": "6231874",
   "price": "37.99",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 30266820,
-      "name": "LEGO Disney"
+      "id": 69040785,
+      "name": "LEGO Films en series"
     }
   ],
   "description": "",

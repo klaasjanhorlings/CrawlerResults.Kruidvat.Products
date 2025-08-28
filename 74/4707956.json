@@ -7,7 +7,7 @@
   "priceOriginal": "17.94",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "6 x 12 stuks"
+  "description": "6 x 12 stuks",
+  "image": "/medias/prd-front-4707956-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTE4NTMwfGltYWdlL2pwZWd8YURNM0wyZzNPUzh5TnpFMU1qWXhOekkzTlRReU1pOXdjbVF0Wm5KdmJuUXRORGN3TnprMU5pMHhYell3TUhnMk1EQXwyM2U0YzY2MmM0OTFlN2RkMzEyMDBmN2VmN2JlNDgyN2E0NDg2Mjc5MWRhY2YzZDBjOWUzYzJhYmU1MjBjODE2"
 }

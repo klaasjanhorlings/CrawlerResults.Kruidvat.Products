@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3395",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1055528",
-  "mmkId": "1055528",
-  "productGroupId": "493263",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/paco-rabanne-pour-homme-aftershave/p/17789",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265988,
-      "name": "Parfum"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 72654823,
-      "name": "Herenparfum"
+      "id": 30266612,
+      "name": "Aftershave"
     }
   ],
   "description": "100ml",

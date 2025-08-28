@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Creator Expert 10281 Bonsaiboompje",
   "code": "5528671",
   "price": "44.99",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 30266815,
-      "name": "LEGO Creator"
+      "id": 69043063,
+      "name": "LEGO Bloemen"
     }
   ],
   "description": "",

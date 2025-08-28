@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Icons 10311 Botanical Collection Orchidee",
   "code": "5642316",
   "price": "44.99",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69043063,
-      "name": "LEGO Bloemen"
+      "id": 69026508,
+      "name": "LEGO Volwassenen"
     }
   ],
   "description": "39cm x 30cm x 24cm",

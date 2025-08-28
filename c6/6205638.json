@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Playing Kids Houten Jungle Verjaardagstaart",
   "code": "6205638",
   "price": "8.99",
@@ -25,12 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266028,
-      "name": "Speelfiguren en speelsets"
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
     },
     {
-      "id": 84925806,
-      "name": "Speelsets"
+      "id": 49281541,
+      "name": "Interactief speelgoed"
     }
   ],
   "description": "",

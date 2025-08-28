@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "inStock",
-  "onPromo": "1055546",
-  "mmkId": "1055546",
-  "productGroupId": "495828",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-panorama-all-night-black-mascara/p/6235556",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h13/h13/35066171850782/prd-front-6235556-1_600x600/prd-front-6235556-1-600x600.jpg"
+  "description": "10ml"
 }

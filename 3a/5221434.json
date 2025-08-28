@@ -1,15 +1,15 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Goliath That's Life Zoo Puzzel",
   "code": "5221434",
   "price": "3.99",
   "priceOriginal": "",
   "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6018",
   "supplier": "GOLIATH B.V.",
-  "inStock": "inStock",
-  "onPromo": "1012132",
-  "mmkId": "1012132",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -29,5 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": "1000 stukjes"
+  "description": "1000 stukjes",
+  "image": "/medias/sys_master/prd-images/h5d/h6a/30015285198878/prd-front-5221434-1_600x600/prd-front-5221434-1-600x600.jpg"
 }

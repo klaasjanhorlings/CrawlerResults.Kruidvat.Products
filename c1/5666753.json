@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dinorassic 4-In-1 Puzzel",
   "code": "5666753",
   "price": "4.99",
@@ -29,5 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/h1e/33103607660574/prd-front-5666753-1_600x600/prd-front-5666753-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Creator 31163 3-in-1 Speelse Kat",
   "code": "6201746",
   "price": "22.99",
@@ -33,6 +33,5 @@
       "name": "LEGO Creator"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h10/h6c/33070059749406/prd-front-6201746-1_600x600/prd-front-6201746-1-600x600.jpg"
+  "description": ""
 }

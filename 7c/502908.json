@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6459 > 6460",
   "supplier": "DELIA COSMETICS SP ZOO",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055437",
+  "mmkId": "1055437",
+  "productGroupId": "493652",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-klovenzalf/p/502908",
@@ -29,8 +29,8 @@
       "name": "Voetverzorging"
     },
     {
-      "id": 49316183,
-      "name": "Voetkloven"
+      "id": 48220898,
+      "name": "Voetcréme"
     }
   ],
   "description": "75ml",

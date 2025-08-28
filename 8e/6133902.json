@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "1055528",
-  "mmkId": "1055528",
-  "productGroupId": "493263",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/adidas-vibes-spark-up-eau-de-parfum/p/6133902",
@@ -29,8 +29,8 @@
       "name": "Parfum"
     },
     {
-      "id": 72654823,
-      "name": "Herenparfum"
+      "id": 72654920,
+      "name": "Unisex parfum"
     }
   ],
   "description": "30ml",

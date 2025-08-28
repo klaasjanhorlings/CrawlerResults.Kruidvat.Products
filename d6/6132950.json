@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Playing Kids Houten Kassa",
   "code": "6132950",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Houten speelsets"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h16/h15/34889968680990/prd-front-6132950-1_600x600/prd-front-6132950-1-600x600.jpg"
 }

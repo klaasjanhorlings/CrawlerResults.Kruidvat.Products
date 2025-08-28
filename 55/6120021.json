@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2553 > 4300 > 4301",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/clearblue-digitale-ovulatietest/p/6120021",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/hf1/ha9/44038767018014/prd-front-6120021-1_600x600/prd-front-6120021-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1b/h42/44053722988574/prd-front-6120021-1_600x600/prd-front-6120021-1-600x600.jpg"
 }

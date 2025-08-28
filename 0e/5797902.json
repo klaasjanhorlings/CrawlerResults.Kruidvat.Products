@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3067 > 3674",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "1055265",
-  "mmkId": "1055265",
-  "productGroupId": "473467",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-men-attraction-force-deodorant-bodyspray/p/5797902",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/prd-front-5797902-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQyNDF8aW1hZ2UvanBlZ3xhREUzTDJoaE55OHlOekUyTnpFeE1qUTJNak0yTmk5d2NtUXRabkp2Ym5RdE5UYzVOemt3TWkweFh6WXdNSGcyTURBfGVkYTg2ZmZmMDU0YzEyNzRiODI2NTZkMzhmNTFjMGM5OTIxMDg5NWVkOGU5MWVlYTMzYmIyMTUzNTY0ZTNjMTg"
 }

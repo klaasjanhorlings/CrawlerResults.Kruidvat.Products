@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Clementoni Education Waar Leven Ze?",
   "code": "5895923",
   "price": "2.99",
@@ -29,8 +29,8 @@
       "name": "Educatief speelgoed"
     },
     {
-      "id": 90169580,
-      "name": "Educatieve spellen"
+      "id": 90169671,
+      "name": "Educatieve speelsets"
     }
   ],
   "description": "",

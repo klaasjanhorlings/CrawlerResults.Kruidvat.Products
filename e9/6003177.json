@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Creator 31147 Retro Fotocamera",
   "code": "6003177",
   "price": "17.99",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69044935,
-      "name": "LEGO Verjaardagscadeaus"
+      "id": 30266815,
+      "name": "LEGO Creator"
     }
   ],
   "description": "",

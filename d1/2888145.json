@@ -21,21 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 30265995,
+      "name": "Huidverzorging"
     },
     {
-      "id": 51214305,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 30266940,
-      "name": "Littekencremes"
+      "id": 30266639,
+      "name": "Bodyolie"
     }
   ],
-  "description": "200ml - Alle huidtypen"
+  "description": "200ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h7a/h25/34595244441630/prd-front-2888145-1_600x600/prd-front-2888145-1-600x600.jpg"
 }

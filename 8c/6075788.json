@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Star Wars 75391 Captain Rex Y-Wing Microfighter",
   "code": "6075788",
   "price": "10.99",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69044935,
-      "name": "LEGO Verjaardagscadeaus"
+      "id": 30266821,
+      "name": "LEGO Star Wars"
     }
   ],
   "description": "",

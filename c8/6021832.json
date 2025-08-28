@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1055288",
-  "mmkId": "1055288",
-  "productGroupId": "477578",
+  "onPromo": "1055558",
+  "mmkId": "1055558",
+  "productGroupId": "493665",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-pigment-nachtcreme/p/6021832",
@@ -21,21 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 51214305,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 55926760,
-      "name": "Pigmentverzorging"
+      "id": 30266603,
+      "name": "Nachtcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h2c/h5d/34532950081566/prd-front-6021832-1_600x600/prd-front-6021832-1-600x600.jpg"
 }

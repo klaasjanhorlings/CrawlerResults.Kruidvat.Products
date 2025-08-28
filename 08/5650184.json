@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "999 Games Keer Op Keer Kids",
   "code": "5650184",
   "price": "9.99",
@@ -29,8 +29,8 @@
       "name": "Spellen"
     },
     {
-      "id": 90171500,
-      "name": "Dobbelspellen"
+      "id": 49281411,
+      "name": "Kaartspellen"
     }
   ],
   "description": "Nederlandstalig spel",
