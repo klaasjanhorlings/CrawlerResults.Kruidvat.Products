@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Speed Champions 77237 Dodge Challenger SRT Hellcat Sportauto",
+  "code": "6346842",
+  "price": "24.99",
+  "priceOriginal": "26.99",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1055517",
+  "mmkId": "1055517",
+  "productGroupId": "494053",
+  "brandType": "A of B merk",
+  "discount": "€ 2,00",
+  "url": "/lego-speed-champions-77237-dodge-challenger-srt-hellcat-sportauto/p/6346842",
+  "listName": "Lister",
+  "brand": "LEGO Speed Champs.",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266818,
+      "name": "LEGO Speed Champions"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h26/h73/35040216449054/prd-front-6346842-1_600x600/prd-front-6346842-1-600x600.jpg"
+}

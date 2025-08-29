@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 6+M Bio Wortel, Zoete Aardappel, Kip & Broccoli Maaltijd",
+  "code": "6362438",
+  "price": "1.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
+  "supplier": "SUNVAL BABY FOOD GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-6m-bio-wortel-zoete-aardappel-kip-broccoli-maaltijd/p/6362438",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266771,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267006,
+      "name": "6+ maanden"
+    }
+  ],
+  "description": "190",
+  "image": "/medias/sys_master/prd-images/h5e/hba/35031553802270/prd-front-6362438-1_600x600/prd-front-6362438-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 8+M Bio Appel, Banaan, Kers & Granen Fruithapje",
+  "code": "6362767",
+  "price": "1.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "SUNVAL BABY FOOD GMBH",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-8m-bio-appel-banaan-kers-granen-fruithapje/p/6362767",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266770,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 48682272,
+      "name": "8 maanden +"
+    }
+  ],
+  "description": "190g",
+  "image": "/medias/sys_master/prd-images/hce/h70/35029979791390/prd-front-6362767-1_600x600/prd-front-6362767-1-600x600.jpg"
+}

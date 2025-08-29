@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Ninjago 71839 Arins Spinjitzu Strijdmecha",
+  "code": "6346849",
+  "price": "17.99",
+  "priceOriginal": "19.99",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 2,00",
+  "url": "/lego-ninjago-71839-arins-spinjitzu-strijdmecha/p/6346849",
+  "listName": "Lister",
+  "brand": "LEGO Ninjago",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266812,
+      "name": "LEGO Ninjago"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6f/hff/35039199166494/prd-front-6346849-1_600x600/prd-front-6346849-1-600x600.jpg"
+}

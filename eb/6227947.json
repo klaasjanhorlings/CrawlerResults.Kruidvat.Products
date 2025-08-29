@@ -25,13 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
+      "id": 30266002,
+      "name": "Scheren en ontharen"
     },
     {
-      "id": 30266641,
-      "name": "Bodycremes"
+      "id": 30266681,
+      "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h05/hc4/34793644294174/prd-front-6227947-1_600x600/prd-front-6227947-1-600x600.jpg"
 }

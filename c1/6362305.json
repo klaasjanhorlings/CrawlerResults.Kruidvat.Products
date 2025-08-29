@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 6+M Bio Appel, Peer Banaan & Mango Fruithapje",
+  "code": "6362305",
+  "price": "1.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "SUNVAL BABY FOOD GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-6m-bio-appel-peer-banaan-mango-fruithapje/p/6362305",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266770,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267003,
+      "name": "6 maanden +"
+    }
+  ],
+  "description": "190g",
+  "image": "/medias/sys_master/prd-images/h01/h04/35025301700638/prd-front-6362305-1_600x600/prd-front-6362305-1-600x600.jpg"
+}

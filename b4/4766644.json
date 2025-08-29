@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6430",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055671",
+  "mmkId": "1055671",
+  "productGroupId": "508874",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-professional-reishaardroger/p/4766644",
@@ -37,5 +37,6 @@
       "name": "Föhns"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h39/he7/27779099394078/prd-front-4766644-1_600x600/prd-front-4766644-1-600x600.jpg"
 }

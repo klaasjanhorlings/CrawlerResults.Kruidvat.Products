@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Classic 10698 Creatieve Grote Opbergdoos",
+  "code": "4924165",
+  "price": "44.99",
+  "priceOriginal": "49.99",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/lego-classic-10698-creatieve-grote-opbergdoos/p/4924165",
+  "listName": "Lister",
+  "brand": "LEGO Classic",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266811,
+      "name": "LEGO Classic"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hda/had/35013444993054/prd-front-4924165-1_600x600/prd-front-4924165-1-600x600.jpg"
+}

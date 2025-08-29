@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055298",
+  "mmkId": "1055298",
+  "productGroupId": "479754",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/palmolive-thermal-mineral-massage-douchegel/p/2024590",
@@ -29,8 +29,8 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266648,
-      "name": "Douchegel"
+      "id": 30266651,
+      "name": "Scrub"
     }
   ],
   "description": "250ml - Normale huid",

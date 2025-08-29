@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "1055395",
-  "mmkId": "1055395",
-  "productGroupId": "491047",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-ambre-solaire-super-uv-niacinamide-spf50-anti-imperfecties-fluid/p/6020495",
@@ -25,12 +25,8 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265999,
-      "name": "Zonbescherming"
-    },
-    {
-      "id": 30266657,
-      "name": "Zonnebrand"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "40ml",

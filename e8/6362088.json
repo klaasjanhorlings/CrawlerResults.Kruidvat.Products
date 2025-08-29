@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 12+M Bio Groente, Couscous & Linzen Maaltijd",
+  "code": "6362088",
+  "price": "1.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 3025 > 3850",
+  "supplier": "SUNVAL BABY FOOD GMBH",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-12m-bio-groente-couscous-linzen-maaltijd/p/6362088",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266771,
+      "name": "Babymaaltijden"
+    },
+    {
+      "id": 30267008,
+      "name": "12+ maanden"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h66/haf/35030752559134/prd-front-6362088-1_600x600/prd-front-6362088-1-600x600.jpg"
+}

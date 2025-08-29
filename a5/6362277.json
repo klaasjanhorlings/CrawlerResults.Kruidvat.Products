@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 8+M Bio Perzik, Mango & Banaan Fruithapje",
+  "code": "6362277",
+  "price": "1.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "SUNVAL BABY FOOD GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-8m-bio-perzik-mango-banaan-fruithapje/p/6362277",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266770,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 48682272,
+      "name": "8 maanden +"
+    }
+  ],
+  "description": "190g",
+  "image": "/medias/sys_master/prd-images/hd3/h53/35025506402334/prd-front-6362277-1_600x600/prd-front-6362277-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5665 > 6702",
   "supplier": "TRADE SENSE BV",
-  "inStock": "inStock",
-  "onPromo": "1055245",
-  "mmkId": "1055245",
-  "productGroupId": "457667",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organic-shop-apricot-mango-delicate-face-peeling/p/6051596",
@@ -29,12 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266921,
-      "name": "Reinigingsscrub"
+      "id": 87390099,
+      "name": "Peeling"
     }
   ],
   "description": "90g",
