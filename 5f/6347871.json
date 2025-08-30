@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Glorix Ocean Toiletreiniger",
+  "itemName": "Glorix Ocean Zonder Bleek Toiletreiniger",
   "code": "6347871",
   "price": "2.49",
   "priceOriginal": "3.49",
@@ -13,7 +13,7 @@
   "productGroupId": "489455",
   "brandType": "A of B merk",
   "discount": "€ 1,00",
-  "url": "/glorix-ocean-toiletreiniger/p/6347871",
+  "url": "/glorix-ocean-zonder-bleek-toiletreiniger/p/6347871",
   "listName": "Lister",
   "brand": "Glorix",
   "mpOrigin": "Kruidvat",
@@ -25,8 +25,12 @@
       "name": "Huishouden"
     },
     {
-      "id": 30266071,
-      "name": "Toiletblokken"
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144743,
+      "name": "Schoonmaakmiddelen"
     }
   ],
   "description": "750ml",

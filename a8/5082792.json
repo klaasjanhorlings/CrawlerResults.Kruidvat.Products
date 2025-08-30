@@ -7,10 +7,10 @@
   "priceOriginal": "49.99",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1040890",
+  "mmkId": "1040890",
+  "productGroupId": "432542",
   "brandType": "A of B merk",
   "discount": "€ 5,00",
   "url": "/lego-duplo-10914-luxe-opbergdoos/p/5082792",
@@ -33,6 +33,5 @@
       "name": "LEGO Duplo"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h53/he2/35010627928094/prd-front-5082792-1_600x600/prd-front-5082792-1-600x600.jpg"
+  "description": ""
 }

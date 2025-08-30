@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055517",
+  "mmkId": "1055517",
+  "productGroupId": "494053",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-11024-grijze-bouwplaat/p/3521225",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 30266811,
-      "name": "LEGO Classic"
+      "id": 49429181,
+      "name": "LEGO bouwplaten"
     }
   ],
   "description": "38cm x 38cm",

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2721 > 3424",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1055455",
-  "mmkId": "1055455",
-  "productGroupId": "495217",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-baby-haarlotion/p/6314075",
@@ -37,5 +37,6 @@
       "name": "Baby haarlotion"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h9f/haf/34352333619230/prd-front-6314075-1_600x600/prd-front-6314075-1-600x600.jpg"
 }

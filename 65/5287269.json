@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
   "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
-  "inStock": "inStock",
-  "onPromo": "1055457",
-  "mmkId": "1055457",
-  "productGroupId": "495411",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-100-pure-whey-chocolate-proteinepoeder/p/5287269",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "670g"
+  "description": "670g",
+  "image": "/medias/sys_master/prd-images/h26/h6b/33761893449758/prd-front-5287269-1_600x600/prd-front-5287269-1-600x600.jpg"
 }

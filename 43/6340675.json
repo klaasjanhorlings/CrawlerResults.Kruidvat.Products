@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Cellular Epigenetics Ultiem Huidverjongend Serum",
+  "code": "6340675",
+  "price": "44.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1054633",
+  "mmkId": "1054633",
+  "productGroupId": "501093",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-cellular-epigenetics-ultiem-huidverjongend-serum/p/6340675",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hc5/h76/35136454492190/prd-front-6340675-1_600x600/prd-front-6340675-1-600x600.jpg"
+}

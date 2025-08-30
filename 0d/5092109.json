@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "SOLUTION EU BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055403",
+  "mmkId": "1055403",
+  "productGroupId": "492153",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-6m-drinkbeker-met-rietje/p/5092109",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "roze, 300ml"
+  "description": "roze, 300ml",
+  "image": "/medias/prd-front-5092109-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTUwNzV8aW1hZ2UvanBlZ3xhREV6TDJnME5pOHlOekV6TnpnNU5UWTVORE0yTmk5d2NtUXRabkp2Ym5RdE5UQTVNakV3T1MweFh6WXdNSGcyTURBfDkxNDdkYmFlNDViYzg2MDBlYTkzOTgwMTEwZTM3NGM3MGNhNGYyZjFjMjQzMWE3MTM5NjhlNTcwNzI4YjU0NjU"
 }
