@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "FEMIA COSMETIC",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055269",
+  "mmkId": "1055269",
+  "productGroupId": "475332",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-glow-vitamine-c-oogcreme/p/6291024",
@@ -37,5 +37,6 @@
       "name": "Oogserum"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h83/h4b/34258405916702/prd-front-6291024-1_600x600/prd-front-6291024-1-600x600.jpg"
 }
