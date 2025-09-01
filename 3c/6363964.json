@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 6+M Bio Zoete Aardappel & Bloemkool Maaltijd",
   "code": "6363964",
   "price": "1.09",
@@ -37,6 +37,5 @@
       "name": "6+ maanden"
     }
   ],
-  "description": "190g",
-  "image": "/medias/sys_master/prd-images/h9f/h9a/35032411799582/prd-front-6363964-1_600x600/prd-front-6363964-1-600x600.jpg"
+  "description": "190g"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Spa Reine",
+  "code": "5474932",
+  "price": "2.99",
+  "priceOriginal": "3.45",
+  "itemBgbcat": "2004 > 2047 > 2171 > 2655 > 2767 > 3474",
+  "supplier": "SPADEL NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 0,46",
+  "url": "/spa-reine/p/5474932",
+  "listName": "Lister",
+  "brand": "Spa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266885,
+      "name": "Koude dranken"
+    }
+  ],
+  "description": "6 x 500ml",
+  "image": "/medias/prd-front-5474932-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTI0NTV8aW1hZ2UvanBlZ3xhR001TDJneU5DOHlOalF3T1RJMU5UUXdNelUxTUM5d2NtUXRabkp2Ym5RdE5UUTNORGt6TWkweFh6WXdNSGcyTURBfDMwY2RmODgxMTc1NjA0ZmYwZGVkYWUxZTFlYWU5NjQ1NzU3M2ExOTY2YmRkZjcyMWE3MTI2ODA0YTE5NjZhOGI"
+}

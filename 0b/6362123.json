@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 8+M Bio Groenten, Zoete Aardappel & Rund Maaltijd",
   "code": "6362123",
   "price": "1.09",
@@ -37,5 +37,6 @@
       "name": "8+ maanden"
     }
   ],
-  "description": "190g"
+  "description": "190g",
+  "image": "/medias/sys_master/prd-images/h4c/hb7/35031553736734/prd-front-6362123-1_600x600/prd-front-6362123-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Pure & Soft NewBorn Maat 2 Luiers Volumedoos",
   "code": "5662084",
   "price": "22.99",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 2"
     }
   ],
-  "description": "mt 2 (3-6 kg), 186 stuks"
+  "description": "mt 2 (3-6 kg), 186 stuks",
+  "image": "/medias/prd-front-5662084-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzcxOTZ8aW1hZ2UvanBlZ3xhRE0yTDJneU1pOHlOams0TWpFeE1EQXdNekl6TUM5d2NtUXRabkp2Ym5RdE5UWTJNakE0TkMweFh6WXdNSGcyTURBfDI4MWVmZjllODljODc5OTdkODViZmIxZTIxMzBmYTJiN2Y0NGRhNmFkYjE2ODk5MWJiMmYwZjg2ZjM2ZjY1NGQ"
 }

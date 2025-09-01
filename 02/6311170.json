@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Zwitsal Wasschuim",
   "code": "6311170",
   "price": "4.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h5c/h35/44095005753374/prd-front-6311170-1_600x600/prd-front-6311170-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h48/h83/44103997587486/prd-front-6311170-1_600x600/prd-front-6311170-1-600x600.jpg"
 }

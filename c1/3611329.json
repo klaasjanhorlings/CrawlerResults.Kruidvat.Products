@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3114 > 3611",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1055615",
+  "mmkId": "1055615",
+  "productGroupId": "503203",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-extra-intensief-oogdruppels/p/3611329",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml"
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/hd3/h46/33102482309150/prd-front-3611329-1_600x600/prd-front-3611329-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Brita Vital Blue Waterfilterfles",
+  "code": "6337784",
+  "price": "12.99",
+  "priceOriginal": "17.5",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "BRITA SE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 4,51",
+  "url": "/brita-vital-blue-waterfilterfles/p/6337784",
+  "listName": "Lister",
+  "brand": "BRITA",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 75058786,
+      "name": "Waterfilters en drinkflessen"
+    }
+  ],
+  "description": "lichtblauw, 0,6L",
+  "image": "/medias/sys_master/prd-images/hd9/h0a/34520736956446/prd-front-6337784-1_600x600/prd-front-6337784-1-600x600.jpg"
+}

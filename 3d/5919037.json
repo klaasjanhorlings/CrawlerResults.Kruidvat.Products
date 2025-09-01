@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 7+M Bio Aardbei en Banaan Maïspuffs",
   "code": "5919037",
   "price": "1.19",
@@ -33,6 +33,5 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "50g",
-  "image": "/medias/sys_master/prd-images/h7a/h7f/28371797049374/prd-front-5919037-1_600x600/prd-front-5919037-1-600x600.jpg"
+  "description": "50g"
 }

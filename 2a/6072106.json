@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2885 > 4228 > 5693",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "1055557",
-  "mmkId": "1055557",
-  "productGroupId": "493235",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-io-radiant-white-opzetborstels/p/6072106",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 2 stuks"
+  "description": "wit, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hbb/h41/34388727726110/prd-front-6072106-1_600x600/prd-front-6072106-1-600x600.jpg"
 }

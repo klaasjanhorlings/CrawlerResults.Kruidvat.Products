@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Zwitsal Conditioner",
   "code": "6310715",
   "price": "4.29",
@@ -37,5 +37,6 @@
       "name": "Baby cremespoeling"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hc5/hbb/34737668522014/prd-front-6310715-1_600x600/prd-front-6310715-1-600x600.jpg"
 }

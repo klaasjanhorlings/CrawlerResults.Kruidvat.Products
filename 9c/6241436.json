@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pampers Baby-Dry Maat 3 Luiers",
   "code": "6241436",
   "price": "30.49",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 3"
     }
   ],
-  "description": "mt 3 (6-10kg), 74 stuks",
-  "image": "/medias/sys_master/prd-images/h6c/he3/34794267148318/prd-front-6241436-1_600x600/prd-front-6241436-1-600x600.jpg"
+  "description": "mt 3 (6-10kg), 74 stuks"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "DryNites Girls 3-4 Jaar Pyjamabroekjes",
   "code": "6234380",
   "price": "11.85",
@@ -29,6 +29,5 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "3-4 jaar (12-21 kg), 16 stuks",
-  "image": "/medias/sys_master/prd-images/h12/h98/34415703261214/prd-front-6234380-1_600x600/prd-front-6234380-1-600x600.jpg"
+  "description": "3-4 jaar (12-21 kg), 16 stuks"
 }

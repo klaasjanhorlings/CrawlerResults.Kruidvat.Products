@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Ella's Kitchen 7+M Peach + Banana Maize Sticks",
   "code": "5016873",
   "price": "1.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
   "supplier": "CAMPS FOOD BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055586",
+  "mmkId": "1055586",
+  "productGroupId": "457031",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ellas-kitchen-7m-peach-banana-maize-sticks/p/5016873",
@@ -33,5 +33,6 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "16g"
+  "description": "16g",
+  "image": "/medias/prd-front-5016873-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQzODZ8aW1hZ2UvanBlZ3xhRGhqTDJoaU5TOHhOelF6Tnpnd05qazROVEkwTmk5d2NtUXRabkp2Ym5RdE5UQXhOamczTXkweFh6WXdNSGcyTURBfDVmNmE0YjliNDMxMTdiMzM5ODE0NzFkZDQ1ZGQ3YjliZTRlZDllMTFmZDcwZGI2Y2IwOGUwMjlkZGM4YTdkODk"
 }
