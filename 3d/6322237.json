@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kinderpyjama met Dinoprint",
+  "code": "6322237",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2495 > 3061 > 3520 > 5795 > 5928 > 6716",
+  "supplier": "SABORN TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kinderpyjama-met-dinoprint/p/6322237",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266856,
+      "name": "Kinderpyjama's"
+    }
+  ],
+  "description": "groen, grijs, mt 122-128",
+  "image": "/medias/sys_master/prd-images/ha6/h0f/35132187181086/prd-front-6322237-1_600x600/prd-front-6322237-1-600x600.jpg"
+}

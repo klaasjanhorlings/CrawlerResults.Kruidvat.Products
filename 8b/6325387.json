@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055315",
+  "mmkId": "1055315",
+  "productGroupId": "480800",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-derma-control-defend-douchegel/p/6325387",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h62/hc6/44037747703838/prd-front-6325387-1_600x600/prd-front-6325387-1-600x600.jpg"
+  "description": "250ml"
 }

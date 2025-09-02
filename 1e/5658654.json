@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Pure & Soft NewBorn Maat 2 Luiers Valuepack",
   "code": "5658654",
   "price": "11.49",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055292",
+  "mmkId": "1055292",
+  "productGroupId": "478361",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pure-soft-newborn-maat-2-luiers-valuepack/p/5658654",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 2 (3-6 kg), 62 stuks",
-  "image": "/medias/sys_master/prd-images/h86/h38/44102527025182/prd-front-5658654-1_600x600/prd-front-5658654-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h64/ha7/44111761768478/prd-front-5658654-1_600x600/prd-front-5658654-1-600x600.jpg"
 }

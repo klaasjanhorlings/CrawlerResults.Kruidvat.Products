@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Naïf Baby & Kids 2-in-1 Shampoo & Body Wash",
   "code": "6122793",
   "price": "12.49",
@@ -29,12 +29,12 @@
       "name": "Babyverzorging"
     },
     {
-      "id": 30266775,
-      "name": "Baby haarverzorging"
+      "id": 30266777,
+      "name": "Baby bad- en doucheverzorging"
     },
     {
-      "id": 30267012,
-      "name": "Babyshampoo"
+      "id": 30267021,
+      "name": "Babywasgel"
     }
   ],
   "description": "200ml",

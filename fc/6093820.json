@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Goodies Pizza Llama Puffs",
   "code": "6093820",
   "price": "1.49",
@@ -33,6 +33,5 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "30g",
-  "image": "/medias/sys_master/prd-images/hb3/hca/34917411160094/prd-front-6093820-1_600x600/prd-front-6093820-1-600x600.jpg"
+  "description": "30g"
 }

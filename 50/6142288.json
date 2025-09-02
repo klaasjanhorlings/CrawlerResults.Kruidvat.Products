@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ella's Kitchen Organic 4M+ Bio Rabarber Aarbeien en Appel Knijpzakje",
   "code": "6142288",
   "price": "1.95",
@@ -37,5 +37,6 @@
       "name": "4 maanden +"
     }
   ],
-  "description": "120g"
+  "description": "120g",
+  "image": "/medias/sys_master/prd-images/hc7/h3f/31458814132254/prd-front-6142288-1_600x600/prd-front-6142288-1-600x600.jpg"
 }

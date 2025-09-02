@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Biodermal Pigment Serum",
   "code": "6021839",
   "price": "39.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h6d/hdd/44099782213662/prd-front-6021839-1_600x600/prd-front-6021839-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hdf/h9c/44108212568094/prd-front-6021839-1_600x600/prd-front-6021839-1-600x600.jpg"
 }

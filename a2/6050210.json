@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Noorse Formule Deep Moisture Bodymilk",
+  "code": "6050210",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6760 > 6762 > 6761 > 6759 > 6758",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "1055323",
+  "mmkId": "1055323",
+  "productGroupId": "481499",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutrogena-noorse-formule-deep-moisture-bodymilk/p/6050210",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30266606,
+      "name": "Dermacare"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h5a/h8a/34048792887326/prd-front-6050210-1_600x600/prd-front-6050210-1-600x600.jpg"
+}

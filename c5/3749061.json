@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
   "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
-  "inStock": "inStock",
-  "onPromo": "1055457",
-  "mmkId": "1055457",
-  "productGroupId": "495411",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-100-pure-whey-met-aardbeismaak/p/3749061",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "1250g"
+  "description": "1250g",
+  "image": "/medias/sys_master/prd-images/h7c/h77/33762628272158/prd-front-3749061-1_600x600/prd-front-3749061-1-600x600.jpg"
 }

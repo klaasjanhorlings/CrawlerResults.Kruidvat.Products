@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dubbele Fietstas met Print",
+  "code": "6276884",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6418",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1055488",
+  "mmkId": "1055488",
+  "productGroupId": "504766",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/dubbele-fietstas-met-print/p/6276884",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "36,5cm x 14cm x 30cm",
+  "image": "/medias/sys_master/prd-images/h0a/h07/33884970713118/prd-front-6276884-1_600x600/prd-front-6276884-1-600x600.jpg"
+}

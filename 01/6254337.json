@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
-  "onPromo": "1055488",
-  "mmkId": "1055488",
-  "productGroupId": "504766",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/true-spirit-teddy-shopper-met-hartjesprint/p/6254337",
@@ -33,5 +33,6 @@
       "name": "Tassen"
     }
   ],
-  "description": "bruin, 58cm x 42cm x 8cm"
+  "description": "bruin, 58cm x 42cm x 8cm",
+  "image": "/medias/sys_master/prd-images/hc8/h0a/33681487331358/prd-front-6254337-1_600x600/prd-front-6254337-1-600x600.jpg"
 }

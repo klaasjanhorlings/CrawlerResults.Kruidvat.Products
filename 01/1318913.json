@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bepanthen Baby Zalf",
   "code": "1318913",
   "price": "5.49",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "30g"
+  "description": "30g",
+  "image": "/medias/sys_master/prd-images/h53/h64/31931269677086/prd-front-1318913-1_600x600/prd-front-1318913-1-600x600.jpg"
 }

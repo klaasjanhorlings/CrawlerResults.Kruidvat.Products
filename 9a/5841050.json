@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Philips Avent Natural Response  SCY903/67 1m+ Koala Babyfles met Natuurlijke Zuigreflex Flesspeen",
   "code": "5841050",
   "price": "12.99",
@@ -33,6 +33,5 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "260ml",
-  "image": "/medias/sys_master/prd-images/hb2/hfb/28888445485086/prd-front-5841050-1_600x600/prd-front-5841050-1-600x600.jpg"
+  "description": "260ml"
 }

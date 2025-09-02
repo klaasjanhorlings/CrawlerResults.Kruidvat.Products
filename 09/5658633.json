@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Pure & Soft Maat 3 Luiers Valuepack",
   "code": "5658633",
   "price": "11.49",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 3"
     }
   ],
-  "description": "mt 3 (4-9 kg), 44 stuks",
-  "image": "/medias/sys_master/prd-images/h16/h59/44101290229790/prd-front-5658633-1_600x600/prd-front-5658633-1-600x600.jpg"
+  "description": "mt 3 (4-9 kg), 44 stuks"
 }

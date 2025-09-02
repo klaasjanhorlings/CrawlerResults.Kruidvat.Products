@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Polaroid Generation 2 Hi-Print 2x3 Pocket Photo Printer",
+  "code": "6297730",
+  "price": "99.99",
+  "priceOriginal": "129.99",
+  "itemBgbcat": "2243 > 2408 > 2849 > 3588 > 4870 > 6031",
+  "supplier": "TRANSCONTINENTA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 30,00",
+  "url": "/polaroid-generation-2-hi-print-2x3-pocket-photo-printer/p/6297730",
+  "listName": "Lister",
+  "brand": "Polaroid",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 49258802,
+      "name": "Printers"
+    }
+  ],
+  "description": "wit, inclusief 40 gratis sheets",
+  "image": "/medias/sys_master/prd-images/h49/h39/33987918528542/prd-front-6297730-1_600x600/prd-front-6297730-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "14.99",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055517",
+  "mmkId": "1055517",
+  "productGroupId": "494053",
   "brandType": "A of B merk",
   "discount": "€ 2,00",
   "url": "/lego-star-wars-75400-plo-koons-jedi-starfighter-microfighter/p/6346779",
@@ -33,5 +33,6 @@
       "name": "LEGO Star Wars"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h27/h57/34950862569502/prd-front-6346779-1_600x600/prd-front-6346779-1-600x600.jpg"
 }
