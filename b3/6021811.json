@@ -21,18 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 30266023,
-      "name": "Zwangerschap en kraamtijd"
+      "id": 30266006,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30266805,
-      "name": "Mama verzorgingsproducten"
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 55926760,
+      "name": "Pigmentverzorging"
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h91/hbb/44108388761630/prd-front-6021811-1_600x600/prd-front-6021811-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

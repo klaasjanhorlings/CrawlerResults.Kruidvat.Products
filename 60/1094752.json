@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Insectenspray tegen Kruipende Insecten en Wespen",
+  "code": "1094752",
+  "price": "7.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 4144",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-insectenspray-tegen-kruipende-insecten-en-wespen/p/1094752",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266896,
+      "name": "Insectenbestrijding"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h8d/h96/27777957199902/prd-front-1094752-1_600x600/prd-front-1094752-1-600x600.jpg"
+}

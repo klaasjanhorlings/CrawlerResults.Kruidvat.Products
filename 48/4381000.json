@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "1055251",
-  "mmkId": "1055251",
-  "productGroupId": "462088",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-wondspray/p/4381000",
@@ -29,8 +29,8 @@
       "name": "Wondverzorging"
     },
     {
-      "id": 30266740,
-      "name": "Wondreiniging en/of -ontsmetting"
+      "id": 30266735,
+      "name": "EHBO-doos"
     }
   ],
   "description": "Medisch hulpmiddel - 100ml",

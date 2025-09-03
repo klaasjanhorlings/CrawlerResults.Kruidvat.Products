@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Satin Glow 05 Chai There! Luminous Shine Lipstick",
+  "code": "6349229",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-satin-glow-05-chai-there-luminous-shine-lipstick/p/6349229",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "3.5g",
+  "image": "/medias/sys_master/prd-images/hef/hac/44120530223134/prd-front-6349229-1_600x600/prd-front-6349229-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
   "supplier": "DURODONT GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,8 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
     }
   ],
   "description": "20ml",

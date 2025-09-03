@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3067 > 3681",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-1453502-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA4NTZ8aW1hZ2UvanBlZ3xhREZsTDJoaE1DOHhOalkzTWprNU1qSTVOams1TUM5d2NtUXRabkp2Ym5RdE1UUTFNelV3TWkweFh6WXdNSGcyTURBfGE2MWM4MjJkYWUwYTljYjFiNzFjZGQ3ZWU3ZWQ4ZTJkMThmYWQ3ZGUwZmYzYmM2NGQyNDFmN2Q2MjVjZjViMTk"
 }

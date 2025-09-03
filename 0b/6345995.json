@@ -4,7 +4,7 @@
   "itemName": "LEGO Disney 43264 Toy Story Feesttrein en RC Auto",
   "code": "6345995",
   "price": "36.99",
-  "priceOriginal": "39.99",
+  "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/lego-disney-43264-toy-story-feesttrein-en-rc-auto/p/6345995",
   "listName": "Lister",
   "brand": "LEGO Disney",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69040785,
-      "name": "LEGO Films en series"
+      "id": 30266820,
+      "name": "LEGO Disney"
     }
   ],
   "description": "",

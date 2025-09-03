@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Axe Emerald Geranium Deodorant Bodyspray",
+  "itemName": "Axe Fine Fragrance Emerald Geranium Deodorant & Bodyspray",
   "code": "5781858",
   "price": "8.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "476469",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/axe-emerald-geranium-deodorant-bodyspray/p/5781858",
+  "url": "/axe-fine-fragrance-emerald-geranium-deodorant-bodyspray/p/5781858",
   "listName": "Lister",
   "brand": "Axe Fine Fragrance",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hd3/h3e/35104789790750/prd-front-5781858-1_600x600/prd-front-5781858-1-600x600.jpg"
+  "description": "150ml"
 }

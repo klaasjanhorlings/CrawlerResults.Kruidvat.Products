@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1053199",
-  "mmkId": "1053199",
-  "productGroupId": "497748",
+  "onPromo": "1055677",
+  "mmkId": "1055677",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nutrilon-duobalans-2-opvolgmelk-flesvoeding-6-12-maanden/p/5600834",
@@ -37,6 +37,5 @@
       "name": "Opvolgmelk"
     }
   ],
-  "description": "800g",
-  "image": "/medias/sys_master/prd-images/h98/h1b/33886307745822/prd-front-5600834-1_600x600/prd-front-5600834-1-600x600.jpg"
+  "description": "800g"
 }

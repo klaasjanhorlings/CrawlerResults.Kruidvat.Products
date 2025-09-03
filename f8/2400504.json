@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2038 > 2157 > 2385 > 2827 > 3841",
   "supplier": "CURATEX GMBH (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1055417",
-  "mmkId": "1055417",
-  "productGroupId": "493030",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-100-cotton-sensitive-maxi-wattenschijfjes/p/2400504",
@@ -33,5 +33,6 @@
       "name": "Wattenschijfjes en staafjes"
     }
   ],
-  "description": "45 stuks"
+  "description": "45 stuks",
+  "image": "/medias/sys_master/prd-images/h7a/h22/27293965713438/prd-front-2400504-1_600x600/prd-front-2400504-1-600x600.jpg"
 }

@@ -25,18 +25,9 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266605,
-      "name": "Serum"
-    },
-    {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/ha9/ha7/35128010440734/prd-front-5935410-1_600x600/prd-front-5935410-1-600x600.jpg"
+  "description": "30ml"
 }

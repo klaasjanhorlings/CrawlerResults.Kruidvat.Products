@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055251",
+  "mmkId": "1055251",
+  "productGroupId": "462088",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-wondhelende-zalf/p/4380643",
@@ -25,16 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 30266008,
+      "name": "Wondverzorging"
     },
     {
-      "id": 51214305,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 51235337,
-      "name": "Eerste hulp zalf"
+      "id": 30266735,
+      "name": "EHBO-doos"
     }
   ],
   "description": "Medisch hulpmiddel - 50g",

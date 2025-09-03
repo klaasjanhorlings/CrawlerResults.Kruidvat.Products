@@ -4,7 +4,7 @@
   "itemName": "LEGO City 60415 Politiewagen en Snelle Autoachtervolging",
   "code": "6003576",
   "price": "17.99",
-  "priceOriginal": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1055517",
   "productGroupId": "494053",
   "brandType": "A of B merk",
-  "discount": "€ 2,00",
+  "discount": "",
   "url": "/lego-city-60415-politiewagen-en-snelle-autoachtervolging/p/6003576",
   "listName": "Lister",
   "brand": "LEGO City",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69031070,
-      "name": "LEGO Voertuigen"
+      "id": 30266810,
+      "name": "LEGO City"
     }
   ],
   "description": "",

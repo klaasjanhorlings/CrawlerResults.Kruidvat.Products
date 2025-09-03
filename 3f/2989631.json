@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "1055403",
-  "mmkId": "1055403",
-  "productGroupId": "492153",
+  "onPromo": "1055639",
+  "mmkId": "1055639",
+  "productGroupId": "492274",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/weleda-zwangerschapsolie/p/2989631",
@@ -33,6 +33,5 @@
       "name": "Mama verzorgingsproducten"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h6a/h76/29026584002590/prd-front-2989631-1_600x600/prd-front-2989631-1-600x600.jpg"
+  "description": "100ml"
 }

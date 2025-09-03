@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6205 > 6223 > 6293",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055444",
+  "mmkId": "1055444",
+  "productGroupId": "494449",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-magnesium-mama-baby-multi-capsules/p/6071777",
@@ -29,12 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
+      "id": 30266715,
+      "name": "Mineralen"
     },
     {
-      "id": 30267461,
-      "name": "Multivitamines"
+      "id": 50001842,
+      "name": "Magnesium"
     }
   ],
   "description": "30 stuks",

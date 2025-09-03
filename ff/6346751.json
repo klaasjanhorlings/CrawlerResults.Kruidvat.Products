@@ -4,7 +4,7 @@
   "itemName": "LEGO City 60455 Achtervolging Op Politiemotor",
   "code": "6346751",
   "price": "8.99",
-  "priceOriginal": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1055517",
   "productGroupId": "494053",
   "brandType": "A of B merk",
-  "discount": "€ 1,00",
+  "discount": "",
   "url": "/lego-city-60455-achtervolging-op-politiemotor/p/6346751",
   "listName": "Lister",
   "brand": "LEGO City",
@@ -25,8 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266031,
-      "name": "Voertuigen"
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266810,
+      "name": "LEGO City"
     }
   ],
   "description": "",

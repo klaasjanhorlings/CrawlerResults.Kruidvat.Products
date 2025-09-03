@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1055677",
+  "mmkId": "1055677",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h10/h9e/44118568992798/prd-front-6322979-1_600x600/prd-front-6322979-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5f/hdb/44130498248734/prd-front-6322979-1_600x600/prd-front-6322979-1-600x600.jpg"
 }
