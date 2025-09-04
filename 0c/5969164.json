@@ -1,9 +1,9 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Libresse Ultra Regular Maandverband",
   "code": "5969164",
-  "price": "16.26",
+  "price": "8.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3331 > 4235",
   "supplier": "ESSITY",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "3 x 30 stuks",
-  "image": "/medias/sys_master/prd-images/h01/h33/30147346858014/prd-front-5969164-1_600x600/prd-front-5969164-1-600x600.jpg"
+  "description": "3 x 30 stuks"
 }

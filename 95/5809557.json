@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "John Frieda Go Blonder Lightening Shampoo",
   "code": "5809557",
   "price": "3.79",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h8a/h77/34880462618654/prd-front-5809557-1_600x600/prd-front-5809557-1-600x600.jpg"
+  "description": "75ml"
 }

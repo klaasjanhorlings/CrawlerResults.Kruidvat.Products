@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dove Men+Care Advanced Invisible Dry Deoroller",
   "code": "6227975",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h52/hde/34417241948190/prd-front-6227975-1_600x600/prd-front-6227975-1-600x600.jpg"
 }

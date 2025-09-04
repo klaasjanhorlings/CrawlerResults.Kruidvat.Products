@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Head & Shoulders Classic Antiroosshampoo",
   "code": "5439239",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h15/ha3/34021251579934/prd-front-5439239-1_600x600/prd-front-5439239-1-600x600.jpg"
 }

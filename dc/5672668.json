@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sensodyne Repair & Protect Extra Soft Tandenborstel",
   "code": "5672668",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha9/hef/33893673893918/prd-front-5672668-1_600x600/prd-front-5672668-1-600x600.jpg"
+  "description": ""
 }

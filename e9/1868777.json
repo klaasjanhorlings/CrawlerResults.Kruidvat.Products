@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Oral-B Pro Expert Professionele Bescherming Tandpasta",
   "code": "1868777",
   "price": "8.85",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h9f/h4a/32083829817374/prd-front-1868777-1_600x600/prd-front-1868777-1-600x600.jpg"
 }

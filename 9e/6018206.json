@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Luminous630 Anti-Striae/Anti-Striemen Body Oil-Serum",
   "code": "6018206",
   "price": "24.99",
@@ -33,6 +33,5 @@
       "name": "Bodyolie"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h07/h6a/34397011640350/prd-front-6018206-1_600x600/prd-front-6018206-1-600x600.jpg"
+  "description": "100ml"
 }

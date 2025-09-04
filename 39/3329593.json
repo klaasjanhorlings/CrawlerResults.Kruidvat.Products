@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Schwarzkopf got2b Gentleman Molding Paste",
   "code": "3329593",
   "price": "9.49",
@@ -33,5 +33,6 @@
       "name": "Haarpasta"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h6c/hc3/33764389847070/prd-front-3329593-1_600x600/prd-front-3329593-1-600x600.jpg"
 }

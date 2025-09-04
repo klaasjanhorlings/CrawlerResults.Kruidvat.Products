@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Vaseline Dark Spot Rescue Lotion",
   "code": "5507321",
   "price": "8.09",
@@ -33,5 +33,6 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h2e/h51/27552844939294/prd-front-5507321-1_600x600/prd-front-5507321-1-600x600.jpg"
 }

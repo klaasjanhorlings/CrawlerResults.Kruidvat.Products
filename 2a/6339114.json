@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 2920 > 3715",
   "supplier": "HERO NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1055637",
-  "mmkId": "1055637",
-  "productGroupId": "488436",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 2,70",
   "url": "/organix-12m-havermout-abrikoos-banaan-knijpzakjes/p/6339114",
@@ -37,5 +37,6 @@
       "name": "12 maanden +"
     }
   ],
-  "description": "6 stuks"
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/h66/hd1/34838240886814/prd-front-6339114-1_600x600/prd-front-6339114-1-600x600.jpg"
 }

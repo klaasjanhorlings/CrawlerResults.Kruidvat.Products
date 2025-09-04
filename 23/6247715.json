@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Gillette ProGlide Scheermesjes",
   "code": "6247715",
   "price": "39.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 42,30",
+  "discount": "$ 42,30",
   "url": "/gillette-proglide-scheermesjes/p/6247715",
   "listName": "Lister",
   "brand": "Gillette",

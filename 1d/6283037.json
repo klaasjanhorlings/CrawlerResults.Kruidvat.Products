@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Moments Jasmine & Tucuma Butter Bodylotion",
   "code": "6283037",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hcc/h1b/33850952744990/prd-front-6283037-1_600x600/prd-front-6283037-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Syoss Blonde & Silver Purple Shampoo",
   "code": "5244723",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "440ml"
+  "description": "440ml",
+  "image": "/medias/sys_master/prd-images/h63/h54/33962424172574/prd-front-5244723-1_600x600/prd-front-5244723-1-600x600.jpg"
 }

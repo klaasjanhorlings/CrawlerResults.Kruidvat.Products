@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Syoss Hold 5 Max Hold Haarspray",
   "code": "6236270",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h31/h12/33850134921246/prd-front-6236270-1_600x600/prd-front-6236270-1-600x600.jpg"
 }

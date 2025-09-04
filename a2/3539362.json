@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Philips Sonicare ProResults HX6012/87 Opzetborstels",
   "code": "3539362",
   "price": "18.99",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 2 stuks"
+  "description": "wit, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h49/hfa/35029915664414/prd-front-3539362-1_600x600/prd-front-3539362-1-600x600.jpg"
 }

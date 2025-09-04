@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sensodyne Repair & Protect Whitening Tandpasta",
   "code": "2609475",
   "price": "7.29",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 75ml"
+  "description": "Medisch hulpmiddel - 75ml",
+  "image": "/medias/sys_master/prd-images/hde/h7b/34486150004766/prd-front-2609475-1_600x600/prd-front-2609475-1-600x600.jpg"
 }

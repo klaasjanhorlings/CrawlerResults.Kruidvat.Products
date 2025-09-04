@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Libresse Ultra Normal Multistyle Maandverband",
   "code": "6362039",
   "price": "2.89",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/h3c/h30/44001088569374/prd-front-6362039-1_600x600/prd-front-6362039-1-600x600.jpg"
+  "description": "10 stuks"
 }

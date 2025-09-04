@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Zenner Nagelborstel",
   "code": "5823739",
   "price": "2.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6409",
   "supplier": "ZENNER NIEUW VENNEP BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Bad- en doucheaccessoires"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h39/he5/29308660121630/prd-front-5823739-1_600x600/prd-front-5823739-1-600x600.jpg"
 }

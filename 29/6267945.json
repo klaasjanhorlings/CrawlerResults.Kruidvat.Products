@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dove Advanced Care Replenishing Dragonfruit & Coconut Cream Douchegel",
   "code": "6267945",
   "price": "5.95",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "225ml"
+  "description": "225ml",
+  "image": "/medias/sys_master/prd-images/hf8/h48/34756849729566/prd-front-6267945-1_600x600/prd-front-6267945-1-600x600.jpg"
 }

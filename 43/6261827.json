@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Philips 2000 Series BRE238/00 Body Epilator",
   "code": "6261827",
   "price": "34.99",
@@ -33,5 +33,6 @@
       "name": "Epilators"
     }
   ],
-  "description": "paars"
+  "description": "paars",
+  "image": "/medias/sys_master/prd-images/ha4/h8a/33672654585886/prd-front-6261827-1_600x600/prd-front-6261827-1-600x600.jpg"
 }

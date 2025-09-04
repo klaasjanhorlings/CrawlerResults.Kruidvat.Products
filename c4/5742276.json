@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4342 > 4343",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
-  "onPromo": "1055647",
-  "mmkId": "1055647",
-  "productGroupId": "495140",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pure-soft-maat-6-luiers-valuepack/p/5742276",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "28 stuks",
-  "image": "/medias/sys_master/prd-images/h51/hc1/44119718723614/prd-front-5742276-1_600x600/prd-front-5742276-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h40/he6/44137416294430/prd-front-5742276-1_600x600/prd-front-5742276-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Andrélon Pro Nature Coco Curl Creation Leave-In Crème",
   "code": "6116353",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h94/h9a/31400801075230/prd-front-6116353-1_600x600/prd-front-6116353-1-600x600.jpg"
 }

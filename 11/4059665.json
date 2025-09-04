@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Solait Transparant SPF30 Sunspray",
   "code": "4059665",
   "price": "9.49",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h1c/h34/30238144397342/prd-front-4059665-1_600x600/prd-front-4059665-1-600x600.jpg"
+  "description": "200ml"
 }

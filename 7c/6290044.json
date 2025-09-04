@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Hismile Elektrische Tandenborstel",
   "code": "6290044",
   "price": "58.99",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "blauw"
+  "description": "blauw",
+  "image": "/medias/sys_master/prd-images/hcc/he4/34146247082014/prd-front-6290044-1_600x600/prd-front-6290044-1-600x600.jpg"
 }

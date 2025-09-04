@@ -1,9 +1,9 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Libresse Ultra Goodnight Large+ Wing Maandverband",
   "code": "5969150",
-  "price": "15.61",
+  "price": "8.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3060 > 3908",
   "supplier": "ESSITY",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "54 stuks"
+  "description": "54 stuks",
+  "image": "/medias/sys_master/prd-images/h2a/he7/29274074382366/prd-front-5969150-1_600x600/prd-front-5969150-1-600x600.jpg"
 }

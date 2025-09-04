@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2095 > 2150 > 2644 > 6616 > 6617 > 2001",
   "supplier": "L. TEN CATE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055396",
+  "mmkId": "1055396",
+  "productGroupId": "491245",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cotton-stretch-damessinglet/p/5461653",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt XL"
+  "description": "zwart, mt XL",
+  "image": "/medias/sys_master/prd-images/h7d/ha0/27539779452958/prd-front-5461653-1_600x600/prd-front-5461653-1-600x600.jpg"
 }

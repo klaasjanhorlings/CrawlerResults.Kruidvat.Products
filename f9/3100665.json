@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Axe Africa Deodorant & Bodyspray",
   "code": "3100665",
   "price": "7.49",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h63/h83/33408182911006/prd-front-3100665-1_600x600/prd-front-3100665-1-600x600.jpg"
+  "description": "150ml"
 }

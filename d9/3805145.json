@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Crème of Nature Argan Oil Strength & Shine Leave-In Conditioner",
   "code": "3805145",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Leave-in conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h2b/hf3/27775565922334/prd-front-3805145-1_600x600/prd-front-3805145-1-600x600.jpg"
 }

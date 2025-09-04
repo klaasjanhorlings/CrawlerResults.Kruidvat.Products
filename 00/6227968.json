@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dove Advanced Care Go Fresh Dragon Fruit & Coconut Cream Antitranspirant Deodorant Roller",
   "code": "6227968",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h4d/h8c/33487668871198/prd-front-6227968-1_600x600/prd-front-6227968-1-600x600.jpg"
 }

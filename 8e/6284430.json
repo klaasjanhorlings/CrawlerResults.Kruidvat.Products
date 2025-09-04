@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Head & Shoulders Classic Shampoo met Pomp",
   "code": "6284430",
   "price": "10.0",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 14,99",
+  "discount": "$ 14,99",
   "url": "/head-shoulders-classic-shampoo-met-pomp/p/6284430",
   "listName": "Lister",
   "brand": "Head & Shoulders",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Creme of Nature Argan Curl Activator",
   "code": "5431161",
   "price": "8.99",
@@ -33,6 +33,5 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "354ml",
-  "image": "/medias/sys_master/prd-images/h39/h87/27776805240862/prd-front-5431161-1_600x600/prd-front-5431161-1-600x600.jpg"
+  "description": "354ml"
 }

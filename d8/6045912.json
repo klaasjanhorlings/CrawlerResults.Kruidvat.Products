@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Odorex Men Invisible Protection Deodorant Spray",
   "code": "6045912",
   "price": "4.49",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h32/h4d/30302248140830/prd-front-6045912-1_600x600/prd-front-6045912-1-600x600.jpg"
+  "description": "150ml"
 }

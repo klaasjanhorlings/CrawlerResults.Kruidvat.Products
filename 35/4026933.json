@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Summer Bronze Self Tan Zelfbruinende Bodylotion",
   "code": "4026933",
   "price": "3.79",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "225ml"
+  "description": "225ml",
+  "image": "/medias/sys_master/prd-images/h12/hf2/27398804930590/prd-front-4026933-1_600x600/prd-front-4026933-1-600x600.jpg"
 }

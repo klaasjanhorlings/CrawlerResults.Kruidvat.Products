@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Discreet Protection Unisex Medium Incontinentiebroekjes",
   "code": "4256904",
   "price": "6.99",
@@ -37,6 +37,5 @@
       "name": "Incontinentiebroekjes"
     }
   ],
-  "description": "wit, mt M, 12 stuks",
-  "image": "/medias/prd-front-4256904-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODk3ODd8aW1hZ2UvanBlZ3xhREU0TDJnek1TOHhOall3TlRrek56VXpNamsxT0M5d2NtUXRabkp2Ym5RdE5ESTFOamt3TkMweFh6WXdNSGcyTURBfGM3ZjE5OWQ4YTI4ZWY4ZGU0N2Y2YjFhYTNmMTNmMGJhNzkwZGJjNDZkNzRjODhjMzViN2YzZjYyM2IzN2YwNDY"
+  "description": "wit, mt M, 12 stuks"
 }

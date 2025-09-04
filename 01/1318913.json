@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "BAYER BV",
-  "inStock": "inStock",
-  "onPromo": "1055650",
-  "mmkId": "1055650",
-  "productGroupId": "495520",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bepanthen-baby-zalf/p/1318913",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "30g"
+  "description": "30g",
+  "image": "/medias/sys_master/prd-images/h53/h64/31931269677086/prd-front-1318913-1_600x600/prd-front-1318913-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mielle Pomegranate & Honey Moisturzing & Detangling Shampoo",
   "code": "5431077",
   "price": "16.99",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "355ml"
+  "description": "355ml",
+  "image": "/medias/prd-front-5431077-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjM4MDJ8aW1hZ2UvanBlZ3xhR00wTDJobE55OHhOalUyTmpFeE5EWTRNRGcyTWk5d2NtUXRabkp2Ym5RdE5UUXpNVEEzTnkweFh6WXdNSGcyTURBfGI1YjRlMTAyYWVmYTVmZDBhMzFjOTQ4Yzc0NWUxOTdhN2ZiNWM3OGU1OTQ4ODA2MjFmYjY3ZjkxZGM4ZGFlYzM"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sanicur Dermo Oil Douchegel",
   "code": "5951741",
   "price": "1.0",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,50",
+  "discount": "$ 1,50",
   "url": "/sanicur-dermo-oil-douchegel/p/5951741",
   "listName": "Lister",
   "brand": "Sanicur",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/hf3/h48/28531152125982/prd-front-5951741-1_600x600/prd-front-5951741-1-600x600.jpg"
+  "description": "300ml"
 }

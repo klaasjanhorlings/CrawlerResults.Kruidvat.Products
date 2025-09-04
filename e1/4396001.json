@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Borotalco Pure Deodorant Spray",
   "code": "4396001",
   "price": "5.89",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h53/h9e/34860930236446/prd-front-4396001-1_600x600/prd-front-4396001-1-600x600.jpg"
+  "description": "150ml"
 }

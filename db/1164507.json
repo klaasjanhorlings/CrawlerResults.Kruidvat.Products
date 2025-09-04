@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Extra Fijn 1,2mm Interdentale Borsteltjes met Handvat",
   "code": "1164507",
   "price": "2.99",
@@ -33,6 +33,5 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "6 stuks",
-  "image": "/medias/sys_master/prd-images/h9d/h24/28788260077598/prd-front-1164507-1_600x600/prd-front-1164507-1-600x600.jpg"
+  "description": "6 stuks"
 }

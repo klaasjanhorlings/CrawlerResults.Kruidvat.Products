@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Andrélon Zilver Care Conditioner",
   "code": "6292837",
   "price": "8.99",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hfa/hd7/34926705606686/prd-front-6292837-1_600x600/prd-front-6292837-1-600x600.jpg"
+  "description": "200ml"
 }

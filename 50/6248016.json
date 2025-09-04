@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Gillette Fusion5 Scheermesjes",
   "code": "6248016",
   "price": "39.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 57,96",
+  "discount": "$ 57,96",
   "url": "/gillette-fusion5-scheermesjes/p/6248016",
   "listName": "Lister",
   "brand": "Gillette",

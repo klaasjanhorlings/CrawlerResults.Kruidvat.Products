@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Men Fresh Active Deodorant Spray",
   "code": "5435095",
   "price": "8.89",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "2 x 150ml",
-  "image": "/medias/sys_master/prd-images/h0a/h47/34692367974430/prd-front-5435095-1_600x600/prd-front-5435095-1-600x600.jpg"
+  "description": "2 x 150ml"
 }
