@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Andrélon Iedere Dag Conditioner",
   "code": "5860090",
   "price": "28.5",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "6 x 250ml",
-  "image": "/medias/sys_master/prd-images/hb9/h75/27326328045598/prd-front-5860090-1_600x600/prd-front-5860090-1-600x600.jpg"
+  "description": "6 x 250ml"
 }

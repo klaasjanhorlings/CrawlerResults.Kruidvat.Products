@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Neutral 0% Parfumvrije Bodylotion",
   "code": "2843478",
   "price": "6.95",
@@ -33,6 +33,5 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hae/h9d/28472639914014/prd-front-2843478-1_600x600/prd-front-2843478-1-600x600.jpg"
+  "description": "250ml"
 }

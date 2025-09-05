@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Philips Sonicare For Kids HX6322/04 Elektrische Tandenborstel",
   "code": "5661055",
   "price": "39.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 10,00",
+  "discount": "€ 10,00",
   "url": "/philips-sonicare-for-kids-hx6322/04-elektrische-tandenborstel/p/5661055",
   "listName": "Lister",
   "brand": "Philips",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hd3/h8d/44139617288222/prd-front-5661055-1_600x600/prd-front-5661055-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h19/h2f/44143936077854/prd-front-5661055-1_600x600/prd-front-5661055-1-600x600.jpg"
 }

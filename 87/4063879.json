@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Elnett Flexible Haarspray",
   "code": "4063879",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Haarlak"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hf8/h85/31640119705630/prd-front-4063879-1_600x600/prd-front-4063879-1-600x600.jpg"
+  "description": "200ml"
 }

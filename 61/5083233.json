@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier Ambre Solaire Natural Bronzer Self Tan Mousse",
   "code": "5083233",
   "price": "21.99",
@@ -33,6 +33,5 @@
       "name": "Zelfbruiners"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h06/h79/33562833223710/prd-front-5083233-1_600x600/prd-front-5083233-1-600x600.jpg"
+  "description": "150ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Taft Aloe Boost Hold 3 Multi-Purpose Styling Paste",
   "code": "6236529",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Haarpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h89/hd6/33771461378078/prd-front-6236529-1_600x600/prd-front-6236529-1-600x600.jpg"
 }

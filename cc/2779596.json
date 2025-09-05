@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Solait SPF30 Sunmilk",
   "code": "2779596",
   "price": "12.49",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hf5/h56/29995592351774/prd-front-2779596-1_600x600/prd-front-2779596-1-600x600.jpg"
 }

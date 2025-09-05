@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Philips Sonicare 3100 Series HX3673/11 Elektrische Tandenborstel",
   "code": "6166459",
   "price": "99.99",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "roze"
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/hd1/h4c/44144631906334/prd-front-6166459-1_600x600/prd-front-6166459-1-600x600.jpg"
 }

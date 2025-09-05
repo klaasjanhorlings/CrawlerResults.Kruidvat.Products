@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Taft Super Glue Level 14 Haargel",
   "code": "3027417",
   "price": "8.69",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h6e/hab/31096246206494/prd-front-3027417-1_600x600/prd-front-3027417-1-600x600.jpg"
 }

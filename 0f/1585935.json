@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Vision SPF30 Zonnebrandlotion",
   "code": "1585935",
   "price": "21.99",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "90ml"
+  "description": "90ml",
+  "image": "/medias/sys_master/prd-images/h99/h5e/33161277997086/prd-front-1585935-1_600x600/prd-front-1585935-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Libresse String Inlegkruisjes",
   "code": "28882",
   "price": "2.89",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h22/h97/32018213503006/prd-front-28882-1_600x600/prd-front-28882-1-600x600.jpg"
 }

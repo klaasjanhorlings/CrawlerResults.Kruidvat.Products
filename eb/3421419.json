@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lactacyd Verzorgende Intiem Tissues",
   "code": "3421419",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Intieme hygiëne"
     }
   ],
-  "description": "15 stuks - Intiem verzorging",
-  "image": "/medias/sys_master/prd-images/hef/h96/34719541821470/prd-front-3421419-1_600x600/prd-front-3421419-1-600x600.jpg"
+  "description": "15 stuks - Intiem verzorging"
 }

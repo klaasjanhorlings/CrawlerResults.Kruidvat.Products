@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Ultra Normal Maandverband",
   "code": "1377846",
   "price": "1.19",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/h93/h6e/33391884435486/prd-front-1377846-1_600x600/prd-front-1377846-1-600x600.jpg"
+  "description": "16 stuks"
 }

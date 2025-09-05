@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Melkmeisje Lavendel Douchegel",
   "code": "6168818",
   "price": "1.0",
@@ -33,6 +33,5 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h1b/hc4/33410227961886/prd-front-6168818-1_600x600/prd-front-6168818-1-600x600.jpg"
+  "description": "300ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Uierzalf",
   "code": "4026898",
   "price": "1.99",
@@ -33,5 +33,6 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/he1/h59/34872702074910/prd-front-4026898-1_600x600/prd-front-4026898-1-600x600.jpg"
 }

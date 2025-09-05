@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "o.b. ProComfort Super Tampons",
   "code": "5451118",
   "price": "2.89",
@@ -33,6 +33,5 @@
       "name": "Tampons"
     }
   ],
-  "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/he9/h59/35128064311326/prd-front-5451118-1_600x600/prd-front-5451118-1-600x600.jpg"
+  "description": "16 stuks"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Schwarzkopf Repair & Care Shampoo",
   "code": "2099602",
   "price": "3.59",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h41/h5c/32039336312862/prd-front-2099602-1_600x600/prd-front-2099602-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Soft Daily Uv SPF15 Crème",
   "code": "6285865",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hc6/hb6/34683305656350/prd-front-6285865-1_600x600/prd-front-6285865-1-600x600.jpg"
+  "description": "200ml"
 }

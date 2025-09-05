@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "John Frieda Shimmering Silver Conditioner",
   "code": "6248653",
   "price": "12.99",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/ha4/ha3/33258883252254/prd-front-6248653-1_600x600/prd-front-6248653-1-600x600.jpg"
 }

@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Andrélon Pro Nature Shea Strong Repair Leave-In Crème",
   "code": "6116290",
   "price": "7.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 3577 > 6689",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055300",
+  "mmkId": "1055300",
+  "productGroupId": "480071",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-pro-nature-shea-strong-repair-leave-in-creme/p/6116290",
@@ -33,6 +33,5 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hf2/h52/31401693020190/prd-front-6116290-1_600x600/prd-front-6116290-1-600x600.jpg"
+  "description": "200ml"
 }

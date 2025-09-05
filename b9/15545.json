@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nivea Crème",
   "code": "15545",
   "price": "6.49",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h0a/ha5/34396993159198/prd-front-15545-1_600x600/prd-front-15545-1-600x600.jpg"
+  "description": "200ml"
 }

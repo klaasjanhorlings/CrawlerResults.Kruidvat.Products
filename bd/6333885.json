@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Derma Control Restore Douchegel",
   "code": "6333885",
   "price": "5.29",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h90/h7b/44149575417886/prd-front-6333885-1_600x600/prd-front-6333885-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Therme Hammam Douchefoam",
   "code": "3235499",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h29/hea/28871373226014/prd-front-3235499-1_600x600/prd-front-3235499-1-600x600.jpg"
+  "description": "200ml - Normale huid"
 }

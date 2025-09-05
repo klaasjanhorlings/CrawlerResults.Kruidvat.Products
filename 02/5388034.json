@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4342 > 4343",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-extra-large-maat-6-luiers-volumedoos/p/5388034",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 6 (16-21 kg), 216 stuks",
-  "image": "/medias/sys_master/prd-images/h57/h57/44131125002270/prd-front-5388034-1_600x600/prd-front-5388034-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1e/h6d/44144618995742/prd-front-5388034-1_600x600/prd-front-5388034-1-600x600.jpg"
 }

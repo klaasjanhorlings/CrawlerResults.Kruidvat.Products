@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Repair Keratin Anti-Klit Spray",
   "code": "4028011",
   "price": "2.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6694 > 2835",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Anti-klitspray"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/prd-front-4028011-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQ4MTF8aW1hZ2UvanBlZ3xhREprTDJnMFpDOHhOekV5TnprNU1UWTBNREE1TkM5d2NtUXRabkp2Ym5RdE5EQXlPREF4TVMweFh6WXdNSGcyTURBfDk2ODUxMTM5ZDU3M2VjMDFlN2JjMzllMjhiNWIwYTZmNzQ4ZDY1NzZhYzdkNjkxOTEwMjdiNzVhN2EwOGViZjU"
+  "description": "250ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Classic Care Milde Shampoo",
   "code": "3572493",
   "price": "3.79",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h10/h6e/34998298738718/prd-front-3572493-1_600x600/prd-front-3572493-1-600x600.jpg"
 }

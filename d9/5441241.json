@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Sweet Blossom Crème Douchegel",
   "code": "5441241",
   "price": "1.49",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "300ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/hed/h05/29653522481182/prd-front-5441241-1_600x600/prd-front-5441241-1-600x600.jpg"
+  "description": "300ml - Normale huid"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier Loving Blends Avocado-olie & Sheaboter Conditioner",
   "code": "4822175",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h05/h7f/32930044280862/prd-front-4822175-1_600x600/prd-front-4822175-1-600x600.jpg"
 }

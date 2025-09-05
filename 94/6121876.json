@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Andrélon Pro-Care Protein Plex Repair Shampoo",
   "code": "6121876",
   "price": "12.99",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hd1/ha9/31461455790110/prd-front-6121876-1_600x600/prd-front-6121876-1-600x600.jpg"
 }

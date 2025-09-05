@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Melkmeisje Aloë Vera Douchegel",
   "code": "6168832",
   "price": "1.0",
@@ -33,6 +33,5 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h8b/h39/33409681752094/prd-front-6168832-1_600x600/prd-front-6168832-1-600x600.jpg"
+  "description": "300ml"
 }

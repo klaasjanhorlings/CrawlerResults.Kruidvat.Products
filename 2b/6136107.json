@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sensodyne Clinical Repair Deep Clean Tandpasta",
   "code": "6136107",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 75ml",
-  "image": "/medias/sys_master/prd-images/ha8/h42/33896737177630/prd-front-6136107-1_600x600/prd-front-6136107-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 75ml"
 }

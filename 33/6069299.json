@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "SheaMoisture Sugarcane Extract & Meadowfoam Seed Miracle Styler Leave-In Treatment",
   "code": "6069299",
   "price": "16.49",
@@ -33,6 +33,5 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "237ml",
-  "image": "/medias/sys_master/prd-images/hac/he8/32584265433118/prd-front-6069299-1_600x600/prd-front-6069299-1-600x600.jpg"
+  "description": "237ml"
 }

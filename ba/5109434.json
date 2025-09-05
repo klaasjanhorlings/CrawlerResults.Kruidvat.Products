@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 2969 > 3771",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-junior-maat-5-luiers-volumedoos/p/5109434",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 5 (13-17kg), 204 stuks",
-  "image": "/medias/sys_master/prd-images/he4/hc6/44131478863902/prd-front-5109434-1_600x600/prd-front-5109434-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc7/h44/44145429053470/prd-front-5109434-1_600x600/prd-front-5109434-1-600x600.jpg"
 }

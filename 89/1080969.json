@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Fa Men Perfect Wave Deodorant & Bodyspray",
   "code": "1080969",
   "price": "4.49",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h43/hdf/28803793420318/prd-front-1080969-1_600x600/prd-front-1080969-1-600x600.jpg"
 }

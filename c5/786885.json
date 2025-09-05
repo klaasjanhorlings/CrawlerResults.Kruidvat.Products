@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2077 > 2235 > 2635 > 3317 > 3663",
   "supplier": "ICT POLAND SP. Z.O.O.",
-  "inStock": "inStock",
-  "onPromo": "1055471",
-  "mmkId": "1055471",
-  "productGroupId": "497644",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-tissues/p/786885",
@@ -29,6 +29,5 @@
       "name": "Tissues en zakdoekjes"
     }
   ],
-  "description": "70 stuks",
-  "image": "/medias/sys_master/prd-images/h80/h0b/27504453681182/prd-front-786885-1_600x600/prd-front-786885-1-600x600.jpg"
+  "description": "70 stuks"
 }

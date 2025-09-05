@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Sun Protect & Bronze SPF20 Zonnemelk",
   "code": "1854210",
   "price": "23.49",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h97/h76/34393308889118/prd-front-1854210-1_600x600/prd-front-1854210-1-600x600.jpg"
+  "description": "200ml"
 }

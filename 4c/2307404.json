@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Colour Elixir 130 Mulberry Lipstick",
+  "code": "2307404",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-colour-elixir-130-mulberry-lipstick/p/2307404",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "4g",
+  "image": "/medias/prd-front-2307404-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA5MzR8aW1hZ2UvanBlZ3xhRGd3TDJneU55OHlOekV3TWpnMU1qSTRORFEwTmk5d2NtUXRabkp2Ym5RdE1qTXdOelF3TkMweFh6WXdNSGcyTURBfGM0ODMyOGFkMjA2YzE1ZTcwODE5MDYzN2FmOTI0YjNhNGYyZGRkZTMzMDU4YjRlNDNkZDhlZjRjMzk4MDlkZjI"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Prodent Frisse Adem Tandpasta",
   "code": "6060640",
   "price": "3.59",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h8e/h2b/31295032786974/prd-front-6060640-1_600x600/prd-front-6060640-1-600x600.jpg"
+  "description": "75ml"
 }
