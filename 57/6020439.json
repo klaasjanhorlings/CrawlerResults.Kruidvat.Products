@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hfe/h5f/35121304535070/prd-front-6020439-1_600x600/prd-front-6020439-1-600x600.jpg"
+  "description": "50ml"
 }

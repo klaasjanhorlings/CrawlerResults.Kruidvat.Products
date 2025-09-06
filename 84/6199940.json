@@ -25,22 +25,17 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
     },
     {
-      "id": 90761979,
-      "name": "Korean gezichtsreiniging"
-    },
-    {
-      "id": 90766300,
-      "name": "Korean reinigingsbalsem"
+      "id": 30266917,
+      "name": "Reinigingscreme"
     }
   ],
-  "description": "80ml",
-  "image": "/medias/sys_master/prd-images/hc1/he7/32247713562654/prd-front-6199940-1_600x600/prd-front-6199940-1-600x600.jpg"
+  "description": "80ml"
 }

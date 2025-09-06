@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "PHARCONA GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055455",
+  "mmkId": "1055455",
+  "productGroupId": "495217",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pure-soft-wasgel/p/6316021",
@@ -37,5 +37,6 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h8c/ha3/34522048725022/prd-front-6316021-1_600x600/prd-front-6316021-1-600x600.jpg"
 }
