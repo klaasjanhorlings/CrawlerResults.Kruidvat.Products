@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Slabbetjes",
   "code": "6284549",
   "price": "4.49",
@@ -33,6 +33,5 @@
       "name": "Slabbetjes"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/h56/h62/33674430087198/prd-front-6284549-1_600x600/prd-front-6284549-1-600x600.jpg"
+  "description": "2 stuks"
 }

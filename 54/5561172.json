@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Olvarit 6+M Maaltijd Variatiemenu",
   "code": "5561172",
   "price": "17.88",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "12 x 200g",
-  "image": "/medias/sys_master/prd-images/heb/h1c/44155502329886/prd-front-5561172-1_600x600/prd-front-5561172-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hed/h1d/44165761859614/prd-front-5561172-1_600x600/prd-front-5561172-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Philips Avent Natural Response SCY903/01 1m+ Babyfles met Natuurlijke Zuigreflex Flesspeen",
   "code": "5857570",
   "price": "11.99",
@@ -33,5 +33,6 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "260ml"
+  "description": "260ml",
+  "image": "/medias/sys_master/prd-images/hd1/h13/28888731811870/prd-front-5857570-1_600x600/prd-front-5857570-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Slaaptrainer",
   "code": "6182342",
   "price": "14.99",
@@ -33,6 +33,5 @@
       "name": "Slaaptrainers"
     }
   ],
-  "description": "geel",
-  "image": "/medias/sys_master/prd-images/hcc/h25/32535967694878/prd-front-6182342-1_600x600/prd-front-6182342-1-600x600.jpg"
+  "description": "geel"
 }

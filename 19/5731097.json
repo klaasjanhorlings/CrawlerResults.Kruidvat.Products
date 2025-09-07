@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Pure & Soft Pants Maat 4 Luierbroekjes",
   "code": "5731097",
   "price": "8.49",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 4"
     }
   ],
-  "description": "mt 4 (8-15kg), 21 stuks"
+  "description": "mt 4 (8-15kg), 21 stuks",
+  "image": "/medias/sys_master/prd-images/h8a/hbb/44167068975134/prd-front-5731097-1_600x600/prd-front-5731097-1-600x600.jpg"
 }

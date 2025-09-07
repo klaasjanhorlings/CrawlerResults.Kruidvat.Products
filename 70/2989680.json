@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Weleda Baby Calendula Bodymilk",
   "code": "2989680",
   "price": "13.99",
@@ -37,5 +37,6 @@
       "name": "Babylotion"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hbb/hb7/29058687303710/prd-front-2989680-1_600x600/prd-front-2989680-1-600x600.jpg"
 }
