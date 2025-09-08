@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1055419",
-  "mmkId": "1055419",
-  "productGroupId": "493225",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tommy-hilfiger-girl-eau-de-toilette/p/4998267",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h8e/h1e/29832268185630/prd-front-4998267-1_600x600/prd-front-4998267-1-600x600.jpg"
+  "description": "50ml"
 }

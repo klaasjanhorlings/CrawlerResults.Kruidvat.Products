@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Naïf Baby & Kids Lotion babydoekjes",
   "code": "6295119",
   "price": "95.76",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "1055366",
-  "mmkId": "1055366",
-  "productGroupId": "487877",
+  "onPromo": "1055688",
+  "mmkId": "1055688",
+  "productGroupId": "481523",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-baby-kids-lotion-babydoekjes/p/6295119",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "24 x 54 stuks"
+  "description": "24 x 54 stuks",
+  "image": "/medias/sys_master/prd-images/hbc/h71/34282686906398/prd-front-6295119-1_600x600/prd-front-6295119-1-600x600.jpg"
 }

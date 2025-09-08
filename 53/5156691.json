@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Maxi Plus Maat 4+ Luiers Valuepack",
   "code": "5156691",
   "price": "10.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 3020 > 3845",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "onPromo": "1055846",
+  "mmkId": "1055846",
+  "productGroupId": "495036",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-maxi-plus-maat-4-luiers-valuepack/p/5156691",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 4+ (9-14 kg), 42 stuks",
-  "image": "/medias/sys_master/prd-images/h2a/hb5/44173654687774/prd-front-5156691-1_600x600/prd-front-5156691-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hfa/h22/44179483688990/prd-front-5156691-1_600x600/prd-front-5156691-1-600x600.jpg"
 }

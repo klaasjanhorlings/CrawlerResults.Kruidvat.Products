@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Extra Large Maat 6 Luiers Valuepack",
   "code": "5392262",
   "price": "10.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4342 > 4343",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "onPromo": "1055846",
+  "mmkId": "1055846",
+  "productGroupId": "495036",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-extra-large-maat-6-luiers-valuepack/p/5392262",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 6 (16-21 kg), 32 stuks",
-  "image": "/medias/sys_master/prd-images/h7c/he3/44166190989342/prd-front-5392262-1_600x600/prd-front-5392262-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h48/hc5/44174578909214/prd-front-5392262-1_600x600/prd-front-5392262-1-600x600.jpg"
 }

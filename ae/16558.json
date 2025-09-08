@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
   "supplier": "KEMETYL NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055780",
+  "mmkId": "1055780",
+  "productGroupId": "491192",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-waterproof-waterdichtlotion/p/16558",
@@ -29,6 +29,5 @@
       "name": "Vlekverwijderaars"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hab/h19/28161760133150/prd-front-16558-1_600x600/prd-front-16558-1-600x600.jpg"
+  "description": "200ml"
 }

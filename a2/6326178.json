@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "WaterWipes Hydrating Clean Babydoekjes",
   "code": "6326178",
   "price": "51.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "1055268",
-  "mmkId": "1055268",
-  "productGroupId": "473835",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/waterwipes-hydrating-clean-babydoekjes/p/6326178",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "12 x 60 stuks",
-  "image": "/medias/sys_master/prd-images/h07/h49/44166595215390/prd-front-6326178-1_600x600/prd-front-6326178-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h62/he2/44174980743198/prd-front-6326178-1_600x600/prd-front-6326178-1-600x600.jpg"
 }

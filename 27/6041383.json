@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1055391",
-  "mmkId": "1055391",
-  "productGroupId": "490804",
+  "onPromo": "1055705",
+  "mmkId": "1055705",
+  "productGroupId": "508580",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-radiant-9n-serum-concealer/p/6041383",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "11ml"
+  "description": "11ml",
+  "image": "/medias/sys_master/prd-images/hf7/h9b/35063916429342/prd-front-6041383-1_600x600/prd-front-6041383-1-600x600.jpg"
 }

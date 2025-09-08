@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nutrilon 1 Volledige Zuigelingenvoeding Flesvoeding 0-6 Maanden",
   "code": "4441389",
   "price": "17.99",
@@ -33,6 +33,5 @@
       "name": "Zuigelingenmelk"
     }
   ],
-  "description": "800g",
-  "image": "/medias/sys_master/prd-images/h3e/h3f/33885597237278/prd-front-4441389-1_600x600/prd-front-4441389-1-600x600.jpg"
+  "description": "800g"
 }

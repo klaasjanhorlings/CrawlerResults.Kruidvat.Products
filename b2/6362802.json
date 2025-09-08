@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 8+M Bio Mediterrane Groente Maaltijd",
   "code": "6362802",
   "price": "1.09",
@@ -37,5 +37,6 @@
       "name": "8+ maanden"
     }
   ],
-  "description": "190"
+  "description": "190",
+  "image": "/medias/sys_master/prd-images/hc5/hf4/35026794512414/prd-front-6362802-1_600x600/prd-front-6362802-1-600x600.jpg"
 }

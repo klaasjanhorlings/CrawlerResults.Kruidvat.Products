@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "1055323",
-  "mmkId": "1055323",
-  "productGroupId": "481499",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-deep-moisture-bodylotion/p/6050630",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hde/h01/34868298514462/prd-front-6050630-1_600x600/prd-front-6050630-1-600x600.jpg"
 }

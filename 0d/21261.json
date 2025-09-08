@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 2968 > 3770",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
-  "onPromo": "1055430",
-  "mmkId": "1055430",
-  "productGroupId": "493434",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/blistex-daily-lip-conditioner/p/21261",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-21261-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njc5MjN8aW1hZ2UvanBlZ3xhR0kxTDJnME1DOHlOekUwTURBMU1qUXhPRFU1TUM5d2NtUXRabkp2Ym5RdE1qRXlOakV0TVY4Mk1EQjROakF3fDJmNGRhMWE3ZGNlNzQ1YzdjNmM0NThjOWZkODJlZTIzNDAzZmIzOGI2MmFkZTcyYzgxYThlOTcxNmI4MzhlMWI"
 }

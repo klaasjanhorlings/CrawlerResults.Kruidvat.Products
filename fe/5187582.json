@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat NewBorn Small Maat 1 Luiers Volumedoos",
   "code": "5187582",
   "price": "47.97",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 6359 > 6360 > 6361",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "onPromo": "1055851",
+  "mmkId": "1055851",
+  "productGroupId": "495139",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-newborn-small-maat-1-luiers-volumedoos/p/5187582",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 1 (2-5 kg), 324 stuks",
-  "image": "/medias/sys_master/prd-images/h45/ha3/44167063732254/prd-front-5187582-1_600x600/prd-front-5187582-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h19/h30/44175577350174/prd-front-5187582-1_600x600/prd-front-5187582-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Pure & Soft Newborn Mini Maat 2 Luiers Midpack",
   "code": "5480175",
   "price": "8.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1055292",
-  "mmkId": "1055292",
-  "productGroupId": "478361",
+  "onPromo": "1055850",
+  "mmkId": "1055850",
+  "productGroupId": "495132",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pure-soft-newborn-mini-maat-2-luiers-midpack/p/5480175",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 2 (3-6 kg), 38 stuks",
-  "image": "/medias/sys_master/prd-images/hb1/hcf/44166682181662/prd-front-5480175-1_600x600/prd-front-5480175-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h22/hb8/44174316634142/prd-front-5480175-1_600x600/prd-front-5480175-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2514 > 3128 > 3993",
   "supplier": "CEDO HOUSEHOLD PRODUCTS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055780",
+  "mmkId": "1055780",
+  "productGroupId": "491192",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-aluminiumfolie/p/4703567",
@@ -29,6 +29,5 @@
       "name": "Huishoudelijke accessoires"
     }
   ],
-  "description": "20m x 29cm",
-  "image": "/medias/sys_master/prd-images/hd3/h4c/28654190526494/prd-front-4703567-1_600x600/prd-front-4703567-1-600x600.jpg"
+  "description": "20m x 29cm"
 }

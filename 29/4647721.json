@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "SUNSTAR BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1055484",
-  "mmkId": "1055484",
-  "productGroupId": "502475",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gum-ortho-wax/p/4647721",
@@ -33,5 +33,6 @@
       "name": "Beugelverzorging"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/hda/h56/35136595361822/prd-front-4647721-1_600x600/prd-front-4647721-1-600x600.jpg"
 }

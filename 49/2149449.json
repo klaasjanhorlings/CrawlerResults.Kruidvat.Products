@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 5 24+M Peutermelk",
   "code": "2149449",
   "price": "8.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
   "supplier": "PICOMEL NUTRITION",
   "inStock": "inStock",
-  "onPromo": "1055346",
-  "mmkId": "1055346",
-  "productGroupId": "483605",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-5-24m-peutermelk/p/2149449",
@@ -37,5 +37,6 @@
       "name": "Peutermelk"
     }
   ],
-  "description": "2 x 400g"
+  "description": "2 x 400g",
+  "image": "/medias/sys_master/prd-images/hdf/h9e/31987536232478/prd-front-2149449-1_600x600/prd-front-2149449-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1055308",
-  "mmkId": "1055308",
-  "productGroupId": "480494",
+  "onPromo": "1010114",
+  "mmkId": "1010114",
+  "productGroupId": "239001",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-hydra-bomb-tissuemasker/p/4052245",
@@ -37,6 +37,5 @@
       "name": "Sheet maskers"
     }
   ],
-  "description": "32g - Droge huid",
-  "image": "/medias/sys_master/prd-images/h18/h3a/35155845742622/prd-front-4052245-1_600x600/prd-front-4052245-1-600x600.jpg"
+  "description": "32g - Droge huid"
 }

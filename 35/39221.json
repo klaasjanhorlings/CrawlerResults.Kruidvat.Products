@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6285",
   "supplier": "BAYER BV",
   "inStock": "inStock",
-  "onPromo": "1055330",
-  "mmkId": "1055330",
-  "productGroupId": "482648",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/supradyn-complex-forte-bruistabletten/p/39221",
@@ -33,5 +33,6 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "45 stuks"
+  "description": "45 stuks",
+  "image": "/medias/sys_master/prd-images/hf2/hb1/32494438383646/prd-front-39221-1_600x600/prd-front-39221-1-600x600.jpg"
 }

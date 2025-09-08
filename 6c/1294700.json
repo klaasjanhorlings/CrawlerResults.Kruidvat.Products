@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1055442",
-  "mmkId": "1055442",
-  "productGroupId": "494398",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-vitamine-k-druppels/p/1294700",
@@ -37,5 +37,6 @@
       "name": "Vitamine K"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h80/hb3/33116494266398/prd-front-1294700-1_600x600/prd-front-1294700-1-600x600.jpg"
 }

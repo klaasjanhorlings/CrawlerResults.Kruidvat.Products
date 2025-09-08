@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat NewBorn Small Maat 1 Luiers Smallpack",
   "code": "5161346",
   "price": "2.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 6359 > 6360 > 6361",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1055292",
-  "mmkId": "1055292",
-  "productGroupId": "478361",
+  "onPromo": "1055850",
+  "mmkId": "1055850",
+  "productGroupId": "495132",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-newborn-small-maat-1-luiers-smallpack/p/5161346",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 1 (2-5 kg), 20 stuks",
-  "image": "/medias/sys_master/prd-images/h65/hb1/44165751898142/prd-front-5161346-1_600x600/prd-front-5161346-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h10/hb6/44173727989790/prd-front-5161346-1_600x600/prd-front-5161346-1-600x600.jpg"
 }

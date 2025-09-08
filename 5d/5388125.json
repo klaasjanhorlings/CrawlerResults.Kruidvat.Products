@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Junior Plus Maat 5+ Luiers Valuepack",
   "code": "5388125",
   "price": "10.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4344 > 4345",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "onPromo": "1055846",
+  "mmkId": "1055846",
+  "productGroupId": "495036",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-junior-plus-maat-5-luiers-valuepack/p/5388125",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 5+ (14-18 kg), 34 stuks",
-  "image": "/medias/sys_master/prd-images/h3b/h8f/44166568509470/prd-front-5388125-1_600x600/prd-front-5388125-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hdf/h0c/44174954364958/prd-front-5388125-1_600x600/prd-front-5388125-1-600x600.jpg"
 }

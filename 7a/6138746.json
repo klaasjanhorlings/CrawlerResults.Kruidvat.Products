@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Difrax Pinky Premature 0-2M Fopspeen",
   "code": "6138746",
   "price": "11.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3381",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "1055403",
-  "mmkId": "1055403",
-  "productGroupId": "492153",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-pinky-premature-0-2m-fopspeen/p/6138746",
@@ -33,5 +33,6 @@
       "name": "Fopspenen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hec/h33/32281674317854/prd-front-6138746-1_600x600/prd-front-6138746-1-600x600.jpg"
 }

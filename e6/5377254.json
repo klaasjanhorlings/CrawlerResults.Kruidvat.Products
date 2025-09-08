@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Badborstel",
+  "code": "5377254",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6409",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-badborstel/p/5377254",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265998,
+      "name": "Bad- en doucheaccessoires"
+    }
+  ],
+  "description": "43cm x 2cm x 15cm",
+  "image": "/medias/sys_master/prd-images/h0f/h70/28315685683230/prd-front-5377254-1_600x600/prd-front-5377254-1-600x600.jpg"
+}

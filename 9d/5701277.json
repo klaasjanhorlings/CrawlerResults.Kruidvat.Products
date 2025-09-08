@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Starbucks By Nescafé Dolce Gusto Madagascar Vanille Macchiato Koffiecapsules",
+  "code": "5701277",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
+  "supplier": "NESTLE NEDERLAND B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/starbucks-by-nescafe-dolce-gusto-madagascar-vanille-macchiato-koffiecapsules/p/5701277",
+  "listName": "Lister",
+  "brand": "Starbucks",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    }
+  ],
+  "description": "12 stuks",
+  "image": "/medias/sys_master/prd-images/he0/hd5/33371199143966/prd-front-5701277-1_600x600/prd-front-5701277-1-600x600.jpg"
+}

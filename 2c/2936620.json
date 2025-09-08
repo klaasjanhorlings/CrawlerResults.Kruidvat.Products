@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Boyz Medium Pyjamabroekjes",
   "code": "2936620",
   "price": "6.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "onPromo": "1055852",
+  "mmkId": "1055852",
+  "productGroupId": "495144",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-boyz-medium-pyjamabroekjes/p/2936620",
@@ -29,6 +29,5 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "mt 7 (17-33 kg), 10 stuks",
-  "image": "/medias/sys_master/prd-images/hf8/h9d/32650877468702/prd-front-2936620-1_600x600/prd-front-2936620-1-600x600.jpg"
+  "description": "mt 7 (17-33 kg), 10 stuks"
 }

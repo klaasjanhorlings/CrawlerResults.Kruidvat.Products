@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "KALEGRA COSMETICS GMBH",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055758",
+  "mmkId": "1055758",
+  "productGroupId": "484249",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-hydro-smoothing-peptide-serum-primer/p/6258894",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "15 stuks"
+  "description": "15 stuks",
+  "image": "/medias/sys_master/prd-images/hda/h6a/44119728881694/prd-front-6258894-1_600x600/prd-front-6258894-1-600x600.jpg"
 }

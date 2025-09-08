@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1055315",
-  "mmkId": "1055315",
-  "productGroupId": "480800",
+  "onPromo": "1055715",
+  "mmkId": "1055715",
+  "productGroupId": "455971",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-pearl-beauty-deodorant-spray/p/2740886",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hd3/h4e/34568402272286/prd-front-2740886-1_600x600/prd-front-2740886-1-600x600.jpg"
 }

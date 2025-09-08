@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1055290",
-  "mmkId": "1055290",
-  "productGroupId": "478297",
+  "onPromo": "1055859",
+  "mmkId": "1055859",
+  "productGroupId": "495726",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/prodent-gevoeligheid-tandpasta/p/6066632",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h5b/hc6/31295446417438/prd-front-6066632-1_600x600/prd-front-6066632-1-600x600.jpg"
+  "description": "75ml"
 }

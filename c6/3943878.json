@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "1055237",
-  "mmkId": "1055237",
-  "productGroupId": "455093",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-sweet-rose-deodorant-spray/p/3943878",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h12/hcf/27757410418718/prd-front-3943878-1_600x600/prd-front-3943878-1-600x600.jpg"
+  "description": "150ml"
 }

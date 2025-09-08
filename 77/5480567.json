@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Pure & Soft Maat 5 Luiers Midpack",
   "code": "5480567",
   "price": "8.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4344 > 4345",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1055631",
-  "mmkId": "1055631",
-  "productGroupId": "503813",
+  "onPromo": "1055851",
+  "mmkId": "1055851",
+  "productGroupId": "495139",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pure-soft-maat-5-luiers-midpack/p/5480567",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 5 (10-16 kg), 20 stuks",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h1c/hd4/44173320880158/prd-front-5480567-1_600x600/prd-front-5480567-1-600x600.jpg"
 }

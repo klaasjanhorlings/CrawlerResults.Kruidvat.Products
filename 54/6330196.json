@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Helicopter en Auto Politieset",
+  "code": "6330196",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2140 > 4929 > 4975 > 5021 > 5921 > 6040",
+  "supplier": "RUBY-TOYS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/helicopter-en-auto-politieset/p/6330196",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266031,
+      "name": "Voertuigen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h03/hc7/44130508734494/prd-front-6330196-1_600x600/prd-front-6330196-1-600x600.jpg"
+}

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1055241",
-  "mmkId": "1055241",
-  "productGroupId": "456391",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-baby-kids-mini-geschenkset/p/6322972",
@@ -33,5 +33,6 @@
       "name": "Geschenkset voor kinderen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h66/h98/44179414679582/prd-front-6322972-1_600x600/prd-front-6322972-1-600x600.jpg"
 }

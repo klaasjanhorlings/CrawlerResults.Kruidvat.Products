@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1055314",
-  "mmkId": "1055314",
-  "productGroupId": "480786",
+  "onPromo": "1055789",
+  "mmkId": "1055789",
+  "productGroupId": "491981",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-intense-plex-deep-conditioner/p/6022266",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hf7/hb7/34437088968734/prd-front-6022266-1_600x600/prd-front-6022266-1-600x600.jpg"
 }

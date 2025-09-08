@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1055390",
-  "mmkId": "1055390",
-  "productGroupId": "490781",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-09-strike-a-rose-duck-plump-extreme-sensation-lipgloss/p/6130108",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "6,8ml"
+  "description": "6,8ml",
+  "image": "/medias/sys_master/prd-images/hf5/h45/31927667818526/prd-front-6130108-1_600x600/prd-front-6130108-1-600x600.jpg"
 }

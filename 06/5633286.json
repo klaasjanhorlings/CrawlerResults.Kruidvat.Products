@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Inoli Huidolie",
   "code": "5633286",
   "price": "14.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2724 > 3427",
   "supplier": "NIA CARE BV",
   "inStock": "inStock",
-  "onPromo": "1055241",
-  "mmkId": "1055241",
-  "productGroupId": "456391",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/inoli-huidolie/p/5633286",
@@ -37,5 +37,6 @@
       "name": "Babyolie"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h6b/h2c/34868537458718/prd-front-5633286-1_600x600/prd-front-5633286-1-600x600.jpg"
 }

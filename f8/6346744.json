@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1055517",
-  "mmkId": "1055517",
-  "productGroupId": "494053",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-jurassic-world-76970-babydinosaurus-dolores-aquilop/p/6346744",
@@ -33,6 +33,5 @@
       "name": "LEGO Films en series"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hee/hab/35037302390814/prd-front-6346744-1_600x600/prd-front-6346744-1-600x600.jpg"
+  "description": ""
 }

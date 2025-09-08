@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "inStock",
-  "onPromo": "1055395",
-  "mmkId": "1055395",
-  "productGroupId": "491047",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/hawaiian-tropic-glowing-protection-spf20-dry-spray-oil/p/5083667",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h28/hf9/33163982897182/prd-front-5083667-1_600x600/prd-front-5083667-1-600x600.jpg"
+  "description": "200ml"
 }

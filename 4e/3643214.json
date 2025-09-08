@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "GUHL IKEBANA COSMETICS",
   "inStock": "inStock",
-  "onPromo": "1055306",
-  "mmkId": "1055306",
-  "productGroupId": "480425",
+  "onPromo": "1055761",
+  "mmkId": "1055761",
+  "productGroupId": "485524",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-zilverglans-verzorging-anti-geel-masker/p/3643214",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/ha7/h7e/34825835806750/prd-front-3643214-1_600x600/prd-front-3643214-1-600x600.jpg"
 }

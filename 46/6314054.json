@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Baby Huidolie",
   "code": "6314054",
   "price": "3.59",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2724 > 3427",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "1055455",
-  "mmkId": "1055455",
-  "productGroupId": "495217",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-baby-huidolie/p/6314054",
@@ -37,6 +37,5 @@
       "name": "Babyolie"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/hd1/h66/34795486707742/prd-front-6314054-1_600x600/prd-front-6314054-1-600x600.jpg"
+  "description": "300ml"
 }

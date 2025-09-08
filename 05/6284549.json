@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Slabbetjes",
   "code": "6284549",
   "price": "4.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2130 > 2499 > 3106 > 3973 > 4362",
   "supplier": "MUNDIA BV",
   "inStock": "inStock",
-  "onPromo": "1055402",
-  "mmkId": "1055402",
-  "productGroupId": "492108",
+  "onPromo": "1031971",
+  "mmkId": "1031971",
+  "productGroupId": "381442",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-slabbetjes/p/6284549",
@@ -33,5 +33,6 @@
       "name": "Slabbetjes"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h56/h62/33674430087198/prd-front-6284549-1_600x600/prd-front-6284549-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6703",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1055315",
-  "mmkId": "1055315",
-  "productGroupId": "480800",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-pure-effect-clean-deeper-reinigingsscrub/p/1183638",
@@ -37,5 +37,6 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "150ml - Onzuivere huid"
+  "description": "150ml - Onzuivere huid",
+  "image": "/medias/sys_master/prd-images/haf/h1b/34520036605982/prd-front-1183638-1_600x600/prd-front-1183638-1-600x600.jpg"
 }

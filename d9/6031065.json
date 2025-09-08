@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Pampers Harmonie Protect & Care Calendula Babydoekjes",
   "code": "6031065",
   "price": "29.99",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "9 x 44 stuks",
-  "image": "/medias/sys_master/prd-images/h7d/h60/31522942025758/prd-front-6031065-1_600x600/prd-front-6031065-1-600x600.jpg"
+  "description": "9 x 44 stuks"
 }

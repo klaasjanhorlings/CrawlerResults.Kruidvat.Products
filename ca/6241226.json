@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Pampers Premium Protection Maat 7 Luiers",
   "code": "6241226",
   "price": "14.49",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 7"
     }
   ],
-  "description": "mt 7 (15+kg), 17 stuks"
+  "description": "mt 7 (15+kg), 17 stuks",
+  "image": "/medias/sys_master/prd-images/h67/hdd/33353434136606/prd-front-6241226-1_600x600/prd-front-6241226-1-600x600.jpg"
 }

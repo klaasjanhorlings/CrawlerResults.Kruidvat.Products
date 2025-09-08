@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1055416",
-  "mmkId": "1055416",
-  "productGroupId": "492761",
+  "onPromo": "1055777",
+  "mmkId": "1055777",
+  "productGroupId": "491057",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-nutrisse-ultra-creme-4-middenbruin-permanente-haarkleuring/p/1003311",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h3e/hc7/32292610506782/prd-front-1003311-1_600x600/prd-front-1003311-1-600x600.jpg"
 }

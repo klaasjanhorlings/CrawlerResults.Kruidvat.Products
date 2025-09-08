@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Naïf Baby & Kids Babydoekjes",
   "code": "6131487",
   "price": "31.98",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "1055366",
-  "mmkId": "1055366",
-  "productGroupId": "487877",
+  "onPromo": "1053273",
+  "mmkId": "1053273",
+  "productGroupId": "497650",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-baby-kids-babydoekjes/p/6131487",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "10 x 40 stuks"
+  "description": "10 x 40 stuks",
+  "image": "/medias/sys_master/prd-images/h0f/ha8/31989489827870/prd-front-6131487-1_600x600/prd-front-6131487-1-600x600.jpg"
 }

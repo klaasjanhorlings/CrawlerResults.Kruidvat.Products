@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1055517",
-  "mmkId": "1055517",
-  "productGroupId": "494053",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-friends-42648-de-pandaopvang/p/6346324",
@@ -33,5 +33,6 @@
       "name": "LEGO Friends"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf7/hff/35040726056990/prd-front-6346324-1_600x600/prd-front-6346324-1-600x600.jpg"
 }
