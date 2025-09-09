@@ -21,18 +21,21 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536080,
+      "name": "Baby"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
+      "id": 30266016,
+      "name": "Babyverzorging"
     },
     {
-      "id": 30266641,
-      "name": "Bodycremes"
+      "id": 30266776,
+      "name": "Baby huidverzorging"
+    },
+    {
+      "id": 30267014,
+      "name": "Babycreme"
     }
   ],
-  "description": "100g",
-  "image": "/medias/sys_master/prd-images/h59/h1a/30460021276702/prd-front-4342808-1_600x600/prd-front-4342808-1-600x600.jpg"
+  "description": "100g"
 }

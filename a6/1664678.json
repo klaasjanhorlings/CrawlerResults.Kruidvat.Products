@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Daktarin Schimmelinfectie Strooipoeder",
+  "code": "1664678",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6450 > 3458",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/daktarin-schimmelinfectie-strooipoeder/p/1664678",
+  "listName": "Lister",
+  "brand": "Daktarin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 49946950,
+      "name": "Schimmelinfectie"
+    }
+  ],
+  "description": "Geneesmiddel - 20g",
+  "image": "/medias/sys_master/prd-images/h03/hb2/29531786706974/prd-front-1664678-1_600x600/prd-front-1664678-1-600x600.jpg"
+}

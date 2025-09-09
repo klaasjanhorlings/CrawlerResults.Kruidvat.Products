@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3796",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055721",
+  "mmkId": "1055721",
+  "productGroupId": "462786",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rexona-women-maximum-protection-sport-strength-antitranspirant-cream-stick/p/3330881",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "45ml"
+  "description": "45ml",
+  "image": "/medias/sys_master/prd-images/h44/h17/30113616691230/prd-front-3330881-1_600x600/prd-front-3330881-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055705",
+  "mmkId": "1055705",
+  "productGroupId": "508580",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-revitalift-laser-instant-eye-bag-eraser/p/6323294",
@@ -33,6 +33,5 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/h92/hdc/34988664094750/prd-front-6323294-1_600x600/prd-front-6323294-1-600x600.jpg"
+  "description": "15ml"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "MAXIM MARKENPRODUKTE",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055269",
+  "mmkId": "1055269",
+  "productGroupId": "475332",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-waterproof-micellair-water/p/4371844",
@@ -37,5 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h8d/hf1/34508642648094/prd-front-4371844-1_600x600/prd-front-4371844-1-600x600.jpg"
 }
