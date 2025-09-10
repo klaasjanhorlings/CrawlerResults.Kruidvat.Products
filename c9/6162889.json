@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266016,
-      "name": "Babyverzorging"
+      "id": 30265995,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30266776,
-      "name": "Baby huidverzorging"
-    },
-    {
-      "id": 30267014,
-      "name": "Babycreme"
+      "id": 30266641,
+      "name": "Bodycremes"
     }
   ],
   "description": "400ml",

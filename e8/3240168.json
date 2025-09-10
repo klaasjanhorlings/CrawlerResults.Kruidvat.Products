@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
   "supplier": "S.C. JOHNSON",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Schoonmaken"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/prd-front-3240168-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDkzNzN8aW1hZ2UvanBlZ3xhRE00TDJoa01pOHlOekEyTkRBMk16QTJOakUwTWk5d2NtUXRabkp2Ym5RdE16STBNREUyT0MweFh6WXdNSGcyTURBfDBiZTA3YjYwMTA5MjYzYzQ4NmJlMjQ4NzI0MDhhMjRhMTYxYzJiMDJmNGY2YzJhYmMwOTRlOGYzODk2MjA3YzM"
 }

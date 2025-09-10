@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1040891",
+  "mmkId": "1040891",
+  "productGroupId": "432557",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-city-60407-toeristische-rode-dubbeldekker/p/6087233",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69031070,
-      "name": "LEGO Voertuigen"
+      "id": 30266810,
+      "name": "LEGO City"
     }
   ],
   "description": "",

@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "KENVUE",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266913,
-      "name": "Micellair water"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "400ml - Alle huidtypen",
