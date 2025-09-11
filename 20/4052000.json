@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055892",
+  "mmkId": "1055892",
+  "productGroupId": "469002",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-hydra-bomb-groene-thee-tissuemasker/p/4052000",
@@ -37,5 +37,6 @@
       "name": "Sheet maskers"
     }
   ],
-  "description": "32g - Normale en gecombineerde huid"
+  "description": "32g - Normale en gecombineerde huid",
+  "image": "/medias/sys_master/prd-images/h32/h70/35155301924894/prd-front-4052000-1_600x600/prd-front-4052000-1-600x600.jpg"
 }

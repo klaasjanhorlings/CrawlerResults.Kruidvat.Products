@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6331 > 6674",
   "supplier": "ZENNER NIEUW VENNEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zenner-teennagelknipper-met-vijl/p/5964390",
@@ -37,5 +37,6 @@
       "name": "Nagelknippers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9f/h74/29678424326174/prd-front-5964390-1_600x600/prd-front-5964390-1-600x600.jpg"
 }

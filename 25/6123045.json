@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-extreme-shine-12-dazzling-apricot-volume-lipgloss/p/6123045",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h9f/hf8/34685795598366/prd-front-6123045-1_600x600/prd-front-6123045-1-600x600.jpg"
 }

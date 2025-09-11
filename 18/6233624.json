@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-glossin-glow-070-make-a-move-tinted-lip-oil/p/6233624",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "4ml"
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h92/h1f/33045325873182/prd-front-6233624-1_600x600/prd-front-6233624-1-600x600.jpg"
 }

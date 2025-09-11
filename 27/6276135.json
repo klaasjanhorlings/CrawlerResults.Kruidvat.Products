@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-camo-medium-liquid-bronzer-contour/p/6276135",
@@ -33,5 +33,6 @@
       "name": "Bronzer"
     }
   ],
-  "description": "4ml"
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h99/hbe/34026325377054/prd-front-6276135-1_600x600/prd-front-6276135-1-600x600.jpg"
 }

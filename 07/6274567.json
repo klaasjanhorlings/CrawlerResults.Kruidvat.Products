@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-cloud-nine-smokey-kohl-eyeliner/p/6274567",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/hbc/hbd/34285664272414/prd-front-6274567-1_600x600/prd-front-6274567-1-600x600.jpg"
 }

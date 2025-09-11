@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Blend + Bond Settingspray",
+  "code": "6344791",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-blend-bond-settingspray/p/6344791",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266594,
+      "name": "Fixing sprays"
+    }
+  ],
+  "description": "55ml"
+}

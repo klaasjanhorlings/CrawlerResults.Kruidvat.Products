@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055895",
+  "mmkId": "1055895",
+  "productGroupId": "472672",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-400-lumi-matte-foundation/p/6241968",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "35ml"
+  "description": "35ml",
+  "image": "/medias/sys_master/prd-images/h57/hf2/33606502875166/prd-front-6241968-1_600x600/prd-front-6241968-1-600x600.jpg"
 }

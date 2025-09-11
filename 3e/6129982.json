@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-cant-stop-wont-stop-light-medium-mattifying-powder/p/6129982",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h04/hf1/31925403746334/prd-front-6129982-1_600x600/prd-front-6129982-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-lash-without-limits-03-black-waterproof-mascara/p/6348795",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "13ml"
+  "description": "13ml",
+  "image": "/medias/sys_master/prd-images/hfc/hf7/44121751945246/prd-front-6348795-1_600x600/prd-front-6348795-1-600x600.jpg"
 }

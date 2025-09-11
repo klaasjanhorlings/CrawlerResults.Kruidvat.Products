@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1055812",
-  "mmkId": "1055812",
-  "productGroupId": "493406",
+  "onPromo": "1055892",
+  "mmkId": "1055892",
+  "productGroupId": "469002",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-3-in-1-reinigingsdoekjes/p/1306621",
@@ -37,5 +37,6 @@
       "name": "Reinigingsdoekjes"
     }
   ],
-  "description": "25 stuks - Droge huid"
+  "description": "25 stuks - Droge huid",
+  "image": "/medias/sys_master/prd-images/he2/ha2/34519446716446/prd-front-1306621-1_600x600/prd-front-1306621-1-600x600.jpg"
 }

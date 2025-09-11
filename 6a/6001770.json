@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-meta-glow-color-changing-lipstick/p/6001770",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3,4g",
-  "image": "/medias/sys_master/prd-images/h74/hca/34679419731998/prd-front-6001770-1_600x600/prd-front-6001770-1-600x600.jpg"
+  "description": "3,4g"
 }

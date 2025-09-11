@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-brighten-perfect-light-2-fair-cream-concealer/p/6317526",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "5,5ml"
+  "description": "5,5ml",
+  "image": "/medias/sys_master/prd-images/h8f/hd0/34868983267358/prd-front-6317526-1_600x600/prd-front-6317526-1-600x600.jpg"
 }

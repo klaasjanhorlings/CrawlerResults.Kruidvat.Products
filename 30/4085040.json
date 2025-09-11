@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4314",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-moroccan-argan-oil-shampoo/p/4085040",
@@ -29,6 +29,5 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/ha8/h75/34898547310622/prd-front-4085040-1_600x600/prd-front-4085040-1-600x600.jpg"
+  "description": "50ml"
 }

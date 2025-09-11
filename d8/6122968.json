@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-colour-it-01-royal-blue-liquid-eyeliner/p/6122968",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "3ml"
+  "description": "3ml",
+  "image": "/medias/sys_master/prd-images/h4e/h4f/34631624425502/prd-front-6122968-1_600x600/prd-front-6122968-1-600x600.jpg"
 }

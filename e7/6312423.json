@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/depend-gel-iq-pure-white-gellak/p/6312423",
@@ -33,5 +33,6 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/ha2/h1f/44001898463262/prd-front-6312423-1_600x600/prd-front-6312423-1-600x600.jpg"
 }

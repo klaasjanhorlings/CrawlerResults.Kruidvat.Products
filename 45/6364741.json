@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/emporio-armani-diamonds-for-women-eau-de-parfum/p/6364741",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h5b/h28/44051254444062/prd-front-6364741-1_600x600/prd-front-6364741-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-2000-calorie-010-cotton-candy-lip-glaze-lipgloss/p/6006509",
@@ -37,6 +37,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "4,4ml",
-  "image": "/medias/sys_master/prd-images/hbc/ha1/30976012353566/prd-front-6006509-1_600x600/prd-front-6006509-1-600x600.jpg"
+  "description": "4,4ml"
 }

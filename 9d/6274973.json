@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-halo-glow-contour-deep/rich-beauty-wand/p/6274973",
@@ -33,5 +33,6 @@
       "name": "Contour"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h64/hd4/34025829629982/prd-front-6274973-1_600x600/prd-front-6274973-1-600x600.jpg"
 }

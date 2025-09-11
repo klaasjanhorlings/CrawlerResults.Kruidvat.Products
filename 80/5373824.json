@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1055756",
-  "mmkId": "1055756",
-  "productGroupId": "483934",
+  "onPromo": "1055892",
+  "mmkId": "1055892",
+  "productGroupId": "469002",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olay-regenerist-parfumvrije-dagcreme/p/5373824",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hb9/hcf/33630109401118/prd-front-5373824-1_600x600/prd-front-5373824-1-600x600.jpg"
 }
