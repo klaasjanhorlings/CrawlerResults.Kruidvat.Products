@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "inStock",
-  "onPromo": "1055779",
-  "mmkId": "1055779",
-  "productGroupId": "491163",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dettol-power-fresh-katoenfris-allesreininger/p/2759765",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "1L",
-  "image": "/medias/prd-front-2759765-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTI1NzZ8aW1hZ2UvanBlZ3xhR1kwTDJnMFlpOHlOalUyT0RFM05URTVNREEwTmk5d2NtUXRabkp2Ym5RdE1qYzFPVGMyTlMweFh6WXdNSGcyTURBfDI2ZThkOTg5OGE5NzMwYTczNjNhMDk3NjY1MTZlMGJhM2MxNzY4NDhkZTZkNjQ0ZmQwNTUxMjA4OGQ5YTNjMDQ"
+  "description": "1L"
 }

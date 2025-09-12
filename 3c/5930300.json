@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Cinuforce Inhalatiedruppels",
   "code": "5930300",
-  "price": "7.5",
+  "price": "5.0",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 4100",
   "supplier": "A.VOGEL",
@@ -37,5 +37,6 @@
       "name": "Inhalatieproducten"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/hc5/h63/33280035455006/prd-front-5930300-1_600x600/prd-front-5930300-1-600x600.jpg"
 }

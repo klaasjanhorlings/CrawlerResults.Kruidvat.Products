@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bolsius Cleanlight Gardenia & Fig Navulling",
+  "code": "6131613",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 2351 > 2704 > 3407 > 5926 > 6679",
+  "supplier": "BOLSIUS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bolsius-cleanlight-gardenia-fig-navulling/p/6131613",
+  "listName": "Lister",
+  "brand": "Bolsius",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266895,
+      "name": "Kaarsen"
+    },
+    {
+      "id": 80866319,
+      "name": "Geurkaarsen"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h20/h45/31601324261406/prd-front-6131613-1_600x600/prd-front-6131613-1-600x600.jpg"
+}

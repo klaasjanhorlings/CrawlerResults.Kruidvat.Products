@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Chicco Lees en Leer Schoolbank",
+  "code": "6343706",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
+  "supplier": "HERMANEX INTERNATIONAL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/chicco-lees-en-leer-schoolbank/p/6343706",
+  "listName": "Lister",
+  "brand": "Chicco",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266034,
+      "name": "Educatief speelgoed"
+    },
+    {
+      "id": 90169671,
+      "name": "Educatieve speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h10/h53/34883386736670/prd-front-6343706-1_600x600/prd-front-6343706-1-600x600.jpg"
+}

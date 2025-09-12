@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Buttermelt Birght & Butta 05 Highlighter",
+  "code": "6341963",
+  "price": "10.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-buttermelt-birght-butta-05-highlighter/p/6341963",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266589,
+      "name": "Highlighter"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he4/h08/35117184122910/prd-front-6341963-1_600x600/prd-front-6341963-1-600x600.jpg"
+}

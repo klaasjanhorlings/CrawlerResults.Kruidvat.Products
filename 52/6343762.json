@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nickelodeon Dora Best Friend Dora Doll",
+  "code": "6343762",
+  "price": "11.99",
+  "priceOriginal": "14.99",
+  "itemBgbcat": "2183 > 5177 > 5271 > 5460 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 3,00",
+  "url": "/nickelodeon-dora-best-friend-dora-doll/p/6343762",
+  "listName": "Lister",
+  "brand": "Dora",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "30cm",
+  "image": "/medias/sys_master/prd-images/hbd/hca/44113830805534/prd-front-6343762-1_600x600/prd-front-6343762-1-600x600.jpg"
+}

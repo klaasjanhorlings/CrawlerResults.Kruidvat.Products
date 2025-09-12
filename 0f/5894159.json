@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1055907",
+  "mmkId": "1055907",
+  "productGroupId": "494209",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-baby-wascreme/p/5894159",
@@ -21,12 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536080,
+      "name": "Baby"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266777,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267021,
+      "name": "Babywasgel"
     }
   ],
   "description": "150ml",

@@ -6,7 +6,7 @@
   "price": "3.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
-  "supplier": "EUROFOUR BV",
+  "supplier": "DERMCOS GMBH",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
@@ -25,12 +25,8 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265999,
-      "name": "Zonbescherming"
-    },
-    {
-      "id": 30266657,
-      "name": "Zonnebrand"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "50ml",

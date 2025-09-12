@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2038 > 2157 > 2386 > 2828 > 3570",
   "supplier": "LEMOINE HOLLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1028975",
+  "mmkId": "1028975",
+  "productGroupId": "362258",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-100-cotton-extra-safe-wattenstaafjes/p/2970990",
@@ -33,5 +33,6 @@
       "name": "Wattenschijfjes en staafjes"
     }
   ],
-  "description": "110 stuks"
+  "description": "110 stuks",
+  "image": "/medias/prd-front-2970990-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODM2MTZ8aW1hZ2UvanBlZ3xhRFUyTDJnelppOHlOamsxTXpNd01UTTVNelF6T0M5d2NtUXRabkp2Ym5RdE1qazNNRGs1TUMweFh6WXdNSGcyTURBfDhmNTkwNjZiZDIwZmE1ODY4NTZlZjkwNGFmNzQzNjY2YjE1YTllZTg4NmEyMTgwNDRlNTRiMjAzZDRkNjhjYzU"
 }

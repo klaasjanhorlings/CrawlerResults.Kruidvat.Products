@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Solait SPF30 Face Sunfluid",
+  "code": "3692095",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "EMIL KIESSLING GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-solait-spf30-face-sunfluid/p/3692095",
+  "listName": "Lister",
+  "brand": "Kruidvat Solait",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h17/h81/29997674233886/prd-front-3692095-1_600x600/prd-front-3692095-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pluchen Hello Kitty Knuffel",
+  "code": "6343853",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 5179 > 5303 > 5492 > 5921 > 6040",
+  "supplier": "DURABO BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/pluchen-hello-kitty-knuffel/p/6343853",
+  "listName": "Lister",
+  "brand": "Hello Kitty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "45cm",
+  "image": "/medias/sys_master/prd-images/ha4/h04/34880709787678/prd-front-6343853-1_600x600/prd-front-6343853-1-600x600.jpg"
+}
