@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3059 > 3907",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pure-soft-newborn-maat-1-luiers-volumedoos/p/5662098",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 1 (2-5 kg), 186 stuks",
-  "image": "/medias/sys_master/prd-images/hd6/hb8/44209074470942/prd-front-5662098-1_600x600/prd-front-5662098-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h70/hb3/44228073291806/prd-front-5662098-1_600x600/prd-front-5662098-1-600x600.jpg"
 }

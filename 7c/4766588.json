@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6430",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1055676",
-  "mmkId": "1055676",
-  "productGroupId": "508876",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-professional-haardroger/p/4766588",
@@ -37,5 +37,6 @@
       "name": "Föhns"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he7/h91/28239279816734/prd-front-4766588-1_600x600/prd-front-4766588-1-600x600.jpg"
 }

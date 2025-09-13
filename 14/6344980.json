@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-art-couleurs-440-bronze-bliss-eyeshadow/p/6344980",
@@ -37,6 +37,5 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": "2g",
-  "image": "/medias/sys_master/prd-images/he6/h25/35008307658782/prd-front-6344980-1_600x600/prd-front-6344980-1-600x600.jpg"
+  "description": "2g"
 }

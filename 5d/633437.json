@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence 02 Soft Beige Mattifying Compact Powder",
+  "code": "633437",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-02-soft-beige-mattifying-compact-powder/p/633437",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266587,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5e/h5b/34651453587486/prd-front-633437-1_600x600/prd-front-633437-1-600x600.jpg"
+}

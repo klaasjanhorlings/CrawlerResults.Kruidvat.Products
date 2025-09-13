@@ -5,12 +5,12 @@
   "code": "5662063",
   "price": "68.94",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4344 > 4345",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055851",
+  "mmkId": "1055851",
+  "productGroupId": "495139",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pure-soft-maat-5-luiers-volumedoos/p/5662063",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 5 (10-16 kg). 192 stuks",
-  "image": "/medias/sys_master/prd-images/hd6/h8f/44210689638430/prd-front-5662063-1_600x600/prd-front-5662063-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h08/hac/44220324741150/prd-front-5662063-1_600x600/prd-front-5662063-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Davidoff Cool Water Woman Eau de Toilette",
+  "code": "31310",
+  "price": "26.09",
+  "priceOriginal": "73.62",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "SAR TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "1055903",
+  "mmkId": "1055903",
+  "productGroupId": "493292",
+  "brandType": "A of B merk",
+  "discount": "€ 47,53",
+  "url": "/davidoff-cool-water-woman-eau-de-toilette/p/31310",
+  "listName": "Lister",
+  "brand": "Davidoff",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-31310-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjExNDV8aW1hZ2UvanBlZ3xhRFpoTDJobU9DOHlOekUwTWpRMk1qRTBORFUwTWk5d2NtUXRabkp2Ym5RdE16RXpNVEF0TVY4Mk1EQjROakF3fDdlYTgzNzMxNjU3NjgwMzg0NjhmZDdiYmNlNTcxMzZhZDc2ZjgyMDBmMWNiMzc0ZDBiZDg4ZTY5YTY2NzQyYjA"
+}

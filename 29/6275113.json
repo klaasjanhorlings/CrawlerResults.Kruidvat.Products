@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "e.l.f. Glow Reviver Money Mauve Lip Oil",
+  "code": "6275113",
+  "price": "10.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "inStock",
+  "onPromo": "1055915",
+  "mmkId": "1055915",
+  "productGroupId": "504615",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-glow-reviver-money-mauve-lip-oil/p/6275113",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 87393641,
+      "name": "Lip oil"
+    }
+  ],
+  "description": "7,6ml",
+  "image": "/medias/sys_master/prd-images/h70/h9a/34312759607326/prd-front-6275113-1_600x600/prd-front-6275113-1-600x600.jpg"
+}
