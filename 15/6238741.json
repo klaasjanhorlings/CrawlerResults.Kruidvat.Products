@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Marvel Studios I Am Groot Knuffel",
+  "code": "6238741",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 5179 > 5303 > 5492 > 5921 > 6040",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "inStock",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/marvel-studios-i-am-groot-knuffel/p/6238741",
+  "listName": "Lister",
+  "brand": "Marvel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "30cm",
+  "image": "/medias/sys_master/prd-images/he9/h0e/32896825327646/prd-front-6238741-1_600x600/prd-front-6238741-1-600x600.jpg"
+}

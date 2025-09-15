@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jumbo Pim Pam Pet Family",
+  "code": "5512179",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
+  "supplier": "JUMBO NL BV",
+  "inStock": "inStock",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jumbo-pim-pam-pet-family/p/5512179",
+  "listName": "Lister",
+  "brand": "Jumbo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel"
+}

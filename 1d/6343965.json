@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fisher-Price Laugh & Learn Game Controller",
+  "code": "6343965",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
+  "supplier": "OTTO SIMON BV",
+  "inStock": "inStock",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fisher-price-laugh-learn-game-controller/p/6343965",
+  "listName": "Lister",
+  "brand": "Fisher Price",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266034,
+      "name": "Educatief speelgoed"
+    },
+    {
+      "id": 90169580,
+      "name": "Educatieve spellen"
+    }
+  ],
+  "description": ""
+}

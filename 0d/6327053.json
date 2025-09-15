@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Verkade XXL Choco Biscuit met Cacao-Hazelnootvulling",
+  "code": "6327053",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2340 > 2740 > 3442",
+  "supplier": "KONINKLIJKE VERKADE NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/verkade-xxl-choco-biscuit-met-cacao-hazelnootvulling/p/6327053",
+  "listName": "Lister",
+  "brand": "Verkade",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267023,
+      "name": "Koek"
+    }
+  ],
+  "description": "225g",
+  "image": "/medias/sys_master/prd-images/h6b/hf1/34382782464030/prd-front-6327053-1_600x600/prd-front-6327053-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Setup",
+  "code": "6305605",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
+  "supplier": "ASMODEE THE NETHERLANDS",
+  "inStock": "inStock",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/setup/p/6305605",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h3b/h65/34101021900830/prd-front-6305605-1_600x600/prd-front-6305605-1-600x600.jpg"
+}

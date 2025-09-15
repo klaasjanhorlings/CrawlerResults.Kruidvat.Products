@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Spinmaster Rainbow Cake Shop Kinetic Sand",
+  "code": "6295301",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
+  "supplier": "SINGLETON TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/spinmaster-rainbow-cake-shop-kinetic-sand/p/6295301",
+  "listName": "Lister",
+  "brand": "Spinmaster",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266030,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb6/hfe/33985121091614/prd-front-6295301-1_600x600/prd-front-6295301-1-600x600.jpg"
+}

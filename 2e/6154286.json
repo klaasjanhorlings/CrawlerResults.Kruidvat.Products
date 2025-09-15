@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Walibi Holland Halloween Fright Nights Ticket",
+  "code": "6154286",
+  "price": "37.5",
+  "priceOriginal": "49.5",
+  "itemBgbcat": "4870 > 4891 > 6447 > 6540 > 6541 > 6542",
+  "supplier": "WALIBI HOLLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 12,00",
+  "url": "/walibi-holland-halloween-fright-nights-ticket/p/6154286",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536083,
+      "name": "Tickets"
+    },
+    {
+      "id": 30266047,
+      "name": "Dagje uit"
+    },
+    {
+      "id": 30266869,
+      "name": "Pretpark"
+    }
+  ],
+  "description": "Verzilver je code via de link in de productinformatie"
+}

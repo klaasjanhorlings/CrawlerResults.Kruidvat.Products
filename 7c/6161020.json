@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "1055907",
-  "mmkId": "1055907",
-  "productGroupId": "494209",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-hydro-boost-hydrating-fluid-met-spf50/p/6161020",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h3e/h25/34039215128606/prd-front-6161020-1_600x600/prd-front-6161020-1-600x600.jpg"
+  "description": "50ml"
 }

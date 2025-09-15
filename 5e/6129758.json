@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1055915",
-  "mmkId": "1055915",
-  "productGroupId": "504615",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-cant-stop-wont-stop-15-fair-contour-concealer/p/6129758",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "3,5ml"
+  "description": "3,5ml",
+  "image": "/medias/sys_master/prd-images/hda/hf5/31930661765150/prd-front-6129758-1_600x600/prd-front-6129758-1-600x600.jpg"
 }

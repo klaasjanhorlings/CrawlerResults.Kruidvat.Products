@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
   "supplier": "999 GAMES",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/999-games-blasting-billy/p/6319717",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/hba/h4d/34435895984158/prd-front-6319717-1_600x600/prd-front-6319717-1-600x600.jpg"
 }

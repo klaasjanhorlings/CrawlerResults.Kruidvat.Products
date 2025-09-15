@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Kruidnoten",
+  "code": "2593613",
+  "price": "0.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 4009",
+  "supplier": "VAN DELFT BISCUITS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-kruidnoten/p/2593613",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267029,
+      "name": "Sinterklaassnoep"
+    }
+  ],
+  "description": "225g",
+  "image": "/medias/prd-front-2593613-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTEzMTUzfGltYWdlL2pwZWd8YUdNeEwyaG1OQzh4TmpFd01qVXhNRGMxTlRnM01DOXdjbVF0Wm5KdmJuUXRNalU1TXpZeE15MHhYell3TUhnMk1EQXxiN2ViNWQzN2U2MjI5MmI3ZDQwMDJhMmQ5Yzc3MmExNmRkZjE2YTg0YTcxODBlMWJlOGRjYWQyZGFkMTM2YzNj"
+}

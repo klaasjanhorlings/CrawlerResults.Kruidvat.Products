@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 5710 > 5711 > 5712",
   "supplier": "THEOTCLAB HEALTHCARE BV",
   "inStock": "inStock",
-  "onPromo": "1055777",
-  "mmkId": "1055777",
-  "productGroupId": "491057",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/just-for-men-original-formula-h-10-blond-haarkleuring/p/3550506",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": "66ml"
+  "description": "66ml",
+  "image": "/medias/sys_master/prd-images/h89/hb8/34838215196702/prd-front-3550506-1_600x600/prd-front-3550506-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1055915",
-  "mmkId": "1055915",
-  "productGroupId": "504615",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/beauty-of-joseon-radiance-cleansing-balm/p/6199982",
@@ -37,6 +37,5 @@
       "name": "Reinigingsbalsem"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h3f/ha0/32251199455262/prd-front-6199982-1_600x600/prd-front-6199982-1-600x600.jpg"
+  "description": "100ml"
 }

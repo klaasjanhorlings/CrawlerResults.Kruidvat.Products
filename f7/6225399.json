@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-disney-43260-vaianas-speeleiland/p/6225399",
@@ -33,5 +33,6 @@
       "name": "LEGO Films en series"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8b/h44/33148281946142/prd-front-6225399-1_600x600/prd-front-6225399-1-600x600.jpg"
 }

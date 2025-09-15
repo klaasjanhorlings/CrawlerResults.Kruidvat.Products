@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Celementoni Jurassic World Kinderpuzzel",
+  "code": "6343132",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6018",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "inStock",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/celementoni-jurassic-world-kinderpuzzel/p/6343132",
+  "listName": "Lister",
+  "brand": "Jurassic World",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90170187,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "2 x 60 stukjes",
+  "image": "/medias/sys_master/prd-images/h41/hdd/44130672705566/prd-front-6343132-1_600x600/prd-front-6343132-1-600x600.jpg"
+}

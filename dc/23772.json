@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2471 > 3308 > 4204",
   "supplier": "CONTINENTAL CANDY IND.",
-  "inStock": "inStock",
-  "onPromo": "1056433",
-  "mmkId": "1056433",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Snoep"
     }
   ],
-  "description": "500g",
-  "image": "/medias/sys_master/prd-images/hdd/hc7/29275334246430/prd-front-23772-1_600x600/prd-front-23772-1-600x600.jpg"
+  "description": "500g"
 }

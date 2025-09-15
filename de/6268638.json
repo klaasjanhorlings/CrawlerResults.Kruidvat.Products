@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "1055903",
-  "mmkId": "1055903",
-  "productGroupId": "493292",
+  "onPromo": "1055816",
+  "mmkId": "1055816",
+  "productGroupId": "493492",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/david-beckham-exquisite-leather-eau-de-parfum/p/6268638",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h39/ha8/33466909917214/prd-front-6268638-1_600x600/prd-front-6268638-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fisher Price 3-In-1 Kruipen en Spelen Activiteitenspeelmat",
+  "code": "6133146",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
+  "supplier": "GRANT & BOWMAN",
+  "inStock": "inStock",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fisher-price-3-in-1-kruipen-en-spelen-activiteitenspeelmat/p/6133146",
+  "listName": "Lister",
+  "brand": "Fisher Price",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30266831,
+      "name": "Speelkleden en Babygyms"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hea/h22/31287470686238/prd-front-6133146-1_600x600/prd-front-6133146-1-600x600.jpg"
+}

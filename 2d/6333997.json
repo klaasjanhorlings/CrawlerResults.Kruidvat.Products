@@ -8,9 +8,9 @@
   "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hasbro-play-doh-swirlin-smoothies-blender-playset/p/6333997",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb5/h33/34640394649630/prd-front-6333997-1_600x600/prd-front-6333997-1-600x600.jpg"
 }

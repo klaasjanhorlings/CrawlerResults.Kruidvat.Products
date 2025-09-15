@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Walibi Halloween Spooky Days Ticket",
+  "code": "6364447",
+  "price": "25.0",
+  "priceOriginal": "44.5",
+  "itemBgbcat": "4870 > 4893 > 4891 > 4892 > 4894 > 6447",
+  "supplier": "WALIBI HOLLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 19,50",
+  "url": "/walibi-halloween-spooky-days-ticket/p/6364447",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536083,
+      "name": "Tickets"
+    },
+    {
+      "id": 30266047,
+      "name": "Dagje uit"
+    },
+    {
+      "id": 30266869,
+      "name": "Pretpark"
+    }
+  ],
+  "description": "Verzilver je code via de link in de productinformatie"
+}

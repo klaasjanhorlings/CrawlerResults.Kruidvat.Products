@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "1055777",
-  "mmkId": "1055777",
-  "productGroupId": "491057",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-color-sensation-color-retouch-40-middenbruin-haarkleuring/p/6309602",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hdc/h9d/34485498118174/prd-front-6309602-1_600x600/prd-front-6309602-1-600x600.jpg"
+  "description": ""
 }

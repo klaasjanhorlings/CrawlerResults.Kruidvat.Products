@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-ninjago-71843-rogues-mecha-drakenrijder/p/6346387",
@@ -33,5 +33,6 @@
       "name": "LEGO Ninjago"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h12/hd3/35041479753758/prd-front-6346387-1_600x600/prd-front-6346387-1-600x600.jpg"
 }

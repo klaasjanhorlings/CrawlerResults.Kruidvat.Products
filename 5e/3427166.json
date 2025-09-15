@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1055915",
-  "mmkId": "1055915",
-  "productGroupId": "504615",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-energy-douchegel/p/3427166",
@@ -29,5 +29,6 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hb2/hb6/34899564068894/prd-front-3427166-1_600x600/prd-front-3427166-1-600x600.jpg"
 }

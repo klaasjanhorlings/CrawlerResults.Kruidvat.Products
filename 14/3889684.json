@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1055892",
-  "mmkId": "1055892",
-  "productGroupId": "469002",
+  "onPromo": "1055705",
+  "mmkId": "1055705",
+  "productGroupId": "508580",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-wrinkle-expert-55-anti-rimpel-dagcreme/p/3889684",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid"
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h59/h39/35155296976926/prd-front-3889684-1_600x600/prd-front-3889684-1-600x600.jpg"
 }

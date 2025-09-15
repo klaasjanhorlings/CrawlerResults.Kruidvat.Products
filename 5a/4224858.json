@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1055915",
-  "mmkId": "1055915",
-  "productGroupId": "504615",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/montagne-jeunesse-charcoal-peel-off-gezichtsmasker/p/4224858",
@@ -37,6 +37,5 @@
       "name": "Peel-off maskers"
     }
   ],
-  "description": "15g",
-  "image": "/medias/sys_master/prd-images/h31/h1b/33632754008094/prd-front-4224858-1_600x600/prd-front-4224858-1-600x600.jpg"
+  "description": "15g"
 }

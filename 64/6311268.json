@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
   "supplier": "BLUESUN CONSUMER BRANDS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055971",
+  "mmkId": "1055971",
+  "productGroupId": "491273",
   "brandType": "A of B merk",
   "discount": "€ 11,00",
   "url": "/dreft-romantic-rose-vloeibaar-wasmiddel/p/6311268",
@@ -29,6 +29,5 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "2340ml, 52 wasbeurten",
-  "image": "/medias/sys_master/prd-images/h17/h2c/44227534815262/prd-front-6311268-1_600x600/prd-front-6311268-1-600x600.jpg"
+  "description": "2340ml, 52 wasbeurten"
 }

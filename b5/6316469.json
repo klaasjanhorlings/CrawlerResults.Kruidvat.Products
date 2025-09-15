@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Robo Smart Kat",
+  "code": "6316469",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 5177 > 5271 > 5460 > 5921 > 6040",
+  "supplier": "SPECTRON BV",
+  "inStock": "inStock",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/robo-smart-kat/p/6316469",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266035,
+      "name": "Elektronisch speelgoed"
+    }
+  ],
+  "description": ""
+}

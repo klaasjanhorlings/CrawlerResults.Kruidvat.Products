@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5921 > 6018 > 6735 > 6733 > 6734",
   "supplier": "999 GAMES",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
   "brandType": "A of B merk",
   "discount": "€ 7,00",
   "url": "/999-games-zinga-spel/p/6137668",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/ha9/h81/31991542284318/prd-front-6137668-1_600x600/prd-front-6137668-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Sweet Raspberry Kruidnoten",
+  "code": "6073401",
+  "price": "2.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 4009",
+  "supplier": "VAN DELFT BISCUITS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-sweet-raspberry-kruidnoten/p/6073401",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267029,
+      "name": "Sinterklaassnoep"
+    }
+  ],
+  "description": "225g",
+  "image": "/medias/sys_master/prd-images/hb5/h02/31534521483294/prd-front-6073401-1_600x600/prd-front-6073401-1-600x600.jpg"
+}

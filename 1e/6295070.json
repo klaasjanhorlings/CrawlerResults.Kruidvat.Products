@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1055915",
-  "mmkId": "1055915",
-  "productGroupId": "504615",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mixsoon-bifida-ferment-essence/p/6295070",
@@ -33,6 +33,5 @@
       "name": "Essence"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h68/he2/34536176418846/prd-front-6295070-1_600x600/prd-front-6295070-1-600x600.jpg"
+  "description": "30ml"
 }
