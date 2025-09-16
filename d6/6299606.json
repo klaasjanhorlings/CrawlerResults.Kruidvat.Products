@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Andrélon Perfecte Krul Voedende Leave-in Haarcrème",
   "code": "6299606",
   "price": "7.19",
@@ -33,6 +33,5 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h84/hd9/34732676349982/prd-front-6299606-1_600x600/prd-front-6299606-1-600x600.jpg"
+  "description": "200ml"
 }

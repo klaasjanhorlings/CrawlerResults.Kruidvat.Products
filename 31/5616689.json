@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "KeraCare Moisturizing Shampoo",
   "code": "5616689",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "335ml"
+  "description": "335ml",
+  "image": "/medias/prd-front-5616689-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDE3MjB8aW1hZ2UvanBlZ3xhRFl6TDJoa09DOHlOamc0T1RVMU5UTTNPREl3Tmk5d2NtUXRabkp2Ym5RdE5UWXhOalk0T1MweFh6WXdNSGcyTURBfGVjN2I5N2UwMDE0MzI4YWYyZDA0ZmNlMDM0ZTc4YmJmZWVhMzA2OGIzYzM1YjkwMjg4NmI4NWQ3N2VhNDljOTY"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Gillette Scheergel voor de Gevoelige Huid",
   "code": "20084",
   "price": "3.55",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h18/h72/28960600162334/prd-front-20084-1_600x600/prd-front-20084-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Elvive Hyaluronic Hydratatie Leave In Serumspray",
   "code": "5605223",
   "price": "12.99",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h22/hb3/33048277647390/prd-front-5605223-1_600x600/prd-front-5605223-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kneipp Muscle Soothing Jeneverbes Badolie",
   "code": "17971",
   "price": "12.49",
@@ -33,5 +33,6 @@
       "name": "Badolie"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-17971-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODcxNzN8aW1hZ2UvanBlZ3xhREkyTDJoak9DOHlOamsyTkRFME9Ea3hNakUxT0M5d2NtUXRabkp2Ym5RdE1UYzVOekV0TVY4Mk1EQjROakF3fDQ4NzZiMTZkNzFlMzFmMTMwMWMxOWM4MmJmNzA0ZGJlMTg1MjgzOGU4Y2Q3NWEzODA3OTZiODQzMmExZGE1OTQ"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Men Energy Douchegel",
   "code": "2409569",
   "price": "9.49",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "500ml - Normale huid"
+  "description": "500ml - Normale huid",
+  "image": "/medias/prd-front-2409569-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTUyMzl8aW1hZ2UvanBlZ3xhRFU1TDJnMVl5OHhOalUxTWpZME5EZzNNREUzTkM5d2NtUXRabkp2Ym5RdE1qUXdPVFUyT1MweFh6WXdNSGcyTURBfDNiZGJmMTIxZWUyN2E2ODJmZmU1MDllMjgyZDYyNmVlNjY4ODg2YjY2ZmRiMGE3ZTk4NTk3ZTM3Zjk5ZjljYmM"
 }

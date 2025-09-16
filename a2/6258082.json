@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Keukendoekenset",
+  "code": "6258082",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 5798 > 5797 > 5926 > 6020 > 6048",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "1012132",
+  "mmkId": "1012132",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/keukendoekenset/p/6258082",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266901,
+      "name": "Huishoudelijk textiel"
+    },
+    {
+      "id": 80863125,
+      "name": "Theedoeken"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/hf8/hc4/33611871289374/prd-front-6258082-1_600x600/prd-front-6258082-1-600x600.jpg"
+}

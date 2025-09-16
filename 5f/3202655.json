@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Elvive Extraordinary Oil Masker",
   "code": "3202655",
   "price": "9.49",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h65/h66/33041706385438/prd-front-3202655-1_600x600/prd-front-3202655-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sanicur Bad en Douche Gel",
   "code": "24569",
   "price": "4.39",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056037",
+  "mmkId": "1056037",
+  "productGroupId": "491418",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanicur-bad-en-douche-gel/p/24569",
@@ -29,8 +29,8 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266648,
-      "name": "Douchegel"
+      "id": 30266655,
+      "name": "Badschuim"
     }
   ],
   "description": "1L - Normale huid",

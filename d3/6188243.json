@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Treaclemoon Brazilian Love Miraculous Glamsilk Bump Smoother",
   "code": "6188243",
   "price": "11.99",
@@ -33,5 +33,6 @@
       "name": "Scrub"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h52/h14/32415976095774/prd-front-6188243-1_600x600/prd-front-6188243-1-600x600.jpg"
 }

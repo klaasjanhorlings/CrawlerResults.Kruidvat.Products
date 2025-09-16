@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Vision Clear & Dry SPF30 Transparante Gel",
+  "code": "5604740",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1056344",
+  "mmkId": "1056344",
+  "productGroupId": "512539",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vision-clear-dry-spf30-transparante-gel/p/5604740",
+  "listName": "Lister",
+  "brand": "Vision",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "180ml",
+  "image": "/medias/sys_master/prd-images/h2b/h63/34021885476894/prd-front-5604740-1_600x600/prd-front-5604740-1-600x600.jpg"
+}

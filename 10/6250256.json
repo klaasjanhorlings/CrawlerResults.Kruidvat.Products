@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Boldking Original Foaming Shave Gel",
   "code": "6250256",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "185ml"
+  "description": "185ml",
+  "image": "/medias/sys_master/prd-images/hff/he0/33651874234398/prd-front-6250256-1_600x600/prd-front-6250256-1-600x600.jpg"
 }

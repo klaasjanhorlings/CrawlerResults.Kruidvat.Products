@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Crème Care Douchegel",
   "code": "6253413",
   "price": "3.79",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "750ml"
+  "description": "750ml",
+  "image": "/medias/sys_master/prd-images/he5/h18/44001898659870/prd-front-6253413-1_600x600/prd-front-6253413-1-600x600.jpg"
 }

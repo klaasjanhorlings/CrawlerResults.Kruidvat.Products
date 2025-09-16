@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Andrélon Pro Nature Coco Curl Creation Conditioner",
   "code": "5829276",
   "price": "8.99",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/prd-front-5829276-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE4NDZ8aW1hZ2UvanBlZ3xhRE5qTDJobU1pOHlOekl3T0RZMU5qWTFNREkzTUM5d2NtUXRabkp2Ym5RdE5UZ3lPVEkzTmkweFh6WXdNSGcyTURBfGJlMTgwOGJiOGRmYTg4NmE4MzEzMDYyZDA2OGE2NzQxNmZlZGRiY2U1MDViZTUwOTU3YjA5OGYyMzM5YTk2MTI"
 }

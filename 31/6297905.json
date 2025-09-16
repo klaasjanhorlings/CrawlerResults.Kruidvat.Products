@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Weekendtas",
+  "code": "6297905",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 4869 > 6088 > 6091 > 6095",
+  "supplier": "DUGROS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-weekendtas/p/6297905",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266050,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30266876,
+      "name": "Reisartikelen"
+    },
+    {
+      "id": 84925931,
+      "name": "Reisaccessoires"
+    }
+  ],
+  "description": "navy, 40cm x 14cm x 33cm"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Colgate Max White Expert Original Whitening Tandpasta",
   "code": "3533601",
   "price": "6.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "75ml - Whitening",
-  "image": "/medias/sys_master/prd-images/ha3/hec/44221459988510/prd-front-3533601-1_600x600/prd-front-3533601-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb3/h8a/44242652659742/prd-front-3533601-1_600x600/prd-front-3533601-1-600x600.jpg"
 }

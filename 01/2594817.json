@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Palmolive Naturals Amandelmelk Douchecrème",
   "code": "2594817",
   "price": "3.79",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml - Normale huid"
+  "description": "250ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hf8/hb6/33907052707870/prd-front-2594817-1_600x600/prd-front-2594817-1-600x600.jpg"
 }

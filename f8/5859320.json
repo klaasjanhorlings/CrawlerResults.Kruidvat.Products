@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sanex Expert Skin Health Protector Douchecrème",
   "code": "5859320",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "400ml - Alle huidtypes"
+  "description": "400ml - Alle huidtypes",
+  "image": "/medias/sys_master/prd-images/hb3/h50/29832450113566/prd-front-5859320-1_600x600/prd-front-5859320-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fast & Furious 1967 Chevrolet El Camino Raceauto",
+  "code": "6224678",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2140 > 4929 > 4976 > 5022 > 5921 > 6040",
+  "supplier": "HERMANEX INTERNATIONAL",
+  "inStock": "inStock",
+  "onPromo": "1055979",
+  "mmkId": "1055979",
+  "productGroupId": "494124",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/fast-furious-1967-chevrolet-el-camino-raceauto/p/6224678",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5b/h14/32868324474910/prd-front-6224678-1_600x600/prd-front-6224678-1-600x600.jpg"
+}

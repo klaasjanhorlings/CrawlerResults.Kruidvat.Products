@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Under Armour Sporttas",
+  "code": "6368017",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4073 > 4869",
+  "supplier": "STOCKPOINT INTERN. BV",
+  "inStock": "inStock",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/under-armour-sporttas/p/6368017",
+  "listName": "Lister",
+  "brand": "Under armour",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    }
+  ],
+  "description": "khaki",
+  "image": "/medias/sys_master/prd-images/h8d/hdc/34917762007070/prd-front-6368017-1_600x600/prd-front-6368017-1-600x600.jpg"
+}

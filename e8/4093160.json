@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 0-4 jaar Tandpasta",
   "code": "4093160",
   "price": "0.79",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-4093160-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjUyMjd8aW1hZ2UvanBlZ3xhRFptTDJneU5DOHhOakU0TkRZNE56UXlOell4TkM5d2NtUXRabkp2Ym5RdE5EQTVNekUyTUMweFh6WXdNSGcyTURBfDkwN2JiMzk1NWQyNWZlZTgwZWU4MWRlMWU1MWYzYTBhN2ZhZDI4YTZmNWNjOGFiZmRkZGMwNzE0MWMzN2JlOTg"
+  "description": "100ml"
 }

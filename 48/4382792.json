@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Men Deep Black Carbon Dark Wood Antitranspirant Spray",
   "code": "4382792",
   "price": "6.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1055715",
-  "mmkId": "1055715",
-  "productGroupId": "455971",
+  "onPromo": "1056042",
+  "mmkId": "1056042",
+  "productGroupId": "495963",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-deep-black-carbon-dark-wood-antitranspirant-spray/p/4382792",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hd9/h62/34394059440158/prd-front-4382792-1_600x600/prd-front-4382792-1-600x600.jpg"
+  "description": "150ml"
 }

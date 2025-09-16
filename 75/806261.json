@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dove Advanced Care Invisible Dry Antitranspirant Deodorant Spray",
   "code": "806261",
   "price": "6.29",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h28/hdc/44220604448798/prd-front-806261-1_600x600/prd-front-806261-1-600x600.jpg"
+  "description": "150ml"
 }

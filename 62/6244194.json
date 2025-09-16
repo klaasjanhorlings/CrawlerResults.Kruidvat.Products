@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Cantu Weightless Smooth + Curl Cream",
   "code": "6244194",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "295ml"
+  "description": "295ml",
+  "image": "/medias/sys_master/prd-images/h81/h9e/33327781707806/prd-front-6244194-1_600x600/prd-front-6244194-1-600x600.jpg"
 }

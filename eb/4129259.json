@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "EUR",
-  "itemName": "Vogue Reve Exotique Parfum Deodorant Spray",
+  "currency": "USD",
+  "itemName": "Vogue Rêve Exotique Parfum Deodorant Spray",
   "code": "4129259",
   "price": "4.19",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056036",
+  "mmkId": "1056036",
+  "productGroupId": "491228",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vogue-reve-exotique-parfum-deodorant-spray/p/4129259",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hd2/hbd/44223188729886/prd-front-4129259-1_600x600/prd-front-4129259-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4c/h9e/44242654756894/prd-front-4129259-1_600x600/prd-front-4129259-1-600x600.jpg"
 }

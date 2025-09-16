@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Always Ultra Secure Night Maandverband",
   "code": "6267602",
   "price": "2.89",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "mt 4, 8 stuks",
-  "image": "/medias/sys_master/prd-images/h04/ha4/34040462802974/prd-front-6267602-1_600x600/prd-front-6267602-1-600x600.jpg"
+  "description": "mt 4, 8 stuks"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "African Pride Moisture Miracle Curling Cream",
   "code": "5616822",
   "price": "8.99",
@@ -33,5 +33,6 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "340g"
+  "description": "340g",
+  "image": "/medias/sys_master/prd-images/h19/hbb/27530324705310/prd-front-5616822-1_600x600/prd-front-5616822-1-600x600.jpg"
 }

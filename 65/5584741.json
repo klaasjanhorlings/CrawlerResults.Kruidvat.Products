@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Palmolive Men Sport 3-in-1 Douchegel",
   "code": "5584741",
   "price": "2.5",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,49",
+  "discount": "$ 3,49",
   "url": "/palmolive-men-sport-3-in-1-douchegel/p/5584741",
   "listName": "Lister",
   "brand": "Palmolive",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/prd-front-5584741-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE3NTF8aW1hZ2UvanBlZ3xhR1UxTDJoaE55OHlOamd3TWpFMU1qWTJPVEl4TkM5d2NtUXRabkp2Ym5RdE5UVTRORGMwTVMweFh6WXdNSGcyTURBfGQ5MTUwMTQ5NGExYTcxNzM0MTcyMGRhY2RjN2MwMjdiMGI2YTliMWRkZjVjYjJmYTA4YjVjNTNiMGMxNmQxOTA"
 }

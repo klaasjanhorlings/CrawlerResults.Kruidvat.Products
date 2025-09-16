@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Tweezerman Facial Razor",
   "code": "5957432",
   "price": "26.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 0,51",
+  "discount": "$ 0,51",
   "url": "/tweezerman-facial-razor/p/5957432",
   "listName": "Lister",
   "brand": "Tweezerman",

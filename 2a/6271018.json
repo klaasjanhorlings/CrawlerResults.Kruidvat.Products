@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Moments Jasmine & Bergamot Bodywash",
   "code": "6271018",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h4f/h4e/33762699771934/prd-front-6271018-1_600x600/prd-front-6271018-1-600x600.jpg"
+  "description": "300ml"
 }

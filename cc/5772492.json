@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Kids Power+ Elektrische Tandenborstel",
   "code": "5772492",
   "price": "18.99",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "Medisch hulpmiddel - roze"
+  "description": "Medisch hulpmiddel - roze",
+  "image": "/medias/prd-front-5772492-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODQyODl8aW1hZ2UvanBlZ3xhREpqTDJnM05TOHhOek0wTmpRNU56YzNNelU1T0M5d2NtUXRabkp2Ym5RdE5UYzNNalE1TWkweFh6WXdNSGcyTURBfDIxMThhNDNmZjg5MDJhYjU5YmJhNGI3ODFkZWZhYjMyYzVjYTY1ODAxYWI5MjBhZjViZmY2ODZiNDRjM2YzYmY"
 }

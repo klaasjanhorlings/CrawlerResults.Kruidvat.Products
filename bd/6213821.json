@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1055812",
-  "mmkId": "1055812",
-  "productGroupId": "493406",
+  "onPromo": "1056022",
+  "mmkId": "1056022",
+  "productGroupId": "497138",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-cellular-expert-filler-hyaluron-serum/p/6213821",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/hbb/ha5/32709558468638/prd-front-6213821-1_600x600/prd-front-6213821-1-600x600.jpg"
 }

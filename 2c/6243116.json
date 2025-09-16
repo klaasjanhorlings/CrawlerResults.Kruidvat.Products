@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Solait Over Make-Up SPF50 Fixing Spray",
   "code": "6243116",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h42/hab/33106691686430/prd-front-6243116-1_600x600/prd-front-6243116-1-600x600.jpg"
+  "description": "75ml"
 }

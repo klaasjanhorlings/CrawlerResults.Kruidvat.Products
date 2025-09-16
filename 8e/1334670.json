@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kneipp Teunisbloem Bodylotion",
   "code": "1334670",
   "price": "12.99",
@@ -33,6 +33,5 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h76/h22/28223429214238/prd-front-1334670-1_600x600/prd-front-1334670-1-600x600.jpg"
+  "description": "200ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Braun Series 3 300s Scheerapparaat",
   "code": "4381147",
   "price": "59.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "$ 10,00",
   "url": "/braun-series-3-300s-scheerapparaat/p/4381147",
   "listName": "Lister",
   "brand": "Braun",

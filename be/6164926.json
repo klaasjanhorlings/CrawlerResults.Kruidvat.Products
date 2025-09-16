@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kneipp Embrace Life Badschuim",
   "code": "6164926",
   "price": "10.99",
@@ -33,6 +33,5 @@
       "name": "Badschuim"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hb4/h2d/32364242731038/prd-front-6164926-1_600x600/prd-front-6164926-1-600x600.jpg"
+  "description": "400ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Garnier Fructis Hairfood Aloë Vera Haarmasker",
   "code": "4713906",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h94/ha8/35029924085790/prd-front-4713906-1_600x600/prd-front-4713906-1-600x600.jpg"
 }

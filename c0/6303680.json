@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "e.l.f. Skin Copper Gold Bronzing Drops",
   "code": "6303680",
   "price": "15.0",
@@ -33,5 +33,6 @@
       "name": "Zelfbruiners"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h2b/h44/34092697288734/prd-front-6303680-1_600x600/prd-front-6303680-1-600x600.jpg"
 }

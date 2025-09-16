@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 3202 > 4074",
   "supplier": "J-CLUB E-COMM",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1056003",
+  "mmkId": "1056003",
+  "productGroupId": "481565",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-15-leesbril-met-rubberlook-montuur/p/6180809",
@@ -33,5 +33,6 @@
       "name": "Leesbrillen"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/he8/h00/32709880774686/prd-front-6180809-1_600x600/prd-front-6180809-1-600x600.jpg"
 }

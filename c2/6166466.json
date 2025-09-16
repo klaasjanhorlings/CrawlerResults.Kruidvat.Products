@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Philips Sonicare 9000 Series DiamondClean HX9913/17 Elektrische Tandenborstel",
   "code": "6166466",
   "price": "149.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 150,00",
+  "discount": "$ 150,00",
   "url": "/philips-sonicare-9000-series-diamondclean-hx9913/17-elektrische-tandenborstel/p/6166466",
   "listName": "Lister",
   "brand": "Philips",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "wit",
-  "image": "/medias/sys_master/prd-images/h98/h53/44220618997790/prd-front-6166466-1_600x600/prd-front-6166466-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h34/h17/44242257182750/prd-front-6166466-1_600x600/prd-front-6166466-1-600x600.jpg"
 }

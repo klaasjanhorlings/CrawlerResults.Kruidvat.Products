@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Gebitsbox",
   "code": "1142198",
   "price": "2.49",
@@ -33,5 +33,6 @@
       "name": "Kunstgebitreiniger"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h75/h53/28786064130078/prd-front-1142198-1_600x600/prd-front-1142198-1-600x600.jpg"
 }

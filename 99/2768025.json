@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sanex Zero% Respect & Control 48H Deodorant Roller",
   "code": "2768025",
   "price": "4.69",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml - Alle huidtypes",
-  "image": "/medias/sys_master/prd-images/hb8/he6/31823607365662/prd-front-2768025-1_600x600/prd-front-2768025-1-600x600.jpg"
+  "description": "50ml - Alle huidtypes"
 }

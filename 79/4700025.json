@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Elvive Dream Lengths Herstellend Masker",
   "code": "4700025",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hc4/h61/33045969043486/prd-front-4700025-1_600x600/prd-front-4700025-1-600x600.jpg"
 }
