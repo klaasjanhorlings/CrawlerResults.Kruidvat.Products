@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "A.VOGEL",
-  "inStock": "inStock",
-  "onPromo": "1055994",
-  "mmkId": "1055994",
-  "productGroupId": "494692",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-echinaforce-tabletten/p/16123",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49950694,
-      "name": "Natuurlijke supplementen"
+      "id": 30266717,
+      "name": "Weerstand en energie"
     }
   ],
   "description": "200 stuks",

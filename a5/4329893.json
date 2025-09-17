@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Vision SPF30 Face Fluid Zonnebrand",
   "code": "4329893",
   "price": "6.49",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h0e/hb7/34021296865310/prd-front-4329893-1_600x600/prd-front-4329893-1-600x600.jpg"
 }

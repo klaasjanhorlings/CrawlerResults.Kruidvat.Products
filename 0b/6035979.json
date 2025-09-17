@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "CG Curl Shampoo Cream",
   "code": "6035979",
   "price": "8.99",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "355ml",
-  "image": "/medias/sys_master/prd-images/hab/h98/34415975137310/prd-front-6035979-1_600x600/prd-front-6035979-1-600x600.jpg"
+  "description": "355ml"
 }

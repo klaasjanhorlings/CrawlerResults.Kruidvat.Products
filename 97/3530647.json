@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ecosym Tandpasta voor Gebitsprothesen*",
   "code": "3530647",
   "price": "7.19",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 64453990,
-      "name": "Beugelverzorging"
+      "id": 30266672,
+      "name": "Kunstgebitreiniger"
     }
   ],
   "description": "75ml - Kunstgebit",

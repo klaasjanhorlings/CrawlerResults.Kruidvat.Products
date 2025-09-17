@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Coconut Bad & Douche",
   "code": "1682388",
   "price": "1.89",
@@ -29,8 +29,8 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266648,
-      "name": "Douchegel"
+      "id": 30266655,
+      "name": "Badschuim"
     }
   ],
   "description": "1000ml - Normale huid",

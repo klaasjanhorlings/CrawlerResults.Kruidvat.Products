@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Foamie Hibiskiss Shampoo Bar",
   "code": "4992632",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "65g"
+  "description": "65g",
+  "image": "/medias/sys_master/prd-images/he7/hf5/33988546002974/prd-front-4992632-1_600x600/prd-front-4992632-1-600x600.jpg"
 }

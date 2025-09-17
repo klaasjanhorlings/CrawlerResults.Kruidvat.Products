@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Therme Mindful Blossom Douchefoam",
   "code": "5680844",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hd5/h5f/28867418751006/prd-front-5680844-1_600x600/prd-front-5680844-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kneipp Soft Skin Sensitive Bodymilk",
   "code": "1538818",
   "price": "10.79",
@@ -29,8 +29,8 @@
       "name": "Huidverzorging"
     },
     {
-      "id": 30266637,
-      "name": "Bodylotion"
+      "id": 30266641,
+      "name": "Bodycremes"
     }
   ],
   "description": "200ml",

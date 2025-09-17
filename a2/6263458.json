@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Always Platinum Super Maandverband",
   "code": "6263458",
   "price": "10.0",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 6,62",
+  "discount": "€ 6,62",
   "url": "/always-platinum-super-maandverband/p/6263458",
   "listName": "Lister",
   "brand": "Always",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "6 x 12 stuks"
+  "description": "6 x 12 stuks",
+  "image": "/medias/sys_master/prd-images/hc6/h00/33632788152350/prd-front-6263458-1_600x600/prd-front-6263458-1-600x600.jpg"
 }

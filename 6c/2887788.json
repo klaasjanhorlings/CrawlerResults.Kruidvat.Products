@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Parodontax Whitening Tandpasta",
   "code": "2887788",
   "price": "10.99",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 2 x 75ml",
-  "image": "/medias/sys_master/prd-images/hb2/ha5/44239908732958/prd-front-2887788-1_600x600/prd-front-2887788-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 2 x 75ml"
 }

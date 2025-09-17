@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Oil & Care Crème Douchegel",
   "code": "4343662",
   "price": "1.49",
@@ -29,8 +29,8 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266648,
-      "name": "Douchegel"
+      "id": 30266647,
+      "name": "Douchecrème"
     }
   ],
   "description": "300ml - normale huid",

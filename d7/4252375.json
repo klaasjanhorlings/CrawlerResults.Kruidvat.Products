@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 2,0mm Interdentale Borsteltjes met Handvat",
   "code": "4252375",
   "price": "2.99",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 64453990,
-      "name": "Beugelverzorging"
+      "id": 30266669,
+      "name": "Tandenragers"
     }
   ],
   "description": "6 stuks",

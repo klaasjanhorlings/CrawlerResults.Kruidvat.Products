@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "GUM Soft-Picks Pro Interdentale Tandenstokers",
   "code": "5951937",
   "price": "8.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "SUNSTAR BENELUX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30266669,
-      "name": "Tandenragers"
+      "id": 30266667,
+      "name": "Tandenstokers"
     }
   ],
   "description": "mt L, 30 stuks",

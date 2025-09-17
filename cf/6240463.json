@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Syoss Intense Fullness Deep Conditioner",
   "code": "6240463",
   "price": "7.49",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h16/h2f/34437463638046/prd-front-6240463-1_600x600/prd-front-6240463-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Gillette Intimate Scheermesjes",
   "code": "5913199",
   "price": "21.99",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "3 stuks"
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/hb5/h94/28371789578270/prd-front-5913199-1_600x600/prd-front-5913199-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dettol No-Touch Sheabutter Antibacteriële Handzeep Navulling",
   "code": "2800813",
   "price": "4.49",
@@ -29,8 +29,8 @@
       "name": "Handverzorging"
     },
     {
-      "id": 30266689,
-      "name": "Handzeep"
+      "id": 68231043,
+      "name": "Handzeep navulling"
     }
   ],
   "description": "250ml",

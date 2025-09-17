@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Rexona Advanced Protection Cotton Dry Antitranspirant Roller",
   "code": "1306985",
   "price": "5.19",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h85/h69/34685000843294/prd-front-1306985-1_600x600/prd-front-1306985-1-600x600.jpg"
+  "description": "50ml"
 }

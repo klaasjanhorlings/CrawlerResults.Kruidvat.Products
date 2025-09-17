@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Yari 100% Pure Castor Oil",
   "code": "3574537",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h11/hba/27769000427550/prd-front-3574537-1_600x600/prd-front-3574537-1-600x600.jpg"
 }

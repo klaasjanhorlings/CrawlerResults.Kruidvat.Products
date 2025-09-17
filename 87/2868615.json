@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sensodyne Proglasur Daily Protection Multi-Action Tandpasta",
   "code": "2868615",
   "price": "6.29",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h4b/h34/44239906570270/prd-front-2868615-1_600x600/prd-front-2868615-1-600x600.jpg"
 }

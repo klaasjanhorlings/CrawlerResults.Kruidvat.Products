@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cantu Guava Cream Gel",
   "code": "6031975",
   "price": "9.99",
@@ -29,10 +29,9 @@
       "name": "Haarstylingproducten"
     },
     {
-      "id": 30266928,
-      "name": "Haargel"
+      "id": 30266926,
+      "name": "Haarcrème"
     }
   ],
-  "description": "340g",
-  "image": "/medias/sys_master/prd-images/h4f/h07/29995465211934/prd-front-6031975-1_600x600/prd-front-6031975-1-600x600.jpg"
+  "description": "340g"
 }

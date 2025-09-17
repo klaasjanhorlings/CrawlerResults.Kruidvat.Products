@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sanex Expert Skin Health Nourishing Douchegel",
   "code": "6134364",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h68/h3b/33905375445022/prd-front-6134364-1_600x600/prd-front-6134364-1-600x600.jpg"
+  "description": "400ml - Gevoelige huid"
 }

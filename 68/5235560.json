@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Vogue Women Elegance Perfume Deodorant Spray",
   "code": "5235560",
   "price": "4.19",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1056036",
-  "mmkId": "1056036",
-  "productGroupId": "491228",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vogue-women-elegance-perfume-deodorant-spray/p/5235560",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h19/h6f/44228069752862/prd-front-5235560-1_600x600/prd-front-5235560-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

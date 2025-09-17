@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Libresse Ultra Normal Wing Maandverband",
   "code": "5837676",
   "price": "4.89",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "26 stuks",
-  "image": "/medias/sys_master/prd-images/h89/h9f/28739693674526/prd-front-5837676-1_600x600/prd-front-5837676-1-600x600.jpg"
+  "description": "26 stuks"
 }

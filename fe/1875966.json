@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Wilkinson Sword Extra 2 Sensitive Wegwerpscheermesjes",
   "code": "1875966",
   "price": "6.75",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "15 stuks",
-  "image": "/medias/sys_master/prd-images/h19/h8c/30285363675166/prd-front-1875966-1_600x600/prd-front-1875966-1-600x600.jpg"
+  "description": "15 stuks"
 }

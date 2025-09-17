@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "BIC Hybrid5 Flex Navul Scheermesjes",
   "code": "5562985",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/prd-front-5562985-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzM2ODB8aW1hZ2UvanBlZ3xhRE5pTDJobFppOHhOamt6TmpreE5EYzBOelF5TWk5d2NtUXRabkp2Ym5RdE5UVTJNams0TlMweFh6WXdNSGcyTURBfDRmZmU2MWJlMmVkZGE1MWU5MTEzY2NlNTBhZjhlMmJlMWI5NmQ4YTNhMGFjNmJkZDc2N2RhZWRhOGM1NzUzNDc"
 }

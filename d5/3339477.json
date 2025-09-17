@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "2TH Coniflex 3-7 mm Conische Interdentale Ragers",
   "code": "3339477",
   "price": "6.89",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30266669,
-      "name": "Tandenragers"
+      "id": 64453990,
+      "name": "Beugelverzorging"
     }
   ],
   "description": "10 stuks",

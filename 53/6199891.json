@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cosrx Aloe Soothing SPF50+ Sun Cream",
   "code": "6199891",
   "price": "18.0",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
-    },
-    {
-      "id": 90760987,
-      "name": "Korean zonbescherming"
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "50ml",

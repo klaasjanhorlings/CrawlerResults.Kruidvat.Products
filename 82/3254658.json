@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Vaseline Petrojelly",
   "code": "3254658",
   "price": "1.99",
@@ -25,8 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30265995,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30266637,
+      "name": "Bodylotion"
     }
   ],
   "description": "",

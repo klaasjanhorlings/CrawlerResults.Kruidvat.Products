@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Zero 0% Alcohol Mondwater",
   "code": "2838249",
   "price": "0.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
   "supplier": "GEM BOHEMIA S.R.O.",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,12 +25,8 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266001,
-      "name": "Mondverzorging"
-    },
-    {
-      "id": 30266676,
-      "name": "Mondwater en mondspray"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "100ml",

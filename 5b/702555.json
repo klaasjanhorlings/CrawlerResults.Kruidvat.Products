@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Therme Antitranspirant Behandelspray",
   "code": "702555",
   "price": "20.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1056036",
-  "mmkId": "1056036",
-  "productGroupId": "491228",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-antitranspirant-behandelspray/p/702555",
@@ -29,8 +29,8 @@
       "name": "Deodorant"
     },
     {
-      "id": 30266644,
-      "name": "Deospray"
+      "id": 30266646,
+      "name": "Overmatig transpireren"
     }
   ],
   "description": "25ml",

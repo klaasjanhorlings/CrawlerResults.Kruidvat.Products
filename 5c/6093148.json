@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Robust 8 Power Gel",
   "code": "6093148",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h4e/h86/33390140129310/prd-front-6093148-1_600x600/prd-front-6093148-1-600x600.jpg"
 }

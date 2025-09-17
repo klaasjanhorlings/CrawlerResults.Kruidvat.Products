@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "2TH Flexpicks Rubberen Interdentale Borsteltjes",
   "code": "4366076",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Tandenstokers"
     }
   ],
-  "description": "50 stuks"
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/hdd/h57/31159709761566/prd-front-4366076-1_600x600/prd-front-4366076-1-600x600.jpg"
 }

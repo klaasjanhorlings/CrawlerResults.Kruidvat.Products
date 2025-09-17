@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Beauty of Joseon Sun Rice Probiotics",
   "code": "6200178",
   "price": "21.9",
@@ -31,10 +31,6 @@
     {
       "id": 73443650,
       "name": "Korean Skincare"
-    },
-    {
-      "id": 90760987,
-      "name": "Korean zonbescherming"
     }
   ],
   "description": "50ml",

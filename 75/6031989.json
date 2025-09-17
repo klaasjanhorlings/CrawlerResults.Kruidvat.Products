@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cantu Guava Scalp Care Conditioner",
   "code": "6031989",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h8b/hd4/29997895024670/prd-front-6031989-1_600x600/prd-front-6031989-1-600x600.jpg"
+  "description": "400ml"
 }

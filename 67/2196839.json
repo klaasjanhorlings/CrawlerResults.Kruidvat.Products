@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 6 Silk Sensation Scheermesjes",
   "code": "2196839",
   "price": "7.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "ELLIPSE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/h1d/h38/44239906439198/prd-front-2196839-1_600x600/prd-front-2196839-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h06/h65/44253694033950/prd-front-2196839-1_600x600/prd-front-2196839-1-600x600.jpg"
 }

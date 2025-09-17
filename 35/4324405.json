@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Axe Gold Antitranspirant Spray",
   "code": "4324405",
   "price": "7.49",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h49/h83/34756839833630/prd-front-4324405-1_600x600/prd-front-4324405-1-600x600.jpg"
+  "description": "150ml"
 }

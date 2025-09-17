@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6193 > 6211 > 6233",
   "supplier": "HERKEL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-biergist-tabletten/p/6164765",
@@ -33,6 +33,5 @@
       "name": "Beautysupplementen"
     }
   ],
-  "description": "240 stuks",
-  "image": "/medias/sys_master/prd-images/h53/he1/44189218832414/prd-front-6164765-1_600x600/prd-front-6164765-1-600x600.jpg"
+  "description": "240 stuks"
 }

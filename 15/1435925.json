@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Wella New Wave Ultra Strong Power Hold Haargel",
   "code": "1435925",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Haargel"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hf9/he6/28029216227358/prd-front-1435925-1_600x600/prd-front-1435925-1-600x600.jpg"
+  "description": "200ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Rexona Women Maximum Protection Sport Strength Antitranspirant Cream Stick",
   "code": "3330881",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Deostick"
     }
   ],
-  "description": "45ml",
-  "image": "/medias/sys_master/prd-images/h44/h17/30113616691230/prd-front-3330881-1_600x600/prd-front-3330881-1-600x600.jpg"
+  "description": "45ml"
 }

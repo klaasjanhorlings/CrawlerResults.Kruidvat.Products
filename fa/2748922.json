@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Vital Bodylotion",
   "code": "2748922",
   "price": "12.69",
@@ -33,6 +33,5 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hb8/h8f/34393311707166/prd-front-2748922-1_600x600/prd-front-2748922-1-600x600.jpg"
+  "description": "250ml"
 }

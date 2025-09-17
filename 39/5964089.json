@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Zenner Badpuff",
   "code": "5964089",
   "price": "2.99",
@@ -29,6 +29,5 @@
       "name": "Bad- en doucheaccessoires"
     }
   ],
-  "description": "antraciet",
-  "image": "/medias/sys_master/prd-images/h44/h47/29677158596638/prd-front-5964089-1_600x600/prd-front-5964089-1-600x600.jpg"
+  "description": "antraciet"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Rexona Men Advanced Protection Sport Cool Antitranspirant Spray",
   "code": "6039689",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hcb/h1e/33201079386142/prd-front-6039689-1_600x600/prd-front-6039689-1-600x600.jpg"
+  "description": "150ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Elvive Multivitamines 2-In-1 Shampoo",
   "code": "2275050",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/he7/h77/33047773675550/prd-front-2275050-1_600x600/prd-front-2275050-1-600x600.jpg"
+  "description": "250ml"
 }

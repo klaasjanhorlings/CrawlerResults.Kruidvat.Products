@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Shark FlexStyle Haardroger en-Styler",
   "code": "6065442",
   "price": "239.0",
@@ -33,8 +33,8 @@
       "name": "Haarstylers"
     },
     {
-      "id": 30266937,
-      "name": "Krultangen"
+      "id": 30266934,
+      "name": "Föhns"
     }
   ],
   "description": "",

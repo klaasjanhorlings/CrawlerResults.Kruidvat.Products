@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cosrx SPF50 Ultra-Light Invisible Sunscreen",
   "code": "6200066",
   "price": "16.0",
@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30265999,
-      "name": "Zonbescherming"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266657,
-      "name": "Zonnebrand"
+      "id": 73443650,
+      "name": "Korean Skincare"
+    },
+    {
+      "id": 90760765,
+      "name": "Korean dagcreme"
     }
   ],
   "description": "50ml",

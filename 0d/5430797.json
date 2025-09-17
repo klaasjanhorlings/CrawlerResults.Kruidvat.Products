@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "SheaMoisture Raw Shea Butter Deep Treatment Masker",
   "code": "5430797",
   "price": "18.49",
@@ -29,8 +29,8 @@
       "name": "Haarverzorging"
     },
     {
-      "id": 30266697,
-      "name": "Haarmasker"
+      "id": 49213665,
+      "name": "Haartreatment"
     }
   ],
   "description": "326ml",

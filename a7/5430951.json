@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Yari Green Curls Deep Treatment Mask",
   "code": "5430951",
   "price": "8.99",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "475ml"
+  "description": "475ml",
+  "image": "/medias/sys_master/prd-images/h2b/h39/28796643311646/prd-front-5430951-1_600x600/prd-front-5430951-1-600x600.jpg"
 }

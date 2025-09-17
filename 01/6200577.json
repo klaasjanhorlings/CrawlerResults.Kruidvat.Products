@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "SKIN1004 Madagascar Centella Hyalu-Cica Sun Stick",
   "code": "6200577",
   "price": "13.9",
@@ -21,22 +21,17 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265999,
+      "name": "Zonbescherming"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
-    },
-    {
-      "id": 90760987,
-      "name": "Korean zonbescherming"
+      "id": 30266657,
+      "name": "Zonnebrand"
     }
   ],
-  "description": "7g - Gecombineerde, normale en vette huidtypen",
-  "image": "/medias/sys_master/prd-images/hba/h17/32247716184094/prd-front-6200577-1_600x600/prd-front-6200577-1-600x600.jpg"
+  "description": "7g - Gecombineerde, normale en vette huidtypen"
 }

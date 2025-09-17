@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cantu Shea Butter Biotin-Infused Haar- en Hoofdhuidolie",
   "code": "5886487",
   "price": "10.99",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "59ml"
+  "description": "59ml",
+  "image": "/medias/sys_master/prd-images/hbc/ha4/27955090489374/prd-front-5886487-1_600x600/prd-front-5886487-1-600x600.jpg"
 }

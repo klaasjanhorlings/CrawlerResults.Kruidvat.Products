@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Repair & Care Fragrance Free Bodycrème",
   "code": "6019298",
   "price": "15.99",
@@ -33,5 +33,6 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h9a/h8b/34393471647774/prd-front-6019298-1_600x600/prd-front-6019298-1-600x600.jpg"
 }

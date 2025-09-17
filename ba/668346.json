@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Got2b Glued Styling Haargel",
   "code": "668346",
   "price": "9.49",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h9b/hef/33642588831774/prd-front-668346-1_600x600/prd-front-668346-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Yari Naturals Deep Treatment Mask",
   "code": "5430979",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "475ml"
+  "description": "475ml",
+  "image": "/medias/prd-front-5430979-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAyNTg3fGltYWdlL2pwZWd8YURnNUwyaG1OUzh5TmpnNE9URTFOalV5TmpFeE1DOXdjbVF0Wm5KdmJuUXROVFF6TURrM09TMHhYell3TUhnMk1EQXxhZjQzNmU0ODcxMjhlNGVjZjRlZjg5NTQwMWZjZTZmOGZkZTdiZjY5ODM3NzkwNzJlNDM5MmRlNzg3ZWQxYTI3"
 }

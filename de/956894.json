@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ecosym Dag Gel",
   "code": "956894",
   "price": "7.19",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30266672,
-      "name": "Kunstgebitreiniger"
+      "id": 64453990,
+      "name": "Beugelverzorging"
     }
   ],
   "description": "100ml - Kunstgebit",

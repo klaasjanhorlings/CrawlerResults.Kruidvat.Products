@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Hygiënische Wegwerp Zakjes",
   "code": "28328",
   "price": "0.89",
@@ -29,8 +29,12 @@
       "name": "Intieme verzorging"
     },
     {
-      "id": 30266663,
-      "name": "Inlegkruisjes"
+      "id": 30266660,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30266922,
+      "name": "Incontinentie-inlegkruisjes"
     }
   ],
   "description": "50 stuks",

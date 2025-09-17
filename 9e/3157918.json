@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Colgate Max White Instant Tandpasta",
   "code": "3157918",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Whitening"
+  "description": "75ml - Whitening",
+  "image": "/medias/sys_master/prd-images/h95/h97/31997999710238/prd-front-3157918-1_600x600/prd-front-3157918-1-600x600.jpg"
 }
