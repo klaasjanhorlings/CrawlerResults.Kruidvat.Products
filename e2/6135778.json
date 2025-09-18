@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 6401 > 6463 > 6464",
   "supplier": "SCALA 2.0 BV",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-multi-speed-vibrator/p/6135778",
@@ -41,5 +41,6 @@
       "name": "Tarzan vibrators"
     }
   ],
-  "description": "152g"
+  "description": "152g",
+  "image": "/medias/sys_master/prd-images/h62/hb5/31451772289054/prd-front-6135778-1_600x600/prd-front-6135778-1-600x600.jpg"
 }

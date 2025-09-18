@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Rexona Woman Maximum Protection Antitranspirant cc",
+  "itemName": "Rexona Woman Maximum Protection Antitranspirant",
   "code": "6228017",
   "price": "8.75",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "462786",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/rexona-woman-maximum-protection-antitranspirant-cc/p/6228017",
+  "url": "/rexona-woman-maximum-protection-antitranspirant/p/6228017",
   "listName": "Lister",
   "brand": "Rexona",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h42/ha8/34691130458142/prd-front-6228017-1_600x600/prd-front-6228017-1-600x600.jpg"
 }
