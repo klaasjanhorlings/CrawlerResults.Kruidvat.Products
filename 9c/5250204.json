@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055759",
+  "mmkId": "1055759",
+  "productGroupId": "484473",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-multi-a-t/m-z-65-tabletten/p/5250204",
@@ -33,5 +33,6 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "63 stuks"
+  "description": "63 stuks",
+  "image": "/medias/prd-front-5250204-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjY4MTd8aW1hZ2UvanBlZ3xhRGs0TDJnek9DOHhOall3TWpZeU56ZzJOalkxTkM5d2NtUXRabkp2Ym5RdE5USTFNREl3TkMweFh6WXdNSGcyTURBfDk4NTJiMjFkYzcxN2U4OGU3ZGFmNDE5MzAwYTI4ZTgwZDQ4NGZhNTNhZTNlY2IyNGI1MTY1OGE0NTNjMTc0ZmQ"
 }

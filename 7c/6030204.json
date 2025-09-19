@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
   "supplier": "UNILEVER NEDERLAND",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1055694",
+  "mmkId": "1055694",
+  "productGroupId": "491211",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/robijn-classics-morgenfris-wasverzachter/p/6030204",
@@ -29,5 +29,6 @@
       "name": "Wasverzachter"
     }
   ],
-  "description": "4 x 780ml, 156 wasbeurten"
+  "description": "4 x 780ml, 156 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h60/h17/34899761922078/prd-front-6030204-1_600x600/prd-front-6030204-1-600x600.jpg"
 }

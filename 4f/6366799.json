@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Haardroger",
+  "code": "6366799",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6430",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-haardroger/p/6366799",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266698,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30266934,
+      "name": "Föhns"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2d/hf0/35031562354718/prd-front-6366799-1_600x600/prd-front-6366799-1-600x600.jpg"
+}

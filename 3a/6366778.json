@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Krultang",
+  "code": "6366778",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6427",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-krultang/p/6366778",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266698,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30266937,
+      "name": "Krultangen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h72/h19/35032417959966/prd-front-6366778-1_600x600/prd-front-6366778-1-600x600.jpg"
+}

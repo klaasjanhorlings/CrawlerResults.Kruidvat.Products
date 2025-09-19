@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Matte 01 Bare Bliss Liquid Eyeshadow",
+  "code": "6123038",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-matte-01-bare-bliss-liquid-eyeshadow/p/6123038",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266596,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30266910,
+      "name": "Mono oogschaduw"
+    }
+  ],
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h92/hfc/34635163664414/prd-front-6123038-1_600x600/prd-front-6123038-1-600x600.jpg"
+}
