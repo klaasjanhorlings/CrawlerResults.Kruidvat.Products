@@ -25,14 +25,17 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266008,
-      "name": "Wondverzorging"
+      "id": 30266006,
+      "name": "Zelfzorg"
     },
     {
-      "id": 49950783,
-      "name": "Wondzalven"
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235337,
+      "name": "Eerste hulp zalf"
     }
   ],
-  "description": "Medisch hulpmiddel - 50g",
-  "image": "/medias/sys_master/prd-images/h3d/h45/34691450273822/prd-front-5133787-1_600x600/prd-front-5133787-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 50g"
 }
