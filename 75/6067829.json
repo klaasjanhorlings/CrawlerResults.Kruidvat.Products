@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Velours Pyjama",
+  "code": "6067829",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2495 > 3061 > 3791 > 5795 > 5928 > 6716",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/velours-pyjama/p/6067829",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266843,
+      "name": "Damespyjama's"
+    }
+  ],
+  "description": "taupe, mt L",
+  "image": "/medias/sys_master/prd-images/h08/h13/32335899230238/prd-front-6067829-1_600x600/prd-front-6067829-1-600x600.jpg"
+}
