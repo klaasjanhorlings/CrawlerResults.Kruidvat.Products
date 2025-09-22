@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056105",
+  "mmkId": "1056105",
+  "productGroupId": "471116",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/flora-curl-rose-water-curl-mist/p/6243564",
@@ -33,6 +33,5 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/ha0/h4f/33103627288606/prd-front-6243564-1_600x600/prd-front-6243564-1-600x600.jpg"
+  "description": "250ml"
 }

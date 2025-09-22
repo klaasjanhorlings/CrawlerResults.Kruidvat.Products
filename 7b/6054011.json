@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "MARION PRIVATE LABEL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056102",
+  "mmkId": "1056102",
+  "productGroupId": "466009",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-science-bonded-repair-shampoo/p/6054011",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h25/h0c/32780347539486/prd-front-6054011-1_600x600/prd-front-6054011-1-600x600.jpg"
+  "description": "250ml"
 }

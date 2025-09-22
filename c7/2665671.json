@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1055808",
-  "mmkId": "1055808",
-  "productGroupId": "493333",
+  "onPromo": "1056227",
+  "mmkId": "1056227",
+  "productGroupId": "492952",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-prothese-reinigingsgel/p/2665671",
@@ -33,5 +33,6 @@
       "name": "Beugelverzorging"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hd8/h0f/30713025953822/prd-front-2665671-1_600x600/prd-front-2665671-1-600x600.jpg"
 }

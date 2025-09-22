@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1055979",
-  "mmkId": "1055979",
-  "productGroupId": "494124",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-botanical-collection-10280-bloemenboeket/p/5401474",
@@ -33,6 +33,5 @@
       "name": "LEGO Volwassenen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he1/h0e/30946934685726/prd-front-5401474-1_600x600/prd-front-5401474-1-600x600.jpg"
+  "description": ""
 }

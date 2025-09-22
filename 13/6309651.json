@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056159",
+  "mmkId": "1056159",
+  "productGroupId": "480862",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-color-sensation-color-retouch-20-zwart-haarkleuring/p/6309651",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h90/h6b/34489918390302/prd-front-6309651-1_600x600/prd-front-6309651-1-600x600.jpg"
 }

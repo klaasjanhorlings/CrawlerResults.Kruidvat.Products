@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056220",
+  "mmkId": "1056220",
+  "productGroupId": "492036",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nutricia-olvarit-8m-courgetteschotel-met-kalfsvlees/p/6150667",
@@ -37,5 +37,6 @@
       "name": "8+ maanden"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h68/he1/31565350699038/prd-front-6150667-1_600x600/prd-front-6150667-1-600x600.jpg"
 }

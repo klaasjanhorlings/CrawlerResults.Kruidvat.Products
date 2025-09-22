@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3060 > 3908",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1055822",
-  "mmkId": "1055822",
-  "productGroupId": "493747",
+  "onPromo": "1056196",
+  "mmkId": "1056196",
+  "productGroupId": "488386",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-platinum-night-maandverband/p/4081974",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "mt 3, 8 stuks"
+  "description": "mt 3, 8 stuks",
+  "image": "/medias/sys_master/prd-images/hed/h4e/33456483237918/prd-front-4081974-1_600x600/prd-front-4081974-1-600x600.jpg"
 }

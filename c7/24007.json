@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6202 > 6220 > 6278",
   "supplier": "OCE BIO NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1055740",
-  "mmkId": "1055740",
-  "productGroupId": "481052",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bional-prostavit-capsules/p/24007",
@@ -33,5 +33,6 @@
       "name": "Prostaatsupplementen"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h68/h27/34359769104414/prd-front-24007-1_600x600/prd-front-24007-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Handdoeken",
+  "code": "6303498",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 5799 > 5800 > 5926 > 6020 > 6049",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-handdoeken/p/6303498",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266901,
+      "name": "Huishoudelijk textiel"
+    },
+    {
+      "id": 80863175,
+      "name": "Badhanddoeken"
+    }
+  ],
+  "description": "taupe, 70cm x 140cm, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hc9/h8a/34304176422942/prd-front-6303498-1_600x600/prd-front-6303498-1-600x600.jpg"
+}

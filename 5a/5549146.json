@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1055812",
-  "mmkId": "1055812",
-  "productGroupId": "493406",
+  "onPromo": "1056106",
+  "mmkId": "1056106",
+  "productGroupId": "471180",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-luminous630-anti-spot-spf15-corrigerende-handcreme/p/5549146",
@@ -33,5 +33,6 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hbd/hfe/34394360807454/prd-front-5549146-1_600x600/prd-front-5549146-1-600x600.jpg"
 }

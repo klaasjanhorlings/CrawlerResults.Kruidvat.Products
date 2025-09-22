@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5918 > 5896",
   "supplier": "COSMOGROUP BRANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056290",
+  "mmkId": "1056290",
+  "productGroupId": "501489",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/umberto-giannini-curl-jelly-refresh-spray/p/5823109",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h23/h96/31028433092638/prd-front-5823109-1_600x600/prd-front-5823109-1-600x600.jpg"
 }

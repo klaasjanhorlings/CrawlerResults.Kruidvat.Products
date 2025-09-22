@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "ZURU GERMANY GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056103",
+  "mmkId": "1056103",
+  "productGroupId": "466347",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/monday-smooth-conditioner/p/5917861",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "354ml"
+  "description": "354ml",
+  "image": "/medias/sys_master/prd-images/hef/h57/28050979455006/prd-front-5917861-1_600x600/prd-front-5917861-1-600x600.jpg"
 }

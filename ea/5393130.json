@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Philips CA6520 Senseo Ontkalker",
+  "code": "5393130",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 2454 > 2957 > 3751 > 5929 > 6019",
+  "supplier": "VERSUNI NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/philips-ca6520-senseo-ontkalker/p/5393130",
+  "listName": "Lister",
+  "brand": "Philips",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144864,
+      "name": "Ontkalkmiddel"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he0/h0f/32640475004958/prd-front-5393130-1_600x600/prd-front-5393130-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1056274",
+  "mmkId": "1056274",
+  "productGroupId": "495580",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-miracle-pure-eye-enhancer-04-honey-cream-concealer/p/6007363",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h61/h0b/31159925833758/prd-front-6007363-1_600x600/prd-front-6007363-1-600x600.jpg"
 }

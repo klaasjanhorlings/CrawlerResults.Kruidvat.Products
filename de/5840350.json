@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1055721",
-  "mmkId": "1055721",
-  "productGroupId": "462786",
+  "onPromo": "1056146",
+  "mmkId": "1056146",
+  "productGroupId": "480341",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-invisible-care-dry-deodorant-spray/p/5840350",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hc2/h88/33196993871902/prd-front-5840350-1_600x600/prd-front-5840350-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1055705",
-  "mmkId": "1055705",
-  "productGroupId": "508580",
+  "onPromo": "1056232",
+  "mmkId": "1056232",
+  "productGroupId": "493167",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-revitalift-filler-verkoelend-oogserum-masker/p/5599644",
@@ -37,5 +37,6 @@
       "name": "Sheet maskers"
     }
   ],
-  "description": "11g"
+  "description": "11g",
+  "image": "/medias/sys_master/prd-images/h1b/h1a/34610878414878/prd-front-5599644-1_600x600/prd-front-5599644-1-600x600.jpg"
 }

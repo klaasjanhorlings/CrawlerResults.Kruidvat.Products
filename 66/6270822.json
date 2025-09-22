@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "SANATURE BV",
   "inStock": "inStock",
-  "onPromo": "1056052",
-  "mmkId": "1056052",
-  "productGroupId": "496558",
+  "onPromo": "1056196",
+  "mmkId": "1056196",
+  "productGroupId": "488386",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/sanature-100-katoenen-kraamverband/p/6270822",
@@ -33,5 +33,6 @@
       "name": "Mama verzorgingsproducten"
     }
   ],
-  "description": "12 stuks"
+  "description": "12 stuks",
+  "image": "/medias/sys_master/prd-images/h51/h0c/34352681844766/prd-front-6270822-1_600x600/prd-front-6270822-1-600x600.jpg"
 }

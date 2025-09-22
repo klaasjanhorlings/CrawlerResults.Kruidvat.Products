@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6700",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056180",
+  "mmkId": "1056180",
+  "productGroupId": "483505",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sheamoisture-hydrate-repair-manuka-honey-yoghurt-conditioner/p/5622275",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "384ml",
-  "image": "/medias/sys_master/prd-images/ha4/h14/33993073197086/prd-front-5622275-1_600x600/prd-front-5622275-1-600x600.jpg"
+  "description": "384ml"
 }

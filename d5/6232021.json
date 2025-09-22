@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1055979",
-  "mmkId": "1055979",
-  "productGroupId": "494124",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-dreamzzz-71491-mateo-en-het-z-blob-actievoertuig/p/6232021",
@@ -33,5 +33,6 @@
       "name": "LEGO DreamZzz"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h11/ha8/33349141856286/prd-front-6232021-1_600x600/prd-front-6232021-1-600x600.jpg"
 }

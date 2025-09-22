@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5722 > 3880",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056153",
+  "mmkId": "1056153",
+  "productGroupId": "480612",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wilkinson-sword-quattro-titanium-sensitive-limited-edition-scheermes/p/4054058",
@@ -33,6 +33,5 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7b/h53/34872702238750/prd-front-4054058-1_600x600/prd-front-4054058-1-600x600.jpg"
+  "description": ""
 }

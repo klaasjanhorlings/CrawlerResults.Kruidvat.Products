@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1055726",
-  "mmkId": "1055726",
-  "productGroupId": "468778",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-perfect-curls-cremespoeling/p/980141",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/hee/h46/30686470242334/prd-front-980141-1_600x600/prd-front-980141-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Lip IV 02 Hydra-Honey Hydraterende Lipgloss",
+  "code": "6230726",
+  "price": "11.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1056261",
+  "mmkId": "1056261",
+  "productGroupId": "494461",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-lip-iv-02-hydra-honey-hydraterende-lipgloss/p/6230726",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266583,
+      "name": "Lipgloss"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha1/h46/33967381479454/prd-front-6230726-1_600x600/prd-front-6230726-1-600x600.jpg"
+}

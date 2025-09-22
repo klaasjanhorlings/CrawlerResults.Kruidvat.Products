@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. Beckmann Original Active Colour Oxi Vlekverwijderaar",
+  "code": "6372462",
+  "price": "3.49",
+  "priceOriginal": "6.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
+  "supplier": "BENCKMAR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 3,50",
+  "url": "/dr-beckmann-original-active-colour-oxi-vlekverwijderaar/p/6372462",
+  "listName": "Lister",
+  "brand": "Dr. Beckmann",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053317,
+      "name": "Schoonmaakapparatuur"
+    },
+    {
+      "id": 80864505,
+      "name": "Vlekverwijderaars"
+    }
+  ],
+  "description": "400g",
+  "image": "/medias/sys_master/prd-images/h4a/h69/34990304067614/prd-front-6372462-1_600x600/prd-front-6372462-1-600x600.jpg"
+}
