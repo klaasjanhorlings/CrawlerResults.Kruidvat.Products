@@ -5,7 +5,7 @@
   "code": "6042398",
   "price": "14.99",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 6452 > 6451",
+  "itemBgbcat": "2006 > 2052 > 2175 > 6452 > 6451",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
   "onPromo": "1008193",
@@ -33,5 +33,6 @@
       "name": "Kalknagelbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 4ml"
+  "description": "Medisch hulpmiddel - 4ml",
+  "image": "/medias/sys_master/prd-images/h21/h90/31179132698654/prd-front-6042398-1_600x600/prd-front-6042398-1-600x600.jpg"
 }

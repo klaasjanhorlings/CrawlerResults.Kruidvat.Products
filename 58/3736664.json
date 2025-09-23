@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "SANATURE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056196",
+  "mmkId": "1056196",
+  "productGroupId": "488386",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/sanature-100-katoenen-normal-inlegkruisjes/p/3736664",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "24 stuks"
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/h61/h45/29202051301406/prd-front-3736664-1_600x600/prd-front-3736664-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056188",
+  "mmkId": "1056188",
+  "productGroupId": "484440",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-vitamine-d3-25mcg-capsules/p/4132675",
@@ -33,5 +33,6 @@
       "name": "Botten en spieren"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/prd-front-4132675-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODgyOTJ8aW1hZ2UvanBlZ3xhRFEyTDJnd1l5OHhOalU1TnpBNU5UWXhNalEwTmk5d2NtUXRabkp2Ym5RdE5ERXpNalkzTlMweFh6WXdNSGcyTURBfDZkYWMwYjAyYTZmZmRmZWMwODM2OTgzZjA1NWNiNTYxOTdkMDMwMmM4NjE4NWUwMmE3NDgzOWRlMTkxYWIzODg"
 }

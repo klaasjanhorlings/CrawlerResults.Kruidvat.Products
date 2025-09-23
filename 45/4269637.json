@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6196 > 6214 > 6248",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "1056188",
-  "mmkId": "1056188",
-  "productGroupId": "484440",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-colon-regelmatige-stoelgang-poeder/p/4269637",
@@ -33,5 +33,6 @@
       "name": "Spijsvertering"
     }
   ],
-  "description": "300g"
+  "description": "300g",
+  "image": "/medias/prd-front-4269637-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTIyNjd8aW1hZ2UvanBlZ3xhRGt6TDJnek1pOHhOall4TXpBd05qQXhOalUwTWk5d2NtUXRabkp2Ym5RdE5ESTJPVFl6TnkweFh6WXdNSGcyTURBfDQ0ZGNmMTVjMDRlN2Y4OWU0ZGNiZGFjNzk0YjkyNTVhZjUyNzAxM2M3MDRiZWQ4MDc5NGJhYWMxMWZkMTc2MDY"
 }

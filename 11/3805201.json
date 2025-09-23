@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "YARI BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "354ml"
+  "description": "354ml",
+  "image": "/medias/sys_master/prd-images/hc9/hf1/27770608255006/prd-front-3805201-1_600x600/prd-front-3805201-1-600x600.jpg"
 }

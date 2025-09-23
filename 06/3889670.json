@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "PHARCONA GMBH",
-  "inStock": "inStock",
-  "onPromo": "1056119",
-  "mmkId": "1056119",
-  "productGroupId": "475346",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-originals-vitamine-e-nachtcreme/p/3889670",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h68/h76/34534712770590/prd-front-3889670-1_600x600/prd-front-3889670-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Zen White Lotus Foaming Shower Gel",
+  "code": "5852971",
+  "price": "3.49",
+  "priceOriginal": "6.99",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 3868 > 5725",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "1056192",
+  "mmkId": "1056192",
+  "productGroupId": "485438",
+  "brandType": "A of B merk",
+  "discount": "€ 3,50",
+  "url": "/therme-zen-white-lotus-foaming-shower-gel/p/5852971",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266650,
+      "name": "Doucheschuim"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h6d/h53/31460004921374/prd-front-5852971-1_600x600/prd-front-5852971-1-600x600.jpg"
+}
