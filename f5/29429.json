@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6154 > 6161",
   "supplier": "BAYER BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Acetylsalicylzuur"
     }
   ],
-  "description": "Geneesmiddel - 20 stuks"
+  "description": "Geneesmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/he5/hfc/34689673232414/prd-front-29429-1_600x600/prd-front-29429-1-600x600.jpg"
 }

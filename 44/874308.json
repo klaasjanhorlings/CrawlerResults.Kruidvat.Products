@@ -5,7 +5,7 @@
   "code": "874308",
   "price": "10.49",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2052 > 2175 > 6450 > 3458",
+  "itemBgbcat": "2006 > 2052 > 2175 > 6450 > 3458 > 6788",
   "supplier": "KENVUE",
   "inStock": "inStock",
   "onPromo": "",
@@ -37,5 +37,6 @@
       "name": "Schimmelinfectie"
     }
   ],
-  "description": "Geneesmiddel - 15g"
+  "description": "Geneesmiddel - 15g",
+  "image": "/medias/prd-front-874308-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTEwNzd8aW1hZ2UvanBlZ3xhREEzTDJnMVpTOHlOamt3TmpJNU9UVXpNVEk1TkM5d2NtUXRabkp2Ym5RdE9EYzBNekE0TFRGZk5qQXdlRFl3TUF8OTBiMjU4YzJhOTY4YjA5MGE1MzA5YzhkYmU0MGI0MTkxYzAyN2Q4YzhmNjFmY2M1NTVjMzUwOWY3YzViNDNiMA"
 }

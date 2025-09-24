@@ -5,7 +5,7 @@
   "code": "594307",
   "price": "6.99",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2052 > 2175 > 6450 > 3458",
+  "itemBgbcat": "2006 > 2052 > 2175 > 6450 > 3458 > 6788",
   "supplier": "AUROBINDO PHARMA BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -25,16 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 48220663,
+      "name": "Voetverzorging"
     },
     {
-      "id": 30266699,
-      "name": "Huidbehandeling"
-    },
-    {
-      "id": 49946950,
-      "name": "Schimmelinfectie"
+      "id": 48220885,
+      "name": "Voetschimmelbehandeling"
     }
   ],
   "description": "Geneesmiddel - 30g",

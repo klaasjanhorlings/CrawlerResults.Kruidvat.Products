@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "RIDAM CARE BV",
   "inStock": "inStock",
-  "onPromo": "1053262",
-  "mmkId": "1053262",
-  "productGroupId": "497097",
+  "onPromo": "1056342",
+  "mmkId": "1056342",
+  "productGroupId": "494197",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-opticare-sensitive-harde-lenzen-all-in-one-lenzenvloeistof/p/4084298",
@@ -21,14 +21,17 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30266013,
+      "name": "Optiek"
+    },
+    {
+      "id": 30266757,
+      "name": "Lenzenvloeistof"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml",
-  "image": "/medias/sys_master/prd-images/h2b/h73/28455206748190/prd-front-4084298-1_600x600/prd-front-4084298-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 100ml"
 }

@@ -5,7 +5,7 @@
   "code": "6348823",
   "price": "2.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

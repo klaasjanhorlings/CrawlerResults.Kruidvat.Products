@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3737",
   "supplier": "SUNSTAR BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056141",
+  "mmkId": "1056141",
+  "productGroupId": "480065",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gum-ortho-tandenborstel/p/4647707",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 64453990,
-      "name": "Beugelverzorging"
+      "id": 30266671,
+      "name": "Tandenborstels"
     }
   ],
   "description": "",

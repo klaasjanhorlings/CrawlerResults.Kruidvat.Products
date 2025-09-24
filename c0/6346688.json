@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1040891",
+  "mmkId": "1040891",
+  "productGroupId": "432557",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-city-60456-achtervolging-met-politieboot/p/6346688",
@@ -25,12 +25,8 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266025,
-      "name": "LEGO"
-    },
-    {
-      "id": 69031070,
-      "name": "LEGO Voertuigen"
+      "id": 30266031,
+      "name": "Voertuigen"
     }
   ],
   "description": "",

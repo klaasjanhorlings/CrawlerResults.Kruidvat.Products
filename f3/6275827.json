@@ -5,7 +5,7 @@
   "code": "6275827",
   "price": "13.0",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "24ml"
+  "description": "24ml",
+  "image": "/medias/sys_master/prd-images/he9/he1/34026626187294/prd-front-6275827-1_600x600/prd-front-6275827-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath Triominos Travel",
+  "code": "6319738",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5164 > 5227 > 5416 > 5921 > 6018",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/goliath-triominos-travel/p/6319738",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h13/h25/34436519624734/prd-front-6319738-1_600x600/prd-front-6319738-1-600x600.jpg"
+}

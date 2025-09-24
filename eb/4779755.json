@@ -5,9 +5,9 @@
   "code": "4779755",
   "price": "3.89",
   "priceOriginal": "",
-  "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 3063 > 4236",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2306 > 3063 > 4145",
   "supplier": "S.C. JOHNSON",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/prd-front-4779755-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njg4MDd8aW1hZ2UvanBlZ3xhRFF5TDJneE9TOHlOekV6TVRjNU56TTBNREU1TUM5d2NtUXRabkp2Ym5RdE5EYzNPVGMxTlMweFh6WXdNSGcyTURBfGZmNTA4OWQzMWY4MzI4YzJlMTQ2YTU0YzA0NjU5Mjg1MzljNGRiYmI4YTQxZDA3MTA2ODM1MjE3MDg1YzVjZDQ"
 }

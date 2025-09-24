@@ -5,7 +5,7 @@
   "code": "30420",
   "price": "18.99",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2052 > 2175 > 2834 > 3576",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2834 > 3576 > 6784",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
   "onPromo": "1008193",
@@ -33,6 +33,5 @@
       "name": "Voetcréme"
     }
   ],
-  "description": "125ml",
-  "image": "/medias/sys_master/prd-images/h02/h91/33211298316318/prd-front-30420-1_600x600/prd-front-30420-1-600x600.jpg"
+  "description": "125ml"
 }

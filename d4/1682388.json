@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1056227",
-  "mmkId": "1056227",
-  "productGroupId": "492952",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-coconut-bad-douche/p/1682388",
@@ -29,8 +29,8 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266648,
-      "name": "Douchegel"
+      "id": 30266655,
+      "name": "Badschuim"
     }
   ],
   "description": "1000ml - Normale huid",

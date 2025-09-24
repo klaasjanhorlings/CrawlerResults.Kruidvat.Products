@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2196 > 2453 > 2738 > 3440 > 5926 > 6020",
   "supplier": "LUMAS INTERNATIONAL",
-  "inStock": "inStock",
-  "onPromo": "1012132",
-  "mmkId": "1012132",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Dekbedovertrekken"
     }
   ],
-  "description": "lichtblauw, 240cm x 220cm",
-  "image": "/medias/sys_master/prd-images/h20/hfe/34229765570590/prd-front-6314635-1_600x600/prd-front-6314635-1-600x600.jpg"
+  "description": "lichtblauw, 240cm x 220cm"
 }

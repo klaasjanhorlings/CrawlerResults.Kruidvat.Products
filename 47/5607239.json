@@ -5,7 +5,7 @@
   "code": "5607239",
   "price": "29.99",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2052 > 2175 > 6451 > 6452",
+  "itemBgbcat": "2006 > 2052 > 2175 > 6451 > 6452 > 6788",
   "supplier": "ALL-IN-1 BVBA",
   "inStock": "inStock",
   "onPromo": "1056096",
@@ -33,5 +33,6 @@
       "name": "Kalknagelbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 2 x 4ml"
+  "description": "Medisch hulpmiddel - 2 x 4ml",
+  "image": "/medias/sys_master/prd-images/h34/h17/34314400235550/prd-front-5607239-1_600x600/prd-front-5607239-1-600x600.jpg"
 }

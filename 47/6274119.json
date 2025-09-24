@@ -25,13 +25,14 @@
       "name": "Fashion"
     },
     {
-      "id": 30266043,
-      "name": "Schoenen"
+      "id": 30266046,
+      "name": "Accessoires"
     },
     {
-      "id": 30266858,
-      "name": "Damesschoenen"
+      "id": 30266862,
+      "name": "Regenkleding"
     }
   ],
-  "description": "zwart, mt 40-41"
+  "description": "zwart, mt 40-41",
+  "image": "/medias/sys_master/prd-images/h26/h91/34415711191070/prd-front-6274119-1_600x600/prd-front-6274119-1-600x600.jpg"
 }

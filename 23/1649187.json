@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vogue Girl Cats Douchegel",
+  "code": "1649187",
+  "price": "1.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vogue-girl-cats-douchegel/p/1649187",
+  "listName": "Lister",
+  "brand": "Vogue",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266650,
+      "name": "Doucheschuim"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/prd-front-1649187-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzU3NTB8aW1hZ2UvanBlZ3xhRFEwTDJnMU1pOHhOamN6TlRFd016QTFOemsxTUM5d2NtUXRabkp2Ym5RdE1UWTBPVEU0TnkweFh6WXdNSGcyTURBfDdlMTYyYTY1MTM3MTEyYWJkYzEwZWJmNTI3M2YzMjNmZjRlNWEwZmU2N2M1MDY5ZDMwZDJjOTQ3OTQ2YTQ3ZjY"
+}

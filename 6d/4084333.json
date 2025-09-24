@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "RIDAM CARE BV",
   "inStock": "inStock",
-  "onPromo": "1053262",
-  "mmkId": "1053262",
-  "productGroupId": "497097",
+  "onPromo": "1056342",
+  "mmkId": "1056342",
+  "productGroupId": "494197",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-opticare-zachte-lenzen-all-in-one-no-rub-lenzenvloeistof/p/4084333",
@@ -21,16 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266013,
-      "name": "Optiek"
-    },
-    {
-      "id": 30266757,
-      "name": "Lenzenvloeistof"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "Medisch hulpmiddel - 100ml",

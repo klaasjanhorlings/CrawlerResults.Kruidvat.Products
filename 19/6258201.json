@@ -5,7 +5,7 @@
   "code": "6258201",
   "price": "8.69",
   "priceOriginal": "",
-  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3112 > 3978",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakartikelen"
     }
   ],
-  "description": "7 stuks"
+  "description": "7 stuks",
+  "image": "/medias/sys_master/prd-images/hfb/h69/34122867671070/prd-front-6258201-1_600x600/prd-front-6258201-1-600x600.jpg"
 }
