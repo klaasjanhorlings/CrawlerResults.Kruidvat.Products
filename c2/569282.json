@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat IJzer + Vitamine C Bruistabletten",
   "code": "569282",
   "price": "3.89",
@@ -37,5 +37,6 @@
       "name": "Vitamine C"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hc5/hb2/33145984548894/prd-front-569282-1_600x600/prd-front-569282-1-600x600.jpg"
 }

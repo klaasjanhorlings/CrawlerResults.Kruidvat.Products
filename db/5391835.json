@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nailner Multi-Action 2-in-1 Kalknagelkwastje",
   "code": "5391835",
   "price": "29.99",
@@ -26,11 +26,11 @@
     },
     {
       "id": 48220663,
-      "name": "Voetverzorging"
+      "name": "Voetongemakken"
     },
     {
       "id": 48220844,
-      "name": "Kalknagelbehandeling"
+      "name": "Kalknagels"
     }
   ],
   "description": "Medisch hulpmiddel - 10ml",

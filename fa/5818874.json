@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 3868 > 5725",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "1056095",
-  "mmkId": "1056095",
-  "productGroupId": "459984",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-men-attraction-force-douchegel/p/5818874",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/prd-front-5818874-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTU0NDl8aW1hZ2UvanBlZ3xhRGsyTDJnNFl5OHlOalkzTURjeU1EWTBOekU1T0M5d2NtUXRabkp2Ym5RdE5UZ3hPRGczTkMweFh6WXdNSGcyTURBfGU5ZjdhMDE2MWUyYTU3ZjA0MzlmYTQ2NjlkMGQyOWI0YjQwOThkM2M4MjI3OGEwMjQ2ZmMxNzFlMDNmMjdiZWQ"
+  "description": "250ml"
 }

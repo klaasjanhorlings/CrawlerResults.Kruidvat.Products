@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "inStock",
-  "onPromo": "1056274",
-  "mmkId": "1056274",
-  "productGroupId": "495580",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-lipfinity-lip-colour-026-so-delightful-lipstick/p/3022146",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-3022146-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTE0NjJ8aW1hZ2UvanBlZ3xhRFV5TDJnellTOHhOekl3TWpVME1qY3pPVFE0Tmk5d2NtUXRabkp2Ym5RdE16QXlNakUwTmkweFh6WXdNSGcyTURBfDQ4OWY3ZmQyNGZiZTNhYjNkMzkxYmNjMWVjM2Y4MjViNjYwMzNiMjlkNWY5Y2Q5OWQ3NjFmZTBiNzZhMWFlODk"
 }

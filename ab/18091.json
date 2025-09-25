@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Canesten Foot Crème",
   "code": "18091",
   "price": "9.99",
@@ -26,11 +26,11 @@
     },
     {
       "id": 48220663,
-      "name": "Voetverzorging"
+      "name": "Voetongemakken"
     },
     {
       "id": 48220885,
-      "name": "Voetschimmelbehandeling"
+      "name": "Voetschimmel"
     }
   ],
   "description": "Geneesmiddel - 20g",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Compeed Medium Blaarpleisters",
   "code": "5388069",
   "price": "7.69",
@@ -26,11 +26,11 @@
     },
     {
       "id": 48220663,
-      "name": "Voetverzorging"
+      "name": "Voetongemakken"
     },
     {
       "id": 48220902,
-      "name": "Blarenpleisters"
+      "name": "Blaren"
     }
   ],
   "description": "Medisch hulpmiddel - 6 stuks",

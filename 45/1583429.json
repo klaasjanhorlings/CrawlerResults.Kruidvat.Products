@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dr. Scholl's Active Repair K+ Herstellende Hielkloven Crème",
   "code": "1583429",
   "price": "9.49",
@@ -26,7 +26,7 @@
     },
     {
       "id": 48220663,
-      "name": "Voetverzorging"
+      "name": "Voetongemakken"
     },
     {
       "id": 49316183,

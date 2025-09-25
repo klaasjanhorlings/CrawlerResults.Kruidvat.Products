@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Curanol Tabletten",
   "code": "3758651",
   "price": "6.99",
@@ -37,6 +37,5 @@
       "name": "Anale verzorging"
     }
   ],
-  "description": "40 stuks",
-  "image": "/medias/sys_master/prd-images/h3b/h60/29034646044702/prd-front-3758651-1_600x600/prd-front-3758651-1-600x600.jpg"
+  "description": "40 stuks"
 }

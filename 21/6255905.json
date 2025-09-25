@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dr. Scholl's Warme Voeten Inlegzolen",
   "code": "6255905",
   "price": "9.99",
@@ -26,7 +26,7 @@
     },
     {
       "id": 48220663,
-      "name": "Voetverzorging"
+      "name": "Voetongemakken"
     },
     {
       "id": 49316592,

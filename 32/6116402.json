@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
   "supplier": "CLEMENTONI SPA",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Interactief speelgoed"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc2/h8a/31232221642782/prd-front-6116402-1_600x600/prd-front-6116402-1-600x600.jpg"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bronchostop Hoestdrank",
   "code": "3549449",
   "price": "13.99",
@@ -37,6 +37,5 @@
       "name": "Hoestdrank"
     }
   ],
-  "description": "Geneesmiddel - 200ml",
-  "image": "/medias/sys_master/prd-images/h0e/h94/34375349043230/prd-front-3549449-1_600x600/prd-front-3549449-1-600x600.jpg"
+  "description": "Geneesmiddel - 200ml"
 }

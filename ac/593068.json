@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dr. Scholl's Fresh Step Deodorant Schoenenspray",
   "code": "593068",
   "price": "7.99",
@@ -26,7 +26,7 @@
     },
     {
       "id": 48220663,
-      "name": "Voetverzorging"
+      "name": "Voetongemakken"
     },
     {
       "id": 48220780,

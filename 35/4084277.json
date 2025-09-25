@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mycosan Voetschimmel Precisiekwast",
   "code": "4084277",
   "price": "11.99",
@@ -26,13 +26,12 @@
     },
     {
       "id": 48220663,
-      "name": "Voetverzorging"
+      "name": "Voetongemakken"
     },
     {
       "id": 48220885,
-      "name": "Voetschimmelbehandeling"
+      "name": "Voetschimmel"
     }
   ],
-  "description": "Medisch hulpmiddel - 15ml",
-  "image": "/medias/sys_master/prd-images/h2f/hd1/34360339988510/prd-front-4084277-1_600x600/prd-front-4084277-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 15ml"
 }

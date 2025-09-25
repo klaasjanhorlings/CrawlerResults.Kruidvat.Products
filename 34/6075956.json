@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Silicium Haarvolume",
   "code": "6075956",
   "price": "19.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "500ml",
-  "image": "/medias/sys_master/prd-images/h25/h4e/44180881932318/prd-front-6075956-1_600x600/prd-front-6075956-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5b/h15/44316760866846/prd-front-6075956-1_600x600/prd-front-6075956-1-600x600.jpg"
 }

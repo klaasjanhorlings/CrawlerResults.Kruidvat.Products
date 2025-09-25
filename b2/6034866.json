@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dr. Scholl's Hielkloven Balsem Stick",
   "code": "6034866",
   "price": "11.99",
@@ -26,7 +26,7 @@
     },
     {
       "id": 48220663,
-      "name": "Voetverzorging"
+      "name": "Voetongemakken"
     },
     {
       "id": 49316183,

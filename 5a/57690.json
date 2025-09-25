@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Ginkgo Biloba Tabletten",
   "code": "57690",
   "price": "6.49",
@@ -33,5 +33,6 @@
       "name": "Geheugen & Concentratie"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h10/hb6/33328129245214/prd-front-57690-1_600x600/prd-front-57690-1-600x600.jpg"
 }

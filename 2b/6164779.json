@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Rode Gist Rijst Tabletten",
   "code": "6164779",
   "price": "5.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/ha5/h16/44188595617822/prd-front-6164779-1_600x600/prd-front-6164779-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hda/h06/44315825766430/prd-front-6164779-1_600x600/prd-front-6164779-1-600x600.jpg"
 }

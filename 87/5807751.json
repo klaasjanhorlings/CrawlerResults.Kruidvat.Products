@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Shots Toys Love Dice Dobbelstenen",
   "code": "5807751",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Erotische spellen"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-5807751-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTMwODJ8aW1hZ2UvanBlZ3xhREF3TDJoaU15OHlOalV6TWpjMk5qQTRPVEkwTmk5d2NtUXRabkp2Ym5RdE5UZ3dOemMxTVMweFh6WXdNSGcyTURBfGFiM2JjYWJjZjNhMTJlMmJhYzE0YWFiNjdlOTk3ZGVlMjRhMzBiYTlmOTMyMWQ3NTFmNDEyYjJhODQyNDhjMzY"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mycosan Kalknagel XL Behandelset",
   "code": "4682364",
   "price": "39.99",
@@ -26,11 +26,11 @@
     },
     {
       "id": 48220663,
-      "name": "Voetverzorging"
+      "name": "Voetongemakken"
     },
     {
       "id": 48220844,
-      "name": "Kalknagelbehandeling"
+      "name": "Kalknagels"
     }
   ],
   "description": "Medisch hulpmiddel - 10ml",

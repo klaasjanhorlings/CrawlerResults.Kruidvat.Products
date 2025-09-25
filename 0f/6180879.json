@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat +3.0 Leesbril met Rubberlook Montuur",
   "code": "6180879",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Leesbrillen"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/hdd/hc3/33105113153566/prd-front-6180879-1_600x600/prd-front-6180879-1-600x600.jpg"
 }

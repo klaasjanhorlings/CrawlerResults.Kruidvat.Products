@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Shiepz Melatonine 5mg Tabletten",
   "code": "5528076",
   "price": "8.49",
@@ -33,5 +33,6 @@
       "name": "Melatonine"
     }
   ],
-  "description": "Geneesmiddel - 10 stuks"
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/ha2/h04/32640475398174/prd-front-5528076-1_600x600/prd-front-5528076-1-600x600.jpg"
 }
