@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sinaspril Paracetamol 240mg Zetpillen",
   "code": "5541509",
   "price": "5.99",
@@ -37,6 +37,5 @@
       "name": "Paracetamol"
     }
   ],
-  "description": "Geneesmiddel - 10 stuks",
-  "image": "/medias/sys_master/prd-images/hce/h33/32165421056030/prd-front-5541509-1_600x600/prd-front-5541509-1-600x600.jpg"
+  "description": "Geneesmiddel - 10 stuks"
 }

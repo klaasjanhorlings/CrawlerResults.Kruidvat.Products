@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alessandro Striplac UV Polish Remover",
+  "code": "6370082",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/alessandro-striplac-uv-polish-remover/p/6370082",
+  "listName": "Lister",
+  "brand": "Alessandro",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266633,
+      "name": "Nagellakremover"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/hd6/hbf/44255164465182/prd-front-6370082-1_600x600/prd-front-6370082-1-600x600.jpg"
+}

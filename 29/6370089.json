@@ -1,0 +1,46 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alessandro Striplac Hoof Stick",
+  "code": "6370089",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/alessandro-striplac-hoof-stick/p/6370089",
+  "listName": "Lister",
+  "brand": "Alessandro",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266632,
+      "name": "Nagelaccessoires"
+    },
+    {
+      "id": 87391028,
+      "name": "Nepnageltools"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc6/hdb/44254520934430/prd-front-6370089-1_600x600/prd-front-6370089-1-600x600.jpg"
+}

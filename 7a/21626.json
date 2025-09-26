@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "WeCare Peanut Nougat Meal Replacement Bars",
   "code": "21626",
   "price": "2.99",
@@ -29,8 +29,8 @@
       "name": "Verantwoorde voeding"
     },
     {
-      "id": 30266742,
-      "name": "Maaltijdrepen, drinkmaaltijden"
+      "id": 30266743,
+      "name": "Maaltijdvervangers"
     }
   ],
   "description": "2 x 58g",

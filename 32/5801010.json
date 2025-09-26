@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056095",
+  "mmkId": "1056095",
+  "productGroupId": "459984",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-invisible-sensitive-antitranspirant-spray/p/5801010",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hc0/hb1/44317942579230/prd-front-5801010-1_600x600/prd-front-5801010-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h72/h0e/44328603484190/prd-front-5801010-1_600x600/prd-front-5801010-1-600x600.jpg"
 }

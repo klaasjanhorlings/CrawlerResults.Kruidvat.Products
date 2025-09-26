@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Haribo Zure Bommen",
+  "code": "6372987",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
+  "supplier": "HARIBO THE NET.& BEL.BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/haribo-zure-bommen/p/6372987",
+  "listName": "Lister",
+  "brand": "Haribo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267026,
+      "name": "Snoep"
+    }
+  ],
+  "description": "150 stuks",
+  "image": "/medias/sys_master/prd-images/h7e/hdb/44187381039134/prd-front-6372987-1_600x600/prd-front-6372987-1-600x600.jpg"
+}

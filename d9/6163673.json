@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Omega 3 Probiotica D3 Capsules",
   "code": "6163673",
   "price": "19.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49950650,
-      "name": "Bacteriestammen"
+      "id": 49792812,
+      "name": "Omega 3"
     }
   ],
   "description": "60 stuks",

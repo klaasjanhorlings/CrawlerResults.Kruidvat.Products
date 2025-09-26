@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Stress Moment Sterk¹ Tabletten",
   "code": "6160985",
   "price": "5.49",
@@ -33,5 +33,6 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "40 stuks"
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/hd3/h8a/44325349195806/prd-front-6160985-1_600x600/prd-front-6160985-1-600x600.jpg"
 }

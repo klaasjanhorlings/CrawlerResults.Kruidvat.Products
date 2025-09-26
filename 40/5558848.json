@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "A.Vogel Ontstoken Ogen Oogdruppels",
   "code": "5558848",
   "price": "17.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 3114 > 3611 > 6786",
   "supplier": "A.VOGEL",
-  "inStock": "inStock",
-  "onPromo": "1056292",
-  "mmkId": "1056292",
-  "productGroupId": "502403",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-ontstoken-ogen-oogdruppels/p/5558848",
@@ -25,12 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266013,
-      "name": "Optiek"
+      "id": 30266006,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30266759,
-      "name": "Oogdruppels"
+      "id": 30266712,
+      "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
   "description": "Medisch hulpmiddel - 10ml",

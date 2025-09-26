@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Omega vetzuren 3-6-9 Capsules",
   "code": "6071889",
   "price": "19.99",
@@ -33,6 +33,5 @@
       "name": "Omega 3"
     }
   ],
-  "description": "100 stuks",
-  "image": "/medias/sys_master/prd-images/h71/h90/30590854004766/prd-front-6071889-1_600x600/prd-front-6071889-1-600x600.jpg"
+  "description": "100 stuks"
 }

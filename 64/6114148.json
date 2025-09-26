@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Clearblue Snelle Detectie Zwangerschapstest",
   "code": "6114148",
   "price": "14.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 2 stuks",
-  "image": "/medias/sys_master/prd-images/h2c/h96/44314360479774/prd-front-6114148-1_600x600/prd-front-6114148-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha2/h29/44325466767390/prd-front-6114148-1_600x600/prd-front-6114148-1-600x600.jpg"
 }

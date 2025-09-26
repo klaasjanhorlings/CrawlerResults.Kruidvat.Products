@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ricola Honing Citroen Echinacea Kruidenpastilles",
+  "code": "5125751",
+  "price": "2.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2634 > 3280 > 4181",
+  "supplier": "CAMPS FOOD BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ricola-honing-citroen-echinacea-kruidenpastilles/p/5125751",
+  "listName": "Lister",
+  "brand": "Ricola",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267027,
+      "name": "Keelsnoepjes"
+    }
+  ],
+  "description": "75g",
+  "image": "/medias/sys_master/prd-images/hed/h95/28909148209182/prd-front-5125751-1_600x600/prd-front-5125751-1-600x600.jpg"
+}

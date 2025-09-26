@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tristar Elektrische Onderdeken",
+  "code": "6154076",
+  "price": "29.99",
+  "priceOriginal": "54.99",
+  "itemBgbcat": "2197 > 5929 > 6019 > 6686 > 6687 > 6688",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 25,00",
+  "url": "/tristar-elektrische-onderdeken/p/6154076",
+  "listName": "Lister",
+  "brand": "Tristar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 57225738,
+      "name": "Dekens"
+    },
+    {
+      "id": 57225822,
+      "name": "Elektrische dekens"
+    }
+  ],
+  "description": "160cm x 140cm"
+}

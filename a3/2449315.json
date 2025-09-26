@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
   "supplier": "KUYPERS & CO BV",
   "inStock": "inStock",
-  "onPromo": "1056044",
-  "mmkId": "1056044",
-  "productGroupId": "475088",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/palmers-shea-butter-formula-geconcentreerde-handcreme/p/2449315",
@@ -33,5 +33,6 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "60g"
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/had/he2/28491522506782/prd-front-2449315-1_600x600/prd-front-2449315-1-600x600.jpg"
 }

@@ -21,22 +21,21 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 51214305,
-      "name": "Speciale huidverzorging"
+      "id": 30266605,
+      "name": "Serum"
     },
     {
-      "id": 55926760,
-      "name": "Pigmentverzorging"
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h88/h98/44156485337118/prd-front-6021839-1_600x600/prd-front-6021839-1-600x600.jpg"
+  "description": "30ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Compeed Blarenpleisters Mixpack",
   "code": "5872515",
   "price": "12.19",
@@ -33,6 +33,5 @@
       "name": "Blaren"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks",
-  "image": "/medias/sys_master/prd-images/h82/ha4/31566351007774/prd-front-5872515-1_600x600/prd-front-5872515-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 10 stuks"
 }

@@ -1,9 +1,9 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon Vitamine D3 75mcg Smelttabletten",
   "code": "5844732",
-  "price": "15.99",
+  "price": "12.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "OMEGA PHARMA NEDERLAND",
@@ -33,6 +33,5 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "75 stuks",
-  "image": "/medias/sys_master/prd-images/h28/h9f/44144624107550/prd-front-5844732-1_600x600/prd-front-5844732-1-600x600.jpg"
+  "description": "75 stuks"
 }

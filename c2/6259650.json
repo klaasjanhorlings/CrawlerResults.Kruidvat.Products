@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Café Latte Maaltijdshake",
   "code": "6259650",
   "price": "11.49",
@@ -33,5 +33,6 @@
       "name": "Maaltijdvervangers"
     }
   ],
-  "description": "434g"
+  "description": "434g",
+  "image": "/medias/sys_master/prd-images/h8a/haa/33364087603230/prd-front-6259650-1_600x600/prd-front-6259650-1-600x600.jpg"
 }

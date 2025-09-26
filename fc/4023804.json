@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Pleasure 2-In-1 Massagegel",
   "code": "4023804",
   "price": "4.99",
@@ -29,8 +29,12 @@
       "name": "Seksualiteit"
     },
     {
-      "id": 65907418,
-      "name": "Erotische massage"
+      "id": 30266748,
+      "name": "Glijmiddelen"
+    },
+    {
+      "id": 66278176,
+      "name": "Waterbasis glijmiddelen"
     }
   ],
   "description": "200ml",

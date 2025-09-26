@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "BlaseBerry Cranberry D-Mannose & Hibiscus Capsules",
   "code": "4132584",
   "price": "30.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266728,
-      "name": "Blaas supplementen"
+      "id": 30266734,
+      "name": "Cranberrysupplementen"
     }
   ],
   "description": "100 stuks",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bausch & Lomb ReNu MPS Sensitive Eyes Flightpack",
   "code": "5098577",
   "price": "9.99",
@@ -21,16 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266013,
-      "name": "Optiek"
-    },
-    {
-      "id": 30266757,
-      "name": "Lenzenvloeistof"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "Medisch hulpmiddel - 100ml",

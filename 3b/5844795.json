@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bional Prostavit Forte Capsules",
   "code": "5844795",
   "price": "46.99",
@@ -33,6 +33,5 @@
       "name": "Prostaatsupplementen"
     }
   ],
-  "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/h0c/hf0/34873551454238/prd-front-5844795-1_600x600/prd-front-5844795-1-600x600.jpg"
+  "description": "90 stuks"
 }

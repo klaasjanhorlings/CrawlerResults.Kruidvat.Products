@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mentos Mints Doos",
+  "code": "6367373",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2540 > 3292 > 4193",
+  "supplier": "PERFETTI VAN MELLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mentos-mints-doos/p/6367373",
+  "listName": "Lister",
+  "brand": "Mentos",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 92033748,
+      "name": "Kauwgom en pepermunt"
+    }
+  ],
+  "description": "40 x 37,5g",
+  "image": "/medias/sys_master/prd-images/h4f/h58/44314375880734/prd-front-6367373-1_600x600/prd-front-6367373-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Liga Evergreen Krenten Biscuit",
+  "code": "6377005",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2340 > 3233 > 4125",
+  "supplier": "MONDELEZ NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/liga-evergreen-krenten-biscuit/p/6377005",
+  "listName": "Lister",
+  "brand": "Liga",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267023,
+      "name": "Koek"
+    }
+  ],
+  "description": "24 x 37,5g",
+  "image": "/medias/sys_master/prd-images/hdc/ha3/44176151347230/prd-front-6377005-1_600x600/prd-front-6377005-1-600x600.jpg"
+}

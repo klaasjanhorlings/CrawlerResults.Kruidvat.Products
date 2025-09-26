@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dulcolax Zetpillen",
   "code": "21570",
   "price": "6.09",
@@ -37,6 +37,5 @@
       "name": "Laxeermiddelen"
     }
   ],
-  "description": "Geneesmiddel - 6 stuks",
-  "image": "/medias/sys_master/prd-images/h82/he7/34837795176478/prd-front-21570-1_600x600/prd-front-21570-1-600x600.jpg"
+  "description": "Geneesmiddel - 6 stuks"
 }

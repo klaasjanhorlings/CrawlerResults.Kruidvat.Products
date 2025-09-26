@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Mercurochrome Pitchoune Neusspray",
   "code": "2181796",
   "price": "6.99",
@@ -37,5 +37,6 @@
       "name": "Neusspray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h03/h25/27279629221918/prd-front-2181796-1_600x600/prd-front-2181796-1-600x600.jpg"
 }

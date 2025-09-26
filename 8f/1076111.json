@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "VSM Spiroflor SRL Spier- en Gewrichtsgel",
   "code": "1076111",
   "price": "11.89",
@@ -37,6 +37,5 @@
       "name": "Spier- en gewrichtsbalsems"
     }
   ],
-  "description": "Homeopathisch geneesmiddel - 75g",
-  "image": "/medias/sys_master/prd-images/h71/hb2/32353028833310/prd-front-1076111-1_600x600/prd-front-1076111-1-600x600.jpg"
+  "description": "Homeopathisch geneesmiddel - 75g"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bio-Oil Huidverzorgingsolie",
   "code": "2321250",
   "price": "22.99",
@@ -37,6 +37,5 @@
       "name": "Littekencremes"
     }
   ],
-  "description": "125ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h33/h50/34598952566814/prd-front-2321250-1_600x600/prd-front-2321250-1-600x600.jpg"
+  "description": "125ml - Alle huidtypen"
 }
