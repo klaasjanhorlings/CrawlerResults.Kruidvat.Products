@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "EMIL KIESSLING GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056210",
+  "mmkId": "1056210",
+  "productGroupId": "491041",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-60-light-brown-semi-permanente-haarkleuring/p/6114008",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h12/h4a/31051011620894/prd-front-6114008-1_600x600/prd-front-6114008-1-600x600.jpg"
+  "description": ""
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056274",
+  "mmkId": "1056274",
+  "productGroupId": "495580",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-facefinity-compact-003-natural-rose-refill-foundation/p/6006614",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "10g",
-  "image": "/medias/sys_master/prd-images/hfe/hd8/30914633531422/prd-front-6006614-1_600x600/prd-front-6006614-1-600x600.jpg"
+  "description": "10g"
 }

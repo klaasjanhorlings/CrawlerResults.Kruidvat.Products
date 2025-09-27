@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056095",
+  "mmkId": "1056095",
+  "productGroupId": "459984",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-oriental-neroli-douchecreme/p/3552508",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h1a/h0f/44334976172062/prd-front-3552508-1_600x600/prd-front-3552508-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hda/h1a/44343868555294/prd-front-3552508-1_600x600/prd-front-3552508-1-600x600.jpg"
 }
