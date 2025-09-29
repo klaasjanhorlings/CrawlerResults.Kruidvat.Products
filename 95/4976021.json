@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Milka Sensations",
+  "code": "4976021",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2340 > 2740 > 3442",
+  "supplier": "MONDELEZ NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/milka-sensations/p/4976021",
+  "listName": "Lister",
+  "brand": "Milka",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "12 x 26g",
+  "image": "/medias/prd-front-4976021-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzY0NDB8aW1hZ2UvanBlZ3xhRGRoTDJnellpOHhOelF4T0RNek9ERXdOelF5TWk5d2NtUXRabkp2Ym5RdE5EazNOakF5TVMweFh6WXdNSGcyTURBfDc0OWFlZmEzNTZmMzY2YzNiYTZkMmFmNTIyNTAyYzQzYTE3NDYzZGEyOWU0MGVlMWE2MmZjMTU0YjdlMzQyZTg"
+}

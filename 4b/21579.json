@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
   "supplier": "TRADE SENSE BV",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/byte-x/p/21579",
@@ -37,5 +37,6 @@
       "name": "Nagelbehandeling"
     }
   ],
-  "description": "11ml"
+  "description": "11ml",
+  "image": "/medias/sys_master/prd-images/h7e/h3e/32883267862558/prd-front-21579-1_600x600/prd-front-21579-1-600x600.jpg"
 }

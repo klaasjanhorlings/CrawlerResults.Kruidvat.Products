@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2208 > 4831 > 4846 > 4857 > 5926 > 6024",
   "supplier": "I-STAR WORLD BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Verlichting"
     }
   ],
-  "description": "wit"
+  "description": "wit",
+  "image": "/medias/sys_master/prd-images/h77/h6f/34613322907678/prd-front-6337693-1_600x600/prd-front-6337693-1-600x600.jpg"
 }

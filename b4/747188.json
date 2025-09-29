@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Pure Chocoladeletter",
+  "code": "747188",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3806",
+  "supplier": "BARONIE - DE HEER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pure-chocoladeletter/p/747188",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267029,
+      "name": "Sinterklaassnoep"
+    }
+  ],
+  "description": "135g",
+  "image": "/medias/prd-front-747188-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTM4OTJ8aW1hZ2UvanBlZ3xhREZsTDJnNVpDOHhOakE1T1RFek56RXlOalF6TUM5d2NtUXRabkp2Ym5RdE56UTNNVGc0TFRGZk5qQXdlRFl3TUF8YTQ0YWRlYmE3ZDM3MmU5YTdjMDVhNWNhNjIxZmNkN2ZmNTNhYzZlYzJiZDY3ZTZhOTM0YTc4ZmFmNjcwNzhmMA"
+}

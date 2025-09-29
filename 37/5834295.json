@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Squish Meez Mega Tub",
+  "code": "5834295",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 6040 > 2232 > 2527 > 3150 > 4019",
+  "supplier": "HTI TOYS UK LTD",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/squish-meez-mega-tub/p/5834295",
+  "listName": "Lister",
+  "brand": "HTI",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-5834295-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODgxMzh8aW1hZ2UvanBlZ3xhREpoTDJoa1lpOHlOamsxTlRreE9UUTFPRE16TkM5d2NtUXRabkp2Ym5RdE5UZ3pOREk1TlMweFh6WXdNSGcyTURBfDRhYzBhNzE1MGEyOWY3YjJiNmIyMTU5NzIzNWI0YWE4MGU1MmMzYWFhMWM3YjY1ZGJhMzc3YzE5ZDg4M2I2ZTI"
+}

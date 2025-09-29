@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kleenex The Original Tissues",
+  "code": "6139495",
+  "price": "4.99",
+  "priceOriginal": "12.9",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2635 > 3317 > 3663",
+  "supplier": "KIMBERLY-CLARK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 7,91",
+  "url": "/kleenex-the-original-tissues/p/6139495",
+  "listName": "Lister",
+  "brand": "Kleenex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266074,
+      "name": "Tissues en zakdoekjes"
+    }
+  ],
+  "description": "6 x 72 stuks",
+  "image": "/medias/sys_master/prd-images/h84/h69/32246573826078/prd-front-6139495-1_600x600/prd-front-6139495-1-600x600.jpg"
+}

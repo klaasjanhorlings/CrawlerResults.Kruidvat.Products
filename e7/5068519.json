@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "KALEGRA COSMETICS GMBH",
-  "inStock": "inStock",
-  "onPromo": "1028975",
-  "mmkId": "1028975",
-  "productGroupId": "362258",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-stay-with-me-020-warm-sand-longlasting-concealer/p/5068519",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "7ml"
+  "description": "7ml",
+  "image": "/medias/prd-front-5068519-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjIyNjV8aW1hZ2UvanBlZ3xhRGN5TDJneE15OHhOamsyTmpJMU1EZzRPVEkwTmk5d2NtUXRabkp2Ym5RdE5UQTJPRFV4T1MweFh6WXdNSGcyTURBfDc3NGFlNjJmM2U1ODUwMmIxYjg1MmI0MDZiZjQ1YzAwODgzZGVlYzFlM2IwMTBiYWQ3MmI0NzFkOTM5ZDZhNTA"
 }

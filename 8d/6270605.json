@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Peervormige Ledkaarsenset",
+  "code": "6270605",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 5926 > 5980 > 5997 > 6679 > 6732",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-peervormige-ledkaarsenset/p/6270605",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266895,
+      "name": "Kaarsen"
+    },
+    {
+      "id": 80866453,
+      "name": "LED kaarsen"
+    }
+  ],
+  "description": "beige, 9cm x 11cm, 7,3cm x 15cm, 2 stuks",
+  "image": "/medias/sys_master/prd-images/ha3/h3f/44352733904926/prd-front-6270605-1_600x600/prd-front-6270605-1-600x600.jpg"
+}

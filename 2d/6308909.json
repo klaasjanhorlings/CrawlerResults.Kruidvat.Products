@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Teddy Gordijn",
+  "code": "6308909",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2060 > 2192 > 5926 > 5964 > 5981 > 5998",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-teddy-gordijn/p/6308909",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 80863011,
+      "name": "Decoratie"
+    },
+    {
+      "id": 84926099,
+      "name": "Raamdecoratie"
+    }
+  ],
+  "description": "wit, 140cm x 250cm",
+  "image": "/medias/sys_master/prd-images/hea/hc7/34028293455902/prd-front-6308909-1_600x600/prd-front-6308909-1-600x600.jpg"
+}

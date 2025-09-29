@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ritter Crunchy Duo Cream/Choco Reep",
+  "code": "6251922",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2734 > 3436",
+  "supplier": "ALFRED RITTER GMBH&COKG",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ritter-crunchy-duo-cream/choco-reep/p/6251922",
+  "listName": "Lister",
+  "brand": "Ritter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    }
+  ],
+  "description": "218g",
+  "image": "/medias/sys_master/prd-images/he4/hbc/33341050454046/prd-front-6251922-1_600x600/prd-front-6251922-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lamswollen Instappantoffels",
+  "code": "6254428",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2487 > 3056 > 5804 > 5928 > 6351 > 6352",
+  "supplier": "SHOES4ALL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/lamswollen-instappantoffels/p/6254428",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266044,
+      "name": "Pantoffels"
+    }
+  ],
+  "description": "cognackleur, mt 40-41",
+  "image": "/medias/sys_master/prd-images/hdc/hb8/44218970275870/prd-front-6254428-1_600x600/prd-front-6254428-1-600x600.jpg"
+}

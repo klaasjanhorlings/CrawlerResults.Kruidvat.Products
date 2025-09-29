@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6206 > 6224 > 6298",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
-  "onPromo": "1056097",
-  "mmkId": "1056097",
-  "productGroupId": "464369",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-science-vitamine-b12-zuigtabletten/p/6260651",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h99/h4b/44344799592478/prd-front-6260651-1_600x600/prd-front-6260651-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h9c/h30/44351836553246/prd-front-6260651-1_600x600/prd-front-6260651-1-600x600.jpg"
 }
