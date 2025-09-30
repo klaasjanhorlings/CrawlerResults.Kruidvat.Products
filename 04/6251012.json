@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Herbruikbare Fotocamera",
+  "code": "6251012",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2243 > 2307 > 2697 > 3397 > 4870 > 6031",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/herbruikbare-fotocamera/p/6251012",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266057,
+      "name": "Smarthome"
+    },
+    {
+      "id": 30266879,
+      "name": "Camera’s"
+    }
+  ],
+  "description": "zwart, zilverkleur",
+  "image": "/medias/sys_master/prd-images/hc0/h34/35174916816926/prd-front-6251012-1_600x600/prd-front-6251012-1-600x600.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Hondenkoekjes",
+  "code": "5531562",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2081 > 2239 > 2416 > 2912 > 4127",
+  "supplier": "HOFMAN ANIMAL CARE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-hondenkoekjes/p/5531562",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266077,
+      "name": "Dier"
+    },
+    {
+      "id": 30266891,
+      "name": "Honden"
+    },
+    {
+      "id": 91640727,
+      "name": "Hondenvoer en snacks"
+    },
+    {
+      "id": 91641248,
+      "name": "Snacks voor honden"
+    }
+  ],
+  "description": "1300g",
+  "image": "/medias/sys_master/prd-images/haf/h32/44220003614750/prd-front-5531562-1_600x600/prd-front-5531562-1-600x600.jpg"
+}

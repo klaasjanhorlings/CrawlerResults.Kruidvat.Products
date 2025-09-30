@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 3875 > 5730",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056146",
+  "mmkId": "1056146",
+  "productGroupId": "480341",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-magnum-gold-caramel-billionaire-deodorant-bodyspray/p/5601065",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hb7/h8c/44352311033886/prd-front-5601065-1_600x600/prd-front-5601065-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hfb/h82/44358100418590/prd-front-5601065-1_600x600/prd-front-5601065-1-600x600.jpg"
 }

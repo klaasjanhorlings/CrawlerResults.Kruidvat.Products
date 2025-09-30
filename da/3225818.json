@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "TOBY'S BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056227",
+  "mmkId": "1056227",
+  "productGroupId": "492952",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-12-hour-fresh-breath-mondspoeling/p/3225818",
@@ -33,6 +33,5 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h78/h75/28236182388766/prd-front-3225818-1_600x600/prd-front-3225818-1-600x600.jpg"
+  "description": "250ml"
 }
