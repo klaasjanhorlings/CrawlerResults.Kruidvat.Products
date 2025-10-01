@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Durex Natural Hydra+ Glijmiddel",
-  "code": "5129447",
-  "price": "12.49",
+  "itemName": "Durex Sensitive Glijmiddel",
+  "code": "5299239",
+  "price": "24.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "1056306",
-  "mmkId": "1056306",
-  "productGroupId": "504725",
+  "onPromo": "1056356",
+  "mmkId": "1056356",
+  "productGroupId": "493803",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/durex-natural-hydra-glijmiddel/p/5129447",
+  "url": "/durex-sensitive-glijmiddel/p/5299239",
   "listName": "Lister",
   "brand": "Durex",
   "mpOrigin": "Kruidvat",
@@ -37,6 +37,6 @@
       "name": "Waterbasis glijmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml",
-  "image": "/medias/prd-front-5129447-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTM1Njl8aW1hZ2UvanBlZ3xhREkwTDJneVl5OHlOekF3TlRFMU56WXdOVFF3Tmk5d2NtUXRabkp2Ym5RdE5URXlPVFEwTnkweFh6WXdNSGcyTURBfDM5OGNlMjg1ZGQwMjBkN2Q4MDRlMTI3ZGEzOGZmOWE0YTkwNjg0NmNlYTU1ZDQ4NThhOGM4ODkwZWRhMzg3OTY"
+  "description": "Medisch hulpmiddel - 250ml",
+  "image": "/medias/sys_master/prd-images/hbb/ha8/31060985151518/prd-front-5299239-1_600x600/prd-front-5299239-1-600x600.jpg"
 }

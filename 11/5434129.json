@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6207 > 6225 > 6605",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056176",
+  "mmkId": "1056176",
+  "productGroupId": "482792",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/valdispert-slaap-gummies/p/5434129",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266724,
-      "name": "Rust en ontspanning"
+      "id": 49950694,
+      "name": "Natuurlijke supplementen"
     }
   ],
   "description": "45 stuks",

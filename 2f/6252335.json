@@ -8,9 +8,9 @@
   "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
   "supplier": "SPEELGOEDLAND",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056415",
+  "mmkId": "1056415",
+  "productGroupId": "494883",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/minecraft-voorgevormde-etui/p/6252335",
@@ -29,6 +29,5 @@
       "name": "Knutselen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h74/h25/35092139933726/prd-front-6252335-1_600x600/prd-front-6252335-1-600x600.jpg"
+  "description": ""
 }

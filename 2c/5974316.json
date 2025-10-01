@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1057131",
-  "mmkId": "1057131",
-  "productGroupId": "517211",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nutrilon-2-flesvoeding-6-12-maanden-opvolgmelk/p/5974316",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "600g",
-  "image": "/medias/sys_master/prd-images/h53/he8/44360770846750/prd-front-5974316-1_600x600/prd-front-5974316-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

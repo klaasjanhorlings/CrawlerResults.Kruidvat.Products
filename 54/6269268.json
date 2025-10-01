@@ -8,9 +8,9 @@
   "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
   "supplier": "RUBY-TOYS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056415",
+  "mmkId": "1056415",
+  "productGroupId": "494883",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/stapelblokken/p/6269268",
@@ -25,12 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266026,
-      "name": "Baby- en peuterspeelgoed"
+      "id": 30266034,
+      "name": "Educatief speelgoed"
     },
     {
-      "id": 49281541,
-      "name": "Interactief speelgoed"
+      "id": 90169671,
+      "name": "Educatieve speelsets"
     }
   ],
   "description": "5 stuks"

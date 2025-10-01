@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1056396",
+  "mmkId": "1056396",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,10 +33,9 @@
       "name": "Baby huidverzorging"
     },
     {
-      "id": 30267014,
-      "name": "Babycreme"
+      "id": 30267018,
+      "name": "Babylotion"
     }
   ],
-  "description": "368g",
-  "image": "/medias/sys_master/prd-images/ha8/h9b/34868666728478/prd-front-2594866-1_600x600/prd-front-2594866-1-600x600.jpg"
+  "description": "368g"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Mama Care Tepelcrème",
+  "code": "4244906",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "DELARANGE COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "1056385",
+  "mmkId": "1056385",
+  "productGroupId": "495072",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-mama-care-tepelcreme/p/4244906",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30266805,
+      "name": "Mama verzorgingsproducten"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h20/h48/32095341248542/prd-front-4244906-1_600x600/prd-front-4244906-1-600x600.jpg"
+}

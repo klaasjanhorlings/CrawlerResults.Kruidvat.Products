@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Evisense Pro Aften Gel",
-  "code": "3902830",
-  "price": "14.39",
+  "itemName": "Pyralvex Aanstipvloeistof",
+  "code": "2227562",
+  "price": "12.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1056296",
-  "mmkId": "1056296",
-  "productGroupId": "503180",
-  "brandType": "Ander merk",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
   "discount": "",
-  "url": "/evisense-pro-aften-gel/p/3902830",
+  "url": "/pyralvex-aanstipvloeistof/p/2227562",
   "listName": "Lister",
-  "brand": "Evisense",
+  "brand": "Pyralvex",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,6 +37,6 @@
       "name": "Aftenbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml",
-  "image": "/medias/sys_master/prd-images/h4d/hc5/29031685324830/prd-front-3902830-1_600x600/prd-front-3902830-1-600x600.jpg"
+  "description": "Geneesmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h86/h76/27805551624222/prd-front-2227562-1_600x600/prd-front-2227562-1-600x600.jpg"
 }

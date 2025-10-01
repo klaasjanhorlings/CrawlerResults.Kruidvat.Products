@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1056396",
+  "mmkId": "1056396",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "1200g",
-  "image": "/medias/sys_master/prd-images/h8f/hff/44360770125854/prd-front-5837669-1_600x600/prd-front-5837669-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h23/hdf/44366263484446/prd-front-5837669-1_600x600/prd-front-5837669-1-600x600.jpg"
 }

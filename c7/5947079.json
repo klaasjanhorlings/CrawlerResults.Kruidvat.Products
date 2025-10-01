@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
   "supplier": "INEX NV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1056396",
+  "mmkId": "1056396",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,8 +33,8 @@
       "name": "Flesvoeding"
     },
     {
-      "id": 30267001,
-      "name": "Peutermelk"
+      "id": 30267000,
+      "name": "Dreumesmelk"
     }
   ],
   "description": "3 x 250ml",

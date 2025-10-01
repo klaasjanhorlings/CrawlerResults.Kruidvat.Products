@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "TRADE SENSE BV",
-  "inStock": "inStock",
-  "onPromo": "1056280",
-  "mmkId": "1056280",
-  "productGroupId": "496322",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/abe-dua-authentic-african-black-soap/p/6313830",
@@ -33,5 +33,6 @@
       "name": "Zeepbar"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h99/h04/34183077658654/prd-front-6313830-1_600x600/prd-front-6313830-1-600x600.jpg"
 }
