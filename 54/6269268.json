@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
   "supplier": "RUBY-TOYS BV",
-  "inStock": "inStock",
-  "onPromo": "1056415",
-  "mmkId": "1056415",
-  "productGroupId": "494883",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/stapelblokken/p/6269268",
@@ -33,5 +33,6 @@
       "name": "Educatieve speelsets"
     }
   ],
-  "description": "5 stuks"
+  "description": "5 stuks",
+  "image": "/medias/sys_master/prd-images/h6c/h90/33337555681310/prd-front-6269268-1_600x600/prd-front-6269268-1-600x600.jpg"
 }

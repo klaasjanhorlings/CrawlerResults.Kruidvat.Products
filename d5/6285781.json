@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "1056367",
-  "mmkId": "1056367",
-  "productGroupId": "472379",
+  "onPromo": "1056366",
+  "mmkId": "1056366",
+  "productGroupId": "472374",
   "brandType": "A of B merk",
   "discount": "€ 45,00",
   "url": "/finish-quantum-all-in-one-vaatwastabletten/p/6285781",
@@ -33,6 +33,5 @@
       "name": "Vaatwastabletten"
     }
   ],
-  "description": "140 stuks",
-  "image": "/medias/sys_master/prd-images/he0/hc6/33680560357406/prd-front-6285781-1_600x600/prd-front-6285781-1-600x600.jpg"
+  "description": "140 stuks"
 }

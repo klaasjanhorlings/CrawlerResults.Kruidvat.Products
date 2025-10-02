@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1056396",
-  "mmkId": "1056396",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Geschenkset voor kinderen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hd3/h1d/44375962746910/prd-front-6322979-1_600x600/prd-front-6322979-1-600x600.jpg"
+  "description": ""
 }

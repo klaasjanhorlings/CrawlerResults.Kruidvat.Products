@@ -5,12 +5,12 @@
   "code": "1604835",
   "price": "15.99",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 3033 > 3886",
+  "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4350 > 4351",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1056416",
-  "mmkId": "1056416",
-  "productGroupId": "495003",
+  "onPromo": "1056264",
+  "mmkId": "1056264",
+  "productGroupId": "494997",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-midi-maat-3-luiers/p/1604835",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 3"
     }
   ],
-  "description": "mt 3 (5-9 kg), 94 stuks",
-  "image": "/medias/sys_master/prd-images/h5a/hb9/44276906590238/prd-front-1604835-1_600x600/prd-front-1604835-1-600x600.jpg"
+  "description": "mt 3 (5-9 kg), 94 stuks"
 }

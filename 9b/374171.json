@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 2810 > 3551",
   "supplier": "JACOBS DOUWE EGBERTS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Koffie"
     }
   ],
-  "description": "500g"
+  "description": "500g",
+  "image": "/medias/prd-front-374171-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njc1MjJ8aW1hZ2UvanBlZ3xhR1pqTDJnMU5pOHhOalUxTkRneE16azRNRGN3TWk5d2NtUXRabkp2Ym5RdE16YzBNVGN4TFRGZk5qQXdlRFl3TUF8ZmYwNmU3OTBhMTZjMTJiNjNlNzE1NDM0MTI5ZjcyNjcwY2Q1Yjc1YTJhYjc5YWViM2U3NGI3ZGNhZmNhYWM1ZQ"
 }

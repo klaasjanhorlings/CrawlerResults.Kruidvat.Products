@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3381",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056259",
+  "mmkId": "1056259",
+  "productGroupId": "493837",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-avent-soothie-0-6m-fopspeen/p/5557868",
@@ -33,5 +33,6 @@
       "name": "Fopspenen"
     }
   ],
-  "description": "blauw"
+  "description": "blauw",
+  "image": "/medias/sys_master/prd-images/h7b/h2f/27496300675102/prd-front-5557868-1_600x600/prd-front-5557868-1-600x600.jpg"
 }

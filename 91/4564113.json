@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "1056411",
-  "mmkId": "1056411",
-  "productGroupId": "492279",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-borstkolf/p/4564113",
@@ -37,5 +37,6 @@
       "name": "Borstkolven"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h00/h5a/32460775260190/prd-front-4564113-1_600x600/prd-front-4564113-1-600x600.jpg"
 }

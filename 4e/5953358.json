@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Watshome Stoomstrijkijzer",
+  "code": "5953358",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 2454 > 2957 > 3751 > 5929 > 6019",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/watshome-stoomstrijkijzer/p/5953358",
+  "listName": "Lister",
+  "brand": "Watshome",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053317,
+      "name": "Schoonmaakapparatuur"
+    },
+    {
+      "id": 75054138,
+      "name": "Strijkijzers en kledingstomers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h22/h71/32235633934366/prd-front-5953358-1_600x600/prd-front-5953358-1-600x600.jpg"
+}

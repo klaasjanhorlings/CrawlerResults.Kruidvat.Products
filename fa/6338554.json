@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6018",
   "supplier": "HERMANEX INTERNATIONAL",
   "inStock": "inStock",
-  "onPromo": "1056415",
-  "mmkId": "1056415",
-  "productGroupId": "494883",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/harry-potter-hogwarts-puzzel/p/6338554",
@@ -29,6 +29,5 @@
       "name": "Puzzels"
     }
   ],
-  "description": "1000 stukjes",
-  "image": "/medias/sys_master/prd-images/h2c/hdc/34889979625502/prd-front-6338554-1_600x600/prd-front-6338554-1-600x600.jpg"
+  "description": "1000 stukjes"
 }

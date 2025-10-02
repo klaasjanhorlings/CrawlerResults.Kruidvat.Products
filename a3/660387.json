@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "EMIL KIESSLING GMBH",
-  "inStock": "inStock",
-  "onPromo": "1056209",
-  "mmkId": "1056209",
-  "productGroupId": "491040",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-80-natuurlijk-blond-creme-haarkleuring/p/660387",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h77/h3d/28218193215518/prd-front-660387-1_600x600/prd-front-660387-1-600x600.jpg"
+  "description": ""
 }

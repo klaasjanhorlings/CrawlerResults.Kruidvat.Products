@@ -8,9 +8,9 @@
   "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1056415",
-  "mmkId": "1056415",
-  "productGroupId": "494883",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/clementoni-baby-round-round-animals-activiteitendraaimolen/p/5233495",
@@ -33,5 +33,6 @@
       "name": "Interactief speelgoed"
     }
   ],
-  "description": "20cm"
+  "description": "20cm",
+  "image": "/medias/sys_master/prd-images/h79/h6f/34503163019294/prd-front-5233495-1_600x600/prd-front-5233495-1-600x600.jpg"
 }

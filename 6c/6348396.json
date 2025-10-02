@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
   "supplier": "IDENTITY GAMES INT. BV",
   "inStock": "inStock",
-  "onPromo": "1056415",
-  "mmkId": "1056415",
-  "productGroupId": "494883",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/identity-games-verboden-te-lachen-spel/p/6348396",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/hc8/hbe/34995433996318/prd-front-6348396-1_600x600/prd-front-6348396-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6328 > 6674",
   "supplier": "ZENNER NIEUW VENNEP BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Nagelvijlen"
     }
   ],
-  "description": "6 stuks",
-  "image": "/medias/sys_master/prd-images/ha9/h45/32460788498462/prd-front-5964362-1_600x600/prd-front-5964362-1-600x600.jpg"
+  "description": "6 stuks"
 }
