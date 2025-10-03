@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "1056095",
-  "mmkId": "1056095",
-  "productGroupId": "459984",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-permanent-color-5-29-intens-rood-permanente-haarkleuring/p/6265698",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": "115g"
+  "description": "115g",
+  "image": "/medias/sys_master/prd-images/h26/h8a/33621685239838/prd-front-6265698-1_600x600/prd-front-6265698-1-600x600.jpg"
 }

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Douwe Egberts Senseo Cappuccino Koffiepads",
   "code": "2628263",
-  "price": "3.19",
+  "price": "2.99",
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 4354 > 4355",
   "supplier": "JACOBS DOUWE EGBERTS",
@@ -29,5 +29,6 @@
       "name": "Koffie"
     }
   ],
-  "description": "8 stuks"
+  "description": "8 stuks",
+  "image": "/medias/prd-front-2628263-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njc4NDF8aW1hZ2UvanBlZ3xhR1k0TDJoaU5pOHhOelEwTlRBeE5EUXdOVEUxTUM5d2NtUXRabkp2Ym5RdE1qWXlPREkyTXkweFh6WXdNSGcyTURBfGQ2MDgzMmY0ZjhhNGJlYjgzZmViMTBjMDNlMmI1ZjY5MDE2YmVjZjZkYzZmYWE4Njc0MTNmMGNkNzJmOTEwNWY"
 }

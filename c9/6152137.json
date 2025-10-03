@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 5690 > 5691 > 5692",
   "supplier": "BRANSUS COSM ULTIMATCH",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,12 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 30265987,
+      "name": "Make-up"
     },
     {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266576,
+      "name": "Mascara"
     }
   ],
   "description": "Alleen online",

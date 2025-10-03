@@ -25,10 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266665,
+      "name": "Intieme hygiëne"
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h67/h73/44388575969310/prd-front-818511-1_600x600/prd-front-818511-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd4/hfa/44397710475294/prd-front-818511-1_600x600/prd-front-818511-1-600x600.jpg"
 }
