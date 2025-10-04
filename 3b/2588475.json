@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Valdispert Extra Forte 450mg Omhulde Tabletten",
   "code": "2588475",
   "price": "18.99",
@@ -29,10 +29,9 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 49950221,
-      "name": "Valeriaan"
+      "id": 30266712,
+      "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "Geneesmiddel - 40 stuks",
-  "image": "/medias/sys_master/prd-images/ha9/h7f/33700609097758/prd-front-2588475-1_600x600/prd-front-2588475-1-600x600.jpg"
+  "description": "Geneesmiddel - 40 stuks"
 }

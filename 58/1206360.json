@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Microlax Oplossing Voor Rectaal Gebruik",
   "code": "1206360",
   "price": "8.29",
@@ -33,8 +33,8 @@
       "name": "Maag en darm"
     },
     {
-      "id": 30266973,
-      "name": "Laxeermiddelen"
+      "id": 30266975,
+      "name": "Stoelgang"
     }
   ],
   "description": "Geneesmiddel - 4 x 5ml",

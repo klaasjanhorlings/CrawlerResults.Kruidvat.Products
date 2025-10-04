@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Roter Cysticare Capsules",
   "code": "5917630",
   "price": "40.99",
@@ -33,6 +33,5 @@
       "name": "Blaasontsteking"
     }
   ],
-  "description": "Medisch hulpmiddel - 30 stuks",
-  "image": "/medias/sys_master/prd-images/h5e/he5/33155113549854/prd-front-5917630-1_600x600/prd-front-5917630-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 30 stuks"
 }

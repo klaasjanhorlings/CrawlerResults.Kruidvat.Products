@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Collageen Marine Pure 2500mg Tabletten",
   "code": "5846958",
   "price": "29.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49363733,
-      "name": "Collageensupplementen"
+      "id": 30266719,
+      "name": "Beautysupplementen"
     }
   ],
   "description": "",

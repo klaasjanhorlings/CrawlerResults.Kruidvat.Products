@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Villa Volance Elektrisch Verwarmde Kruik",
   "code": "6366491",
   "price": "19.99",
@@ -37,5 +37,6 @@
       "name": "Kruiken"
     }
   ],
-  "description": "taupe"
+  "description": "taupe",
+  "image": "/medias/sys_master/prd-images/hdc/h80/44133881118750/prd-front-6366491-1_600x600/prd-front-6366491-1-600x600.jpg"
 }

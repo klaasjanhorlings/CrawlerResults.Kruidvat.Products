@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dove Nourishing Secrets Glowing Bodylotion",
-  "code": "4089800",
-  "price": "7.49",
+  "itemName": "NIVEA Express Hydratation Bodylotion met Pomp",
+  "code": "2748397",
+  "price": "12.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
-  "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1056106",
+  "mmkId": "1056106",
+  "productGroupId": "471180",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dove-nourishing-secrets-glowing-bodylotion/p/4089800",
+  "url": "/nivea-express-hydratation-bodylotion-met-pomp/p/2748397",
   "listName": "Lister",
-  "brand": "Dove",
+  "brand": "Nivea",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,5 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hc9/hbd/44377766690846/prd-front-4089800-1_600x600/prd-front-4089800-1-600x600.jpg"
+  "description": "400ml - Normale tot droge huid"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Durex Tingle Glijmiddel",
   "code": "5391870",
   "price": "12.49",
@@ -37,6 +37,5 @@
       "name": "Stimulerende glijmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml",
-  "image": "/medias/prd-front-5391870-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDY0MDF8aW1hZ2UvanBlZ3xhRFkzTDJneE1DOHlOekV5TVRFek1EWXdNalV5Tmk5d2NtUXRabkp2Ym5RdE5UTTVNVGczTUMweFh6WXdNSGcyTURBfDQ2NGI0YWYwMzgzNmIzZWM4MzhmYjY2MmY3OTIyMzZjYTgwMDFjNjE2MTM2ZTkxYTk4MzIyOWE5NTAyZmEyNDM"
+  "description": "Medisch hulpmiddel - 100ml"
 }

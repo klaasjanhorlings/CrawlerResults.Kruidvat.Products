@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Ymea Overgang Silhouet Capsules",
   "code": "3939286",
   "price": "39.99",
@@ -33,5 +33,6 @@
       "name": "Overgang"
     }
   ],
-  "description": "128 stuks"
+  "description": "128 stuks",
+  "image": "/medias/sys_master/prd-images/h25/h99/44107561566238/prd-front-3939286-1_600x600/prd-front-3939286-1-600x600.jpg"
 }

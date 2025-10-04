@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "A.Vogel Atrosan Spier- en Gewrichtsgel",
   "code": "145141",
   "price": "13.29",
@@ -29,8 +29,12 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266712,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 30266708,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30266977,
+      "name": "Spier- en gewrichtsbalsems"
     }
   ],
   "description": "Geneesmiddel - 100ml",

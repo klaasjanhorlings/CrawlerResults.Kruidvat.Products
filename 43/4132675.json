@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Vitamine D3 25mcg Capsules",
   "code": "4132675",
   "price": "9.99",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266991,
-      "name": "Vitamine D"
+      "id": 30266729,
+      "name": "Botten en spieren"
     }
   ],
   "description": "120 stuks",

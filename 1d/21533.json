@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Davitamon Vitamine D Aquosum Baby en Kind",
   "code": "21533",
   "price": "9.99",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267462,
-      "name": "Kindervitamines"
+      "id": 30266729,
+      "name": "Botten en spieren"
     }
   ],
   "description": "25ml",

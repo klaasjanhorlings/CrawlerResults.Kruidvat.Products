@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "VSM Spiroflor SRL Spier- en Gewrichtsgel",
   "code": "22628",
   "price": "17.99",
@@ -29,8 +29,12 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266712,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 30266708,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30266977,
+      "name": "Spier- en gewrichtsbalsems"
     }
   ],
   "description": "Homeopathisch geneesmiddel - 150g",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Oesterkalk Calcium Vitamine D3 & K Tabletten",
   "code": "1108808",
   "price": "9.99",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266715,
-      "name": "Mineralen"
-    },
-    {
-      "id": 50001862,
-      "name": "Calcium"
+      "id": 30266729,
+      "name": "Botten en spieren"
     }
   ],
   "description": "100 stuks",

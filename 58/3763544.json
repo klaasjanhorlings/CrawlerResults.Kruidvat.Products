@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Super Kurkuma Capsules",
   "code": "3763544",
   "price": "20.59",
@@ -33,5 +33,6 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/prd-front-3763544-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTIwMDZ8aW1hZ2UvanBlZ3xhR0k0TDJobE55OHhOall3TXpBME16UXpNRFF6TUM5d2NtUXRabkp2Ym5RdE16YzJNelUwTkMweFh6WXdNSGcyTURBfGE5OTc1OTI4ZTJhNWZkZDdhNjI4YjFkZDgwYmI0YzRmNGUxZjYwOTIyOWQ5ZTg3MWMyZTI5NzhkMTQ0MTkwNDk"
 }

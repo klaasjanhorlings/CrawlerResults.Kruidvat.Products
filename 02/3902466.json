@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Davitamon Actifit 65+ Tabletten",
   "code": "3902466",
   "price": "26.49",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266729,
-      "name": "Botten en spieren"
+      "id": 30266717,
+      "name": "Weerstand en energie"
     }
   ],
   "description": "70 stuks",

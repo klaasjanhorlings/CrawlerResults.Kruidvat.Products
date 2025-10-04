@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "A.Vogel Boldocynara Tabletten",
   "code": "958889",
   "price": "15.49",
@@ -33,6 +33,5 @@
       "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "Geneesmiddel - 80 stuks",
-  "image": "/medias/sys_master/prd-images/h8c/h3b/33575973257246/prd-front-958889-1_600x600/prd-front-958889-1-600x600.jpg"
+  "description": "Geneesmiddel - 80 stuks"
 }

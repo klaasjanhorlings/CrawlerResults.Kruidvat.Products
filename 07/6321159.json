@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat +2.5 Zonneleesbril",
   "code": "6321159",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Leesbrillen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hea/hf5/34312758493214/prd-front-6321159-1_600x600/prd-front-6321159-1-600x600.jpg"
 }

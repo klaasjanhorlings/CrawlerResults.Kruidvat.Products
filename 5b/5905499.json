@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "WELEDA BENELUX SE",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056222",
+  "mmkId": "1056222",
+  "productGroupId": "492152",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/weleda-mama-zwangerschap-body-butter/p/5905499",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266023,
-      "name": "Zwangerschap en kraamtijd"
+      "id": 30265995,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30266805,
-      "name": "Mama verzorgingsproducten"
+      "id": 30266638,
+      "name": "Bodybutter"
     }
   ],
   "description": "150ml",

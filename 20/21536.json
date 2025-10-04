@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Valdispert 45mg Valeriaanextract Dragees",
   "code": "21536",
   "price": "13.99",
@@ -33,5 +33,6 @@
       "name": "Valeriaan"
     }
   ],
-  "description": "Geneesmiddel - 100 stuks"
+  "description": "Geneesmiddel - 100 stuks",
+  "image": "/medias/sys_master/prd-images/h19/h92/34640092135454/prd-front-21536-1_600x600/prd-front-21536-1-600x600.jpg"
 }

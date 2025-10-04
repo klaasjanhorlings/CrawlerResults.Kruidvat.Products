@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bepanthen 4-in-1 Wondgel",
   "code": "5133787",
   "price": "10.89",
@@ -25,12 +25,16 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266008,
-      "name": "Wondverzorging"
+      "id": 30266006,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30266735,
-      "name": "EHBO-doos"
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235337,
+      "name": "Eerste hulp zalf"
     }
   ],
   "description": "Medisch hulpmiddel - 50g",

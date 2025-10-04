@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Natural Glijmiddel",
   "code": "5440646",
   "price": "4.99",
@@ -37,5 +37,6 @@
       "name": "Waterbasis glijmiddelen"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/ha8/hd3/27572434763806/prd-front-5440646-1_600x600/prd-front-5440646-1-600x600.jpg"
 }

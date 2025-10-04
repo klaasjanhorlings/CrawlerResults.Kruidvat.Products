@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Panadol Plus 500mg/65mg Paracetamol en Coffëine Gladde Tabletten",
   "code": "16113",
   "price": "4.09",
@@ -37,5 +37,6 @@
       "name": "Paracetamol"
     }
   ],
-  "description": "Geneesmiddel - 24 stuks"
+  "description": "Geneesmiddel - 24 stuks",
+  "image": "/medias/sys_master/prd-images/hec/h26/28084702117918/prd-front-16113-1_600x600/prd-front-16113-1-600x600.jpg"
 }

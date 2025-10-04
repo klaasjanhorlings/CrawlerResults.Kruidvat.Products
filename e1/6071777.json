@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Magnesium Mama & Baby Multi Capsules",
   "code": "6071777",
   "price": "16.99",
@@ -29,12 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266715,
-      "name": "Mineralen"
+      "id": 30266726,
+      "name": "Vitamines"
     },
     {
-      "id": 50001842,
-      "name": "Magnesium"
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
   "description": "30 stuks",

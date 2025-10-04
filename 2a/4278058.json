@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "A.Vogel Droge Huid Oorspray",
   "code": "4278058",
   "price": "12.99",
@@ -37,5 +37,6 @@
       "name": "Oorspray"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h74/h7b/34521318686750/prd-front-4278058-1_600x600/prd-front-4278058-1-600x600.jpg"
 }

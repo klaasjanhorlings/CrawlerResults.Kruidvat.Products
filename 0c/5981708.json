@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Natures Calendula Eerste Hulp Zalf",
   "code": "5981708",
   "price": "4.99",
@@ -29,12 +29,8 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 51214305,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 51235340,
-      "name": "Droge en gevoelige huid"
+      "id": 30266712,
+      "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
   "description": "100ml",

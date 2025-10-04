@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal L-Theanine Omega 3 Capsules",
   "code": "4428922",
   "price": "34.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49792812,
-      "name": "Omega 3"
+      "id": 30266721,
+      "name": "Overige supplementen"
     }
   ],
   "description": "90 stuks",

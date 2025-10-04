@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Diclofenac Kalium 12,5mg Filmomhulde Tabletten",
   "code": "2356460",
   "price": "4.69",
@@ -33,8 +33,8 @@
       "name": "Pijn"
     },
     {
-      "id": 30266970,
-      "name": "Pijnstiller"
+      "id": 30266971,
+      "name": "Diclofenac"
     }
   ],
   "description": "Geneesmiddel - 20 stuks",

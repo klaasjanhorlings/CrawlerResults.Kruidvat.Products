@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2038 > 2157 > 2386 > 2828 > 3570",
   "supplier": "LEMOINE HOLLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1056227",
-  "mmkId": "1056227",
-  "productGroupId": "492952",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-100-cotton-wattenstaafjes/p/1112378",
@@ -33,5 +33,6 @@
       "name": "Wattenschijfjes en staafjes"
     }
   ],
-  "description": "200 stuks"
+  "description": "200 stuks",
+  "image": "/medias/prd-front-1112378-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODczMDB8aW1hZ2UvanBlZ3xhREUxTDJnM01pOHhOelF5TXpBek1UWTJORFkzTUM5d2NtUXRabkp2Ym5RdE1URXhNak0zT0MweFh6WXdNSGcyTURBfDMzZmU5ZWI4NTEyYjcxYzRjMmYxMjRmNGRlYTY5OWJmOGQ4MWVjOTUzNjRiNmJkNzU2NTRiZDRiNDM2OGE0NWE"
 }

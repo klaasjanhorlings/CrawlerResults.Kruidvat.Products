@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 5690 > 5691 > 5692",
   "supplier": "BRANSUS COSM ULTIMATCH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "Alleen online",
-  "image": "/medias/sys_master/prd-images/hea/h0b/31690963058718/prd-front-6152137-1_600x600/prd-front-6152137-1-600x600.jpg"
+  "description": "Alleen online"
 }

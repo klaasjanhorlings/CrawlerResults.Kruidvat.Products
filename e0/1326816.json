@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Prevalin Allerstop 10mg Tabletten",
   "code": "1326816",
   "price": "14.69",
@@ -37,5 +37,6 @@
       "name": "Hooikoortstabletten"
     }
   ],
-  "description": "Geneesmiddel - 21 stuks"
+  "description": "Geneesmiddel - 21 stuks",
+  "image": "/medias/sys_master/prd-images/h7c/h27/27550415945758/prd-front-1326816-1_600x600/prd-front-1326816-1-600x600.jpg"
 }

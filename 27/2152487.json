@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Baby en Kind Na De Beet Crème",
   "code": "2152487",
   "price": "2.79",
@@ -37,5 +37,6 @@
       "name": "Na de beet"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/hb2/h57/34598952304670/prd-front-2152487-1_600x600/prd-front-2152487-1-600x600.jpg"
 }

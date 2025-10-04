@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Magnesium Nacht Tabletten",
   "code": "6160488",
   "price": "9.99",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h81/ha1/31696315449374/prd-front-6160488-1_600x600/prd-front-6160488-1-600x600.jpg"
 }

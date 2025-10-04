@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Hansaplast Expert+ Second Skin Protection XL Pleisters",
   "code": "6197672",
   "price": "6.49",
@@ -33,8 +33,8 @@
       "name": "Pleisters"
     },
     {
-      "id": 73414243,
-      "name": "Waterbestendige pleisters"
+      "id": 73414208,
+      "name": "XL pleisters"
     }
   ],
   "description": "Medisch hulpmiddel - 3 stuks",

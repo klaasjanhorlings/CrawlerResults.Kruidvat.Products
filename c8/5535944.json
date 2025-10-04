@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Calcium met Vitamine D & K Tabletten",
   "code": "5535944",
   "price": "3.49",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266729,
-      "name": "Botten en spieren"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266991,
+      "name": "Vitamine D"
     }
   ],
   "description": "90 stuks",
