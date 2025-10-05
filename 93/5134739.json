@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Durex Thin Feel Extra Thin Condooms",
   "code": "5134739",
   "price": "15.49",
@@ -33,6 +33,5 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks",
-  "image": "/medias/prd-front-5134739-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODUwNzd8aW1hZ2UvanBlZ3xhREpsTDJobU9DOHlOams1TnpVd05qYzJPRGt5Tmk5d2NtUXRabkp2Ym5RdE5URXpORGN6T1MweFh6WXdNSGcyTURBfDM2ZjZmZDkyNzVhNjYzYjg2NDBiMGFkMDc3NDc5ZDk0ODk1NTkwYTljNDkxZTJiYjkxMmFiZTA0MjkzZTJiMzI"
+  "description": "Medisch hulpmiddel - 10 stuks"
 }

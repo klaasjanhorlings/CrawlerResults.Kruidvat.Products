@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Pre & Pro Biotica Capsules",
   "code": "4749403",
   "price": "21.29",
@@ -33,5 +33,6 @@
       "name": "Bacteriestammen"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/prd-front-4749403-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTE4NjZ8aW1hZ2UvanBlZ3xhRGMwTDJnME1TOHhOalUzTWprMk9UQTFPRE16TkM5d2NtUXRabkp2Ym5RdE5EYzBPVFF3TXkweFh6WXdNSGcyTURBfDQ5YThhOTAwYzc0NGY0ZGUzNGFhYzY1ZjVlMDM2YzNkOTM4MTMwMGY0ZmFmMjM3ZmU3NjkxNWYwYjIzN2IzYjY"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Wratten Bevriezing",
   "code": "6059065",
   "price": "12.99",
@@ -37,6 +37,5 @@
       "name": "Wrattenbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 50ml, 12 behandelingen",
-  "image": "/medias/sys_master/prd-images/h38/ha0/30424305500190/prd-front-6059065-2_600x600/prd-front-6059065-2-600x600.jpg"
+  "description": "Medisch hulpmiddel - 50ml, 12 behandelingen"
 }

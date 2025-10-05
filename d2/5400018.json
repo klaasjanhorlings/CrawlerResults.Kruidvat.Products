@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon Ijzer met Vitamine C en B12 Tabletten",
   "code": "5400018",
   "price": "11.49",
@@ -33,5 +33,6 @@
       "name": "Mineralen"
     }
   ],
-  "description": "33 stuks"
+  "description": "33 stuks",
+  "image": "/medias/sys_master/prd-images/hb1/h65/31461722292254/prd-front-5400018-1_600x600/prd-front-5400018-1-600x600.jpg"
 }

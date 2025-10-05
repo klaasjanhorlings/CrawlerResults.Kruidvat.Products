@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Valdispert Slaap & Fris Wakker Triple Layer Tabletten",
   "code": "6162875",
   "price": "19.99",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/h25/h09/33705203859486/prd-front-6162875-1_600x600/prd-front-6162875-1-600x600.jpg"
+  "description": "24 stuks"
 }

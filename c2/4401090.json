@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 5% CBD Druppels",
   "code": "4401090",
   "price": "18.99",
@@ -33,6 +33,5 @@
       "name": "CBD"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h64/hd5/28049863049246/prd-front-4401090-1_600x600/prd-front-4401090-1-600x600.jpg"
+  "description": "10ml"
 }

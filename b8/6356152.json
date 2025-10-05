@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bausch + Lomb EasySept Peroxide Lenzenvloeistof",
   "code": "6356152",
   "price": "33.95",
@@ -33,6 +33,5 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "3 x 360ml",
-  "image": "/medias/sys_master/prd-images/h21/hea/44130672377886/prd-front-6356152-1_600x600/prd-front-6356152-1-600x600.jpg"
+  "description": "3 x 360ml"
 }

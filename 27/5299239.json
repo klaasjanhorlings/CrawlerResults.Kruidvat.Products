@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Durex Sensitive Glijmiddel",
   "code": "5299239",
   "price": "24.99",
@@ -37,6 +37,5 @@
       "name": "Waterbasis glijmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 250ml",
-  "image": "/medias/sys_master/prd-images/hbb/ha8/31060985151518/prd-front-5299239-1_600x600/prd-front-5299239-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 250ml"
 }

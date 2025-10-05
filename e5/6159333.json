@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Breathe Right Gevoelige Huid Neusstrips",
   "code": "6159333",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Snurken"
     }
   ],
-  "description": "Medisch hulpmiddel - mt S-M, 30 stuks"
+  "description": "Medisch hulpmiddel - mt S-M, 30 stuks",
+  "image": "/medias/sys_master/prd-images/hdf/h92/34695552827422/prd-front-6159333-1_600x600/prd-front-6159333-1-600x600.jpg"
 }
