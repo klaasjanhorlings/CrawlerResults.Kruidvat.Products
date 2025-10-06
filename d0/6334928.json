@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Halloween Vleermuis Verkleedset",
+  "code": "6334928",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 2441 > 2936 > 3731 > 5921 > 6040",
+  "supplier": "LITTLE CONCEPTS NETTO",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/halloween-vleermuis-verkleedset/p/6334928",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266037,
+      "name": "Verkleedkleding & accessoires"
+    }
+  ],
+  "description": "zwart, paars, 4-8 jaar"
+}

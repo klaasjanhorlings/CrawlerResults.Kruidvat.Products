@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056466",
+  "mmkId": "1056466",
+  "productGroupId": "457122",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/antikal-original-kalkreiniger-spray/p/4679634",
@@ -33,6 +33,5 @@
       "name": "Ontkalkmiddel"
     }
   ],
-  "description": "800ml",
-  "image": "/medias/sys_master/prd-images/he2/h71/34100385611806/prd-front-4679634-1_600x600/prd-front-4679634-1-600x600.jpg"
+  "description": "800ml"
 }

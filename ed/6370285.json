@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Harlekijn Zachte Fruitdrop",
+  "code": "6370285",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 3147 > 4015",
+  "supplier": "HARLEKIJNTJES BV",
+  "inStock": "inStock",
+  "onPromo": "1056569",
+  "mmkId": "1056569",
+  "productGroupId": "499564",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/harlekijn-zachte-fruitdrop/p/6370285",
+  "listName": "Lister",
+  "brand": "Harlekijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267026,
+      "name": "Snoep"
+    }
+  ],
+  "description": "1kg",
+  "image": "/medias/sys_master/prd-images/hc7/h1b/44029404512286/prd-front-6370285-1_600x600/prd-front-6370285-1-600x600.jpg"
+}

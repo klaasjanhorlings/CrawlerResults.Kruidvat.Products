@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2932 > 3727",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1056219",
-  "mmkId": "1056219",
-  "productGroupId": "491995",
+  "onPromo": "1056466",
+  "mmkId": "1056466",
+  "productGroupId": "457122",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-fusion-hydra-scheergel-voor-de-gevoelige-huid/p/1056728",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h51/hf6/27782892027934/prd-front-1056728-1_600x600/prd-front-1056728-1-600x600.jpg"
 }

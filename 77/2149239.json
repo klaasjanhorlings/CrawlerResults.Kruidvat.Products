@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "CODI INTERNATIONAL BV",
-  "inStock": "inStock",
-  "onPromo": "1056271",
-  "mmkId": "1056271",
-  "productGroupId": "495207",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-lotiondoekjes/p/2149239",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "12 x 80 stuks"
+  "description": "12 x 80 stuks",
+  "image": "/medias/sys_master/prd-images/hd6/hb4/28118611623966/prd-front-2149239-1_600x600/prd-front-2149239-1-600x600.jpg"
 }

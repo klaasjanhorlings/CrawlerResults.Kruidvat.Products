@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Harlekijn Zachte Honing Drop",
+  "code": "6315482",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 3005 > 3831",
+  "supplier": "HARLEKIJNTJES BV",
+  "inStock": "inStock",
+  "onPromo": "1056569",
+  "mmkId": "1056569",
+  "productGroupId": "499564",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/harlekijn-zachte-honing-drop/p/6315482",
+  "listName": "Lister",
+  "brand": "Harlekijn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267026,
+      "name": "Snoep"
+    }
+  ],
+  "description": "1kg",
+  "image": "/medias/sys_master/prd-images/he2/h52/34768994074654/prd-front-6315482-1_600x600/prd-front-6315482-1-600x600.jpg"
+}

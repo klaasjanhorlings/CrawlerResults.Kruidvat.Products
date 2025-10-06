@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dreft Platinum All-in-One Vaatwascapsules",
+  "code": "6125712",
+  "price": "8.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2009 > 4357 > 4358 > 4360 > 4359 > 4361",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1056466",
+  "mmkId": "1056466",
+  "productGroupId": "457122",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dreft-platinum-all-in-one-vaatwascapsules/p/6125712",
+  "listName": "Lister",
+  "brand": "Dreft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266063,
+      "name": "Vaatwas"
+    },
+    {
+      "id": 30266882,
+      "name": "Vaatwastabletten"
+    }
+  ],
+  "description": "15 stuks",
+  "image": "/medias/sys_master/prd-images/h79/hf6/31218856034334/prd-front-6125712-1_600x600/prd-front-6125712-1-600x600.jpg"
+}

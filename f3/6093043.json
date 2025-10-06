@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3345 > 4249",
   "supplier": "HEGRON COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1056227",
-  "mmkId": "1056227",
-  "productGroupId": "492952",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-smooth-styling-wax/p/6093043",
@@ -33,5 +33,6 @@
       "name": "Haarwax"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h8d/hbb/34503188119582/prd-front-6093043-1_600x600/prd-front-6093043-1-600x600.jpg"
 }

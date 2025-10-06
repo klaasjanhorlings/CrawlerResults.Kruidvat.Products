@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5678 > 5679",
   "supplier": "NESTLE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1056127",
-  "mmkId": "1056127",
-  "productGroupId": "476684",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nestle-yogolino-12m-vanille-babytoetje/p/2559376",
@@ -33,5 +33,6 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "4 x 100ml"
+  "description": "4 x 100ml",
+  "image": "/medias/sys_master/prd-images/h0b/h77/44413134438430/prd-front-2559376-1_600x600/prd-front-2559376-1-600x600.jpg"
 }

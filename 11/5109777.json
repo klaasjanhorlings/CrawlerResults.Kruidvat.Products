@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1056144",
-  "mmkId": "1056144",
-  "productGroupId": "480300",
+  "onPromo": "1056610",
+  "mmkId": "1056610",
+  "productGroupId": "502021",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-full-resist-power-shampoo/p/5109777",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h32/h6b/33046613557278/prd-front-5109777-1_600x600/prd-front-5109777-1-600x600.jpg"
 }

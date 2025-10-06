@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1056220",
-  "mmkId": "1056220",
-  "productGroupId": "492036",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-8m-doperwten-kalkoen-aardappel/p/3820762",
@@ -37,5 +37,6 @@
       "name": "8+ maanden"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/hcf/h76/30686378524702/prd-front-3820762-1_600x600/prd-front-3820762-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "TOBY'S BV",
   "inStock": "inStock",
-  "onPromo": "1056117",
-  "mmkId": "1056117",
-  "productGroupId": "475277",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-deep-cleansing-charcoal-neusstrips/p/6290975",
@@ -37,6 +37,5 @@
       "name": "Reinigingsstrips"
     }
   ],
-  "description": "8 stuks",
-  "image": "/medias/sys_master/prd-images/h67/h57/34394985922590/prd-front-6290975-1_600x600/prd-front-6290975-1-600x600.jpg"
+  "description": "8 stuks"
 }

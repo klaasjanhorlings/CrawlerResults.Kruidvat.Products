@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Ledkaars in Keramieke Pot",
+  "code": "6321432",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 5926 > 5980 > 5997 > 6679 > 6732",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-ledkaars-in-keramieke-pot/p/6321432",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266895,
+      "name": "Kaarsen"
+    },
+    {
+      "id": 84925918,
+      "name": "Stomp en tafelkaarsen"
+    }
+  ],
+  "description": "bruin, 9cm x 9cm"
+}

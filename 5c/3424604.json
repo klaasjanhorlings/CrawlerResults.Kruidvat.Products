@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6228 > 6597",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1056171",
-  "mmkId": "1056171",
-  "productGroupId": "482737",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/roter-cysticare-tabletten/p/3424604",
@@ -33,5 +33,6 @@
       "name": "Blaasontsteking"
     }
   ],
-  "description": "Medisch hulpmiddel - 15 stuks"
+  "description": "Medisch hulpmiddel - 15 stuks",
+  "image": "/medias/sys_master/prd-images/h78/h86/33152907477022/prd-front-3424604-1_600x600/prd-front-3424604-1-600x600.jpg"
 }

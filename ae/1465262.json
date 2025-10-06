@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056476",
+  "mmkId": "1056476",
+  "productGroupId": "473412",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/resdan-antiroos-forte-behandelshampoo/p/1465262",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "125ml",
-  "image": "/medias/sys_master/prd-images/h8d/hd4/28506957676574/prd-front-1465262-1_600x600/prd-front-1465262-1-600x600.jpg"
+  "description": "125ml"
 }

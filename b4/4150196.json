@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
-  "onPromo": "1056124",
-  "mmkId": "1056124",
-  "productGroupId": "475658",
+  "onPromo": "1056381",
+  "mmkId": "1056381",
+  "productGroupId": "492693",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dr-beckmann-ossengalzeep/p/4150196",
@@ -29,5 +29,6 @@
       "name": "Vlekverwijderaars"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/h73/ha0/34352918003742/prd-front-4150196-1_600x600/prd-front-4150196-1-600x600.jpg"
 }

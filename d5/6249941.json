@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1056125",
-  "mmkId": "1056125",
-  "productGroupId": "476283",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-wondhelende-zalf/p/6249941",
@@ -33,5 +33,6 @@
       "name": "Wondzalven"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hc5/h03/33713514348574/prd-front-6249941-1_600x600/prd-front-6249941-1-600x600.jpg"
 }

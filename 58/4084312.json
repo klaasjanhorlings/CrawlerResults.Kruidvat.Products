@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "RIDAM CARE BV",
   "inStock": "inStock",
-  "onPromo": "1053262",
-  "mmkId": "1053262",
-  "productGroupId": "497097",
+  "onPromo": "1056483",
+  "mmkId": "1056483",
+  "productGroupId": "476759",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-opticare-sensitive-zachte-lenzen-all-in-one-lenzenvloeistof/p/4084312",
@@ -33,5 +33,6 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml"
+  "description": "Medisch hulpmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/h0d/hc5/27811875815454/prd-front-4084312-2_600x600/prd-front-4084312-2-600x600.jpg"
 }

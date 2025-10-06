@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1056146",
-  "mmkId": "1056146",
-  "productGroupId": "480341",
+  "onPromo": "1056502",
+  "mmkId": "1056502",
+  "productGroupId": "489572",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-black-antitranspirant-spray/p/3287103",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/he3/h61/33761890762782/prd-front-3287103-1_600x600/prd-front-3287103-1-600x600.jpg"
 }

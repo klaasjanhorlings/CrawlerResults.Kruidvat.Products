@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "SANATURE BV",
-  "inStock": "inStock",
-  "onPromo": "1056285",
-  "mmkId": "1056285",
-  "productGroupId": "498082",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/sanature-pro-vivo-100-katoenen-normaal-incontinentieverband/p/5829108",
@@ -37,5 +37,6 @@
       "name": "Incontinentieverband"
     }
   ],
-  "description": "Medisch hulpmiddel - 12 stuks"
+  "description": "Medisch hulpmiddel - 12 stuks",
+  "image": "/medias/sys_master/prd-images/h1b/h2a/27223791599646/prd-front-5829108-1_600x600/prd-front-5829108-1-600x600.jpg"
 }

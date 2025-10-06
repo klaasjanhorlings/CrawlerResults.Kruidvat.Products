@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 6441 > 6672 > 6673",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1056072",
-  "mmkId": "1056072",
-  "productGroupId": "491992",
+  "onPromo": "1056450",
+  "mmkId": "1056450",
+  "productGroupId": "503460",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/braun-series-3-bg3530-bodygroomer/p/6261589",
@@ -33,5 +33,6 @@
       "name": "Multigroomers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h16/ha0/33345717272606/prd-front-6261589-1_600x600/prd-front-6261589-1-600x600.jpg"
 }

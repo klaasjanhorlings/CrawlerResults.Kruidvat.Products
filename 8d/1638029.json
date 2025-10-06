@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "inStock",
-  "onPromo": "1056274",
-  "mmkId": "1056274",
-  "productGroupId": "495580",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-lipfinity-lip-colour-350-essential-brown-2-step-longlasting-lipstick/p/1638029",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-1638029-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTA0NjV8aW1hZ2UvanBlZ3xhRGxpTDJnd055OHhOekl3TURnNU1qa3pOakl5TWk5d2NtUXRabkp2Ym5RdE1UWXpPREF5T1MweFh6WXdNSGcyTURBfGNlYjg1YmE3MjFkNDFmYmEzYzRhYzM5ZmQzNjkxMWFhM2ZjMjViMzVmMmJiNzc0NmJjZTU1ZGJjODI0MzljYmU"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2399 > 5075 > 5886 > 6440",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "1056246",
-  "mmkId": "1056246",
-  "productGroupId": "493485",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-5000-series-brr484/00-facial-hair-remover/p/6261820",
@@ -33,5 +33,6 @@
       "name": "Elektrische scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6f/hcb/33671739998238/prd-front-6261820-1_600x600/prd-front-6261820-1-600x600.jpg"
 }

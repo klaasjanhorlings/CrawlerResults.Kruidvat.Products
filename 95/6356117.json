@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1056199",
-  "mmkId": "1056199",
-  "productGroupId": "489186",
+  "onPromo": "1056495",
+  "mmkId": "1056495",
+  "productGroupId": "489189",
   "brandType": "A or B brand",
   "discount": "",
   "url": "/kneipp-soft-skin-amandelbloesem-douchegel/p/6356117",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/ha4/h12/35129611452446/prd-front-6356117-1_600x600/prd-front-6356117-1-600x600.jpg"
 }

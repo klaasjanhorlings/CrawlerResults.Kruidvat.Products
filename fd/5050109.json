@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1056255",
-  "mmkId": "1056255",
-  "productGroupId": "493576",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 57,00",
   "url": "/oral-b-cross-action-opzetborstels/p/5050109",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "16 stuks"
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/h19/h6f/31458789851166/prd-front-5050109-1_600x600/prd-front-5050109-1-600x600.jpg"
 }

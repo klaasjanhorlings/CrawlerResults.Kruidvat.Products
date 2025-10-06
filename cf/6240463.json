@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1056095",
-  "mmkId": "1056095",
-  "productGroupId": "459984",
+  "onPromo": "1056513",
+  "mmkId": "1056513",
+  "productGroupId": "491989",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-intense-fullness-deep-conditioner/p/6240463",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hfc/h7d/44328612724766/prd-front-6240463-1_600x600/prd-front-6240463-1-600x600.jpg"
 }

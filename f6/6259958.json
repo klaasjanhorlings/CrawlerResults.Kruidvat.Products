@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2261 > 2607 > 6385 > 6386 > 6397",
   "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
-  "inStock": "inStock",
-  "onPromo": "1056281",
-  "mmkId": "1056281",
-  "productGroupId": "496468",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cookies-high-protein-bar/p/6259958",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50g",
-  "image": "/medias/sys_master/prd-images/hd4/h04/44406632382494/prd-front-6259958-1_600x600/prd-front-6259958-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h73/h97/44413965500446/prd-front-6259958-1_600x600/prd-front-6259958-1-600x600.jpg"
 }

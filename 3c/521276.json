@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "TOBY'S BV",
   "inStock": "inStock",
-  "onPromo": "1056227",
-  "mmkId": "1056227",
-  "productGroupId": "492952",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-extra-fijn-3mm-interdentale-borsteltjes/p/521276",
@@ -33,5 +33,6 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/h42/h6e/28790415589406/prd-front-521276-1_600x600/prd-front-521276-1-600x600.jpg"
 }

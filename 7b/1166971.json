@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "RIDAM CARE BV",
   "inStock": "inStock",
-  "onPromo": "1056227",
-  "mmkId": "1056227",
-  "productGroupId": "492952",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-ultra-fijn-1-3mm-interdentale-borsteltjes-met-handvat/p/1166971",
@@ -33,6 +33,5 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "6 stuks",
-  "image": "/medias/sys_master/prd-images/h0a/hfa/28788568457246/prd-front-1166971-1_600x600/prd-front-1166971-1-600x600.jpg"
+  "description": "6 stuks"
 }

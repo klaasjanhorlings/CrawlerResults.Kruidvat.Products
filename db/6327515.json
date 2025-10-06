@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "TMC Draadloze Luchtcompressor",
+  "code": "6327515",
+  "price": "19.99",
+  "priceOriginal": "29.99",
+  "itemBgbcat": "2195 > 4910 > 4956 > 5860 > 5926 > 6727",
+  "supplier": "THE MERCHANDISE CLUB BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/tmc-draadloze-luchtcompressor/p/6327515",
+  "listName": "Lister",
+  "brand": "TMC",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266061,
+      "name": "Verrassend elektronica"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9a/hb2/34639322611742/prd-front-6327515-1_600x600/prd-front-6327515-1-600x600.jpg"
+}

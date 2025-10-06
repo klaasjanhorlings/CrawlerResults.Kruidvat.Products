@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3755",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "1056196",
-  "mmkId": "1056196",
-  "productGroupId": "488386",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tampax-compak-cotton-protection-super-tampons/p/6301664",
@@ -33,5 +33,6 @@
       "name": "Tampons"
     }
   ],
-  "description": "14 stuks"
+  "description": "14 stuks",
+  "image": "/medias/sys_master/prd-images/h93/h5c/35064191156254/prd-front-6301664-1_600x600/prd-front-6301664-1-600x600.jpg"
 }

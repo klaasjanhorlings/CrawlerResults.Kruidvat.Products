@@ -8,9 +8,9 @@
   "itemBgbcat": "2153 > 5929 > 6014 > 2503 > 3113 > 3979",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056586",
+  "mmkId": "1056586",
+  "productGroupId": "500076",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-128-gb-usb-stick/p/6149841",
@@ -29,6 +29,5 @@
       "name": "Geheugen- en opslagapparatuur"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hbc/h26/33410547810334/prd-front-6149841-1_600x600/prd-front-6149841-1-600x600.jpg"
+  "description": ""
 }

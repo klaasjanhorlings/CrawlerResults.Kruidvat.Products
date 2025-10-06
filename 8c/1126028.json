@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "1056104",
-  "mmkId": "1056104",
-  "productGroupId": "469022",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/difrax-natural-6m-large-flessenspenen/p/1126028",
@@ -33,5 +33,6 @@
       "name": "Flessenspenen"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h99/hc9/44154363674654/prd-front-1126028-1_600x600/prd-front-1126028-1-600x600.jpg"
 }
