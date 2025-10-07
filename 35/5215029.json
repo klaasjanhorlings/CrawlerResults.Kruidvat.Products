@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2892 > 3667",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-extra-large-maat-6-luierbroekjes-volumedoos/p/5215029",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 6 (16-26 kg). 168 stuks",
-  "image": "/medias/prd-front-5215029-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODAyNTd8aW1hZ2UvanBlZ3xhREJpTDJoak5DOHhOelF4T1RnNE5qWTVNRE16TkM5d2NtUXRabkp2Ym5RdE5USXhOVEF5T1MweFh6WXdNSGcyTURBfDhjMTlhMmVmYWQ2YWZlMWJiMTk4MjRkZDBhNmZhMTc3YjdlYzk3NTg2YzM1Mjk5ZWE3MTQzNDMzYTI1ZDc3OTM"
+  "image": "/medias/sys_master/prd-images/he1/h79/44423904591902/prd-front-5215029-1_600x600/prd-front-5215029-1-600x600.jpg"
 }

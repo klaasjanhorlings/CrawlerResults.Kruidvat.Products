@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 6021 > 2207 > 2621 > 3164 > 6629",
   "supplier": "PANTYTEX SPA",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Panty's"
     }
   ],
-  "description": "zwart, mt 35-38, 2 paar"
+  "description": "zwart, mt 35-38, 2 paar",
+  "image": "/medias/sys_master/prd-images/h86/h02/29215045255198/prd-front-5910147-1_600x600/prd-front-5910147-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Xelly Beauty Almond Truffle Bronzer",
+  "code": "6336685",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
+  "supplier": "BRANSUS COSM ULTIMATCH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/xelly-beauty-almond-truffle-bronzer/p/6336685",
+  "listName": "Lister",
+  "brand": "XELLY BEAUTY",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266588,
+      "name": "Bronzer"
+    }
+  ],
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/h06/h82/35008291471390/prd-front-6336685-1_600x600/prd-front-6336685-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Bronzer"
     }
   ],
-  "description": "10g",
-  "image": "/medias/prd-front-5235644-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzIxMTh8aW1hZ2UvanBlZ3xhRFl5TDJoalppOHhOamd6TkRZeE56WTNNVGN4TUM5d2NtUXRabkp2Ym5RdE5USXpOVFkwTkMweFh6WXdNSGcyTURBfDJiN2E5NzdjODZiZTA5MWY0ZDg3MTdiNWVmODk0ZDRjMzAzNDU2ZjhiNGM1OTcyYjQ1MWJkYWQ0N2JkMmE2ZjE"
+  "description": "10g"
 }

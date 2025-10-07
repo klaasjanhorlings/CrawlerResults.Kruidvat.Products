@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
-  "onPromo": "1056392",
-  "mmkId": "1056392",
-  "productGroupId": "503525",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pants-maat-3-luierbroekjes-midpack/p/5539024",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "25 stuks",
-  "image": "/medias/sys_master/prd-images/hb4/h07/44277572108318/prd-front-5539024-1_600x600/prd-front-5539024-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h70/h1a/44424636071966/prd-front-5539024-1_600x600/prd-front-5539024-1-600x600.jpg"
 }
