@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "GUHL IKEBANA COSMETICS",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056562",
+  "mmkId": "1056562",
+  "productGroupId": "499037",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-blond-glans-verzorging-shampoo/p/3643277",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h9e/h6d/34827799068702/prd-front-3643277-1_600x600/prd-front-3643277-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2f/h7b/44437118615582/prd-front-3643277-1_600x600/prd-front-3643277-1-600x600.jpg"
 }

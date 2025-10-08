@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536085,
-      "name": "Elektronica"
+      "id": 30266078,
+      "name": "Wonen"
     },
     {
-      "id": 30266057,
-      "name": "Smarthome"
+      "id": 30266050,
+      "name": "Buiten en vrije tijd"
     },
     {
-      "id": 30266879,
-      "name": "Camera’s"
+      "id": 30266876,
+      "name": "Reisartikelen"
+    },
+    {
+      "id": 84925931,
+      "name": "Reisaccessoires"
     }
   ],
   "description": "zwart, zilverkleur",

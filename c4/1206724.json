@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dagravit-kids-multivitaminen-kauwtabletten/p/1206724",
@@ -33,10 +33,10 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267462,
-      "name": "Kindervitamines"
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h69/haa/44419735879710/prd-front-1206724-1_600x600/prd-front-1206724-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf4/h25/44427084333086/prd-front-1206724-1_600x600/prd-front-1206724-1-600x600.jpg"
 }

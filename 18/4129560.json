@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3699 > 6334",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Haarpasta"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h30/ha4/44324116168734/prd-front-4129560-1_600x600/prd-front-4129560-1-600x600.jpg"
 }

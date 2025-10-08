@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
   "supplier": "SELECTA SPEL EN HOBBY",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,13 +25,14 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266027,
-      "name": "Spellen"
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
     },
     {
-      "id": 30266835,
-      "name": "Bordspellen"
+      "id": 49281541,
+      "name": "Interactief speelgoed"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h55/he3/34497905491998/prd-front-6322881-1_600x600/prd-front-6322881-1-600x600.jpg"
 }

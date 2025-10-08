@@ -8,8 +8,8 @@
   "itemBgbcat": "2048 > 2265 > 2624 > 3302 > 4201 > 4869",
   "supplier": "J-CLUB E-COMM",
   "inStock": "inStock",
-  "onPromo": "1025309",
-  "mmkId": "1025309",
+  "onPromo": "1057203",
+  "mmkId": "1057203",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Zonnebrillen"
     }
   ],
-  "description": "bruin"
+  "description": "bruin",
+  "image": "/medias/sys_master/prd-images/h65/h9b/34353907662878/prd-front-6313802-1_600x600/prd-front-6313802-1-600x600.jpg"
 }

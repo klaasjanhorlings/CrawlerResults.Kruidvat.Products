@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Maxi Maat 4 Luierbroekjes Volumedoos",
+  "itemName": "Kruidvat Pants Maxi Maat 4 Luierbroekjes Volumedoos",
   "code": "5215043",
   "price": "47.97",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-maxi-maat-4-luierbroekjes-volumedoos/p/5215043",
+  "url": "/kruidvat-pants-maxi-maat-4-luierbroekjes-volumedoos/p/5215043",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Luierbroekjes maat 4"
     }
   ],
-  "description": "mt 4 (8-15 kg), 192 stuks",
+  "description": "mt 4 (9-14 kg), 192 stuks",
   "image": "/medias/sys_master/prd-images/h49/h68/44228069556254/prd-front-5215043-1_600x600/prd-front-5215043-1-600x600.jpg"
 }

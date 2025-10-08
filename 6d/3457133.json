@@ -5,12 +5,12 @@
   "code": "3457133",
   "price": "6.49",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "EMIL KIESSLING GMBH",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056566",
+  "mmkId": "1056566",
+  "productGroupId": "499437",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-naturals-1016-asblond-creme-haarkleuring/p/3457133",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h36/h4b/28223431704606/prd-front-3457133-1_600x600/prd-front-3457133-1-600x600.jpg"
+  "description": ""
 }

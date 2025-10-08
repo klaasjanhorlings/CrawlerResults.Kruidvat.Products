@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Pants Maat 5 Junior Luierbroekjes Jumbopack",
+  "itemName": "Kruidvat Pants Junior Maat 5 Luierbroekjes Jumbopack",
   "code": "5052587",
   "price": "15.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-pants-maat-5-junior-luierbroekjes-jumbopack/p/5052587",
+  "url": "/kruidvat-pants-junior-maat-5-luierbroekjes-jumbopack/p/5052587",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Luierbroekjes maat 5"
     }
   ],
-  "description": "mt 5 (13-20 kg), 50 stuks",
-  "image": "/medias/sys_master/prd-images/h6f/h8e/44424632860702/prd-front-5052587-1_600x600/prd-front-5052587-1-600x600.jpg"
+  "description": "mt 5 (12-17 kg), 50 stuks",
+  "image": "/medias/sys_master/prd-images/hdc/h45/44428607127582/prd-front-5052587-1_600x600/prd-front-5052587-1-600x600.jpg"
 }

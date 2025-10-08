@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bref Power Activ' Citroen Toiletblok",
+  "code": "4603271",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 6071 > 6072 > 6074",
+  "supplier": "HENKEL NEDERLAND BV U-W",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bref-power-activ-citroen-toiletblok/p/4603271",
+  "listName": "Lister",
+  "brand": "Bref",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266071,
+      "name": "Toiletblokken"
+    }
+  ],
+  "description": "50g",
+  "image": "/medias/sys_master/prd-images/h82/h83/27501574455326/prd-front-4603271-1_600x600/prd-front-4603271-1-600x600.jpg"
+}

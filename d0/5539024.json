@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Pants Maat 3 Luierbroekjes Midpack",
+  "itemName": "Kruidvat Pants Midi Maat 3 Luierbroekjes Midpack",
   "code": "5539024",
   "price": "7.49",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056392",
+  "mmkId": "1056392",
+  "productGroupId": "503525",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-pants-maat-3-luierbroekjes-midpack/p/5539024",
+  "url": "/kruidvat-pants-midi-maat-3-luierbroekjes-midpack/p/5539024",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Luierbroekjes maat 3"
     }
   ],
-  "description": "25 stuks",
-  "image": "/medias/sys_master/prd-images/h70/h1a/44424636071966/prd-front-5539024-1_600x600/prd-front-5539024-1-600x600.jpg"
+  "description": "mt 3 (6-10 kg), 25 stuks",
+  "image": "/medias/sys_master/prd-images/hdc/hfc/44429480689694/prd-front-5539024-1_600x600/prd-front-5539024-1-600x600.jpg"
 }

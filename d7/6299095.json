@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Envelop Schoudertas",
+  "code": "6299095",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
+  "supplier": "DUGROS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-envelop-schoudertas/p/6299095",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    },
+    {
+      "id": 101713137,
+      "name": "Handtas"
+    }
+  ],
+  "description": "bordeaux, 21cm x 3cm x 11cm",
+  "image": "/medias/sys_master/prd-images/h5b/h41/34147513565214/prd-front-6299095-1_600x600/prd-front-6299095-1-600x600.jpg"
+}
