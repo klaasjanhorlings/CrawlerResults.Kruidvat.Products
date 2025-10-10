@@ -21,17 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
+      "id": 30266006,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30266639,
-      "name": "Bodyolie"
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 30266940,
+      "name": "Littekencremes"
     }
   ],
-  "description": "75ml - Droge huid"
+  "description": "75ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h08/h73/27338934091806/prd-front-4153829-1_600x600/prd-front-4153829-1-600x600.jpg"
 }

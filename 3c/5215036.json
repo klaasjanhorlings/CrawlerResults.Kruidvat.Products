@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pants-junior-maat-5-luierbroekjes-volumedoos/p/5215036",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 5 (12-17 kg), 200 stuks",
-  "image": "/medias/sys_master/prd-images/h13/h32/44439222779934/prd-front-5215036-1_600x600/prd-front-5215036-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hdc/ha8/44449469104158/prd-front-5215036-1_600x600/prd-front-5215036-1-600x600.jpg"
 }

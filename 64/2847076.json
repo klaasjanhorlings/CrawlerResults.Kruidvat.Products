@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 3177 > 3445",
   "supplier": "GEOCOS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-blaarpleisters-assorti/p/2847076",
@@ -33,6 +33,5 @@
       "name": "Blaren"
     }
   ],
-  "description": "Medisch hulpmiddel - 3 x 2 stuks",
-  "image": "/medias/sys_master/prd-images/h8c/hbe/32662715498526/prd-front-2847076-1_600x600/prd-front-2847076-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 3 x 2 stuks"
 }

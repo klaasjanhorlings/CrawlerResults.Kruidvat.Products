@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Gehoorapparaat",
+  "code": "6390662",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6575 > 6576 > 6577",
+  "supplier": "PK BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-gehoorapparaat/p/6390662",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 67784836,
+      "name": "Gezondheidsapparatuur"
+    },
+    {
+      "id": 84926695,
+      "name": "Gehoorapparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h16/h63/44277654552606/prd-front-6390662-1_600x600/prd-front-6390662-1-600x600.jpg"
+}

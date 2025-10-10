@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2721 > 3424",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1057143",
-  "mmkId": "1057143",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hcb/h53/44440565186590/prd-front-17409-1_600x600/prd-front-17409-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc2/hbe/44451346415646/prd-front-17409-1_600x600/prd-front-17409-1-600x600.jpg"
 }

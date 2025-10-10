@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hegen Extra Slow Flow 0+M Maat 0 Speen",
+  "code": "6156113",
+  "price": "11.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3381",
+  "supplier": "HOUSE OF DARCY AGENCY",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hegen-extra-slow-flow-0m-maat-0-speen/p/6156113",
+  "listName": "Lister",
+  "brand": "Hegen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266799,
+      "name": "Babyflesjes"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h54/h2f/32820324663326/prd-front-6156113-1_600x600/prd-front-6156113-1-600x600.jpg"
+}

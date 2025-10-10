@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Barebells White Chocolate Almond Protein Bar",
+  "code": "5471005",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6385 > 6386 > 6397",
+  "supplier": "D-DRINKS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/barebells-white-chocolate-almond-protein-bar/p/5471005",
+  "listName": "Lister",
+  "brand": "Barebells",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266751,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "55g",
+  "image": "/medias/sys_master/prd-images/h33/he4/44274422710302/prd-front-5471005-1_600x600/prd-front-5471005-1-600x600.jpg"
+}

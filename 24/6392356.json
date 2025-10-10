@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "OtriCare Natural Aloë Vera Neusspray",
+  "code": "6392356",
+  "price": "10.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/otricare-natural-aloe-vera-neusspray/p/6392356",
+  "listName": "Lister",
+  "brand": "OtriCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30266959,
+      "name": "Neusspray"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hf7/h57/44357734563870/prd-front-6392356-1_600x600/prd-front-6392356-1-600x600.jpg"
+}

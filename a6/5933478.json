@@ -29,9 +29,10 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266721,
-      "name": "Overige supplementen"
+      "id": 30266718,
+      "name": "Spijsvertering"
     }
   ],
-  "description": "Medisch hulpmiddel - 30 stuks"
+  "description": "Medisch hulpmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/h15/hce/29750618521630/prd-front-5933478-1_600x600/prd-front-5933478-1-600x600.jpg"
 }

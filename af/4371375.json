@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Isostar High Energy Fruit Boost",
+  "code": "4371375",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 3203 > 4075 > 6397",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/isostar-high-energy-fruit-boost/p/4371375",
+  "listName": "Lister",
+  "brand": "Isostar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266751,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/hd5/he8/44210677514270/prd-front-4371375-1_600x600/prd-front-4371375-1-600x600.jpg"
+}
