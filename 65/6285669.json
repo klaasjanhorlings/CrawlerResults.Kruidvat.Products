@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Ariel + Touch Of Lenor Unstoppables Color 4-in-1 Pods",
   "code": "6285669",
   "price": "9.99",
@@ -12,7 +12,7 @@
   "mmkId": "1056157",
   "productGroupId": "480770",
   "brandType": "A of B merk",
-  "discount": "€ 16,50",
+  "discount": "$ 16,50",
   "url": "/ariel-touch-of-lenor-unstoppables-color-4-in-1-pods/p/6285669",
   "listName": "Lister",
   "brand": "Ariel",
@@ -29,6 +29,5 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "26 Wasbeurten",
-  "image": "/medias/sys_master/prd-images/h02/h55/33672930623518/prd-front-6285669-1_600x600/prd-front-6285669-1-600x600.jpg"
+  "description": "26 Wasbeurten"
 }

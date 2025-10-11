@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Aluminiumfolie",
   "code": "4703567",
   "price": "1.89",
@@ -29,5 +29,6 @@
       "name": "Huishoudelijke accessoires"
     }
   ],
-  "description": "20m x 29cm"
+  "description": "20m x 29cm",
+  "image": "/medias/sys_master/prd-images/hd3/h4c/28654190526494/prd-front-4703567-1_600x600/prd-front-4703567-1-600x600.jpg"
 }

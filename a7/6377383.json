@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Lucovitaal Puur Clear Whey",
+  "code": "6377383",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
+  "supplier": "PK BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-puur-clear-whey/p/6377383",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266750,
+      "name": "Proteine eiwit poeders"
+    }
+  ],
+  "description": "175g",
+  "image": "/medias/sys_master/prd-images/h39/h28/44227788734494/prd-front-6377383-1_600x600/prd-front-6377383-1-600x600.jpg"
+}

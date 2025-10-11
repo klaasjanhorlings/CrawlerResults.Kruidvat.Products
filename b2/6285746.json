@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Robijn Quickwash Morning Dew Vloeibaar Wasmiddel",
   "code": "6285746",
   "price": "6.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 12,00",
+  "discount": "$ 12,00",
   "url": "/robijn-quickwash-morning-dew-vloeibaar-wasmiddel/p/6285746",
   "listName": "Lister",
   "brand": "Robijn",
@@ -29,5 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "837ml, 22 wasbeurten"
+  "description": "837ml, 22 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hf8/h44/34132000702494/prd-front-6285746-1_600x600/prd-front-6285746-1-600x600.jpg"
 }

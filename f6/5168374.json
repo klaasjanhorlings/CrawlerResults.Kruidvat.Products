@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Korrelontstopper",
   "code": "5168374",
   "price": "2.49",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "500g"
+  "description": "500g",
+  "image": "/medias/sys_master/prd-images/h8d/ha9/28802323513374/prd-front-5168374-1_600x600/prd-front-5168374-1-600x600.jpg"
 }

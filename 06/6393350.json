@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Optimum Nutrition Marshmallow Crunch Protein Bar",
+  "code": "6393350",
+  "price": "25.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6385 > 6386 > 6397",
+  "supplier": "BRANDM BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/optimum-nutrition-marshmallow-crunch-protein-bar/p/6393350",
+  "listName": "Lister",
+  "brand": "Optimum Nutrition",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266751,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "10 stuks"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Cookie Caramel Smaakdruppels",
+  "code": "6377390",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6391 > 6392 > 6397",
+  "supplier": "PK BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-cookie-caramel-smaakdruppels/p/6377390",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266009,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30266744,
+      "name": "Zoetstoffen"
+    }
+  ],
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/hfb/h90/44240641163294/prd-front-6377390-1_600x600/prd-front-6377390-1-600x600.jpg"
+}

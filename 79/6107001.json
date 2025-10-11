@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pedigree Dentastix Medium Hondensnacks",
   "code": "6107001",
   "price": "13.49",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,50",
+  "discount": "$ 5,50",
   "url": "/pedigree-dentastix-medium-hondensnacks/p/6107001",
   "listName": "Lister",
   "brand": "Pedigree",

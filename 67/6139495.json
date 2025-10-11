@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kleenex The Original Tissues",
   "code": "6139495",
   "price": "4.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 7,91",
+  "discount": "$ 7,91",
   "url": "/kleenex-the-original-tissues/p/6139495",
   "listName": "Lister",
   "brand": "Kleenex",

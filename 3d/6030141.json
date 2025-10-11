@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Ecostyle Mieren Lokdoos",
   "code": "6030141",
   "price": "7.99",
@@ -29,5 +29,6 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h0c/ha0/30236512518174/prd-front-6030141-1_600x600/prd-front-6030141-1-600x600.jpg"
 }

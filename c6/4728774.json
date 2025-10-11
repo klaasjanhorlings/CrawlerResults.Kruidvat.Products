@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Rosewood Medium Trio Sticks Hondensnacks",
   "code": "4728774",
   "price": "3.39",
@@ -41,6 +41,5 @@
       "name": "Snacks voor honden"
     }
   ],
-  "description": "3 x 30g",
-  "image": "/medias/sys_master/prd-images/hc0/h4a/31217454317598/prd-front-4728774-1_600x600/prd-front-4728774-1-600x600.jpg"
+  "description": "3 x 30g"
 }

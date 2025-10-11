@@ -8,8 +8,8 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "BRANSUS COSM ULTIMATCH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "9g",
-  "image": "/medias/sys_master/prd-images/hdf/ha1/44451388719134/prd-front-6377943-1_600x600/prd-front-6377943-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hec/h94/44462868529182/prd-front-6377943-1_600x600/prd-front-6377943-1-600x600.jpg"
 }

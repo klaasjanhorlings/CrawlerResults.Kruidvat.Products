@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Barebells Cookies & Cream Protein Bar",
+  "code": "6378426",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6385 > 6386 > 6397",
+  "supplier": "D-DRINKS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/barebells-cookies-cream-protein-bar/p/6378426",
+  "listName": "Lister",
+  "brand": "Barebells",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266751,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "55g",
+  "image": "/medias/sys_master/prd-images/h54/hf5/44275647250462/prd-front-6378426-1_600x600/prd-front-6378426-1-600x600.jpg"
+}
