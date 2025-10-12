@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Whiskas Classic Selectie Meaty Meals Kattenvoer",
   "code": "5802494",
   "price": "9.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 2,76",
+  "discount": "€ 2,76",
   "url": "/whiskas-classic-selectie-meaty-meals-kattenvoer/p/5802494",
   "listName": "Lister",
   "brand": "Whiskas",
@@ -41,5 +41,6 @@
       "name": "Natvoer katten"
     }
   ],
-  "description": "24 x 85g"
+  "description": "24 x 85g",
+  "image": "/medias/sys_master/prd-images/hd1/h76/28857717817374/prd-front-5802494-1_600x600/prd-front-5802494-1-600x600.jpg"
 }

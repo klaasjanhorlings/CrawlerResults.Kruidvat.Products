@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dettol Oceaan Reinigingsdoekjes",
   "code": "5589872",
   "price": "5.99",
@@ -12,7 +12,7 @@
   "mmkId": "1056510",
   "productGroupId": "491169",
   "brandType": "A of B merk",
-  "discount": "$ 7,48",
+  "discount": "€ 7,48",
   "url": "/dettol-oceaan-reinigingsdoekjes/p/5589872",
   "listName": "Lister",
   "brand": "Dettol",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "110 stuks"
+  "description": "110 stuks",
+  "image": "/medias/sys_master/prd-images/h1a/h09/32335886319646/prd-front-5589872-1_600x600/prd-front-5589872-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Roxasect Muggenstekker Startverpakking",
   "code": "2795185",
   "price": "11.49",
@@ -29,5 +29,6 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "1 stuk"
+  "description": "1 stuk",
+  "image": "/medias/sys_master/prd-images/h0f/hfd/30852348280862/prd-front-2795185-1_600x600/prd-front-2795185-1-600x600.jpg"
 }

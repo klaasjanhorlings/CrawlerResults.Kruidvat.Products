@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Silan Relaxing Maldives Wasverzachter",
   "code": "6030232",
   "price": "22.49",
@@ -29,6 +29,5 @@
       "name": "Wasverzachter"
     }
   ],
-  "description": "6 x 814ml, 222 wasbeurten",
-  "image": "/medias/sys_master/prd-images/hc1/haa/30333540663326/prd-front-6030232-1_600x600/prd-front-6030232-1-600x600.jpg"
+  "description": "6 x 814ml, 222 wasbeurten"
 }

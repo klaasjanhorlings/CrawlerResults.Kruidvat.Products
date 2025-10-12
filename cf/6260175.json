@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Whiskas Adult Kip Droog Kattenvoer",
   "code": "6260175",
   "price": "13.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 4,00",
+  "discount": "€ 4,00",
   "url": "/whiskas-adult-kip-droog-kattenvoer/p/6260175",
   "listName": "Lister",
   "brand": "Whiskas",
@@ -41,5 +41,6 @@
       "name": "Kattenbrokjes"
     }
   ],
-  "description": "3800g"
+  "description": "3800g",
+  "image": "/medias/sys_master/prd-images/hcc/hbd/33176722964510/prd-front-6260175-1_600x600/prd-front-6260175-1-600x600.jpg"
 }

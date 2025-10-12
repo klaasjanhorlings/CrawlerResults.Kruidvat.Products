@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Puur Creatine 100% Monohydraat Poeder",
   "code": "6377404",
   "price": "10.99",
@@ -33,5 +33,6 @@
       "name": "Creatine"
     }
   ],
-  "description": "210g"
+  "description": "210g",
+  "image": "/medias/sys_master/prd-images/hf0/h08/44239998844958/prd-front-6377404-1_600x600/prd-front-6377404-1-600x600.jpg"
 }

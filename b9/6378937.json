@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Air Wick Starter Kit",
   "code": "6378937",
   "price": "1.99",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h14/h09/44253886251038/prd-front-6378937-1_600x600/prd-front-6378937-1-600x600.jpg"
 }

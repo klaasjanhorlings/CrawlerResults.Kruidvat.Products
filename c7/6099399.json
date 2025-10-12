@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dreft Platinum Quickwash Lemon Afwasmiddel",
   "code": "6099399",
   "price": "1.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 1,00",
+  "discount": "€ 1,00",
   "url": "/dreft-platinum-quickwash-lemon-afwasmiddel/p/6099399",
   "listName": "Lister",
   "brand": "Dreft",
@@ -29,6 +29,5 @@
       "name": "Afwasmiddel"
     }
   ],
-  "description": "350ml",
-  "image": "/medias/sys_master/prd-images/hcd/h78/30818119876638/prd-front-6099399-1_600x600/prd-front-6099399-1-600x600.jpg"
+  "description": "350ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Optimum Nutrition Marshmallow Crunch Protein Bar",
   "code": "6393350",
   "price": "25.59",
@@ -33,5 +33,6 @@
       "name": "Sportrepen"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/he6/h88/44274701631518/prd-front-6393350-1_600x600/prd-front-6393350-1-600x600.jpg"
 }
