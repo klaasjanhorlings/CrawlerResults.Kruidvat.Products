@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wind-Up Pandy",
+  "code": "6342663",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
+  "supplier": "DURABO BV",
+  "inStock": "inStock",
+  "onPromo": "1056715",
+  "mmkId": "1056715",
+  "productGroupId": "500705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wind-up-pandy/p/6342663",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266029,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he9/h71/44459844927518/prd-front-6342663-1_600x600/prd-front-6342663-1-600x600.jpg"
+}

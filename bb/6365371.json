@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playgro Sensory Lama Explore and Play Speelset",
+  "code": "6365371",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
+  "supplier": "PLAYGRO EUROPE BV",
+  "inStock": "inStock",
+  "onPromo": "1056715",
+  "mmkId": "1056715",
+  "productGroupId": "500705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/playgro-sensory-lama-explore-and-play-speelset/p/6365371",
+  "listName": "Lister",
+  "brand": "Playgro",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 49281541,
+      "name": "Interactief speelgoed"
+    }
+  ],
+  "description": ""
+}

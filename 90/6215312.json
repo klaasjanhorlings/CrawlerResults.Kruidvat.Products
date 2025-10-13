@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5921 > 6018 > 6737 > 6738 > 6736",
   "supplier": "IDENTITY GAMES INT. BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056715",
+  "mmkId": "1056715",
+  "productGroupId": "500705",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/studio100-bumba-kiekeboe/p/6215312",
@@ -33,6 +33,5 @@
       "name": "Educatieve spellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h42/h3a/32967776600094/prd-front-6215312-1_600x600/prd-front-6215312-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

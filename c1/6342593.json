@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nickelodeon Dora Figuren Set",
+  "code": "6342593",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 5177 > 5271 > 5460 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nickelodeon-dora-figuren-set/p/6342593",
+  "listName": "Lister",
+  "brand": "Dora",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925814,
+      "name": "Actie- en verzamelfiguren"
+    }
+  ],
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/h89/h34/35138353594398/prd-front-6342593-1_600x600/prd-front-6342593-1-600x600.jpg"
+}

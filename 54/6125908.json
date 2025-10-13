@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kids Media My First Tablet",
+  "code": "6125908",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
+  "supplier": "ELDOHM B.V.",
+  "inStock": "inStock",
+  "onPromo": "1056715",
+  "mmkId": "1056715",
+  "productGroupId": "500705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kids-media-my-first-tablet/p/6125908",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266035,
+      "name": "Elektronisch speelgoed"
+    }
+  ],
+  "description": ""
+}

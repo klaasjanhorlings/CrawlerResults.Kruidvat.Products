@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 6021 > 2207 > 2621 > 3164 > 6627",
   "supplier": "PANTYTEX SPA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056734",
+  "mmkId": "1056734",
+  "productGroupId": "503772",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-super-shape-opaque-80-den-panty/p/5465916",
@@ -33,5 +33,6 @@
       "name": "Panty's"
     }
   ],
-  "description": "zwart, mt 42-44"
+  "description": "zwart, mt 42-44",
+  "image": "/medias/sys_master/prd-images/h89/h88/35026502090782/prd-front-5465916-1_600x600/prd-front-5465916-1-600x600.jpg"
 }

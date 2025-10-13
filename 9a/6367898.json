@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sunny Boaz Ballenbak",
+  "code": "6367898",
+  "price": "49.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
+  "supplier": "HANDELSONDERN. PRAGMA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/sunny-boaz-ballenbak/p/6367898",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 49281541,
+      "name": "Interactief speelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h89/ha0/44189225386014/prd-front-6367898-1_600x600/prd-front-6367898-1-600x600.jpg"
+}

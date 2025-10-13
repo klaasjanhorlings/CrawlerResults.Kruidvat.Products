@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Star Wars 30708 Millennium Falcon Minimodel",
+  "code": "6240722",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1056715",
+  "mmkId": "1056715",
+  "productGroupId": "500705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-star-wars-30708-millennium-falcon-minimodel/p/6240722",
+  "listName": "Lister",
+  "brand": "LEGO Star Wars",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69051159,
+      "name": "LEGO Minisets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he2/h23/44296204746782/prd-front-6240722-1_600x600/prd-front-6240722-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056729",
+  "mmkId": "1056729",
+  "productGroupId": "502588",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-skin-suntouchable-whoa-glow-spf30-zonnebrandcreme/p/6303799",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h44/h71/34089439199262/prd-front-6303799-1_600x600/prd-front-6303799-1-600x600.jpg"
 }

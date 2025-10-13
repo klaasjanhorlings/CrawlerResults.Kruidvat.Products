@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
   "supplier": "GOLIATH B.V.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056715",
+  "mmkId": "1056715",
+  "productGroupId": "500705",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/goliath-spraakwaterval-spel/p/6367331",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h44/h05/35030747840542/prd-front-6367331-1_600x600/prd-front-6367331-1-600x600.jpg"
 }

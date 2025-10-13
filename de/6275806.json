@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056692",
+  "mmkId": "1056692",
+  "productGroupId": "481424",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-power-grip-matte-primer/p/6275806",
@@ -33,6 +33,5 @@
       "name": "Primer"
     }
   ],
-  "description": "26ml",
-  "image": "/medias/sys_master/prd-images/h55/hd3/34039097327646/prd-front-6275806-1_600x600/prd-front-6275806-1-600x600.jpg"
+  "description": "26ml"
 }

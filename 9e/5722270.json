@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Lichtsnoer",
+  "code": "5722270",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2208 > 5926 > 5993 > 6010 > 6024 > 6731",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-lichtsnoer/p/5722270",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 53253115,
+      "name": "Kerstverlichting"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2d/hf6/34862168604702/prd-front-5722270-1_600x600/prd-front-5722270-1-600x600.jpg"
+}

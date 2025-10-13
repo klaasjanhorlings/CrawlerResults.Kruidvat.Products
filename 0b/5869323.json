@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 2096 > 2132 > 2331 > 2731 > 3434",
   "supplier": "CLEMENTONI SPA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056715",
+  "mmkId": "1056715",
+  "productGroupId": "500705",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/clementoni-baby-camera/p/5869323",
@@ -33,5 +33,6 @@
       "name": "Interactief speelgoed"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbb/h10/32404232568862/prd-front-5869323-1_600x600/prd-front-5869323-1-600x600.jpg"
 }

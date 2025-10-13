@@ -8,9 +8,9 @@
   "itemBgbcat": "2191 > 2512 > 3126 > 3991 > 5697 > 5921",
   "supplier": "DP FACTORY BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056715",
+  "mmkId": "1056715",
+  "productGroupId": "500705",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/giet-zelf-een-plateau/p/6337014",
@@ -29,6 +29,5 @@
       "name": "Knutselen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h06/hf5/44039666368542/prd-front-6337014-1_600x600/prd-front-6337014-1-600x600.jpg"
+  "description": ""
 }

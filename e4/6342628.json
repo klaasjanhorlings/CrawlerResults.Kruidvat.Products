@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Peppa Pig Peppa's First Tablet",
+  "code": "6342628",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "1056715",
+  "mmkId": "1056715",
+  "productGroupId": "500705",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/peppa-pig-peppas-first-tablet/p/6342628",
+  "listName": "Lister",
+  "brand": "Peppa Pig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266035,
+      "name": "Elektronisch speelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h55/h6f/44476239740958/prd-front-6342628-1_600x600/prd-front-6342628-1-600x600.jpg"
+}

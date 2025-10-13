@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ruimteschip Kinderpyjama",
+  "code": "6332912",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2495 > 3061 > 3520 > 5795 > 5928 > 6716",
+  "supplier": "SABORN TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/ruimteschip-kinderpyjama/p/6332912",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266856,
+      "name": "Kinderpyjama's"
+    }
+  ],
+  "description": "blauw, grijs, mt 122-128",
+  "image": "/medias/sys_master/prd-images/h59/h41/34721281802270/prd-front-6332912-1_600x600/prd-front-6332912-1-600x600.jpg"
+}

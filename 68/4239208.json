@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Halloween Verkleedset Skelet",
+  "code": "4239208",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 5921 > 6040 > 6549 > 6550 > 6551",
+  "supplier": "LITTLE CONCEPTS BV",
+  "inStock": "inStock",
+  "onPromo": "1056715",
+  "mmkId": "1056715",
+  "productGroupId": "500705",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/halloween-verkleedset-skelet/p/4239208",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266037,
+      "name": "Verkleedkleding & accessoires"
+    }
+  ],
+  "description": "5-7 jaar",
+  "image": "/medias/sys_master/prd-images/h9f/h40/44429475708958/prd-front-4239208-1_600x600/prd-front-4239208-1-600x600.jpg"
+}
