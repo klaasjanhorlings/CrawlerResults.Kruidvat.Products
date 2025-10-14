@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "True Spirit Furry Shopper",
   "code": "6259475",
   "price": "12.99",
@@ -33,8 +33,8 @@
       "name": "Tassen"
     },
     {
-      "id": 101713049,
-      "name": "Crossbody tas"
+      "id": 101713392,
+      "name": "Shopper"
     }
   ],
   "description": "bruin, 40cm x 11cm x 30cm",

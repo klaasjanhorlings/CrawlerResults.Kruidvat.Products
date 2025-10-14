@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Unicorn Kinderpyjama",
   "code": "6332891",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Kinderpyjama's"
     }
   ],
-  "description": "roze, mt 122-128"
+  "description": "roze, mt 122-128",
+  "image": "/medias/sys_master/prd-images/heb/h5d/34719971672094/prd-front-6332891-1_600x600/prd-front-6332891-1-600x600.jpg"
 }

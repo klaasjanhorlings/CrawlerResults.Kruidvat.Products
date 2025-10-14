@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Ruimteschip Kinderpyjama",
   "code": "6332905",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Kinderpyjama's"
     }
   ],
-  "description": "blauw, grijs, mt 110-116"
+  "description": "blauw, grijs, mt 110-116",
+  "image": "/medias/sys_master/prd-images/h73/h37/44426924261406/prd-front-6332905-1_600x600/prd-front-6332905-1-600x600.jpg"
 }

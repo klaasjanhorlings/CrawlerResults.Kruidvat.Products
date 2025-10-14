@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Teddy Rugtas met Oren",
   "code": "6294111",
   "price": "7.99",
@@ -37,5 +37,6 @@
       "name": "Rugzakken"
     }
   ],
-  "description": "crème, 24,5cm x 9cm x 31cm"
+  "description": "crème, 24,5cm x 9cm x 31cm",
+  "image": "/medias/sys_master/prd-images/h21/h79/35074085093406/prd-front-6294111-1_600x600/prd-front-6294111-1-600x600.jpg"
 }

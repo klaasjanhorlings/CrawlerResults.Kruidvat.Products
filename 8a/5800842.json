@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "MAXIM MARKENPRODUKTE",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056691",
+  "mmkId": "1056691",
+  "productGroupId": "476834",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-natures-pro-age-eye-cream/p/5800842",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h3c/h55/34533900943390/prd-front-5800842-1_600x600/prd-front-5800842-1-600x600.jpg"
 }

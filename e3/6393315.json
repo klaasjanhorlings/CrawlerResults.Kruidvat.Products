@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 2996 > 3823",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Speciale huidbehandeling"
     }
   ],
-  "description": "Geneesmiddel - 120ml"
+  "description": "Geneesmiddel - 120ml",
+  "image": "/medias/sys_master/prd-images/hed/h84/44275646070814/prd-front-6393315-1_600x600/prd-front-6393315-1-600x600.jpg"
 }

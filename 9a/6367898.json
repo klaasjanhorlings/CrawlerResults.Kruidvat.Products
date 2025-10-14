@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Sunny Boaz Ballenbak",
+  "itemName": "Sunny Boaz 120 Ballen Ballenbak",
   "code": "6367898",
   "price": "49.99",
   "priceOriginal": "",
   "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
   "supplier": "HANDELSONDERN. PRAGMA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056715",
+  "mmkId": "1056715",
+  "productGroupId": "500705",
   "brandType": "Ander merk",
   "discount": "",
-  "url": "/sunny-boaz-ballenbak/p/6367898",
+  "url": "/sunny-boaz-120-ballen-ballenbak/p/6367898",
   "listName": "Lister",
   "brand": "Overig",
   "mpOrigin": "Kruidvat",
@@ -29,8 +29,8 @@
       "name": "Baby- en peuterspeelgoed"
     },
     {
-      "id": 49281541,
-      "name": "Interactief speelgoed"
+      "id": 84925842,
+      "name": "Ballenbakken"
     }
   ],
   "description": "",

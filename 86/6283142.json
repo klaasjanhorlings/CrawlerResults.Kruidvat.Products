@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kindersweater",
   "code": "6283142",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Kinderkleding"
     }
   ],
-  "description": "bruin, mt 110-116",
-  "image": "/medias/sys_master/prd-images/hd3/hcb/35072552206366/prd-front-6283142-1_600x600/prd-front-6283142-1-600x600.jpg"
+  "description": "bruin, mt 110-116"
 }

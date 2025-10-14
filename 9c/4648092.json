@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056567",
+  "mmkId": "1056567",
+  "productGroupId": "499444",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-fit-me-matte-poreless-112-soft-beige-foundation/p/4648092",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h02/hcd/27784193310750/prd-front-4648092-1_600x600/prd-front-4648092-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha8/h59/44487612923934/prd-front-4648092-1_600x600/prd-front-4648092-1-600x600.jpg"
 }

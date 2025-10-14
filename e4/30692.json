@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056497",
+  "mmkId": "1056497",
+  "productGroupId": "489241",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-hold-5-ultra-strong-styling-hairspray/p/30692",
@@ -33,6 +33,5 @@
       "name": "Haarlak"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hab/h31/34029495255070/prd-front-30692-1_600x600/prd-front-30692-1-600x600.jpg"
+  "description": "250ml"
 }

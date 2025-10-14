@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Palmolive Naturals Amandelmelk Handzeep",
+  "itemName": "Palmolive Naturals Almond Milk Vloeibare Handzeep",
   "code": "2175377",
   "price": "2.79",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "500633",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/palmolive-naturals-amandelmelk-handzeep/p/2175377",
+  "url": "/palmolive-naturals-almond-milk-vloeibare-handzeep/p/2175377",
   "listName": "Lister",
   "brand": "Palmolive",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Handzeep"
     }
   ],
-  "description": "300ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h65/h14/31873214873630/prd-front-2175377-1_600x600/prd-front-2175377-1-600x600.jpg"
+  "description": "300ml - Alle huidtypen"
 }
