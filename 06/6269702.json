@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
   "supplier": "SPEELGOEDLAND",
-  "inStock": "inStock",
-  "onPromo": "1056715",
-  "mmkId": "1056715",
-  "productGroupId": "500705",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/minecraft-a5-notitieboek/p/6269702",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcf/h9e/35067178057758/prd-front-6269702-1_600x600/prd-front-6269702-1-600x600.jpg"
 }

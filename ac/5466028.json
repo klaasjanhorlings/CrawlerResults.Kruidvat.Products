@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Daily Glans 15 Den Panty",
   "code": "5466028",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Panty's"
     }
   ],
-  "description": "zwart, mt 42-44, 2 stuks",
-  "image": "/medias/sys_master/prd-images/he9/hda/28223683330078/prd-front-5466028-1_600x600/prd-front-5466028-1-600x600.jpg"
+  "description": "zwart, mt 42-44, 2 stuks"
 }

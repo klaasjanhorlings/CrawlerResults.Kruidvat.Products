@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Optimum Nutrition Gold Standard 100% Whey Chocolate Protein Powder",
+  "itemName": "Optimum Nutrition Gold Standard Double Rich Chocolate 100% Whey Protein Powder",
   "code": "6391054",
   "price": "42.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/optimum-nutrition-gold-standard-100-whey-chocolate-protein-powder/p/6391054",
+  "url": "/optimum-nutrition-gold-standard-double-rich-chocolate-100-whey-protein-powder/p/6391054",
   "listName": "Lister",
   "brand": "Optimum Nutrition",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "900g"
+  "description": "899g",
+  "image": "/medias/sys_master/prd-images/hdf/h17/44277124038686/prd-front-6391054-1_600x600/prd-front-6391054-1-600x600.jpg"
 }

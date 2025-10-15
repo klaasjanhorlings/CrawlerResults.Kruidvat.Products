@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "True Spirit Furry Telefoontasje",
   "code": "6299438",
   "price": "6.99",
@@ -37,5 +37,6 @@
       "name": "Crossbody tas"
     }
   ],
-  "description": "beige, 20cm x 15cm x 2cm"
+  "description": "beige, 20cm x 15cm x 2cm",
+  "image": "/medias/sys_master/prd-images/hbd/h8e/35070671945758/prd-front-6299438-1_600x600/prd-front-6299438-1-600x600.jpg"
 }

@@ -21,18 +21,17 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 101912253,
-      "name": "Voetverzorging"
+      "id": 48220663,
+      "name": "Voetongemakken"
     },
     {
-      "id": 48220898,
-      "name": "Voetcreme"
+      "id": 49316183,
+      "name": "Voetkloven"
     }
   ],
-  "description": "60ml",
-  "image": "/medias/sys_master/prd-images/h82/h90/34325650833438/prd-front-1583429-1_600x600/prd-front-1583429-1-600x600.jpg"
+  "description": "60ml"
 }

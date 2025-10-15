@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Kids Bath Bombs",
+  "code": "6378265",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
+  "supplier": "NAIF CARE BV",
+  "inStock": "inStock",
+  "onPromo": "1056526",
+  "mmkId": "1056526",
+  "productGroupId": "496051",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-kids-bath-bombs/p/6378265",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266656,
+      "name": "Bruisballen"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/hd4/hd0/44492624232478/prd-front-6378265-1_600x600/prd-front-6378265-1-600x600.jpg"
+}

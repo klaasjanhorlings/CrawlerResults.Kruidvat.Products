@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Isostar High Energy Fruit Boost",
+  "itemName": "Isostar Fruit Boost Energy",
   "code": "4371375",
   "price": "6.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/isostar-high-energy-fruit-boost/p/4371375",
+  "url": "/isostar-fruit-boost-energy/p/4371375",
   "listName": "Lister",
   "brand": "Isostar",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Sportrepen"
     }
   ],
-  "description": "100g",
-  "image": "/medias/sys_master/prd-images/hd5/he8/44210677514270/prd-front-4371375-1_600x600/prd-front-4371375-1-600x600.jpg"
+  "description": "100g"
 }

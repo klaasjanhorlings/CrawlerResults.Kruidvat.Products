@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056568",
+  "mmkId": "1056568",
+  "productGroupId": "499457",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-lash-paradise-noir-extra-zwarte-mascara/p/6034922",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "6,4ml",
-  "image": "/medias/sys_master/prd-images/hfd/h7f/35063858298910/prd-front-6034922-1_600x600/prd-front-6034922-1-600x600.jpg"
+  "description": "6,4ml"
 }
