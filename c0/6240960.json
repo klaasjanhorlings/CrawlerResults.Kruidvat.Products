@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
   "supplier": "ZURU NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1057204",
+  "mmkId": "1057204",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 1"
     }
   ],
-  "description": "44 stuks",
-  "image": "/medias/sys_master/prd-images/h6f/hc3/33990090358814/prd-front-6240960-1_600x600/prd-front-6240960-1-600x600.jpg"
+  "description": "44 stuks"
 }

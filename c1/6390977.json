@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2261 > 2607 > 6387 > 6388 > 6397",
   "supplier": "BRANDM BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/optimum-nutrition-gold-standard-mixed-berry-pre-workout-shot/p/6390977",
@@ -33,5 +33,6 @@
       "name": "Pre-workout"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h9a/haa/44277650030622/prd-front-6390977-1_600x600/prd-front-6390977-1-600x600.jpg"
 }

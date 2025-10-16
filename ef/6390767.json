@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6206 > 6224 > 6295",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/roter-vitamine-c-1000mg-sinaasappel-ananas-bruistabletten/p/6390767",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266990,
-      "name": "Vitamine C"
+      "id": 30266717,
+      "name": "Weerstand en energie"
     }
   ],
   "description": "15 stuks",

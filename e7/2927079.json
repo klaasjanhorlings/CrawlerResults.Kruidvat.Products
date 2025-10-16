@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 3956",
   "supplier": "DR. KLEINE PHARMA GMHB",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-warmtepleister/p/2927079",
@@ -37,5 +37,6 @@
       "name": "Warmtepleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 2 stuks"
+  "description": "Medisch hulpmiddel - 2 stuks",
+  "image": "/medias/sys_master/prd-images/hdc/hab/44219141160990/prd-front-2927079-1_600x600/prd-front-2927079-1-600x600.jpg"
 }
