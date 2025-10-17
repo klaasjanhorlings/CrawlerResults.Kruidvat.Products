@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
   "supplier": "BODY & FIT SPORTSNUTRIT",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/body-fit-whey-essential/p/6391243",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "2500g"
+  "description": "2500g",
+  "image": "/medias/sys_master/prd-images/h64/h90/44274701893662/prd-front-6391243-1_600x600/prd-front-6391243-1-600x600.jpg"
 }

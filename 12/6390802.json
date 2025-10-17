@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Vaginale Tabletten",
+  "code": "6390802",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3100 > 3963",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-vaginale-tabletten/p/6390802",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266702,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 30266956,
+      "name": "Vaginale droogheid"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10 stuks"
+}

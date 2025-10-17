@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Bloeddruk Capsules",
   "code": "4549637",
-  "price": "10.29",
+  "price": "11.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6198 > 6216 > 6258",
   "supplier": "PK BENELUX BV",
@@ -25,12 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266727,
-      "name": "Hart en/of bloedvaten"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "30 stuks",

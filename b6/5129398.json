@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Natures Medium Houten Tandenborstel",
+  "code": "5129398",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 4129",
+  "supplier": "EUROFOUR BV",
+  "inStock": "inStock",
+  "onPromo": "1056101",
+  "mmkId": "1056101",
+  "productGroupId": "465995",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-natures-medium-houten-tandenborstel/p/5129398",
+  "listName": "Lister",
+  "brand": "Kruidvat Natures",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266671,
+      "name": "Tandenborstels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0e/h9f/27598577958942/prd-front-5129398-1_600x600/prd-front-5129398-1-600x600.jpg"
+}

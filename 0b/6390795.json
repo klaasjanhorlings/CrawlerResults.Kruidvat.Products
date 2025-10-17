@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Zeezout & Eucalyptus Neusspray",
+  "code": "6390795",
+  "price": "3.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-zeezout-eucalyptus-neusspray/p/6390795",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30266959,
+      "name": "Neusspray"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 20ml",
+  "image": "/medias/sys_master/prd-images/h58/hb6/44274396790814/prd-front-6390795-1_600x600/prd-front-6390795-1-600x600.jpg"
+}

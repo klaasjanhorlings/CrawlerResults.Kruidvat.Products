@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6193 > 6211 > 6233",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056532",
+  "mmkId": "1056532",
+  "productGroupId": "496950",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-haar-volume-capsules/p/6402583",
@@ -25,12 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266719,
-      "name": "Beautysupplementen"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "120 stuks",

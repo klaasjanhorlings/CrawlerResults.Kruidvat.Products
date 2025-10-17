@@ -5,7 +5,7 @@
   "code": "5203444",
   "price": "10.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -33,9 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30266595,
-      "name": "Lipliner"
+      "id": 30266582,
+      "name": "Lipstick"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/ha1/h9b/44108529893406/prd-front-5203444-1_600x600/prd-front-5203444-1-600x600.jpg"
 }

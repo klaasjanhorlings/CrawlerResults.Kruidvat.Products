@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056504",
+  "mmkId": "1056504",
+  "productGroupId": "490177",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-expert-skin-health-skin-therapy-anti-droogheid-douchecreme/p/6366946",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "450ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/h5f/h50/44513409859614/prd-front-6366946-1_600x600/prd-front-6366946-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb4/h52/44525123797022/prd-front-6366946-1_600x600/prd-front-6366946-1-600x600.jpg"
 }

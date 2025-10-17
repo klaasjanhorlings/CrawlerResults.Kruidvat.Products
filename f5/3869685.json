@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Davitamon Vitamine D Volwassenen Smelttabletten",
   "code": "3869685",
-  "price": "14.99",
+  "price": "11.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "OMEGA PHARMA NEDERLAND",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266717,
-      "name": "Weerstand en energie"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266991,
+      "name": "Vitamine D"
     }
   ],
   "description": "75 stuks",
