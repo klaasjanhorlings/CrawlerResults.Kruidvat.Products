@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5679 > 5678",
   "supplier": "JOANNUSMOLEN BV",
   "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "onPromo": "1056736",
+  "mmkId": "1056736",
+  "productGroupId": "506556",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-6m-lichte-granenpap/p/6045366",
@@ -33,5 +33,6 @@
       "name": "Babypap"
     }
   ],
-  "description": "194g"
+  "description": "194g",
+  "image": "/medias/sys_master/prd-images/hc5/h50/30425552650270/prd-front-6045366-1_600x600/prd-front-6045366-1-600x600.jpg"
 }

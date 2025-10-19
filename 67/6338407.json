@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "From PB With Love Tas met Panterprint",
+  "code": "6338407",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/from-pb-with-love-tas-met-panterprint/p/6338407",
+  "listName": "Lister",
+  "brand": "Patty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    },
+    {
+      "id": 101713392,
+      "name": "Shopper"
+    }
+  ],
+  "description": "36cm x 26cm",
+  "image": "/medias/sys_master/prd-images/hce/hfe/44069683953694/prd-front-6338407-1_600x600/prd-front-6338407-1-600x600.jpg"
+}
