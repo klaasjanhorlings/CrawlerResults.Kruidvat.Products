@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1056502",
-  "mmkId": "1056502",
-  "productGroupId": "489572",
+  "onPromo": "1057098",
+  "mmkId": "1057098",
+  "productGroupId": "489567",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/axe-excite-deodorant-bodyspray/p/3099608",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h00/h26/33198392344606/prd-front-3099608-1_600x600/prd-front-3099608-1-600x600.jpg"
 }

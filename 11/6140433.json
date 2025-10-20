@@ -8,9 +8,9 @@
   "itemBgbcat": "2153 > 5929 > 6014 > 6635 > 6637 > 6636",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "1056586",
-  "mmkId": "1056586",
-  "productGroupId": "500076",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nintendo-switch-fantasy-friends/p/6140433",
@@ -29,5 +29,6 @@
       "name": "Gaming"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9c/hc0/33072264347678/prd-front-6140433-1_600x600/prd-front-6140433-1-600x600.jpg"
 }

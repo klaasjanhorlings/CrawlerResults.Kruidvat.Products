@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
   "supplier": "RAVENSBURGER BV",
   "inStock": "inStock",
-  "onPromo": "1056715",
-  "mmkId": "1056715",
-  "productGroupId": "500705",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nijntje-6-in-1-spellendoos/p/5143839",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h33/h35/34641175871518/prd-front-5143839-1_600x600/prd-front-5143839-1-600x600.jpg"
 }

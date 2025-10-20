@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "ROYAL SANDERS JESSENITZ GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057037",
+  "mmkId": "1057037",
+  "productGroupId": "502189",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-4-ultra-strong-styling-mouse/p/3218930",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h4a/ha6/27498166550558/prd-front-3218930-1_600x600/prd-front-3218930-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2153 > 2632 > 5929 > 6014 > 6423 > 6446",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "1056586",
-  "mmkId": "1056586",
-  "productGroupId": "500076",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-20w-usb-c-naar-usb-c-kabel/p/6153103",
@@ -33,5 +33,6 @@
       "name": "Telefoonkabeltjes"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h83/h42/33410218131486/prd-front-6153103-1_600x600/prd-front-6153103-1-600x600.jpg"
 }

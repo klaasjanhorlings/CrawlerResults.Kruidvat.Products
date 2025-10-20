@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "YARI BV",
-  "inStock": "inStock",
-  "onPromo": "1056645",
-  "mmkId": "1056645",
-  "productGroupId": "502130",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/mielle-pomegranate-honey-custard/p/5431091",
@@ -33,5 +33,6 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "340g"
+  "description": "340g",
+  "image": "/medias/sys_master/prd-images/h53/h27/27770260029470/prd-front-5431091-1_600x600/prd-front-5431091-1-600x600.jpg"
 }

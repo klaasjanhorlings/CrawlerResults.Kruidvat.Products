@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
-  "onPromo": "1056608",
-  "mmkId": "1056608",
-  "productGroupId": "501960",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cerave-hydraterende-schuimende-reinigingsolie/p/6308538",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "473ml"
+  "description": "473ml",
+  "image": "/medias/sys_master/prd-images/h0b/ha1/34456591695902/prd-front-6308538-1_600x600/prd-front-6308538-1-600x600.jpg"
 }

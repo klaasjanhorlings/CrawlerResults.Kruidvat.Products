@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056871",
+  "mmkId": "1056871",
+  "productGroupId": "484748",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mixsoon-centella-cleansing-foam/p/6200094",
@@ -37,5 +37,6 @@
       "name": "Reinigingsmousse"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h5e/h69/32248159535134/prd-front-6200094-1_600x600/prd-front-6200094-1-600x600.jpg"
 }

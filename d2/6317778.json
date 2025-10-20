@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1056505",
-  "mmkId": "1056505",
-  "productGroupId": "490338",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-glow-treat-peach-2-in-1-lip-treatment/p/6317778",
@@ -37,5 +37,6 @@
       "name": "Lip oil"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h2c/hd6/34826832805918/prd-front-6317778-1_600x600/prd-front-6317778-1-600x600.jpg"
 }

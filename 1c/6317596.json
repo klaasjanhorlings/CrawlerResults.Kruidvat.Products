@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1056505",
-  "mmkId": "1056505",
-  "productGroupId": "490338",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-brighten-perfect-light-25-natural-cream-concealer/p/6317596",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "5,5ml",
-  "image": "/medias/sys_master/prd-images/h01/h40/34869281914910/prd-front-6317596-1_600x600/prd-front-6317596-1-600x600.jpg"
+  "description": "5,5ml"
 }

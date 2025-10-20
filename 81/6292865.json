@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1056565",
-  "mmkId": "1056565",
-  "productGroupId": "499307",
+  "onPromo": "1057055",
+  "mmkId": "1057055",
+  "productGroupId": "507604",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-men-marine-fresh-shampoo/p/6292865",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h8a/h4f/34247498367006/prd-front-6292865-1_600x600/prd-front-6292865-1-600x600.jpg"
 }

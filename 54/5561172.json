@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 3023 > 3848",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056786",
+  "mmkId": "1056786",
+  "productGroupId": "492050",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-6m-maaltijd-variatiemenu/p/5561172",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "12 x 200g",
-  "image": "/medias/sys_master/prd-images/h17/h8e/44538679033886/prd-front-5561172-1_600x600/prd-front-5561172-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2d/h56/44545634730014/prd-front-5561172-1_600x600/prd-front-5561172-1-600x600.jpg"
 }

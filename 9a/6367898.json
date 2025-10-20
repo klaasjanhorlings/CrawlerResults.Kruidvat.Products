@@ -8,9 +8,9 @@
   "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
   "supplier": "HANDELSONDERN. PRAGMA",
   "inStock": "inStock",
-  "onPromo": "1056715",
-  "mmkId": "1056715",
-  "productGroupId": "500705",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/sunny-boaz-120-ballen-ballenbak/p/6367898",
@@ -33,5 +33,6 @@
       "name": "Ballenbakken"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h89/ha0/44189225386014/prd-front-6367898-1_600x600/prd-front-6367898-1-600x600.jpg"
 }

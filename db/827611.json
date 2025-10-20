@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1056512",
-  "mmkId": "1056512",
-  "productGroupId": "491988",
+  "onPromo": "1056849",
+  "mmkId": "1056849",
+  "productGroupId": "480639",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-total-repair-regeneration-conditioner/p/827611",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h9b/h97/33759444434974/prd-front-827611-1_600x600/prd-front-827611-1-600x600.jpg"
 }

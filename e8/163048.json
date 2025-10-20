@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 2968 > 3770",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
-  "onPromo": "1056520",
-  "mmkId": "1056520",
-  "productGroupId": "493585",
+  "onPromo": "1056888",
+  "mmkId": "1056888",
+  "productGroupId": "490113",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/blistex-medplus-lippenbalsem/p/163048",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h43/hfb/30648974999582/prd-front-163048-1_600x600/prd-front-163048-1-600x600.jpg"
 }

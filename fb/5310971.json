@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 32GB USB-stick",
   "code": "5310971",
   "price": "9.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "5929 > 6014 > 2153 > 2503 > 3113 > 3979",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "1056586",
-  "mmkId": "1056586",
-  "productGroupId": "500076",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-32gb-usb-stick/p/5310971",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h9c/h8a/44539153023006/prd-front-5310971-1_600x600/prd-front-5310971-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0d/h9c/44546831450142/prd-front-5310971-1_600x600/prd-front-5310971-1-600x600.jpg"
 }

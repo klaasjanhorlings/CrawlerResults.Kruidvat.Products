@@ -8,9 +8,9 @@
   "itemBgbcat": "5929 > 6014 > 2153 > 6587 > 6588 > 6589",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "1056586",
-  "mmkId": "1056586",
-  "productGroupId": "500076",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-smart-a60-e27-806lm-rgb-ledlamp/p/5314156",
@@ -33,5 +33,6 @@
       "name": "Lampen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hed/h00/44547253338142/prd-front-5314156-1_600x600/prd-front-5314156-1-600x600.jpg"
 }

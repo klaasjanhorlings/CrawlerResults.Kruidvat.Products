@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PHARCONA GMBH",
   "inStock": "inStock",
-  "onPromo": "1056702",
-  "mmkId": "1056702",
-  "productGroupId": "497324",
+  "onPromo": "1057027",
+  "mmkId": "1057027",
+  "productGroupId": "501792",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-originals-vitamine-e-dagcreme/p/3889656",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hec/h71/44552889827358/prd-front-3889656-1_600x600/prd-front-3889656-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6677",
   "supplier": "SWISS POINT OF CARE",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1056828",
+  "mmkId": "1056828",
+  "productGroupId": "471626",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/swiss-point-of-care-on-call-extra-glucosemeter/p/4559724",
@@ -33,5 +33,6 @@
       "name": "Bloedsuikermeters"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/ha1/h54/34651453390878/prd-front-4559724-1_600x600/prd-front-4559724-1-600x600.jpg"
 }

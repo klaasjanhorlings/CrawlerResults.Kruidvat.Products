@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "1056543",
-  "mmkId": "1056543",
-  "productGroupId": "498458",
+  "onPromo": "1056947",
+  "mmkId": "1056947",
+  "productGroupId": "498484",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-oneblade-intimate-vrouw-qp229/52-skinprotect-blade-navulmesjes/p/6142064",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h70/ha7/33631757926430/prd-front-6142064-1_600x600/prd-front-6142064-1-600x600.jpg"
 }

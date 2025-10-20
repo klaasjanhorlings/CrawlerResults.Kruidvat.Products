@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1056494",
-  "mmkId": "1056494",
-  "productGroupId": "487881",
+  "onPromo": "1056877",
+  "mmkId": "1056877",
+  "productGroupId": "487880",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-caribbean-wave-deodorant-spray/p/633717",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h2b/hc2/44264335114270/prd-front-633717-1_600x600/prd-front-633717-1-600x600.jpg"
 }

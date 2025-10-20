@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 20W Dual USB-C-naar-8-pin Kabel",
   "code": "6153271",
   "price": "9.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2153 > 2632 > 5929 > 6014 > 6423 > 6446",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "1056586",
-  "mmkId": "1056586",
-  "productGroupId": "500076",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-20w-dual-usb-c-naar-8-pin-kabel/p/6153271",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h71/hb3/44538941931550/prd-front-6153271-1_600x600/prd-front-6153271-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5c/hc5/44546462056478/prd-front-6153271-1_600x600/prd-front-6153271-1-600x600.jpg"
 }

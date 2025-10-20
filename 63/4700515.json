@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056830",
+  "mmkId": "1056830",
+  "productGroupId": "471987",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/montagne-jeunesse-24k-gold-firming-sheet-mask/p/4700515",
@@ -37,5 +37,6 @@
       "name": "Sheet maskers"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/ha9/h98/28482391638046/prd-front-4700515-1_600x600/prd-front-4700515-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 3071 > 3918",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1056466",
-  "mmkId": "1056466",
-  "productGroupId": "457122",
+  "onPromo": "1056925",
+  "mmkId": "1056925",
+  "productGroupId": "496284",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-dailies-long-inlegkruisjes/p/5820547",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "68 stuks"
+  "description": "68 stuks",
+  "image": "/medias/sys_master/prd-images/h9b/hf8/31863998578718/prd-front-5820547-1_600x600/prd-front-5820547-1-600x600.jpg"
 }

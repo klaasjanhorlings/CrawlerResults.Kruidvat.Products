@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat USB-A & USB-C Dual Autolader",
   "code": "6153278",
   "price": "7.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2153 > 5929 > 6014 > 6728 > 6729 > 6730",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "1056586",
-  "mmkId": "1056586",
-  "productGroupId": "500076",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-usb-a-usb-c-dual-autolader/p/6153278",
@@ -33,6 +33,5 @@
       "name": "Telefoonkabeltjes"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h50/hcf/33408579665950/prd-front-6153278-1_600x600/prd-front-6153278-1-600x600.jpg"
+  "description": ""
 }

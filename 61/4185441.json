@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
   "supplier": "ELLIPSE",
-  "inStock": "inStock",
-  "onPromo": "1056648",
-  "mmkId": "1056648",
-  "productGroupId": "499832",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-3-sensitive-sensation-scheerapparaat/p/4185441",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-4185441-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzg3Nzl8aW1hZ2UvanBlZ3xhR1F6TDJnNU5TOHlOall6TlRjM01EQXdNelE0Tmk5d2NtUXRabkp2Ym5RdE5ERTROVFEwTVMweFh6WXdNSGcyTURBfGRhYjNhNjRmMDJjZmViN2M1ZTk0MWYwMDFjMWM0M2YwYzBlOGUyZWU1NzBkN2YzNDBkNzdhY2M4MDc4M2QxMzM"
 }

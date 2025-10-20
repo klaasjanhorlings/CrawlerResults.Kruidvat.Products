@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 6778",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1056610",
-  "mmkId": "1056610",
-  "productGroupId": "502021",
+  "onPromo": "1057029",
+  "mmkId": "1057029",
+  "productGroupId": "502027",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-extraordinary-oil-shampoo-refill/p/6249864",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h1f/h5a/34385695244318/prd-front-6249864-1_600x600/prd-front-6249864-1-600x600.jpg"
 }

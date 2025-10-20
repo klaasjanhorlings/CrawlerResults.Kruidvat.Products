@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1056638",
-  "mmkId": "1056638",
-  "productGroupId": "502073",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-anti-age-light-bb-cream/p/2660204",
@@ -33,5 +33,6 @@
       "name": "BB cream"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h45/hb1/35155843055646/prd-front-2660204-1_600x600/prd-front-2660204-1-600x600.jpg"
 }

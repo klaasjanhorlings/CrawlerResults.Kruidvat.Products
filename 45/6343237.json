@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
   "supplier": "RAVENSBURGER BV",
   "inStock": "inStock",
-  "onPromo": "1056715",
-  "mmkId": "1056715",
-  "productGroupId": "500705",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ravensburger-mini-memory-unicorn-academy/p/6343237",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h15/hc2/44253651992606/prd-front-6343237-1_600x600/prd-front-6343237-1-600x600.jpg"
+  "description": ""
 }

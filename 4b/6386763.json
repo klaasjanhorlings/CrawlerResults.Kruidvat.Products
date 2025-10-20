@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 3381",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057060",
+  "mmkId": "1057060",
+  "productGroupId": "510685",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-avent-soother-ultra-air-0-6m-scf376/24-nighttime-fopspeen/p/6386763",
@@ -33,6 +33,5 @@
       "name": "Fopspenen"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/h85/ha3/44267272372254/prd-front-6386763-1_600x600/prd-front-6386763-1-600x600.jpg"
+  "description": "2 stuks"
 }

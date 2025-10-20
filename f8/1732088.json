@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1056502",
-  "mmkId": "1056502",
-  "productGroupId": "489572",
+  "onPromo": "1057098",
+  "mmkId": "1057098",
+  "productGroupId": "489567",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-mencare-clean-comfort-douchegel/p/1732088",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hbe/h03/33198389723166/prd-front-1732088-1_600x600/prd-front-1732088-1-600x600.jpg"
 }

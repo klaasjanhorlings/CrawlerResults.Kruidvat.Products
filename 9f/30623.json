@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3067 > 3681",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057048",
+  "mmkId": "1057048",
+  "productGroupId": "502681",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/deoleen-regular-antitranspirant-pompspray/p/30623",
@@ -33,5 +33,6 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h60/h89/33130137714718/prd-front-30623-1_600x600/prd-front-30623-1-600x600.jpg"
 }

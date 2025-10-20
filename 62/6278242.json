@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056893",
+  "mmkId": "1056893",
+  "productGroupId": "490580",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/weleda-baby-calendula-bodycreme/p/6278242",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hc8/h4e/33644464799774/prd-front-6278242-1_600x600/prd-front-6278242-1-600x600.jpg"
 }

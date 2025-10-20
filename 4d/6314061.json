@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "onPromo": "1056992",
+  "mmkId": "1056992",
+  "productGroupId": "500003",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-baby-wasschuim/p/6314061",
@@ -37,5 +37,6 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hfb/hc1/44516726636574/prd-front-6314061-1_600x600/prd-front-6314061-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1056868",
+  "mmkId": "1056868",
+  "productGroupId": "484159",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nutrilon-4-dreumesmelk-flesvoeding-vanaf-1-jaar/p/2152984",
@@ -37,6 +37,5 @@
       "name": "Dreumesmelk"
     }
   ],
-  "description": "800g",
-  "image": "/medias/sys_master/prd-images/he5/hb6/33885870293022/prd-front-2152984-1_600x600/prd-front-2152984-1-600x600.jpg"
+  "description": "800g"
 }

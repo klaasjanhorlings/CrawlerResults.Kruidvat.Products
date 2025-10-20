@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1056715",
-  "mmkId": "1056715",
-  "productGroupId": "500705",
+  "onPromo": "1040890",
+  "mmkId": "1040890",
+  "productGroupId": "432542",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-duplo-10440-balanceer-en-stapelboom/p/6244726",
@@ -33,5 +33,6 @@
       "name": "LEGO Duplo"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd7/h2d/33064799207454/prd-front-6244726-1_600x600/prd-front-6244726-1-600x600.jpg"
 }
