@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kneipp Good Energy Douchefoam",
+  "itemName": "Kneipp Good Energy Douchegel",
   "code": "6380043",
   "price": "6.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "489193",
   "brandType": "A or B brand",
   "discount": "",
-  "url": "/kneipp-good-energy-douchefoam/p/6380043",
+  "url": "/kneipp-good-energy-douchegel/p/6380043",
   "listName": "Lister",
   "brand": "Kneipp",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h3d/h78/44510592860190/prd-front-6380043-1_600x600/prd-front-6380043-1-600x600.jpg"
 }

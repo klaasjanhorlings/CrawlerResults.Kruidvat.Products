@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "GREEN SOAP COMPANY BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056998",
+  "mmkId": "1056998",
+  "productGroupId": "500457",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/marcels-green-soap-mimosa-blackcurrant-shower-gel/p/5808570",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hee/h9f/28986850377758/prd-front-5808570-1_600x600/prd-front-5808570-1-600x600.jpg"
+  "description": ""
 }

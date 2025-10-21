@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Kajal Pencil 30 Classic Blue Eyeliner",
+  "code": "5378724",
+  "price": "1.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-kajal-pencil-30-classic-blue-eyeliner/p/5378724",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266585,
+      "name": "Oogpotlood"
+    }
+  ],
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h40/h21/35122546147358/prd-front-5378724-1_600x600/prd-front-5378724-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "49.5",
   "itemBgbcat": "4870 > 6447 > 4891 > 6540 > 6541 > 6542",
   "supplier": "WALIBI HOLLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Pretpark"
     }
   ],
-  "description": "4, 5, 12, 23 okt, 2 nov"
+  "description": "4, 5, 12, 23 okt, 2 nov",
+  "image": "/medias/sys_master/prd-images/h6c/h6d/44556206243870/prd-front-4931851-1_600x600/prd-front-4931851-1-600x600.jpg"
 }

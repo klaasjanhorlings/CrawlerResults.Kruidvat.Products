@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence 30 Matt Honey Coverstick",
+  "code": "4039659",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-30-matt-honey-coverstick/p/4039659",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266578,
+      "name": "Concealer"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfd/h2c/35123232014366/prd-front-4039659-1_600x600/prd-front-4039659-1-600x600.jpg"
+}

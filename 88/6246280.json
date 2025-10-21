@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence 78 Spread the Sparkle Gel Nail Colour",
+  "code": "6246280",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-78-spread-the-sparkle-gel-nail-colour/p/6246280",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30266584,
+      "name": "Nagellak"
+    }
+  ],
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/ha5/h80/33486270758942/prd-front-6246280-1_600x600/prd-front-6246280-1-600x600.jpg"
+}

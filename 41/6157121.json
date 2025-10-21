@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "HOUSE OF DARCY AGENCY",
-  "inStock": "inStock",
-  "onPromo": "1057060",
-  "mmkId": "1057060",
-  "productGroupId": "510685",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hegen-babyfles/p/6157121",
@@ -33,6 +33,5 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/he2/hc2/33294823030814/prd-front-6157121-1_600x600/prd-front-6157121-1-600x600.jpg"
+  "description": "150ml"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6207 > 6225 > 6303",
   "supplier": "HEALTHYPHARM BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/hb4/hce/44553383837726/prd-front-6373022-1_600x600/prd-front-6373022-1-600x600.jpg"
+  "description": "30 stuks"
 }

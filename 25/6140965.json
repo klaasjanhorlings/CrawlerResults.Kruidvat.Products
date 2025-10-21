@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Gaming Nintendo Controller",
   "code": "6140965",
   "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2153 > 5929 > 6014 > 6635 > 6637 > 6636",
   "supplier": "I-STAR WORLD BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "roze",
-  "image": "/medias/sys_master/prd-images/h5a/hcf/44550188630046/prd-front-6140965-1_600x600/prd-front-6140965-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha1/he7/44559517614110/prd-front-6140965-1_600x600/prd-front-6140965-1-600x600.jpg"
 }

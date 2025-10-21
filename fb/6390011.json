@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4346 > 4347",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1057066",
+  "mmkId": "1057066",
+  "productGroupId": "512843",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-maat-7-luiers-volumedoos/p/6390011",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 7 (kg), 192 stuks",
-  "image": "/medias/sys_master/prd-images/hcc/hdf/44546609184798/prd-front-6390011-1_600x600/prd-front-6390011-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h16/h7e/44554172465182/prd-front-6390011-1_600x600/prd-front-6390011-1-600x600.jpg"
 }
