@@ -25,9 +25,18 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266709,
+      "name": "Stoppen met roken"
+    },
+    {
+      "id": 30266979,
+      "name": "Nicotinekauwgom"
     }
   ],
-  "description": "Geneesmiddel - 204 stuks"
+  "description": "Geneesmiddel - 204 stuks",
+  "image": "/medias/sys_master/prd-images/hd5/h1a/44277132230686/prd-front-6390158-1_600x600/prd-front-6390158-1-600x600.jpg"
 }

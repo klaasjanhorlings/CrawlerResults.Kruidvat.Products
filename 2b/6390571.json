@@ -25,10 +25,17 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001842,
+      "name": "Magnesium"
     }
   ],
-  "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/hcd/h6b/44315847720990/prd-front-6390571-1_600x600/prd-front-6390571-1-600x600.jpg"
+  "description": "90 stuks"
 }

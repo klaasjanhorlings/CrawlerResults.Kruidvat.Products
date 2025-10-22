@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wild Pink Grapefruit  Deodorant Refill",
+  "code": "6240281",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3786",
+  "supplier": "WILD COSMETICS LTD.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wild-pink-grapefruit-deodorant-refill/p/6240281",
+  "listName": "Lister",
+  "brand": "Wild",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266645,
+      "name": "Deostick"
+    }
+  ],
+  "description": "40g",
+  "image": "/medias/sys_master/prd-images/h32/h5d/33431988731934/prd-front-6240281-1_600x600/prd-front-6240281-1-600x600.jpg"
+}

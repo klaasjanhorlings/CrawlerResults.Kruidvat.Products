@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Protect Bijenwas",
+  "code": "29520",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2548 > 2926 > 3721",
+  "supplier": "HELICHEM BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-protect-bijenwas/p/29520",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144743,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "320ml",
+  "image": "/medias/sys_master/prd-images/h6d/h6f/28477198729246/prd-front-29520-1_600x600/prd-front-29520-1-600x600.jpg"
+}

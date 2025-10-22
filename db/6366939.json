@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056905",
+  "mmkId": "1056905",
+  "productGroupId": "494571",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-expert-skin-health-skin-therapy-anti-irritatie-doucheolie/p/6366939",
@@ -29,10 +29,10 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266648,
-      "name": "Douchegel"
+      "id": 30266649,
+      "name": "Doucheolie"
     }
   ],
   "description": "450ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/he3/hb7/44554431135774/prd-front-6366939-1_600x600/prd-front-6366939-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h00/h20/44576979910686/prd-front-6366939-1_600x600/prd-front-6366939-1-600x600.jpg"
 }

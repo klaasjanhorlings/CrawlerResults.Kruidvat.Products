@@ -5,7 +5,7 @@
   "code": "5908341",
   "price": "18.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
   "onPromo": "1054499",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266577,
-      "name": "Foundation"
+      "id": 30266580,
+      "name": "BB cream"
     }
   ],
   "description": "20ml",
-  "image": "/medias/sys_master/prd-images/hc8/h32/44555271700510/prd-front-5908341-1_600x600/prd-front-5908341-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf0/h53/44565439217694/prd-front-5908341-1_600x600/prd-front-5908341-1-600x600.jpg"
 }
