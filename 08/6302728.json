@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 4335 > 4336",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056897",
+  "mmkId": "1056897",
+  "productGroupId": "492046",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-little-wonders-15m-tomato-basil-veggie-puzzel-crackers/p/6302728",
@@ -33,5 +33,6 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "105g"
+  "description": "105g",
+  "image": "/medias/sys_master/prd-images/h2a/h19/34880704675870/prd-front-6302728-1_600x600/prd-front-6302728-1-600x600.jpg"
 }

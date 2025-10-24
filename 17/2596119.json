@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Taai Taai",
+  "code": "2596119",
+  "price": "1.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 4009",
+  "supplier": "VAN DELFT BISCUITS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-taai-taai/p/2596119",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267029,
+      "name": "Sinterklaassnoep"
+    },
+    {
+      "id": 107464702,
+      "name": "Sinterklaas snoepgoed"
+    }
+  ],
+  "description": "350g",
+  "image": "/medias/prd-front-2596119-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAxMDg0fGltYWdlL2pwZWd8YUdFeEwyaGtZaTh4TmpBNU56TXlORGN5T0RNMU1DOXdjbVF0Wm5KdmJuUXRNalU1TmpFeE9TMHhYell3TUhnMk1EQXwxNzA3ZDA1YzRjMzY5OTZjMmM5ZWNiNjhkZjIyODNlYWQwNmRhZmFkMGM5OWRkODdiN2RmMWYxMmE1YmYxNGMw"
+}

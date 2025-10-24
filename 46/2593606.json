@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Chocolade Mix Kruidnoten",
+  "code": "2593606",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 4009",
+  "supplier": "VAN DELFT BISCUITS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-chocolade-mix-kruidnoten/p/2593606",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267029,
+      "name": "Sinterklaassnoep"
+    },
+    {
+      "id": 107464631,
+      "name": "Kruidnoten"
+    }
+  ],
+  "description": "250g",
+  "image": "/medias/prd-front-2593606-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAyNzExfGltYWdlL2pwZWd8YURRd0wyaGxNeTh4TmpBNU9ERTNNRFV6TlRrMk5pOXdjbVF0Wm5KdmJuUXRNalU1TXpZd05pMHhYell3TUhnMk1EQXwyNzFmNjRhNjczNDc1ZDQyYzI3YjQ5ODhiYzkwNjZhOGVmM2ExYWYxMDM4NDc3NjRmNzA2YjZhN2EyZGQwMDE5"
+}

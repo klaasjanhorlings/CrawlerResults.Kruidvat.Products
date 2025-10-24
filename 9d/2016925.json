@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3934",
   "supplier": "HEALTHYPHARM BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Neusspray"
     }
   ],
-  "description": "Geneesmiddel - 10ml"
+  "description": "Geneesmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h61/h46/34692675895326/prd-front-2016925-1_600x600/prd-front-2016925-1-600x600.jpg"
 }

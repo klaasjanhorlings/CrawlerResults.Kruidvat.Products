@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice True Skin 039 High Cover Concealer",
-  "code": "5707297",
+  "itemName": "Catrice Matt AirBlush",
+  "code": "5706912",
   "price": "4.49",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-true-skin-039-high-cover-concealer/p/5707297",
+  "url": "/catrice-matt-airblush/p/5706912",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266578,
-      "name": "Concealer"
+      "id": 30266590,
+      "name": "Blush"
     }
   ],
-  "description": "4,5ml",
-  "image": "/medias/sys_master/prd-images/had/h80/35012907597854/prd-front-5707297-1_600x600/prd-front-5707297-1-600x600.jpg"
+  "description": "5,5g",
+  "image": "/medias/sys_master/prd-images/h3e/h5a/35013735153694/prd-front-5706912-1_600x600/prd-front-5706912-1-600x600.jpg"
 }

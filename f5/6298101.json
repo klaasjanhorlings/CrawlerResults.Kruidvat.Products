@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Myprotein Impact Natural Chocolate Whey Isolate",
   "code": "6298101",
   "price": "34.99",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "1000g"
+  "description": "1000g",
+  "image": "/medias/sys_master/prd-images/h51/h54/33917337468958/prd-front-6298101-1_600x600/prd-front-6298101-1-600x600.jpg"
 }

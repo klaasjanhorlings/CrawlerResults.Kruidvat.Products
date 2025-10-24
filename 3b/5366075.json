@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "MAXIM MARKENPRODUKTE",
-  "inStock": "inStock",
-  "onPromo": "1057027",
-  "mmkId": "1057027",
-  "productGroupId": "501792",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-skin-science-firming-luminous-55-eye-cream/p/5366075",
@@ -33,6 +33,5 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml - Rijpe huid",
-  "image": "/medias/sys_master/prd-images/h50/h43/34533424332830/prd-front-5366075-1_600x600/prd-front-5366075-1-600x600.jpg"
+  "description": "15ml - Rijpe huid"
 }

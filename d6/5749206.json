@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056897",
+  "mmkId": "1056897",
+  "productGroupId": "492046",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-6m-peer-banaan-knijpzakje/p/5749206",
@@ -37,5 +37,6 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/hfe/hb5/34919165394974/prd-front-5749206-1_600x600/prd-front-5749206-1-600x600.jpg"
 }

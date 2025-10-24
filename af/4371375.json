@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Isostar Fruit Boost Energy",
   "code": "4371375",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Sportrepen"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/hd5/he8/44210677514270/prd-front-4371375-1_600x600/prd-front-4371375-1-600x600.jpg"
 }
