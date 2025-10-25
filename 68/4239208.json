@@ -8,8 +8,8 @@
   "itemBgbcat": "2232 > 5921 > 6040 > 6549 > 6550 > 6551",
   "supplier": "LITTLE CONCEPTS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1057855",
+  "mmkId": "1057855",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
@@ -29,5 +29,6 @@
       "name": "Verkleedkleding & accessoires"
     }
   ],
-  "description": "5-7 jaar"
+  "description": "5-7 jaar",
+  "image": "/medias/sys_master/prd-images/h9f/h40/44429475708958/prd-front-4239208-1_600x600/prd-front-4239208-1-600x600.jpg"
 }

@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "e.l.f. Glow Reviver Java Chip Melting Lipbalm",
-  "code": "6275505",
-  "price": "10.0",
+  "itemName": "e.l.f. Cream Glide Plum & Get It Lipliner",
+  "code": "6275281",
+  "price": "4.0",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "ELF BEAUTY UK LIMITED",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/elf-glow-reviver-java-chip-melting-lipbalm/p/6275505",
+  "url": "/elf-cream-glide-plum-get-it-lipliner/p/6275281",
   "listName": "Lister",
   "brand": "ELF",
   "mpOrigin": "Kruidvat",
@@ -33,10 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 87395308,
-      "name": "Lip balm"
+      "id": 30266595,
+      "name": "Lipliner"
     }
   ],
-  "description": "15g",
-  "image": "/medias/sys_master/prd-images/h92/h81/34283238129694/prd-front-6275505-1_600x600/prd-front-6275505-1-600x600.jpg"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h5c/h63/34039999070238/prd-front-6275281-1_600x600/prd-front-6275281-1-600x600.jpg"
 }

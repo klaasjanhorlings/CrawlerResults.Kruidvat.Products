@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056812",
+  "mmkId": "1056812",
+  "productGroupId": "460421",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bausch-lomb-biotrue-multi-purpose-solution-lenzenvloeistof-flight-pack/p/6349201",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h4c/he7/44591200501790/prd-front-6349201-1_600x600/prd-front-6349201-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8b/h78/44600487477278/prd-front-6349201-1_600x600/prd-front-6349201-1-600x600.jpg"
 }

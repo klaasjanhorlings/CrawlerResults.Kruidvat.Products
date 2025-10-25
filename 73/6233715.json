@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Matt AirBlush",
-  "code": "5706912",
-  "price": "4.49",
+  "itemName": "Catrice Soft Glam Filter 010 Fair - Light Stick",
+  "code": "6233715",
+  "price": "4.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-matt-airblush/p/5706912",
+  "url": "/catrice-soft-glam-filter-010-fair-light-stick/p/6233715",
   "listName": "Lister",
   "brand": "Catrice",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266590,
-      "name": "Blush"
+      "id": 30266589,
+      "name": "Highlighter"
     }
   ],
-  "description": "5,5g",
-  "image": "/medias/sys_master/prd-images/h3e/h5a/35013735153694/prd-front-5706912-1_600x600/prd-front-5706912-1-600x600.jpg"
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/hd5/h3c/33038824439838/prd-front-6233715-1_600x600/prd-front-6233715-1-600x600.jpg"
 }

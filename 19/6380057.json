@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "ORCHARD BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Primer"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h61/h64/44486085181470/prd-front-6380057-1_600x600/prd-front-6380057-1-600x600.jpg"
+  "description": ""
 }

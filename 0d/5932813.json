@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 3437 > 6674",
   "supplier": "ORIGINAL ADDITIONS (BP)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056817",
+  "mmkId": "1056817",
+  "productGroupId": "462722",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/cantu-satin-bonnet-sleep-cap/p/5932813",
@@ -33,5 +33,6 @@
       "name": "Haarbanden"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h14/hae/28889033670686/prd-front-5932813-1_600x600/prd-front-5932813-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "GUHL IKEBANA COSMETICS",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056922",
+  "mmkId": "1056922",
+  "productGroupId": "496099",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guhl-kleurbescherming-verzorging-shampoo/p/3643333",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hef/h1b/44591139684382/prd-front-3643333-1_600x600/prd-front-3643333-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc0/hc4/44600441602078/prd-front-3643333-1_600x600/prd-front-3643333-1-600x600.jpg"
 }

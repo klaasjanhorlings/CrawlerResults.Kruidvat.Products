@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
   "supplier": "MONDELEZ NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,10 +29,14 @@
       "name": "Snacks en snoep"
     },
     {
-      "id": 74942293,
-      "name": "Trakteren"
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464836,
+      "name": "Bonbons en pralines"
     }
   ],
   "description": "207 stuks",
-  "image": "/medias/sys_master/prd-images/he9/h8a/44591521038366/prd-front-5305525-1_600x600/prd-front-5305525-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4f/h0c/44600449400862/prd-front-5305525-1_600x600/prd-front-5305525-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Snickers",
+  "code": "1397824",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2751 > 3463",
+  "supplier": "MARS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/snickers/p/1397824",
+  "listName": "Lister",
+  "brand": "Snickers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464796,
+      "name": "Repen en tabletten"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/prd-front-1397824-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzUzNzh8aW1hZ2UvanBlZ3xhRGczTDJobE15OHhOekV5TlRJeE9UQTNOREEzT0M5d2NtUXRabkp2Ym5RdE1UTTVOemd5TkMweFh6WXdNSGcyTURBfDlmNTYxMDI1N2I3YjcyYWZlZDhiN2JkNzcxZmQ4NmI0MjVlYWQ1NDhjN2I0NzA0Y2NkOTgxYzBhOGI3ZmE3MzM"
+}
