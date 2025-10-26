@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2261 > 2607 > 6391 > 6392 > 6397",
   "supplier": "BODY & FIT SPORTSNUTRIT",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/body-fit-creatine-monohydrate/p/5937916",
@@ -33,6 +33,5 @@
       "name": "Creatine"
     }
   ],
-  "description": "500g",
-  "image": "/medias/sys_master/prd-images/hd7/he3/44275338412062/prd-front-5937916-1_600x600/prd-front-5937916-1-600x600.jpg"
+  "description": "500g"
 }

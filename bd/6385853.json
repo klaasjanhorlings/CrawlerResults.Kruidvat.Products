@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pauline Wingelaar Hoop Oorbellen met Kralen",
+  "code": "6385853",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2143 > 2348 > 2749 > 4869 > 6580",
+  "supplier": "J-CLUB E-COMM",
+  "inStock": "inStock",
+  "onPromo": "1057147",
+  "mmkId": "1057147",
+  "productGroupId": "503720",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/pauline-wingelaar-hoop-oorbellen-met-kralen/p/6385853",
+  "listName": "Lister",
+  "brand": "Pauline Wingelaar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266860,
+      "name": "Sieraden en bijoux"
+    },
+    {
+      "id": 90372134,
+      "name": "Oorbellen"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h36/h3b/44208988946462/prd-front-6385853-1_600x600/prd-front-6385853-1-600x600.jpg"
+}
