@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kinderteddyvest met Dierenprint",
+  "code": "6295518",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5808 > 5809 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kinderteddyvest-met-dierenprint/p/6295518",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "mt 134-140",
+  "image": "/medias/sys_master/prd-images/hff/h33/44599958208542/prd-front-6295518-1_600x600/prd-front-6295518-1-600x600.jpg"
+}

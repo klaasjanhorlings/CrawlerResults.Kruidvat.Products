@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6260",
   "supplier": "NUTRILO GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1057173",
+  "mmkId": "1057173",
+  "productGroupId": "499586",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-echinacea-weerstand-bruistabletten/p/569289",
@@ -33,5 +33,6 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hff/h7e/33135731310622/prd-front-569289-1_600x600/prd-front-569289-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO City 60475 2025 Adventskalender",
+  "code": "6377299",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1040891",
+  "mmkId": "1040891",
+  "productGroupId": "432557",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-city-60475-2025-adventskalender/p/6377299",
+  "listName": "Lister",
+  "brand": "LEGO City",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 52211350,
+      "name": "Adventskalenders"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h07/h7a/35101878911006/prd-front-6377299-1_600x600/prd-front-6377299-1-600x600.jpg"
+}

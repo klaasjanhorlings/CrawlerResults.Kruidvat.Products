@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6198 > 6216 > 6258",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1057173",
+  "mmkId": "1057173",
+  "productGroupId": "499586",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-rode-gist-rijst-tabletten/p/6164779",
@@ -33,5 +33,6 @@
       "name": "Rode gist rijst"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/hc5/h64/44366269448222/prd-front-6164779-1_600x600/prd-front-6164779-1-600x600.jpg"
 }

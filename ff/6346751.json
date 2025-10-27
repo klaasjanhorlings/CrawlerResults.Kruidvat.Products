@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1040891",
-  "mmkId": "1040891",
-  "productGroupId": "432557",
+  "onPromo": "1057185",
+  "mmkId": "1057185",
+  "productGroupId": "501785",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-city-60455-achtervolging-op-politiemotor/p/6346751",
@@ -33,5 +33,6 @@
       "name": "LEGO Voertuigen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h30/hdd/34946783838238/prd-front-6346751-1_600x600/prd-front-6346751-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Unicorn Make-Up Box",
+  "code": "6386098",
+  "price": "13.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4639 > 4637 > 4638 > 5861 > 5864",
+  "supplier": "TREFFINA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/unicorn-make-up-box/p/6386098",
+  "listName": "Lister",
+  "brand": "Casuelle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666497,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h81/h23/44589367689246/prd-front-6386098-1_600x600/prd-front-6386098-1-600x600.jpg"
+}

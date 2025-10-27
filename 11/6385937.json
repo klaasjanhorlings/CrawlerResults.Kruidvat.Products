@@ -8,9 +8,9 @@
   "itemBgbcat": "2048 > 2143 > 2348 > 2749 > 4869 > 6580",
   "supplier": "J-CLUB E-COMM",
   "inStock": "inStock",
-  "onPromo": "1057147",
-  "mmkId": "1057147",
-  "productGroupId": "503720",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/pauline-wingelaar-strass-oorbellen/p/6385937",
@@ -37,5 +37,6 @@
       "name": "Oorbellen"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h94/h5d/44210503155742/prd-front-6385937-1_600x600/prd-front-6385937-1-600x600.jpg"
 }

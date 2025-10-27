@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Latte Macchiato Oploskoffie",
+  "code": "3813524",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 2963 > 6640",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "1057184",
+  "mmkId": "1057184",
+  "productGroupId": "501576",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/douwe-egberts-latte-macchiato-oploskoffie/p/3813524",
+  "listName": "Lister",
+  "brand": "Douwe Egberts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    }
+  ],
+  "description": "8 stuks",
+  "image": "/medias/sys_master/prd-images/h32/h07/28228491083806/prd-front-3813524-1_600x600/prd-front-3813524-1-600x600.jpg"
+}

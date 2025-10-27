@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lenor Light Katoen Fris Wasverzachter",
+  "code": "6312045",
+  "price": "5.49",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1057181",
+  "mmkId": "1057181",
+  "productGroupId": "501502",
+  "brandType": "A of B merk",
+  "discount": "€ 4,50",
+  "url": "/lenor-light-katoen-fris-wasverzachter/p/6312045",
+  "listName": "Lister",
+  "brand": "Lenor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266064,
+      "name": "Wasverzachter"
+    }
+  ],
+  "description": "1155ml, 55 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hae/h41/34163633684510/prd-front-6312045-1_600x600/prd-front-6312045-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2060 > 2192 > 5088 > 5113 > 5117 > 5926",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Sierkussens"
     }
   ],
-  "description": "45cm x 45cm",
-  "image": "/medias/sys_master/prd-images/h1c/h18/34651517419550/prd-front-6332730-1_600x600/prd-front-6332730-1-600x600.jpg"
+  "description": "45cm x 45cm"
 }
