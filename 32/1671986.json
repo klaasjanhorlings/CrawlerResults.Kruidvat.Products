@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "GEM BOHEMIA S.R.O.",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1057022",
+  "mmkId": "1057022",
+  "productGroupId": "501166",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-total-care-mondwater/p/1671986",
@@ -33,5 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/prd-front-1671986-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjIyNDh8aW1hZ2UvanBlZ3xhRGhrTDJnek5TOHhOelF4T0RNeE56SXdNVFF6T0M5d2NtUXRabkp2Ym5RdE1UWTNNVGs0TmkweFh6WXdNSGcyTURBfDIyNTkwZDAzNGIwMmY2OThjOWE2OWFlMjZlNWEwYmJjMWNjZTliZDliNzZmN2YyY2Q4ODMzOWJhMWIwNjBjZGI"
 }

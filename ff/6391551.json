@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 6471 > 6474",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "1056876",
-  "mmkId": "1056876",
-  "productGroupId": "486864",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-100-pure-magnesium-badkristallen/p/6391551",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "1kg"
+  "description": "1kg",
+  "image": "/medias/sys_master/prd-images/hc4/h80/44335011299358/prd-front-6391551-1_600x600/prd-front-6391551-1-600x600.jpg"
 }

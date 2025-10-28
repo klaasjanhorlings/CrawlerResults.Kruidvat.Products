@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Melk Chocoladeletter",
+  "code": "26348",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3806",
+  "supplier": "BARONIE - DE HEER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-melk-chocoladeletter/p/26348",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464848,
+      "name": "Chocoladeletters"
+    }
+  ],
+  "description": "135g",
+  "image": "/medias/prd-front-26348-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTY0OTF8aW1hZ2UvanBlZ3xhRFEzTDJobVlpOHhOakV3TlRJMU5qUTRORGc1TkM5d2NtUXRabkp2Ym5RdE1qWXpORGd0TVY4Mk1EQjROakF3fDZjNDY3MDUzMDVkZTlkN2VlNDU2NjE0ZGFjMzA3MDBlNjRmNjg1Y2FlMDhjMTE5ZTQ4YmRiYzYxMDdhMDNlODI"
+}

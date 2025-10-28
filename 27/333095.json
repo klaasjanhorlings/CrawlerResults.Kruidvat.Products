@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Melk Chocoladeletter met Hazelnoot",
+  "code": "333095",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3806",
+  "supplier": "BARONIE - DE HEER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-melk-chocoladeletter-met-hazelnoot/p/333095",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464848,
+      "name": "Chocoladeletters"
+    }
+  ],
+  "description": "135g",
+  "image": "/medias/prd-front-333095-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTU0MTJ8aW1hZ2UvanBlZ3xhRE0wTDJnNFlTOHhOakE1T0RFM01UQTJNREkxTkM5d2NtUXRabkp2Ym5RdE16TXpNRGsxTFRGZk5qQXdlRFl3TUF8ZjIzZTZjOWY1YjU3M2VhOGZhM2JkMGM5ZTA4ZGVhOTQyZjQ2MWU4MzlhOGM3ZGRlMjFiOGUxYjlhZjhjZGI3Ng"
+}

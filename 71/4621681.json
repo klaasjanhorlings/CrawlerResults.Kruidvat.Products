@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 6471 > 6473",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-magnesium-spierolie-spray/p/4621681",
@@ -33,6 +33,5 @@
       "name": "Spierherstel"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h7d/h31/44367376089118/prd-front-4621681-1_600x600/prd-front-4621681-1-600x600.jpg"
+  "description": "200ml"
 }

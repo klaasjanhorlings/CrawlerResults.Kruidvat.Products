@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2640 > 3325 > 3802 > 4829 > 5928 > 6038",
   "supplier": "TRENDSOURCE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Dameskleding"
     }
   ],
-  "description": "zwart, mt M",
-  "image": "/medias/sys_master/prd-images/hdb/h66/34646180167710/prd-front-6331736-1_600x600/prd-front-6331736-1-600x600.jpg"
+  "description": "zwart, mt M"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "MAXIM MARKENPRODUKTE",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1057027",
+  "mmkId": "1057027",
+  "productGroupId": "501792",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-skin-science-cellular-power-55-face-serum/p/5374230",
@@ -37,5 +37,6 @@
       "name": "Oogserum"
     }
   ],
-  "description": "30ml - Rijpe huid"
+  "description": "30ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/hb5/h9d/34534980091934/prd-front-5374230-1_600x600/prd-front-5374230-1-600x600.jpg"
 }
