@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Gliss Daily Oil Serum",
   "code": "6022182",
   "price": "11.99",
@@ -33,6 +33,5 @@
       "name": "Haarserum"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h7b/hd6/34028117884958/prd-front-6022182-1_600x600/prd-front-6022182-1-600x600.jpg"
+  "description": "75ml"
 }

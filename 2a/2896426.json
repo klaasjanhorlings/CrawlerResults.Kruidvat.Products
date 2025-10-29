@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Studio Line Essentials Go Create Precise Super Strong Gelspray",
   "code": "2896426",
   "price": "6.49",
@@ -29,10 +29,9 @@
       "name": "Haarstylingproducten"
     },
     {
-      "id": 30266928,
-      "name": "Haargel"
+      "id": 30266933,
+      "name": "Haarlak"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h29/h5d/28500128170014/prd-front-2896426-1_600x600/prd-front-2896426-1-600x600.jpg"
+  "description": "150ml"
 }

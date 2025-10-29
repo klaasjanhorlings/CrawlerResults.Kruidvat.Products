@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Garnier Loving Blends Magnetic Charcoal Shampoo",
   "code": "5789754",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/hbb/h51/29789570924574/prd-front-5789754-1_600x600/prd-front-5789754-1-600x600.jpg"
+  "description": "300ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "SYOSS Men Power Hold Extreme Styling Paste",
   "code": "4047086",
   "price": "8.49",
@@ -29,8 +29,8 @@
       "name": "Haarstylingproducten"
     },
     {
-      "id": 30266929,
-      "name": "Haarpasta"
+      "id": 30266927,
+      "name": "Haarwax"
     }
   ],
   "description": "150ml",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lactacyd Verzorgende Wasemulsie Mini",
   "code": "818511",
   "price": "2.99",
@@ -25,8 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266665,
+      "name": "Intieme hygiëne"
     }
   ],
   "description": "50ml",

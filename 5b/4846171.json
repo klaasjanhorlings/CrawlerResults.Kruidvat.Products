@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Novex Mystic Black Shampoo",
   "code": "4846171",
   "price": "7.99",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/hdd/hca/27530264510494/prd-front-4846171-1_600x600/prd-front-4846171-1-600x600.jpg"
+  "description": "300ml"
 }

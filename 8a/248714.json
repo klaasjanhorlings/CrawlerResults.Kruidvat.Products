@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Ecosym Week Forte",
   "code": "248714",
   "price": "7.49",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30266672,
-      "name": "Kunstgebitreiniger"
+      "id": 64453990,
+      "name": "Beugelverzorging"
     }
   ],
   "description": "100ml - Kunstgebit",

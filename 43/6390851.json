@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Orange & Peach Pre-Workout",
+  "code": "6390851",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6387 > 6388 > 6397",
+  "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-orange-peach-pre-workout/p/6390851",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266754,
+      "name": "Pre-workout"
+    }
+  ],
+  "description": "300g",
+  "image": "/medias/sys_master/prd-images/h0f/h94/44378159185950/prd-front-6390851-1_600x600/prd-front-6390851-1-600x600.jpg"
+}

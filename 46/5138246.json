@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "GUM Soft-Picks Minty Interdentale Tandenstokers",
   "code": "5138246",
   "price": "7.99",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30266667,
-      "name": "Tandenstokers"
+      "id": 30266669,
+      "name": "Tandenragers"
     }
   ],
   "description": "mt M, 40 stuks",

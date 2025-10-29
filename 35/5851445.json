@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Wilkinson Sword Intuition Perfect Finish Eyebrow Shaper",
   "code": "5851445",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "3 stuks"
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h36/h6e/30285091504158/prd-front-5851445-1_600x600/prd-front-5851445-1-600x600.jpg"
 }

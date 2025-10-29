@@ -7,10 +7,10 @@
   "priceOriginal": "15.69",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "1056448",
-  "mmkId": "1056448",
-  "productGroupId": "501373",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 7,20",
   "url": "/lenor-amber-orchidee-wasverzachter/p/6374947",
@@ -29,6 +29,5 @@
       "name": "Wasverzachter"
     }
   ],
-  "description": "1827ml, 87 wasbeurten",
-  "image": "/medias/sys_master/prd-images/h9b/h3f/35042435104798/prd-front-6374947-1_600x600/prd-front-6374947-1-600x600.jpg"
+  "description": "1827ml, 87 wasbeurten"
 }

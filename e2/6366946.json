@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sanex Expert Skin Health+ Skin Therapy Anti-Droogheid Douchecreme",
   "code": "6366946",
   "price": "7.49",
@@ -29,10 +29,10 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266648,
-      "name": "Douchegel"
+      "id": 30266647,
+      "name": "Douchecrème"
     }
   ],
   "description": "450ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/h03/h44/44627371687966/prd-front-6366946-1_600x600/prd-front-6366946-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hca/h98/44632318836766/prd-front-6366946-1_600x600/prd-front-6366946-1-600x600.jpg"
 }

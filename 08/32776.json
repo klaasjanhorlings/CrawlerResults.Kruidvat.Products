@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sebamed Zeepvrije Wasemulsie",
   "code": "32776",
   "price": "18.49",
@@ -25,12 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265997,
-      "name": "Bad- en doucheproducten"
+      "id": 30266003,
+      "name": "Handverzorging"
     },
     {
-      "id": 30266647,
-      "name": "Douchecrème"
+      "id": 30266689,
+      "name": "Handzeep"
     }
   ],
   "description": "1000ml - Zeepvrij",

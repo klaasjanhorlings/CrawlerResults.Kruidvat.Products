@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Clear Protein 100% Isolate Lemonade Refreshing Protein",
+  "code": "6391404",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
+  "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-clear-protein-100-isolate-lemonade-refreshing-protein/p/6391404",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266750,
+      "name": "Proteine eiwit poeders"
+    }
+  ],
+  "description": "220g",
+  "image": "/medias/sys_master/prd-images/h36/h5e/44367634300958/prd-front-6391404-1_600x600/prd-front-6391404-1-600x600.jpg"
+}

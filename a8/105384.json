@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Melkmeisje Honing Bad & Douchecrème",
   "code": "105384",
   "price": "4.69",
@@ -29,8 +29,8 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266647,
-      "name": "Douchecrème"
+      "id": 30266655,
+      "name": "Badschuim"
     }
   ],
   "description": "1L - Normale huid",

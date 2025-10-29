@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Purol Vaseline",
   "code": "20027",
   "price": "3.69",
@@ -25,12 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
+      "id": 30266003,
+      "name": "Handverzorging"
     },
     {
-      "id": 30266641,
-      "name": "Bodycremes"
+      "id": 30266688,
+      "name": "Handcrèmes"
     }
   ],
   "description": "50g",

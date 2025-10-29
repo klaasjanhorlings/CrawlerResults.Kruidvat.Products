@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Veet Expert Waxstrips voor je Benen",
   "code": "5844193",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hb4/h14/27594066591774/prd-front-5844193-1_600x600/prd-front-5844193-1-600x600.jpg"
 }

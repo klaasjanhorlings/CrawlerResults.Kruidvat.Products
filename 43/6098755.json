@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Guhl Structuurherstel 3-in-1 Haartreatment",
   "code": "6098755",
   "price": "10.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h67/h12/44630592913438/prd-front-6098755-1_600x600/prd-front-6098755-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h40/h86/44641014415390/prd-front-6098755-1_600x600/prd-front-6098755-1-600x600.jpg"
 }

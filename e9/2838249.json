@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Zero 0% Alcohol Mondwater",
   "code": "2838249",
   "price": "0.99",
@@ -25,13 +25,10 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266001,
-      "name": "Mondverzorging"
-    },
-    {
-      "id": 30266676,
-      "name": "Mondwater en mondspray"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h9f/h19/34898546720798/prd-front-2838249-1_600x600/prd-front-2838249-1-600x600.jpg"
 }

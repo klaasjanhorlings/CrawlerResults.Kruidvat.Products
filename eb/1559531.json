@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Zijdezachte Bodymilk",
   "code": "1559531",
   "price": "11.99",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml - Droge huid"
+  "description": "400ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hde/hf3/34396992929822/prd-front-1559531-1_600x600/prd-front-1559531-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "SheaMoisture Coconut & Hibiscus + Flaxseed Curl Defining Gel",
   "code": "6060402",
   "price": "14.99",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "431ml"
+  "description": "431ml",
+  "image": "/medias/sys_master/prd-images/hbe/hd2/30585243435038/prd-front-6060402-1_600x600/prd-front-6060402-1-600x600.jpg"
 }

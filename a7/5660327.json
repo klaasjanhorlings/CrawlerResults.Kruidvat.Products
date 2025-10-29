@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Vaseline Original Lip Therapy",
   "code": "5660327",
   "price": "2.89",
@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266609,
+      "name": "Lippenbalsem"
     }
   ],
   "description": "7g",

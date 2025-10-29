@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Libresse Dailies Normal Inlegkruisjes",
   "code": "5837683",
   "price": "4.89",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "58 stuks"
+  "description": "58 stuks",
+  "image": "/medias/sys_master/prd-images/h76/hda/28736982646814/prd-front-5837683-1_600x600/prd-front-5837683-1-600x600.jpg"
 }

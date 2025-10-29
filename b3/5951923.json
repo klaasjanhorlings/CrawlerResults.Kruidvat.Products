@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "GUM Soft-Picks Pro Interdentale Tandenstokers",
   "code": "5951923",
   "price": "14.99",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 64453990,
-      "name": "Beugelverzorging"
+      "id": 30266669,
+      "name": "Tandenragers"
     }
   ],
   "description": "mt S, 60 stuks",

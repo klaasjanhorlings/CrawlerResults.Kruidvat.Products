@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Parodontax Original Mini-Tandpasta",
   "code": "5613238",
   "price": "1.69",
@@ -25,9 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 15ml"
+  "description": "Medisch hulpmiddel - 15ml",
+  "image": "/medias/sys_master/prd-images/h7b/he5/44578684436510/prd-front-5613238-1_600x600/prd-front-5613238-1-600x600.jpg"
 }

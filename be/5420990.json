@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Happy Earth 100% Natural Lavender Deodorant Balm",
   "code": "5420990",
   "price": "7.69",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3678 > 5727",
   "supplier": "ORANGE-SHEEP BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056835",
+  "mmkId": "1056835",
+  "productGroupId": "473488",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-100-natural-lavender-deodorant-balm/p/5420990",
@@ -33,6 +33,5 @@
       "name": "Deodorant creme"
     }
   ],
-  "description": "45g",
-  "image": "/medias/sys_master/prd-images/h53/h98/34758230540318/prd-front-5420990-1_600x600/prd-front-5420990-1-600x600.jpg"
+  "description": "45g"
 }

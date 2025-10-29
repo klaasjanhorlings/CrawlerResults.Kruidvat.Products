@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "John Frieda Violet Crush For Blondes Purple Toning Masker",
   "code": "5605370",
   "price": "13.69",
@@ -33,6 +33,5 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/haf/h18/28998274154526/prd-front-5605370-1_600x600/prd-front-5605370-1-600x600.jpg"
+  "description": "250ml"
 }

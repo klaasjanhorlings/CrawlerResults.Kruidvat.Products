@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Secret d'Afrique Cocoa Butter Lotion",
   "code": "3574621",
   "price": "6.05",
@@ -25,12 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
+      "id": 30266003,
+      "name": "Handverzorging"
     },
     {
-      "id": 30266637,
-      "name": "Bodylotion"
+      "id": 30266691,
+      "name": "Handlotion"
     }
   ],
   "description": "500ml",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dove Deeply Nourishing Mini Douchecrème",
   "code": "3428419",
   "price": "1.99",
@@ -25,12 +25,8 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265997,
-      "name": "Bad- en doucheproducten"
-    },
-    {
-      "id": 30266648,
-      "name": "Douchegel"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "55ml",

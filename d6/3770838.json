@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "SAR TRADING BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-3770838-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA3MDV8aW1hZ2UvanBlZ3xhRE0wTDJnNE5pOHlOekV6TnpnNU1qazBNVGcxTkM5d2NtUXRabkp2Ym5RdE16YzNNRGd6T0MweFh6WXdNSGcyTURBfGZkNGE4M2U3OTJkMjNhMWIzMGEyZGRkM2Q1NGFlMDJkYzVhYzhiYjMzNzA0N2M2Y2UxMzQ5N2IxMTY2YWE5ZGE"
+  "description": "100ml"
 }

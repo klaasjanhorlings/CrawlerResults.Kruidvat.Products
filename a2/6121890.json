@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Andrélon Pro-Care Protein Plex Repair Conditioner",
   "code": "6121890",
   "price": "12.99",
@@ -25,12 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266692,
-      "name": "Haarstylingproducten"
+      "id": 30266005,
+      "name": "Haarverzorging"
     },
     {
-      "id": 30266926,
-      "name": "Haarcrème"
+      "id": 30266695,
+      "name": "Conditioner"
     }
   ],
   "description": "250ml",

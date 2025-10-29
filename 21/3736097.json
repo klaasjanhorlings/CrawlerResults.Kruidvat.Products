@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Vision Sensitive++ Expert SPF30 Lotion",
-  "code": "5083506",
-  "price": "6.49",
+  "itemName": "Kruidvat Solait Kids SPF50+ XXL Sunmilk",
+  "code": "3736097",
+  "price": "15.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
-  "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "supplier": "DALLI - WERKE GMBH & CO",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Eigen merk",
   "discount": "",
-  "url": "/vision-sensitive-expert-spf30-lotion/p/5083506",
+  "url": "/kruidvat-solait-kids-spf50-xxl-sunmilk/p/3736097",
   "listName": "Lister",
-  "brand": "Vision",
+  "brand": "Kruidvat Solait",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "180ml",
-  "image": "/medias/sys_master/prd-images/h89/h8a/34025797779486/prd-front-5083506-1_600x600/prd-front-5083506-1-600x600.jpg"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h6e/h06/29795185066014/prd-front-3736097-1_600x600/prd-front-3736097-1-600x600.jpg"
 }

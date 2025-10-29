@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Sensodyne Repair & Protect Whitening Tandpasta",
+  "code": "5715809",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "1056064",
+  "mmkId": "1056064",
+  "productGroupId": "479296",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sensodyne-repair-protect-whitening-tandpasta/p/5715809",
+  "listName": "Lister",
+  "brand": "Sensodyne",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 4 x 75ml",
+  "image": "/medias/sys_master/prd-images/hcb/hfe/34520050303006/prd-front-5715809-1_600x600/prd-front-5715809-1-600x600.jpg"
+}

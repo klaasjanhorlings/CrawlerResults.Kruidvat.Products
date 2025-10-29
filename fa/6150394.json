@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Philips OneBlade Pro 360 Face+Body QP6507/23 Trimmer, Scheerapparaat en Styler",
   "code": "6150394",
   "price": "69.99",
@@ -29,8 +29,8 @@
       "name": "Scheren en ontharen"
     },
     {
-      "id": 30266686,
-      "name": "Baardtrimmers"
+      "id": 30266679,
+      "name": "Scheerapparaten"
     }
   ],
   "description": "zwart",

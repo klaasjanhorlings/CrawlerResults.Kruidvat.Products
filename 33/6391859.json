@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 90° 1,2mm Interdentale Borsteltjes",
   "code": "6391859",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "6 stuks"
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/h01/h90/44564394475550/prd-front-6391859-1_600x600/prd-front-6391859-1-600x600.jpg"
 }

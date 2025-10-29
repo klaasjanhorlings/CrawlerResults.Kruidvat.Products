@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Scholl Verzachtend en Revitaliserend Voetmasker",
   "code": "6238860",
   "price": "4.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/hd4/h5a/44623979642910/prd-front-6238860-1_600x600/prd-front-6238860-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h04/ha6/44632028184606/prd-front-6238860-1_600x600/prd-front-6238860-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "o.b. Original Normal Tampons",
   "code": "5451181",
   "price": "2.09",
@@ -33,6 +33,5 @@
       "name": "Tampons"
     }
   ],
-  "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/h69/hbd/35131692515358/prd-front-5451181-1_600x600/prd-front-5451181-1-600x600.jpg"
+  "description": "16 stuks"
 }

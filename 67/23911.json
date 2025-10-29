@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Aquafresh Freshmint Frisse Adem Mondspray",
   "code": "23911",
   "price": "4.69",
@@ -25,12 +25,8 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266001,
-      "name": "Mondverzorging"
-    },
-    {
-      "id": 30266676,
-      "name": "Mondwater en mondspray"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "15ml",

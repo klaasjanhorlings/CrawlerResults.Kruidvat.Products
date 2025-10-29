@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Colgate Max Fresh Active & Clean Protect Tandpasta",
   "code": "3421006",
   "price": "3.49",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Frisse adem"
+  "description": "75ml - Frisse adem",
+  "image": "/medias/sys_master/prd-images/hfe/h88/33857161297950/prd-front-3421006-1_600x600/prd-front-3421006-1-600x600.jpg"
 }

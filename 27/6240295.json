@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Wild Pink Fresh Cotton & Sea Deodorant Refill",
+  "code": "6240295",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3786",
+  "supplier": "WILD COSMETICS LTD.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wild-pink-fresh-cotton-sea-deodorant-refill/p/6240295",
+  "listName": "Lister",
+  "brand": "Wild",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266645,
+      "name": "Deostick"
+    }
+  ],
+  "description": "40g",
+  "image": "/medias/sys_master/prd-images/h9f/h87/33819923120158/prd-front-6240295-1_600x600/prd-front-6240295-1-600x600.jpg"
+}

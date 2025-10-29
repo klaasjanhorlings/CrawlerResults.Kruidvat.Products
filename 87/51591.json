@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Sensitive Scheergel voor de Gevoelige Huid",
   "code": "51591",
   "price": "1.59",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/heb/h3f/27507913195550/prd-front-51591-1_600x600/prd-front-51591-1-600x600.jpg"
 }

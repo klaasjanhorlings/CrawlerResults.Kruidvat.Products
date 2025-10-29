@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Veet Minima Pure Easy-Gel Waxstrips voor je Lichaam en Benen",
   "code": "5397869",
   "price": "13.99",
@@ -33,6 +33,5 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc8/h74/34868672004126/prd-front-5397869-1_600x600/prd-front-5397869-1-600x600.jpg"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "GUM Ortho Tandenborstel",
   "code": "4647707",
   "price": "4.77",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30266671,
-      "name": "Tandenborstels"
+      "id": 64453990,
+      "name": "Beugelverzorging"
     }
   ],
   "description": "",

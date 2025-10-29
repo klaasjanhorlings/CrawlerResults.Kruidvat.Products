@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Palmolive Skin Radiance Avocado & Honey Bodywash",
   "code": "6059737",
   "price": "3.99",
@@ -29,8 +29,8 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266647,
-      "name": "Douchecrème"
+      "id": 30266648,
+      "name": "Douchegel"
     }
   ],
   "description": "250ml - Normale huid",

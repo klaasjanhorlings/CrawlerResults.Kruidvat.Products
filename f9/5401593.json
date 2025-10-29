@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Elvive Dream Lengths Heat Protect Hittespray",
   "code": "5401593",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Heat protectors"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h2e/h26/33046944153630/prd-front-5401593-1_600x600/prd-front-5401593-1-600x600.jpg"
 }

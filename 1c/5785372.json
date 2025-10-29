@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "John Frieda Profiller+ Haarspray",
   "code": "5785372",
   "price": "15.99",
@@ -29,8 +29,8 @@
       "name": "Haarstylingproducten"
     },
     {
-      "id": 30266933,
-      "name": "Haarlak"
+      "id": 30266931,
+      "name": "Heat protectors"
     }
   ],
   "description": "150ml",

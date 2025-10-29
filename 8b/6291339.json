@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Philips Sonicare G3 Premium Gum Care Opzetborstels",
   "code": "6291339",
   "price": "37.99",
@@ -33,6 +33,5 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 2 stuks",
-  "image": "/medias/sys_master/prd-images/h44/h23/34868293074974/prd-front-6291339-1_600x600/prd-front-6291339-1-600x600.jpg"
+  "description": "wit, 2 stuks"
 }

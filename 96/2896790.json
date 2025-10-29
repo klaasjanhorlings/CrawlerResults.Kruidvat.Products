@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Studio Line Special FX Radical 24H Fibre Gel",
   "code": "2896790",
   "price": "6.49",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h75/h65/28505947275294/prd-front-2896790-1_600x600/prd-front-2896790-1-600x600.jpg"
 }

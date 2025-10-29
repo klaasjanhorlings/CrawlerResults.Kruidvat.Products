@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Batiste Blush Droogshampoo",
   "code": "2420174",
   "price": "4.99",
@@ -33,6 +33,5 @@
       "name": "Droogshampoo"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h78/h4e/32639173394462/prd-front-2420174-1_600x600/prd-front-2420174-1-600x600.jpg"
+  "description": "200ml"
 }

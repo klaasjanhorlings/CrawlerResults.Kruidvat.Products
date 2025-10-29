@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Kruidvat Science Bonded Repair Masker",
+  "code": "6341704",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6695",
+  "supplier": "MARION PRIVATE LABEL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-science-bonded-repair-masker/p/6341704",
+  "listName": "Lister",
+  "brand": "Kruidvat Science",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266697,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hf3/hc8/44487783088158/prd-front-6341704-1_600x600/prd-front-6341704-1-600x600.jpg"
+}

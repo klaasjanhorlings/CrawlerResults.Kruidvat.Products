@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Soft Hydraterende Crème",
   "code": "2033564",
   "price": "2.59",
@@ -25,14 +25,10 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
-    },
-    {
-      "id": 30266641,
-      "name": "Bodycremes"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hbc/hff/44623840313374/prd-front-2033564-1_600x600/prd-front-2033564-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h04/hf4/44631265017886/prd-front-2033564-1_600x600/prd-front-2033564-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Fa Men Sport Deodorant Roller",
   "code": "3685690",
   "price": "4.49",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h71/h5d/44426501816350/prd-front-3685690-1_600x600/prd-front-3685690-1-600x600.jpg"
 }

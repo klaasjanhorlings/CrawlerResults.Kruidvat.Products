@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Andrélon Perfecte Krul 5-in-1 Bounce Back Spray",
   "code": "6292893",
   "price": "9.39",
@@ -33,5 +33,6 @@
       "name": "Anti-klitspray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/ha2/he3/44565917990942/prd-front-6292893-1_600x600/prd-front-6292893-1-600x600.jpg"
 }

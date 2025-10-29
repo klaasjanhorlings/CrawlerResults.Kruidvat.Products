@@ -1,21 +1,21 @@
 {
   "type": "product",
-  "currency": "EUR",
-  "itemName": "Vision SPF30 Face Fluid Zonnebrand",
-  "code": "4329893",
-  "price": "6.49",
+  "currency": "USD",
+  "itemName": "Kruidvat Solait SPF50 Sunmilk",
+  "code": "2777006",
+  "price": "3.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
-  "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "supplier": "DALLI - WERKE GMBH & CO",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Eigen merk",
   "discount": "",
-  "url": "/vision-spf30-face-fluid-zonnebrand/p/4329893",
+  "url": "/kruidvat-solait-spf50-sunmilk/p/2777006",
   "listName": "Lister",
-  "brand": "Vision",
+  "brand": "Kruidvat Solait",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h0e/hb7/34021296865310/prd-front-4329893-1_600x600/prd-front-4329893-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h77/hc1/29998874427422/prd-front-2777006-1_600x600/prd-front-2777006-1-600x600.jpg"
 }

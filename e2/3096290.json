@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Uiercrème",
   "code": "3096290",
   "price": "3.19",
@@ -25,12 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
+      "id": 30266003,
+      "name": "Handverzorging"
     },
     {
-      "id": 30266641,
-      "name": "Bodycremes"
+      "id": 30266688,
+      "name": "Handcrèmes"
     }
   ],
   "description": "500ml",

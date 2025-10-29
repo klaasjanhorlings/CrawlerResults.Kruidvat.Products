@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Elvive Dream Lengths Curls Hydraterende Styling Gel",
   "code": "5786604",
   "price": "10.99",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/prd-front-5786604-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzcyODF8aW1hZ2UvanBlZ3xhR0V6TDJoaE5TOHlOekEwTURrMk9EQTRNVFF6T0M5d2NtUXRabkp2Ym5RdE5UYzROall3TkMweFh6WXdNSGcyTURBfGZjNGJjODJkZTYyNmI5Y2UzOWIyOTU3MGM5ODYxYzc4ODE1NzUwOGYxMGE4NDI1ZDcwZTI3MDcyNzA0ZWE1MDk"
 }

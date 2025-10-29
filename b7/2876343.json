@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Aloe Vera Handzeep Navulling",
   "code": "2876343",
   "price": "2.19",
@@ -29,8 +29,8 @@
       "name": "Handverzorging"
     },
     {
-      "id": 30266689,
-      "name": "Handzeep"
+      "id": 68231043,
+      "name": "Handzeep navulling"
     }
   ],
   "description": "1000ml",

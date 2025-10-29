@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Men Sensitive Scheergel",
   "code": "3431093",
   "price": "3.79",
@@ -25,12 +25,8 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266002,
-      "name": "Scheren en ontharen"
-    },
-    {
-      "id": 30266681,
-      "name": "Scheerschuim en scheergel"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "30ml - Gevoelige huid",

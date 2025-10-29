@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536081,
+      "name": "Speelgoed"
     },
     {
-      "id": 52211350,
-      "name": "Adventskalenders"
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266810,
+      "name": "LEGO City"
     }
   ],
   "description": "",

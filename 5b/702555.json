@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Therme Antitranspirant Behandelspray",
   "code": "702555",
   "price": "20.99",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "25ml"
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/hf6/h67/29339253964830/prd-front-702555-1_600x600/prd-front-702555-1-600x600.jpg"
 }

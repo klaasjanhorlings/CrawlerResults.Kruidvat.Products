@@ -8,8 +8,8 @@
   "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
   "supplier": "ASMODEE THE NETHERLANDS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1012132",
+  "mmkId": "1012132",
   "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h3b/h65/34101021900830/prd-front-6305605-1_600x600/prd-front-6305605-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

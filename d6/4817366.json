@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat For Men Six Scheersysteem",
   "code": "4817366",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h96/h0f/28076535709726/prd-front-4817366-1_600x600/prd-front-4817366-1-600x600.jpg"
 }

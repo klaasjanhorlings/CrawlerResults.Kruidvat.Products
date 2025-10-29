@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Purol Geel Zalf",
   "code": "20025",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-20025-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzk2Njh8aW1hZ2UvanBlZ3xhR1E1TDJobU15OHlOalUyTWpFNE1EVXhNemd5TWk5d2NtUXRabkp2Ym5RdE1qQXdNalV0TVY4Mk1EQjROakF3fDM1MjZkN2Q0NDk4YjY1NjNmYTQ1NTRhMGVmOTZiNzZmYmZjYzEwZjQ0NTAzYzk2ZDgzMmM0YTJhODc3NThlODA"
 }

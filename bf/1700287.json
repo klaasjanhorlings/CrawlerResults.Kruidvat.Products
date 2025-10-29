@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Aquafresh White & Shine Tandpasta",
   "code": "1700287",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/hd3/h7c/34520431853598/prd-front-1700287-1_600x600/prd-front-1700287-1-600x600.jpg"
+  "description": "75ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Corega Free Kleefcrème",
   "code": "4421355",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Kleefpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 70g"
+  "description": "Medisch hulpmiddel - 70g",
+  "image": "/medias/sys_master/prd-images/hfb/h33/34521197346846/prd-front-4421355-1_600x600/prd-front-4421355-1-600x600.jpg"
 }

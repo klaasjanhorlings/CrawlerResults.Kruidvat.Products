@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Guhl Heerlijke Verzorging Shampoo",
   "code": "3643263",
   "price": "8.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h91/h4b/44623848243230/prd-front-3643263-1_600x600/prd-front-3643263-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h28/h54/44632306122782/prd-front-3643263-1_600x600/prd-front-3643263-1-600x600.jpg"
 }
