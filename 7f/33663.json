@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 4 Ultra Strong Hairspray",
   "code": "33663",
   "price": "1.99",
@@ -33,6 +33,5 @@
       "name": "Haarlak"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hcd/h64/27521007648798/prd-front-33663-1_600x600/prd-front-33663-1-600x600.jpg"
+  "description": "400ml"
 }

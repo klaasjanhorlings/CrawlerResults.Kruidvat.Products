@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Menstruatiecup",
   "code": "4927161",
   "price": "14.99",
@@ -33,6 +33,5 @@
       "name": "Menstruatiecups"
     }
   ],
-  "description": "maat B",
-  "image": "/medias/sys_master/prd-images/h1b/h3e/28464805773342/prd-front-4927161-1_600x600/prd-front-4927161-1-600x600.jpg"
+  "description": "maat B"
 }

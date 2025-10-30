@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Chilly Calming Intieme Wasemulsie ",
   "code": "6180697",
   "price": "6.89",
@@ -33,6 +33,5 @@
       "name": "Intieme hygiëne"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h98/hca/32021242314782/prd-front-6180697-1_600x600/prd-front-6180697-1-600x600.jpg"
+  "description": "200ml"
 }

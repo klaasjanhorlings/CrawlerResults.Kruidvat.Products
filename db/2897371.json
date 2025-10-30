@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kneipp Soft Skin Nourishing Body Cream",
   "code": "2897371",
   "price": "12.99",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h9a/h7d/33481072934942/prd-front-2897371-1_600x600/prd-front-2897371-1-600x600.jpg"
+  "description": "200ml"
 }

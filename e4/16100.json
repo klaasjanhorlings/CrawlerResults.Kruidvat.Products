@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sebamed Douchegel",
   "code": "16100",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "200ml - Zeepvrij"
+  "description": "200ml - Zeepvrij",
+  "image": "/medias/sys_master/prd-images/h0b/h7f/31967170789406/prd-front-16100-1_600x600/prd-front-16100-1-600x600.jpg"
 }

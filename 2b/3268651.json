@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Gillette Simply Venus3 Plus Wegwerpscheermesjes",
   "code": "3268651",
   "price": "7.89",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "6 stuks"
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/hc2/h6b/28041867264030/prd-front-3268651-1_600x600/prd-front-3268651-1-600x600.jpg"
 }

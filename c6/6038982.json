@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3035 > 3888",
   "supplier": "HENKEL NEDERLAND BV U-W",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1057148",
+  "mmkId": "1057148",
+  "productGroupId": "451244",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/persil-expert-sensitive-vloeibaar-wasmiddel/p/6038982",
@@ -29,5 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "810ml, 18 wasbeurten"
+  "description": "810ml, 18 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hc9/hef/44437819129886/prd-front-6038982-1_600x600/prd-front-6038982-1-600x600.jpg"
 }

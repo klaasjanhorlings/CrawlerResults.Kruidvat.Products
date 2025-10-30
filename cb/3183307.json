@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dove Men+Care Clean Comfort Compressed Antitranspirant Spray",
   "code": "3183307",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hbe/h03/34394058784798/prd-front-3183307-1_600x600/prd-front-3183307-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Gillette Venus Pro ComfortGlide Coconut Navulmesjes",
   "code": "6261491",
   "price": "20.49",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "3 stuks",
-  "image": "/medias/sys_master/prd-images/hdf/haf/33465554141214/prd-front-6261491-1_600x600/prd-front-6261491-1-600x600.jpg"
+  "description": "3 stuks"
 }

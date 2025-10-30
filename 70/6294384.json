@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Oral-B Professional Bescherming Tegen Gevoeligheid Tandpasta",
   "code": "6294384",
   "price": "6.59",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "medisch hulpmiddel",
-  "image": "/medias/sys_master/prd-images/hd3/h7d/34283618041886/prd-front-6294384-1_600x600/prd-front-6294384-1-600x600.jpg"
+  "description": "medisch hulpmiddel"
 }

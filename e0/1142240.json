@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Kunstgebitborstel",
   "code": "1142240",
   "price": "1.99",
@@ -33,5 +33,6 @@
       "name": "Kunstgebitreiniger"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h33/h5c/28793985630238/prd-front-1142240-1_600x600/prd-front-1142240-1-600x600.jpg"
 }

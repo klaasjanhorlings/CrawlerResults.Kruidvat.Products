@@ -1,16 +1,16 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Schwarzkopf Taft Super Glue Level 14 Haargel Tube",
   "code": "3027396",
   "price": "5.79",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1057006",
+  "mmkId": "1057006",
+  "productGroupId": "500715",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-taft-super-glue-level-14-haargel-tube/p/3027396",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/he7/hd7/34869836546078/prd-front-3027396-1_600x600/prd-front-3027396-1-600x600.jpg"
 }

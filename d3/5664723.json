@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Badborstel",
   "code": "5664723",
   "price": "5.99",
@@ -29,5 +29,6 @@
       "name": "Bad- en doucheaccessoires"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

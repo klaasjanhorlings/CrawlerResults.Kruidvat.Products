@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Rexona Women Maximum Protection Active Shield Anti-Transpirant Cream Deodorant Stick",
   "code": "3774058",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "45ml"
+  "description": "45ml",
+  "image": "/medias/sys_master/prd-images/h61/h22/44491639848990/prd-front-3774058-1_600x600/prd-front-3774058-1-600x600.jpg"
 }

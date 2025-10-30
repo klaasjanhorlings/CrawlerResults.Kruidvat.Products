@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Guhl Kracht & Volume Shampoo",
   "code": "6243585",
   "price": "10.99",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hc3/hce/33104719511582/prd-front-6243585-1_600x600/prd-front-6243585-1-600x600.jpg"
 }

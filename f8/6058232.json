@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dove Advanced Care Relaxing Douchegel",
   "code": "6058232",
   "price": "8.95",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml - Normale huid"
+  "description": "400ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h62/hcb/30545630789662/prd-front-6058232-1_600x600/prd-front-6058232-1-600x600.jpg"
 }

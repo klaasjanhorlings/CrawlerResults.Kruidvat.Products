@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Braun Series 7 BT7520 Baardtrimmer",
   "code": "6261596",
   "price": "99.99",
@@ -33,6 +33,5 @@
       "name": "Baardtrimmers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha6/h88/33340024193054/prd-front-6261596-1_600x600/prd-front-6261596-1-600x600.jpg"
+  "description": ""
 }

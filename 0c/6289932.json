@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hismile Chupa Chups Cola Tandpasta",
   "code": "6289932",
   "price": "10.99",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "60g",
-  "image": "/medias/sys_master/prd-images/hd9/h3a/33965514391582/prd-front-6289932-1_600x600/prd-front-6289932-1-600x600.jpg"
+  "description": "60g"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Braun Series 5 HC5310 Haartrimmer",
   "code": "6197105",
   "price": "59.99",
@@ -33,6 +33,5 @@
       "name": "Tondeuses"
     }
   ],
-  "description": "zwart",
-  "image": "/medias/sys_master/prd-images/h24/h50/32944412393502/prd-front-6197105-1_600x600/prd-front-6197105-1-600x600.jpg"
+  "description": "zwart"
 }

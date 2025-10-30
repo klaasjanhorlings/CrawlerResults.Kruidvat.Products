@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Taft Junior Mega Strong 5 Haarspray",
   "code": "6010912",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hb8/hc9/29579105927198/prd-front-6010912-1_600x600/prd-front-6010912-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sanature 100% Katoenen String Inlegkruisjes",
   "code": "6156155",
   "price": "3.79",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "24 stuks"
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/h7d/hf5/31565074956318/prd-front-6156155-1_600x600/prd-front-6156155-1-600x600.jpg"
 }

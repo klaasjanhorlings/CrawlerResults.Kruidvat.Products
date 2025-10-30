@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dove Body Love Intense Care Bodylotion",
   "code": "2677109",
   "price": "8.99",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h12/hce/34324310818846/prd-front-2677109-1_600x600/prd-front-2677109-1-600x600.jpg"
 }

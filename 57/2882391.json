@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Elmex Sensitive Professional Mondwater",
   "code": "2882391",
   "price": "7.49",
@@ -33,6 +33,5 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "400ml - Gevoelige tanden",
-  "image": "/medias/sys_master/prd-images/hbd/h64/33907053035550/prd-front-2882391-1_600x600/prd-front-2882391-1-600x600.jpg"
+  "description": "400ml - Gevoelige tanden"
 }

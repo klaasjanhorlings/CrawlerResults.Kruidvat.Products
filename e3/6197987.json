@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Braun Series 8 8517s Elektrisch Scheerapparaat",
   "code": "6197987",
   "price": "309.99",
@@ -33,5 +33,6 @@
       "name": "Elektrische scheerapparaten"
     }
   ],
-  "description": "zilverkleur"
+  "description": "zilverkleur",
+  "image": "/medias/sys_master/prd-images/h36/h74/34021540069406/prd-front-6197987-1_600x600/prd-front-6197987-1-600x600.jpg"
 }

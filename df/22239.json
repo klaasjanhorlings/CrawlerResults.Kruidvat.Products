@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Libresse Maxi Goodnight Wing Maandverband",
   "code": "22239",
   "price": "2.89",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/h22/hd5/27454842339358/prd-front-22239-1_600x600/prd-front-22239-1-600x600.jpg"
+  "description": "10 stuks"
 }

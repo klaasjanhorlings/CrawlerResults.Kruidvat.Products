@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "B.Tan Glow Your Own Way The OG Glow Darkest Clear Self Tan Gel",
   "code": "6050119",
   "price": "14.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "437ml",
-  "image": "/medias/sys_master/prd-images/hda/h0d/35099506081822/prd-front-6050119-1_600x600/prd-front-6050119-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

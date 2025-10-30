@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Fa Men Attraction Force Douchegel",
   "code": "5818874",
   "price": "4.29",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/heb/h02/44483077832734/prd-front-5818874-1_600x600/prd-front-5818874-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sanex Expert Skin Health+ Skin Therapy Anti-Droogheid Douchecreme",
   "code": "6366946",
   "price": "7.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1056905",
-  "mmkId": "1056905",
-  "productGroupId": "494571",
+  "onPromo": "1057207",
+  "mmkId": "1057207",
+  "productGroupId": "501177",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-expert-skin-health-skin-therapy-anti-droogheid-douchecreme/p/6366946",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "450ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/hca/h98/44632318836766/prd-front-6366946-1_600x600/prd-front-6366946-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h9c/hf0/44642398863390/prd-front-6366946-1_600x600/prd-front-6366946-1-600x600.jpg"
 }

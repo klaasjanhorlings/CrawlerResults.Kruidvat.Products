@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Therme Extra Fresh Thalasso Antitranspirant Roller",
   "code": "4776094",
   "price": "8.49",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/hc4/h70/29339222999070/prd-front-4776094-1_600x600/prd-front-4776094-1-600x600.jpg"
 }

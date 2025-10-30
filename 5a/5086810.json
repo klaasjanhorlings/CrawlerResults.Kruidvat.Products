@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Q10 Verstevigende Bodymilk",
   "code": "5086810",
   "price": "18.79",
@@ -33,6 +33,5 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hfb/h01/34392697995294/prd-front-5086810-1_600x600/prd-front-5086810-1-600x600.jpg"
+  "description": "400ml"
 }

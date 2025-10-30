@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Fijn 5mm Interdentale Borsteltjes",
   "code": "1165949",
   "price": "2.89",
@@ -33,6 +33,5 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/h7d/hd4/28787096027166/prd-front-1165949-1_600x600/prd-front-1165949-1-600x600.jpg"
+  "description": "10 stuks"
 }

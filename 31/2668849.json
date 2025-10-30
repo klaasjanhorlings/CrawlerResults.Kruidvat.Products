@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Alpecin Cafeïne Shampoo",
   "code": "2668849",
   "price": "7.25",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hde/h15/33673281470494/prd-front-2668849-1_600x600/prd-front-2668849-1-600x600.jpg"
+  "description": "250ml"
 }

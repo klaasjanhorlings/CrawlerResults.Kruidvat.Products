@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Palmolive Naturals Orchidee & Melk Douchecrème",
   "code": "5759846",
   "price": "3.79",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1056905",
-  "mmkId": "1056905",
-  "productGroupId": "494571",
+  "onPromo": "1057207",
+  "mmkId": "1057207",
+  "productGroupId": "501177",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/palmolive-naturals-orchidee-melk-douchecreme/p/5759846",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml - Normale huid"
+  "description": "250ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h5e/hdf/31621038899230/prd-front-5759846-1_600x600/prd-front-5759846-1-600x600.jpg"
 }

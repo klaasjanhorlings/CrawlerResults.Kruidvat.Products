@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Elmex Sensitive Gentle White Tandpasta",
   "code": "3696680",
   "price": "6.29",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Gevoelige tanden",
-  "image": "/medias/sys_master/prd-images/he4/h4b/31925882224670/prd-front-3696680-1_600x600/prd-front-3696680-1-600x600.jpg"
+  "description": "75ml - Gevoelige tanden"
 }

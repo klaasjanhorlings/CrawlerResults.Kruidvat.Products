@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Jordan Double Ended Thin Tandenstokers",
   "code": "271135",
   "price": "3.25",
@@ -33,5 +33,6 @@
       "name": "Tandenstokers"
     }
   ],
-  "description": "100 stuks"
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/h73/h01/30283458248734/prd-front-271135-1_600x600/prd-front-271135-1-600x600.jpg"
 }

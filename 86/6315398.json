@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 4324 > 4326 > 4325",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1056883",
-  "mmkId": "1056883",
-  "productGroupId": "489252",
+  "onPromo": "1057208",
+  "mmkId": "1057208",
+  "productGroupId": "502060",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-haargel/p/6315398",
@@ -37,5 +37,6 @@
       "name": "Baby haargel"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hdc/h31/34730694803486/prd-front-6315398-1_600x600/prd-front-6315398-1-600x600.jpg"
 }

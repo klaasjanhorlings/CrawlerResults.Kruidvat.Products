@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ecotools 22715 Douchehandschoen",
   "code": "5575998",
   "price": "4.99",
@@ -29,6 +29,5 @@
       "name": "Bad- en doucheaccessoires"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h70/h5a/28317277716510/prd-front-5575998-1_600x600/prd-front-5575998-1-600x600.jpg"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Elmex Sensitivity + Gum Care Tandpasta",
   "code": "6284878",
   "price": "6.79",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Gevoelige tanden en tandvlees"
+  "description": "75ml - Gevoelige tanden en tandvlees",
+  "image": "/medias/sys_master/prd-images/h60/h75/34153080717342/prd-front-6284878-1_600x600/prd-front-6284878-1-600x600.jpg"
 }

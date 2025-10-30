@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Pearl & Beauty Deodorant Spray",
   "code": "2740886",
   "price": "5.69",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hd3/h4e/34568402272286/prd-front-2740886-1_600x600/prd-front-2740886-1-600x600.jpg"
+  "description": "150ml"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Finspiran Antitranspirant Spray",
+  "code": "6336447",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
+  "supplier": "BENCKMAR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/finspiran-antitranspirant-spray/p/6336447",
+  "listName": "Lister",
+  "brand": "Finspiran",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266644,
+      "name": "Deospray"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hd8/hd3/44641611317278/prd-front-6336447-1_600x600/prd-front-6336447-1-600x600.jpg"
+}
