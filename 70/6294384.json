@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1057020",
-  "mmkId": "1057020",
-  "productGroupId": "501159",
+  "onPromo": "1057221",
+  "mmkId": "1057221",
+  "productGroupId": "505297",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-professional-bescherming-tegen-gevoeligheid-tandpasta/p/6294384",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "medisch hulpmiddel"
+  "description": "medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/hd3/h7d/34283618041886/prd-front-6294384-1_600x600/prd-front-6294384-1-600x600.jpg"
 }

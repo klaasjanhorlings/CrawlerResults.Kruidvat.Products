@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "MAXIM MARKENPRODUKTE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1057027",
   "mmkId": "1057027",
   "productGroupId": "501792",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 30266604,
-      "name": "Oogcreme"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87639213,
+      "name": "Oogserum"
     }
   ],
   "description": "30ml - Rijpe huid",

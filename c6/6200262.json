@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mixsoon Bean Toner",
+  "code": "6200262",
+  "price": "11.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 4226 > 6702",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "inStock",
+  "onPromo": "1056871",
+  "mmkId": "1056871",
+  "productGroupId": "484748",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mixsoon-bean-toner/p/6200262",
+  "listName": "Lister",
+  "brand": "MIXSOON",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 73443559,
+      "name": "Toner"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h56/hbb/32584277491742/prd-front-6200262-1_600x600/prd-front-6200262-1-600x600.jpg"
+}

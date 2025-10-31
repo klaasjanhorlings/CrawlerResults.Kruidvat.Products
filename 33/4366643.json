@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "UNILEVER BELGIUM",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1053276",
+  "mmkId": "1053276",
+  "productGroupId": "497664",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-baby-lotion-billendoekjes/p/4366643",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "3 x 65 stuks"
+  "description": "3 x 65 stuks",
+  "image": "/medias/sys_master/prd-images/hf6/hcb/44388459085854/prd-front-4366643-1_600x600/prd-front-4366643-1-600x600.jpg"
 }

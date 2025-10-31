@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 3025 > 3850",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1056786",
+  "mmkId": "1056786",
+  "productGroupId": "492050",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-12m-maaltijd-variatiemenu/p/4670751",
@@ -37,6 +37,5 @@
       "name": "12+ maanden"
     }
   ],
-  "description": "12 x 250g",
-  "image": "/medias/sys_master/prd-images/h90/h05/44563943587870/prd-front-4670751-1_600x600/prd-front-4670751-1-600x600.jpg"
+  "description": "12 x 250g"
 }

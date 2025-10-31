@@ -21,14 +21,21 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266631,
+      "name": "Nagelbehandeling"
     }
   ],
-  "description": "11ml",
-  "image": "/medias/sys_master/prd-images/h7a/hb7/44210869862430/prd-front-6389906-1_600x600/prd-front-6389906-1-600x600.jpg"
+  "description": "11ml"
 }

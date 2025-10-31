@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mielle Rosemary Mint Strengthening Hair Masque",
+  "code": "6394890",
+  "price": "12.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "YARI BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/mielle-rosemary-mint-strengthening-hair-masque/p/6394890",
+  "listName": "Lister",
+  "brand": "Mielle",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266697,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "340g",
+  "image": "/medias/sys_master/prd-images/hb4/h44/44328631992350/prd-front-6394890-1_600x600/prd-front-6394890-1-600x600.jpg"
+}

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Douwe Egberts Nescafé Dolce Gusto Lungo Koffiecapsules",
+  "itemName": "Douwe Egberts Lungo Koffiecapsules",
   "code": "6389955",
   "price": "2.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/douwe-egberts-nescafe-dolce-gusto-lungo-koffiecapsules/p/6389955",
+  "url": "/douwe-egberts-lungo-koffiecapsules/p/6389955",
   "listName": "Lister",
   "brand": "Douwe Egberts",
   "mpOrigin": "Kruidvat",
@@ -21,12 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536086,
-      "name": "Huishouden"
+      "id": 30266076,
+      "name": "Eten en drinken"
     },
     {
-      "id": 30266075,
-      "name": "Luchtverfrissers"
+      "id": 30266886,
+      "name": "Koffie"
     }
   ],
   "description": "16 stuks",

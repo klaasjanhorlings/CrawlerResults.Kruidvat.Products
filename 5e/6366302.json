@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "BaByliss Ceramic Smooth GlideST242E Stijltang",
+  "code": "6366302",
+  "price": "39.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6426",
+  "supplier": "CONAIR COOPERATIEF UA",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/babyliss-ceramic-smooth-glidest242e-stijltang/p/6366302",
+  "listName": "Lister",
+  "brand": "Babyliss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266698,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30266935,
+      "name": "Stijltangen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h37/h28/44630611787806/prd-front-6366302-1_600x600/prd-front-6366302-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057048",
+  "mmkId": "1057048",
+  "productGroupId": "502681",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/leefvitaal-vitamine-d-kauwtabletten/p/4951864",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266991,
-      "name": "Vitamine D"
+      "id": 30266729,
+      "name": "Botten en spieren"
     }
   ],
   "description": "80 stuks",

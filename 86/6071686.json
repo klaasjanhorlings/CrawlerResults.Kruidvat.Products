@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1057048",
+  "mmkId": "1057048",
+  "productGroupId": "502681",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/valdispert-mentaal-welzijn-mentale-veerkracht-dragees/p/6071686",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49950694,
-      "name": "Natuurlijke supplementen"
+      "id": 30266724,
+      "name": "Rust en ontspanning"
     }
   ],
   "description": "30 stuks",

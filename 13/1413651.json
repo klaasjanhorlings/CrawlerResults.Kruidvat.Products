@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6431",
   "supplier": "KOWIN E-COMMERCE",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-60-seconden-thermometer/p/1413651",
@@ -33,5 +33,6 @@
       "name": "Thermometers"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h0d/h94/34593893056542/prd-front-1413651-1_600x600/prd-front-1413651-1-600x600.jpg"
 }

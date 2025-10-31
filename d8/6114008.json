@@ -5,7 +5,7 @@
   "code": "6114008",
   "price": "6.99",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "EMIL KIESSLING GMBH",
   "inStock": "inStock",
   "onPromo": "",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h12/h4a/31051011620894/prd-front-6114008-1_600x600/prd-front-6114008-1-600x600.jpg"
 }

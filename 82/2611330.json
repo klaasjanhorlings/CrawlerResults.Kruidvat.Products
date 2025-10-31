@@ -6,8 +6,8 @@
   "price": "4.59",
   "priceOriginal": "",
   "itemBgbcat": "5926 > 6679 > 2146 > 2631 > 2889 > 3664",
-  "supplier": "SPAAS KAARSEN NV",
-  "inStock": "inStock",
+  "supplier": "BOLSIUS NEDERLAND BV",
+  "inStock": "outOfStock",
   "onPromo": "1057175",
   "mmkId": "1057175",
   "productGroupId": "499678",
@@ -37,6 +37,5 @@
       "name": "Theelichten"
     }
   ],
-  "description": "35 stuks",
-  "image": "/medias/sys_master/prd-images/ha1/hc3/44376922619934/prd-front-2611330-1_600x600/prd-front-2611330-1-600x600.jpg"
+  "description": "35 stuks"
 }

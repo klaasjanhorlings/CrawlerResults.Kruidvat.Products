@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057048",
+  "mmkId": "1057048",
+  "productGroupId": "502681",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dagravit-vitamine-b-becoforte-dragees/p/21730",
@@ -37,6 +37,5 @@
       "name": "Vitamine B"
     }
   ],
-  "description": "100 stuks",
-  "image": "/medias/sys_master/prd-images/h2a/hae/33818074218526/prd-front-21730-1_600x600/prd-front-21730-1-600x600.jpg"
+  "description": "100 stuks"
 }
