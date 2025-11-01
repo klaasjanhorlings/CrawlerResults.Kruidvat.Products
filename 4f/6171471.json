@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
   "supplier": "ESSITY",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1057901",
   "mmkId": "1057901",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Toiletpapier"
     }
   ],
-  "description": "16 rollen",
-  "image": "/medias/sys_master/prd-images/hc2/ha3/31906657501214/prd-front-6171471-1_600x600/prd-front-6171471-1-600x600.jpg"
+  "description": "16 rollen"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "OtriCare Baby Aspirator",
+  "code": "6392370",
+  "price": "12.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
+  "supplier": "HALEON NETHERLANDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/otricare-baby-aspirator/p/6392370",
+  "listName": "Lister",
+  "brand": "OtriCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 106232180,
+      "name": "Nieuw"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h84/h6b/44642415378462/prd-front-6392370-1_600x600/prd-front-6392370-1-600x600.jpg"
+}
