@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Lipfinity Lip Colour 108 Frivolous 2-Step Longlasting Lipstick",
+  "code": "1638645",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "1056967",
+  "mmkId": "1056967",
+  "productGroupId": "499334",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-lipfinity-lip-colour-108-frivolous-2-step-longlasting-lipstick/p/1638645",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8b/h01/35010714992670/prd-front-1638645-1_600x600/prd-front-1638645-1-600x600.jpg"
+}

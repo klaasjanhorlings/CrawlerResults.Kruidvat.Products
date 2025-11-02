@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Masterpiece Max 002 Black/Brown Mascara",
+  "code": "1703605",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "1056967",
+  "mmkId": "1056967",
+  "productGroupId": "499334",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-masterpiece-max-002-black/brown-mascara/p/1703605",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266576,
+      "name": "Mascara"
+    }
+  ],
+  "description": "7,2ml",
+  "image": "/medias/sys_master/prd-images/h44/h21/28786638356510/prd-front-1703605-1_600x600/prd-front-1703605-1-600x600.jpg"
+}

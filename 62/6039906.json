@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Excellence Crème 10.13 Signature Blond Permanente Haarkleuring",
+  "code": "6039906",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1056984",
+  "mmkId": "1056984",
+  "productGroupId": "499892",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-excellence-creme-1013-signature-blond-permanente-haarkleuring/p/6039906",
+  "listName": "Lister",
+  "brand": "Excellence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265990,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbb/h19/33885608837150/prd-front-6039906-1_600x600/prd-front-6039906-1-600x600.jpg"
+}

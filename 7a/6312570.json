@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Depend Gel iQ Aum Gellak",
+  "code": "6312570",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "inStock",
+  "onPromo": "1057036",
+  "mmkId": "1057036",
+  "productGroupId": "502178",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/depend-gel-iq-aum-gellak/p/6312570",
+  "listName": "Lister",
+  "brand": "Depend Gel iQ",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 72476685,
+      "name": "Gellak"
+    }
+  ],
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/hc8/h61/34890637901854/prd-front-6312570-1_600x600/prd-front-6312570-1-600x600.jpg"
+}

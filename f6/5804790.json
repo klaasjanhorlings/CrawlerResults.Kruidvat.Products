@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Hello, Good Stuff! 48H Intense Hydro Gel",
+  "code": "5804790",
+  "price": "4.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-hello-good-stuff-48h-intense-hydro-gel/p/5804790",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/prd-front-5804790-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTE5NTh8aW1hZ2UvanBlZ3xhRE5pTDJoalppOHlOamt4TmpBMk56TXhNVFkwTmk5d2NtUXRabkp2Ym5RdE5UZ3dORGM1TUMweFh6WXdNSGcyTURBfDYyZGY5YTUwOGU1YmI1ZmJjMjY3ZTM5ZWZiYjFlMGE2NDIzOTA0ODcyNGFkMWM2NGY1MDhkMmRkOTA5N2EyZWU"
+}

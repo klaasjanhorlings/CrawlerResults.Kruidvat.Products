@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alessandro Striplac Care & Gloss Pen",
+  "code": "6370068",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "inStock",
+  "onPromo": "1057036",
+  "mmkId": "1057036",
+  "productGroupId": "502178",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/alessandro-striplac-care-gloss-pen/p/6370068",
+  "listName": "Lister",
+  "brand": "Alessandro",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30266584,
+      "name": "Nagellak"
+    }
+  ],
+  "description": "2,8ml",
+  "image": "/medias/sys_master/prd-images/hb6/hb4/44256681164830/prd-front-6370068-1_600x600/prd-front-6370068-1-600x600.jpg"
+}
