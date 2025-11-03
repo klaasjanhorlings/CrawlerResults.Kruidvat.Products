@@ -8,9 +8,9 @@
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
   "supplier": "CAPPAC BV",
   "inStock": "inStock",
-  "onPromo": "1057034",
-  "mmkId": "1057034",
-  "productGroupId": "502161",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-ristretto-koffiecapsules/p/5433751",
@@ -29,6 +29,5 @@
       "name": "Koffie"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/h82/h0c/44083439796254/prd-front-5433751-1_600x600/prd-front-5433751-1-600x600.jpg"
+  "description": "20 stuks"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1056967",
-  "mmkId": "1056967",
-  "productGroupId": "499334",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-masterpiece-040-brunette-micro-marker/p/6359568",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "1,1ml"
+  "description": "1,1ml",
+  "image": "/medias/sys_master/prd-images/h5d/h51/35011921149982/prd-front-6359568-1_600x600/prd-front-6359568-1-600x600.jpg"
 }

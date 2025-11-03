@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6197 > 6215 > 6253",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1057173",
-  "mmkId": "1057173",
-  "productGroupId": "499586",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-spirulina-tabletten/p/24262",
@@ -33,5 +33,6 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "100 stuks"
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/h50/h2d/33115167686686/prd-front-24262-1_600x600/prd-front-24262-1-600x600.jpg"
 }

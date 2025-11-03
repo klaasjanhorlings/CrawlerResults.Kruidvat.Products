@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1056884",
-  "mmkId": "1056884",
-  "productGroupId": "489334",
+  "onPromo": "1057260",
+  "mmkId": "1057260",
+  "productGroupId": "462771",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vaseline-original-petroleum-jelly/p/1871101",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hff/ha2/44589190676510/prd-front-1871101-1_600x600/prd-front-1871101-1-600x600.jpg"
 }

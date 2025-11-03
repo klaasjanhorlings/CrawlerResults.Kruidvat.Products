@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Labelnavullingen",
+  "code": "6368367",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2153 > 2503 > 3113 > 3979 > 5929 > 6014",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/labelnavullingen/p/6368367",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 49258802,
+      "name": "Printers"
+    }
+  ],
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/ha0/h6b/35176056750110/prd-front-6368367-1_600x600/prd-front-6368367-1-600x600.jpg"
+}

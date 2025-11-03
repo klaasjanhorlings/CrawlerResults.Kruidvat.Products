@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2716 > 3419",
   "supplier": "NIA CARE BV",
   "inStock": "inStock",
-  "onPromo": "1056810",
-  "mmkId": "1056810",
-  "productGroupId": "456387",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/inoli-baby-intensief-vettend-badolie/p/3707439",
@@ -37,5 +37,6 @@
       "name": "Babybadolie"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h28/h5b/28618326212638/prd-front-3707439-1_600x600/prd-front-3707439-1-600x600.jpg"
 }

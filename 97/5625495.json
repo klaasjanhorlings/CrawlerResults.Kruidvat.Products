@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "KALEGRA SAS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057388",
+  "mmkId": "1057388",
+  "productGroupId": "502736",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-feel-the-energy-eau-de-toilette/p/5625495",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hf1/h5c/27498685431838/prd-front-5625495-1_600x600/prd-front-5625495-1-600x600.jpg"
+  "description": "50ml"
 }

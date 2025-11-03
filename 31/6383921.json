@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "De Essence Get The Glaze! 01 Whipped With Love Lip Mask",
+  "code": "6383921",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/de-essence-get-the-glaze-01-whipped-with-love-lip-mask/p/6383921",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 87395837,
+      "name": "Lip mask"
+    }
+  ],
+  "description": "19g",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

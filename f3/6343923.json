@@ -8,9 +8,9 @@
   "itemBgbcat": "2232 > 5179 > 5303 > 5492 > 5921 > 6040",
   "supplier": "DURABO BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057349",
+  "mmkId": "1057349",
+  "productGroupId": "500712",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/spongebob-knuffel/p/6343923",
@@ -29,6 +29,5 @@
       "name": "Poppen en knuffels"
     }
   ],
-  "description": "44cm",
-  "image": "/medias/sys_master/prd-images/he6/hde/34879956779038/prd-front-6343923-1_600x600/prd-front-6343923-1-600x600.jpg"
+  "description": "44cm"
 }

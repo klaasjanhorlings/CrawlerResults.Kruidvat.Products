@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2081 > 2239 > 2416 > 2912 > 4127",
   "supplier": "DAYES BV",
   "inStock": "inStock",
-  "onPromo": "1056929",
-  "mmkId": "1056929",
-  "productGroupId": "496442",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rosewood-large-trio-sticks-hondensnacks/p/4728781",
@@ -41,5 +41,6 @@
       "name": "Snacks voor honden"
     }
   ],
-  "description": "3 x 80g"
+  "description": "3 x 80g",
+  "image": "/medias/sys_master/prd-images/h36/hea/31051633459230/prd-front-4728781-1_600x600/prd-front-4728781-1-600x600.jpg"
 }

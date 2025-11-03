@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "1056869",
-  "mmkId": "1056869",
-  "productGroupId": "484201",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-rosemary-batana-oil/p/6240393",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h35/hfb/33110703308830/prd-front-6240393-1_600x600/prd-front-6240393-1-600x600.jpg"
 }

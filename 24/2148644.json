@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1056892",
-  "mmkId": "1056892",
-  "productGroupId": "490526",
+  "onPromo": "1057359",
+  "mmkId": "1057359",
+  "productGroupId": "501165",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/biodermal-anti-age-40-dagcreme/p/2148644",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid"
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h5f/hb5/27287009820702/prd-front-2148644-1_600x600/prd-front-2148644-1-600x600.jpg"
 }

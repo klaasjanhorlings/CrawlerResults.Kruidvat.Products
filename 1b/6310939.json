@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1057208",
-  "mmkId": "1057208",
-  "productGroupId": "502060",
+  "onPromo": "1057276",
+  "mmkId": "1057276",
+  "productGroupId": "489253",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-zeepvrije-wasgel-refill/p/6310939",
@@ -37,5 +37,6 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/ha7/h68/34731410489374/prd-front-6310939-1_600x600/prd-front-6310939-1-600x600.jpg"
 }

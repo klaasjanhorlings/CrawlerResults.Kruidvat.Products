@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ocean Magic Geschenkset",
+  "code": "6373638",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2440 > 2935 > 3730 > 5861 > 5864",
+  "supplier": "TREFFINA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/ocean-magic-geschenkset/p/6373638",
+  "listName": "Lister",
+  "brand": "Geschenkset",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666497,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": ""
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6327 > 6674",
   "supplier": "EMA COMPANY BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Make-up kwasten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6e/hec/28950625910814/prd-front-5956200-1_600x600/prd-front-5956200-1-600x600.jpg"
 }

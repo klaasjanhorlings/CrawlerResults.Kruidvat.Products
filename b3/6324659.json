@@ -8,9 +8,9 @@
   "itemBgbcat": "4640 > 5192 > 5377 > 5566 > 5921 > 6040",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057349",
+  "mmkId": "1057349",
+  "productGroupId": "500712",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/playing-kids-forest-puzzel/p/6324659",
@@ -29,6 +29,5 @@
       "name": "Puzzels"
     }
   ],
-  "description": "5 stukjes",
-  "image": "/medias/sys_master/prd-images/h60/hc2/44179712606238/prd-front-6324659-1_600x600/prd-front-6324659-1-600x600.jpg"
+  "description": "5 stukjes"
 }

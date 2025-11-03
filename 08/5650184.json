@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6018 > 2181 > 6735 > 6733 > 6734",
   "supplier": "999 GAMES",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057349",
+  "mmkId": "1057349",
+  "productGroupId": "500712",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/999-games-keer-op-keer-kids/p/5650184",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h78/h5a/28625076092958/prd-front-5650184-1_600x600/prd-front-5650184-1-600x600.jpg"
 }

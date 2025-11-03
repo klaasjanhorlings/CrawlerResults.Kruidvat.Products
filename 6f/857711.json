@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1057173",
-  "mmkId": "1057173",
-  "productGroupId": "499586",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-multi-a-z-kauwtabletten-voor-kinderen/p/857711",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hd8/h5f/34838217752606/prd-front-857711-1_600x600/prd-front-857711-1-600x600.jpg"
 }

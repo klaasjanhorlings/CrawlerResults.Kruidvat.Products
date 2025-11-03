@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1056967",
-  "mmkId": "1056967",
-  "productGroupId": "499334",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-lipfinity-lip-colour-190-indulgent-2-step-longlasting-lipstick/p/96711",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "2,3ml",
-  "image": "/medias/prd-front-96711-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDg3MTl8aW1hZ2UvanBlZ3xhRFU0TDJneE5pOHhOekl3TXpjeE56YzVPVGsyTmk5d2NtUXRabkp2Ym5RdE9UWTNNVEV0TVY4Mk1EQjROakF3fDQ4ZGU5ZmQ0NjExMTJkMWU3OTg5YWQ3MTc0NjJkY2I3OTBhNjk0ODlmNzc5ZmE0MWIxNDdkNDA3MGNjYzA0NTA"
+  "description": "2,3ml"
 }

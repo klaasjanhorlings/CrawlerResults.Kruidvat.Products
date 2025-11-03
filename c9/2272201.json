@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1057029",
-  "mmkId": "1057029",
-  "productGroupId": "502027",
+  "onPromo": "1057373",
+  "mmkId": "1057373",
+  "productGroupId": "502035",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-total-repair-5-herstellende-conditioner/p/2272201",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h37/h7a/33046607986718/prd-front-2272201-1_600x600/prd-front-2272201-1-600x600.jpg"
 }

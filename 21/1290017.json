@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "BAYER BV",
   "inStock": "inStock",
-  "onPromo": "1056912",
-  "mmkId": "1056912",
-  "productGroupId": "495725",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/supradyn-complex-forte-tabletten/p/1290017",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "95 stuks"
+  "description": "95 stuks",
+  "image": "/medias/sys_master/prd-images/h9a/h52/32495677079582/prd-front-1290017-1_600x600/prd-front-1290017-1-600x600.jpg"
 }

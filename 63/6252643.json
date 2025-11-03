@@ -8,9 +8,9 @@
   "itemBgbcat": "2183 > 5177 > 5271 > 5460 > 5921 > 6040",
   "supplier": "HERMANEX INTERNATIONAL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057349",
+  "mmkId": "1057349",
+  "productGroupId": "500712",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schleich-42617-horse-club-sofias-beauties/p/6252643",
@@ -33,5 +33,6 @@
       "name": "Speelfiguren"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9c/hdd/33058813476894/prd-front-6252643-1_600x600/prd-front-6252643-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1056974",
-  "mmkId": "1056974",
-  "productGroupId": "499463",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-hyper-precise-all-day-720-cobalt-vloeibare-eyeliner/p/6007335",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "1ml"
+  "description": "1ml",
+  "image": "/medias/sys_master/prd-images/h95/ha1/44587409145886/prd-front-6007335-1_600x600/prd-front-6007335-1-600x600.jpg"
 }

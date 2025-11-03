@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 4147",
   "supplier": "MAE PHARMA BV",
   "inStock": "inStock",
-  "onPromo": "1056957",
-  "mmkId": "1056957",
-  "productGroupId": "498944",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-keelspray/p/5449137",
@@ -37,6 +37,5 @@
       "name": "Keelspray"
     }
   ],
-  "description": "Medisch hulpmiddel - 20ml",
-  "image": "/medias/sys_master/prd-images/h12/hbf/34595246931998/prd-front-5449137-1_600x600/prd-front-5449137-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 20ml"
 }

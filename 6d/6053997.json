@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "MARION PRIVATE LABEL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057399",
+  "mmkId": "1057399",
+  "productGroupId": "510147",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-science-bonded-repair-pre-shampoo/p/6053997",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hda/h7c/32780705366046/prd-front-6053997-1_600x600/prd-front-6053997-1-600x600.jpg"
 }

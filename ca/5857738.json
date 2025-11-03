@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1057207",
-  "mmkId": "1057207",
-  "productGroupId": "501177",
+  "onPromo": "1057380",
+  "mmkId": "1057380",
+  "productGroupId": "502168",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sanex-zero-nourishing-douchegel/p/5857738",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml - Droge huid"
+  "description": "400ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h9c/h0e/33906237112350/prd-front-5857738-1_600x600/prd-front-5857738-1-600x600.jpg"
 }

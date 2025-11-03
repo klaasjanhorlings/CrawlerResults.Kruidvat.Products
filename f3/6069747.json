@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1057020",
-  "mmkId": "1057020",
-  "productGroupId": "501159",
+  "onPromo": "1057312",
+  "mmkId": "1057312",
+  "productGroupId": "498982",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-pro-expert-deep-clean-tandpasta/p/6069747",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h57/h8c/34038622912542/prd-front-6069747-1_600x600/prd-front-6069747-1-600x600.jpg"
 }

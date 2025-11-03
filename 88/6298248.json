@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2885 > 4228 > 5693",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "outOfStock",
-  "onPromo": "1056960",
-  "mmkId": "1056960",
-  "productGroupId": "498964",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-sonicare-for-kids-3-7-jaar-hx6034/90-opzetborstels/p/6298248",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "wit, 4 stuks"
+  "description": "wit, 4 stuks",
+  "image": "/medias/sys_master/prd-images/h2e/hdb/35027150831646/prd-front-6298248-1_600x600/prd-front-6298248-1-600x600.jpg"
 }

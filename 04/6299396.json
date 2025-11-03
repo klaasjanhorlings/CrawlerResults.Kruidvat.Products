@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1056823",
-  "mmkId": "1056823",
-  "productGroupId": "471178",
+  "onPromo": "1057372",
+  "mmkId": "1057372",
+  "productGroupId": "501752",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-luminous630-skin-glow-instant-glow-serum/p/6299396",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h8b/hcb/34758846218270/prd-front-6299396-1_600x600/prd-front-6299396-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "1056893",
-  "mmkId": "1056893",
-  "productGroupId": "490580",
+  "onPromo": "1057265",
+  "mmkId": "1057265",
+  "productGroupId": "476407",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/weleda-calendula-weer-en-windbalsem/p/6122716",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h76/h37/31231897927710/prd-front-6122716-1_600x600/prd-front-6122716-1-600x600.jpg"
 }

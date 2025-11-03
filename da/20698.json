@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6196 > 6214 > 6248",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1057173",
-  "mmkId": "1057173",
-  "productGroupId": "499586",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-stoelgangkruiden-tabletten/p/20698",
@@ -33,5 +33,6 @@
       "name": "Spijsvertering"
     }
   ],
-  "description": "220 stuks"
+  "description": "220 stuks",
+  "image": "/medias/sys_master/prd-images/h67/hb8/33322699161630/prd-front-20698-1_600x600/prd-front-20698-1-600x600.jpg"
 }

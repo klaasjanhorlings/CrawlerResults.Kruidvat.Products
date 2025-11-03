@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "CRX NORDIC AG",
   "inStock": "inStock",
-  "onPromo": "1056838",
-  "mmkId": "1056838",
-  "productGroupId": "474477",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/celenes-by-sweden-by-sweden-cafeine-5-oogserum/p/6062019",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hbd/h9f/34533538496542/prd-front-6062019-1_600x600/prd-front-6062019-1-600x600.jpg"
+  "description": "30ml - Alle huidtypen"
 }

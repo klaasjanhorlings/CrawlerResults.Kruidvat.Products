@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1057060",
-  "mmkId": "1057060",
-  "productGroupId": "510685",
+  "onPromo": "1057264",
+  "mmkId": "1057264",
+  "productGroupId": "474700",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-tepelhoedjes/p/4349276",
@@ -37,5 +37,6 @@
       "name": "Tepelhoedjes"
     }
   ],
-  "description": "mt L, 2 stuks"
+  "description": "mt L, 2 stuks",
+  "image": "/medias/sys_master/prd-images/ha1/h48/32147663323166/prd-front-4349276-1_600x600/prd-front-4349276-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 6021 > 2207 > 2621 > 3164 > 5104",
   "supplier": "PANTYTEX SPA",
-  "inStock": "inStock",
-  "onPromo": "1056952",
-  "mmkId": "1056952",
-  "productGroupId": "498649",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-ladder-resist-40-den-panty/p/5908523",
@@ -33,5 +33,6 @@
       "name": "Panty's"
     }
   ],
-  "description": "zwart, mt 38-40"
+  "description": "zwart, mt 38-40",
+  "image": "/medias/sys_master/prd-images/h18/h90/32828439298078/prd-front-5908523-1_600x600/prd-front-5908523-1-600x600.jpg"
 }

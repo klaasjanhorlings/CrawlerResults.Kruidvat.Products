@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3983",
   "supplier": "MARION PRIVATE LABEL",
   "inStock": "inStock",
-  "onPromo": "1057170",
-  "mmkId": "1057170",
-  "productGroupId": "497261",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-natures-face-cleansing-bar/p/5800828",
@@ -37,6 +37,5 @@
       "name": "Cleanser"
     }
   ],
-  "description": "65g",
-  "image": "/medias/prd-front-5800828-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTkzOTR8aW1hZ2UvanBlZ3xhRGN3TDJneVlTOHlOamM1TkRnek9EVTRPVFEzTUM5d2NtUXRabkp2Ym5RdE5UZ3dNRGd5T0MweFh6WXdNSGcyTURBfDVmNWRmM2Y0ZTdhNjQ2NjdlMjdlZmI1NjBmYWI1ZWI1NTYyYmM5MGFmNmZmNzMxMDZjYTNlMWMzN2NjYzM3OTg"
+  "description": "65g"
 }

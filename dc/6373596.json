@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucky Horse Bath Geschenkset",
+  "code": "6373596",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2440 > 2935 > 3730 > 5861 > 5864",
+  "supplier": "TREFFINA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/lucky-horse-bath-geschenkset/p/6373596",
+  "listName": "Lister",
+  "brand": "Geschenkset",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666497,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbb/h00/44554165977118/prd-front-6373596-1_600x600/prd-front-6373596-1-600x600.jpg"
+}

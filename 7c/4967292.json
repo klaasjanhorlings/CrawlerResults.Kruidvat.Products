@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "outOfStock",
-  "onPromo": "1056873",
-  "mmkId": "1056873",
-  "productGroupId": "486073",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dampo-alle-hoest-keelpijn-siroop/p/4967292",
@@ -37,5 +37,6 @@
       "name": "Hoestsiropen"
     }
   ],
-  "description": "Medisch hulpmiddel - 150ml"
+  "description": "Medisch hulpmiddel - 150ml",
+  "image": "/medias/sys_master/prd-images/ha1/ha8/34737650892830/prd-front-4967292-1_600x600/prd-front-4967292-1-600x600.jpg"
 }

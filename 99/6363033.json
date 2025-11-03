@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ARISTOCRATE DISTRIBUTORS LTD",
   "inStock": "outOfStock",
-  "onPromo": "1056941",
-  "mmkId": "1056941",
-  "productGroupId": "497694",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-menstruatieondergoed/p/6363033",
@@ -33,5 +33,6 @@
       "name": "Menstruatieondergoed"
     }
   ],
-  "description": "zwart, mt S"
+  "description": "zwart, mt S",
+  "image": "/medias/sys_master/prd-images/h56/h0e/34919390117918/prd-front-6363033-1_600x600/prd-front-6363033-1-600x600.jpg"
 }
