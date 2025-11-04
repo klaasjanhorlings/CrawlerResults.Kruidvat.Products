@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "LEGO Technic 42214 Lamborghini Supersportwagen",
   "code": "6346667",
-  "price": "169.99",
-  "priceOriginal": "",
+  "price": "127.5",
+  "priceOriginal": "169.99",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057045",
   "productGroupId": "502445",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 42,49",
   "url": "/lego-technic-42214-lamborghini-supersportwagen/p/6346667",
   "listName": "Lister",
   "brand": "LEGO Technic",
@@ -33,5 +33,6 @@
       "name": "LEGO Technic"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9a/h33/35039196479518/prd-front-6346667-1_600x600/prd-front-6346667-1-600x600.jpg"
 }

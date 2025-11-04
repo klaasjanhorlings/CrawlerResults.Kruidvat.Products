@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "GilletteLabs Scheergel",
   "code": "5652221",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "5.84",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2932 > 3727",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057304",
   "productGroupId": "498592",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,15",
   "url": "/gillettelabs-scheergel/p/5652221",
   "listName": "Lister",
   "brand": "Gillette",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "198ml"
+  "description": "198ml",
+  "image": "/medias/prd-front-5652221-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzg2OTd8aW1hZ2UvanBlZ3xhR1V3TDJoall5OHhOamsxTnpjeE5ETTJOalE1TkM5d2NtUXRabkp2Ym5RdE5UWTFNakl5TVMweFh6WXdNSGcyTURBfDcxYTljNDk4MDQ4OGNmZGYyZThmNzQ4NzFjNjJjZmQxNzVmY2YxZDk1YWRjNjhkNDZkNTM5ZDYwNGE1MDAyODk"
 }

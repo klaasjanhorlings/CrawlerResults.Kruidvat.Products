@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dickie Toys Man Lion's Coach Flixbus",
+  "code": "6083810",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2140 > 4929 > 4975 > 5021 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "1057349",
+  "mmkId": "1057349",
+  "productGroupId": "500712",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dickie-toys-man-lions-coach-flixbus/p/6083810",
+  "listName": "Lister",
+  "brand": "Dickie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266031,
+      "name": "Voertuigen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h10/h96/31094701850654/prd-front-6083810-1_600x600/prd-front-6083810-1-600x600.jpg"
+}

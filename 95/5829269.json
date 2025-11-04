@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Andrélon Pro Nature Shea Strong Repair Conditioner",
+  "code": "5829269",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1057260",
+  "mmkId": "1057260",
+  "productGroupId": "462771",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/andrelon-pro-nature-shea-strong-repair-conditioner/p/5829269",
+  "listName": "Lister",
+  "brand": "Andrelon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/prd-front-5829269-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjAxOTB8aW1hZ2UvanBlZ3xhREJsTDJnMk9DOHlOekl3TWpjeU9UZzJPVE0wTWk5d2NtUXRabkp2Ym5RdE5UZ3lPVEkyT1MweFh6WXdNSGcyTURBfDlmZDY5ODhlYWQ0NjllN2ZmYzE5NmQ3MTc3ZmJlNTNhYWYyZGVmMmVlYWZmYTU1MzFhZDgxYWQ5Yzg2YzhkZGY"
+}

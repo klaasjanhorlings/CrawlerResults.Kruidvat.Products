@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6018 > 2181 > 5161 > 5212 > 5401",
   "supplier": "MATTEL EUROPA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1057349",
   "mmkId": "1057349",
   "productGroupId": "500712",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h8b/hf9/31458117812254/prd-front-3906533-1_600x600/prd-front-3906533-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

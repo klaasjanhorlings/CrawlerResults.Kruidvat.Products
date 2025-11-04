@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Repair Keratin Haarmasker",
+  "code": "4028067",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1057399",
+  "mmkId": "1057399",
+  "productGroupId": "510147",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-repair-keratin-haarmasker/p/4028067",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266697,
+      "name": "Haarmasker"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h3f/hc4/33983799951390/prd-front-4028067-1_600x600/prd-front-4028067-1-600x600.jpg"
+}

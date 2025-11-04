@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gehwol 8-in-1 Voetcrème",
+  "code": "5826161",
+  "price": "15.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2834 > 3576 > 6784",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gehwol-8-in-1-voetcreme/p/5826161",
+  "listName": "Lister",
+  "brand": "Gehwol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 101912253,
+      "name": "Voetverzorging"
+    },
+    {
+      "id": 48220898,
+      "name": "Voetcreme"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hdf/h06/33279047335966/prd-front-5826161-1_600x600/prd-front-5826161-1-600x600.jpg"
+}

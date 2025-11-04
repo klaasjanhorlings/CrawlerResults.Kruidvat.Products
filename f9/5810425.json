@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Happy One HO 01 Kinderwagen",
   "code": "5810425",
-  "price": "109.95",
-  "priceOriginal": "",
+  "price": "59.99",
+  "priceOriginal": "109.95",
   "itemBgbcat": "2001 > 2033 > 2128 > 5149 > 5196 > 5385",
   "supplier": "MARBAMI NETTO",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057239",
   "productGroupId": "498826",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 49,96",
   "url": "/happy-one-ho-01-kinderwagen/p/5810425",
   "listName": "Lister",
   "brand": "Exclusive Label",
@@ -33,5 +33,6 @@
       "name": "Buggy's"
     }
   ],
-  "description": "taupe"
+  "description": "taupe",
+  "image": "/medias/sys_master/prd-images/h5a/hc6/28311698079774/prd-front-5810425-1_600x600/prd-front-5810425-1-600x600.jpg"
 }

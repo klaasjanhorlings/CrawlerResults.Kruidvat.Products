@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2892 > 3667",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1057398",
   "mmkId": "1057398",
   "productGroupId": "510065",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 6"
     }
   ],
-  "description": "mt 6 (15-19 kg), 19 stuks"
+  "description": "mt 6 (15-19 kg), 19 stuks",
+  "image": "/medias/sys_master/prd-images/he3/h17/44630925705246/prd-front-5052580-1_600x600/prd-front-5052580-1-600x600.jpg"
 }
