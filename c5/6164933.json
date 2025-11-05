@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2181 > 5921 > 6018 > 5164 > 5227 > 5416",
   "supplier": "GOLIATH B.V.",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1057349",
   "mmkId": "1057349",
   "productGroupId": "500712",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h02/h61/33747583139870/prd-front-6164933-1_600x600/prd-front-6164933-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

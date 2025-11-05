@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1040891",
-  "mmkId": "1040891",
-  "productGroupId": "432557",
+  "onPromo": "1057864",
+  "mmkId": "1057864",
+  "productGroupId": "522128",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-city-60454-avontuurlijke-camper/p/6269163",
@@ -25,8 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266031,
-      "name": "Voertuigen"
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69031070,
+      "name": "LEGO Voertuigen"
     }
   ],
   "description": "",

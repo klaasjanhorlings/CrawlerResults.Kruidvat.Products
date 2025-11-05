@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057864",
+  "mmkId": "1057864",
+  "productGroupId": "522128",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-creator-31155-hamsterwiel/p/6003002",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 30266815,
-      "name": "LEGO Creator"
+      "id": 69037623,
+      "name": "LEGO Exclusief Assortiment"
     }
   ],
   "description": "",

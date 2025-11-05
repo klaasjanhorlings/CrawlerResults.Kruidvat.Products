@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5929 > 6014 > 2153 > 2632 > 6446 > 6424",
   "supplier": "I-STAR WORLD BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "Telefoonaccessoires"
     },
     {
-      "id": 85823920,
-      "name": "Oordopjes"
+      "id": 49258289,
+      "name": "Koptelefoons"
     }
   ],
   "description": "wit",

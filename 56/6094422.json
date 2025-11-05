@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057864",
+  "mmkId": "1057864",
+  "productGroupId": "522128",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-harry-potter-76433-mandragora/p/6094422",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 30266816,
-      "name": "LEGO Harry Potter"
+      "id": 69043063,
+      "name": "LEGO Bloemen"
     }
   ],
   "description": "",

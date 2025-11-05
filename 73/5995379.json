@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057864",
+  "mmkId": "1057864",
+  "productGroupId": "522128",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-40647-lotusbloemen/p/5995379",
@@ -29,10 +29,9 @@
       "name": "LEGO"
     },
     {
-      "id": 69043063,
-      "name": "LEGO Bloemen"
+      "id": 69026508,
+      "name": "LEGO Volwassenen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hf1/h28/29516651036702/prd-front-5995379-1_600x600/prd-front-5995379-1-600x600.jpg"
+  "description": ""
 }

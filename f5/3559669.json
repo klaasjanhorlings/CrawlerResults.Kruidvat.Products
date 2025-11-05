@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Labello Original Lippenbalsem",
+  "code": "3559669",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1057323",
+  "mmkId": "1057323",
+  "productGroupId": "499205",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/labello-original-lippenbalsem/p/3559669",
+  "listName": "Lister",
+  "brand": "Labello",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266609,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "2 x 4,8g",
+  "image": "/medias/sys_master/prd-images/hc3/ha6/34521195118622/prd-front-3559669-1_600x600/prd-front-3559669-1-600x600.jpg"
+}

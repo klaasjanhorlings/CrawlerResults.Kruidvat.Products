@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Davitamon Vitamine D3 1 Per Week Capsules",
   "code": "5242413",
-  "price": "8.79",
+  "price": "8.8",
   "priceOriginal": "21.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "OMEGA PHARMA NEDERLAND",
@@ -12,7 +12,7 @@
   "mmkId": "1057259",
   "productGroupId": "456336",
   "brandType": "A of B merk",
-  "discount": "€ 13,20",
+  "discount": "€ 13,19",
   "url": "/davitamon-vitamine-d3-1-per-week-capsules/p/5242413",
   "listName": "Lister",
   "brand": "Davitamon",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266991,
-      "name": "Vitamine D"
+      "id": 30266729,
+      "name": "Botten en spieren"
     }
   ],
   "description": "24 stuks",

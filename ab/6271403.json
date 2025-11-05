@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 6709 > 6710",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1057362",
   "mmkId": "1057362",
   "productGroupId": "501220",
@@ -33,6 +33,5 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hbc/h78/33760004538398/prd-front-6271403-1_600x600/prd-front-6271403-1-600x600.jpg"
+  "description": "200ml"
 }
