@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1057864",
-  "mmkId": "1057864",
-  "productGroupId": "522128",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-43256-disney-annas-slee-avontuur/p/6231874",
@@ -33,6 +33,5 @@
       "name": "LEGO Films en series"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he0/hb0/33146013548574/prd-front-6231874-1_600x600/prd-front-6231874-1-600x600.jpg"
+  "description": ""
 }

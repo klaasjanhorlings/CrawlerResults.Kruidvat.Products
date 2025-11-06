@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2048 > 2143 > 2348 > 2749 > 4869 > 6580",
   "supplier": "J-CLUB E-COMM",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Oorbellen"
     }
   ],
-  "description": "zwart, goudkleur"
+  "description": "zwart, goudkleur",
+  "image": "/medias/sys_master/prd-images/h44/h75/44210867896350/prd-front-6385909-1_600x600/prd-front-6385909-1-600x600.jpg"
 }

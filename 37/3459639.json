@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Cellular Expert Filler Anti-Age SPF30 Dagcrème",
   "code": "3459639",
-  "price": "16.49",
+  "price": "15.0",
   "priceOriginal": "32.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1057372",
-  "mmkId": "1057372",
-  "productGroupId": "501752",
+  "onPromo": "1057436",
+  "mmkId": "1057436",
+  "productGroupId": "501748",
   "brandType": "A of B merk",
-  "discount": "€ 16,50",
+  "discount": "€ 17,99",
   "url": "/nivea-cellular-expert-filler-anti-age-spf30-dagcreme/p/3459639",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Ouder wordende huid",
-  "image": "/medias/sys_master/prd-images/he7/hc5/35129402589214/prd-front-3459639-1_600x600/prd-front-3459639-1-600x600.jpg"
+  "description": "50ml - Ouder wordende huid"
 }

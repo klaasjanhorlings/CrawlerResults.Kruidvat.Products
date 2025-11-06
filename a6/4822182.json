@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1057377",
-  "mmkId": "1057377",
-  "productGroupId": "502131",
+  "onPromo": "1057437",
+  "mmkId": "1057437",
+  "productGroupId": "502036",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-milde-haver-conditioner/p/4822182",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h7f/hef/29788755132446/prd-front-4822182-1_600x600/prd-front-4822182-1-600x600.jpg"
 }

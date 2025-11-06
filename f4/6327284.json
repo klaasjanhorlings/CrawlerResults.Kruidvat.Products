@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2095 > 2150 > 2644 > 6616 > 6617",
   "supplier": "BECONNECTED HK LTD",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057438",
+  "mmkId": "1057438",
+  "productGroupId": "502344",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cotton-stretch-damesshort/p/6327284",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt M, 2 stuks"
+  "description": "zwart, mt M, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h79/h9e/44390534447134/prd-front-6327284-1_600x600/prd-front-6327284-1-600x600.jpg"
 }

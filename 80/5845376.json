@@ -8,8 +8,8 @@
   "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
   "supplier": "KIMBERLY-CLARK BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1058527",
+  "mmkId": "1058527",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -29,6 +29,5 @@
       "name": "Toiletpapier"
     }
   ],
-  "description": "24 rollen",
-  "image": "/medias/sys_master/prd-images/h0b/h7e/44255408422942/prd-front-5845376-1_600x600/prd-front-5845376-1-600x600.jpg"
+  "description": "24 rollen"
 }

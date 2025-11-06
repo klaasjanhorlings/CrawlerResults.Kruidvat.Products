@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dove Original 0% Aluminiumzouten Deodorant Roller",
   "code": "4317762",
-  "price": "5.25",
-  "priceOriginal": "",
+  "price": "2.0",
+  "priceOriginal": "5.25",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1057260",
-  "mmkId": "1057260",
-  "productGroupId": "462771",
+  "onPromo": "1057443",
+  "mmkId": "1057443",
+  "productGroupId": "502792",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,25",
   "url": "/dove-original-0-aluminiumzouten-deodorant-roller/p/4317762",
   "listName": "Lister",
   "brand": "Dove",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hb7/h3d/29203372834846/prd-front-4317762-1_600x600/prd-front-4317762-1-600x600.jpg"
+  "description": "50ml"
 }

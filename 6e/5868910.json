@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1057366",
-  "mmkId": "1057366",
-  "productGroupId": "501365",
+  "onPromo": "1057434",
+  "mmkId": "1057434",
+  "productGroupId": "500312",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-extreme-hold-6-extremely-strong-styling-mousse/p/5868910",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hac/hf3/32905763815454/prd-front-5868910-1_600x600/prd-front-5868910-1-600x600.jpg"
 }
