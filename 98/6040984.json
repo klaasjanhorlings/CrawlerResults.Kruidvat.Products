@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Dreft Platinum Plus All in One Vaatwastabletten",
   "code": "6040984",
-  "price": "39.99",
+  "price": "40.99",
   "priceOriginal": "107.99",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
   "supplier": "PROCTER & GAMBLE NL BV",
@@ -12,7 +12,7 @@
   "mmkId": "1057843",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 68,00",
+  "discount": "€ 67,00",
   "url": "/dreft-platinum-plus-all-in-one-vaatwastabletten/p/6040984",
   "listName": "Lister",
   "brand": "Dreft",
@@ -33,6 +33,5 @@
       "name": "Vaatwastabletten"
     }
   ],
-  "description": "150 stuks",
-  "image": "/medias/sys_master/prd-images/h2f/h1c/33409372684318/prd-front-6040984-1_600x600/prd-front-6040984-1-600x600.jpg"
+  "description": "150 stuks"
 }

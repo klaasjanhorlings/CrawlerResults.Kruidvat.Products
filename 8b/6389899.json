@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Celenes By Sweden By Sweden AHA 8% + BHA 2% Gezichtspeeling",
-  "code": "6062012",
-  "price": "17.95",
+  "itemName": "Nivea Cellular Epigenetics Ultiem Huidverjongend Serum",
+  "code": "6389899",
+  "price": "24.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
-  "supplier": "CRX NORDIC AG",
-  "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "1057436",
+  "mmkId": "1057436",
+  "productGroupId": "501748",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/celenes-by-sweden-by-sweden-aha-8-bha-2-gezichtspeeling/p/6062012",
+  "url": "/nivea-cellular-epigenetics-ultiem-huidverjongend-serum/p/6389899",
   "listName": "Lister",
-  "brand": "CELENES BY SWEDEN",
+  "brand": "Nivea",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,6 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hd3/hcb/34531798843422/prd-front-6062012-1_600x600/prd-front-6062012-1-600x600.jpg"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h1c/h68/44376992350238/prd-front-6389899-1_600x600/prd-front-6389899-1-600x600.jpg"
 }

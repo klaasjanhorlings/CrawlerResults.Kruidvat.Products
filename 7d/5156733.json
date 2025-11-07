@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3188 > 4062",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1057342",
   "mmkId": "1057342",
   "productGroupId": "499987",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 0"
     }
   ],
-  "description": "mt 0 (tot circa 3 kg), 20 stuks",
-  "image": "/medias/sys_master/prd-images/haf/hbd/44483842736158/prd-front-5156733-1_600x600/prd-front-5156733-1-600x600.jpg"
+  "description": "mt 0 (tot circa 3 kg), 20 stuks"
 }

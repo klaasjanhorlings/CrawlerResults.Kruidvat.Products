@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Baby Oliedoekjes",
-  "code": "1115465",
-  "price": "2.39",
+  "itemName": "Kruidvat Baby Pure Waterdoekjes",
+  "code": "4478027",
+  "price": "2.09",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "CODI INTERNATIONAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1010662",
   "mmkId": "1010662",
   "productGroupId": "242521",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-baby-oliedoekjes/p/1115465",
+  "url": "/kruidvat-baby-pure-waterdoekjes/p/4478027",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "40 stuks",
-  "image": "/medias/sys_master/prd-images/h7d/h2b/28027166195742/prd-front-1115465-1_600x600/prd-front-1115465-1-600x600.jpg"
+  "description": "62 stuks"
 }

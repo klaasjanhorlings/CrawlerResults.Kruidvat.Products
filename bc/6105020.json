@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Catrice Endless Matte 020 Lovely Nude Liquid Lippenstift",
   "code": "6105020",
-  "price": "4.69",
+  "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,5ml"
+  "description": "4,5ml",
+  "image": "/medias/sys_master/prd-images/hac/hd3/35014628179998/prd-front-6105020-1_600x600/prd-front-6105020-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Isostar Fast Hydration Orange Powertabs Bruistabletten",
   "code": "462721",
   "price": "6.65",
@@ -33,5 +33,6 @@
       "name": "Sportdrank"
     }
   ],
-  "description": "120g"
+  "description": "120g",
+  "image": "/medias/sys_master/prd-images/h19/h83/35062913630238/prd-front-462721-1_600x600/prd-front-462721-1-600x600.jpg"
 }

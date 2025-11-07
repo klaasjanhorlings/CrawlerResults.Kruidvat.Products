@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nip + Fab Peptide Fix 2% Finishing Oil",
-  "code": "6141063",
-  "price": "34.95",
+  "itemName": "Skincyclopedia 5% AHA & PHA Charcoal Gezichtsserum",
+  "code": "5933576",
+  "price": "9.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
-  "supplier": "NIP + FAB",
+  "supplier": "REBRO COSMETICS BV",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nip-fab-peptide-fix-2-finishing-oil/p/6141063",
+  "url": "/skincyclopedia-5-aha-pha-charcoal-gezichtsserum/p/5933576",
   "listName": "Lister",
-  "brand": "NIP+FAB",
+  "brand": "SKINCYCLOPEDIA",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h35/h6d/33064488927262/prd-front-6141063-1_600x600/prd-front-6141063-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h9c/hb2/29831787806750/prd-front-5933576-1_600x600/prd-front-5933576-1-600x600.jpg"
 }

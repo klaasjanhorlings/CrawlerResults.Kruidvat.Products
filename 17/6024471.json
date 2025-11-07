@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1057373",
-  "mmkId": "1057373",
-  "productGroupId": "502035",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-glycolic-gloss-5-minuten-lamellaire-verzorging/p/6024471",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h73/h28/30687572164638/prd-front-6024471-1_600x600/prd-front-6024471-1-600x600.jpg"
 }

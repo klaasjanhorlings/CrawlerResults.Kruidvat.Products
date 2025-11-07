@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Adidas Vibes Chill Zone Eau de Parfum",
   "code": "6133874",
-  "price": "12.99",
-  "priceOriginal": "19.99",
+  "price": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057351",
   "productGroupId": "500777",
   "brandType": "A of B merk",
-  "discount": "€ 7,00",
+  "discount": "",
   "url": "/adidas-vibes-chill-zone-eau-de-parfum/p/6133874",
   "listName": "Lister",
   "brand": "Adidas",
@@ -29,9 +29,10 @@
       "name": "Parfum"
     },
     {
-      "id": 72654362,
-      "name": "Damesparfum"
+      "id": 72654920,
+      "name": "Unisex parfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hbb/h4b/32415586353182/prd-front-6133874-1_600x600/prd-front-6133874-1-600x600.jpg"
 }

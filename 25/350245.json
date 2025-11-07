@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Isostar Banana Energy Sport Bar",
   "code": "350245",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Sportrepen"
     }
   ],
-  "description": "3 x 40g"
+  "description": "3 x 40g",
+  "image": "/medias/sys_master/prd-images/hca/h82/27276106334238/prd-front-350245-1_600x600/prd-front-350245-1-600x600.jpg"
 }

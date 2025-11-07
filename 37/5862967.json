@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Paco Rabanne 1 Million Elixir Eau de Parfum",
   "code": "5862967",
-  "price": "55.99",
-  "priceOriginal": "69.99",
+  "price": "69.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "JTG BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057241",
   "productGroupId": "500425",
   "brandType": "A of B merk",
-  "discount": "€ 14,00",
+  "discount": "",
   "url": "/paco-rabanne-1-million-elixir-eau-de-parfum/p/5862967",
   "listName": "Lister",
   "brand": "Paco Rabanne",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h45/h4b/27270979878942/prd-front-5862967-1_600x600/prd-front-5862967-1-600x600.jpg"
 }

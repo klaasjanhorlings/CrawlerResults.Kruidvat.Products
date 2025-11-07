@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1057264",
   "mmkId": "1057264",
   "productGroupId": "474700",
@@ -37,5 +37,6 @@
       "name": "Moedermelkbewaarzakjes"
     }
   ],
-  "description": "50 stuks"
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/h51/h4e/32146015846430/prd-front-4349269-1_600x600/prd-front-4349269-1-600x600.jpg"
 }

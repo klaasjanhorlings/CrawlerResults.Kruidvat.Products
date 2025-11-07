@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Pants XXL Maat 7 Luierbroekjes",
+  "code": "6385055",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
+  "supplier": "ESSITY NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pants-xxl-maat-7-luierbroekjes/p/6385055",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266019,
+      "name": "Luierbroekjes"
+    },
+    {
+      "id": 30266796,
+      "name": "Luierbroekjes maat 7"
+    }
+  ],
+  "description": "mt 7 (17-25kg), 38 stuks",
+  "image": "/medias/sys_master/prd-images/hd9/haf/44712464744478/prd-front-6385055-1_600x600/prd-front-6385055-1-600x600.jpg"
+}

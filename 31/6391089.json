@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Optimum Nutrition Gold Standard Double Rich Chocolate 100% Whey Protein",
   "code": "6391089",
   "price": "19.99",
@@ -33,6 +33,5 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "310g",
-  "image": "/medias/sys_master/prd-images/h36/hcf/44274396004382/prd-front-6391089-1_600x600/prd-front-6391089-1-600x600.jpg"
+  "description": "310g"
 }
