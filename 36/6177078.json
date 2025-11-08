@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Weleda Reinigingsolie en Make-upremover",
   "code": "6177078",
-  "price": "14.99",
-  "priceOriginal": "",
+  "price": "11.24",
+  "priceOriginal": "14.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057265",
   "productGroupId": "476407",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,75",
   "url": "/weleda-reinigingsolie-en-make-upremover/p/6177078",
   "listName": "Lister",
   "brand": "Weleda",
@@ -37,6 +37,5 @@
       "name": "Oogmake-up remover"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hb6/h6b/32183652876318/prd-front-6177078-1_600x600/prd-front-6177078-1-600x600.jpg"
+  "description": "150ml"
 }

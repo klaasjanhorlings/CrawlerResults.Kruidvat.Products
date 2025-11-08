@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2181 > 5921 > 6018 > 6741 > 6740 > 6739",
   "supplier": "GOLIATH B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1057349",
   "mmkId": "1057349",
   "productGroupId": "500712",
@@ -33,5 +33,6 @@
       "name": "Reisspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5771155-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTU1ODh8aW1hZ2UvanBlZ3xhREV3TDJneVpDOHhOamt4TlRJek5EUTRPRE0xTUM5d2NtUXRabkp2Ym5RdE5UYzNNVEUxTlMweFh6WXdNSGcyTURBfDVkNWExNDZiNGE2OWUwOGIwNWJkOGU3MDY4MWNhZTY5NTFiYWM5YzA2Mzk1MTdhNjc4MjkwYjZjZGNmMjk5NjA"
 }

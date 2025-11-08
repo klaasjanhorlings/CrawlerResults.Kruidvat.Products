@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Remescar Instant Facelift V-Shape Ampullen",
   "code": "5714941",
-  "price": "20.99",
-  "priceOriginal": "",
+  "price": "10.49",
+  "priceOriginal": "20.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ALL-IN-1 BVBA",
   "inStock": "outOfStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057382",
   "productGroupId": "502172",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,50",
   "url": "/remescar-instant-facelift-v-shape-ampullen/p/5714941",
   "listName": "Lister",
   "brand": "Remescar",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "5 x 2ml"
+  "description": "5 x 2ml",
+  "image": "/medias/sys_master/prd-images/hdf/h0c/33356034834462/prd-front-5714941-1_600x600/prd-front-5714941-1-600x600.jpg"
 }

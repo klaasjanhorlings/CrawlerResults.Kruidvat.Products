@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
   "supplier": "PRINSEN BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-essential-whey-protein-vanille-proteinepoeder/p/6383270",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "2100g"
+  "description": "2100g",
+  "image": "/medias/sys_master/prd-images/h58/h61/44366274691102/prd-front-6383270-1_600x600/prd-front-6383270-1-600x600.jpg"
 }

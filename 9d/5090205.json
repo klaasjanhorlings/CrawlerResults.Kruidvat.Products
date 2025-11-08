@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Drinkbeker Houder ",
+  "itemName": "Kruidvat Pakjeshouder",
   "code": "5090205",
   "price": "2.79",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "498795",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-drinkbeker-houder-/p/5090205",
+  "url": "/kruidvat-pakjeshouder/p/5090205",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Kinderservies"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h44/h8e/34891278975006/prd-front-5090205-1_600x600/prd-front-5090205-1-600x600.jpg"
+  "description": ""
 }
