@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Efteling Hatsikiyatzy Dobbelspel",
+  "code": "6366820",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "1057349",
+  "mmkId": "1057349",
+  "productGroupId": "500712",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/efteling-hatsikiyatzy-dobbelspel/p/6366820",
+  "listName": "Lister",
+  "brand": "Efteling",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 90171500,
+      "name": "Dobbelspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbf/h69/44631502028830/prd-front-6366820-1_600x600/prd-front-6366820-1-600x600.jpg"
+}

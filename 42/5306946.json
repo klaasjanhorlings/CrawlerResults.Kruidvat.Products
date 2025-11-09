@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Efteling Winterhuis Hans & Grietje",
+  "code": "5306946",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2060 > 2192 > 5088 > 5113 > 5117 > 5926",
+  "supplier": "EDELMAN BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/efteling-winterhuis-hans-grietje/p/5306946",
+  "listName": "Lister",
+  "brand": "Efteling",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 101717606,
+      "name": "Kerstartikelen"
+    },
+    {
+      "id": 101719319,
+      "name": "Kersthuisjes"
+    }
+  ],
+  "description": "9,5cm",
+  "image": "/medias/sys_master/prd-images/h1f/hda/29013055176734/prd-front-5306946-1_600x600/prd-front-5306946-1-600x600.jpg"
+}

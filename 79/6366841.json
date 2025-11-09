@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Efteling Kwartet",
+  "code": "6366841",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "1057349",
+  "mmkId": "1057349",
+  "productGroupId": "500712",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/efteling-kwartet/p/6366841",
+  "listName": "Lister",
+  "brand": "Efteling",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he0/h0f/44632047779870/prd-front-6366841-1_600x600/prd-front-6366841-1-600x600.jpg"
+}

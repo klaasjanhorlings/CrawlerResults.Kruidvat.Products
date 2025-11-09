@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Efteling Keukendoeken",
+  "code": "6370600",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 5798 > 5797 > 5926 > 6020 > 6048",
+  "supplier": "VESPO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/efteling-keukendoeken/p/6370600",
+  "listName": "Lister",
+  "brand": "Efteling",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266901,
+      "name": "Huishoudelijk textiel"
+    },
+    {
+      "id": 80863125,
+      "name": "Theedoeken"
+    }
+  ],
+  "description": "groen",
+  "image": "/medias/sys_master/prd-images/h36/h60/44219480080414/prd-front-6370600-1_600x600/prd-front-6370600-1-600x600.jpg"
+}

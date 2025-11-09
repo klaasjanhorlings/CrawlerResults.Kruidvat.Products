@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1057249",
   "mmkId": "1057249",
   "productGroupId": "498532",
@@ -33,5 +33,6 @@
       "name": "LEGO Minisets"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcb/h48/34100408123422/prd-front-6287398-1_600x600/prd-front-6287398-1-600x600.jpg"
 }

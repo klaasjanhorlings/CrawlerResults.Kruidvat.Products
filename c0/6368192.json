@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Efteling Joris & de Draak Fleecedeken",
+  "code": "6368192",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2060 > 2192 > 5926 > 5964 > 5981 > 5998",
+  "supplier": "VESPO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/efteling-joris-de-draak-fleecedeken/p/6368192",
+  "listName": "Lister",
+  "brand": "Efteling",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 57225738,
+      "name": "Dekens"
+    },
+    {
+      "id": 84925961,
+      "name": "Fleecedekens"
+    }
+  ],
+  "description": "groen, 130cm x 160cm",
+  "image": "/medias/sys_master/prd-images/h5a/h4e/44588834357278/prd-front-6368192-1_600x600/prd-front-6368192-1-600x600.jpg"
+}
