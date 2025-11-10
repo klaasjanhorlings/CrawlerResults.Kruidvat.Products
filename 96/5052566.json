@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Pants Junior Maat 5 Luierbroekjes Midpack",
   "code": "5052566",
-  "price": "7.49",
-  "priceOriginal": "",
+  "price": "3.74",
+  "priceOriginal": "7.49",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
-  "onPromo": "1057398",
-  "mmkId": "1057398",
-  "productGroupId": "510065",
+  "inStock": "outOfStock",
+  "onPromo": "1057691",
+  "mmkId": "1057691",
+  "productGroupId": "510806",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 3,75",
   "url": "/kruidvat-pants-junior-maat-5-luierbroekjes-midpack/p/5052566",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 5 (12-17 kg), 21 stuks",
-  "image": "/medias/sys_master/prd-images/h9c/hec/44737494253598/prd-front-5052566-1_600x600/prd-front-5052566-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h3d/h78/44746958929950/prd-front-5052566-1_600x600/prd-front-5052566-1-600x600.jpg"
 }

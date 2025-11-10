@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dove Women Original Deodorant Roller",
   "code": "1307594",
-  "price": "2.0",
-  "priceOriginal": "4.99",
+  "price": "4.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1057443",
-  "mmkId": "1057443",
-  "productGroupId": "502792",
+  "onPromo": "1057523",
+  "mmkId": "1057523",
+  "productGroupId": "489583",
   "brandType": "A of B merk",
-  "discount": "€ 2,99",
+  "discount": "",
   "url": "/dove-women-original-deodorant-roller/p/1307594",
   "listName": "Lister",
   "brand": "Dove",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hd8/hda/44519933607966/prd-front-1307594-1_600x600/prd-front-1307594-1-600x600.jpg"
 }

@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Air Wick Essentiële Oliën Fresia & Jasmijn Geurstokjes",
+  "code": "5807429",
+  "price": "3.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "6679 > 2146 > 5962 > 5979 > 5996 > 5926",
+  "supplier": "RB HYGIENE HOME NL BV",
+  "inStock": "inStock",
+  "onPromo": "1057514",
+  "mmkId": "1057514",
+  "productGroupId": "484619",
+  "brandType": "A of B merk",
+  "discount": "€ 4,00",
+  "url": "/air-wick-essentiele-olien-fresia-jasmijn-geurstokjes/p/5807429",
+  "listName": "Lister",
+  "brand": "Airwick",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266894,
+      "name": "Geurstokjes"
+    }
+  ],
+  "description": "33ml"
+}

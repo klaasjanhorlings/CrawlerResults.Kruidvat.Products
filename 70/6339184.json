@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Rastar Ferrari SF90 Stradale 1:24 Bestuurbare Auto",
   "code": "6339184",
   "price": "9.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2140 > 4929 > 4976 > 5022 > 5921 > 6040",
   "supplier": "HERMANEX INTERNATIONAL",
   "inStock": "inStock",
-  "onPromo": "1057349",
-  "mmkId": "1057349",
-  "productGroupId": "500712",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rastar-ferrari-sf90-stradale-1-24-bestuurbare-auto/p/6339184",
@@ -29,6 +29,5 @@
       "name": "Voertuigen"
     }
   ],
-  "description": "rood",
-  "image": "/medias/sys_master/prd-images/hc3/h0b/44039037190174/prd-front-6339184-1_600x600/prd-front-6339184-1-600x600.jpg"
+  "description": "rood"
 }

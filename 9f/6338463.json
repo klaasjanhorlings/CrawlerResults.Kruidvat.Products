@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "South Park puzzel",
   "code": "6338463",
   "price": "3.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6018",
   "supplier": "HERMANEX INTERNATIONAL",
   "inStock": "inStock",
-  "onPromo": "1057349",
-  "mmkId": "1057349",
-  "productGroupId": "500712",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/south-park-puzzel/p/6338463",
@@ -29,5 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": "1000 stukjes"
+  "description": "1000 stukjes",
+  "image": "/medias/sys_master/prd-images/hf8/h56/34890639147038/prd-front-6338463-1_600x600/prd-front-6338463-1-600x600.jpg"
 }

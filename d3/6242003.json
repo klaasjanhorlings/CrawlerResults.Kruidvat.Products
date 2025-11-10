@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Colossal Bubble Washable Mascara",
   "code": "6242003",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1057328",
-  "mmkId": "1057328",
-  "productGroupId": "499484",
+  "onPromo": "1057607",
+  "mmkId": "1057607",
+  "productGroupId": "499491",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,00",
   "url": "/maybelline-new-york-colossal-bubble-washable-mascara/p/6242003",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/ha3/h5f/44738556690462/prd-front-6242003-1_600x600/prd-front-6242003-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h32/hb9/44748200280094/prd-front-6242003-1_600x600/prd-front-6242003-1-600x600.jpg"
 }

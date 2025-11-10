@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Technic 42206 Oracle Red Bull Racing RB20 F1 Auto",
   "code": "6346429",
   "price": "219.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Technic"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h16/h94/35037300916254/prd-front-6346429-1_600x600/prd-front-6346429-1-600x600.jpg"
 }

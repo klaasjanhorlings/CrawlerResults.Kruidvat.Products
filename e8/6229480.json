@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Megabloks Pokémon Adventskalender",
+  "code": "6229480",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/megabloks-pokemon-adventskalender/p/6229480",
+  "listName": "Lister",
+  "brand": "Megabloks",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1a/h95/32895577161758/prd-front-6229480-1_600x600/prd-front-6229480-1-600x600.jpg"
+}

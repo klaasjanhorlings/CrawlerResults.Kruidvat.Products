@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Fa Invisible Sensitive Antitranspirant Spray",
   "code": "5801010",
-  "price": "1.5",
-  "priceOriginal": "4.49",
+  "price": "4.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1057274",
-  "mmkId": "1057274",
-  "productGroupId": "487879",
+  "onPromo": "1057484",
+  "mmkId": "1057484",
+  "productGroupId": "459985",
   "brandType": "A of B merk",
-  "discount": "€ 2,99",
+  "discount": "",
   "url": "/fa-invisible-sensitive-antitranspirant-spray/p/5801010",
   "listName": "Lister",
   "brand": "Fa",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h81/hbb/44487755726878/prd-front-5801010-1_600x600/prd-front-5801010-1-600x600.jpg"
 }

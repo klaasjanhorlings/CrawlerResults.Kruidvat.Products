@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO City 60205 Treinrails",
   "code": "4496003",
-  "price": "17.99",
-  "priceOriginal": "",
+  "price": "13.49",
+  "priceOriginal": "17.99",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1040891",
-  "mmkId": "1040891",
-  "productGroupId": "432557",
+  "onPromo": "1057667",
+  "mmkId": "1057667",
+  "productGroupId": "502447",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "$ 4,50",
   "url": "/lego-city-60205-treinrails/p/4496003",
   "listName": "Lister",
   "brand": "LEGO City",
@@ -33,6 +33,5 @@
       "name": "LEGO City"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha3/h20/34995196821534/prd-front-4496003-1_600x600/prd-front-4496003-1-600x600.jpg"
+  "description": ""
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "LANSINOH LABORATORIES",
   "inStock": "inStock",
-  "onPromo": "1057264",
-  "mmkId": "1057264",
-  "productGroupId": "474700",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lansinoh-contact-tepelhoedjes/p/5787584",
@@ -37,5 +37,6 @@
       "name": "Tepelhoedjes"
     }
   ],
-  "description": "2 x 24mm"
+  "description": "2 x 24mm",
+  "image": "/medias/prd-front-5787584-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njk2MzB8aW1hZ2UvanBlZ3xhREJpTDJoaFlTOHlOekl3T0RZMU1qRTVNemd5TWk5d2NtUXRabkp2Ym5RdE5UYzROelU0TkMweFh6WXdNSGcyTURBfGY4NDFkMmZhZjNhYThkN2VlMzZiMmRiOTA4NWMyMWI3N2I1Yjk3MzdiYWNiNWRlMTcyNDIwZjJiZTU2ODI2MGI"
 }

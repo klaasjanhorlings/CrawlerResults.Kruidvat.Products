@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Disney Stitch Deluxe Figuren Set",
+  "code": "6361990",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
+  "supplier": "SPECTRON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/disney-stitch-deluxe-figuren-set/p/6361990",
+  "listName": "Lister",
+  "brand": "Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hba/h7d/44009558999070/prd-front-6361990-1_600x600/prd-front-6361990-1-600x600.jpg"
+}

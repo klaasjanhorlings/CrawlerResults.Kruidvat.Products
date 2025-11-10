@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Davitamon Nachtrust 3-in-1 Capsules",
   "code": "5433723",
-  "price": "6.0",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "outOfStock",
-  "onPromo": "1057259",
-  "mmkId": "1057259",
-  "productGroupId": "456336",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "€ 8,99",
+  "discount": "",
   "url": "/davitamon-nachtrust-3-in-1-capsules/p/5433723",
   "listName": "Lister",
   "brand": "Davitamon",
@@ -33,5 +33,6 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/h24/h57/31458797289502/prd-front-5433723-1_600x600/prd-front-5433723-1-600x600.jpg"
 }

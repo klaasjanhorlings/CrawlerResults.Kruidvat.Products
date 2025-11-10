@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Disney Pluchen Dance & Sing Stitch Knuffel",
+  "code": "6362011",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 5179 > 5303 > 5492 > 5921 > 6040",
+  "supplier": "SPECTRON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/disney-pluchen-dance-sing-stitch-knuffel/p/6362011",
+  "listName": "Lister",
+  "brand": "Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266029,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "38cm",
+  "image": "/medias/sys_master/prd-images/hdc/hdd/44010542596126/prd-front-6362011-1_600x600/prd-front-6362011-1-600x600.jpg"
+}

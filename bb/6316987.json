@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Instant Glow Flash Primer",
   "code": "6316987",
-  "price": "14.99",
-  "priceOriginal": "",
+  "price": "11.25",
+  "priceOriginal": "14.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057668",
+  "mmkId": "1057668",
+  "productGroupId": "502490",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 3,74",
   "url": "/mcobeauty-instant-glow-flash-primer/p/6316987",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/hb8/h13/34826842439710/prd-front-6316987-1_600x600/prd-front-6316987-1-600x600.jpg"
 }

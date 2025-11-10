@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Durex Surprise Me Condooms",
   "code": "6086729",
-  "price": "18.0",
-  "priceOriginal": "35.99",
+  "price": "35.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "inStock",
-  "onPromo": "1057232",
-  "mmkId": "1057232",
-  "productGroupId": "473694",
+  "inStock": "outOfStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "€ 17,99",
+  "discount": "",
   "url": "/durex-surprise-me-condooms/p/6086729",
   "listName": "Lister",
   "brand": "Durex",
@@ -33,5 +33,6 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel - 40 stuks"
+  "description": "Medisch hulpmiddel - 40 stuks",
+  "image": "/medias/sys_master/prd-images/hd0/h25/31057372119070/prd-front-6086729-1_600x600/prd-front-6086729-1-600x600.jpg"
 }

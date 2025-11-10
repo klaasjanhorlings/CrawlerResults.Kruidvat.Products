@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "ANGLO EUROPEAN TRADING",
-  "inStock": "inStock",
-  "onPromo": "1057327",
-  "mmkId": "1057327",
-  "productGroupId": "499438",
+  "inStock": "outOfStock",
+  "onPromo": "1057604",
+  "mmkId": "1057604",
+  "productGroupId": "499439",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-colors-to-cover-5-7-middenbruin-uitgroeispray/p/4085257",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h14/h68/28030377754654/prd-front-4085257-1_600x600/prd-front-4085257-1-600x600.jpg"
+  "description": "100ml"
 }

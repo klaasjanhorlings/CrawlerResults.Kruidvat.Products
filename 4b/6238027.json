@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Schleich 87961 Dinosaurus Verzameldieren",
   "code": "6238027",
   "price": "3.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2140 > 5157 > 5589 > 5619 > 5921 > 6040",
   "supplier": "HERMANEX INTERNATIONAL",
   "inStock": "inStock",
-  "onPromo": "1057349",
-  "mmkId": "1057349",
-  "productGroupId": "500712",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schleich-87961-dinosaurus-verzameldieren/p/6238027",
@@ -33,6 +33,5 @@
       "name": "Speelfiguren"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1f/h78/32836680974366/prd-front-6238027-1_600x600/prd-front-6238027-1-600x600.jpg"
+  "description": ""
 }

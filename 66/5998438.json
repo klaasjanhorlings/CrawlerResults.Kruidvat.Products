@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York The Colossal 100% Black Mascara",
   "code": "5998438",
-  "price": "16.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "16.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1057328",
-  "mmkId": "1057328",
-  "productGroupId": "499484",
+  "onPromo": "1057607",
+  "mmkId": "1057607",
+  "productGroupId": "499491",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,00",
   "url": "/maybelline-new-york-the-colossal-100-black-mascara/p/5998438",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h16/h6a/44738548236318/prd-front-5998438-1_600x600/prd-front-5998438-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc3/h1e/44748193333278/prd-front-5998438-1_600x600/prd-front-5998438-1-600x600.jpg"
 }

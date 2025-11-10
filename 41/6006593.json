@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1057603",
+  "mmkId": "1057603",
+  "productGroupId": "499340",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-facefinity-compact-1-refillable-foundation/p/6006593",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "10g"
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/h1f/h91/35013737840670/prd-front-6006593-1_600x600/prd-front-6006593-1-600x600.jpg"
 }

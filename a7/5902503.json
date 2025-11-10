@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York SuperStay 24H Skin Tint 48 Foundation",
   "code": "5902503",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1057607",
+  "mmkId": "1057607",
+  "productGroupId": "499491",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,00",
   "url": "/maybelline-new-york-superstay-24h-skin-tint-48-foundation/p/5902503",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/he1/h36/44734297931806/prd-front-5902503-1_600x600/prd-front-5902503-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd0/hd3/44745108488222/prd-front-5902503-1_600x600/prd-front-5902503-1-600x600.jpg"
 }

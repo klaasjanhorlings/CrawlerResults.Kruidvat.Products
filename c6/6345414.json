@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Sherpa Dubbellaags Plaid",
+  "code": "6345414",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2060 > 2192 > 5926 > 5964 > 5981 > 5998",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-sherpa-dubbellaags-plaid/p/6345414",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 57225738,
+      "name": "Dekens"
+    },
+    {
+      "id": 84925961,
+      "name": "Fleecedekens"
+    }
+  ],
+  "description": "beige, 200cm x 220cm",
+  "image": "/medias/sys_master/prd-images/h28/hec/44588555796510/prd-front-6345414-1_600x600/prd-front-6345414-1-600x600.jpg"
+}

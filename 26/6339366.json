@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Kruidvat Speelgoedboekje",
+  "code": "6339366",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2130 > 2314 > 2710 > 3413 > 4362",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-speelgoedboekje/p/6339366",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30266834,
+      "name": "Grijp- en bijtspeelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h26/he8/35071785435166/prd-front-6339366-1_600x600/prd-front-6339366-1-600x600.jpg"
+}

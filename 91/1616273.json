@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "L'OREAL NED B.V.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057618",
+  "mmkId": "1057618",
+  "productGroupId": "499894",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-casting-creme-gloss-454-mahonie-koperbruin-semi-permanente-haarkleuring/p/1616273",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he2/hf4/34839371481118/prd-front-1616273-1_600x600/prd-front-1616273-1-600x600.jpg"
 }

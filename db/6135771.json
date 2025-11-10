@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Power Bullet",
   "code": "6135771",
-  "price": "8.99",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 6401 > 6463 > 6464",
   "supplier": "SCALA 2.0 BV",
   "inStock": "inStock",
-  "onPromo": "1057386",
-  "mmkId": "1057386",
-  "productGroupId": "502635",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/kruidvat-power-bullet/p/6135771",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -41,6 +41,5 @@
       "name": "Mini vibrators"
     }
   ],
-  "description": "48g",
-  "image": "/medias/sys_master/prd-images/h3a/h04/31449150193694/prd-front-6135771-1_600x600/prd-front-6135771-1-600x600.jpg"
+  "description": "48g"
 }

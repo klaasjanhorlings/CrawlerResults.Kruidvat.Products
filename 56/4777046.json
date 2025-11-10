@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057522",
+  "mmkId": "1057522",
+  "productGroupId": "489399",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-zen-white-lotus-extra-dry-48h-antitranspirant-roller/p/4777046",
@@ -33,5 +33,6 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h85/h1c/29340231532574/prd-front-4777046-1_600x600/prd-front-4777046-1-600x600.jpg"
 }

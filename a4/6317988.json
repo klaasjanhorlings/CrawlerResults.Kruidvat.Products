@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Medium Beige Instant Concealer Camouflage & Contour",
   "code": "6317988",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "5.99",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057668",
+  "mmkId": "1057668",
+  "productGroupId": "502490",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/mcobeauty-medium-beige-instant-concealer-camouflage-contour/p/6317988",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h59/h1a/34826834116638/prd-front-6317988-1_600x600/prd-front-6317988-1-600x600.jpg"
+  "description": "10ml"
 }

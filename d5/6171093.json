@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pietenpak Kinderkostuum",
   "code": "6171093",
   "price": "5.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
   "supplier": "LITTLE CONCEPTS NETTO",
   "inStock": "inStock",
-  "onPromo": "1057349",
-  "mmkId": "1057349",
-  "productGroupId": "500712",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/pietenpak-kinderkostuum/p/6171093",
@@ -29,6 +29,5 @@
       "name": "Verkleedkleding & accessoires"
     }
   ],
-  "description": "blauw, 6-8 jaar",
-  "image": "/medias/sys_master/prd-images/hdf/hf8/44482444787742/prd-front-6171093-1_600x600/prd-front-6171093-1-600x600.jpg"
+  "description": "blauw, 6-8 jaar"
 }

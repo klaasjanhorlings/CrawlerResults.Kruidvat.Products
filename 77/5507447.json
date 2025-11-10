@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "King Fantasy Collection Princess And The Unicorn Puzzel",
   "code": "5507447",
   "price": "2.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6018",
   "supplier": "HERMANEX INTERNATIONAL",
   "inStock": "inStock",
-  "onPromo": "1057349",
-  "mmkId": "1057349",
-  "productGroupId": "500712",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/king-fantasy-collection-princess-and-the-unicorn-puzzel/p/5507447",
@@ -29,6 +29,5 @@
       "name": "Puzzels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hff/h3d/34520286461982/prd-front-5507447-1_600x600/prd-front-5507447-1-600x600.jpg"
+  "description": ""
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Fa Oriental Neroli Douchecrème",
   "code": "3552508",
-  "price": "1.5",
-  "priceOriginal": "4.29",
+  "price": "4.29",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1057274",
-  "mmkId": "1057274",
-  "productGroupId": "487879",
+  "onPromo": "1057484",
+  "mmkId": "1057484",
+  "productGroupId": "459985",
   "brandType": "A of B merk",
-  "discount": "€ 2,79",
+  "discount": "",
   "url": "/fa-oriental-neroli-douchecreme/p/3552508",
   "listName": "Lister",
   "brand": "Fa",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hd3/h3f/44426499325982/prd-front-3552508-1_600x600/prd-front-3552508-1-600x600.jpg"
 }

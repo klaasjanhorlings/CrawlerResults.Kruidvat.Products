@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Ticket To Ride: Londen",
   "code": "5310817",
   "price": "14.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
   "supplier": "ASMODEE THE NETHERLANDS",
   "inStock": "inStock",
-  "onPromo": "1057349",
-  "mmkId": "1057349",
-  "productGroupId": "500712",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/ticket-to-ride-londen/p/5310817",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/prd-front-5310817-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTMxMTI0fGltYWdlL2pwZWd8YURneUwyaGpNQzh4TmpBNU5qSXpOVE0xTmpFNU1DOXdjbVF0Wm5KdmJuUXROVE14TURneE55MHhYell3TUhnMk1EQXwxYjNhMjI3NWVlNzQxZmUyNGM4OTAxNTU1MzliMGVjYWM3Yjk1NTVlMjM5MWNhOWY0Zjc4NDdhYjZlMTcyMTdk"
 }

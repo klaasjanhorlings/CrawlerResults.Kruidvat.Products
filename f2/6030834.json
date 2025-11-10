@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gillette Venus Satin Care Huid en Schaamhaar Scheerapparaat",
   "code": "6030834",
-  "price": "15.0",
-  "priceOriginal": "18.99",
+  "price": "18.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1057303",
-  "mmkId": "1057303",
-  "productGroupId": "498588",
+  "onPromo": "1057583",
+  "mmkId": "1057583",
+  "productGroupId": "498625",
   "brandType": "A of B merk",
-  "discount": "€ 3,99",
+  "discount": "",
   "url": "/gillette-venus-satin-care-huid-en-schaamhaar-scheerapparaat/p/6030834",
   "listName": "Lister",
   "brand": "Gillette Venus",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hbd/h8d/44734806917150/prd-front-6030834-1_600x600/prd-front-6030834-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd1/h74/44745117270046/prd-front-6030834-1_600x600/prd-front-6030834-1-600x600.jpg"
 }

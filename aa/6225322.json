@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Dreamzzz 71488 Bunchu's Creatieve Dierenavonturen",
   "code": "6225322",
   "price": "8.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057639",
+  "mmkId": "1057639",
+  "productGroupId": "500717",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-dreamzzz-71488-bunchus-creatieve-dierenavonturen/p/6225322",
@@ -33,6 +33,5 @@
       "name": "LEGO DreamZzz"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h2a/hd3/33143661789214/prd-front-6225322-1_600x600/prd-front-6225322-1-600x600.jpg"
+  "description": ""
 }

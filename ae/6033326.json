@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Fleuril Renew White & Light Vloeibaar Wasmiddel",
   "code": "6033326",
-  "price": "6.99",
-  "priceOriginal": "13.99",
+  "price": "13.99",
+  "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
   "supplier": "HENKEL NEDERLAND BV U-W",
   "inStock": "inStock",
-  "onPromo": "1057148",
-  "mmkId": "1057148",
-  "productGroupId": "451244",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 7,00",
+  "discount": "",
   "url": "/fleuril-renew-white-light-vloeibaar-wasmiddel/p/6033326",
   "listName": "Lister",
   "brand": "Fleuril",
@@ -29,6 +29,5 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "1350ml, 29 wasbeurten",
-  "image": "/medias/sys_master/prd-images/h14/h43/44427067129886/prd-front-6033326-1_600x600/prd-front-6033326-1-600x600.jpg"
+  "description": "1350ml, 29 wasbeurten"
 }

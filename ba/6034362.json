@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Technic 42179 De Aarde En De Maan In Beweging",
   "code": "6034362",
-  "price": "56.24",
-  "priceOriginal": "74.99",
+  "price": "74.99",
+  "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "1057045",
-  "mmkId": "1057045",
-  "productGroupId": "502445",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 18,75",
+  "discount": "",
   "url": "/lego-technic-42179-de-aarde-en-de-maan-in-beweging/p/6034362",
   "listName": "Lister",
   "brand": "LEGO Technic",
@@ -33,5 +33,6 @@
       "name": "LEGO Technic"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h23/hdd/31067607040030/prd-front-6034362-1_600x600/prd-front-6034362-1-600x600.jpg"
 }

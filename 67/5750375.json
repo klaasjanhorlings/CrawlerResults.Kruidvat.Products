@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ferrero Rocher Voordeelbox",
+  "code": "5750375",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "FERRERO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ferrero-rocher-voordeelbox/p/5750375",
+  "listName": "Lister",
+  "brand": "Ferrero",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267030,
+      "name": "Kerstsnoep"
+    }
+  ],
+  "description": "338g",
+  "image": "/medias/sys_master/prd-images/hd0/h3b/28654132396062/prd-front-5750375-1_600x600/prd-front-5750375-1-600x600.jpg"
+}

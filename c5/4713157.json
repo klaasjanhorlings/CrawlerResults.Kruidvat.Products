@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "1057344",
-  "mmkId": "1057344",
-  "productGroupId": "500143",
+  "inStock": "outOfStock",
+  "onPromo": "1057628",
+  "mmkId": "1057628",
+  "productGroupId": "500149",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/head-shoulders-citrus-fresh-antiroosshampoo/p/4713157",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "400ml - Vet haar"
+  "description": "400ml - Vet haar",
+  "image": "/medias/sys_master/prd-images/h07/h55/34023118569502/prd-front-4713157-1_600x600/prd-front-4713157-1-600x600.jpg"
 }

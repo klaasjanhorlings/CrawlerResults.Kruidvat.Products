@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pluchen Cupcake Cuties Knuffeltjes",
   "code": "6343741",
   "price": "7.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2232 > 5179 > 5303 > 5492 > 5921 > 6040",
   "supplier": "THE MERCHANDISE CLUB BV",
   "inStock": "outOfStock",
-  "onPromo": "1057349",
-  "mmkId": "1057349",
-  "productGroupId": "500712",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/pluchen-cupcake-cuties-knuffeltjes/p/6343741",
@@ -29,6 +29,5 @@
       "name": "Poppen en knuffels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h04/h79/34881365770270/prd-front-6343741-1_600x600/prd-front-6343741-1-600x600.jpg"
+  "description": ""
 }

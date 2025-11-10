@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Weleda Sport Cooling Gel",
   "code": "6380645",
-  "price": "9.71",
-  "priceOriginal": "12.95",
+  "price": "12.95",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 6471 > 6472",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "1057265",
-  "mmkId": "1057265",
-  "productGroupId": "476407",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "€ 3,24",
+  "discount": "",
   "url": "/weleda-sport-cooling-gel/p/6380645",
   "listName": "Lister",
   "brand": "Weleda",
@@ -33,5 +33,6 @@
       "name": "Koelmiddelen"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hd1/hd8/44324862132254/prd-front-6380645-1_600x600/prd-front-6380645-1-600x600.jpg"
 }

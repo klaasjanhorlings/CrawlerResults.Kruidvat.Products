@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "COBECO PHARMA WHOLESALE",
   "inStock": "inStock",
-  "onPromo": "1057379",
-  "mmkId": "1057379",
-  "productGroupId": "502148",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pleasure-glijmiddel-op-waterbasis/p/4023706",
@@ -37,5 +37,6 @@
       "name": "Waterbasis glijmiddelen"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/prd-front-4023706-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTY1ODF8aW1hZ2UvanBlZ3xhRFpsTDJoaVppOHhOekUxT1RrM09UTTJPRFEzT0M5d2NtUXRabkp2Ym5RdE5EQXlNemN3TmkweFh6WXdNSGcyTURBfGViMTJlMTNjNjU5MGRjOWQ1Y2RiMzdmMDM3Yzg3ZWE3MmY1YzZhMmQ3ZjM5NDRhNWE1MWY0NjI4YzQzMGVkM2Y"
 }

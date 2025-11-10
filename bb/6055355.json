@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Odorex Invisible Dry Deodorant Antitranspirant Spray",
   "code": "6055355",
-  "price": "4.49",
-  "priceOriginal": "",
+  "price": "1.5",
+  "priceOriginal": "4.49",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
   "supplier": "ROYAL SANDERS JESSENITZ GMBH",
   "inStock": "inStock",
-  "onPromo": "1057439",
-  "mmkId": "1057439",
-  "productGroupId": "502472",
+  "onPromo": "1057526",
+  "mmkId": "1057526",
+  "productGroupId": "489987",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,99",
   "url": "/odorex-invisible-dry-deodorant-antitranspirant-spray/p/6055355",
   "listName": "Lister",
   "brand": "Odorex",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h0c/h9c/44329308880926/prd-front-6055355-1_600x600/prd-front-6055355-1-600x600.jpg"
 }

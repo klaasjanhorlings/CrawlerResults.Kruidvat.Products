@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gabby's Dollhouse Fleece Kinderpyjama",
+  "code": "6371741",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2495 > 3061 > 3520 > 5795 > 5928 > 6716",
+  "supplier": "SABORN TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gabbys-dollhouse-fleece-kinderpyjama/p/6371741",
+  "listName": "Lister",
+  "brand": "Gabby's Dollhouse",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266856,
+      "name": "Kinderpyjama's"
+    }
+  ],
+  "description": "roze, mt 122-128",
+  "image": "/medias/sys_master/prd-images/h04/h90/44683110318110/prd-front-6371741-1_600x600/prd-front-6371741-1-600x600.jpg"
+}

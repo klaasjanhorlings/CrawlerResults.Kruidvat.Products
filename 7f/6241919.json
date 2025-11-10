@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Superstay 119 Lumi Matte Foundation",
   "code": "6241919",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1057607",
+  "mmkId": "1057607",
+  "productGroupId": "499491",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,00",
   "url": "/maybelline-new-york-superstay-119-lumi-matte-foundation/p/6241919",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "35ml",
-  "image": "/medias/sys_master/prd-images/h72/hc6/44734151163934/prd-front-6241919-1_600x600/prd-front-6241919-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd4/h6b/44745138241566/prd-front-6241919-1_600x600/prd-front-6241919-1-600x600.jpg"
 }
