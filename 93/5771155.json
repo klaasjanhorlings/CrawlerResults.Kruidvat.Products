@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Goliath Rolit Reiseditie",
   "code": "5771155",
   "price": "9.99",
   "priceOriginal": "",
   "itemBgbcat": "2181 > 5921 > 6018 > 6741 > 6740 > 6739",
   "supplier": "GOLIATH B.V.",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "Spellen"
     },
     {
-      "id": 30266836,
-      "name": "Reisspellen"
+      "id": 30266835,
+      "name": "Bordspellen"
     }
   ],
   "description": "",

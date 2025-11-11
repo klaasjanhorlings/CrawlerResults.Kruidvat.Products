@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Van Gils Strictly for Men Eau de Toilette",
   "code": "1790244",
-  "price": "29.99",
-  "priceOriginal": "",
+  "price": "26.69",
+  "priceOriginal": "29.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057718",
+  "mmkId": "1057718",
+  "productGroupId": "502851",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,30",
   "url": "/van-gils-strictly-for-men-eau-de-toilette/p/1790244",
   "listName": "Lister",
   "brand": "Van Gils",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-1790244-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTM2Nzl8aW1hZ2UvanBlZ3xhR0UwTDJobVpDOHhOamsxTnpZNE16azVNRFUxT0M5d2NtUXRabkp2Ym5RdE1UYzVNREkwTkMweFh6WXdNSGcyTURBfDVhMzY0MmFhZmMxN2M1ZmNiNTExZjk3Y2NjZTdmZTYyYmU1YWRiZTg4MzQ2Nzc1ZGZhMDhjNGM1NzU3ZjBjYzc"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ticket to Ride San Francisco",
   "code": "6152025",
   "price": "14.99",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/hc1/h76/31496478064670/prd-front-6152025-1_600x600/prd-front-6152025-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

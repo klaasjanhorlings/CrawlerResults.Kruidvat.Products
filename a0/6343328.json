@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Jumbo 1000Km Mariokart Kaartspel",
   "code": "6343328",
   "price": "22.99",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h12/h91/34917587451934/prd-front-6343328-1_600x600/prd-front-6343328-1-600x600.jpg"
+  "description": ""
 }

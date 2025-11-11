@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Gonnie En Gijsje … En Ollie Natuurlijk! - Olivier Dunrea Kinderboek",
   "code": "6360835",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Kinderboeken"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h58/h76/34926710259742/prd-front-6360835-1_600x600/prd-front-6360835-1-600x600.jpg"
+  "description": ""
 }

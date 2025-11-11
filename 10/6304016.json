@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Mixsoon Mung Bean Seed Essence",
   "code": "6304016",
-  "price": "17.9",
-  "priceOriginal": "",
+  "price": "15.93",
+  "priceOriginal": "17.9",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057724",
+  "mmkId": "1057724",
+  "productGroupId": "504058",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,97",
   "url": "/mixsoon-mung-bean-seed-essence/p/6304016",
   "listName": "Lister",
   "brand": "MIXSOON",
@@ -37,5 +37,6 @@
       "name": "Korean essence"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hcf/h4f/34112519438366/prd-front-6304016-1_600x600/prd-front-6304016-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Ideas 21362 Mineralenverzameling",
   "code": "6346352",
   "price": "54.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h4e/haf/44761461456926/prd-front-6346352-1_600x600/prd-front-6346352-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ravensburger Level 8",
   "code": "6343265",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc9/h22/34918035914782/prd-front-6343265-1_600x600/prd-front-6343265-1-600x600.jpg"
+  "description": ""
 }

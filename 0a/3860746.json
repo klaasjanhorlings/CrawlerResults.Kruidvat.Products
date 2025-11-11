@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nijntje Huisje, Boompje, Maan",
   "code": "3860746",
   "price": "5.99",
@@ -25,12 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266027,
-      "name": "Spellen"
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
     },
     {
-      "id": 49281411,
-      "name": "Kaartspellen"
+      "id": 30266832,
+      "name": "Vormenstoof"
     }
   ],
   "description": "Nederlandstalig spel",

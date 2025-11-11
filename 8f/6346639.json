@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO One Piece 75636 Hut in Windmolendorp",
   "code": "6346639",
   "price": "27.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Films en series"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfe/h32/35039197397022/prd-front-6346639-1_600x600/prd-front-6346639-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Badboekje",
   "code": "6366890",
   "price": "2.99",
@@ -12,7 +12,7 @@
   "mmkId": "1057689",
   "productGroupId": "509884",
   "brandType": "Eigen merk",
-  "discount": "$ 1,00",
+  "discount": "€ 1,00",
   "url": "/kruidvat-badboekje/p/6366890",
   "listName": "Lister",
   "brand": "Kruidvat",

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Celenes By Sweden By Sweden AHA 8% + BHA 2% Gezichtspeeling",
+  "code": "6062012",
+  "price": "17.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "CRX NORDIC AG",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/celenes-by-sweden-by-sweden-aha-8-bha-2-gezichtspeeling/p/6062012",
+  "listName": "Lister",
+  "brand": "CELENES BY SWEDEN",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "30ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hd3/hcb/34531798843422/prd-front-6062012-1_600x600/prd-front-6062012-1-600x600.jpg"
+}

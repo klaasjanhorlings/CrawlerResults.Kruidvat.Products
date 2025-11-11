@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2060 > 2192 > 5088 > 5113 > 5117 > 5926",
   "supplier": "EDELMAN BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Kersthuisjes"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hed/h07/29088541933598/prd-front-5906710-1_600x600/prd-front-5906710-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "999 Games Halli Galli Extreme",
   "code": "3191553",
   "price": "9.99",
@@ -29,8 +29,8 @@
       "name": "Spellen"
     },
     {
-      "id": 49281411,
-      "name": "Kaartspellen"
+      "id": 30266836,
+      "name": "Reisspellen"
     }
   ],
   "description": "Nederlandstalig spel",

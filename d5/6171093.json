@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Pietenpak Kinderkostuum",
   "code": "6171093",
   "price": "5.99",
@@ -29,5 +29,6 @@
       "name": "Verkleedkleding & accessoires"
     }
   ],
-  "description": "blauw, 6-8 jaar"
+  "description": "blauw, 6-8 jaar",
+  "image": "/medias/sys_master/prd-images/hdf/hf8/44482444787742/prd-front-6171093-1_600x600/prd-front-6171093-1-600x600.jpg"
 }

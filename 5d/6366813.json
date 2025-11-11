@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Efteling Memo",
   "code": "6366813",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h90/h70/44631502225438/prd-front-6366813-1_600x600/prd-front-6366813-1-600x600.jpg"
+  "description": ""
 }

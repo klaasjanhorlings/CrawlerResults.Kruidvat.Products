@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Stitch Gevulde Toilettas",
+  "code": "6339975",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2440 > 2935 > 3730 > 5861 > 5864",
+  "supplier": "AIR-VAL INTERNATIONAL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/stitch-gevulde-toilettas/p/6339975",
+  "listName": "Lister",
+  "brand": "Stitch",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666497,
+      "name": "Geschenkset voor kinderen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5d/h63/44000679067678/prd-front-6339975-1_600x600/prd-front-6339975-1-600x600.jpg"
+}

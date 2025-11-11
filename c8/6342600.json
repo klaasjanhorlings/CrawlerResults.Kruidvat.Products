@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nickelodeon Dora Regenwoudhuis met Dora en Boots Figuren",
   "code": "6342600",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Speelfiguren"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h3e/h67/44110674427934/prd-front-6342600-1_600x600/prd-front-6342600-1-600x600.jpg"
+  "description": ""
 }

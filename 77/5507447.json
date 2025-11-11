@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "King Fantasy Collection Princess And The Unicorn Puzzel",
   "code": "5507447",
   "price": "2.49",
@@ -29,5 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hff/h3d/34520286461982/prd-front-5507447-1_600x600/prd-front-5507447-1-600x600.jpg"
 }

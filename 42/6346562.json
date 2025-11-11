@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "999 Games Wolfgang Warsch Clever Deluxe",
   "code": "6346562",
   "price": "24.99",
@@ -29,8 +29,8 @@
       "name": "Spellen"
     },
     {
-      "id": 30266835,
-      "name": "Bordspellen"
+      "id": 90171500,
+      "name": "Dobbelspellen"
     }
   ],
   "description": "Nederlandstalig spel",

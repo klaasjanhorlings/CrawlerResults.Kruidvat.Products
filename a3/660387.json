@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "EMIL KIESSLING GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1057605",
   "mmkId": "1057605",
   "productGroupId": "499440",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h8a/he0/44744331493406/prd-front-660387-1_600x600/prd-front-660387-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2d/ha8/44752011264030/prd-front-660387-1_600x600/prd-front-660387-1-600x600.jpg"
 }

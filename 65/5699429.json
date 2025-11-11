@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "4818 > 5926 > 5974 > 5991 > 6008 > 6036",
   "supplier": "EDELMAN BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Kerstversiering"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf6/hc1/29014289711134/prd-front-5699429-1_600x600/prd-front-5699429-1-600x600.jpg"
 }

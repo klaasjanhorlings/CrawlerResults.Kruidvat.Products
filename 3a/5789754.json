@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1057652",
   "mmkId": "1057652",
   "productGroupId": "502044",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hbb/h51/29789570924574/prd-front-5789754-1_600x600/prd-front-5789754-1-600x600.jpg"
 }

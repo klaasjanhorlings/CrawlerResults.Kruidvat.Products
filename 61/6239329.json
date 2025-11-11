@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lenor Unstoppables Fresh Geurbooster",
+  "code": "6239329",
+  "price": "3.49",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 6792",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 4,50",
+  "url": "/lenor-unstoppables-fresh-geurbooster/p/6239329",
+  "listName": "Lister",
+  "brand": "Lenor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 49313672,
+      "name": "Wasparfum"
+    }
+  ],
+  "description": "155g",
+  "image": "/medias/sys_master/prd-images/hd3/h33/44752393732126/prd-front-6239329-1_600x600/prd-front-6239329-1-600x600.jpg"
+}

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Roberto Cavalli Just Cavalli Daring Amber Hair and Bodymist",
   "code": "6308244",
-  "price": "11.99",
-  "priceOriginal": "",
+  "price": "10.67",
+  "priceOriginal": "11.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057718",
+  "mmkId": "1057718",
+  "productGroupId": "502851",
   "brandType": "Ander merk",
-  "discount": "",
+  "discount": "€ 1,32",
   "url": "/roberto-cavalli-just-cavalli-daring-amber-hair-and-bodymist/p/6308244",
   "listName": "Lister",
   "brand": "Roberto Cavalli",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hb4/h43/34989161021470/prd-front-6308244-1_600x600/prd-front-6308244-1-600x600.jpg"
 }

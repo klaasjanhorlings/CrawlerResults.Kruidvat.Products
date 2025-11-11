@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "e.l.f. Glow Reviver Chocoluxe Lip Oil",
   "code": "6275120",
-  "price": "10.0",
-  "priceOriginal": "",
+  "price": "8.9",
+  "priceOriginal": "10.0",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1057710",
+  "mmkId": "1057710",
+  "productGroupId": "499922",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,10",
   "url": "/elf-glow-reviver-chocoluxe-lip-oil/p/6275120",
   "listName": "Lister",
   "brand": "ELF",
@@ -37,5 +37,6 @@
       "name": "Lip oil"
     }
   ],
-  "description": "7,6ml"
+  "description": "7,6ml",
+  "image": "/medias/sys_master/prd-images/h8a/h38/34317236174878/prd-front-6275120-1_600x600/prd-front-6275120-1-600x600.jpg"
 }

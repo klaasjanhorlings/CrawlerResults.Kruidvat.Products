@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "A.VOGEL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -33,5 +33,6 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hac/he7/32567253827614/prd-front-976228-1_600x600/prd-front-976228-1-600x600.jpg"
 }

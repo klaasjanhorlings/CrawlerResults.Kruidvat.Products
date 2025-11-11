@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Castle 31168 Middeleeuws Kasteel met Ridder",
   "code": "6346492",
   "price": "82.49",
@@ -12,7 +12,7 @@
   "mmkId": "1057667",
   "productGroupId": "502447",
   "brandType": "A of B merk",
-  "discount": "$ 27,50",
+  "discount": "€ 27,50",
   "url": "/lego-castle-31168-middeleeuws-kasteel-met-ridder/p/6346492",
   "listName": "Lister",
   "brand": "LEGO Creator",
@@ -33,5 +33,6 @@
       "name": "LEGO Creator"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h90/hfa/35038568906782/prd-front-6346492-1_600x600/prd-front-6346492-1-600x600.jpg"
 }

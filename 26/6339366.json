@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Speelgoedboekje",
   "code": "6339366",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Grijp- en bijtspeelgoed"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h26/he8/35071785435166/prd-front-6339366-1_600x600/prd-front-6339366-1-600x600.jpg"
+  "description": ""
 }

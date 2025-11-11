@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO City 60451 Ambulance",
   "code": "6225364",
   "price": "17.99",
@@ -33,6 +33,5 @@
       "name": "LEGO City"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h55/h84/33144405262366/prd-front-6225364-1_600x600/prd-front-6225364-1-600x600.jpg"
+  "description": ""
 }
