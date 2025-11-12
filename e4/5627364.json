@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Retinol Boost Anti-Age Nachtcrème",
+  "itemName": "Neutrogena Retinol Boost Nachtcrème",
   "code": "5627364",
   "price": "35.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/neutrogena-retinol-boost-anti-age-nachtcreme/p/5627364",
+  "url": "/neutrogena-retinol-boost-nachtcreme/p/5627364",
   "listName": "Lister",
   "brand": "Neutrogena",
   "mpOrigin": "Kruidvat",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h94/he3/44768328089630/prd-front-5627364-1_600x600/prd-front-5627364-1-600x600.jpg"
 }

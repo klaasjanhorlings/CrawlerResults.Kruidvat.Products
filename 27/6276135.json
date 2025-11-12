@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "e.l.f. Camo Medium Liquid Bronzer & Contour",
   "code": "6276135",
-  "price": "8.01",
-  "priceOriginal": "9.0",
+  "price": "9.0",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1057710",
-  "mmkId": "1057710",
-  "productGroupId": "499922",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 0,99",
+  "discount": "",
   "url": "/elf-camo-medium-liquid-bronzer-contour/p/6276135",
   "listName": "Lister",
   "brand": "ELF",
@@ -33,5 +33,6 @@
       "name": "Bronzer"
     }
   ],
-  "description": "4ml"
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h99/hbe/34026325377054/prd-front-6276135-1_600x600/prd-front-6276135-1-600x600.jpg"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty XtendBrows Medium/Dark Treatment Gel",
   "code": "6318051",
-  "price": "7.49",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057668",
   "productGroupId": "502490",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,50",
+  "discount": "",
   "url": "/mcobeauty-xtendbrows-medium/dark-treatment-gel/p/6318051",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwgel"
     }
   ],
-  "description": "5g"
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/he7/h0c/34826842636318/prd-front-6318051-1_600x600/prd-front-6318051-1-600x600.jpg"
 }

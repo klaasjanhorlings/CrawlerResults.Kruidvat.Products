@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Cosrx AHA BHA Vitamin C Daily Toner",
   "code": "6200255",
-  "price": "17.8",
-  "priceOriginal": "20.0",
+  "price": "20.0",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 4226 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1057724",
-  "mmkId": "1057724",
-  "productGroupId": "504058",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,20",
+  "discount": "",
   "url": "/cosrx-aha-bha-vitamin-c-daily-toner/p/6200255",
   "listName": "Lister",
   "brand": "COSRX",
@@ -25,20 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
     },
     {
-      "id": 90761979,
-      "name": "Korean gezichtsreiniging"
-    },
-    {
-      "id": 90766276,
-      "name": "Korean toner"
+      "id": 73443559,
+      "name": "Toner"
     }
   ],
   "description": "150ml",

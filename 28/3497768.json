@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Medela Moedermelkflesjes",
   "code": "3497768",
-  "price": "12.74",
-  "priceOriginal": "16.99",
+  "price": "16.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057579",
   "productGroupId": "498606",
   "brandType": "A of B merk",
-  "discount": "€ 4,25",
+  "discount": "",
   "url": "/medela-moedermelkflesjes/p/3497768",
   "listName": "Lister",
   "brand": "Medela",
@@ -25,12 +25,16 @@
       "name": "Baby"
     },
     {
-      "id": 30266022,
-      "name": "Babyvoedingsaccessoires"
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
     },
     {
-      "id": 30266799,
-      "name": "Babyflesjes"
+      "id": 30266804,
+      "name": "Borstvoedingsaccessoires"
+    },
+    {
+      "id": 84925333,
+      "name": "Moedermelkbewaarzakjes"
     }
   ],
   "description": "3 stuks",

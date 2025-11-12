@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
   "supplier": "LITTLE CONCEPTS NETTO",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1057622",
   "mmkId": "1057622",
   "productGroupId": "499973",
@@ -33,5 +33,6 @@
       "name": "Wasbare luiers"
     }
   ],
-  "description": "blauw"
+  "description": "blauw",
+  "image": "/medias/sys_master/prd-images/h17/hbe/28231113441310/prd-front-5898394-1_600x600/prd-front-5898394-1-600x600.jpg"
 }

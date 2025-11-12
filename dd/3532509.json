@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Issey Miyake l'Eau d'Issey Eau de Toilette",
   "code": "3532509",
-  "price": "48.08",
+  "price": "54.02",
   "priceOriginal": "92.5",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1057718",
-  "mmkId": "1057718",
-  "productGroupId": "502851",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 44,42",
+  "discount": "€ 38,48",
   "url": "/issey-miyake-leau-dissey-eau-de-toilette/p/3532509",
   "listName": "Lister",
   "brand": "Issey Miyake",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h4c/ha2/34485678571550/prd-front-3532509-1_600x600/prd-front-3532509-1-600x600.jpg"
 }

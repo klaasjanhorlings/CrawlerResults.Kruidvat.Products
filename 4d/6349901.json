@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "LEGO City 60470 Onderzoekstrein Op De Noordpool",
   "code": "6349901",
-  "price": "142.49",
-  "priceOriginal": "189.99",
+  "price": "189.99",
+  "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057667",
   "productGroupId": "502447",
   "brandType": "A of B merk",
-  "discount": "€ 47,50",
+  "discount": "",
   "url": "/lego-city-60470-onderzoekstrein-op-de-noordpool/p/6349901",
   "listName": "Lister",
   "brand": "LEGO City",
@@ -25,8 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266031,
-      "name": "Voertuigen"
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69031070,
+      "name": "LEGO Voertuigen"
     }
   ],
   "description": "",

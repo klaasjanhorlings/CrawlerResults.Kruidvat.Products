@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York The Colossal 36H Longwear Waterproof Mascara",
   "code": "5998452",
-  "price": "9.99",
-  "priceOriginal": "17.99",
+  "price": "17.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057607",
   "productGroupId": "499491",
   "brandType": "A of B merk",
-  "discount": "€ 8,00",
+  "discount": "",
   "url": "/maybelline-new-york-the-colossal-36h-longwear-waterproof-mascara/p/5998452",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h03/h49/44577741864990/prd-front-5998452-1_600x600/prd-front-5998452-1-600x600.jpg"
 }

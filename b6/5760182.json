@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Kneipp Me Time Douchegel",
   "code": "5760182",
-  "price": "3.89",
-  "priceOriginal": "6.49",
+  "price": "6.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057519",
   "productGroupId": "489195",
   "brandType": "A or B brand",
-  "discount": "€ 2,60",
+  "discount": "",
   "url": "/kneipp-me-time-douchegel/p/5760182",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h81/hf6/33466547240990/prd-front-5760182-1_600x600/prd-front-5760182-1-600x600.jpg"
 }

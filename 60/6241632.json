@@ -8,8 +8,8 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266577,
-      "name": "Foundation"
+      "id": 30266591,
+      "name": "Contour"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hbf/h95/44755565379614/prd-front-6241632-1_600x600/prd-front-6241632-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hea/h55/44768481706014/prd-front-6241632-1_600x600/prd-front-6241632-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "e.l.f. Ultra Precise Brunette Brow Pencil",
   "code": "6274392",
-  "price": "7.12",
-  "priceOriginal": "8.0",
+  "price": "8.0",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1057710",
-  "mmkId": "1057710",
-  "productGroupId": "499922",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 0,88",
+  "discount": "",
   "url": "/elf-ultra-precise-brunette-brow-pencil/p/6274392",
   "listName": "Lister",
   "brand": "ELF",
@@ -33,8 +33,8 @@
       "name": "Wenkbrauw make-up"
     },
     {
-      "id": 30266908,
-      "name": "Wenkbrauwpotlood"
+      "id": 30266906,
+      "name": "Wenkbrauwmascara"
     }
   ],
   "description": "0,05g",

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Anti-Age Retinol Boost+ Nachtserum",
+  "itemName": "Neutrogena Retinol Boost+ Intensief Serum",
   "code": "5805665",
   "price": "38.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/neutrogena-anti-age-retinol-boost-nachtserum/p/5805665",
+  "url": "/neutrogena-retinol-boost-intensief-serum/p/5805665",
   "listName": "Lister",
   "brand": "Neutrogena",
   "mpOrigin": "Kruidvat",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "30ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h7c/h9c/44753155850270/prd-front-5805665-1_600x600/prd-front-5805665-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8c/h3d/44762349502494/prd-front-5805665-1_600x600/prd-front-5805665-1-600x600.jpg"
 }

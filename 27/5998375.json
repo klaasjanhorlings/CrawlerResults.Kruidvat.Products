@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Lash Sensational Very Black Volume Mascara",
   "code": "5998375",
-  "price": "9.99",
-  "priceOriginal": "18.99",
+  "price": "18.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057607",
   "productGroupId": "499491",
   "brandType": "A of B merk",
-  "discount": "€ 9,00",
+  "discount": "",
   "url": "/maybelline-new-york-lash-sensational-very-black-volume-mascara/p/5998375",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "9,5ml",
-  "image": "/medias/sys_master/prd-images/h23/hda/44756197572638/prd-front-5998375-1_600x600/prd-front-5998375-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4e/h78/44769125597214/prd-front-5998375-1_600x600/prd-front-5998375-1-600x600.jpg"
 }

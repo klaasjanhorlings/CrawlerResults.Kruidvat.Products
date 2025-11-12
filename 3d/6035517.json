@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Sunkissed 6 City Sizzle Liquid Glow Blush",
   "code": "6035517",
-  "price": "9.99",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057607",
   "productGroupId": "499491",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/maybelline-new-york-sunkissed-6-city-sizzle-liquid-glow-blush/p/6035517",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "6,8ml",
-  "image": "/medias/sys_master/prd-images/h1f/hb5/44761432424478/prd-front-6035517-1_600x600/prd-front-6035517-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1c/hc8/44776646475806/prd-front-6035517-1_600x600/prd-front-6035517-1-600x600.jpg"
 }

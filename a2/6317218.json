@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Ultra Lock Makeup Setting Spray",
   "code": "6317218",
-  "price": "8.99",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057668",
   "productGroupId": "502490",
   "brandType": "Exclusief merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/mcobeauty-ultra-lock-makeup-setting-spray/p/6317218",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,6 +33,5 @@
       "name": "Fixing sprays"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h87/h4d/34870286909470/prd-front-6317218-1_600x600/prd-front-6317218-1-600x600.jpg"
+  "description": "100ml"
 }

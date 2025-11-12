@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Superstay 128 Lumi Matte Foundation",
   "code": "6241933",
-  "price": "9.99",
-  "priceOriginal": "19.99",
+  "price": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057607",
   "productGroupId": "499491",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "",
   "url": "/maybelline-new-york-superstay-128-lumi-matte-foundation/p/6241933",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "35ml",
-  "image": "/medias/sys_master/prd-images/he3/hee/44761444483102/prd-front-6241933-1_600x600/prd-front-6241933-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha5/hbf/44776662401054/prd-front-6241933-1_600x600/prd-front-6241933-1-600x600.jpg"
 }

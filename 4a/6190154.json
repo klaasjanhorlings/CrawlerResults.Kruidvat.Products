@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tom Ford Soleil Blanc Eau de Toilette",
   "code": "6190154",
-  "price": "87.21",
-  "priceOriginal": "97.99",
+  "price": "97.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "AVENTUS BV",
   "inStock": "inStock",
-  "onPromo": "1057718",
-  "mmkId": "1057718",
-  "productGroupId": "502851",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 10,78",
+  "discount": "",
   "url": "/tom-ford-soleil-blanc-eau-de-toilette/p/6190154",
   "listName": "Lister",
   "brand": "Tom Ford",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h8e/h6c/32535963107358/prd-front-6190154-1_600x600/prd-front-6190154-1-600x600.jpg"
 }

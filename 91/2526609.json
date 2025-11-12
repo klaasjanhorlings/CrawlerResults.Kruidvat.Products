@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mentos White Green Mint XL Gum",
   "code": "2526609",
   "price": "3.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,00",
+  "discount": "$ 1,00",
   "url": "/mentos-white-green-mint-xl-gum/p/2526609",
   "listName": "Lister",
   "brand": "Mentos",

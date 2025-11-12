@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Parodontax Original Tandpasta",
   "code": "5715690",
-  "price": "10.44",
-  "priceOriginal": "20.89",
+  "price": "20.89",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "1057709",
-  "mmkId": "1057709",
-  "productGroupId": "516520",
+  "inStock": "inStock",
+  "onPromo": "1056064",
+  "mmkId": "1056064",
+  "productGroupId": "479296",
   "brandType": "A of B merk",
-  "discount": "€ 10,45",
+  "discount": "",
   "url": "/parodontax-original-tandpasta/p/5715690",
   "listName": "Lister",
   "brand": "Parodontax",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 4 x 75ml",
-  "image": "/medias/sys_master/prd-images/hdf/hb5/44588806438942/prd-front-5715690-1_600x600/prd-front-5715690-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 4 x 75ml"
 }

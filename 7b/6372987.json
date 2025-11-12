@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Haribo Zure Bommen",
   "code": "6372987",
   "price": "8.99",
@@ -33,6 +33,5 @@
       "name": "Snoep"
     }
   ],
-  "description": "1350g",
-  "image": "/medias/sys_master/prd-images/h7e/hdb/44187381039134/prd-front-6372987-1_600x600/prd-front-6372987-1-600x600.jpg"
+  "description": "1350g"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Fit Me Matte & Poreless 128 Warm Nude Foundation",
   "code": "4332490",
-  "price": "9.99",
-  "priceOriginal": "12.99",
+  "price": "12.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057607",
   "productGroupId": "499491",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/maybelline-new-york-fit-me-matte-poreless-128-warm-nude-foundation/p/4332490",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h86/h95/44752006152222/prd-front-4332490-1_600x600/prd-front-4332490-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1a/h94/44762047283230/prd-front-4332490-1_600x600/prd-front-4332490-1-600x600.jpg"
 }

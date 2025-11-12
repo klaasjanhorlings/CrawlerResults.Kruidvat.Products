@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Haribo Greatest Hits Uitdeelzakjes",
   "code": "5358333",
   "price": "5.69",
@@ -29,8 +29,12 @@
       "name": "Snacks en snoep"
     },
     {
-      "id": 30267026,
-      "name": "Snoep"
+      "id": 74942293,
+      "name": "Trakteren"
+    },
+    {
+      "id": 107464852,
+      "name": "Uitdeelsnoep"
     }
   ],
   "description": "19 x 25g",

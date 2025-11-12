@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "e.l.f. Light Beige Hydrating Camo Concealer Satin Finish",
   "code": "6274315",
-  "price": "8.01",
-  "priceOriginal": "9.0",
+  "price": "9.0",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1057710",
-  "mmkId": "1057710",
-  "productGroupId": "499922",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 0,99",
+  "discount": "",
   "url": "/elf-light-beige-hydrating-camo-concealer-satin-finish/p/6274315",
   "listName": "Lister",
   "brand": "ELF",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "6ml",
-  "image": "/medias/sys_master/prd-images/hb4/h0a/34020973150238/prd-front-6274315-1_600x600/prd-front-6274315-1-600x600.jpg"
+  "description": "6ml"
 }

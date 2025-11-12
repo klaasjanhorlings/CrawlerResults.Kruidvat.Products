@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Kruidvat Pure & Soft Pants Maat 5 Luierbroekjes Midpack",
   "code": "5731090",
-  "price": "4.25",
-  "priceOriginal": "8.49",
+  "price": "8.49",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "outOfStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057691",
   "productGroupId": "510806",
   "brandType": "Eigen merk",
-  "discount": "€ 4,24",
+  "discount": "",
   "url": "/kruidvat-pure-soft-pants-maat-5-luierbroekjes-midpack/p/5731090",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 5 (13-20kg), 18 stuks",
-  "image": "/medias/sys_master/prd-images/h26/h3b/44752123920414/prd-front-5731090-1_600x600/prd-front-5731090-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h87/h84/44762063929374/prd-front-5731090-1_600x600/prd-front-5731090-1-600x600.jpg"
 }

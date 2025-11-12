@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York 11 Sunkisser Electric Bronze Blush",
   "code": "6136002",
-  "price": "9.99",
-  "priceOriginal": "13.99",
+  "price": "13.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057607",
   "productGroupId": "499491",
   "brandType": "A of B merk",
-  "discount": "€ 4,00",
+  "discount": "",
   "url": "/maybelline-new-york-11-sunkisser-electric-bronze-blush/p/6136002",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266590,
-      "name": "Blush"
+      "id": 30266589,
+      "name": "Highlighter"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/ha4/he1/44753618403358/prd-front-6136002-1_600x600/prd-front-6136002-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hca/h21/44762361954334/prd-front-6136002-1_600x600/prd-front-6136002-1-600x600.jpg"
 }

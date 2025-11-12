@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Beauty of Joseon Light On Serum",
   "code": "6200080",
-  "price": "18.6",
-  "priceOriginal": "20.9",
+  "price": "20.9",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1057724",
-  "mmkId": "1057724",
-  "productGroupId": "504058",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,30",
+  "discount": "",
   "url": "/beauty-of-joseon-light-on-serum/p/6200080",
   "listName": "Lister",
   "brand": "BEAUTY OF JOSEON",
@@ -25,16 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266605,
+      "name": "Serum"
     },
     {
-      "id": 90760960,
-      "name": "Korean serum"
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
   "description": "30ml",

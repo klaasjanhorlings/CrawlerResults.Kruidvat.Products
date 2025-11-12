@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1057608",
   "mmkId": "1057608",
   "productGroupId": "499517",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfc/hca/33960455831582/prd-front-6230614-1_600x600/prd-front-6230614-1-600x600.jpg"
 }

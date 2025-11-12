@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "e.l.f. Sheer For It Pink Positive Blush Tint",
   "code": "6276079",
-  "price": "6.23",
-  "priceOriginal": "7.0",
+  "price": "7.0",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "outOfStock",
-  "onPromo": "1057710",
-  "mmkId": "1057710",
-  "productGroupId": "499922",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 0,77",
+  "discount": "",
   "url": "/elf-sheer-for-it-pink-positive-blush-tint/p/6276079",
   "listName": "Lister",
   "brand": "ELF",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "6,8ml"
+  "description": "6,8ml",
+  "image": "/medias/sys_master/prd-images/h9b/h4b/34286195245086/prd-front-6276079-1_600x600/prd-front-6276079-1-600x600.jpg"
 }

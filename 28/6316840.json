@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Summer Stick Saint Tropez Cheek & Lip Cream",
   "code": "6316840",
-  "price": "8.99",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057668",
   "productGroupId": "502490",
   "brandType": "Exclusief merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/mcobeauty-summer-stick-saint-tropez-cheek-lip-cream/p/6316840",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -29,8 +29,12 @@
       "name": "Make-up"
     },
     {
-      "id": 30266590,
-      "name": "Blush"
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
     }
   ],
   "description": "6,5g",

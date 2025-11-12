@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Viktor & Rolf Flowerbomb Eau de Parfum",
   "code": "5763759",
-  "price": "26.54",
-  "priceOriginal": "29.82",
+  "price": "29.82",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1057718",
-  "mmkId": "1057718",
-  "productGroupId": "502851",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,28",
+  "discount": "",
   "url": "/viktor-rolf-flowerbomb-eau-de-parfum/p/5763759",
   "listName": "Lister",
   "brand": "Viktor&Rolf",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "20ml",
-  "image": "/medias/prd-front-5763759-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTU1ODJ8aW1hZ2UvanBlZ3xhRFV3TDJnNE9TOHhOakU0TlRjeU9EazFPRFE1TkM5d2NtUXRabkp2Ym5RdE5UYzJNemMxT1MweFh6WXdNSGcyTURBfDk1N2M1OGI4MGJlNTQ0MmJlN2RkMTljZWQzMzNkYTAxNmU5MzgyZGVmZDBhZjk1MzAyMTIwYjFkMmU3YWQ1YmE"
+  "description": "20ml"
 }

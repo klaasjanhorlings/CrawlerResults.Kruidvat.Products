@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty 7-8 Medium Dark Miracle Hyaluronic Tinted Serum",
   "code": "6317071",
-  "price": "12.0",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057668",
   "productGroupId": "502490",
   "brandType": "Exclusief merk",
-  "discount": "€ 3,99",
+  "discount": "",
   "url": "/mcobeauty-7-8-medium-dark-miracle-hyaluronic-tinted-serum/p/6317071",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hcb/h3f/34827819122718/prd-front-6317071-1_600x600/prd-front-6317071-1-600x600.jpg"
+  "description": "30ml"
 }

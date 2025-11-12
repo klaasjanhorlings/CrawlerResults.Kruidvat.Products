@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Caring Micellair Water",
   "code": "3901129",
-  "price": "3.2",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1057729",
-  "mmkId": "1057729",
-  "productGroupId": "506526",
+  "onPromo": "1057493",
+  "mmkId": "1057493",
+  "productGroupId": "471176",
   "brandType": "A of B merk",
-  "discount": "€ 4,79",
+  "discount": "",
   "url": "/nivea-caring-micellair-water/p/3901129",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -37,6 +37,5 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/h15/h40/35155296780318/prd-front-3901129-1_600x600/prd-front-3901129-1-600x600.jpg"
+  "description": "400ml - Droge huid"
 }

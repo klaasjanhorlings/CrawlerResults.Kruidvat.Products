@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2891 > 3666",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1057454",
   "mmkId": "1057454",
   "productGroupId": "490389",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 3"
     }
   ],
-  "description": "mt 3 (6-10kg), 150 stuks"
+  "description": "mt 3 (6-10kg), 150 stuks",
+  "image": "/medias/sys_master/prd-images/hb1/hdf/34795462721566/prd-front-6241380-1_600x600/prd-front-6241380-1-600x600.jpg"
 }

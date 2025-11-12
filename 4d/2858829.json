@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutral Parfumvrij Conditioner",
+  "itemName": "Neutral 0% Parfumvrij Conditioner",
   "code": "2858829",
   "price": "6.35",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/neutral-parfumvrij-conditioner/p/2858829",
+  "url": "/neutral-0-parfumvrij-conditioner/p/2858829",
   "listName": "Lister",
   "brand": "Neutral",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/prd-front-2858829-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDU1NDN8aW1hZ2UvanBlZ3xhRFJoTDJobE9DOHhOakU1TnpFMk1UZzNOelV6TkM5d2NtUXRabkp2Ym5RdE1qZzFPRGd5T1MweFh6WXdNSGcyTURBfGZmNjYwNjk0YjYwMDhjYWM2ZDVjOTljNDQ4OTE4MTQ1ZjdkNzg1MzVjZDZjZWEzMTE3OWI2MDBhYWQ3NmZmMzM"
+  "image": "/medias/sys_master/prd-images/hdf/hba/44766966579230/prd-front-2858829-1_600x600/prd-front-2858829-1-600x600.jpg"
 }

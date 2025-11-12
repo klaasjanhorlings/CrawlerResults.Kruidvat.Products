@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "SKIN1004 Madagascar Centella Light Cleansing Oil",
   "code": "6200542",
-  "price": "8.81",
-  "priceOriginal": "9.9",
+  "price": "9.9",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1057724",
-  "mmkId": "1057724",
-  "productGroupId": "504058",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,09",
+  "discount": "",
   "url": "/skin1004-madagascar-centella-light-cleansing-oil/p/6200542",
   "listName": "Lister",
   "brand": "SKIN1004",
@@ -25,16 +25,20 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
+      "id": 73443650,
+      "name": "Korean Skincare"
     },
     {
-      "id": 50677212,
-      "name": "Reinigingsolie"
+      "id": 90761979,
+      "name": "Korean gezichtsreiniging"
+    },
+    {
+      "id": 90766157,
+      "name": "Korean reinigingsolie"
     }
   ],
   "description": "30ml",

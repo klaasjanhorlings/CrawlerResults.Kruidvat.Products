@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Ariana Grande R.E.M. Eau de Parfum",
   "code": "5826280",
-  "price": "20.46",
-  "priceOriginal": "22.99",
+  "price": "22.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1057718",
-  "mmkId": "1057718",
-  "productGroupId": "502851",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,53",
+  "discount": "",
   "url": "/ariana-grande-rem-eau-de-parfum/p/5826280",
   "listName": "Lister",
   "brand": "Ariana Grande",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-5826280-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDg1NTd8aW1hZ2UvanBlZ3xhRGd6TDJoallTOHlOalUyTURFd05UUXhORFk0Tmk5d2NtUXRabkp2Ym5RdE5UZ3lOakk0TUMweFh6WXdNSGcyTURBfDliM2VlYWIyNTUwMTZkMGZhZjM0ODcxMTFjYmM1ZmI5NGY5ZDljYzQ0ZTE4MDM5NDU5NTQ5M2JkNjBmZGJiYzk"
 }

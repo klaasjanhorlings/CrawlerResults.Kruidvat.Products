@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Super Pen 4-in-1 Liner",
   "code": "6318422",
-  "price": "7.49",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 6134 > 6135 > 6133",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057668",
   "productGroupId": "502490",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,50",
+  "discount": "",
   "url": "/mcobeauty-super-pen-4-in-1-liner/p/6318422",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -29,8 +29,12 @@
       "name": "Make-up"
     },
     {
-      "id": 30266589,
-      "name": "Highlighter"
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266595,
+      "name": "Lipliner"
     }
   ],
   "description": "0,1g",

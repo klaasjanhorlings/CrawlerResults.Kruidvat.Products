@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Wilkinson Sword Intuition 2-In-1 Sensitive Scheersysteem",
   "code": "4038224",
-  "price": "8.99",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057686",
   "productGroupId": "507131",
   "brandType": "A of B merk",
-  "discount": "€ 6,00",
+  "discount": "",
   "url": "/wilkinson-sword-intuition-2-in-1-sensitive-scheersysteem/p/4038224",
   "listName": "Lister",
   "brand": "Wilkinson Sword",
@@ -33,6 +33,5 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hf9/h81/28071614513182/prd-front-4038224-1_600x600/prd-front-4038224-1-600x600.jpg"
+  "description": ""
 }

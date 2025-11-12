@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Paco Rabanne Paco Eau de Toilette",
   "code": "5956235",
-  "price": "26.69",
-  "priceOriginal": "29.99",
+  "price": "29.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1057718",
-  "mmkId": "1057718",
-  "productGroupId": "502851",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,30",
+  "discount": "",
   "url": "/paco-rabanne-paco-eau-de-toilette/p/5956235",
   "listName": "Lister",
   "brand": "Paco Rabanne",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h39/h15/28626796707870/prd-front-5956235-1_600x600/prd-front-5956235-1-600x600.jpg"
 }

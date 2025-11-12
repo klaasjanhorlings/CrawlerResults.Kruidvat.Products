@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Andrélon Levendig Lang 5-in-1 Anti-Klit Spray",
   "code": "6292886",
-  "price": "4.7",
-  "priceOriginal": "9.39",
+  "price": "9.39",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6694",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057647",
   "productGroupId": "501931",
   "brandType": "A of B merk",
-  "discount": "€ 4,69",
+  "discount": "",
   "url": "/andrelon-levendig-lang-5-in-1-anti-klit-spray/p/6292886",
   "listName": "Lister",
   "brand": "Andrelon",
@@ -33,6 +33,5 @@
       "name": "Anti-klitspray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h9c/h07/44564634370078/prd-front-6292886-1_600x600/prd-front-6292886-1-600x600.jpg"
+  "description": "150ml"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gucci Guilty Pour Homme Eau de Toilette",
   "code": "5163726",
-  "price": "43.6",
-  "priceOriginal": "48.99",
+  "price": "48.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1057718",
-  "mmkId": "1057718",
-  "productGroupId": "502851",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,39",
+  "discount": "",
   "url": "/gucci-guilty-pour-homme-eau-de-toilette/p/5163726",
   "listName": "Lister",
   "brand": "Gucci",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hef/h5b/34985322479646/prd-front-5163726-1_600x600/prd-front-5163726-1-600x600.jpg"
+  "description": "50ml"
 }

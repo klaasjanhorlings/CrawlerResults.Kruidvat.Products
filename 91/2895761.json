@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Liga 6-12 Maanden Babybiscuits",
   "code": "2895761",
   "price": "2.29",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
   "supplier": "MONDELEZ NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266076,
-      "name": "Eten en drinken"
+      "id": 29536080,
+      "name": "Baby"
     },
     {
-      "id": 30266884,
-      "name": "Snacks en snoep"
+      "id": 30266015,
+      "name": "Babyvoeding"
     },
     {
-      "id": 30267023,
-      "name": "Koek"
+      "id": 30266774,
+      "name": "Babytussendoortjes"
     }
   ],
   "description": "175g",

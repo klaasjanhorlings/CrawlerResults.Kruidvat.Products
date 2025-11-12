@@ -8,8 +8,8 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h34/hfa/44752395370526/prd-front-6241891-1_600x600/prd-front-6241891-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h37/h41/44762078150686/prd-front-6241891-1_600x600/prd-front-6241891-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -29,8 +29,12 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266712,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235340,
+      "name": "Droge en gevoelige huid"
     }
   ],
   "description": "100ml",
