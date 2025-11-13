@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1057762",
+  "mmkId": "1057762",
+  "productGroupId": "472674",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-lifter-liner-07-big-lift-lippotlood/p/6045345",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "1,2g"
+  "description": "1,2g",
+  "image": "/medias/sys_master/prd-images/hf1/h5b/44782578040862/prd-front-6045345-1_600x600/prd-front-6045345-1-600x600.jpg"
 }

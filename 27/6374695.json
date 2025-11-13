@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Satisfyer House of Love 2025 Adventskalender",
   "code": "6374695",
-  "price": "79.99",
-  "priceOriginal": "",
+  "price": "59.99",
+  "priceOriginal": "79.99",
   "itemBgbcat": "2006 > 2070 > 2156 > 6401 > 6463 > 6464",
   "supplier": "TRIPLE A MARKETING GMBH",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057468",
   "productGroupId": "502395",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 20,00",
   "url": "/satisfyer-house-of-love-2025-adventskalender/p/6374695",
   "listName": "Lister",
   "brand": "Satisfyer",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30266011,
-      "name": "Seksualiteit"
-    },
-    {
-      "id": 30266747,
-      "name": "Seksspeeltjes"
-    },
-    {
-      "id": 30266994,
-      "name": "Kalender"
+      "id": 52211350,
+      "name": "Adventskalenders"
     }
   ],
   "description": "",

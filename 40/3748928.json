@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Kruidvat Whey Protein met Vanillesmaak",
   "code": "3748928",
-  "price": "29.99",
-  "priceOriginal": "",
+  "price": "20.99",
+  "priceOriginal": "29.99",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
   "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057670",
   "productGroupId": "502554",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 9,00",
   "url": "/kruidvat-whey-protein-met-vanillesmaak/p/3748928",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "1250g",
-  "image": "/medias/sys_master/prd-images/h21/hb7/44700594602014/prd-front-3748928-1_600x600/prd-front-3748928-1-600x600.jpg"
+  "description": "1250g"
 }

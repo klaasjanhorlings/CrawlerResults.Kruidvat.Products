@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057771",
+  "mmkId": "1057771",
+  "productGroupId": "515970",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/goodal-vita-c-dark-spot-care-serum/p/6302476",
@@ -25,16 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266605,
+      "name": "Serum"
     },
     {
-      "id": 90760960,
-      "name": "Korean serum"
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
   "description": "20ml",

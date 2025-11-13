@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1057675",
-  "mmkId": "1057675",
-  "productGroupId": "503066",
+  "onPromo": "1057759",
+  "mmkId": "1057759",
+  "productGroupId": "469001",
   "brandType": "A of B merk",
   "discount": "€ 8,50",
   "url": "/biodermal-face-wash-gezichtsreiniging-voor-alle-huidtypen/p/130632",
@@ -33,9 +33,10 @@
       "name": "Gezichtsreiniging"
     },
     {
-      "id": 30266915,
-      "name": "Reinigingsgel"
+      "id": 30266917,
+      "name": "Reinigingscreme"
     }
   ],
-  "description": "150ml - Alle huidtypen"
+  "description": "150ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h6e/h2e/34455628578846/prd-front-130632-1_600x600/prd-front-130632-1-600x600.jpg"
 }

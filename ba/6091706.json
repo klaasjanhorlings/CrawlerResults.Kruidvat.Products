@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2060 > 2192 > 5088 > 5113 > 5117 > 5926",
   "supplier": "EDELMAN BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Vazen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h3f/h11/32246317907998/prd-front-6091706-1_600x600/prd-front-6091706-1-600x600.jpg"
+  "description": ""
 }

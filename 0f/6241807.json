@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Superfluff 257 Medium Brown Brow Mousse",
   "code": "6241807",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1057607",
-  "mmkId": "1057607",
-  "productGroupId": "499491",
+  "onPromo": "1057762",
+  "mmkId": "1057762",
+  "productGroupId": "472674",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,00",
   "url": "/maybelline-new-york-superfluff-257-medium-brown-brow-mousse/p/6241807",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h1e/h2b/44767036964894/prd-front-6241807-1_600x600/prd-front-6241807-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4e/hf5/44785350934558/prd-front-6241807-1_600x600/prd-front-6241807-1-600x600.jpg"
 }

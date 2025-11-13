@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5665 > 6702",
   "supplier": "NIP + FAB",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057771",
+  "mmkId": "1057771",
+  "productGroupId": "515970",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nip-fab-glycolic-fix-extreme-6-scrub/p/6045072",
@@ -37,5 +37,6 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "75ml, doffe huid"
+  "description": "75ml, doffe huid",
+  "image": "/medias/sys_master/prd-images/h88/h84/30118084247582/prd-front-6045072-1_600x600/prd-front-6045072-1-600x600.jpg"
 }

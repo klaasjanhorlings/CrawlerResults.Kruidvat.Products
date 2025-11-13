@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Laneige Cream Skin Milk Oil Cleanser",
   "code": "6246392",
-  "price": "29.0",
-  "priceOriginal": "",
+  "price": "14.5",
+  "priceOriginal": "29.0",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3889 > 6702",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057758",
+  "mmkId": "1057758",
+  "productGroupId": "516471",
   "brandType": "Ander merk",
-  "discount": "",
+  "discount": "€ 14,50",
   "url": "/laneige-cream-skin-milk-oil-cleanser/p/6246392",
   "listName": "Lister",
   "brand": "LANEIGE",
@@ -25,16 +25,20 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
+      "id": 73443650,
+      "name": "Korean Skincare"
     },
     {
-      "id": 50677212,
-      "name": "Reinigingsolie"
+      "id": 90761979,
+      "name": "Korean gezichtsreiniging"
+    },
+    {
+      "id": 90766157,
+      "name": "Korean reinigingsolie"
     }
   ],
   "description": "200ml",

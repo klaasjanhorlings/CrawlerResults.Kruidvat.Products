@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Green Guard Inhalatiebalsem",
   "code": "6392419",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "7.99",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 3949",
   "supplier": "THEOTCLAB HEALTHCARE BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057682",
   "productGroupId": "505036",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/green-guard-inhalatiebalsem/p/6392419",
   "listName": "Lister",
   "brand": "Green Guard",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h5c/h88/44274984288286/prd-front-6392419-1_600x600/prd-front-6392419-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4b/h9b/44790449668126/prd-front-6392419-1_600x600/prd-front-6392419-1-600x600.jpg"
 }

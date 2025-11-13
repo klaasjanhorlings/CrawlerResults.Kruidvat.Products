@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Express Brow Duo 05 Black Brown Wenkbrauwpotlood",
   "code": "5580590",
-  "price": "11.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "11.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1057607",
-  "mmkId": "1057607",
-  "productGroupId": "499491",
+  "onPromo": "1057762",
+  "mmkId": "1057762",
+  "productGroupId": "472674",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/maybelline-new-york-express-brow-duo-05-black-brown-wenkbrauwpotlood/p/5580590",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hdb/hca/44766979620894/prd-front-5580590-1_600x600/prd-front-5580590-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6a/hbf/44778455990302/prd-front-5580590-1_600x600/prd-front-5580590-1-600x600.jpg"
 }

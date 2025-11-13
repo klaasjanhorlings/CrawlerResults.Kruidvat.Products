@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057771",
+  "mmkId": "1057771",
+  "productGroupId": "515970",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/adopt-wonderful-eau-de-parfum/p/6160614",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h27/h8d/32303109931038/prd-front-6160614-1_600x600/prd-front-6160614-1-600x600.jpg"
+  "description": "30ml"
 }

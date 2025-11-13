@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Alessandro Striplac UV Starter Set",
   "code": "6370075",
-  "price": "49.99",
-  "priceOriginal": "",
+  "price": "39.99",
+  "priceOriginal": "49.99",
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057769",
+  "mmkId": "1057769",
+  "productGroupId": "502167",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 10,00",
   "url": "/alessandro-striplac-uv-starter-set/p/6370075",
   "listName": "Lister",
   "brand": "Alessandro",
@@ -33,6 +33,5 @@
       "name": "Nagel-ledlamp"
     }
   ],
-  "description": "1ml",
-  "image": "/medias/sys_master/prd-images/h94/he5/44254520672286/prd-front-6370075-1_600x600/prd-front-6370075-1-600x600.jpg"
+  "description": "1ml"
 }

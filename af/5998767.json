@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1057771",
+  "mmkId": "1057771",
+  "productGroupId": "515970",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-shine-bomb-040-about-last-night-lipstick/p/5998767",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3ml"
+  "description": "3ml",
+  "image": "/medias/sys_master/prd-images/h95/he4/29950756519966/prd-front-5998767-1_600x600/prd-front-5998767-1-600x600.jpg"
 }

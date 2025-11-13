@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Volum'Express The Colossal Smoky Eyes Volume Mascara",
   "code": "5998354",
-  "price": "16.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "16.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1057607",
-  "mmkId": "1057607",
-  "productGroupId": "499491",
+  "onPromo": "1057762",
+  "mmkId": "1057762",
+  "productGroupId": "472674",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,00",
   "url": "/maybelline-new-york-volumexpress-the-colossal-smoky-eyes-volume-mascara/p/5998354",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h6b/h61/44578670084126/prd-front-5998354-1_600x600/prd-front-5998354-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf0/hfb/44785339662366/prd-front-5998354-1_600x600/prd-front-5998354-1-600x600.jpg"
 }

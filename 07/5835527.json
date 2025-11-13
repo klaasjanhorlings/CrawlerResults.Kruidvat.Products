@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1057771",
+  "mmkId": "1057771",
+  "productGroupId": "515970",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cerave-hydraterende-reinigingscreme/p/5835527",
@@ -25,18 +25,9 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266917,
-      "name": "Reinigingscreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
-  "description": "236ml",
-  "image": "/medias/sys_master/prd-images/h85/h73/34428079374366/prd-front-5835527-1_600x600/prd-front-5835527-1-600x600.jpg"
+  "description": "236ml"
 }

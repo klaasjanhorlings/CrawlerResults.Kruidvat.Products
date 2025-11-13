@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Revitalift Vitamin C Pore Perfecting Toner",
   "code": "6237243",
-  "price": "22.99",
-  "priceOriginal": "",
+  "price": "11.49",
+  "priceOriginal": "22.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 4226 > 6702",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1057657",
-  "mmkId": "1057657",
-  "productGroupId": "502078",
+  "onPromo": "1057759",
+  "mmkId": "1057759",
+  "productGroupId": "469001",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,50",
   "url": "/loreal-paris-revitalift-vitamin-c-pore-perfecting-toner/p/6237243",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
@@ -37,6 +37,5 @@
       "name": "Toner"
     }
   ],
-  "description": "180ml",
-  "image": "/medias/sys_master/prd-images/ha1/hea/44001401700382/prd-front-6237243-1_600x600/prd-front-6237243-1-600x600.jpg"
+  "description": "180ml"
 }

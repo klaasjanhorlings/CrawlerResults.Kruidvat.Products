@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057771",
+  "mmkId": "1057771",
+  "productGroupId": "515970",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mixsoon-pore-tory-clay-pack/p/6200003",
@@ -25,16 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266607,
-      "name": "Gezichtsmaskers"
+      "id": 73443650,
+      "name": "Korean Skincare"
     },
     {
-      "id": 87375000,
-      "name": "Crèmemaskers"
+      "id": 90760937,
+      "name": "Korean gezichtsmaskers"
     }
   ],
   "description": "100g",

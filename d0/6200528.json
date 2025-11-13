@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057771",
+  "mmkId": "1057771",
+  "productGroupId": "515970",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/skin1004-madagascar-centella-ampoule/p/6200528",
@@ -25,12 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 73443224,
-      "name": "Ampoules"
+      "id": 73443650,
+      "name": "Korean Skincare"
+    },
+    {
+      "id": 90760738,
+      "name": "Korean ampoules"
     }
   ],
   "description": "30ml",

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Baby Face Peony Rose Multiuse Cream Stick",
   "code": "6317855",
-  "price": "6.99",
-  "priceOriginal": "",
+  "price": "4.19",
+  "priceOriginal": "6.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1057668",
-  "mmkId": "1057668",
-  "productGroupId": "502490",
+  "onPromo": "1057764",
+  "mmkId": "1057764",
+  "productGroupId": "490379",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,80",
   "url": "/mcobeauty-baby-face-peony-rose-multiuse-cream-stick/p/6317855",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -29,8 +29,12 @@
       "name": "Make-up"
     },
     {
-      "id": 30266590,
-      "name": "Blush"
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
     }
   ],
   "description": "6g",

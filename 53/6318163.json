@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Crystal Clear Sheer Tint Lipbalm",
   "code": "6318163",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "5.99",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057668",
   "productGroupId": "502490",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/mcobeauty-crystal-clear-sheer-tint-lipbalm/p/6318163",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Lip balm"
     }
   ],
-  "description": "3g"
+  "description": "3g",
+  "image": "/medias/sys_master/prd-images/h20/h95/44428662505502/prd-front-6318163-1_600x600/prd-front-6318163-1-600x600.jpg"
 }

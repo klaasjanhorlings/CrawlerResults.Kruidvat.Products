@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier SkinActive Vitamine C Serummasker",
   "code": "5583537",
-  "price": "3.19",
-  "priceOriginal": "",
+  "price": "1.59",
+  "priceOriginal": "3.19",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1057658",
-  "mmkId": "1057658",
-  "productGroupId": "502084",
+  "onPromo": "1057759",
+  "mmkId": "1057759",
+  "productGroupId": "469001",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,60",
   "url": "/garnier-skinactive-vitamine-c-serummasker/p/5583537",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -33,8 +33,8 @@
       "name": "Gezichtsmaskers"
     },
     {
-      "id": 87375041,
-      "name": "Serummaskers"
+      "id": 87374839,
+      "name": "Sheet maskers"
     }
   ],
   "description": "28g",

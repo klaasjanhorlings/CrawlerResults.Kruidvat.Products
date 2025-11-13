@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1057771",
+  "mmkId": "1057771",
+  "productGroupId": "515970",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-lipfinity-lip-colour-070-spicy-2-step-longlasting-lipstick/p/96725",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "2,3ml"
+  "description": "2,3ml",
+  "image": "/medias/prd-front-96725-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTAzNTJ8aW1hZ2UvanBlZ3xhRFJqTDJobE5DOHhOekl3TURrd01ERTBOVEU0TWk5d2NtUXRabkp2Ym5RdE9UWTNNalV0TVY4Mk1EQjROakF3fGMwODU1OGY1NGQwNDAzM2I1MDI2ZDg5NWRhY2NmZTcwZWM4YThhYWU0NjNhODRhNDVjMzE3ZjE2MmNjMjEwZjM"
 }

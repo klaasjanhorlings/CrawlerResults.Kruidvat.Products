@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Bepanthen Repair SOS Balm Oog",
   "code": "6390291",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "8.49",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "BAYER BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057611",
   "productGroupId": "499610",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,50",
   "url": "/bepanthen-repair-sos-balm-oog/p/6390291",
   "listName": "Lister",
   "brand": "Bepanthen",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h5a/hfd/44274985730078/prd-front-6390291-1_600x600/prd-front-6390291-1-600x600.jpg"
 }

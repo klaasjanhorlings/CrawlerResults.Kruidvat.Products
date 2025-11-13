@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "LEGO Friends 42651 Dierenkliniek Voor Paarden",
   "code": "6231909",
-  "price": "44.99",
-  "priceOriginal": "",
+  "price": "33.74",
+  "priceOriginal": "44.99",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057667",
   "productGroupId": "502447",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,25",
   "url": "/lego-friends-42651-dierenkliniek-voor-paarden/p/6231909",
   "listName": "Lister",
   "brand": "LEGO Friends",
@@ -33,5 +33,6 @@
       "name": "LEGO Friends"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h87/h98/33338273103902/prd-front-6231909-1_600x600/prd-front-6231909-1-600x600.jpg"
 }

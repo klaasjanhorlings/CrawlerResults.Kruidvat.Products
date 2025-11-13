@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1057656",
-  "mmkId": "1057656",
-  "productGroupId": "502076",
+  "onPromo": "1057759",
+  "mmkId": "1057759",
+  "productGroupId": "469001",
   "brandType": "A of B merk",
   "discount": "€ 19,00",
   "url": "/loreal-paris-revitalift-laser-anti-rimpel-dagcreme/p/2562995",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Normale en rijpe huid"
+  "description": "50ml - Normale en rijpe huid",
+  "image": "/medias/sys_master/prd-images/hde/hb1/44315172831262/prd-front-2562995-1_600x600/prd-front-2562995-1-600x600.jpg"
 }

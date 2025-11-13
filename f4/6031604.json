@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Derma Salicylic Acid 2% Zuiverend Serum",
   "code": "6031604",
-  "price": "6.99",
-  "priceOriginal": "",
+  "price": "5.24",
+  "priceOriginal": "6.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "MARION PRIVATE LABEL",
   "inStock": "inStock",
-  "onPromo": "1057504",
-  "mmkId": "1057504",
-  "productGroupId": "476874",
+  "onPromo": "1057761",
+  "mmkId": "1057761",
+  "productGroupId": "469160",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 1,75",
   "url": "/kruidvat-derma-salicylic-acid-2-zuiverend-serum/p/6031604",
   "listName": "Lister",
   "brand": "KRUIDVAT DERMA",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml, onzuivere huid"
+  "description": "30ml, onzuivere huid",
+  "image": "/medias/sys_master/prd-images/hf5/h85/30085995167774/prd-front-6031604-1_600x600/prd-front-6031604-1-600x600.jpg"
 }

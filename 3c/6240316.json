@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Wild Fresh Cotton & Sea Salt Navulbare Deostick",
   "code": "6240316",
-  "price": "14.95",
-  "priceOriginal": "",
+  "price": "7.48",
+  "priceOriginal": "14.95",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3070 > 3677",
   "supplier": "WILD COSMETICS LTD.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057502",
   "productGroupId": "476373",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,47",
   "url": "/wild-fresh-cotton-sea-salt-navulbare-deostick/p/6240316",
   "listName": "Lister",
   "brand": "Wild",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "40g"
+  "description": "40g",
+  "image": "/medias/sys_master/prd-images/hdb/h9b/32929683931166/prd-front-6240316-1_600x600/prd-front-6240316-1-600x600.jpg"
 }

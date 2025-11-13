@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "DERMCOS GMBH",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1057771",
+  "mmkId": "1057771",
+  "productGroupId": "515970",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-wear-it-nude-skin-perfecting-medium-bb-cream/p/5502757",
@@ -33,5 +33,6 @@
       "name": "BB cream"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h30/h39/33759403671582/prd-front-5502757-1_600x600/prd-front-5502757-1-600x600.jpg"
 }

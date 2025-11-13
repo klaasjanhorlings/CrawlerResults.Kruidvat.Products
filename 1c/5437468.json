@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Espressobonen",
   "code": "5437468",
   "price": "13.49",
@@ -29,5 +29,6 @@
       "name": "Koffie"
     }
   ],
-  "description": "1000g"
+  "description": "1000g",
+  "image": "/medias/sys_master/prd-images/h5e/h46/44079256502302/prd-front-5437468-1_600x600/prd-front-5437468-1-600x600.jpg"
 }
