@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 30266078,
+      "name": "Wonen"
     },
     {
-      "id": 49880164,
-      "name": "Babykamer"
+      "id": 57225448,
+      "name": "Slapen"
     },
     {
-      "id": 51606844,
-      "name": "Baby beddengoed"
-    },
-    {
-      "id": 64170156,
-      "name": "Babyhoeslakens"
+      "id": 61702185,
+      "name": "Hoeslakens"
     }
   ],
   "description": "",

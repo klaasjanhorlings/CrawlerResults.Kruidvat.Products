@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
   "supplier": "HERMANEX INTERNATIONAL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,9 +29,10 @@
       "name": "Baby- en peuterspeelgoed"
     },
     {
-      "id": 49281541,
-      "name": "Interactief speelgoed"
+      "id": 69053413,
+      "name": "Bouwen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf8/ha1/32923978694686/prd-front-6241499-1_600x600/prd-front-6241499-1-600x600.jpg"
 }

@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Body & Fit Vanilla Flavour Whey Essential Eiwitpoeder",
-  "code": "6238384",
-  "price": "18.49",
+  "itemName": "Kruidvat Vanilla Vegan Protein",
+  "code": "6259902",
+  "price": "11.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
-  "supplier": "BODY & FIT SPORTSNUTRIT",
+  "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
-  "brandType": "A of B merk",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
   "discount": "",
-  "url": "/body-fit-vanilla-flavour-whey-essential-eiwitpoeder/p/6238384",
+  "url": "/kruidvat-vanilla-vegan-protein/p/6259902",
   "listName": "Lister",
-  "brand": "Body & Fit",
+  "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "500g"
+  "description": "297 gram",
+  "image": "/medias/sys_master/prd-images/h28/he4/44364734693406/prd-front-6259902-1_600x600/prd-front-6259902-1-600x600.jpg"
 }

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Kneipp New Energy Rozemarijn Badolie",
   "code": "17976",
-  "price": "7.49",
+  "price": "7.5",
   "priceOriginal": "12.49",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "KNEIPP NEDERLAND BV",
@@ -12,7 +12,7 @@
   "mmkId": "1057519",
   "productGroupId": "489195",
   "brandType": "A or B brand",
-  "discount": "€ 5,00",
+  "discount": "€ 4,99",
   "url": "/kneipp-new-energy-rozemarijn-badolie/p/17976",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,6 +33,5 @@
       "name": "Badolie"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-17976-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzQ4MDN8aW1hZ2UvanBlZ3xhR1ZoTDJnNU9TOHlOamsyT0RjNE5EazVORE16TkM5d2NtUXRabkp2Ym5RdE1UYzVOell0TVY4Mk1EQjROakF3fDUzNGM4N2ZhMDc0NzhjZjkwN2JhNWQ0NjRkZDkxM2I0ZTNmNjgwZDFmMGU0ODk4ODFhOTlkNjk4MzdlNmUzNWM"
+  "description": "100ml"
 }

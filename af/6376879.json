@@ -25,17 +25,10 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266702,
-      "name": "Intieme ongemakken"
-    },
-    {
-      "id": 30266956,
-      "name": "Vaginale droogheid"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
-  "description": "Medisch hulpmiddel - 30ml"
+  "description": "Medisch hulpmiddel - 30ml",
+  "image": "/medias/sys_master/prd-images/hdc/hed/44274985107486/prd-front-6376879-1_600x600/prd-front-6376879-1-600x600.jpg"
 }
