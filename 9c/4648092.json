@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Fit Me Matte & Poreless 112 Soft Beige Foundation",
   "code": "4648092",
-  "price": "9.99",
-  "priceOriginal": "12.99",
+  "price": "12.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057762",
   "productGroupId": "472674",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/maybelline-new-york-fit-me-matte-poreless-112-soft-beige-foundation/p/4648092",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h15/hca/44799764496414/prd-front-4648092-1_600x600/prd-front-4648092-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h95/h67/44810507321374/prd-front-4648092-1_600x600/prd-front-4648092-1-600x600.jpg"
 }

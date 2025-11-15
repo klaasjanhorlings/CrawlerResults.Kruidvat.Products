@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "NIVEA Cellular Expert Filler Anti-Age Nachtcrème",
   "code": "2785700",
-  "price": "15.74",
-  "priceOriginal": "31.49",
+  "price": "31.49",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057759",
   "productGroupId": "469001",
   "brandType": "A of B merk",
-  "discount": "€ 15,75",
+  "discount": "",
   "url": "/nivea-cellular-expert-filler-anti-age-nachtcreme/p/2785700",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -33,6 +33,5 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen en rijpe huid",
-  "image": "/medias/sys_master/prd-images/h26/h80/35129251168286/prd-front-2785700-1_600x600/prd-front-2785700-1-600x600.jpg"
+  "description": "50ml - Alle huidtypen en rijpe huid"
 }

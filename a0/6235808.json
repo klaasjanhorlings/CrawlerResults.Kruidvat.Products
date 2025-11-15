@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1057762",
+  "mmkId": "1057762",
+  "productGroupId": "472674",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-skin-ink-100-2-in-1-foundation-concealer/p/6235808",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h9b/h8b/44119063035934/prd-front-6235808-1_600x600/prd-front-6235808-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

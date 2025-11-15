@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Tabac Original Eau de Toilette",
   "code": "28155",
-  "price": "14.96",
-  "priceOriginal": "19.95",
+  "price": "19.95",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "MAURER&WIRTZ GMBH&CO KG",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057766",
   "productGroupId": "499546",
   "brandType": "A of B merk",
-  "discount": "€ 4,99",
+  "discount": "",
   "url": "/tabac-original-eau-de-toilette/p/28155",
   "listName": "Lister",
   "brand": "Tabac",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hac/h51/30703544205342/prd-front-28155-1_600x600/prd-front-28155-1-600x600.jpg"
 }

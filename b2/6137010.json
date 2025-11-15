@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Stretchy Cockrings",
   "code": "6137010",
   "price": "7.99",
@@ -37,6 +37,5 @@
       "name": "Cockringen"
     }
   ],
-  "description": "50,5g, 3 stuks",
-  "image": "/medias/sys_master/prd-images/hd5/hb2/31448585863198/prd-front-6137010-1_600x600/prd-front-6137010-1-600x600.jpg"
+  "description": "50,5g, 3 stuks"
 }

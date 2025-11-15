@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Compeed Extreme Blaarpleisters",
   "code": "5388076",
   "price": "9.29",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 6 stuks",
-  "image": "/medias/sys_master/prd-images/h3e/hde/44800963641374/prd-front-5388076-1_600x600/prd-front-5388076-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hca/h96/44812505481246/prd-front-5388076-1_600x600/prd-front-5388076-1-600x600.jpg"
 }

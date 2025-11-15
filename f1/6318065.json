@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Mega Balm Coconut All-Over Ointment",
   "code": "6318065",
-  "price": "2.39",
-  "priceOriginal": "3.99",
+  "price": "3.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057764",
   "productGroupId": "490379",
   "brandType": "Exclusief merk",
-  "discount": "€ 1,60",
+  "discount": "",
   "url": "/mcobeauty-mega-balm-coconut-all-over-ointment/p/6318065",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Lip balm"
     }
   ],
-  "description": "14g"
+  "description": "14g",
+  "image": "/medias/sys_master/prd-images/hc2/h1e/34829554974750/prd-front-6318065-1_600x600/prd-front-6318065-1-600x600.jpg"
 }

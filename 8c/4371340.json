@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "SUNSTAR BENELUX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1057662",
   "mmkId": "1057662",
   "productGroupId": "502141",
@@ -29,8 +29,8 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30266667,
-      "name": "Tandenstokers"
+      "id": 30266669,
+      "name": "Tandenragers"
     }
   ],
   "description": "mt M, 100 stuks",

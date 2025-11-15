@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Corsodyl 1% Tandgel",
   "code": "5847462",
   "price": "8.69",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Geneesmiddel - 50g",
-  "image": "/medias/sys_master/prd-images/hec/h2c/44793451577374/prd-front-5847462-1_600x600/prd-front-5847462-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1b/h47/44811810471966/prd-front-5847462-1_600x600/prd-front-5847462-1-600x600.jpg"
 }

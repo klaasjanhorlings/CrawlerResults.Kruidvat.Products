@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nicorette Mint 1mg Suikervrije Mondspray",
   "code": "2881838",
   "price": "31.99",
@@ -37,5 +37,6 @@
       "name": "Nicotinesprays"
     }
   ],
-  "description": "Geneesmiddel - 13,2ml"
+  "description": "Geneesmiddel - 13,2ml",
+  "image": "/medias/sys_master/prd-images/hea/h5e/44787207307294/prd-front-2881838-1_600x600/prd-front-2881838-1-600x600.jpg"
 }

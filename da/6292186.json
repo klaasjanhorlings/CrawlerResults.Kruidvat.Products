@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Andrélon Levendige Kleur Revitaliserend Haarmasker",
   "code": "6292186",
-  "price": "4.3",
-  "priceOriginal": "8.59",
+  "price": "8.59",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6695",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057647",
   "productGroupId": "501931",
   "brandType": "A of B merk",
-  "discount": "€ 4,29",
+  "discount": "",
   "url": "/andrelon-levendige-kleur-revitaliserend-haarmasker/p/6292186",
   "listName": "Lister",
   "brand": "Andrelon",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h44/h91/44793471434782/prd-front-6292186-1_600x600/prd-front-6292186-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

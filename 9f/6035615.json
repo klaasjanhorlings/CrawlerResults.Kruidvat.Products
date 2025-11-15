@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Superlock Clear Brow Glue",
   "code": "6035615",
-  "price": "9.99",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057762",
   "productGroupId": "472674",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/maybelline-new-york-superlock-clear-brow-glue/p/6035615",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "8g",
-  "image": "/medias/sys_master/prd-images/h42/h52/44792007393310/prd-front-6035615-1_600x600/prd-front-6035615-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h43/h3a/44805296554014/prd-front-6035615-1_600x600/prd-front-6035615-1-600x600.jpg"
 }

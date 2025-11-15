@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Lash Sensational Sky High Pink Air Mascara",
   "code": "5984837",
-  "price": "9.99",
-  "priceOriginal": "20.99",
+  "price": "20.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057762",
   "productGroupId": "472674",
   "brandType": "A of B merk",
-  "discount": "€ 11,00",
+  "discount": "",
   "url": "/maybelline-new-york-lash-sensational-sky-high-pink-air-mascara/p/5984837",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "7,2ml",
-  "image": "/medias/sys_master/prd-images/h6d/hde/44800971767838/prd-front-5984837-1_600x600/prd-front-5984837-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf1/h23/44812616957982/prd-front-5984837-1_600x600/prd-front-5984837-1-600x600.jpg"
 }

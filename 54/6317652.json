@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty XtendBrows Medium/Dark Shape & Sculpt Pencil",
   "code": "6317652",
-  "price": "5.99",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057668",
   "productGroupId": "502490",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,00",
+  "discount": "",
   "url": "/mcobeauty-xtendbrows-medium/dark-shape-sculpt-pencil/p/6317652",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "0,1g",
-  "image": "/medias/sys_master/prd-images/hf3/h9f/34794056384542/prd-front-6317652-1_600x600/prd-front-6317652-1-600x600.jpg"
+  "description": "0,1g"
 }

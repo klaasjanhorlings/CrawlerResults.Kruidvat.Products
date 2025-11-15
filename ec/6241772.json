@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Superfluff 260 Deep Brown Brow Mousse",
   "code": "6241772",
-  "price": "9.99",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057762",
   "productGroupId": "472674",
   "brandType": "A of B merk",
-  "discount": "€ 6,00",
+  "discount": "",
   "url": "/maybelline-new-york-superfluff-260-deep-brown-brow-mousse/p/6241772",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "5ml",
-  "image": "/medias/sys_master/prd-images/hc8/h40/44790126510110/prd-front-6241772-1_600x600/prd-front-6241772-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hfc/hc2/44804832690206/prd-front-6241772-1_600x600/prd-front-6241772-1-600x600.jpg"
 }

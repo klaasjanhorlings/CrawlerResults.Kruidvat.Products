@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline Volum' Express The Rocket Very Black Mascara",
   "code": "5998466",
-  "price": "9.99",
-  "priceOriginal": "13.99",
+  "price": "13.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057762",
   "productGroupId": "472674",
   "brandType": "A of B merk",
-  "discount": "€ 4,00",
+  "discount": "",
   "url": "/maybelline-volum-express-the-rocket-very-black-mascara/p/5998466",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h8e/h3c/44793460686878/prd-front-5998466-1_600x600/prd-front-5998466-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h00/he8/44811821154334/prd-front-5998466-1_600x600/prd-front-5998466-1-600x600.jpg"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Kruidvat Derma Verzorgende Huidolie",
   "code": "6040914",
-  "price": "4.49",
-  "priceOriginal": "5.99",
+  "price": "5.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057761",
   "productGroupId": "469160",
   "brandType": "Eigen merk",
-  "discount": "€ 1,50",
+  "discount": "",
   "url": "/kruidvat-derma-verzorgende-huidolie/p/6040914",
   "listName": "Lister",
   "brand": "KRUIDVAT DERMA",
@@ -33,5 +33,6 @@
       "name": "Bodyolie"
     }
   ],
-  "description": "100ml, alle huidtypes"
+  "description": "100ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h9a/hc0/30122814013470/prd-front-6040914-1_600x600/prd-front-6040914-1-600x600.jpg"
 }

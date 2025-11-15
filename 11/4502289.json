@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dagravit Vitaal 50+ Vit D + Omega-3 Visolie Capsules",
   "code": "4502289",
   "price": "26.99",
@@ -33,6 +33,5 @@
       "name": "Visolie"
     }
   ],
-  "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/h0c/h9a/32824779833374/prd-front-4502289-1_600x600/prd-front-4502289-1-600x600.jpg"
+  "description": "90 stuks"
 }

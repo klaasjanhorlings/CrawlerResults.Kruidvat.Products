@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Hydrocare Scheerschuim",
+  "code": "6380708",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2909 > 3706",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-hydrocare-scheerschuim/p/6380708",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266681,
+      "name": "Scheerschuim en scheergel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

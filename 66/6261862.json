@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "GilletteLabs Scheersysteem",
   "code": "6261862",
-  "price": "25.0",
-  "priceOriginal": "33.99",
+  "price": "33.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3880 > 5722",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057582",
   "productGroupId": "498624",
   "brandType": "A of B merk",
-  "discount": "€ 8,99",
+  "discount": "",
   "url": "/gillettelabs-scheersysteem/p/6261862",
   "listName": "Lister",
   "brand": "Gillette",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcf/he8/33389814841374/prd-front-6261862-1_600x600/prd-front-6261862-1-600x600.jpg"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Kiss Falscara Natural Wispy Wisps Kunstwimpers",
   "code": "5955416",
-  "price": "8.99",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6496 > 6508 > 6512 > 6516 > 6520",
   "supplier": "ANVIRI COSMETICS BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057499",
   "productGroupId": "475247",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/kiss-falscara-natural-wispy-wisps-kunstwimpers/p/5955416",
   "listName": "Lister",
   "brand": "Kiss",
@@ -33,6 +33,5 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h29/h4f/31934375985182/prd-front-5955416-1_600x600/prd-front-5955416-1-600x600.jpg"
+  "description": ""
 }

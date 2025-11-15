@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Cetirizine 10mg Allergietabletten",
   "code": "6232616",
   "price": "10.69",
@@ -37,6 +37,5 @@
       "name": "Hooikoortstabletten"
     }
   ],
-  "description": "Geneesmiddel - 50 stuks",
-  "image": "/medias/sys_master/prd-images/h05/h5c/34598377062430/prd-front-6232616-1_600x600/prd-front-6232616-1-600x600.jpg"
+  "description": "Geneesmiddel - 50 stuks"
 }

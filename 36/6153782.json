@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "EasyToys Couple Play Couple Toy Vibrator",
   "code": "6153782",
   "price": "29.99",
@@ -37,5 +37,6 @@
       "name": "Koppel toys"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb1/h2d/31696316727326/prd-front-6153782-1_600x600/prd-front-6153782-1-600x600.jpg"
 }

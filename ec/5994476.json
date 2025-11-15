@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Hyper Precise 730 Emerald Jungle Eyeliner",
   "code": "5994476",
-  "price": "9.99",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057762",
   "productGroupId": "472674",
   "brandType": "A of B merk",
-  "discount": "€ 2,00",
+  "discount": "",
   "url": "/maybelline-new-york-hyper-precise-730-emerald-jungle-eyeliner/p/5994476",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "1ml",
-  "image": "/medias/sys_master/prd-images/h76/hb1/44791496474654/prd-front-5994476-1_600x600/prd-front-5994476-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h69/h4e/44805290131486/prd-front-5994476-1_600x600/prd-front-5994476-1-600x600.jpg"
 }

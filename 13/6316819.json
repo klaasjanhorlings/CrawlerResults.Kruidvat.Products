@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty All-in-One Colour Corrector Serum",
   "code": "6316819",
-  "price": "8.39",
-  "priceOriginal": "13.99",
+  "price": "13.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057764",
   "productGroupId": "490379",
   "brandType": "Exclusief merk",
-  "discount": "€ 5,60",
+  "discount": "",
   "url": "/mcobeauty-all-in-one-colour-corrector-serum/p/6316819",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/haf/h02/35175823048734/prd-front-6316819-1_600x600/prd-front-6316819-1-600x600.jpg"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Build-A-Brow 262 Black Brown Wenkbrauwpotlood en -Gel",
   "code": "5994490",
-  "price": "9.99",
-  "priceOriginal": "17.99",
+  "price": "17.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057762",
   "productGroupId": "472674",
   "brandType": "A of B merk",
-  "discount": "€ 8,00",
+  "discount": "",
   "url": "/maybelline-new-york-build-a-brow-262-black-brown-wenkbrauwpotlood-en-gel/p/5994490",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h34/h12/44794834157598/prd-front-5994490-1_600x600/prd-front-5994490-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he3/h19/44806810468382/prd-front-5994490-1_600x600/prd-front-5994490-1-600x600.jpg"
 }

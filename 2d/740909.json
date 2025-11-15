@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Maagtabletten",
   "code": "740909",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Spijsvertering"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hbb/hf8/34595242475550/prd-front-740909-1_600x600/prd-front-740909-1-600x600.jpg"
 }

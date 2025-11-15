@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Vegan Omega-3 Microalgen Capsules",
   "code": "5540837",
   "price": "14.99",
@@ -33,5 +33,6 @@
       "name": "Hart en/of bloedvaten"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hc1/h28/44111760130078/prd-front-5540837-1_600x600/prd-front-5540837-1-600x600.jpg"
 }

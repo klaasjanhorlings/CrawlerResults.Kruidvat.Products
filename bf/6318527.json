@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Miracle Natural Tan BB Cream",
   "code": "6318527",
-  "price": "5.99",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057764",
   "productGroupId": "490379",
   "brandType": "Exclusief merk",
-  "discount": "€ 4,00",
+  "discount": "",
   "url": "/mcobeauty-miracle-natural-tan-bb-cream/p/6318527",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "BB cream"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h90/h33/44428660867102/prd-front-6318527-1_600x600/prd-front-6318527-1-600x600.jpg"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Kruidvat 6 Silk Sensation Scheerapparaat",
   "code": "2196860",
-  "price": "2.99",
-  "priceOriginal": "6.99",
+  "price": "6.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
   "supplier": "ELLIPSE",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057616",
   "productGroupId": "499831",
   "brandType": "Eigen merk",
-  "discount": "€ 4,00",
+  "discount": "",
   "url": "/kruidvat-6-silk-sensation-scheerapparaat/p/2196860",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2b/h7b/44356919361566/prd-front-2196860-1_600x600/prd-front-2196860-1-600x600.jpg"
 }

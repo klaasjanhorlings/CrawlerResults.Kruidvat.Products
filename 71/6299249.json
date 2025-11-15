@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "David Beckham Botanical Resin Eau de Parfum",
   "code": "6299249",
-  "price": "22.5",
-  "priceOriginal": "29.99",
+  "price": "29.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057766",
   "productGroupId": "499546",
   "brandType": "A of B merk",
-  "discount": "€ 7,49",
+  "discount": "",
   "url": "/david-beckham-botanical-resin-eau-de-parfum/p/6299249",
   "listName": "Lister",
   "brand": "David Beckham",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h57/h62/34292489715742/prd-front-6299249-1_600x600/prd-front-6299249-1-600x600.jpg"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York The Falsies Lash Lift Black Mascara",
   "code": "5998396",
-  "price": "9.99",
-  "priceOriginal": "19.99",
+  "price": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057762",
   "productGroupId": "472674",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "",
   "url": "/maybelline-new-york-the-falsies-lash-lift-black-mascara/p/5998396",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hc5/hf3/44799565987870/prd-front-5998396-1_600x600/prd-front-5998396-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hec/h27/44809941516318/prd-front-5998396-1_600x600/prd-front-5998396-1-600x600.jpg"
 }

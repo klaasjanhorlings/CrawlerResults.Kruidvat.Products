@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Maybelline New York SuperStay Up To 24HR 21 Hybrid Powder-Foundation",
   "code": "5783748",
-  "price": "9.99",
-  "priceOriginal": "18.99",
+  "price": "18.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057762",
   "productGroupId": "472674",
   "brandType": "A of B merk",
-  "discount": "€ 9,00",
+  "discount": "",
   "url": "/maybelline-new-york-superstay-up-to-24hr-21-hybrid-powder-foundation/p/5783748",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "9g, Gezien op Tiktok",
-  "image": "/medias/sys_master/prd-images/h03/h60/44798703697950/prd-front-5783748-1_600x600/prd-front-5783748-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hfa/hde/44809936797726/prd-front-5783748-1_600x600/prd-front-5783748-1-600x600.jpg"
 }

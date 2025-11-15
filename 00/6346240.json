@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1040890",
+  "mmkId": "1040890",
+  "productGroupId": "432542",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-duplo-10448-3-in-1-dieren-op-wielen/p/6346240",
@@ -33,6 +33,5 @@
       "name": "LEGO Duplo"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hf0/ha7/35038258692126/prd-front-6346240-1_600x600/prd-front-6346240-1-600x600.jpg"
+  "description": ""
 }

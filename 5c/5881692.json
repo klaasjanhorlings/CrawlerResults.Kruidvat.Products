@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Colgate Max White Ultra Freshness Pearls Whitening Tandpasta",
   "code": "5881692",
-  "price": "4.99",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057561",
   "productGroupId": "497741",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/colgate-max-white-ultra-freshness-pearls-whitening-tandpasta/p/5881692",
   "listName": "Lister",
   "brand": "Colgate",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Whitening"
+  "description": "75ml - Whitening",
+  "image": "/medias/sys_master/prd-images/h67/h2e/33861598085150/prd-front-5881692-1_600x600/prd-front-5881692-1-600x600.jpg"
 }
