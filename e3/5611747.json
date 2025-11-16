@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Knoflook & Visolie",
   "code": "5611747",
   "price": "5.89",
@@ -33,5 +33,6 @@
       "name": "Hart en/of bloedvaten"
     }
   ],
-  "description": "60 capsules"
+  "description": "60 capsules",
+  "image": "/medias/sys_master/prd-images/h47/hcb/33355324784670/prd-front-5611747-1_600x600/prd-front-5611747-1-600x600.jpg"
 }

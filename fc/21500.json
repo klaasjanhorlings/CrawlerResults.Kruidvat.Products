@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Ibuprofen 200mg Omhulde Tabletten",
   "code": "21500",
   "price": "1.99",
@@ -37,6 +37,5 @@
       "name": "Ibuprofen"
     }
   ],
-  "description": "Geneesmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/h10/h01/29144995299358/prd-front-21500-1_600x600/prd-front-21500-1-600x600.jpg"
+  "description": "Geneesmiddel - 20 stuks"
 }

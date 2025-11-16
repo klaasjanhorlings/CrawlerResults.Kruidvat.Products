@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "MoviGo Laxeermiddel",
   "code": "6390704",
   "price": "14.99",
@@ -29,5 +29,6 @@
       "name": "Nieuw"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks"
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/hb4/haa/44641355890718/prd-front-6390704-1_600x600/prd-front-6390704-1-600x600.jpg"
 }

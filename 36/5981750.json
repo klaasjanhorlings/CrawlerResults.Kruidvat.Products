@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Natures Arnica Eerste Hulp Zalf",
   "code": "5981750",
   "price": "3.49",
@@ -33,6 +33,5 @@
       "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h9b/h43/34735649783838/prd-front-5981750-1_600x600/prd-front-5981750-1-600x600.jpg"
+  "description": "100ml"
 }

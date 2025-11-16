@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NiQuitin 2mg Minizuigtabletten",
   "code": "5723285",
   "price": "29.99",
@@ -37,5 +37,6 @@
       "name": "Nicotinezuigtabletten"
     }
   ],
-  "description": "Geneesmiddel - 60 stuks"
+  "description": "Geneesmiddel - 60 stuks",
+  "image": "/medias/sys_master/prd-images/h32/h5a/34503168196638/prd-front-5723285-1_600x600/prd-front-5723285-1-600x600.jpg"
 }

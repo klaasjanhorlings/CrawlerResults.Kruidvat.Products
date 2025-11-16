@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Medisana NI 200 Neusdouche",
   "code": "6391572",
   "price": "34.95",
@@ -29,6 +29,5 @@
       "name": "Nieuw"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h44/h1a/44274983108638/prd-front-6391572-1_600x600/prd-front-6391572-1-600x600.jpg"
+  "description": ""
 }

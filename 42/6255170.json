@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Kv Cond Classic 24",
   "code": "6255170",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/hab/hed/44661143011358/prd-front-6255170-1_600x600/prd-front-6255170-1-600x600.jpg"
 }

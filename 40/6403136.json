@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Foliumzuur + Vitamine D3 Tabletten",
   "code": "6403136",
   "price": "5.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6205 > 6223 > 6293",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1057557",
   "mmkId": "1057557",
   "productGroupId": "496989",
@@ -29,6 +29,5 @@
       "name": "Nieuw"
     }
   ],
-  "description": "120 stuks",
-  "image": "/medias/sys_master/prd-images/h59/hfb/44451387932702/prd-front-6403136-1_600x600/prd-front-6403136-1-600x600.jpg"
+  "description": "120 stuks"
 }

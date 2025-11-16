@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Breathe Right Neusstrips",
   "code": "1838600",
   "price": "19.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - mt L, 30 stuks",
-  "image": "/medias/sys_master/prd-images/h77/h7d/44811521720350/prd-front-1838600-1_600x600/prd-front-1838600-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h72/h9c/44819803209758/prd-front-1838600-1_600x600/prd-front-1838600-1-600x600.jpg"
 }

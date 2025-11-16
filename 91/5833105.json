@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Satisfyer Sexy Secret Slipvibrator",
   "code": "5833105",
   "price": "69.95",
@@ -37,5 +37,6 @@
       "name": "Satisfyer"
     }
   ],
-  "description": "8,5cm x 3,9cm x 2,9cm"
+  "description": "8,5cm x 3,9cm x 2,9cm",
+  "image": "/medias/prd-front-5833105-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDE4NzV8aW1hZ2UvanBlZ3xhR1JtTDJnMFppOHlOamN3TlRjek1qazJNREk0Tmk5d2NtUXRabkp2Ym5RdE5UZ3pNekV3TlMweFh6WXdNSGcyTURBfDYxODg0ZDk5YWYyY2I3M2U1OGJlNmIzYzA0ODczYWJiMDY3NGU0MGFhMWU2MDIyNTRlYzlkNDFjYmRkOTA1MjY"
 }
