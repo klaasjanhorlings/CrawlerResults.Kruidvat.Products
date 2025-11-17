@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 2794 > 4076",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057783",
+  "mmkId": "1057783",
+  "productGroupId": "508638",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-harmonie-aqua-paw-patrol-babydoekjes/p/6243809",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "15 x 48 stuks"
+  "description": "15 x 48 stuks",
+  "image": "/medias/sys_master/prd-images/he1/haa/33364087635998/prd-front-6243809-1_600x600/prd-front-6243809-1-600x600.jpg"
 }

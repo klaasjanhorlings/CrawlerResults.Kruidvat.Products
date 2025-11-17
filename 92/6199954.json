@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1057771",
-  "mmkId": "1057771",
-  "productGroupId": "515970",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/stay-well-98-aloe-soothing-gel/p/6199954",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "55ml"
+  "description": "55ml",
+  "image": "/medias/sys_master/prd-images/he1/h9d/32250468728862/prd-front-6199954-1_600x600/prd-front-6199954-1-600x600.jpg"
 }

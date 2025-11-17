@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1057691",
   "mmkId": "1057691",
   "productGroupId": "510806",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 5 (12-17 kg), 21 stuks",
-  "image": "/medias/sys_master/prd-images/he3/h4a/44825008177182/prd-front-5052566-1_600x600/prd-front-5052566-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h43/h9b/44832300761118/prd-front-5052566-1_600x600/prd-front-5052566-1-600x600.jpg"
 }

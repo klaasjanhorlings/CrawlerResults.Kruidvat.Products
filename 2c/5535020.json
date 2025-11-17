@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6330",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1057771",
-  "mmkId": "1057771",
-  "productGroupId": "515970",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-saffier-nagelvijl/p/5535020",
@@ -37,5 +37,6 @@
       "name": "Nagelvijlen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h72/h56/28315994882078/prd-front-5535020-1_600x600/prd-front-5535020-1-600x600.jpg"
 }

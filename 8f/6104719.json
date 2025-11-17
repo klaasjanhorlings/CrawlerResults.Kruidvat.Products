@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1057771",
-  "mmkId": "1057771",
-  "productGroupId": "515970",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-caffeine-kick-under-eye-serum/p/6104719",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h0e/hae/31569042898974/prd-front-6104719-1_600x600/prd-front-6104719-1-600x600.jpg"
 }

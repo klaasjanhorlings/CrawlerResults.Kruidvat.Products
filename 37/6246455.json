@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1057758",
-  "mmkId": "1057758",
-  "productGroupId": "516471",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/laneige-water-sleeping-mask/p/6246455",
@@ -37,5 +37,6 @@
       "name": "Crèmemaskers"
     }
   ],
-  "description": "70ml"
+  "description": "70ml",
+  "image": "/medias/sys_master/prd-images/hde/h60/33041085726750/prd-front-6246455-1_600x600/prd-front-6246455-1-600x600.jpg"
 }

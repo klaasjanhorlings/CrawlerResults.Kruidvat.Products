@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nijntje 6-in-1 Spellendoos",
+  "code": "5143839",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
+  "supplier": "RAVENSBURGER BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nijntje-6-in-1-spellendoos/p/5143839",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h33/h35/34641175871518/prd-front-5143839-1_600x600/prd-front-5143839-1-600x600.jpg"
+}

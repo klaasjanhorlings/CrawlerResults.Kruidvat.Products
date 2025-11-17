@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1057771",
-  "mmkId": "1057771",
-  "productGroupId": "515970",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/skincyclopedia-2-salicylic-acid-tea-tree-gezichtsserum/p/5933541",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h93/hc9/29833260662814/prd-front-5933541-1_600x600/prd-front-5933541-1-600x600.jpg"
+  "description": "30ml"
 }

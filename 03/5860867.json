@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4314",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "1057771",
-  "mmkId": "1057771",
-  "productGroupId": "515970",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-keratin-repair-anti-klit-spray/p/5860867",
@@ -29,5 +29,6 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h73/h89/35122574000158/prd-front-5860867-1_600x600/prd-front-5860867-1-600x600.jpg"
 }

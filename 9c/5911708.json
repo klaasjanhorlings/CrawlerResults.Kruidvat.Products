@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1057771",
-  "mmkId": "1057771",
-  "productGroupId": "515970",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-colour-fix-020-brow-gel-mascara/p/5911708",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwmascara"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/ha0/h00/29946729693214/prd-front-5911708-1_600x600/prd-front-5911708-1-600x600.jpg"
 }

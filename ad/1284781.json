@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 2968 > 3770",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1057771",
-  "mmkId": "1057771",
-  "productGroupId": "515970",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vaseline-original-lippenbalsem/p/1284781",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "20g"
+  "description": "20g",
+  "image": "/medias/prd-front-1284781-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzc5NjB8aW1hZ2UvanBlZ3xhREUwTDJnNU1pOHlOall6T0RVd09EazBPVFV6TkM5d2NtUXRabkp2Ym5RdE1USTRORGM0TVMweFh6WXdNSGcyTURBfDU5N2JmMTAzZWJmNTk1MmRmOGQzYWViYzQ4NjgwZjdiYWMxMGY0ZjQ3OGVlOWNkMWYxNGQ4NDRjYzIyNDliNTY"
 }

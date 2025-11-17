@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat USB C Kabel",
   "code": "5310992",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Telefoonkabeltjes"
     }
   ],
-  "description": "wit, 1m"
+  "description": "wit, 1m",
+  "image": "/medias/sys_master/prd-images/h22/h82/44579366273054/prd-front-5310992-1_600x600/prd-front-5310992-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1056830",
-  "mmkId": "1056830",
-  "productGroupId": "471987",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/7th-heaven-nutriactive-hyaluronic-acid-moisturising-sheet-mask/p/5752720",
@@ -37,6 +37,5 @@
       "name": "Sheet maskers"
     }
   ],
-  "description": "19g",
-  "image": "/medias/prd-front-5752720-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE4NTF8aW1hZ2UvanBlZ3xhREE1TDJobU5DOHhOalF6TVRNNU5UY3pNelV6TkM5d2NtUXRabkp2Ym5RdE5UYzFNamN5TUMweFh6WXdNSGcyTURBfGU4YWVhYzk2NmRhY2M4MzFkZTJiMzk1ZWI3ZGRkMzNkOGE1NzVmNjgwMTliZWVlNDMwNmYzNGUxM2M2YWE0Yjc"
+  "description": "19g"
 }

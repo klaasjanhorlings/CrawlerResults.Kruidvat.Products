@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Stitch Snuggle Kinderhoodie",
+  "code": "6371300",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2495 > 3061 > 3520 > 5795 > 5928 > 6716",
+  "supplier": "SABORN TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/stitch-snuggle-kinderhoodie/p/6371300",
+  "listName": "Lister",
+  "brand": "Stitch",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266856,
+      "name": "Kinderpyjama's"
+    }
+  ],
+  "description": "roze, blauw, mt 122-128",
+  "image": "/medias/sys_master/prd-images/h40/h35/44158093557790/prd-front-6371300-1_600x600/prd-front-6371300-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Red Band Smullers",
+  "code": "3793980",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2636 > 3299 > 4198",
+  "supplier": "CLOETTA HOLLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/red-band-smullers/p/3793980",
+  "listName": "Lister",
+  "brand": "Red Band",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267026,
+      "name": "Snoep"
+    }
+  ],
+  "description": "600g",
+  "image": "/medias/sys_master/prd-images/hcc/h0f/28851623690270/prd-front-3793980-1_600x600/prd-front-3793980-1-600x600.jpg"
+}

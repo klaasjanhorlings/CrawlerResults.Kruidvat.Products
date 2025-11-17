@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6674 > 2271 > 2637 > 3320 > 6343",
   "supplier": "MUNDIA BV",
   "inStock": "inStock",
-  "onPromo": "1057771",
-  "mmkId": "1057771",
-  "productGroupId": "515970",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-toilettas/p/5471446",
@@ -33,6 +33,5 @@
       "name": "Toilettassen"
     }
   ],
-  "description": "zwart",
-  "image": "/medias/sys_master/prd-images/hfe/hb6/28297243099166/prd-front-5471446-1_600x600/prd-front-5471446-1-600x600.jpg"
+  "description": "zwart"
 }

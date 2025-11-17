@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1057759",
-  "mmkId": "1057759",
-  "productGroupId": "469001",
+  "onPromo": "1057656",
+  "mmkId": "1057656",
+  "productGroupId": "502076",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-revitalift-filler-nachtcreme/p/3650389",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Normale en rijpe huid"
+  "description": "50ml - Normale en rijpe huid",
+  "image": "/medias/sys_master/prd-images/h64/h66/44314082541598/prd-front-3650389-1_600x600/prd-front-3650389-1-600x600.jpg"
 }

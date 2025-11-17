@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4316",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1057771",
-  "mmkId": "1057771",
-  "productGroupId": "515970",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sensodyne-repair-protect-deep-repair-mini-tandpasta/p/5613231",
@@ -29,6 +29,5 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "Medisch hulpmiddel - 15ml",
-  "image": "/medias/sys_master/prd-images/h5b/h03/44752673407006/prd-front-5613231-1_600x600/prd-front-5613231-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 15ml"
 }

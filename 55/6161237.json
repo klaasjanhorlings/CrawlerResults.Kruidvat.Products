@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Smart Indoor Camera",
   "code": "6161237",
   "price": "19.99",
@@ -33,6 +33,5 @@
       "name": "Camera’s"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha9/hcc/31935187058718/prd-front-6161237-1_600x600/prd-front-6161237-1-600x600.jpg"
+  "description": ""
 }

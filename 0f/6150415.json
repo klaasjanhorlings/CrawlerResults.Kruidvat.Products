@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kerstballen Opbergdoos",
+  "code": "6150415",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4818 > 5926 > 5972 > 5989 > 6006 > 6036",
+  "supplier": "KOOPMAN INTERN STOCK",
+  "inStock": "outOfStock",
+  "onPromo": "1057836",
+  "mmkId": "1057836",
+  "productGroupId": "514851",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/kerstballen-opbergdoos/p/6150415",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 101717606,
+      "name": "Kerstartikelen"
+    },
+    {
+      "id": 101719094,
+      "name": "Kerstversiering"
+    }
+  ],
+  "description": "33,5cm x 33,5cm x 17,5cm",
+  "image": "/medias/sys_master/prd-images/hb0/hae/31695739060254/prd-front-6150415-1_600x600/prd-front-6150415-1-600x600.jpg"
+}

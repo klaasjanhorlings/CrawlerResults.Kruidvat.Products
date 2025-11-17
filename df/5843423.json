@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Duracell CR2032 Knoopcel Batterijen",
+  "code": "5843423",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2134 > 2413 > 2855 > 3595 > 6013",
+  "supplier": "DURACELL NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/duracell-cr2032-knoopcel-batterijen/p/5843423",
+  "listName": "Lister",
+  "brand": "Duracell",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266055,
+      "name": "Batterijen"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h39/hc2/30462120984606/prd-front-5843423-1_600x600/prd-front-5843423-1-600x600.jpg"
+}

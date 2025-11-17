@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Amber Serenity Geurkaars",
   "code": "6110977",
   "price": "7.99",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2146 > 2351 > 2704 > 3407 > 5926 > 6679",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057802",
+  "mmkId": "1057802",
+  "productGroupId": "497118",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-amber-serenity-geurkaars/p/6110977",
@@ -37,5 +37,6 @@
       "name": "Geurkaarsen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h46/h28/44675912106014/prd-front-6110977-1_600x600/prd-front-6110977-1-600x600.jpg"
 }

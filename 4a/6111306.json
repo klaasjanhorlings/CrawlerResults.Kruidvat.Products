@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Vanilla & Spice Autoparfum",
   "code": "6111306",
   "price": "5.99",
@@ -37,5 +37,6 @@
       "name": "Autoparfum"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha5/hf0/31622995607582/prd-front-6111306-1_600x600/prd-front-6111306-1-600x600.jpg"
 }

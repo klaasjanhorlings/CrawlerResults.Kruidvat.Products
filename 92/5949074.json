@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6320 > 6674",
   "supplier": "DENMAN INTERNATIONAL LTD",
   "inStock": "inStock",
-  "onPromo": "1057771",
-  "mmkId": "1057771",
-  "productGroupId": "515970",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/denman-d200-the-skeleton-vent-borstel/p/5949074",
@@ -33,6 +33,5 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "zwart",
-  "image": "/medias/sys_master/prd-images/he4/h82/29088540426270/prd-front-5949074-1_600x600/prd-front-5949074-1-600x600.jpg"
+  "description": "zwart"
 }

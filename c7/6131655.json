@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bolsius Golden Lights 8-Uur Waxinelichtjes",
   "code": "6131655",
   "price": "7.19",
@@ -37,5 +37,6 @@
       "name": "Theelichten"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h79/h10/31621947752478/prd-front-6131655-1_600x600/prd-front-6131655-1-600x600.jpg"
 }

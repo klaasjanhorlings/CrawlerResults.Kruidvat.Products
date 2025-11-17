@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Wicked 75681 Glinda, Elphaba en Nessarose op Shiz University",
+  "code": "6377271",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1057639",
+  "mmkId": "1057639",
+  "productGroupId": "500717",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-wicked-75681-glinda-elphaba-en-nessarose-op-shiz-university/p/6377271",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69040785,
+      "name": "LEGO Films en series"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hba/ha5/35137423835166/prd-front-6377271-1_600x600/prd-front-6377271-1-600x600.jpg"
+}
