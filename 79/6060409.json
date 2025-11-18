@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Hydro Boost Aqua Reinigingsgel",
+  "code": "6060409",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "1057821",
+  "mmkId": "1057821",
+  "productGroupId": "501963",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutrogena-hydro-boost-aqua-reinigingsgel/p/6060409",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30266606,
+      "name": "Dermacare"
+    }
+  ],
+  "description": "200ml - Alle huidtypen en gevoelige huid"
+}

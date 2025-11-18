@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
   "supplier": "FRUITFUNK BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1010662",
   "mmkId": "1010662",
   "productGroupId": "242521",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/h48/h40/44778534076446/prd-front-5813274-1_600x600/prd-front-5813274-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h05/hcc/44841017147422/prd-front-5813274-1_600x600/prd-front-5813274-1-600x600.jpg"
 }

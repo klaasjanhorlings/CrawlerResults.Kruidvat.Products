@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ESSITY",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058167",
   "mmkId": "1058167",
   "productGroupId": "523337",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "zwart, mt L",
-  "image": "/medias/sys_master/prd-images/h90/h40/44826301595678/prd-front-6397396-1_600x600/prd-front-6397396-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h27/h48/44833542963230/prd-front-6397396-1_600x600/prd-front-6397396-1-600x600.jpg"
 }
