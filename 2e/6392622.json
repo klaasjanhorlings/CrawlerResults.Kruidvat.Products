@@ -25,8 +25,16 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266706,
+      "name": "Pijn"
+    },
+    {
+      "id": 30266966,
+      "name": "Paracetamol"
     }
   ],
   "description": "Geneesmiddel - 50 stuks",

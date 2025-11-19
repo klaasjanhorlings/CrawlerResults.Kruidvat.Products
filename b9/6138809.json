@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
   "supplier": "ZURU NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1057460",
   "mmkId": "1057460",
   "productGroupId": "499556",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 2"
     }
   ],
-  "description": "mt 2 (4-8kg), 40 stuks"
+  "description": "mt 2 (4-8kg), 40 stuks",
+  "image": "/medias/sys_master/prd-images/h9b/h33/33988551114782/prd-front-6138809-1_600x600/prd-front-6138809-1-600x600.jpg"
 }

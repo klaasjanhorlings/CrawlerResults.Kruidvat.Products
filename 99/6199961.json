@@ -25,13 +25,18 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266603,
-      "name": "Nachtcreme"
+      "id": 73443650,
+      "name": "Korean Skincare"
+    },
+    {
+      "id": 90760937,
+      "name": "Korean gezichtsmaskers"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h69/h9b/32224405553182/prd-front-6199961-1_600x600/prd-front-6199961-1-600x600.jpg"
 }

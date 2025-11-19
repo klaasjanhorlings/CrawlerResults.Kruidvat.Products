@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal D-Mannose Cranberry Tabletten",
+  "code": "4967467",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6228 > 6318",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-d-mannose-cranberry-tabletten/p/4967467",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266734,
+      "name": "Cranberrysupplementen"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/prd-front-4967467-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODgzMTB8aW1hZ2UvanBlZ3xhR00yTDJnMVpTOHhOall3TlRRMk1UWTNOakEyTWk5d2NtUXRabkp2Ym5RdE5EazJOelEyTnkweFh6WXdNSGcyTURBfDk0NGNhZTg3OWM5NzA4MDRjYTdiMGNmOTQ0NDM5MGQwMWQ2NzQ4Y2M3ZWY1NzY4M2Q3YWVlOGQ0YWMzYmFjYjU"
+}

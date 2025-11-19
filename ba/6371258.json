@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2610 > 3250 > 4141 > 5928 > 6038 > 6042",
   "supplier": "KIDS CONNECT FASHION",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 57856073,
-      "name": "Sport"
+      "id": 29536082,
+      "name": "Fashion"
     },
     {
-      "id": 58016371,
-      "name": "Sportkleding"
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
     }
   ],
   "description": "mt M",
