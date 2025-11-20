@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Glow & Treat Peach 2-in-1 Lip Treatment",
   "code": "6317778",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "4.49",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057668",
   "productGroupId": "502490",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 1,50",
   "url": "/mcobeauty-glow-treat-peach-2-in-1-lip-treatment/p/6317778",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Lip oil"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h2c/hd6/34826832805918/prd-front-6317778-1_600x600/prd-front-6317778-1-600x600.jpg"
 }

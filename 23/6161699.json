@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Aanvulling voor Vegetariërs Capsules",
   "code": "6161699",
-  "price": "26.99",
-  "priceOriginal": "",
+  "price": "10.79",
+  "priceOriginal": "26.99",
   "itemBgbcat": "2006 > 2280 > 5048 > 6204 > 6222 > 6288",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057825",
   "productGroupId": "502802",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 16,20",
   "url": "/lucovitaal-aanvulling-voor-vegetariers-capsules/p/6161699",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -33,5 +33,6 @@
       "name": "Omega 3"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h4f/hab/31696315187230/prd-front-6161699-1_600x600/prd-front-6161699-1-600x600.jpg"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Shiepz Nachtrust 3 in 1 Hooggedoseerd Liquid Capsules",
   "code": "5930566",
-  "price": "16.99",
-  "priceOriginal": "",
+  "price": "10.2",
+  "priceOriginal": "16.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057800",
   "productGroupId": "496465",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,79",
   "url": "/shiepz-nachtrust-3-in-1-hooggedoseerd-liquid-capsules/p/5930566",
   "listName": "Lister",
   "brand": "Shiepz",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h08/h8c/35175780515870/prd-front-5930566-1_600x600/prd-front-5930566-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h36/h73/44862430576670/prd-front-5930566-1_600x600/prd-front-5930566-1-600x600.jpg"
 }

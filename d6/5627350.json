@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Neutrogena Anti-Age Retinol Boost SPF15 Dagcrème",
   "code": "5627350",
-  "price": "35.99",
-  "priceOriginal": "",
+  "price": "28.8",
+  "priceOriginal": "35.99",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "KENVUE",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057821",
   "productGroupId": "501963",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,19",
   "url": "/neutrogena-anti-age-retinol-boost-spf15-dagcreme/p/5627350",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hc7/h6f/44796482846750/prd-front-5627350-1_600x600/prd-front-5627350-1-600x600.jpg"
 }

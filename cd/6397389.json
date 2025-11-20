@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Libresse Intimawear Menstruatie-ondergoed",
   "code": "6397389",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "10.0",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ESSITY",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057631",
   "productGroupId": "500172",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,99",
   "url": "/libresse-intimawear-menstruatie-ondergoed/p/6397389",
   "listName": "Lister",
   "brand": "Libresse",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "zwart, mt M",
-  "image": "/medias/sys_master/prd-images/h3f/h0d/44844121423902/prd-front-6397389-1_600x600/prd-front-6397389-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hfe/h70/44857528254494/prd-front-6397389-1_600x600/prd-front-6397389-1-600x600.jpg"
 }

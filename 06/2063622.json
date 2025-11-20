@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Tiger Balm Rood Tijgerbalsem",
   "code": "2063622",
-  "price": "9.49",
-  "priceOriginal": "",
+  "price": "8.07",
+  "priceOriginal": "9.49",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057534",
   "productGroupId": "492474",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,42",
   "url": "/tiger-balm-rood-tijgerbalsem/p/2063622",
   "listName": "Lister",
   "brand": "Tiger Balm",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "19g",
-  "image": "/medias/sys_master/prd-images/hb5/h64/34796397887518/prd-front-2063622-1_600x600/prd-front-2063622-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h21/h73/44864008126494/prd-front-2063622-1_600x600/prd-front-2063622-1-600x600.jpg"
 }

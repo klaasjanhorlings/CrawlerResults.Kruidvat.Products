@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Stitch Gevulde Etui",
   "code": "6301762",
-  "price": "4.99",
-  "priceOriginal": "",
+  "price": "3.74",
+  "priceOriginal": "4.99",
   "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
   "supplier": "SPEELGOEDLAND",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1025309",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,25",
   "url": "/stitch-gevulde-etui/p/6301762",
   "listName": "Lister",
   "brand": "Stitch",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb7/h9f/34520182030366/prd-front-6301762-1_600x600/prd-front-6301762-1-600x600.jpg"
 }

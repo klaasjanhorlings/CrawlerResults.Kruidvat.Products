@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Batman 76303 Batman Tumbler vs. Two-Face en The Joker",
+  "code": "6232287",
+  "price": "41.24",
+  "priceOriginal": "54.99",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 13,75",
+  "url": "/lego-batman-76303-batman-tumbler-vs-two-face-en-the-joker/p/6232287",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69040785,
+      "name": "LEGO Films en series"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd0/hd2/33145137233950/prd-front-6232287-1_600x600/prd-front-6232287-1-600x600.jpg"
+}

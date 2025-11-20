@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Odorex Active Care Deodorant Roller",
   "code": "3941316",
-  "price": "4.19",
-  "priceOriginal": "",
+  "price": "1.5",
+  "priceOriginal": "4.19",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057526",
   "productGroupId": "489987",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,69",
   "url": "/odorex-active-care-deodorant-roller/p/3941316",
   "listName": "Lister",
   "brand": "Odorex",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h62/h1e/44325990531102/prd-front-3941316-1_600x600/prd-front-3941316-1-600x600.jpg"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Guess Seductive Dream Eau de Toilette",
   "code": "6246658",
-  "price": "24.99",
-  "priceOriginal": "",
+  "price": "18.74",
+  "priceOriginal": "24.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057817",
   "productGroupId": "500788",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,25",
   "url": "/guess-seductive-dream-eau-de-toilette/p/6246658",
   "listName": "Lister",
   "brand": "Guess",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hca/h2f/44504873271326/prd-front-6246658-1_600x600/prd-front-6246658-1-600x600.jpg"
 }

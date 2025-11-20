@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2451 > 2955 > 3749",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057894",
+  "mmkId": "1057894",
+  "productGroupId": "506214",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-nitril-handschoenen/p/5874125",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakartikelen"
     }
   ],
-  "description": "mt M, 20 stuks"
+  "description": "mt M, 20 stuks",
+  "image": "/medias/sys_master/prd-images/h86/hda/32039339130910/prd-front-5874125-1_600x600/prd-front-5874125-1-600x600.jpg"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Braun Series 5 MGK5540 9-in-1 Verzorgingsset",
   "code": "6261834",
-  "price": "69.99",
-  "priceOriginal": "",
+  "price": "55.99",
+  "priceOriginal": "69.99",
   "itemBgbcat": "2003 > 2088 > 2255 > 5887 > 6444 > 6672",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057676",
   "productGroupId": "503470",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 14,00",
   "url": "/braun-series-5-mgk5540-9-in-1-verzorgingsset/p/6261834",
   "listName": "Lister",
   "brand": "Braun",
@@ -33,6 +33,5 @@
       "name": "Multigroomers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h71/heb/33391314141214/prd-front-6261834-1_600x600/prd-front-6261834-1-600x600.jpg"
+  "description": ""
 }

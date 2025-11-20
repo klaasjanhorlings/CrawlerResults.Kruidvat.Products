@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Libresse Teens Hipster Menstruatieondergoed",
   "code": "6311107",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ESSITY",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1058167",
   "productGroupId": "523337",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,00",
   "url": "/libresse-teens-hipster-menstruatieondergoed/p/6311107",
   "listName": "Lister",
   "brand": "Libresse",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "zwart, mt XXS",
-  "image": "/medias/sys_master/prd-images/h27/h00/44848787554334/prd-front-6311107-1_600x600/prd-front-6311107-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1a/hf3/44860724576286/prd-front-6311107-1_600x600/prd-front-6311107-1-600x600.jpg"
 }

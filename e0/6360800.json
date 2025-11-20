@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2092 > 2245 > 2343 > 2743 > 4868 > 6569",
   "supplier": "BOOK & SERVICE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Kinderboeken"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hfe/h9a/34926343454750/prd-front-6360800-1_600x600/prd-front-6360800-1-600x600.jpg"
+  "description": ""
 }

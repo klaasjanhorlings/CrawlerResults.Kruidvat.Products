@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "CeraVe Hydraterende Reinigingscrème",
   "code": "5834316",
-  "price": "18.75",
-  "priceOriginal": "",
+  "price": "15.0",
+  "priceOriginal": "18.75",
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057821",
   "productGroupId": "501963",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,75",
   "url": "/cerave-hydraterende-reinigingscreme/p/5834316",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -37,5 +37,6 @@
       "name": "Reinigingscreme"
     }
   ],
-  "description": "473ml - Normale tot droge huid"
+  "description": "473ml - Normale tot droge huid",
+  "image": "/medias/sys_master/prd-images/h6d/h02/34426266451998/prd-front-5834316-1_600x600/prd-front-5834316-1-600x600.jpg"
 }

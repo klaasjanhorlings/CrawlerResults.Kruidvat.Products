@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty 4-in-1 Pink Colour Corrector",
   "code": "6318121",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "4.49",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057668",
   "productGroupId": "502490",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 1,50",
   "url": "/mcobeauty-4-in-1-pink-colour-corrector/p/6318121",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "4,3ml"
+  "description": "4,3ml",
+  "image": "/medias/sys_master/prd-images/hf5/ha2/34868290191390/prd-front-6318121-1_600x600/prd-front-6318121-1-600x600.jpg"
 }

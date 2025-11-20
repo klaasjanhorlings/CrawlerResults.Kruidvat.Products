@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
   "supplier": "FRUITFUNK BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1010662",
   "mmkId": "1010662",
   "productGroupId": "242521",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "4 x 15g",
-  "image": "/medias/sys_master/prd-images/h27/h00/44856063819806/prd-front-5918995-1_600x600/prd-front-5918995-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h6d/hc0/44869166563358/prd-front-5918995-1_600x600/prd-front-5918995-1-600x600.jpg"
 }

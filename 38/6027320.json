@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Cetaphil Optimal Hydration Verfrissend Oogserum",
   "code": "6027320",
-  "price": "23.95",
-  "priceOriginal": "",
+  "price": "19.16",
+  "priceOriginal": "23.95",
   "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057821",
   "productGroupId": "501963",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,79",
   "url": "/cetaphil-optimal-hydration-verfrissend-oogserum/p/6027320",
   "listName": "Lister",
   "brand": "Cetaphil",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "15ml, vochtarme en vermoeide huid",
-  "image": "/medias/sys_master/prd-images/h25/h03/32313352159262/prd-front-6027320-1_600x600/prd-front-6027320-1-600x600.jpg"
+  "description": "15ml, vochtarme en vermoeide huid"
 }

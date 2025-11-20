@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1057493",
-  "mmkId": "1057493",
-  "productGroupId": "471176",
+  "onPromo": "1057889",
+  "mmkId": "1057889",
+  "productGroupId": "501760",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-verzorgende-oogmake-upremover/p/4323831",
@@ -37,5 +37,6 @@
       "name": "Oogmake-up remover"
     }
   ],
-  "description": "125ml - Gevoelige huid"
+  "description": "125ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h2b/hf8/35128354471966/prd-front-4323831-1_600x600/prd-front-4323831-1-600x600.jpg"
 }

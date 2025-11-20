@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Andrélon Kokos Volume Boost 3-in-1 Textuur Spray",
   "code": "6299613",
-  "price": "9.39",
-  "priceOriginal": "",
+  "price": "4.7",
+  "priceOriginal": "9.39",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 3577 > 6689",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057647",
   "productGroupId": "501931",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,69",
   "url": "/andrelon-kokos-volume-boost-3-in-1-textuur-spray/p/6299613",
   "listName": "Lister",
   "brand": "Andrelon",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h34/hfb/34729557655582/prd-front-6299613-1_600x600/prd-front-6299613-1-600x600.jpg"
 }

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty XtendLash Black-Brown Tubing Mascara",
   "code": "6317183",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "7.49",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1057668",
   "productGroupId": "502490",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,50",
   "url": "/mcobeauty-xtendlash-black-brown-tubing-mascara/p/6317183",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/hc4/hd2/34868287963166/prd-front-6317183-1_600x600/prd-front-6317183-1-600x600.jpg"
 }
