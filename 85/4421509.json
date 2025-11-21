@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Vitamine B Complex Forte Tabletten",
   "code": "4421509",
-  "price": "6.0",
+  "price": "5.99",
   "priceOriginal": "14.99",
   "itemBgbcat": "2006 > 2280 > 5048 > 6206 > 6224 > 6298",
   "supplier": "PK BENELUX BV",
@@ -12,7 +12,7 @@
   "mmkId": "1057825",
   "productGroupId": "502802",
   "brandType": "A of B merk",
-  "discount": "€ 8,99",
+  "discount": "€ 9,00",
   "url": "/lucovitaal-vitamine-b-complex-forte-tabletten/p/4421509",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -37,5 +37,6 @@
       "name": "Vitamine B"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h7b/hca/44366247821342/prd-front-4421509-1_600x600/prd-front-4421509-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "ZURU NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1057460",
   "mmkId": "1057460",
   "productGroupId": "499556",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 4"
     }
   ],
-  "description": "Maat 4 (10-15 kg), 30 stuks"
+  "description": "Maat 4 (10-15 kg), 30 stuks",
+  "image": "/medias/sys_master/prd-images/h27/h8b/33993087156254/prd-front-6240127-1_600x600/prd-front-6240127-1-600x600.jpg"
 }

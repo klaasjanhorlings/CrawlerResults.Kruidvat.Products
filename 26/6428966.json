@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 6+M Bio Banaan met Appel en Wortel Knijpzakje",
+  "code": "6428966",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
+  "supplier": "FRUITFUNK BV",
+  "inStock": "inStock",
+  "onPromo": "1010662",
+  "mmkId": "1010662",
+  "productGroupId": "242521",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-6m-bio-banaan-met-appel-en-wortel-knijpzakje/p/6428966",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266770,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267003,
+      "name": "6 maanden +"
+    }
+  ],
+  "description": "12 x 90g",
+  "image": "/medias/sys_master/prd-images/h9b/h75/44878263812126/prd-front-6428966-1_600x600/prd-front-6428966-1-600x600.jpg"
+}

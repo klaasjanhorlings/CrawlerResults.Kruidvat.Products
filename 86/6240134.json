@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 3017 > 3842",
   "supplier": "ZURU NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1057460",
   "mmkId": "1057460",
   "productGroupId": "499556",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 7"
     }
   ],
-  "description": "mt 7, 20 stuks"
+  "description": "mt 7, 20 stuks",
+  "image": "/medias/sys_master/prd-images/hca/h39/33989308121118/prd-front-6240134-1_600x600/prd-front-6240134-1-600x600.jpg"
 }

@@ -25,17 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266912,
-      "name": "Reinigingsdoekjes"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
-  "description": "25 stuks - Alle huidtypen + gevoelige huid"
+  "description": "25 stuks - Alle huidtypen + gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h81/hd3/35120989175838/prd-front-4726667-1_600x600/prd-front-4726667-1-600x600.jpg"
 }
