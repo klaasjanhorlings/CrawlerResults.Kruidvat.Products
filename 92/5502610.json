@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "KALEGRA COSMETICS GMBH",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1057876",
+  "mmkId": "1057876",
+  "productGroupId": "516728",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-stay-with-me-005-n-fair-ivory-radiant-matte-serum-foundation/p/5502610",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/prd-front-5502610-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTYxNzh8aW1hZ2UvanBlZ3xhRFkwTDJoaE15OHhOamsxTmpReU1qQTJNakV4TUM5d2NtUXRabkp2Ym5RdE5UVXdNall4TUMweFh6WXdNSGcyTURBfDMzZjFjZjYxNjZlODY1OGQ3Y2Y0YjIwNjFkNjJjY2E5MzVmZTIzNDU5ODY0OGM2YTFiOWE3NWU5YmI1ZWFjMzE"
 }

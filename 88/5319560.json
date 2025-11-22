@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "KALEGRA COSMETICS GMBH",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1057876",
+  "mmkId": "1057876",
+  "productGroupId": "516728",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-best-of-both-060-glorious-red-lip-color-balm/p/5319560",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5g"
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/hb1/hf4/28935591067678/prd-front-5319560-1_600x600/prd-front-5319560-1-600x600.jpg"
 }

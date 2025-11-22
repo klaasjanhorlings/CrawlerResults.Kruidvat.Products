@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4337 > 4338",
   "supplier": "FRUITFUNK BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1010662",
   "mmkId": "1010662",
   "productGroupId": "242521",
@@ -33,5 +33,6 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "4 x 15g"
+  "description": "4 x 15g",
+  "image": "/medias/sys_master/prd-images/hf1/hbb/44894385635358/prd-front-5918995-1_600x600/prd-front-5918995-1-600x600.jpg"
 }

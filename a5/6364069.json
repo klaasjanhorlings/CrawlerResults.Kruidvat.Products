@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Davidoff Cool Water Man Eau de Toilette",
   "code": "6364069",
-  "price": "34.64",
+  "price": "31.17",
   "priceOriginal": "88.0",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057907",
+  "mmkId": "1057907",
+  "productGroupId": "500438",
   "brandType": "A of B merk",
-  "discount": "€ 53,36",
+  "discount": "€ 56,83",
   "url": "/davidoff-cool-water-man-eau-de-toilette/p/6364069",
   "listName": "Lister",
   "brand": "Davidoff",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

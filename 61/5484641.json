@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "KALEGRA COSMETICS GMBH",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1057876",
+  "mmkId": "1057876",
+  "productGroupId": "516728",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-mighty-lashes-defined-volume-mascara/p/5484641",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "12ml"
+  "description": "12ml",
+  "image": "/medias/sys_master/prd-images/h5e/h8e/27575218307102/prd-front-5484641-1_600x600/prd-front-5484641-1-600x600.jpg"
 }

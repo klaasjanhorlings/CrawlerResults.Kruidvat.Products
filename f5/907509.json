@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Jil Sander Sun for Men Eau de Toilette",
   "code": "907509",
-  "price": "22.54",
+  "price": "20.29",
   "priceOriginal": "52.09",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057907",
+  "mmkId": "1057907",
+  "productGroupId": "500438",
   "brandType": "A of B merk",
-  "discount": "€ 29,55",
+  "discount": "€ 31,80",
   "url": "/jil-sander-sun-for-men-eau-de-toilette/p/907509",
   "listName": "Lister",
   "brand": "Jil Sander",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/prd-front-907509-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MjY1Njd8aW1hZ2UvanBlZ3xhRFl5TDJnNVlTOHhOalUzTkRBMU1EQXdPVEV4T0M5d2NtUXRabkp2Ym5RdE9UQTNOVEE1TFRGZk5qQXdlRFl3TUF8ZDUxMzczZmQyMTM3MmVmZDBhNDE3MzJhNTBlZTQwMGY3YjE2NmJhZGIwZTgwZTkzZWM2OTA5MWQ5ZDhkOGQ0Yg"
 }

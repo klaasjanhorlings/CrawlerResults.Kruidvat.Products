@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Calvin Klein Eternity Homme Eau de Toilette",
   "code": "3217908",
-  "price": "39.25",
-  "priceOriginal": "",
+  "price": "35.32",
+  "priceOriginal": "39.25",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057907",
+  "mmkId": "1057907",
+  "productGroupId": "500438",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,93",
   "url": "/calvin-klein-eternity-homme-eau-de-toilette/p/3217908",
   "listName": "Lister",
   "brand": "Calvin Klein",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h4b/h5c/34352661397534/prd-front-3217908-1_600x600/prd-front-3217908-1-600x600.jpg"
+  "description": "100ml"
 }
