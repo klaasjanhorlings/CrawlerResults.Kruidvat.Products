@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "ORCHARD BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1057876",
   "mmkId": "1057876",
   "productGroupId": "516728",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "10g",
-  "image": "/medias/prd-front-5484872-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTExODg2fGltYWdlL2pwZWd8YURWakwyZzBOQzh4TmprMU5UazFNalEyTXprd01pOXdjbVF0Wm5KdmJuUXROVFE0TkRnM01pMHhYell3TUhnMk1EQXwwZjQ3MWY3ZmU2MjZmZjZiMGI4ODliZjQwNzUxMDYwMjExMzE4NzIzMmRlNWU2ZWYwOWMyMmExODdiMGU0MzI2"
+  "description": "10g"
 }
