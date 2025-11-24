@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dagravit Totaal 30 Multivitaminen en Mineralen Dragees",
   "code": "30333",
-  "price": "41.99",
-  "priceOriginal": "",
+  "price": "16.8",
+  "priceOriginal": "41.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1057548",
-  "mmkId": "1057548",
-  "productGroupId": "496453",
+  "onPromo": "1057997",
+  "mmkId": "1057997",
+  "productGroupId": "498093",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 25,19",
   "url": "/dagravit-totaal-30-multivitaminen-en-mineralen-dragees/p/30333",
   "listName": "Lister",
   "brand": "Dagravit",
@@ -37,6 +37,5 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "550 stuks",
-  "image": "/medias/sys_master/prd-images/hd7/h70/33818626555934/prd-front-30333-1_600x600/prd-front-30333-1-600x600.jpg"
+  "description": "550 stuks"
 }

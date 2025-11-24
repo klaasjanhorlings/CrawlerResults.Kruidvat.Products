@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nestlé Quality Street",
+  "code": "5761008",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "BVM-TRADE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nestle-quality-street/p/5761008",
+  "listName": "Lister",
+  "brand": "Quality Street",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464836,
+      "name": "Bonbons en pralines"
+    }
+  ],
+  "description": "600g",
+  "image": "/medias/prd-front-5761008-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAzMjA1fGltYWdlL2pwZWd8YUdNeEwyaGhZeTh4TmpRNU9EQXhOVEEwTXpZeE5DOXdjbVF0Wm5KdmJuUXROVGMyTVRBd09DMHhYell3TUhnMk1EQXwxYjM2ZTFmZTM4MGI2NWE5NTA0ZWZkNjQ4YjQyMGIyOGI0N2VhNzc2NDk4Yzc5NDg2MmI1NzlhNWM4ZDAzYjZm"
+}

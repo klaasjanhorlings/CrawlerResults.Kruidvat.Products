@@ -8,9 +8,9 @@
   "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
   "supplier": "CREATIVE DUTCH MANUFACTURER",
   "inStock": "inStock",
-  "onPromo": "1058202",
-  "mmkId": "1058202",
-  "productGroupId": "523461",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/true-spirit-teddy-shopper/p/6299956",
@@ -37,5 +37,6 @@
       "name": "Shopper"
     }
   ],
-  "description": "bruin, 52cm x 40cm x 16cm"
+  "description": "bruin, 52cm x 40cm x 16cm",
+  "image": "/medias/sys_master/prd-images/h91/h2f/34314048110622/prd-front-6299956-1_600x600/prd-front-6299956-1-600x600.jpg"
 }

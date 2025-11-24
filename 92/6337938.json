@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hugo Boss Alive Geschenkset",
+  "code": "6337938",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4114 > 5861 > 5864 > 6705 > 6706",
+  "supplier": "K!CK TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hugo-boss-alive-geschenkset/p/6337938",
+  "listName": "Lister",
+  "brand": "Hugo Boss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72654960,
+      "name": "Parfum geschenkset voor haar"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h12/h88/34919388807198/prd-front-6337938-1_600x600/prd-front-6337938-1-600x600.jpg"
+}

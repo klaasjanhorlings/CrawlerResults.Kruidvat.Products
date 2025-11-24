@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gucci Bamboo Eau de Parfum",
   "code": "6361059",
-  "price": "66.55",
-  "priceOriginal": "73.95",
+  "price": "73.95",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1057907",
-  "mmkId": "1057907",
-  "productGroupId": "500438",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 7,40",
+  "discount": "",
   "url": "/gucci-bamboo-eau-de-parfum/p/6361059",
   "listName": "Lister",
   "brand": "Gucci",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h5f/h5a/35099803516958/prd-front-6361059-1_600x600/prd-front-6361059-1-600x600.jpg"
 }

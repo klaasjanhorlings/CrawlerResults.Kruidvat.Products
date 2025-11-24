@@ -8,9 +8,9 @@
   "itemBgbcat": "2146 > 5926 > 5962 > 5979 > 5996 > 6679",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1057558",
-  "mmkId": "1057558",
-  "productGroupId": "497116",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-white-musk-warm-vanilla-roomspray/p/6111460",
@@ -33,5 +33,6 @@
       "name": "Geurstokjes"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h85/hfd/31622995279902/prd-front-6111460-1_600x600/prd-front-6111460-1-600x600.jpg"
 }

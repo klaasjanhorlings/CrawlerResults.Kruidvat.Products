@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1059018",
+  "mmkId": "1059018",
+  "productGroupId": "527105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-glow-reviver-blackberry-sorbet-melting-lipbalm/p/6275393",
@@ -37,5 +37,6 @@
       "name": "Lip balm"
     }
   ],
-  "description": "15g"
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/h3c/hf4/34282087448606/prd-front-6275393-1_600x600/prd-front-6275393-1-600x600.jpg"
 }

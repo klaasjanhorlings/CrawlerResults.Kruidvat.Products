@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3678 > 5727",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1057522",
-  "mmkId": "1057522",
-  "productGroupId": "489399",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-sensitive-48h-antitranspirant-spray/p/6035167",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h3a/h90/30300556886046/prd-front-6035167-1_600x600/prd-front-6035167-1-600x600.jpg"
 }

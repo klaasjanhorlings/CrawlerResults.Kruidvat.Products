@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Natterman Hoest en Keel Pastilles",
   "code": "4552157",
-  "price": "6.78",
+  "price": "7.27",
   "priceOriginal": "9.69",
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3924",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1057540",
-  "mmkId": "1057540",
-  "productGroupId": "495328",
+  "onPromo": "1057985",
+  "mmkId": "1057985",
+  "productGroupId": "495330",
   "brandType": "A of B merk",
-  "discount": "€ 2,91",
+  "discount": "€ 2,42",
   "url": "/natterman-hoest-en-keel-pastilles/p/4552157",
   "listName": "Lister",
   "brand": "Natterman",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/hdf/he8/44897887715358/prd-front-4552157-1_600x600/prd-front-4552157-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8b/hfc/44908472041502/prd-front-4552157-1_600x600/prd-front-4552157-1-600x600.jpg"
 }

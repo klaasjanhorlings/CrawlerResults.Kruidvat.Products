@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ribvelours Huispak",
+  "code": "6370915",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5791 > 5790 > 5792 > 5795 > 5928 > 6716",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/ribvelours-huispak/p/6370915",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266843,
+      "name": "Damespyjama's"
+    }
+  ],
+  "description": "zwart, mt L-XL",
+  "image": "/medias/sys_master/prd-images/h29/h1e/44870121259038/prd-front-6370915-1_600x600/prd-front-6370915-1-600x600.jpg"
+}

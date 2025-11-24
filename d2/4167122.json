@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris True Match 7.D/W Golden Amber Foundation",
   "code": "4167122",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "7.0",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1058059",
+  "mmkId": "1058059",
+  "productGroupId": "506353",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 12,99",
   "url": "/loreal-paris-true-match-7d/w-golden-amber-foundation/p/4167122",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/ha3/he7/44894682185758/prd-front-4167122-1_600x600/prd-front-4167122-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h24/hed/44905667756062/prd-front-4167122-1_600x600/prd-front-4167122-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Instant Anti Age Eraser 11 Tan Concealer",
   "code": "4474226",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "6.0",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1058053",
+  "mmkId": "1058053",
+  "productGroupId": "506345",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,99",
   "url": "/maybelline-new-york-instant-anti-age-eraser-11-tan-concealer/p/4474226",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "6,8ml",
-  "image": "/medias/sys_master/prd-images/h28/h1f/44809593716766/prd-front-4474226-1_600x600/prd-front-4474226-1-600x600.jpg"
+  "description": "6,8ml"
 }

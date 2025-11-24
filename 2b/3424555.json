@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dagravit Vitamine D3 10ug Parels",
   "code": "3424555",
-  "price": "12.49",
-  "priceOriginal": "",
+  "price": "5.0",
+  "priceOriginal": "12.49",
   "itemBgbcat": "2006 > 5048 > 2280 > 6194 > 6212 > 6238",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1057548",
-  "mmkId": "1057548",
-  "productGroupId": "496453",
+  "onPromo": "1057997",
+  "mmkId": "1057997",
+  "productGroupId": "498093",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,49",
   "url": "/dagravit-vitamine-d3-10ug-parels/p/3424555",
   "listName": "Lister",
   "brand": "Dagravit",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100 stuks",
-  "image": "/medias/sys_master/prd-images/hc1/h3e/44895451971614/prd-front-3424555-1_600x600/prd-front-3424555-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h34/h12/44906571169822/prd-front-3424555-1_600x600/prd-front-3424555-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Creator 31136 3-in-1 Exotische Papegaai",
+  "code": "5819553",
+  "price": "14.94",
+  "priceOriginal": "22.99",
+  "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1058002",
+  "mmkId": "1058002",
+  "productGroupId": "498447",
+  "brandType": "A of B merk",
+  "discount": "€ 8,05",
+  "url": "/lego-creator-31136-3-in-1-exotische-papegaai/p/5819553",
+  "listName": "Lister",
+  "brand": "LEGO Creator",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266815,
+      "name": "LEGO Creator"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h46/hb3/28052457979934/prd-front-5819553-1_600x600/prd-front-5819553-1-600x600.jpg"
+}

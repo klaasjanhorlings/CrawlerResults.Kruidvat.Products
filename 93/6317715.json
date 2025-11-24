@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Berry Peptide Lip Treatment",
   "code": "6317715",
-  "price": "7.49",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1057668",
-  "mmkId": "1057668",
-  "productGroupId": "502490",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,50",
+  "discount": "",
   "url": "/mcobeauty-berry-peptide-lip-treatment/p/6317715",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Lip balm"
     }
   ],
-  "description": "15g"
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/h3f/h7c/34826212048926/prd-front-6317715-1_600x600/prd-front-6317715-1-600x600.jpg"
 }

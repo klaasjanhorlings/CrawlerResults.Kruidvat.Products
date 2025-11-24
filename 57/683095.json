@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Men Expert Hydra Energetic Hydraterende Gezichtscrème",
   "code": "683095",
-  "price": "18.99",
-  "priceOriginal": "",
+  "price": "9.5",
+  "priceOriginal": "18.99",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1057687",
-  "mmkId": "1057687",
-  "productGroupId": "507709",
+  "onPromo": "1058023",
+  "mmkId": "1058023",
+  "productGroupId": "500773",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,49",
   "url": "/loreal-paris-men-expert-hydra-energetic-hydraterende-gezichtscreme/p/683095",
   "listName": "Lister",
   "brand": "L'Oreal Paris Men Expert",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/ha4/h96/44897888043038/prd-front-683095-1_600x600/prd-front-683095-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4f/hf9/44908472336414/prd-front-683095-1_600x600/prd-front-683095-1-600x600.jpg"
 }

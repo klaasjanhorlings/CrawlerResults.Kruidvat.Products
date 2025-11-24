@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Prada L'Homme L'Eau Eau de Toilette",
   "code": "6251894",
-  "price": "74.69",
-  "priceOriginal": "82.99",
+  "price": "82.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1057907",
-  "mmkId": "1057907",
-  "productGroupId": "500438",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 8,30",
+  "discount": "",
   "url": "/prada-lhomme-leau-eau-de-toilette/p/6251894",
   "listName": "Lister",
   "brand": "Prada",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h25/h56/33106017320990/prd-front-6251894-1_600x600/prd-front-6251894-1-600x600.jpg"
+  "description": "100ml"
 }

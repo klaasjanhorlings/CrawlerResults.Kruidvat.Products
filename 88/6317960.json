@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty 4-in-1 Green Colour Corrector",
   "code": "6317960",
-  "price": "4.49",
-  "priceOriginal": "5.99",
+  "price": "5.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1057668",
-  "mmkId": "1057668",
-  "productGroupId": "502490",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 1,50",
+  "discount": "",
   "url": "/mcobeauty-4-in-1-green-colour-corrector/p/6317960",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "4,3ml",
-  "image": "/medias/sys_master/prd-images/hdb/hc9/34827447042078/prd-front-6317960-1_600x600/prd-front-6317960-1-600x600.jpg"
+  "description": "4,3ml"
 }

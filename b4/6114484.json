@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gucci Flora Gorgeous Jasmine 5 Eau de Parfum",
   "code": "6114484",
-  "price": "80.99",
-  "priceOriginal": "89.99",
+  "price": "89.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1057907",
-  "mmkId": "1057907",
-  "productGroupId": "500438",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 9,00",
+  "discount": "",
   "url": "/gucci-flora-gorgeous-jasmine-5-eau-de-parfum/p/6114484",
   "listName": "Lister",
   "brand": "Gucci",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h4c/h85/31060324876318/prd-front-6114484-1_600x600/prd-front-6114484-1-600x600.jpg"
+  "description": "50ml"
 }

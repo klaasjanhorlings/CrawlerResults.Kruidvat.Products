@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Ultra Doux Rijke Arganolie Shampoo",
+  "code": "4327296",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "1057953",
+  "mmkId": "1057953",
+  "productGroupId": "508109",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-ultra-doux-rijke-arganolie-shampoo/p/4327296",
+  "listName": "Lister",
+  "brand": "Ultra Doux",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hb3/hc8/44427573887006/prd-front-4327296-1_600x600/prd-front-4327296-1-600x600.jpg"
+}

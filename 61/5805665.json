@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Neutrogena Retinol Boost+ Intensief Serum",
   "code": "5805665",
-  "price": "31.19",
+  "price": "27.29",
   "priceOriginal": "38.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "1057821",
-  "mmkId": "1057821",
-  "productGroupId": "501963",
+  "onPromo": "1058109",
+  "mmkId": "1058109",
+  "productGroupId": "508340",
   "brandType": "A of B merk",
-  "discount": "€ 7,80",
+  "discount": "€ 11,70",
   "url": "/neutrogena-retinol-boost-intensief-serum/p/5805665",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml - Alle huidtypen"
+  "description": "30ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h93/hf1/44790123888670/prd-front-5805665-1_600x600/prd-front-5805665-1-600x600.jpg"
 }

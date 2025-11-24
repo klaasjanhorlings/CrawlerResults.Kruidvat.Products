@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2324 > 2723 > 3426 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
-  "onPromo": "1057585",
-  "mmkId": "1057585",
-  "productGroupId": "498769",
+  "inStock": "outOfStock",
+  "onPromo": "1058011",
+  "mmkId": "1058011",
+  "productGroupId": "498801",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-afritsslaapzak/p/6284206",
@@ -33,6 +33,5 @@
       "name": "Babyslaapzakken"
     }
   ],
-  "description": "wit, mt 86-98",
-  "image": "/medias/sys_master/prd-images/hd2/h22/33644468011038/prd-front-6284206-1_600x600/prd-front-6284206-1-600x600.jpg"
+  "description": "wit, mt 86-98"
 }

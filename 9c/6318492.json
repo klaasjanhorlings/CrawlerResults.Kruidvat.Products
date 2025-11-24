@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Lip Shimmer Party Hydrating Oil",
   "code": "6318492",
-  "price": "5.24",
-  "priceOriginal": "6.99",
+  "price": "6.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1057668",
-  "mmkId": "1057668",
-  "productGroupId": "502490",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 1,75",
+  "discount": "",
   "url": "/mcobeauty-lip-shimmer-party-hydrating-oil/p/6318492",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Lip oil"
     }
   ],
-  "description": "3.8ml"
+  "description": "3.8ml",
+  "image": "/medias/sys_master/prd-images/hf3/h07/44427225038878/prd-front-6318492-1_600x600/prd-front-6318492-1-600x600.jpg"
 }

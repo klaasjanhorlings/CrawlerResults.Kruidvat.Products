@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3108 > 3485",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1057522",
-  "mmkId": "1057522",
-  "productGroupId": "489399",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-hammam-body-oil-spray/p/1172564",
@@ -33,5 +33,6 @@
       "name": "Bodyolie"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h85/hca/28763000995870/prd-front-1172564-1_600x600/prd-front-1172564-1-600x600.jpg"
 }

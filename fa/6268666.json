@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Mexx Inspired Warmth Eau de Parfum",
   "code": "6268666",
-  "price": "24.74",
-  "priceOriginal": "27.49",
+  "price": "27.49",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "1057907",
-  "mmkId": "1057907",
-  "productGroupId": "500438",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,75",
+  "discount": "",
   "url": "/mexx-inspired-warmth-eau-de-parfum/p/6268666",
   "listName": "Lister",
   "brand": "Mexx",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h0a/h42/33465971408926/prd-front-6268666-1_600x600/prd-front-6268666-1-600x600.jpg"
+  "description": "30ml"
 }

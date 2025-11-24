@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Total Effects 7-in-1 Nachtcrème Keith Haring Artist Edition",
   "code": "6220205",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "8.0",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1057512",
-  "mmkId": "1057512",
-  "productGroupId": "483946",
+  "onPromo": "1058035",
+  "mmkId": "1058035",
+  "productGroupId": "503032",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,99",
   "url": "/olay-total-effects-7-in-1-nachtcreme-keith-haring-artist-edition/p/6220205",
   "listName": "Lister",
   "brand": "Olay",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hdd/hcc/33531638087710/prd-front-6220205-1_600x600/prd-front-6220205-1-600x600.jpg"
+  "description": "50ml"
 }

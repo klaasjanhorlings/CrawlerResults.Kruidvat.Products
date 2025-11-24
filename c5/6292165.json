@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Andrélon Kokos Volume Boost Shampoo Scrub",
   "code": "6292165",
-  "price": "4.2",
-  "priceOriginal": "8.39",
+  "price": "8.39",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6697",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1057647",
-  "mmkId": "1057647",
-  "productGroupId": "501931",
+  "onPromo": "1058014",
+  "mmkId": "1058014",
+  "productGroupId": "499310",
   "brandType": "A of B merk",
-  "discount": "€ 4,19",
+  "discount": "",
   "url": "/andrelon-kokos-volume-boost-shampoo-scrub/p/6292165",
   "listName": "Lister",
   "brand": "Andrelon",
@@ -33,6 +33,5 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/ha2/hb0/34731077206046/prd-front-6292165-1_600x600/prd-front-6292165-1-600x600.jpg"
+  "description": "200ml"
 }

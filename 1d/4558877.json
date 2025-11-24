@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Wilkinson Intuition 2-in-1 Variety Navulmesjes",
   "code": "4558877",
-  "price": "9.99",
-  "priceOriginal": "15.49",
+  "price": "15.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "inStock",
-  "onPromo": "1058945",
-  "mmkId": "1058945",
-  "productGroupId": "",
+  "onPromo": "1058016",
+  "mmkId": "1058016",
+  "productGroupId": "499563",
   "brandType": "A of B merk",
-  "discount": "€ 5,50",
+  "discount": "",
   "url": "/wilkinson-intuition-2-in-1-variety-navulmesjes/p/4558877",
   "listName": "Lister",
   "brand": "Wilkinson Sword",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/hcc/he5/28072317091870/prd-front-4558877-1_600x600/prd-front-4558877-1-600x600.jpg"
 }

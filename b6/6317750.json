@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Rose Glow Cheek & Lip Tint",
   "code": "6317750",
-  "price": "5.24",
-  "priceOriginal": "6.99",
+  "price": "6.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1057668",
-  "mmkId": "1057668",
-  "productGroupId": "502490",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 1,75",
+  "discount": "",
   "url": "/mcobeauty-rose-glow-cheek-lip-tint/p/6317750",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h16/hd2/34869865578526/prd-front-6317750-1_600x600/prd-front-6317750-1-600x600.jpg"
 }

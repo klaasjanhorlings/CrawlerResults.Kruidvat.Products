@@ -8,9 +8,9 @@
   "itemBgbcat": "2146 > 5926 > 5962 > 5979 > 5996 > 6679",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1057558",
-  "mmkId": "1057558",
-  "productGroupId": "497116",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-white-musk-warm-vanilla-autoparfum/p/6111418",
@@ -37,5 +37,6 @@
       "name": "Autoparfum"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hee/hb8/31620440293406/prd-front-6111418-1_600x600/prd-front-6111418-1-600x600.jpg"
 }

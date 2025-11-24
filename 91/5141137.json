@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "THEOTCLAB HEALTHCARE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 100ml",
-  "image": "/medias/sys_master/prd-images/h08/h17/44895698059294/prd-front-5141137-1_600x600/prd-front-5141137-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8f/h3c/44906953113630/prd-front-5141137-1_600x600/prd-front-5141137-1-600x600.jpg"
 }

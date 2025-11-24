@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2909 > 3706",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1057493",
-  "mmkId": "1057493",
-  "productGroupId": "471176",
+  "onPromo": "1058043",
+  "mmkId": "1058043",
+  "productGroupId": "505651",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-hydrocare-scheerschuim/p/6380708",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hfd/hb0/44915445628958/prd-front-6380708-1_600x600/prd-front-6380708-1-600x600.jpg"
 }

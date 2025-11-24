@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Skin Food Voedende Nachtcrème",
   "code": "6178135",
-  "price": "14.24",
-  "priceOriginal": "18.99",
+  "price": "18.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "1057503",
-  "mmkId": "1057503",
-  "productGroupId": "476402",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,75",
+  "discount": "",
   "url": "/skin-food-voedende-nachtcreme/p/6178135",
   "listName": "Lister",
   "brand": "Weleda",
@@ -33,6 +33,5 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "40ml - Normale tot droge huid",
-  "image": "/medias/sys_master/prd-images/h44/he2/32183795056670/prd-front-6178135-1_600x600/prd-front-6178135-1-600x600.jpg"
+  "description": "40ml - Normale tot droge huid"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gillette Mach3 Turbo Scheermesjes",
   "code": "5666270",
-  "price": "34.95",
-  "priceOriginal": "",
+  "price": "27.99",
+  "priceOriginal": "34.95",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5721 > 3879",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1057577",
-  "mmkId": "1057577",
-  "productGroupId": "498598",
+  "onPromo": "1058074",
+  "mmkId": "1058074",
+  "productGroupId": "507079",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,96",
   "url": "/gillette-mach3-turbo-scheermesjes/p/5666270",
   "listName": "Lister",
   "brand": "Gillette",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "8 stuks",
-  "image": "/medias/sys_master/prd-images/hd8/hf2/44901190041630/prd-front-5666270-1_600x600/prd-front-5666270-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h53/h72/44910966308894/prd-front-5666270-1_600x600/prd-front-5666270-1-600x600.jpg"
 }

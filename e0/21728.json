@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dagravit Totaal 30 Multivitaminen Dragees",
   "code": "21728",
-  "price": "12.49",
-  "priceOriginal": "",
+  "price": "5.0",
+  "priceOriginal": "12.49",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
-  "onPromo": "1057548",
-  "mmkId": "1057548",
-  "productGroupId": "496453",
+  "inStock": "outOfStock",
+  "onPromo": "1057997",
+  "mmkId": "1057997",
+  "productGroupId": "498093",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,49",
   "url": "/dagravit-totaal-30-multivitaminen-dragees/p/21728",
   "listName": "Lister",
   "brand": "Dagravit",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "100 stuks",
-  "image": "/medias/sys_master/prd-images/h47/h22/44905279291422/prd-front-21728-1_600x600/prd-front-21728-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7b/h97/44915144556574/prd-front-21728-1_600x600/prd-front-21728-1-600x600.jpg"
 }

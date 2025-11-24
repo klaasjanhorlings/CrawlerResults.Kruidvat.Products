@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gillette Mach3 Scheersysteem",
   "code": "6371202",
-  "price": "29.99",
-  "priceOriginal": "49.99",
+  "price": "49.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3869 > 5720",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1057614",
-  "mmkId": "1057614",
-  "productGroupId": "499761",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 20,00",
+  "discount": "",
   "url": "/gillette-mach3-scheersysteem/p/6371202",
   "listName": "Lister",
   "brand": "Gillette",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha5/hce/44274382635038/prd-front-6371202-1_600x600/prd-front-6371202-1-600x600.jpg"
 }

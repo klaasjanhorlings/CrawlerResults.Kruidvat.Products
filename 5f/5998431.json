@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Volum'Express Black Mascara",
   "code": "5998431",
-  "price": "9.99",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1057607",
-  "mmkId": "1057607",
-  "productGroupId": "499491",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 6,00",
+  "discount": "",
   "url": "/maybelline-new-york-volumexpress-black-mascara/p/5998431",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/he2/h25/44896151666718/prd-front-5998431-1_600x600/prd-front-5998431-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7a/hbd/44907346984990/prd-front-5998431-1_600x600/prd-front-5998431-1-600x600.jpg"
 }

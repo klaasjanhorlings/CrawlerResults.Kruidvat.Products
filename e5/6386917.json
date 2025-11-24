@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Prada Paradoxe Eau de Parfum",
   "code": "6386917",
-  "price": "57.59",
-  "priceOriginal": "63.99",
+  "price": "63.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1057907",
-  "mmkId": "1057907",
-  "productGroupId": "500438",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 6,40",
+  "discount": "",
   "url": "/prada-paradoxe-eau-de-parfum/p/6386917",
   "listName": "Lister",
   "brand": "Prada",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hbf/h11/44146180620318/prd-front-6386917-1_600x600/prd-front-6386917-1-600x600.jpg"
+  "description": "30ml"
 }

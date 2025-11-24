@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6780",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1059018",
+  "mmkId": "1059018",
+  "productGroupId": "527105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-halo-glow-highlight-irl-angel-beauty-wand/p/6274945",
@@ -33,5 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h64/h9e/34286774255646/prd-front-6274945-1_600x600/prd-front-6274945-1-600x600.jpg"
 }

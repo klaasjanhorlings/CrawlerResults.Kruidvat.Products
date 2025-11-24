@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dagravit Kids Vitamine D Aquosum Druppels",
   "code": "1692650",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "4.0",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6239",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1057548",
-  "mmkId": "1057548",
-  "productGroupId": "496453",
+  "onPromo": "1057997",
+  "mmkId": "1057997",
+  "productGroupId": "498093",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,99",
   "url": "/dagravit-kids-vitamine-d-aquosum-druppels/p/1692650",
   "listName": "Lister",
   "brand": "Dagravit",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "25ml",
-  "image": "/medias/sys_master/prd-images/h51/hd4/44899523100702/prd-front-1692650-1_600x600/prd-front-1692650-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf3/h93/44909339312158/prd-front-1692650-1_600x600/prd-front-1692650-1-600x600.jpg"
 }

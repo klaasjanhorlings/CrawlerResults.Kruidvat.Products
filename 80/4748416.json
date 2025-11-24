@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal L-Theanine Omega-3 Tabletten",
   "code": "4748416",
-  "price": "24.0",
-  "priceOriginal": "59.99",
+  "price": "59.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1057825",
-  "mmkId": "1057825",
-  "productGroupId": "502802",
+  "onPromo": "1057995",
+  "mmkId": "1057995",
+  "productGroupId": "496991",
   "brandType": "A of B merk",
-  "discount": "€ 35,99",
+  "discount": "",
   "url": "/lucovitaal-l-theanine-omega-3-tabletten/p/4748416",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -33,5 +33,6 @@
       "name": "Overige supplementen"
     }
   ],
-  "description": "210 stuks"
+  "description": "210 stuks",
+  "image": "/medias/prd-front-4748416-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzM3NTN8aW1hZ2UvanBlZ3xhR000TDJneE15OHhOall3TXpBME5UUTJNakEwTmk5d2NtUXRabkp2Ym5RdE5EYzBPRFF4TmkweFh6WXdNSGcyTURBfDZiY2U2OGIwZjYwODlkMTJlZGU0MmUzZjBlNzM5Y2M5OTc1ZDgzNDJiOGNjZjdjMDEzNTRkZTdkODMyMzYzYjk"
 }

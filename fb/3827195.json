@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Fit Me Matte & Poreless 110 Porcelain Foundation",
   "code": "3827195",
-  "price": "9.99",
-  "priceOriginal": "12.99",
+  "price": "12.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1057607",
-  "mmkId": "1057607",
-  "productGroupId": "499491",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/maybelline-new-york-fit-me-matte-poreless-110-porcelain-foundation/p/3827195",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1a/h85/44652182110238/prd-front-3827195-1_600x600/prd-front-3827195-1-600x600.jpg"
 }

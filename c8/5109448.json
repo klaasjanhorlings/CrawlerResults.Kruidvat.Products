@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Maxi Maat 4 Luiers Volumedoos",
   "code": "5109448",
-  "price": "47.97",
-  "priceOriginal": "",
+  "price": "35.98",
+  "priceOriginal": "47.97",
   "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4346 > 4347",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1010662",
-  "mmkId": "1010662",
-  "productGroupId": "242521",
+  "onPromo": "1057938",
+  "mmkId": "1057938",
+  "productGroupId": "509492",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 11,99",
   "url": "/kruidvat-maxi-maat-4-luiers-volumedoos/p/5109448",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 4 (8-12kg), 240 stuks",
-  "image": "/medias/sys_master/prd-images/h7a/ha1/44898650849310/prd-front-5109448-1_600x600/prd-front-5109448-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb1/h79/44908963790878/prd-front-5109448-1_600x600/prd-front-5109448-1-600x600.jpg"
 }

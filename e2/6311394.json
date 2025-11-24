@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1057528",
-  "mmkId": "1057528",
-  "productGroupId": "490186",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/palmolive-thermal-gentle-massage-shower-bodyscrub/p/6311394",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h8d/h09/44218651279390/prd-front-6311394-1_600x600/prd-front-6311394-1-600x600.jpg"
+  "description": "250ml - Normale huid"
 }

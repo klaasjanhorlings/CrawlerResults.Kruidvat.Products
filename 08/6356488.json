@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Colgate Max White Purple Serum",
   "code": "6356488",
-  "price": "9.99",
-  "priceOriginal": "19.99",
+  "price": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1057561",
-  "mmkId": "1057561",
-  "productGroupId": "497741",
+  "onPromo": "1058088",
+  "mmkId": "1058088",
+  "productGroupId": "508057",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "",
   "url": "/colgate-max-white-purple-serum/p/6356488",
   "listName": "Lister",
   "brand": "Colgate",
@@ -33,6 +33,5 @@
       "name": "Whitening producten"
     }
   ],
-  "description": "40ml - Whitening",
-  "image": "/medias/sys_master/prd-images/h7b/h16/44390545981470/prd-front-6356488-1_600x600/prd-front-6356488-1-600x600.jpg"
+  "description": "40ml - Whitening"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Milka Moments",
   "code": "5556279",
-  "price": "21.49",
-  "priceOriginal": "",
+  "price": "16.12",
+  "priceOriginal": "21.49",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
   "supplier": "MONDELEZ NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057919",
+  "mmkId": "1057919",
+  "productGroupId": "498840",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,37",
   "url": "/milka-moments/p/5556279",
   "listName": "Lister",
   "brand": "Milka",
@@ -33,5 +33,6 @@
       "name": "Trakteren"
     }
   ],
-  "description": "108 stuks"
+  "description": "108 stuks",
+  "image": "/medias/sys_master/prd-images/h90/ha6/44180207304734/prd-front-5556279-1_600x600/prd-front-5556279-1-600x600.jpg"
 }

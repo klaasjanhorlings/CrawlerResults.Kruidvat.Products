@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Sebamed Clear Face Anti-Pimple Gel",
   "code": "6042125",
-  "price": "2.99",
-  "priceOriginal": "5.99",
+  "price": "5.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "outOfStock",
-  "onPromo": "1057671",
-  "mmkId": "1057671",
-  "productGroupId": "502624",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/sebamed-clear-face-anti-pimple-gel/p/6042125",
   "listName": "Lister",
   "brand": "Sebamed",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h84/ha4/44901194367006/prd-front-6042125-1_600x600/prd-front-6042125-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h3a/h49/44910971224094/prd-front-6042125-1_600x600/prd-front-6042125-1-600x600.jpg"
 }

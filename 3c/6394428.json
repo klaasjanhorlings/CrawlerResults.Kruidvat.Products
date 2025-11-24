@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vanish Oxi Action Pink Poeder",
+  "code": "6394428",
+  "price": "10.99",
+  "priceOriginal": "21.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2633 > 2768 > 3475",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 11,00",
+  "url": "/vanish-oxi-action-pink-poeder/p/6394428",
+  "listName": "Lister",
+  "brand": "Vanish",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144743,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h64/h19/44622897774622/prd-front-6394428-1_600x600/prd-front-6394428-1-600x600.jpg"
+}

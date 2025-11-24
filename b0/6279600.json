@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Swiffer Dry Stofvangende Vloerdoekjes",
   "code": "6279600",
-  "price": "5.64",
-  "priceOriginal": "11.29",
+  "price": "11.29",
+  "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3112 > 3978",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1057369",
-  "mmkId": "1057369",
-  "productGroupId": "501599",
+  "onPromo": "1058015",
+  "mmkId": "1058015",
+  "productGroupId": "499342",
   "brandType": "A of B merk",
-  "discount": "€ 5,65",
+  "discount": "",
   "url": "/swiffer-dry-stofvangende-vloerdoekjes/p/6279600",
   "listName": "Lister",
   "brand": "Swiffer",
@@ -33,5 +33,6 @@
       "name": "Dweilen en vloerwissers"
     }
   ],
-  "description": "36 stuks"
+  "description": "36 stuks",
+  "image": "/medias/sys_master/prd-images/hcc/hc2/34101007810590/prd-front-6279600-1_600x600/prd-front-6279600-1-600x600.jpg"
 }

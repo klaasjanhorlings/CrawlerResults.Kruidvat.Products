@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NG Bella Vida Eau de Parfum",
   "code": "4197348",
-  "price": "5.39",
-  "priceOriginal": "5.99",
+  "price": "5.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "NEXT GENERATION PERFUME",
   "inStock": "inStock",
-  "onPromo": "1057907",
-  "mmkId": "1057907",
-  "productGroupId": "500438",
+  "onPromo": "1058026",
+  "mmkId": "1058026",
+  "productGroupId": "500806",
   "brandType": "A of B merk",
-  "discount": "€ 0,60",
+  "discount": "",
   "url": "/ng-bella-vida-eau-de-parfum/p/4197348",
   "listName": "Lister",
   "brand": "NG",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "80ml"
+  "description": "80ml",
+  "image": "/medias/prd-front-4197348-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzAyNjd8aW1hZ2UvanBlZ3xhR1prTDJoaE5pOHhOalUzTXpRME5UVTNNRFU1TUM5d2NtUXRabkp2Ym5RdE5ERTVOek0wT0MweFh6WXdNSGcyTURBfGUyM2Y5YzBmNWFlMjcxYmIzNjY0NmFiMjZmNjNiZTIxMDAxZGQyZDYxZjQ0OGU2NDlhZjAxNjc5ZWEzNjdhNGE"
 }

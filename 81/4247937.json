@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "EUROFOUR BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058106",
+  "mmkId": "1058106",
+  "productGroupId": "508205",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-complete-clean-opzetborstels/p/4247937",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "5 stuks"
+  "description": "5 stuks",
+  "image": "/medias/sys_master/prd-images/h72/hba/31461170610206/prd-front-4247937-1_600x600/prd-front-4247937-1-600x600.jpg"
 }

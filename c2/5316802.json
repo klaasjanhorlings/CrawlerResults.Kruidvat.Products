@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kneipp Relaxing Lavendel Badkristallen",
   "code": "5316802",
-  "price": "7.5",
-  "priceOriginal": "12.49",
+  "price": "12.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1057519",
-  "mmkId": "1057519",
-  "productGroupId": "489195",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A or B brand",
-  "discount": "€ 4,99",
+  "discount": "",
   "url": "/kneipp-relaxing-lavendel-badkristallen/p/5316802",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,5 +33,6 @@
       "name": "Badzout"
     }
   ],
-  "description": "600g"
+  "description": "600g",
+  "image": "/medias/sys_master/prd-images/h55/h76/27302512132126/prd-front-5316802-1_600x600/prd-front-5316802-1-600x600.jpg"
 }

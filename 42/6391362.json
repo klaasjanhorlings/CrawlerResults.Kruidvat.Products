@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Infaillible 3-Second Setting Mist",
+  "code": "6391362",
+  "price": "8.0",
+  "priceOriginal": "16.99",
+  "itemBgbcat": "2002 > 2069 > 2210 > 6134 > 6135 > 6133",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1058060",
+  "mmkId": "1058060",
+  "productGroupId": "506354",
+  "brandType": "A of B merk",
+  "discount": "€ 8,99",
+  "url": "/loreal-paris-infaillible-3-second-setting-mist/p/6391362",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266594,
+      "name": "Fixing sprays"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h52/h32/44313772687390/prd-front-6391362-1_600x600/prd-front-6391362-1-600x600.jpg"
+}

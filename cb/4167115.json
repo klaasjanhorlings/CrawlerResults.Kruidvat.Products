@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L Oréal Paris True Match 6.5.D/6.5W Golden Caramel Foundation",
   "code": "4167115",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "7.0",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1058059",
+  "mmkId": "1058059",
+  "productGroupId": "506353",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 12,99",
   "url": "/l-oreal-paris-true-match-65d/65w-golden-caramel-foundation/p/4167115",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h3e/h1e/44902062260254/prd-front-4167115-1_600x600/prd-front-4167115-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h67/ha9/44911208529950/prd-front-4167115-1_600x600/prd-front-4167115-1-600x600.jpg"
 }

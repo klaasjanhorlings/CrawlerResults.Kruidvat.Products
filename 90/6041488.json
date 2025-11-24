@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Neutrogena Anti-Puistjes+ 7% AHA + Panthenol Vloeibare Exfoliant",
   "code": "6041488",
-  "price": "13.59",
+  "price": "11.89",
   "priceOriginal": "16.99",
   "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "1057821",
-  "mmkId": "1057821",
-  "productGroupId": "501963",
+  "onPromo": "1058109",
+  "mmkId": "1058109",
+  "productGroupId": "508340",
   "brandType": "A of B merk",
-  "discount": "€ 3,40",
+  "discount": "€ 5,10",
   "url": "/neutrogena-anti-puistjes-7-aha-panthenol-vloeibare-exfoliant/p/6041488",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -33,5 +33,6 @@
       "name": "Exfoliant"
     }
   ],
-  "description": "125ml - Alle huidtypen en onzuivere huid"
+  "description": "125ml - Alle huidtypen en onzuivere huid",
+  "image": "/medias/sys_master/prd-images/hfd/hb9/31112504836126/prd-front-6041488-1_600x600/prd-front-6041488-1-600x600.jpg"
 }

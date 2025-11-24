@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tweezerman Mini Slant Tweezer",
   "code": "5221994",
-  "price": "16.99",
-  "priceOriginal": "",
+  "price": "8.49",
+  "priceOriginal": "16.99",
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6329",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1057963",
+  "mmkId": "1057963",
+  "productGroupId": "464133",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 8,50",
   "url": "/tweezerman-mini-slant-tweezer/p/5221994",
   "listName": "Lister",
   "brand": "Tweezerman",
@@ -33,5 +33,6 @@
       "name": "Pincetten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h73/h0e/27398592921630/prd-front-5221994-1_600x600/prd-front-5221994-1-600x600.jpg"
 }
