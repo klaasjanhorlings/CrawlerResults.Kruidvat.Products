@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
   "supplier": "MAE PHARMA BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -37,5 +37,6 @@
       "name": "Mond- en tandgel"
     }
   ],
-  "description": "Medisch hulpmiddel - 15ml"
+  "description": "Medisch hulpmiddel - 15ml",
+  "image": "/medias/sys_master/prd-images/h8e/hd8/34599073185822/prd-front-5935186-1_600x600/prd-front-5935186-1-600x600.jpg"
 }
