@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Soré 18+M Cheese Puffs",
   "code": "6240512",
-  "price": "2.19",
-  "priceOriginal": "",
+  "price": "1.0",
+  "priceOriginal": "2.19",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4338 > 4337",
   "supplier": "SORE BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,19",
   "url": "/sore-18m-cheese-puffs/p/6240512",
   "listName": "Lister",
   "brand": "Sore",
@@ -33,5 +33,6 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "35g"
+  "description": "35g",
+  "image": "/medias/sys_master/prd-images/heb/h26/33065370517534/prd-front-6240512-1_600x600/prd-front-6240512-1-600x600.jpg"
 }

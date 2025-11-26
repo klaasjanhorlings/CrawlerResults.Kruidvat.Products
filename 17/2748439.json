@@ -7,7 +7,7 @@
   "priceOriginal": "11.69",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058128",
   "mmkId": "1058128",
   "productGroupId": "511654",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "400ml - Droge tot zeer droge huid",
-  "image": "/medias/sys_master/prd-images/he3/h51/44918756212766/prd-front-2748439-1_600x600/prd-front-2748439-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc4/h84/44934851395614/prd-front-2748439-1_600x600/prd-front-2748439-1-600x600.jpg"
 }

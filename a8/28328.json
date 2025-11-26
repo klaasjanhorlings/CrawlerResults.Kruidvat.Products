@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "CEDO HOUSEHOLD PRODUCTS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "Intieme verzorging"
     },
     {
-      "id": 30266662,
-      "name": "Maandverband"
+      "id": 30266663,
+      "name": "Inlegkruisjes"
     }
   ],
   "description": "50 stuks",

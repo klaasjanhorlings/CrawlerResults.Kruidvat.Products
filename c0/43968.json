@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Refreshing Gezichtsreinigingsdoekjes",
+  "code": "43968",
+  "price": "1.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1028975",
+  "mmkId": "1028975",
+  "productGroupId": "362258",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-refreshing-gezichtsreinigingsdoekjes/p/43968",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266912,
+      "name": "Reinigingsdoekjes"
+    }
+  ],
+  "description": "25 stuks",
+  "image": "/medias/sys_master/prd-images/h16/h3a/34225517199390/prd-front-43968-1_600x600/prd-front-43968-1-600x600.jpg"
+}

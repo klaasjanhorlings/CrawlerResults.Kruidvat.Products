@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Anti-Spot+ Peeling Serum",
+  "itemName": "Neutrogena Anti-Puistjes+ Peeling Serum",
   "code": "6021321",
   "price": "11.89",
   "priceOriginal": "16.99",
@@ -13,7 +13,7 @@
   "productGroupId": "508340",
   "brandType": "A of B merk",
   "discount": "€ 5,10",
-  "url": "/neutrogena-anti-spot-peeling-serum/p/6021321",
+  "url": "/neutrogena-anti-puistjes-peeling-serum/p/6021321",
   "listName": "Lister",
   "brand": "Neutrogena",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,14 @@
       "name": "Skincare"
     },
     {
-      "id": 84945977,
-      "name": "Exfoliant"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml - Acne en onzuivere huid",
+  "description": "30ml - Onzuivere huid",
   "image": "/medias/sys_master/prd-images/h71/h7d/35124294647838/prd-front-6021321-1_600x600/prd-front-6021321-1-600x600.jpg"
 }

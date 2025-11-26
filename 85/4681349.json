@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058018",
   "mmkId": "1058018",
   "productGroupId": "500151",
@@ -29,8 +29,8 @@
       "name": "Haarverzorging"
     },
     {
-      "id": 30266694,
-      "name": "Shampoo"
+      "id": 30266695,
+      "name": "Conditioner"
     }
   ],
   "description": "300ml - Alle haar- en hoofdhuidtypen",

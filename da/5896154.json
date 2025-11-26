@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Men Anti-Age 2-in-1 Power Serum",
   "code": "5896154",
-  "price": "43.99",
-  "priceOriginal": "",
+  "price": "17.59",
+  "priceOriginal": "43.99",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1058043",
-  "mmkId": "1058043",
-  "productGroupId": "505651",
+  "onPromo": "1058128",
+  "mmkId": "1058128",
+  "productGroupId": "511654",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 26,40",
   "url": "/nivea-men-anti-age-2-in-1-power-serum/p/5896154",
   "listName": "Lister",
   "brand": "Nivea Men",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 80553729,
-      "name": "Gezichtsserum mannen"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
   "description": "30ml",

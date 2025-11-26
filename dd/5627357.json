@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Retinol Boost Serum",
+  "itemName": "Neutrogena Anti-Age Retinol Boost Serum",
   "code": "5627357",
-  "price": "25.2",
+  "price": "25.19",
   "priceOriginal": "35.99",
   "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
   "supplier": "KENVUE",
@@ -12,8 +12,8 @@
   "mmkId": "1058109",
   "productGroupId": "508340",
   "brandType": "A of B merk",
-  "discount": "€ 10,79",
-  "url": "/neutrogena-retinol-boost-serum/p/5627357",
+  "discount": "€ 10,80",
+  "url": "/neutrogena-anti-age-retinol-boost-serum/p/5627357",
   "listName": "Lister",
   "brand": "Neutrogena",
   "mpOrigin": "Kruidvat",
@@ -25,18 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266605,
-      "name": "Serum"
-    },
-    {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
-  "description": "30ml - Alle huidtypen",
+  "description": "30ml - Normale en rijpe huid",
   "image": "/medias/sys_master/prd-images/h35/h19/44799555633182/prd-front-5627357-1_600x600/prd-front-5627357-1-600x600.jpg"
 }

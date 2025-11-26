@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Hydro Boost Aqua Crème",
+  "itemName": "Neutrogena Hydro Boost Aqua Dag- en Nachtcrème",
   "code": "4726709",
   "price": "14.41",
   "priceOriginal": "20.59",
@@ -13,7 +13,7 @@
   "productGroupId": "508340",
   "brandType": "A of B merk",
   "discount": "€ 6,18",
-  "url": "/neutrogena-hydro-boost-aqua-creme/p/4726709",
+  "url": "/neutrogena-hydro-boost-aqua-dag-en-nachtcreme/p/4726709",
   "listName": "Lister",
   "brand": "Neutrogena",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Droge huid",
+  "description": "50ml - Alle huidtypen",
   "image": "/medias/sys_master/prd-images/hd0/h12/44111201271838/prd-front-4726709-1_600x600/prd-front-4726709-1-600x600.jpg"
 }

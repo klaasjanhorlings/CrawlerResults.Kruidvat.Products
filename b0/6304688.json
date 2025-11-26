@@ -25,17 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266916,
-      "name": "Cleanser"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
-  "description": "473ml"
+  "description": "473ml",
+  "image": "/medias/sys_master/prd-images/h66/h88/34427530870814/prd-front-6304688-1_600x600/prd-front-6304688-1-600x600.jpg"
 }

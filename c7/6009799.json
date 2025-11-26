@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058045",
   "mmkId": "1058045",
   "productGroupId": "505700",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h9a/h59/44486069256222/prd-front-6009799-1_600x600/prd-front-6009799-1-600x600.jpg"
+  "description": "150ml"
 }

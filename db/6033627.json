@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 3177 > 3445",
   "supplier": "OMEGA PHARMA NEDERLAND",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058138",
   "mmkId": "1058138",
   "productGroupId": "517041",
@@ -25,12 +25,16 @@
       "name": "Gezondheid"
     },
     {
-      "id": 48220663,
-      "name": "Voetongemakken"
+      "id": 30266008,
+      "name": "Wondverzorging"
     },
     {
-      "id": 48220902,
-      "name": "Blaren"
+      "id": 30266739,
+      "name": "Pleisters"
+    },
+    {
+      "id": 111697443,
+      "name": "Hydrocolloïde pleisters"
     }
   ],
   "description": "Medisch hulpmiddel - 10 stuks",

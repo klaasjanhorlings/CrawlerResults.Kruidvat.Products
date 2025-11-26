@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "outOfStock",
+  "onPromo": "1058155",
+  "mmkId": "1058155",
+  "productGroupId": "511167",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-argan-oil-care-shampoo/p/2979418",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/prd-front-2979418-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjMwNTh8aW1hZ2UvanBlZ3xhRGMzTDJnNU5TOHlOalUzTWpreE1qSXpNRFF6TUM5d2NtUXRabkp2Ym5RdE1qazNPVFF4T0MweFh6WXdNSGcyTURBfDVhOGFmYzY0YWIxZTIxOWNkZWE4YTQwOGYwNGJhMGU3NjExMTRiMTVjZThmMzI4NjU2OGZjNjZlYWFhYWIyZDI"
+  "description": "500ml"
 }

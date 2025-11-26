@@ -25,10 +25,18 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30266960,
+      "name": "Neusdruppels"
     }
   ],
   "description": "18 x 5ml",
-  "image": "/medias/sys_master/prd-images/h00/h25/44920841207838/prd-front-6392377-1_600x600/prd-front-6392377-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb5/h3a/44936670642206/prd-front-6392377-1_600x600/prd-front-6392377-1-600x600.jpg"
 }

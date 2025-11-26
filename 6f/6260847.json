@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Neutrogena Hydro Boost 10% Niacinamide Serum",
+  "itemName": "Neutrogena Hydro Boost 10% Niacinamide Parfumvrij Serum",
   "code": "6260847",
   "price": "14.69",
   "priceOriginal": "20.99",
@@ -13,7 +13,7 @@
   "productGroupId": "508340",
   "brandType": "A of B merk",
   "discount": "€ 6,30",
-  "url": "/neutrogena-hydro-boost-10-niacinamide-serum/p/6260847",
+  "url": "/neutrogena-hydro-boost-10-niacinamide-parfumvrij-serum/p/6260847",
   "listName": "Lister",
   "brand": "Neutrogena",
   "mpOrigin": "Kruidvat",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266605,
-      "name": "Serum"
-    },
-    {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "30ml - Alle huidtypen en gevoelige huid",

@@ -5,7 +5,7 @@
   "code": "2226113",
   "price": "11.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266586,
-      "name": "Eyeliner"
+      "id": 30266585,
+      "name": "Oogpotlood"
     }
   ],
   "description": "",

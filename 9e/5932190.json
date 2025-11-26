@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058034",
   "mmkId": "1058034",
   "productGroupId": "503021",
@@ -33,10 +33,9 @@
       "name": "Gezichtsreiniging"
     },
     {
-      "id": 30266915,
-      "name": "Reinigingsgel"
+      "id": 30266917,
+      "name": "Reinigingscreme"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h87/hfc/44761428819998/prd-front-5932190-1_600x600/prd-front-5932190-1-600x600.jpg"
+  "description": "250ml"
 }

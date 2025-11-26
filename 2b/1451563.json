@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Protect & Care Hydraterende Gezichtscrème",
+  "code": "1451563",
+  "price": "7.2",
+  "priceOriginal": "17.99",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1058128",
+  "mmkId": "1058128",
+  "productGroupId": "511654",
+  "brandType": "A of B merk",
+  "discount": "€ 10,79",
+  "url": "/nivea-men-protect-care-hydraterende-gezichtscreme/p/1451563",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266610,
+      "name": "Gezichtscreme mannen"
+    }
+  ],
+  "description": "75ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hd0/h73/34521311346718/prd-front-1451563-1_600x600/prd-front-1451563-1-600x600.jpg"
+}
