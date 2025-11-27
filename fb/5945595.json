@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Anale Kloofdoekjes",
   "code": "5945595",
   "price": "3.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2500 > 3102 > 4104",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1057995",
   "mmkId": "1057995",
   "productGroupId": "496991",
@@ -37,5 +37,6 @@
       "name": "Anale verzorging"
     }
   ],
-  "description": "25 stuks"
+  "description": "25 stuks",
+  "image": "/medias/sys_master/prd-images/h17/hef/44274964430878/prd-front-5945595-1_600x600/prd-front-5945595-1-600x600.jpg"
 }

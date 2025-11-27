@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bronchostop Direct Nacht 5-in-1 Hoestdrank",
   "code": "5505620",
   "price": "11.99",
@@ -12,7 +12,7 @@
   "mmkId": "1057535",
   "productGroupId": "492507",
   "brandType": "A of B merk",
-  "discount": "€ 4,00",
+  "discount": "$ 4,00",
   "url": "/bronchostop-direct-nacht-5-in-1-hoestdrank/p/5505620",
   "listName": "Lister",
   "brand": "Bronchostop",
@@ -37,6 +37,5 @@
       "name": "Hoestdrank"
     }
   ],
-  "description": "Medisch hulpmiddel - 120ml",
-  "image": "/medias/sys_master/prd-images/h00/hcb/34381669072926/prd-front-5505620-1_600x600/prd-front-5505620-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 120ml"
 }

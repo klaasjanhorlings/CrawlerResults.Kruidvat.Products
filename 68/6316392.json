@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Micro Biotica 7 Bacterie Stammen Capsules",
   "code": "6316392",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Bacteriestammen"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hf1/h54/34836722647070/prd-front-6316392-1_600x600/prd-front-6316392-1-600x600.jpg"
 }

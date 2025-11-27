@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nisita Neuszalf",
   "code": "4133109",
   "price": "7.96",
@@ -12,7 +12,7 @@
   "mmkId": "1057982",
   "productGroupId": "492243",
   "brandType": "A of B merk",
-  "discount": "€ 1,99",
+  "discount": "$ 1,99",
   "url": "/nisita-neuszalf/p/4133109",
   "listName": "Lister",
   "brand": "Nisita",

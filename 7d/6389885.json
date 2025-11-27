@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Neusstrips",
   "code": "6389885",
   "price": "9.99",
@@ -37,6 +37,6 @@
       "name": "Neusstrip"
     }
   ],
-  "description": "30 stuks",
+  "description": "Medisch hulpmiddel - 30 stuks",
   "image": "/medias/sys_master/prd-images/h1a/h11/44939280154654/prd-front-6389885-1_600x600/prd-front-6389885-1-600x600.jpg"
 }

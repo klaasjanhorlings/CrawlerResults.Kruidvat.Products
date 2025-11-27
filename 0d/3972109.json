@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Davitamon Actifit 65+ Omega-3 Visolie Multivitamine & Mineralen Capsules",
   "code": "3972109",
   "price": "14.0",
@@ -12,7 +12,7 @@
   "mmkId": "1057956",
   "productGroupId": "456338",
   "brandType": "A of B merk",
-  "discount": "€ 20,99",
+  "discount": "$ 20,99",
   "url": "/davitamon-actifit-65-omega-3-visolie-multivitamine-mineralen-capsules/p/3972109",
   "listName": "Lister",
   "brand": "Davitamon",
@@ -33,5 +33,6 @@
       "name": "Botten en spieren"
     }
   ],
-  "description": "80 stuks"
+  "description": "80 stuks",
+  "image": "/medias/sys_master/prd-images/h5e/h1c/33142159179806/prd-front-3972109-1_600x600/prd-front-3972109-1-600x600.jpg"
 }

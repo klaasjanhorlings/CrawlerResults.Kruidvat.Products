@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nicorette Fresh Fruit 2mg Suikervrije Kauwgom",
   "code": "1118601",
   "price": "10.79",
@@ -37,6 +37,5 @@
       "name": "Nicotinekauwgom"
     }
   ],
-  "description": "Geneesmiddel - 30 stuks",
-  "image": "/medias/sys_master/prd-images/h92/hb7/34890474749982/prd-front-1118601-1_600x600/prd-front-1118601-1-600x600.jpg"
+  "description": "Geneesmiddel - 30 stuks"
 }

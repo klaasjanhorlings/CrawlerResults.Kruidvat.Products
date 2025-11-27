@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Rennie Deflatine Kauwtabletten",
   "code": "1465276",
   "price": "10.49",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3465",
   "supplier": "BAYER BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Maagzuurremmers"
     }
   ],
-  "description": "Geneesmiddel - 36 stuks",
-  "image": "/medias/sys_master/prd-images/h17/hef/27285075951646/prd-front-1465276-1_600x600/prd-front-1465276-1-600x600.jpg"
+  "description": "Geneesmiddel - 36 stuks"
 }

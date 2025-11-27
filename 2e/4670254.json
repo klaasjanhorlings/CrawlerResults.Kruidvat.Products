@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Davitamon Multi Vrouw Tabletten",
   "code": "4670254",
   "price": "8.0",
@@ -12,7 +12,7 @@
   "mmkId": "1057956",
   "productGroupId": "456338",
   "brandType": "A of B merk",
-  "discount": "€ 11,99",
+  "discount": "$ 11,99",
   "url": "/davitamon-multi-vrouw-tabletten/p/4670254",
   "listName": "Lister",
   "brand": "Davitamon",
@@ -33,6 +33,5 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/hff/hbe/31460324737054/prd-front-4670254-1_600x600/prd-front-4670254-1-600x600.jpg"
+  "description": "60 stuks"
 }

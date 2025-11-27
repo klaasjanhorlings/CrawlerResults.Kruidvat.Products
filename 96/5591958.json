@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Max Factor Crème Puff 041 Pressed Powder",
+  "code": "5591958",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "COTY NETHERLANDS CB SUB",
+  "inStock": "inStock",
+  "onPromo": "1058039",
+  "mmkId": "1058039",
+  "productGroupId": "504056",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/max-factor-creme-puff-041-pressed-powder/p/5591958",
+  "listName": "Lister",
+  "brand": "Max Factor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266587,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "14g",
+  "image": "/medias/sys_master/prd-images/h40/h5e/27622773063710/prd-front-5591958-1_600x600/prd-front-5591958-1-600x600.jpg"
+}

@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Care Plus 50% Deet Anti-Insect Spray",
   "code": "6019788",
   "price": "23.46",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2962 > 3763",
   "supplier": "TROPENZORG BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h42/h7c/44939260493854/prd-front-6019788-1_600x600/prd-front-6019788-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h41/h29/44954287898654/prd-front-6019788-1_600x600/prd-front-6019788-1-600x600.jpg"
 }

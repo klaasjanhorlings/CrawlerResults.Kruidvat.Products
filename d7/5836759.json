@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dagravit Kids Multivitaminen Paw Patrol Gummies",
   "code": "5836759",
   "price": "10.4",
@@ -12,7 +12,7 @@
   "mmkId": "1057997",
   "productGroupId": "498093",
   "brandType": "A of B merk",
-  "discount": "€ 15,59",
+  "discount": "$ 15,59",
   "url": "/dagravit-kids-multivitaminen-paw-patrol-gummies/p/5836759",
   "listName": "Lister",
   "brand": "Dagravit",
@@ -37,6 +37,5 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "120 stuks",
-  "image": "/medias/sys_master/prd-images/hdb/hf1/44934286508062/prd-front-5836759-1_600x600/prd-front-5836759-1-600x600.jpg"
+  "description": "120 stuks"
 }

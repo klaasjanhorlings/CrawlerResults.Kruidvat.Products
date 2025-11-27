@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Iberogast Druppels bij Prikkelbare Maag- en Darmklachten",
   "code": "3549008",
   "price": "9.59",
@@ -37,5 +37,6 @@
       "name": "Maag- en of darmkramp"
     }
   ],
-  "description": "Geneesmiddel - 20ml"
+  "description": "Geneesmiddel - 20ml",
+  "image": "/medias/sys_master/prd-images/h47/hff/33574905217054/prd-front-3549008-1_600x600/prd-front-3549008-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bausch & Lomb -3.25 Maandlenzen",
   "code": "6131900",
   "price": "22.99",
@@ -37,6 +37,5 @@
       "name": "Maandlenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks",
-  "image": "/medias/sys_master/prd-images/h6e/hc2/31942533677086/prd-front-6131900-1_600x600/prd-front-6131900-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 6 stuks"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Micro Klysma",
   "code": "6077720",
   "price": "6.99",
@@ -37,5 +37,6 @@
       "name": "Stoelgang"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks"
+  "description": "Medisch hulpmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/h11/h23/30936916951070/prd-front-6077720-1_600x600/prd-front-6077720-1-600x600.jpg"
 }

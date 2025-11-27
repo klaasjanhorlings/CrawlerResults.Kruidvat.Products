@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mycosan Hielklovenzalf",
   "code": "6238874",
   "price": "11.96",
@@ -12,7 +12,7 @@
   "mmkId": "1057967",
   "productGroupId": "473553",
   "brandType": "Ander merk",
-  "discount": "€ 3,99",
+  "discount": "$ 3,99",
   "url": "/mycosan-hielklovenzalf/p/6238874",
   "listName": "Lister",
   "brand": "Mycosan",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Shiepz Slaapfit Tabletten",
   "code": "3497250",
   "price": "6.4",
@@ -12,7 +12,7 @@
   "mmkId": "1057996",
   "productGroupId": "498092",
   "brandType": "A of B merk",
-  "discount": "€ 9,59",
+  "discount": "$ 9,59",
   "url": "/shiepz-slaapfit-tabletten/p/3497250",
   "listName": "Lister",
   "brand": "Shiepz",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/hdc/h60/44940430639134/prd-front-3497250-1_600x600/prd-front-3497250-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h16/hf6/44954269810718/prd-front-3497250-1_600x600/prd-front-3497250-1-600x600.jpg"
 }

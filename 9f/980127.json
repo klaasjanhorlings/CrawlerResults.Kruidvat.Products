@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1058155",
-  "mmkId": "1058155",
-  "productGroupId": "511167",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-fresh-herbal-shampoo/p/980127",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/prd-front-980127-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ3MzV8aW1hZ2UvanBlZ3xhR0U1TDJnellpOHhOelF3TmpBeU5UUXpNekV4T0M5d2NtUXRabkp2Ym5RdE9UZ3dNVEkzTFRGZk5qQXdlRFl3TUF8NGNmODg4NDQzODc5NDQ2NDkwODU1MTJjYzNlYWViZDJkNDQ5NDdjN2QxNTQ0ZDExZTljNWQ5ZjI0YmJmNjJjNw"
+  "description": "500ml"
 }

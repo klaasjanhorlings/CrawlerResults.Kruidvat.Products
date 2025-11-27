@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pluggerz True Tone Oordoppen",
   "code": "6296666",
   "price": "20.95",
@@ -37,6 +37,5 @@
       "name": "Oordoppen"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/hd0/h36/34756872405022/prd-front-6296666-1_600x600/prd-front-6296666-1-600x600.jpg"
+  "description": "2 stuks"
 }

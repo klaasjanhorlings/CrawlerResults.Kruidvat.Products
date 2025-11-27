@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Roter Paracetamol 500mg Tabletten",
   "code": "6392622",
   "price": "4.39",
@@ -37,6 +37,5 @@
       "name": "Paracetamol"
     }
   ],
-  "description": "Geneesmiddel - 50 stuks",
-  "image": "/medias/sys_master/prd-images/h24/h7f/44701021765662/prd-front-6392622-1_600x600/prd-front-6392622-1-600x600.jpg"
+  "description": "Geneesmiddel - 50 stuks"
 }

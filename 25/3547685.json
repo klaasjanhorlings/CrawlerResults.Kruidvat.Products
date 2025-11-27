@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Vitamine C Complex met Zink Kauwtabletten",
   "code": "3547685",
   "price": "3.89",
@@ -37,5 +37,6 @@
       "name": "Vitamine C"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h66/h93/33349092245534/prd-front-3547685-1_600x600/prd-front-3547685-1-600x600.jpg"
 }

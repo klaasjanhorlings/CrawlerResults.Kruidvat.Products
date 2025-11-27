@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Durex Sensitive Glijmiddel",
   "code": "5299239",
-  "price": "24.99",
-  "priceOriginal": "",
+  "price": "12.49",
+  "priceOriginal": "24.99",
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1058163",
+  "mmkId": "1058163",
+  "productGroupId": "513695",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "$ 12,50",
   "url": "/durex-sensitive-glijmiddel/p/5299239",
   "listName": "Lister",
   "brand": "Durex",
@@ -37,5 +37,6 @@
       "name": "Waterbasis glijmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 250ml"
+  "description": "Medisch hulpmiddel - 250ml",
+  "image": "/medias/sys_master/prd-images/hbb/ha8/31060985151518/prd-front-5299239-1_600x600/prd-front-5299239-1-600x600.jpg"
 }

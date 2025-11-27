@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Foliumzuur met Vitamine D3 Tabletten",
   "code": "23891",
   "price": "3.49",
@@ -33,5 +33,6 @@
       "name": "Zwangerschapssupplementen"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/hb5/hef/33120487997470/prd-front-23891-1_600x600/prd-front-23891-1-600x600.jpg"
 }

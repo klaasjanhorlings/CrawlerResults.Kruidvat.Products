@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dr. Scholl's Schokreductie Inlegzolen",
   "code": "6255884",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Inlegzolen"
     }
   ],
-  "description": "one size, 2 stuks"
+  "description": "one size, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h41/h1a/34316426772510/prd-front-6255884-1_600x600/prd-front-6255884-1-600x600.jpg"
 }

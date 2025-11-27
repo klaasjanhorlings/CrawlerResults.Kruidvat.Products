@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Opticare -2.00 Zachte Maandlenzen",
   "code": "3663003",
   "price": "15.99",
@@ -37,5 +37,6 @@
       "name": "Maandlenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks"
+  "description": "Medisch hulpmiddel - 6 stuks",
+  "image": "/medias/prd-front-3663003-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzY2NDF8aW1hZ2UvanBlZ3xhRGszTDJnNU5DOHhOelEwTnpJeU1EUTNOems0TWk5d2NtUXRabkp2Ym5RdE16WTJNekF3TXkweFh6WXdNSGcyTURBfDljZGZjODY1MDlkOTJkNmNlN2UyNGU3Y2RlODI4Nzk5MjUzODc1OWQ1Y2FjMjJjMjhkODlkMDFjMWVmZjhiOWI"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mycosan Kalknagelpleister",
   "code": "6238895",
   "price": "11.99",
@@ -12,7 +12,7 @@
   "mmkId": "1057967",
   "productGroupId": "473553",
   "brandType": "Ander merk",
-  "discount": "€ 4,00",
+  "discount": "$ 4,00",
   "url": "/mycosan-kalknagelpleister/p/6238895",
   "listName": "Lister",
   "brand": "Mycosan",
