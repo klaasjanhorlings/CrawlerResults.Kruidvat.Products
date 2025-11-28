@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Ovulatietest",
   "code": "2639127",
   "price": "14.99",
@@ -37,6 +37,5 @@
       "name": "Ovulatietesten"
     }
   ],
-  "description": "7 stuks",
-  "image": "/medias/sys_master/prd-images/h83/h1f/34595105570846/prd-front-2639127-1_600x600/prd-front-2639127-1-600x600.jpg"
+  "description": "7 stuks"
 }

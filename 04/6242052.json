@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1058191",
+  "mmkId": "1058191",
+  "productGroupId": "506370",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-sunkisser-35-spritzy-orange-hazy-matte-blush/p/6242052",
@@ -29,10 +29,9 @@
       "name": "Make-up"
     },
     {
-      "id": 30266589,
-      "name": "Highlighter"
+      "id": 30266590,
+      "name": "Blush"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h42/ha4/44801700855838/prd-front-6242052-1_600x600/prd-front-6242052-1-600x600.jpg"
+  "description": ""
 }

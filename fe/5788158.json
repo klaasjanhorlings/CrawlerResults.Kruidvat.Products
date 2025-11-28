@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6143 > 6144",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "1,1ml"
+  "description": "1,1ml",
+  "image": "/medias/sys_master/prd-images/he2/h17/29939206619166/prd-front-5788158-1_600x600/prd-front-5788158-1-600x600.jpg"
 }

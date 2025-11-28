@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5929 > 6014 > 2153 > 5034 > 5035 > 4879",
   "supplier": "SUPPLIES SERVICE PARTN",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Printers"
     }
   ],
-  "description": "zwart, kleur",
-  "image": "/medias/sys_master/prd-images/h11/h7d/27508112228382/prd-front-5611460-1_600x600/prd-front-5611460-1-600x600.jpg"
+  "description": "zwart, kleur"
 }

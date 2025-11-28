@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bisolnasal Neusspray",
   "code": "2016925",
   "price": "6.69",
@@ -37,6 +37,5 @@
       "name": "Neusspray"
     }
   ],
-  "description": "Geneesmiddel - 10ml",
-  "image": "/medias/sys_master/prd-images/h61/h46/34692675895326/prd-front-2016925-1_600x600/prd-front-2016925-1-600x600.jpg"
+  "description": "Geneesmiddel - 10ml"
 }

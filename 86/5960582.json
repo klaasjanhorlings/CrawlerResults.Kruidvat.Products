@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Drs Leenarts Droge Handen Crème",
   "code": "5960582",
-  "price": "5.94",
-  "priceOriginal": "8.49",
+  "price": "8.49",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6760 > 6762 > 6761 > 6759 > 6758",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "1058112",
-  "mmkId": "1058112",
-  "productGroupId": "508344",
+  "onPromo": "1058196",
+  "mmkId": "1058196",
+  "productGroupId": "514870",
   "brandType": "A of B merk",
-  "discount": "€ 2,55",
+  "discount": "",
   "url": "/drs-leenarts-droge-handen-creme/p/5960582",
   "listName": "Lister",
   "brand": "Drs Leenarts",
@@ -33,5 +33,6 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hb4/h0e/33953818542110/prd-front-5960582-1_600x600/prd-front-5960582-1-600x600.jpg"
 }

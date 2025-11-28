@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Roter Paracetamol Junior 250mg Smelttabletten",
   "code": "2128015",
   "price": "6.99",
@@ -37,5 +37,6 @@
       "name": "Pijnstiller"
     }
   ],
-  "description": "Geneesmiddel - 20 stuks"
+  "description": "Geneesmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h35/h3c/31774197055518/prd-front-2128015-1_600x600/prd-front-2128015-1-600x600.jpg"
 }

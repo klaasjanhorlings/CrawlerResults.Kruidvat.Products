@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Sensation Condooms",
   "code": "4264240",
   "price": "3.69",
@@ -33,5 +33,6 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel - 9 stuks"
+  "description": "Medisch hulpmiddel - 9 stuks",
+  "image": "/medias/sys_master/prd-images/hde/h3c/44661284175902/prd-front-4264240-1_600x600/prd-front-4264240-1-600x600.jpg"
 }

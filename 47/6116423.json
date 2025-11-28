@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
   "supplier": "CLEMENTONI SPA",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,12 +25,8 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266026,
-      "name": "Baby- en peuterspeelgoed"
-    },
-    {
-      "id": 49281541,
-      "name": "Interactief speelgoed"
+      "id": 30266029,
+      "name": "Poppen en knuffels"
     }
   ],
   "description": "",

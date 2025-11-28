@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Calcium Magnesium Bot Formule Tabletten",
   "code": "4427172",
   "price": "20.99",
@@ -37,6 +37,5 @@
       "name": "Calcium"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/prd-front-4427172-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODk5NjN8aW1hZ2UvanBlZ3xhR0poTDJneFlTOHhOalUxTVRBMk5qUXdNamcwTmk5d2NtUXRabkp2Ym5RdE5EUXlOekUzTWkweFh6WXdNSGcyTURBfDk2NTQ5ZjdhNzU0NzFmNTJhMTc1MjZiNWUyYzQ1NWVjMTZhMjM1MDY2YjRiMzAzMTIyY2Y2NmVlNzk4ZjhkODQ"
+  "description": "60 stuks"
 }

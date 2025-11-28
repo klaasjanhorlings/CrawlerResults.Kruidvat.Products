@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "8ml",
-  "image": "/medias/sys_master/prd-images/he6/hac/34631260864542/prd-front-5664912-1_600x600/prd-front-5664912-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc1/h8e/44969725231134/prd-front-5664912-1_600x600/prd-front-5664912-1-600x600.jpg"
 }

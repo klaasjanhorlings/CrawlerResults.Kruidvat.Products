@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "A.Vogel Atrosan Tabletten",
   "code": "4225628",
   "price": "39.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 3956",
   "supplier": "A.VOGEL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "Geneesmiddel - 120 stuks",
-  "image": "/medias/sys_master/prd-images/h98/h86/33348518838302/prd-front-4225628-1_600x600/prd-front-4225628-1-600x600.jpg"
+  "description": "Geneesmiddel - 120 stuks"
 }

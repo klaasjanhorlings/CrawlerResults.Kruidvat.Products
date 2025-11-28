@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ohropax Oordopjes",
   "code": "5525017",
   "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6717 > 6719 > 6718",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -37,6 +37,5 @@
       "name": "Oordoppen"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/h9e/hd7/34182478692382/prd-front-5525017-1_600x600/prd-front-5525017-1-600x600.jpg"
+  "description": "10 stuks"
 }

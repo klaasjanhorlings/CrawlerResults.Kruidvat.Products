@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Hair & Brow Clear Magic Wand",
   "code": "6317701",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "4.0",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1058187",
+  "mmkId": "1058187",
+  "productGroupId": "503541",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 3,99",
   "url": "/mcobeauty-hair-brow-clear-magic-wand/p/6317701",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwgel"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h8c/h3e/34826207199262/prd-front-6317701-1_600x600/prd-front-6317701-1-600x600.jpg"
+  "description": "10ml"
 }

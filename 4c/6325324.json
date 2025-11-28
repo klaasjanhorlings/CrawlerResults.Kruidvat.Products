@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3673 > 5724",
   "supplier": "REMARK GROEP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Badschuim"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h93/hcf/44038111100958/prd-front-6325324-1_600x600/prd-front-6325324-1-600x600.jpg"
+  "description": "400ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Priorin Capsules",
   "code": "1233408",
   "price": "27.97",
@@ -12,7 +12,7 @@
   "mmkId": "1057986",
   "productGroupId": "495730",
   "brandType": "A of B merk",
-  "discount": "$ 9,32",
+  "discount": "€ 9,32",
   "url": "/priorin-capsules/p/1233408",
   "listName": "Lister",
   "brand": "Priorin",

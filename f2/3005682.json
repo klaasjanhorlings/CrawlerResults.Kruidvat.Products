@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "inStock": "outOfStock",
+  "onPromo": "1058191",
+  "mmkId": "1058191",
+  "productGroupId": "506370",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-220-sand-spf25-32h-fresh-wear-foundation/p/3005682",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/ha1/h22/44839489830942/prd-front-3005682-1_600x600/prd-front-3005682-1-600x600.jpg"
+  "description": "30ml"
 }

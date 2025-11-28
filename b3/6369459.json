@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058198",
+  "mmkId": "1058198",
+  "productGroupId": "516678",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/alessandro-striplac-uv-colour-102-heavens-nude-nagellak/p/6369459",
@@ -29,10 +29,9 @@
       "name": "Nagels"
     },
     {
-      "id": 72476685,
-      "name": "Gellak"
+      "id": 30266584,
+      "name": "Nagellak"
     }
   ],
-  "description": "6,5ml",
-  "image": "/medias/sys_master/prd-images/h44/hec/44255428018206/prd-front-6369459-1_600x600/prd-front-6369459-1-600x600.jpg"
+  "description": "6,5ml"
 }

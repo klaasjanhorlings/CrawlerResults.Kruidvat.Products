@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1058191",
+  "mmkId": "1058191",
+  "productGroupId": "506370",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-24h-760-pink-spice-lippenstift/p/2035538",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h51/h26/44652929417246/prd-front-2035538-1_600x600/prd-front-2035538-1-600x600.jpg"
 }

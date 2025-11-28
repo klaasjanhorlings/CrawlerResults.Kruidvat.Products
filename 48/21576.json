@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Toco-Tholin Druppels",
   "code": "21576",
   "price": "5.69",
@@ -37,5 +37,6 @@
       "name": "Spierwrijfmiddelen"
     }
   ],
-  "description": "6ml"
+  "description": "6ml",
+  "image": "/medias/sys_master/prd-images/h58/h99/32877152272414/prd-front-21576-1_600x600/prd-front-21576-1-600x600.jpg"
 }

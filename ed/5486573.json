@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 4354 > 4355",
   "supplier": "UCC COFFEE BENELUX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "36 stuks",
-  "image": "/medias/sys_master/prd-images/h06/hc8/44953561202718/prd-front-5486573-1_600x600/prd-front-5486573-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf3/hee/44970624942110/prd-front-5486573-1_600x600/prd-front-5486573-1-600x600.jpg"
 }

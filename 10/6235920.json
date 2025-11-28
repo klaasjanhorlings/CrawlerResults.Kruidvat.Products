@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Infaillible Laque Resistance 601 Worth It Lippenstift",
   "code": "6235920",
-  "price": "8.0",
-  "priceOriginal": "18.99",
+  "price": "18.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058061",
-  "mmkId": "1058061",
-  "productGroupId": "506355",
+  "onPromo": "1058191",
+  "mmkId": "1058191",
+  "productGroupId": "506370",
   "brandType": "A of B merk",
-  "discount": "€ 10,99",
+  "discount": "",
   "url": "/loreal-paris-infaillible-laque-resistance-601-worth-it-lippenstift/p/6235920",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0f/h13/35062472081438/prd-front-6235920-1_600x600/prd-front-6235920-1-600x600.jpg"
 }

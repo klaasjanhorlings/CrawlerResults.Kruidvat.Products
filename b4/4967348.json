@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nicorette Mint 1mg Suikervrije Mondspray",
   "code": "4967348",
   "price": "54.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 3940",
   "supplier": "KENVUE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Nicotinesprays"
     }
   ],
-  "description": "Geneesmiddel - 2 stuks"
+  "description": "Geneesmiddel - 2 stuks",
+  "image": "/medias/sys_master/prd-images/hc9/h07/44787214516254/prd-front-4967348-1_600x600/prd-front-4967348-1-600x600.jpg"
 }

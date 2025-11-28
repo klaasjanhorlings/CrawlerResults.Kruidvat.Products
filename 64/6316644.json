@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Glow Up Blush Red pH Powder Blush",
   "code": "6316644",
-  "price": "12.99",
-  "priceOriginal": "",
+  "price": "6.5",
+  "priceOriginal": "12.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "outOfStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1058187",
+  "mmkId": "1058187",
+  "productGroupId": "503541",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 6,49",
   "url": "/mcobeauty-glow-up-blush-red-ph-powder-blush/p/6316644",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "4,4g"
+  "description": "4,4g",
+  "image": "/medias/sys_master/prd-images/h1c/h6a/34829910736926/prd-front-6316644-1_600x600/prd-front-6316644-1-600x600.jpg"
 }

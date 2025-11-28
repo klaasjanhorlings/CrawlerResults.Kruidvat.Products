@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Telescopic Lift Extra Black Mascara",
   "code": "5783286",
-  "price": "10.0",
-  "priceOriginal": "21.99",
+  "price": "21.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058058",
-  "mmkId": "1058058",
-  "productGroupId": "506352",
+  "onPromo": "1058191",
+  "mmkId": "1058191",
+  "productGroupId": "506370",
   "brandType": "A of B merk",
-  "discount": "€ 11,99",
+  "discount": "",
   "url": "/loreal-paris-telescopic-lift-extra-black-mascara/p/5783286",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "9,9ml, Gezien Op TikTok"
+  "description": "9,9ml, Gezien Op TikTok",
+  "image": "/medias/sys_master/prd-images/hb5/h9c/44972212944926/prd-front-5783286-1_600x600/prd-front-5783286-1-600x600.jpg"
 }

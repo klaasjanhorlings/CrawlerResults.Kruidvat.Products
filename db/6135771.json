@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Power Bullet",
   "code": "6135771",
   "price": "11.99",
@@ -41,6 +41,5 @@
       "name": "Mini vibrators"
     }
   ],
-  "description": "48g",
-  "image": "/medias/sys_master/prd-images/h3a/h04/31449150193694/prd-front-6135771-1_600x600/prd-front-6135771-1-600x600.jpg"
+  "description": "48g"
 }

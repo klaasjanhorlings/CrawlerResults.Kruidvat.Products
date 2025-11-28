@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058198",
+  "mmkId": "1058198",
+  "productGroupId": "516678",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/depend-gel-iq-back-in-black-gellak/p/6312430",
@@ -33,5 +33,6 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/hd3/hcc/34890411933726/prd-front-6312430-1_600x600/prd-front-6312430-1-600x600.jpg"
 }

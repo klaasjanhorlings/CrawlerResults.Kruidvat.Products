@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 3020 > 3845",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1010662",
   "mmkId": "1010662",
   "productGroupId": "242521",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "mt 4+ (9-14 kg), 42 stuks"
+  "description": "mt 4+ (9-14 kg), 42 stuks",
+  "image": "/medias/sys_master/prd-images/h5a/h63/44968785936414/prd-front-5156691-1_600x600/prd-front-5156691-1-600x600.jpg"
 }

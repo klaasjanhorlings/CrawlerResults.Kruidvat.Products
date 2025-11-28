@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "12 stuks",
-  "image": "/medias/prd-front-5768162-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTA2ODE1fGltYWdlL2pwZWd8YUdJeUwyaGlaUzh4TnpFMU9ETTVOemd5TURrMU9DOXdjbVF0Wm5KdmJuUXROVGMyT0RFMk1pMHhYell3TUhnMk1EQXw4YTAxYmFlODE3MDNlOWQyNGYxY2Y3MDIwMzE0ZGU4ZDNkZjQ2YzdlMjRkMjM4YWJkMDc4MTBkODg3OWY3Mzdj"
+  "description": "12 stuks"
 }

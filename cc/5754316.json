@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L’Oréal Paris 5.5D/W True Match Foundation",
   "code": "5754316",
-  "price": "7.0",
-  "priceOriginal": "19.99",
+  "price": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058059",
-  "mmkId": "1058059",
-  "productGroupId": "506353",
+  "onPromo": "1058191",
+  "mmkId": "1058191",
+  "productGroupId": "506370",
   "brandType": "A of B merk",
-  "discount": "€ 12,99",
+  "discount": "",
   "url": "/loreal-paris-55d/w-true-match-foundation/p/5754316",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hec/h62/35064455856158/prd-front-5754316-1_600x600/prd-front-5754316-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h9a/haa/44972209733662/prd-front-5754316-1_600x600/prd-front-5754316-1-600x600.jpg"
 }

@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Carelastin Extra Sterk Neusspray",
   "code": "5611047",
   "price": "17.95",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 6529 > 2756 > 4146",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Hooikoorts neussprays"
     }
   ],
-  "description": "Geneesmiddel - 10ml"
+  "description": "Geneesmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h80/ha5/44933591400478/prd-front-5611047-1_600x600/prd-front-5611047-1-600x600.jpg"
 }

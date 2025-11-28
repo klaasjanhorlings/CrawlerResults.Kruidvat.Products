@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Opticare Harde Lenzen Conditioner",
   "code": "56675",
   "price": "4.39",
@@ -33,6 +33,5 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "Medisch hulpmiddel - 120ml",
-  "image": "/medias/sys_master/prd-images/h6c/h49/28538777108510/prd-front-56675-1_600x600/prd-front-56675-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 120ml"
 }

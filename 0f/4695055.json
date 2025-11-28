@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon Magnesiumcitraat + Magnesiumoxide Tabletten",
   "code": "4695055",
   "price": "5.8",
@@ -12,7 +12,7 @@
   "mmkId": "1057956",
   "productGroupId": "456338",
   "brandType": "A of B merk",
-  "discount": "$ 8,69",
+  "discount": "€ 8,69",
   "url": "/davitamon-magnesiumcitraat-magnesiumoxide-tabletten/p/4695055",
   "listName": "Lister",
   "brand": "Davitamon",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/he5/he7/31451750727710/prd-front-4695055-1_600x600/prd-front-4695055-1-600x600.jpg"
 }

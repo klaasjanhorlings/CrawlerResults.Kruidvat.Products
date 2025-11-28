@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris True Match Nude 0.5-2 Very Light Plumping Tinted Serum",
   "code": "5899808",
-  "price": "7.0",
-  "priceOriginal": "24.99",
+  "price": "24.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058059",
-  "mmkId": "1058059",
-  "productGroupId": "506353",
+  "onPromo": "1058191",
+  "mmkId": "1058191",
+  "productGroupId": "506370",
   "brandType": "A of B merk",
-  "discount": "€ 17,99",
+  "discount": "",
   "url": "/loreal-paris-true-match-nude-05-2-very-light-plumping-tinted-serum/p/5899808",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h01/hd8/35066726547486/prd-front-5899808-1_600x600/prd-front-5899808-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h9e/h44/44972215042078/prd-front-5899808-1_600x600/prd-front-5899808-1-600x600.jpg"
 }

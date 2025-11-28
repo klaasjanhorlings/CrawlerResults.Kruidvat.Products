@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Loperamide HCl Diarreeremmer 2mg Smelttabletten",
   "code": "5567647",
   "price": "4.79",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2765 > 3471",
   "supplier": "AUROBINDO PHARMA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Geneesmiddel - 10 stuks",
-  "image": "/medias/sys_master/prd-images/hb0/hd9/44952395743262/prd-front-5567647-1_600x600/prd-front-5567647-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hce/hb7/44969153724446/prd-front-5567647-1_600x600/prd-front-5567647-1-600x600.jpg"
 }

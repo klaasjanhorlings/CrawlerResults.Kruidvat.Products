@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
   "supplier": "STORCK BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "250g",
-  "image": "/medias/sys_master/prd-images/ha3/h60/44953554059294/prd-front-68974-1_600x600/prd-front-68974-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc7/hd8/44969569320990/prd-front-68974-1_600x600/prd-front-68974-1-600x600.jpg"
 }

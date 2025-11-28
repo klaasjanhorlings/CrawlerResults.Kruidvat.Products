@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Drs Leenarts Baby Wascrème",
   "code": "5894159",
-  "price": "7.69",
-  "priceOriginal": "10.99",
+  "price": "10.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "1058112",
-  "mmkId": "1058112",
-  "productGroupId": "508344",
+  "onPromo": "1058196",
+  "mmkId": "1058196",
+  "productGroupId": "514870",
   "brandType": "A of B merk",
-  "discount": "€ 3,30",
+  "discount": "",
   "url": "/drs-leenarts-baby-wascreme/p/5894159",
   "listName": "Lister",
   "brand": "Drs Leenarts",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h76/h08/44959360909342/prd-front-5894159-1_600x600/prd-front-5894159-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h34/h93/44970641784862/prd-front-5894159-1_600x600/prd-front-5894159-1-600x600.jpg"
 }

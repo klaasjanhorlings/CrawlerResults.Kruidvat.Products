@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "KALEGRA COSMETICS GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058107",
   "mmkId": "1058107",
   "productGroupId": "508267",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "1,2g"
+  "description": "1,2g",
+  "image": "/medias/sys_master/prd-images/h9c/hdb/32085818638366/prd-front-6155035-1_600x600/prd-front-6155035-1-600x600.jpg"
 }

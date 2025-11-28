@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2130 > 2317 > 2718 > 3421 > 4362",
   "supplier": "MUNDIA BV",
   "inStock": "inStock",
-  "onPromo": "1058011",
-  "mmkId": "1058011",
-  "productGroupId": "498801",
+  "onPromo": "1058181",
+  "mmkId": "1058181",
+  "productGroupId": "498774",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-matrasbeschermer/p/6284185",
@@ -37,5 +37,6 @@
       "name": "Babymatrasbeschermers"
     }
   ],
-  "description": "wit, 60cm x 120cm"
+  "description": "wit, 60cm x 120cm",
+  "image": "/medias/sys_master/prd-images/h24/h7f/33642391502878/prd-front-6284185-1_600x600/prd-front-6284185-1-600x600.jpg"
 }

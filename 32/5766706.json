@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Drs Leenarts Baby Bergzalf",
   "code": "5766706",
-  "price": "11.1",
-  "priceOriginal": "15.85",
+  "price": "15.85",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "1058112",
-  "mmkId": "1058112",
-  "productGroupId": "508344",
+  "onPromo": "1058196",
+  "mmkId": "1058196",
+  "productGroupId": "514870",
   "brandType": "A of B merk",
-  "discount": "€ 4,75",
+  "discount": "",
   "url": "/drs-leenarts-baby-bergzalf/p/5766706",
   "listName": "Lister",
   "brand": "Drs Leenarts",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h14/h25/34918293340190/prd-front-5766706-1_600x600/prd-front-5766706-1-600x600.jpg"
+  "description": "50ml"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058043",
   "mmkId": "1058043",
   "productGroupId": "505651",
@@ -33,5 +33,6 @@
       "name": "Haarmousse"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h1c/hf8/33984574193694/prd-front-20674-1_600x600/prd-front-20674-1-600x600.jpg"
 }

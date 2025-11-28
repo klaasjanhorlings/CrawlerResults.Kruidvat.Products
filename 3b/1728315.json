@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Isla Mint Pastilles",
   "code": "1728315",
   "price": "4.79",
@@ -12,7 +12,7 @@
   "mmkId": "1057982",
   "productGroupId": "492243",
   "brandType": "A of B merk",
-  "discount": "$ 1,20",
+  "discount": "€ 1,20",
   "url": "/isla-mint-pastilles/p/1728315",
   "listName": "Lister",
   "brand": "isla",

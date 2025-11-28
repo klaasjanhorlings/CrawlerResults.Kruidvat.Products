@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "FEMIA COSMETIC",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Alle huidtypes",
-  "image": "/medias/sys_master/prd-images/h62/h3b/30121553297438/prd-front-6034908-1_600x600/prd-front-6034908-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hfb/h88/44983044243486/prd-front-6034908-1_600x600/prd-front-6034908-1-600x600.jpg"
 }

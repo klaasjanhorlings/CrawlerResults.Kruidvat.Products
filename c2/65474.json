@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Nachtrust Tabletten",
   "code": "65474",
   "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/hb9/hde/33116393275422/prd-front-65474-1_600x600/prd-front-65474-1-600x600.jpg"
+  "description": "90 stuks"
 }

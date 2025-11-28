@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Vitamine D3 Gummies",
   "code": "5245479",
   "price": "16.49",
@@ -33,5 +33,6 @@
       "name": "Botten en spieren"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/prd-front-5245479-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzI3Mzl8aW1hZ2UvanBlZ3xhR1poTDJnME5TOHhOall4TVRRME1UWXdOalk0Tmk5d2NtUXRabkp2Ym5RdE5USTBOVFEzT1MweFh6WXdNSGcyTURBfDEwYzM5ODU0MzZlYzgxMjAxNmQ3OTc1ZTMwMmM4ZTcwMWU3Yjc0NDM2N2I1YzVmMjlhOGJjYWY2ZTgzZjhjYTI"
 }

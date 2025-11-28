@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2183 > 5177 > 5271 > 5460 > 5921 > 6040",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Speelfiguren"
     }
   ],
-  "description": "30cm",
-  "image": "/medias/sys_master/prd-images/hbd/hca/44113830805534/prd-front-6343762-1_600x600/prd-front-6343762-1-600x600.jpg"
+  "description": "30cm"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Langwerpig Kersenpitkussen",
   "code": "6224909",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Warmteproducten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd6/he6/33341041704990/prd-front-6224909-1_600x600/prd-front-6224909-1-600x600.jpg"
 }

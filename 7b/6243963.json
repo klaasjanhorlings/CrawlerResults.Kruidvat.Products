@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2153 > 2632 > 5929 > 6014 > 6424 > 6446",
   "supplier": "I-STAR WORLD BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Speakers en accessoires"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7d/h30/33258239819806/prd-front-6243963-1_600x600/prd-front-6243963-1-600x600.jpg"
 }

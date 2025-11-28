@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1053299",
   "mmkId": "1053299",
   "productGroupId": "498419",
@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 30266639,
-      "name": "Bodyolie"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50048154,
+      "name": "Verzorging probleemhuid"
     }
   ],
   "description": "100ml, alle huidtypes",

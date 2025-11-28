@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hansaplast Aqua Protect Kids 100% Waterproof Pleisters",
   "code": "6220233",
   "price": "4.79",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 3775",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/hab/h89/44954299760670/prd-front-6220233-1_600x600/prd-front-6220233-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h54/ha8/44972222316574/prd-front-6220233-1_600x600/prd-front-6220233-1-600x600.jpg"
 }

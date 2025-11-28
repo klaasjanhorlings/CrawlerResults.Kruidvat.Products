@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Blush"
     }
   ],
-  "description": "6g",
-  "image": "/medias/sys_master/prd-images/hec/hb9/35009788477470/prd-front-6344952-1_600x600/prd-front-6344952-1-600x600.jpg"
+  "description": "6g"
 }

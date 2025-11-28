@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Infaillible 24H 213 Toujours Teaberry Lipstick",
   "code": "5783720",
-  "price": "8.0",
-  "priceOriginal": "21.99",
+  "price": "21.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058061",
-  "mmkId": "1058061",
-  "productGroupId": "506355",
+  "onPromo": "1058191",
+  "mmkId": "1058191",
+  "productGroupId": "506370",
   "brandType": "A of B merk",
-  "discount": "€ 13,99",
+  "discount": "",
   "url": "/loreal-paris-infaillible-24h-213-toujours-teaberry-lipstick/p/5783720",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "5,6ml",
-  "image": "/medias/sys_master/prd-images/hf8/h26/35067171962910/prd-front-5783720-1_600x600/prd-front-5783720-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf1/hee/44972213272606/prd-front-5783720-1_600x600/prd-front-5783720-1-600x600.jpg"
 }

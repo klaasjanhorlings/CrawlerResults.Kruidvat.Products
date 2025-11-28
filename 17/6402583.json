@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Haar Volume Capsules",
   "code": "6402583",
   "price": "49.99",
@@ -29,5 +29,6 @@
       "name": "Nieuw"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/he1/hc5/44448620085278/prd-front-6402583-1_600x600/prd-front-6402583-1-600x600.jpg"
 }

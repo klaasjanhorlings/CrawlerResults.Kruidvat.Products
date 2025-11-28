@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "4640 > 5189 > 5365 > 5554 > 5921 > 6040",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Houten speelsets"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h58/h46/34795196612638/prd-front-6324421-1_600x600/prd-front-6324421-1-600x600.jpg"
 }

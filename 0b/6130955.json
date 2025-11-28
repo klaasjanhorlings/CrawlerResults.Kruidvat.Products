@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "3,5ml"
+  "description": "3,5ml",
+  "image": "/medias/sys_master/prd-images/ha9/hc7/31927666114590/prd-front-6130955-1_600x600/prd-front-6130955-1-600x600.jpg"
 }

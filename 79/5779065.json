@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Cetaphil Hydraterende Crème",
   "code": "5779065",
-  "price": "15.58",
-  "priceOriginal": "22.25",
+  "price": "22.25",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1058110",
-  "mmkId": "1058110",
-  "productGroupId": "508341",
+  "onPromo": "1058196",
+  "mmkId": "1058196",
+  "productGroupId": "514870",
   "brandType": "A of B merk",
-  "discount": "€ 6,67",
+  "discount": "",
   "url": "/cetaphil-hydraterende-creme/p/5779065",
   "listName": "Lister",
   "brand": "Cetaphil",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "450g - Droge en gevoelige huid",

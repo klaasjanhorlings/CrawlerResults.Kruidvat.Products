@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Telescopic Lift Black Mascara",
   "code": "5782824",
-  "price": "10.0",
-  "priceOriginal": "21.99",
+  "price": "21.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058058",
-  "mmkId": "1058058",
-  "productGroupId": "506352",
+  "onPromo": "1058191",
+  "mmkId": "1058191",
+  "productGroupId": "506370",
   "brandType": "A of B merk",
-  "discount": "€ 11,99",
+  "discount": "",
   "url": "/loreal-paris-telescopic-lift-black-mascara/p/5782824",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "9,9ml, Gezien Op TikTok",
-  "image": "/medias/sys_master/prd-images/h00/hf0/44968991784990/prd-front-5782824-1_600x600/prd-front-5782824-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd6/h5b/44983230005278/prd-front-5782824-1_600x600/prd-front-5782824-1-600x600.jpg"
 }

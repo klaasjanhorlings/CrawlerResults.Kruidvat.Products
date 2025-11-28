@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Otalgan Comfort Oordopjes",
   "code": "976333",
   "price": "3.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6719 > 6718",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -37,5 +37,6 @@
       "name": "Oordoppen"
     }
   ],
-  "description": "2 paar"
+  "description": "2 paar",
+  "image": "/medias/sys_master/prd-images/hb3/h9b/29568988119070/prd-front-976333-1_600x600/prd-front-976333-1-600x600.jpg"
 }

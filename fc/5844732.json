@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon Vitamine D3 75mcg Smelttabletten",
   "code": "5844732",
   "price": "5.2",
@@ -12,7 +12,7 @@
   "mmkId": "1057956",
   "productGroupId": "456338",
   "brandType": "A of B merk",
-  "discount": "$ 7,79",
+  "discount": "€ 7,79",
   "url": "/davitamon-vitamine-d3-75mcg-smelttabletten/p/5844732",
   "listName": "Lister",
   "brand": "Davitamon",
@@ -33,5 +33,6 @@
       "name": "Botten en spieren"
     }
   ],
-  "description": "75 stuks"
+  "description": "75 stuks",
+  "image": "/medias/sys_master/prd-images/h28/h9f/44144624107550/prd-front-5844732-1_600x600/prd-front-5844732-1-600x600.jpg"
 }

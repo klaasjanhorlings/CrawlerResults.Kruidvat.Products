@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Natural Matte Mousse 43 Even Finish Foundation",
-  "code": "6017380",
-  "price": "3.99",
+  "itemName": "Essence Soft Touch 30 Exotic Daisy Bouncy Blush",
+  "code": "6349285",
+  "price": "2.69",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-natural-matte-mousse-43-even-finish-foundation/p/6017380",
+  "url": "/essence-soft-touch-30-exotic-daisy-bouncy-blush/p/6349285",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266577,
-      "name": "Foundation"
+      "id": 30266590,
+      "name": "Blush"
     }
   ],
-  "description": "16g",
-  "image": "/medias/sys_master/prd-images/h73/h57/34677941993502/prd-front-6017380-1_600x600/prd-front-6017380-1-600x600.jpg"
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/hd6/h36/44124721119262/prd-front-6349285-1_600x600/prd-front-6349285-1-600x600.jpg"
 }
