@@ -25,17 +25,18 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266605,
+      "name": "Serum"
     },
     {
-      "id": 90760960,
-      "name": "Korean serum"
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h9b/h90/34532211163166/prd-front-6200388-1_600x600/prd-front-6200388-1-600x600.jpg"
 }

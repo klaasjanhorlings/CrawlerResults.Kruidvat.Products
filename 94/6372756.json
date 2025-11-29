@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
   "supplier": "INTERNATIONAL LACQUERS SA",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058107",
   "mmkId": "1058107",
   "productGroupId": "508267",
@@ -33,6 +33,5 @@
       "name": "Nagellak"
     }
   ],
-  "description": "9ml",
-  "image": "/medias/sys_master/prd-images/h22/h74/44483097362462/prd-front-6372756-1_600x600/prd-front-6372756-1-600x600.jpg"
+  "description": "9ml"
 }

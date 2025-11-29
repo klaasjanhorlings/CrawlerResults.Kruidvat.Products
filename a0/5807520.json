@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6700 > 5896",
   "supplier": "YARI BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "355ml",
-  "image": "/medias/prd-front-5807520-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjU4Mjd8aW1hZ2UvanBlZ3xhR1ExTDJobE15OHlOamc1TmpreE16QXdOall5TWk5d2NtUXRabkp2Ym5RdE5UZ3dOelV5TUMweFh6WXdNSGcyTURBfDcyOTAxOTFkYmRhMjFiMWRkMjUwZTQxYzhmYjg5YmU1NTk4MmM3MjI4M2Y1N2Y4ZmY3MjJiODIwMDE5NWY2YWQ"
+  "description": "355ml"
 }

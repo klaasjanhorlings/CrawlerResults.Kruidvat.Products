@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3465",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Maagzuurremmers"
     }
   ],
-  "description": "Geneesmiddel - 48 stuks"
+  "description": "Geneesmiddel - 48 stuks",
+  "image": "/medias/prd-front-4726562-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzA3NTd8aW1hZ2UvanBlZ3xhR0V6TDJnNE15OHlOekUyTnpVNU56STVOelk1TkM5d2NtUXRabkp2Ym5RdE5EY3lOalUyTWkweFh6WXdNSGcyTURBfGRiYmZlNzVlMjVlOTJiMWJlOGM3YTJjYWI4YWM4ZTMwMzA0NDk3MTBiZWI5NDU5YmVlZWYyMzE4NTg5MThhYmI"
 }

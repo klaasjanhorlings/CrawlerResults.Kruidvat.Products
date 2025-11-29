@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -37,5 +37,6 @@
       "name": "Hoestsiropen"
     }
   ],
-  "description": "Medisch hulpmiddel - 150ml"
+  "description": "Medisch hulpmiddel - 150ml",
+  "image": "/medias/sys_master/prd-images/hea/h72/44940433129502/prd-front-4967292-1_600x600/prd-front-4967292-1-600x600.jpg"
 }

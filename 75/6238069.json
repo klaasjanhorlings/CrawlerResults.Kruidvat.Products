@@ -7,7 +7,7 @@
   "priceOriginal": "6.49",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 2942 > 3736",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Afwasmiddel"
     }
   ],
-  "description": "820ml",
-  "image": "/medias/sys_master/prd-images/ha1/h74/33185807564830/prd-front-6238069-1_600x600/prd-front-6238069-1-600x600.jpg"
+  "description": "820ml"
 }

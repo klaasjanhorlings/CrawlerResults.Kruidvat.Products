@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "KENVUE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058196",
   "mmkId": "1058196",
   "productGroupId": "514870",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "200ml - Onzuivere huid",
-  "image": "/medias/sys_master/prd-images/hc0/h8f/35128361156638/prd-front-6019795-1_600x600/prd-front-6019795-1-600x600.jpg"
+  "description": "200ml - Onzuivere huid"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1053275",
   "mmkId": "1053275",
   "productGroupId": "497662",
@@ -37,5 +37,6 @@
       "name": "Babylotion"
     }
   ],
-  "description": "6 x 400 ml"
+  "description": "6 x 400 ml",
+  "image": "/medias/sys_master/prd-images/h15/hed/34484834926622/prd-front-6327025-1_600x600/prd-front-6327025-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Lip Plump Emily - Nude Pink 4-in-1 Hydrating Lacquer",
   "code": "6318373",
-  "price": "4.49",
-  "priceOriginal": "8.99",
+  "price": "8.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "VIDACORP NETHERLANDS B.V.",
-  "inStock": "outOfStock",
-  "onPromo": "1058187",
-  "mmkId": "1058187",
-  "productGroupId": "503541",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 4,50",
+  "discount": "",
   "url": "/mcobeauty-lip-plump-emily-nude-pink-4-in-1-hydrating-lacquer/p/6318373",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,6 +37,5 @@
       "name": "Lip plumper"
     }
   ],
-  "description": "2g",
-  "image": "/medias/sys_master/prd-images/hff/hdd/44118853353502/prd-front-6318373-1_600x600/prd-front-6318373-1-600x600.jpg"
+  "description": "2g"
 }

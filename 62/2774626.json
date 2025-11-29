@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 3263 > 4162",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Zuigelingenmelk"
     }
   ],
-  "description": "800g"
+  "description": "800g",
+  "image": "/medias/sys_master/prd-images/h67/h86/33887615713310/prd-front-2774626-1_600x600/prd-front-2774626-1-600x600.jpg"
 }

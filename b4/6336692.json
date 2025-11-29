@@ -7,7 +7,7 @@
   "priceOriginal": "9.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "BRANSUS COSM ULTIMATCH",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058199",
   "mmkId": "1058199",
   "productGroupId": "520593",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266588,
-      "name": "Bronzer"
+      "id": 30266590,
+      "name": "Blush"
     }
   ],
   "description": "9g",

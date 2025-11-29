@@ -7,7 +7,7 @@
   "priceOriginal": "18.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058055",
   "mmkId": "1058055",
   "productGroupId": "506348",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h10/hd6/44651862622238/prd-front-1557949-1_600x600/prd-front-1557949-1-600x600.jpg"
 }

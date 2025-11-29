@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -31,6 +31,10 @@
     {
       "id": 73443650,
       "name": "Korean Skincare"
+    },
+    {
+      "id": 90760765,
+      "name": "Korean dagcreme"
     }
   ],
   "description": "50g",

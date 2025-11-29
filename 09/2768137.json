@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3676",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058010",
   "mmkId": "1058010",
   "productGroupId": "498715",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "200ml - Alle huidtypes"
+  "description": "200ml - Alle huidtypes",
+  "image": "/medias/sys_master/prd-images/hb4/h1a/44856624742430/prd-front-2768137-1_600x600/prd-front-2768137-1-600x600.jpg"
 }

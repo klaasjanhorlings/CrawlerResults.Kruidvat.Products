@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2725 > 4152",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Eczeemcreme"
     }
   ],
-  "description": "Medisch hulpmiddel - 50ml",
-  "image": "/medias/sys_master/prd-images/hf0/hd5/31388008742942/prd-front-6126027-1_600x600/prd-front-6126027-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 50ml"
 }

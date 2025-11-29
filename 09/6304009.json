@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "ELF BEAUTY UK LIMITED",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059018",
   "mmkId": "1059018",
   "productGroupId": "527105",
@@ -33,8 +33,8 @@
       "name": "Gezichtsreiniging"
     },
     {
-      "id": 30266917,
-      "name": "Reinigingscreme"
+      "id": 87390033,
+      "name": "Reinigingsbalsem"
     }
   ],
   "description": "56,5g",

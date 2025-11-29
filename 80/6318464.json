@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Lip Plump Luella - Nude Melon 4-in-1 Hydrating Lacquer",
   "code": "6318464",
-  "price": "4.5",
-  "priceOriginal": "8.99",
+  "price": "8.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1058187",
-  "mmkId": "1058187",
-  "productGroupId": "503541",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 4,49",
+  "discount": "",
   "url": "/mcobeauty-lip-plump-luella-nude-melon-4-in-1-hydrating-lacquer/p/6318464",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Lip plumper"
     }
   ],
-  "description": "2g"
+  "description": "2g",
+  "image": "/medias/sys_master/prd-images/h8a/hae/34868551483422/prd-front-6318464-1_600x600/prd-front-6318464-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058191",
   "mmkId": "1058191",
   "productGroupId": "506370",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfe/he2/44810842734622/prd-front-5580569-1_600x600/prd-front-5580569-1-600x600.jpg"
 }

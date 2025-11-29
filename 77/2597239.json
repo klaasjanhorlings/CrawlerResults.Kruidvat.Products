@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Hoestdrank"
     }
   ],
-  "description": "Geneesmiddel - Bij vastzittende hoest door taai slijm, 200ml"
+  "description": "Geneesmiddel - Bij vastzittende hoest door taai slijm, 200ml",
+  "image": "/medias/sys_master/prd-images/h9c/h79/29038219788318/prd-front-2597239-1_600x600/prd-front-2597239-1-600x600.jpg"
 }
