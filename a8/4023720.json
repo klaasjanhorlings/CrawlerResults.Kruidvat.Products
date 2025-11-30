@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
   "supplier": "BIZZY DIAMOND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058130",
   "mmkId": "1058130",
   "productGroupId": "511733",
@@ -33,5 +33,6 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel - 24 stuks"
+  "description": "Medisch hulpmiddel - 24 stuks",
+  "image": "/medias/sys_master/prd-images/he8/hf1/31639558651934/prd-front-4023720-1_600x600/prd-front-4023720-1-600x600.jpg"
 }

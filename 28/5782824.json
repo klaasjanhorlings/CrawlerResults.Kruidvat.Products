@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058191",
   "mmkId": "1058191",
   "productGroupId": "506370",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "9,9ml, Gezien Op TikTok",
-  "image": "/medias/sys_master/prd-images/hd6/h5b/44983230005278/prd-front-5782824-1_600x600/prd-front-5782824-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hab/hac/45002081402910/prd-front-5782824-1_600x600/prd-front-5782824-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "13.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058128",
   "mmkId": "1058128",
   "productGroupId": "511654",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/h2e/h59/44983560601630/prd-front-1385546-1_600x600/prd-front-1385546-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h01/h93/45004088737822/prd-front-1385546-1_600x600/prd-front-1385546-1-600x600.jpg"
 }

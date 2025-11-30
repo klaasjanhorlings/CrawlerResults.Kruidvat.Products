@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "KENVUE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058196",
   "mmkId": "1058196",
   "productGroupId": "514870",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "400ml - Alle huidtypen"
+  "description": "400ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hd0/h2d/35125385658398/prd-front-4726625-1_600x600/prd-front-4726625-1-600x600.jpg"
 }

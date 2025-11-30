@@ -7,7 +7,7 @@
   "priceOriginal": "8.28",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058128",
   "mmkId": "1058128",
   "productGroupId": "511654",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "250ml - Droge tot zeer droge huid"
+  "description": "250ml - Droge tot zeer droge huid",
+  "image": "/medias/sys_master/prd-images/hec/h79/44939142070302/prd-front-2727593-1_600x600/prd-front-2727593-1-600x600.jpg"
 }
