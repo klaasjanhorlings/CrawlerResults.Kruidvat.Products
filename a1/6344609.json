@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/catrice-butter-like-020-shape-it-my-way-bronze-contour-palette/p/6344609",
@@ -33,5 +33,6 @@
       "name": "Bronzer"
     }
   ],
-  "description": "9g"
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/hfb/hb9/35016394702878/prd-front-6344609-1_600x600/prd-front-6344609-1-600x600.jpg"
 }

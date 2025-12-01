@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Invisible Highwaist Damesslip",
   "code": "6327879",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "4.5",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2001 > 2095 > 2150 > 2644 > 6616 > 6619",
   "supplier": "BECONNECTED HK LTD",
   "inStock": "inStock",
-  "onPromo": "1058122",
-  "mmkId": "1058122",
-  "productGroupId": "510573",
+  "onPromo": "1058330",
+  "mmkId": "1058330",
+  "productGroupId": "498760",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 4,49",
   "url": "/kruidvat-invisible-highwaist-damesslip/p/6327879",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "beige, mt L",
-  "image": "/medias/sys_master/prd-images/h82/h9b/44970662232094/prd-front-6327879-1_600x600/prd-front-6327879-1-600x600.jpg"
+  "description": "beige, mt L"
 }

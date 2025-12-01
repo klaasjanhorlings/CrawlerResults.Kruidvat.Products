@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Invisible Antitranspirant Roller",
   "code": "6046234",
-  "price": "1.0",
-  "priceOriginal": "1.19",
+  "price": "1.19",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "1058012",
-  "mmkId": "1058012",
-  "productGroupId": "498914",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
-  "discount": "€ 0,19",
+  "discount": "",
   "url": "/kruidvat-invisible-antitranspirant-roller/p/6046234",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h0e/h65/30425976700958/prd-front-6046234-1_600x600/prd-front-6046234-1-600x600.jpg"
 }

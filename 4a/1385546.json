@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Voedende Nachtcrème",
   "code": "1385546",
-  "price": "5.6",
+  "price": "6.99",
   "priceOriginal": "13.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
-  "onPromo": "1058128",
-  "mmkId": "1058128",
-  "productGroupId": "511654",
+  "inStock": "inStock",
+  "onPromo": "1058248",
+  "mmkId": "1058248",
+  "productGroupId": "474466",
   "brandType": "A of B merk",
-  "discount": "€ 8,39",
+  "discount": "€ 7,00",
   "url": "/nivea-voedende-nachtcreme/p/1385546",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/h01/h93/45004088737822/prd-front-1385546-1_600x600/prd-front-1385546-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he2/h32/45014977806366/prd-front-1385546-1_600x600/prd-front-1385546-1-600x600.jpg"
 }

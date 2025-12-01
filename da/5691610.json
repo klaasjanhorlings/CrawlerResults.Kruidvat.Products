@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058191",
-  "mmkId": "1058191",
-  "productGroupId": "506370",
+  "onPromo": "1058303",
+  "mmkId": "1058303",
+  "productGroupId": "496152",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-95d/w-true-match-foundation/p/5691610",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hef/hb7/45025758347294/prd-front-5691610-1_600x600/prd-front-5691610-1-600x600.jpg"
 }

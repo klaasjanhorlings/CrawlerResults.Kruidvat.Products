@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058396",
+  "mmkId": "1058396",
+  "productGroupId": "506342",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-604-milk-jumbo-eye-pencil/p/6130248",
@@ -33,6 +33,5 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "2g",
-  "image": "/medias/sys_master/prd-images/hb3/h3a/31925890875422/prd-front-6130248-1_600x600/prd-front-6130248-1-600x600.jpg"
+  "description": "2g"
 }

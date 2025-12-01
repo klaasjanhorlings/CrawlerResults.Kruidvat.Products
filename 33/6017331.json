@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-even-finish-04-natural-matte-mousse-foundation/p/6017331",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "16g",
-  "image": "/medias/sys_master/prd-images/h71/h49/45002461642782/prd-front-6017331-1_600x600/prd-front-6017331-1-600x600.jpg"
+  "description": "16g"
 }

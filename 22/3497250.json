@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Shiepz Slaapfit Tabletten",
   "code": "3497250",
-  "price": "6.4",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1057996",
-  "mmkId": "1057996",
-  "productGroupId": "498092",
+  "onPromo": "1058324",
+  "mmkId": "1058324",
+  "productGroupId": "497596",
   "brandType": "A of B merk",
-  "discount": "€ 9,59",
+  "discount": "",
   "url": "/shiepz-slaapfit-tabletten/p/3497250",
   "listName": "Lister",
   "brand": "Shiepz",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h7d/had/45007753117726/prd-front-3497250-1_600x600/prd-front-3497250-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h99/h9f/45019524595742/prd-front-3497250-1_600x600/prd-front-3497250-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6780",
   "supplier": "UNIVERSAL COSMETICS BV",
-  "inStock": "outOfStock",
-  "onPromo": "1058107",
-  "mmkId": "1058107",
-  "productGroupId": "508267",
+  "inStock": "inStock",
+  "onPromo": "1058334",
+  "mmkId": "1058334",
+  "productGroupId": "499081",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-glass-glow-10-highlighter-powder/p/6372812",
@@ -33,5 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": "10g"
+  "description": "10g",
+  "image": "/medias/sys_master/prd-images/h01/h57/44482235990046/prd-front-6372812-1_600x600/prd-front-6372812-1-600x600.jpg"
 }

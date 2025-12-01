@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/pretty-me-pimple-patches/p/6113693",
@@ -33,6 +33,5 @@
       "name": "Pimple patches"
     }
   ],
-  "description": "24 stuks",
-  "image": "/medias/sys_master/prd-images/hd6/h41/34353894326302/prd-front-6113693-1_600x600/prd-front-6113693-1-600x600.jpg"
+  "description": "24 stuks"
 }

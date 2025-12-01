@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tristar Wafelijzer",
+  "code": "6190525",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 2454 > 2957 > 3751 > 5929 > 6019",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tristar-wafelijzer/p/6190525",
+  "listName": "Lister",
+  "brand": "Tristar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053282,
+      "name": "Keukenapparatuur"
+    },
+    {
+      "id": 84926423,
+      "name": "Snackapparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h33/h17/32105801678878/prd-front-6190525-1_600x600/prd-front-6190525-1-600x600.jpg"
+}

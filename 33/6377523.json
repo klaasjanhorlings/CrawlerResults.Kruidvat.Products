@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Xelly Beauty 3W Cream Foundation Stick",
   "code": "6377523",
-  "price": "9.75",
-  "priceOriginal": "12.99",
+  "price": "12.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "BRANSUS COSM ULTIMATCH",
   "inStock": "inStock",
-  "onPromo": "1058199",
-  "mmkId": "1058199",
-  "productGroupId": "520593",
+  "onPromo": "1058322",
+  "mmkId": "1058322",
+  "productGroupId": "497363",
   "brandType": "A of B merk",
-  "discount": "€ 3,24",
+  "discount": "",
   "url": "/xelly-beauty-3w-cream-foundation-stick/p/6377523",
   "listName": "Lister",
   "brand": "XELLY BEAUTY",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "12g",
-  "image": "/medias/sys_master/prd-images/h04/h76/44504305238046/prd-front-6377523-1_600x600/prd-front-6377523-1-600x600.jpg"
+  "description": "12g"
 }

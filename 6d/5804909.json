@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-20-stay-all-day-14h-concealer/p/5804909",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "7ml, 20",
-  "image": "/medias/sys_master/prd-images/hce/hb5/45002444341278/prd-front-5804909-1_600x600/prd-front-5804909-1-600x600.jpg"
+  "description": "7ml, 20"
 }

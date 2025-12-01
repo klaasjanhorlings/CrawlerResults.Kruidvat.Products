@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
   "supplier": "RAVENSBURGER BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058352",
+  "mmkId": "1058352",
+  "productGroupId": "500722",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/stitch-mini-memory/p/6343230",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7e/h51/34918459244574/prd-front-6343230-1_600x600/prd-front-6343230-1-600x600.jpg"
+  "description": ""
 }

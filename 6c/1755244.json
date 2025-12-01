@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Triple Active Dagcrème",
   "code": "1755244",
-  "price": "4.4",
-  "priceOriginal": "10.99",
+  "price": "10.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1058035",
-  "mmkId": "1058035",
-  "productGroupId": "503032",
+  "onPromo": "1058297",
+  "mmkId": "1058297",
+  "productGroupId": "495829",
   "brandType": "A of B merk",
-  "discount": "€ 6,59",
+  "discount": "",
   "url": "/loreal-paris-triple-active-dagcreme/p/1755244",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Gevoelige huid"
+  "description": "50ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hf0/h93/28799247777822/prd-front-1755244-1_600x600/prd-front-1755244-1-600x600.jpg"
 }

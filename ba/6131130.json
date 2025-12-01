@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Jumbo Lash Eyeliner",
+  "code": "6131130",
+  "price": "12.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1058396",
+  "mmkId": "1058396",
+  "productGroupId": "506342",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-jumbo-lash-eyeliner/p/6131130",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266586,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "1ml",
+  "image": "/medias/sys_master/prd-images/hb2/h37/31931341242398/prd-front-6131130-1_600x600/prd-front-6131130-1-600x600.jpg"
+}

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dagravit Kids-Xtra Paw Patrol 3-5 jaar Kauwtabletten",
   "code": "1207179",
-  "price": "4.8",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6195 > 6213 > 6243",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
-  "onPromo": "1057997",
-  "mmkId": "1057997",
-  "productGroupId": "498093",
+  "inStock": "outOfStock",
+  "onPromo": "1058324",
+  "mmkId": "1058324",
+  "productGroupId": "497596",
   "brandType": "A of B merk",
-  "discount": "€ 7,19",
+  "discount": "",
   "url": "/dagravit-kids-xtra-paw-patrol-3-5-jaar-kauwtabletten/p/1207179",
   "listName": "Lister",
   "brand": "Dagravit",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/haa/h86/45001266036766/prd-front-1207179-1_600x600/prd-front-1207179-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf9/hb0/45014466101278/prd-front-1207179-1_600x600/prd-front-1207179-1-600x600.jpg"
 }

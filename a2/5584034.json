@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 4226",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1058034",
-  "mmkId": "1058034",
-  "productGroupId": "503021",
+  "onPromo": "1058297",
+  "mmkId": "1058297",
+  "productGroupId": "495829",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-revitalift-5-glycolic-acid-peeling-toner/p/5584034",
@@ -37,5 +37,6 @@
       "name": "Toner"
     }
   ],
-  "description": "180ml"
+  "description": "180ml",
+  "image": "/medias/sys_master/prd-images/h51/h6a/34986429317150/prd-front-5584034-1_600x600/prd-front-5584034-1-600x600.jpg"
 }

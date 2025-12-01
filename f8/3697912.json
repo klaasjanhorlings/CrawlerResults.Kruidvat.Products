@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1058072",
-  "mmkId": "1058072",
-  "productGroupId": "506783",
+  "onPromo": "1058413",
+  "mmkId": "1058413",
+  "productGroupId": "506979",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-magic-retouch-middenblond-camouflerende-uitgroeispray/p/3697912",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h41/hc7/44887364370462/prd-front-3697912-1_600x600/prd-front-3697912-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York SuperStay Matte Ink 50 Voyager Matte Lippenstift",
   "code": "5589263",
-  "price": "7.0",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058054",
-  "mmkId": "1058054",
-  "productGroupId": "506347",
+  "onPromo": "1058304",
+  "mmkId": "1058304",
+  "productGroupId": "496158",
   "brandType": "A of B merk",
-  "discount": "€ 8,99",
+  "discount": "",
   "url": "/maybelline-new-york-superstay-matte-ink-50-voyager-matte-lippenstift/p/5589263",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/he5/hf4/44843131469854/prd-front-5589263-1_600x600/prd-front-5589263-1-600x600.jpg"
 }

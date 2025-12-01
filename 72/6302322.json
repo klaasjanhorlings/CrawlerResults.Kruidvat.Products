@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Therme Zen White Lotus Hair- & Bodymist",
   "code": "6302322",
-  "price": "10.0",
-  "priceOriginal": "13.99",
+  "price": "13.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1058027",
-  "mmkId": "1058027",
-  "productGroupId": "500813",
+  "onPromo": "1058274",
+  "mmkId": "1058274",
+  "productGroupId": "489404",
   "brandType": "A of B merk",
-  "discount": "€ 3,99",
+  "discount": "",
   "url": "/therme-zen-white-lotus-hair-bodymist/p/6302322",
   "listName": "Lister",
   "brand": "Therme",
@@ -33,6 +33,5 @@
       "name": "Bodymist"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h50/hb7/34113423015966/prd-front-6302322-1_600x600/prd-front-6302322-1-600x600.jpg"
+  "description": "200ml"
 }

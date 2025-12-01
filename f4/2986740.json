@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
-  "onPromo": "1058034",
-  "mmkId": "1058034",
-  "productGroupId": "503021",
+  "inStock": "outOfStock",
+  "onPromo": "1058391",
+  "mmkId": "1058391",
+  "productGroupId": "506218",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-skinactive-alles-in-1-micellair-reinigingswater/p/2986740",
@@ -37,5 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml - Gevoelige huid"
+  "description": "400ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hc9/h11/35155580715038/prd-front-2986740-1_600x600/prd-front-2986740-1-600x600.jpg"
 }

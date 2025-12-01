@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
   "supplier": "HEGRON COSMETICS BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058415",
+  "mmkId": "1058415",
+  "productGroupId": "507024",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-solait-tan-maximiser-aftersun/p/2776978",
@@ -33,6 +33,5 @@
       "name": "Aftersun"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hb4/h62/29991337590814/prd-front-2776978-1_600x600/prd-front-2776978-1-600x600.jpg"
+  "description": "200ml"
 }

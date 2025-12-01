@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Relaxing Geschenkset",
+  "code": "6198533",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1012132",
+  "mmkId": "1012132",
+  "productGroupId": "",
+  "brandType": "A or B brand",
+  "discount": "",
+  "url": "/kneipp-relaxing-geschenkset/p/6198533",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72656138,
+      "name": "Geschenkset voor haar"
+    },
+    {
+      "id": 87397518,
+      "name": "Bad & douche geschenksets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h79/h23/32335369338910/prd-front-6198533-1_600x600/prd-front-6198533-1-600x600.jpg"
+}

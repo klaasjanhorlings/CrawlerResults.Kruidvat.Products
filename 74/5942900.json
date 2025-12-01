@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 6134 > 6135 > 6133",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-bright-eyes-01-under-eye-stick/p/5942900",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "5,5ml",
-  "image": "/medias/sys_master/prd-images/h1b/h28/45006900559902/prd-front-5942900-1_600x600/prd-front-5942900-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h67/had/45018792853534/prd-front-5942900-1_600x600/prd-front-5942900-1-600x600.jpg"
 }

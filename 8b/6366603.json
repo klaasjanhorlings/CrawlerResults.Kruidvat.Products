@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Ledtheelichten",
   "code": "6366603",
-  "price": "2.99",
-  "priceOriginal": "",
+  "price": "2.24",
+  "priceOriginal": "2.99",
   "itemBgbcat": "2146 > 5926 > 5980 > 5997 > 6679 > 6732",
   "supplier": "I-STAR WORLD BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058319",
+  "mmkId": "1058319",
+  "productGroupId": "497112",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 0,75",
   "url": "/kruidvat-ledtheelichten/p/6366603",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "12 stuks",
-  "image": "/medias/sys_master/prd-images/h0f/ha9/45002109517854/prd-front-6366603-1_600x600/prd-front-6366603-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h69/hf1/45015103438878/prd-front-6366603-1_600x600/prd-front-6366603-1-600x600.jpg"
 }

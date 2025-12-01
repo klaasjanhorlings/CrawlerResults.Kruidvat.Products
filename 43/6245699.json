@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-bright-eyes-2-under-eye-stick/p/6245699",
@@ -33,6 +33,5 @@
       "name": "Primer"
     }
   ],
-  "description": "5g",
-  "image": "/medias/sys_master/prd-images/hac/ha5/33483833212958/prd-front-6245699-1_600x600/prd-front-6245699-1-600x600.jpg"
+  "description": "5g"
 }

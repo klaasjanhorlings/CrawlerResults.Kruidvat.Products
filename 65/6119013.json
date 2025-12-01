@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Oud Wood & Chinese Pepper Eau de Parfum",
   "code": "6119013",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "5.99",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "MORE LABELS GROUP BV",
   "inStock": "inStock",
-  "onPromo": "1058025",
-  "mmkId": "1058025",
-  "productGroupId": "500804",
+  "onPromo": "1058346",
+  "mmkId": "1058346",
+  "productGroupId": "500662",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/kruidvat-oud-wood-chinese-pepper-eau-de-parfum/p/6119013",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Unisex parfum"
     }
   ],
-  "description": "50ml - Unisex"
+  "description": "50ml - Unisex",
+  "image": "/medias/sys_master/prd-images/he3/h59/32303362244638/prd-front-6119013-1_600x600/prd-front-6119013-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
   "supplier": "SANATURE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058484",
+  "mmkId": "1058484",
+  "productGroupId": "509743",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-100-cotton-long-plus-ultra-maandverband/p/4612616",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "10 stuks",
-  "image": "/medias/sys_master/prd-images/h1c/h93/28228227530782/prd-front-4612616-1_600x600/prd-front-4612616-1-600x600.jpg"
+  "description": "10 stuks"
 }

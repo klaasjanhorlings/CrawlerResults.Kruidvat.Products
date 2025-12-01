@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "4870 > 6017 > 2173 > 2427 > 3260 > 4158",
   "supplier": "FUJIFILM IMAGING PRODUC",
-  "inStock": "inStock",
-  "onPromo": "1057989",
-  "mmkId": "1057989",
-  "productGroupId": "496131",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fujifilm-instax-mini-instant-film-fotopapier/p/4983791",
@@ -33,5 +33,6 @@
       "name": "Instax fotopapier"
     }
   ],
-  "description": "2 x 10 stuks"
+  "description": "2 x 10 stuks",
+  "image": "/medias/prd-front-4983791-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzA5NDR8aW1hZ2UvanBlZ3xhRFV6TDJoa1pDOHhOalUwTmpnME9USTVNak14T0M5d2NtUXRabkp2Ym5RdE5EazRNemM1TVMweFh6WXdNSGcyTURBfDVlNjJjZmFkYTg2N2M5NzU0NzRmMmJiZGMwODdmNmNjYjllYTllNGQ2NTg0YmNjOGVkYzM5ZGE4N2Q2NWMzM2M"
 }

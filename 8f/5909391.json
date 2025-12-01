@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "CeraVe Verbeterende Oogcrème ",
   "code": "5909391",
-  "price": "12.12",
-  "priceOriginal": "18.65",
+  "price": "18.65",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "LOREAL NED B.V.",
-  "inStock": "inStock",
-  "onPromo": "1058111",
-  "mmkId": "1058111",
-  "productGroupId": "508342",
+  "inStock": "outOfStock",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 6,53",
+  "discount": "",
   "url": "/cerave-verbeterende-oogcreme-/p/5909391",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "14 ml"
+  "description": "14 ml",
+  "image": "/medias/sys_master/prd-images/h64/he3/35125401059358/prd-front-5909391-1_600x600/prd-front-5909391-1-600x600.jpg"
 }

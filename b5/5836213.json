@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1058043",
-  "mmkId": "1058043",
-  "productGroupId": "505651",
+  "onPromo": "1058240",
+  "mmkId": "1058240",
+  "productGroupId": "471212",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-derma-dry-control-antitranspirant-spray/p/5836213",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h4c/h9c/34567318831134/prd-front-5836213-1_600x600/prd-front-5836213-1-600x600.jpg"
 }

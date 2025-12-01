@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/essence-baby-got-blush-30-dusty-rose-liquid-blush/p/6000615",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "10ml",
-  "image": "/medias/sys_master/prd-images/hd7/hbd/45004229509150/prd-front-6000615-1_600x600/prd-front-6000615-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h23/haa/45015131422750/prd-front-6000615-1_600x600/prd-front-6000615-1-600x600.jpg"
 }

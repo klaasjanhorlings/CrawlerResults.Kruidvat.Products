@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2885 > 4228 > 5693",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "1058101",
-  "mmkId": "1058101",
-  "productGroupId": "508179",
+  "onPromo": "1058435",
+  "mmkId": "1058435",
+  "productGroupId": "507338",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-sonicare-g3-premium-gum-care-opzetborstels/p/6291332",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "zwart, 2 stuks"
+  "description": "zwart, 2 stuks",
+  "image": "/medias/sys_master/prd-images/had/h57/35025580458014/prd-front-6291332-1_600x600/prd-front-6291332-1-600x600.jpg"
 }

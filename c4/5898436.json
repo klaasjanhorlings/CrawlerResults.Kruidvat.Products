@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 3114 > 3611 > 6786",
   "supplier": "EAST MIDLANDS PHARMA LTD",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -33,5 +33,6 @@
       "name": "Oogdruppels"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 ml"
+  "description": "Medisch hulpmiddel - 10 ml",
+  "image": "/medias/sys_master/prd-images/he1/hbb/30088192426014/prd-front-5898436-1_600x600/prd-front-5898436-1-600x600.jpg"
 }

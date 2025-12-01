@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Multi Speed Vibrator",
   "code": "6135778",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "14.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2006 > 2070 > 2156 > 6401 > 6463 > 6464",
   "supplier": "SCALA 2.0 BV",
-  "inStock": "outOfStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "inStock",
+  "onPromo": "1058367",
+  "mmkId": "1058367",
+  "productGroupId": "502153",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/kruidvat-multi-speed-vibrator/p/6135778",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -41,5 +41,6 @@
       "name": "Tarzan vibrators"
     }
   ],
-  "description": "152g"
+  "description": "152g",
+  "image": "/medias/sys_master/prd-images/h62/hb5/31451772289054/prd-front-6135778-1_600x600/prd-front-6135778-1-600x600.jpg"
 }

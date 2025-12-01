@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 5710 > 5711 > 5712",
   "supplier": "EMIL KIESSLING GMBH",
-  "inStock": "inStock",
-  "onPromo": "1058072",
-  "mmkId": "1058072",
-  "productGroupId": "506783",
+  "inStock": "outOfStock",
+  "onPromo": "1058458",
+  "mmkId": "1058458",
+  "productGroupId": "508400",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-men-brown-haarkleuring/p/1317618",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf5/hf4/44712326266910/prd-front-1317618-1_600x600/prd-front-1317618-1-600x600.jpg"
 }

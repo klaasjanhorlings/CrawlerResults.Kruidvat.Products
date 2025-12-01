@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "The Master Perfumer Nr. 36 Noir Ignite Eau de Toilette",
+  "code": "6410073",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "MORE LABELS GROUP BV",
+  "inStock": "outOfStock",
+  "onPromo": "1058334",
+  "mmkId": "1058334",
+  "productGroupId": "499081",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/the-master-perfumer-nr-36-noir-ignite-eau-de-toilette/p/6410073",
+  "listName": "Lister",
+  "brand": "The Master Perfumer",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654823,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h52/ha7/44776960065566/prd-front-6410073-1_600x600/prd-front-6410073-1-600x600.jpg"
+}

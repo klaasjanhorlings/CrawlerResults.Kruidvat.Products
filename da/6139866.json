@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Derma Exfoliërende Toner",
   "code": "6139866",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "4.79",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "MARION PRIVATE LABEL",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058251",
+  "mmkId": "1058251",
+  "productGroupId": "475366",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 1,20",
   "url": "/kruidvat-derma-exfolierende-toner/p/6139866",
   "listName": "Lister",
   "brand": "KRUIDVAT DERMA",
@@ -37,5 +37,6 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "200ml - Onzuivere huid"
+  "description": "200ml - Onzuivere huid",
+  "image": "/medias/sys_master/prd-images/h21/h0a/34533909856286/prd-front-6139866-1_600x600/prd-front-6139866-1-600x600.jpg"
 }

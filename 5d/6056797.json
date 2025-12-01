@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6323 > 6674",
   "supplier": "ZENNER NIEUW VENNEP BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zenner-style-go-haarklem/p/6056797",
@@ -33,6 +33,5 @@
       "name": "Haarklemmen"
     }
   ],
-  "description": "roze",
-  "image": "/medias/sys_master/prd-images/h77/h7a/31170730754078/prd-front-6056797-1_600x600/prd-front-6056797-1-600x600.jpg"
+  "description": "roze"
 }

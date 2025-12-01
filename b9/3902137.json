@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L’Oréal Paris Wrinkle Expert 45+ Anti-Rimpel Dagcrème",
   "code": "3902137",
-  "price": "4.0",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "1058035",
-  "mmkId": "1058035",
-  "productGroupId": "503032",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
-  "discount": "€ 5,99",
+  "discount": "",
   "url": "/loreal-paris-wrinkle-expert-45-anti-rimpel-dagcreme/p/3902137",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid"
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h5c/h42/35156214186014/prd-front-3902137-1_600x600/prd-front-3902137-1-600x600.jpg"
 }

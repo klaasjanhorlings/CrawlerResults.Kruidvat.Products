@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058352",
+  "mmkId": "1058352",
+  "productGroupId": "500722",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-creator-31145-rode-draak/p/5976598",
@@ -33,6 +33,5 @@
       "name": "LEGO Creator"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h54/h83/29490036310046/prd-front-5976598-1_600x600/prd-front-5976598-1-600x600.jpg"
+  "description": ""
 }

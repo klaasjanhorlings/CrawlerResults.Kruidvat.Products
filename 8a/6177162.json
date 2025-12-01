@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6496 > 6508 > 6512 > 6516 > 6520",
   "supplier": "ANVIRI COSMETICS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kiss-24h-strip-lash-adhesive-wimperlijm/p/6177162",
@@ -33,5 +33,6 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "5g"
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/h01/h51/32213288157214/prd-front-6177162-1_600x600/prd-front-6177162-1-600x600.jpg"
 }

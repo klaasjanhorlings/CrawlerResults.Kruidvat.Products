@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fruitfunk Adventskalender",
+  "code": "6396094",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 4335 > 4336",
+  "supplier": "FRUITFUNK BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fruitfunk-adventskalender/p/6396094",
+  "listName": "Lister",
+  "brand": "Fruitfunk",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 52211350,
+      "name": "Adventskalenders"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h31/h05/44275933610014/prd-front-6396094-1_600x600/prd-front-6396094-1-600x600.jpg"
+}

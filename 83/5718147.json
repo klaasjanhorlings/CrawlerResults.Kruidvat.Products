@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Bruno Banani Not For Everybody Made For Men Eau de Toilette",
   "code": "5718147",
-  "price": "12.0",
-  "priceOriginal": "29.99",
+  "price": "29.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "outOfStock",
-  "onPromo": "1058182",
-  "mmkId": "1058182",
-  "productGroupId": "500796",
+  "inStock": "inStock",
+  "onPromo": "1058290",
+  "mmkId": "1058290",
+  "productGroupId": "492827",
   "brandType": "A of B merk",
-  "discount": "€ 17,99",
+  "discount": "",
   "url": "/bruno-banani-not-for-everybody-made-for-men-eau-de-toilette/p/5718147",
   "listName": "Lister",
   "brand": "Bruno Banani",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h3a/h88/34989165608990/prd-front-5718147-1_600x600/prd-front-5718147-1-600x600.jpg"
 }

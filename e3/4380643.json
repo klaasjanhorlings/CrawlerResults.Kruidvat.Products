@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2403 > 2847 > 3586",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1058235",
+  "mmkId": "1058235",
+  "productGroupId": "462076",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/hansaplast-wondhelende-zalf/p/4380643",
@@ -37,5 +37,6 @@
       "name": "Eerste hulp zalf"
     }
   ],
-  "description": "Medisch hulpmiddel - 50g"
+  "description": "Medisch hulpmiddel - 50g",
+  "image": "/medias/sys_master/prd-images/h21/hfb/44517018370078/prd-front-4380643-1_600x600/prd-front-4380643-1-600x600.jpg"
 }

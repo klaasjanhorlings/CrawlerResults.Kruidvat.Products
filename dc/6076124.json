@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kneipp Shower Moments Geschenkset",
+  "code": "6076124",
+  "price": "7.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
+  "supplier": "KNEIPP NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1012132",
+  "mmkId": "1012132",
+  "productGroupId": "",
+  "brandType": "A or B brand",
+  "discount": "",
+  "url": "/kneipp-shower-moments-geschenkset/p/6076124",
+  "listName": "Lister",
+  "brand": "Kneipp",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72656138,
+      "name": "Geschenkset voor haar"
+    },
+    {
+      "id": 87397518,
+      "name": "Bad & douche geschenksets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h36/h82/32203107532830/prd-front-6076124-1_600x600/prd-front-6076124-1-600x600.jpg"
+}

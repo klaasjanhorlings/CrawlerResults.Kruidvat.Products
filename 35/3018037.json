@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 2973 > 3777",
   "supplier": "WEPA FRANCE SAS",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Keukenpapier"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf5/heb/44221459922974/prd-front-3018037-1_600x600/prd-front-3018037-1-600x600.jpg"
 }

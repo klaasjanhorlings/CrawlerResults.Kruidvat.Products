@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "King C. Gillette Double Edge Razor Scheermesjes",
   "code": "5397841",
-  "price": "3.99",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1058118",
-  "mmkId": "1058118",
-  "productGroupId": "509045",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,00",
+  "discount": "",
   "url": "/king-c-gillette-double-edge-razor-scheermesjes/p/5397841",
   "listName": "Lister",
   "brand": "King C",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/h4e/h5b/29286191530014/prd-front-5397841-1_600x600/prd-front-5397841-1-600x600.jpg"
 }

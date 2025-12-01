@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mattel Matchbox MBX Off Road Speelgoedauto's",
+  "code": "432488",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2140 > 4929 > 4975 > 5021 > 5921 > 6040",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "inStock",
+  "onPromo": "1058352",
+  "mmkId": "1058352",
+  "productGroupId": "500722",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mattel-matchbox-mbx-off-road-speelgoedautos/p/432488",
+  "listName": "Lister",
+  "brand": "Matchbox",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266031,
+      "name": "Voertuigen"
+    }
+  ],
+  "description": "5 stuks",
+  "image": "/medias/sys_master/prd-images/he7/hcb/32271132557342/prd-front-432488-1_600x600/prd-front-432488-1-600x600.jpg"
+}

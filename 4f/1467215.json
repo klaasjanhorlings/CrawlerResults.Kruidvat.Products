@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Men Protect & Care Intensieve Hydraterende Crème",
   "code": "1467215",
-  "price": "5.99",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1058128",
-  "mmkId": "1058128",
-  "productGroupId": "511654",
+  "onPromo": "1058240",
+  "mmkId": "1058240",
+  "productGroupId": "471212",
   "brandType": "A of B merk",
-  "discount": "€ 9,00",
+  "discount": "",
   "url": "/nivea-men-protect-care-intensieve-hydraterende-creme/p/1467215",
   "listName": "Lister",
   "brand": "Nivea Men",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/hec/hf1/45001778364446/prd-front-1467215-1_600x600/prd-front-1467215-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h94/h64/45014347677726/prd-front-1467215-1_600x600/prd-front-1467215-1-600x600.jpg"
 }

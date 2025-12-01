@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
   "supplier": "KENVUE",
-  "inStock": "inStock",
-  "onPromo": "1058196",
-  "mmkId": "1058196",
-  "productGroupId": "514870",
+  "inStock": "outOfStock",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-hydro-boost-aqua-reinigingsdoekjes/p/4726667",
@@ -37,5 +37,6 @@
       "name": "Reinigingsdoekjes"
     }
   ],
-  "description": "25 stuks - Alle huidtypen"
+  "description": "25 stuks - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h81/hd3/35120989175838/prd-front-4726667-1_600x600/prd-front-4726667-1-600x600.jpg"
 }

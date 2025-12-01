@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Casino Speelset",
+  "code": "6166669",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5921 > 6018 > 6741 > 6740 > 6739",
+  "supplier": "RUBY-TOYS BV",
+  "inStock": "inStock",
+  "onPromo": "1058352",
+  "mmkId": "1058352",
+  "productGroupId": "500722",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/casino-speelset/p/6166669",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h13/hf8/31909187223582/prd-front-6166669-1_600x600/prd-front-6166669-1-600x600.jpg"
+}

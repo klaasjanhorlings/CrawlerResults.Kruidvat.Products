@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "DR LEENARTS BV",
   "inStock": "outOfStock",
-  "onPromo": "1058196",
-  "mmkId": "1058196",
-  "productGroupId": "514870",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/drs-leenarts-facewash/p/5754680",
@@ -37,6 +37,5 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hfe/h06/34111743295518/prd-front-5754680-1_600x600/prd-front-5754680-1-600x600.jpg"
+  "description": "100ml"
 }

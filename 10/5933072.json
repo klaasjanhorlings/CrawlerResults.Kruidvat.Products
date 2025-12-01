@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "WELEDA BENELUX SE",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/weleda-granaatappel-maca-peptiden-verstevigende-dagcreme/p/5933072",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "40ml - Rijpe huid"
+  "description": "40ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/he5/hb2/28134369722398/prd-front-5933072-1_600x600/prd-front-5933072-1-600x600.jpg"
 }

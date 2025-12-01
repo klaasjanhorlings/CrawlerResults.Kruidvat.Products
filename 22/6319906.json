@@ -8,9 +8,9 @@
   "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
   "supplier": "SPIN MASTER INT. SARL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058352",
+  "mmkId": "1058352",
+  "productGroupId": "500722",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wizarding-world-harry-potter-interactieve-dobby/p/6319906",
@@ -33,5 +33,6 @@
       "name": "Speelfiguren"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb8/h5c/34602505469982/prd-front-6319906-1_600x600/prd-front-6319906-1-600x600.jpg"
 }

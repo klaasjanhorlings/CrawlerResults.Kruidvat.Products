@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Men Active Age Hyaluron Aftershave Balsem",
   "code": "5360503",
-  "price": "5.4",
-  "priceOriginal": "13.49",
+  "price": "13.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 3144 > 6670",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1058128",
-  "mmkId": "1058128",
-  "productGroupId": "511654",
+  "onPromo": "1058240",
+  "mmkId": "1058240",
+  "productGroupId": "471212",
   "brandType": "A of B merk",
-  "discount": "€ 8,09",
+  "discount": "",
   "url": "/nivea-men-active-age-hyaluron-aftershave-balsem/p/5360503",
   "listName": "Lister",
   "brand": "Nivea Men",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hae/h62/45006894333982/prd-front-5360503-1_600x600/prd-front-5360503-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hac/h84/45018590478366/prd-front-5360503-1_600x600/prd-front-5360503-1-600x600.jpg"
 }

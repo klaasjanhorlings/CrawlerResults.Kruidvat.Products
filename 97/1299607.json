@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Q10 Power Oogcontourcrème",
   "code": "1299607",
-  "price": "10.59",
-  "priceOriginal": "26.49",
+  "price": "26.49",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "1058128",
-  "mmkId": "1058128",
-  "productGroupId": "511654",
+  "inStock": "outOfStock",
+  "onPromo": "1058240",
+  "mmkId": "1058240",
+  "productGroupId": "471212",
   "brandType": "A of B merk",
-  "discount": "€ 15,90",
+  "discount": "",
   "url": "/nivea-q10-power-oogcontourcreme/p/1299607",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "15ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h71/h88/45004086247454/prd-front-1299607-1_600x600/prd-front-1299607-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h53/hcc/45015129784350/prd-front-1299607-1_600x600/prd-front-1299607-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Celenes By Sweden Thermal 3-in-1 Reiniging, Scrub en Masker",
+  "code": "6060108",
+  "price": "12.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
+  "supplier": "CRX NORDIC AG",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/celenes-by-sweden-thermal-3-in-1-reiniging-scrub-en-masker/p/6060108",
+  "listName": "Lister",
+  "brand": "CELENES BY SWEDEN",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266607,
+      "name": "Gezichtsmaskers"
+    },
+    {
+      "id": 87374779,
+      "name": "Peel-off maskers"
+    }
+  ],
+  "description": "150ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h09/h2f/31007479889950/prd-front-6060108-1_600x600/prd-front-6060108-1-600x600.jpg"
+}

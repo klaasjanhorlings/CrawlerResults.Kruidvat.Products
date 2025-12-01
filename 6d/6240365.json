@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3487",
   "supplier": "MAURER&WIRTZ GMBH&CO KG",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tabac-original-black-edition-aftershave-lotion/p/6240365",
@@ -33,6 +33,5 @@
       "name": "Aftershave"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h93/h94/33136547627038/prd-front-6240365-1_600x600/prd-front-6240365-1-600x600.jpg"
+  "description": "100ml"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tweezerman Slant Tweezer",
   "code": "5218039",
-  "price": "14.0",
-  "priceOriginal": "27.99",
+  "price": "27.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6674 > 2221 > 2492 > 3057 > 6329",
   "supplier": "LEIJTENS IMPORT BV",
-  "inStock": "inStock",
-  "onPromo": "1057963",
-  "mmkId": "1057963",
-  "productGroupId": "464133",
+  "inStock": "outOfStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
-  "discount": "€ 13,99",
+  "discount": "",
   "url": "/tweezerman-slant-tweezer/p/5218039",
   "listName": "Lister",
   "brand": "Tweezerman",
@@ -33,5 +33,6 @@
       "name": "Pincetten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0c/ha7/27399813824542/prd-front-5218039-1_600x600/prd-front-5218039-1-600x600.jpg"
 }

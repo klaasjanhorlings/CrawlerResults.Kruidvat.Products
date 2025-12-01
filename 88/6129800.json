@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
-  "inStock": "outOfStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058396",
+  "mmkId": "1058396",
+  "productGroupId": "506342",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-matte-finish-makeup-setting-spray/p/6129800",
@@ -33,5 +33,6 @@
       "name": "Fixing sprays"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h44/he5/31929506856990/prd-front-6129800-1_600x600/prd-front-6129800-1-600x600.jpg"
 }

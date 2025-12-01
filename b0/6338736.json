@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Sneeuwpop Speelgoedknuffel",
+  "code": "6338736",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2130 > 2314 > 2710 > 3413 > 4362",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "1058331",
+  "mmkId": "1058331",
+  "productGroupId": "498780",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-sneeuwpop-speelgoedknuffel/p/6338736",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266029,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h82/hfc/44274985599006/prd-front-6338736-1_600x600/prd-front-6338736-1-600x600.jpg"
+}

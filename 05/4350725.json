@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "ROYAL SANDERS JESSENITZ GMBH",
   "inStock": "inStock",
-  "onPromo": "1058028",
-  "mmkId": "1058028",
-  "productGroupId": "502193",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-0-perfume-deodorant-spray/p/4350725",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hbf/hf9/44327846641694/prd-front-4350725-1_600x600/prd-front-4350725-1-600x600.jpg"
 }

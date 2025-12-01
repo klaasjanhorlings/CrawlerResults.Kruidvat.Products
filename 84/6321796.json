@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Attaro Damesjoggingbroek",
+  "code": "6321796",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2610 > 3250 > 4141 > 5928 > 6038 > 6042",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/attaro-damesjoggingbroek/p/6321796",
+  "listName": "Lister",
+  "brand": "Attaro",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "beige, mt L",
+  "image": "/medias/sys_master/prd-images/hf6/haa/45018078150686/prd-front-6321796-1_600x600/prd-front-6321796-1-600x600.jpg"
+}

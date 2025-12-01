@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "The Master Perfumer Nr. 32 Graceful Jasmine Eau de Toilette",
+  "code": "6410108",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 4113 > 5861 > 5864 > 6705 > 6706",
+  "supplier": "MORE LABELS GROUP BV",
+  "inStock": "outOfStock",
+  "onPromo": "1058334",
+  "mmkId": "1058334",
+  "productGroupId": "499081",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/the-master-perfumer-nr-32-graceful-jasmine-eau-de-toilette/p/6410108",
+  "listName": "Lister",
+  "brand": "The Master Perfumer",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72654960,
+      "name": "Parfum geschenkset voor haar"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h5c/h53/44783361622046/prd-front-6410108-1_600x600/prd-front-6410108-1-600x600.jpg"
+}

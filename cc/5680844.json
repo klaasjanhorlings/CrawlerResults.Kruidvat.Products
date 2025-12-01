@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058274",
+  "mmkId": "1058274",
+  "productGroupId": "489404",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-mindful-blossom-douchefoam/p/5680844",
@@ -33,6 +33,5 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/hd5/h5f/28867418751006/prd-front-5680844-1_600x600/prd-front-5680844-1-600x600.jpg"
+  "description": "200ml - Normale huid"
 }

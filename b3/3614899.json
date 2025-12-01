@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Care Voedende Crème",
   "code": "3614899",
-  "price": "3.16",
-  "priceOriginal": "7.89",
+  "price": "7.89",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 4153",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1058128",
-  "mmkId": "1058128",
-  "productGroupId": "511654",
+  "onPromo": "1058240",
+  "mmkId": "1058240",
+  "productGroupId": "471212",
   "brandType": "A of B merk",
-  "discount": "€ 4,73",
+  "discount": "",
   "url": "/nivea-care-voedende-creme/p/3614899",
   "listName": "Lister",
   "brand": "Nivea",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h50/h61/34393804439582/prd-front-3614899-1_600x600/prd-front-3614899-1-600x600.jpg"
+  "description": "200ml"
 }

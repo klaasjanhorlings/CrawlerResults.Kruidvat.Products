@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "King C. Gillette Baardolie",
   "code": "5397855",
-  "price": "5.99",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 3144 > 6671",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1058118",
-  "mmkId": "1058118",
-  "productGroupId": "509045",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 6,00",
+  "discount": "",
   "url": "/king-c-gillette-baardolie/p/5397855",
   "listName": "Lister",
   "brand": "King C",
@@ -33,5 +33,6 @@
       "name": "Baardverzorging"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hdf/h1a/34417222746142/prd-front-5397855-1_600x600/prd-front-5397855-1-600x600.jpg"
 }

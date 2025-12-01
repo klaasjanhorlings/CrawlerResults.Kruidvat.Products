@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 6471 > 6474",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "inStock": "inStock",
+  "onPromo": "1058370",
+  "mmkId": "1058370",
+  "productGroupId": "502815",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/actimove-arm-sling/p/5933716",
@@ -33,5 +33,6 @@
       "name": "Braces en bandages"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h2d/hbc/28429943930910/prd-front-5933716-1_600x600/prd-front-5933716-1-600x600.jpg"
 }

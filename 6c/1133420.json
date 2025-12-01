@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kneipp Relaxing Massageolie",
   "code": "1133420",
-  "price": "7.0",
-  "priceOriginal": "11.29",
+  "price": "11.29",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3108 > 3485",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1058036",
-  "mmkId": "1058036",
-  "productGroupId": "503129",
+  "onPromo": "1058271",
+  "mmkId": "1058271",
+  "productGroupId": "489199",
   "brandType": "A or B brand",
-  "discount": "€ 4,29",
+  "discount": "",
   "url": "/kneipp-relaxing-massageolie/p/1133420",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,5 +33,6 @@
       "name": "Massageolie en massagelotion"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hc3/h85/30939087536158/prd-front-1133420-1_600x600/prd-front-1133420-1-600x600.jpg"
 }

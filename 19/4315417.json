@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Wilkinson Sword Hydro5 Skin Protection Advanced Navulmesjes",
   "code": "4315417",
-  "price": "20.49",
-  "priceOriginal": "",
+  "price": "13.32",
+  "priceOriginal": "20.49",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5721 > 3879",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "outOfStock",
-  "onPromo": "1058016",
-  "mmkId": "1058016",
-  "productGroupId": "499563",
+  "onPromo": "1058294",
+  "mmkId": "1058294",
+  "productGroupId": "494840",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,17",
   "url": "/wilkinson-sword-hydro5-skin-protection-advanced-navulmesjes/p/4315417",
   "listName": "Lister",
   "brand": "Wilkinson Sword",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/hd3/hca/28049862328350/prd-front-4315417-1_600x600/prd-front-4315417-1-600x600.jpg"
 }

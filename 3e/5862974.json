@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2062 > 2124 > 2308 > 2841 > 4058",
   "supplier": "BRANDS & MORE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "75g"
+  "description": "75g",
+  "image": "/medias/sys_master/prd-images/h16/hd3/44782579417118/prd-front-5862974-1_600x600/prd-front-5862974-1-600x600.jpg"
 }

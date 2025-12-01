@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/earth-kiss-brightening-white-clay-aloe-vera-clay-masks/p/5453330",
@@ -37,5 +37,6 @@
       "name": "Crèmemaskers"
     }
   ],
-  "description": "5 stuks"
+  "description": "5 stuks",
+  "image": "/medias/sys_master/prd-images/h60/hd0/27801769082910/prd-front-5453330-1_600x600/prd-front-5453330-1-600x600.jpg"
 }

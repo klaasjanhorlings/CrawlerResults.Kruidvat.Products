@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Aunt Jackie's Curls & Coils Elixir Essentials Hair and Scalp Oil",
   "code": "6396668",
-  "price": "12.49",
-  "priceOriginal": "",
+  "price": "6.25",
+  "priceOriginal": "12.49",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058447",
+  "mmkId": "1058447",
+  "productGroupId": "507562",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,24",
   "url": "/aunt-jackies-curls-coils-elixir-essentials-hair-and-scalp-oil/p/6396668",
   "listName": "Lister",
   "brand": "Aunt Jackie's",
@@ -33,6 +33,5 @@
       "name": "Haarolie"
     }
   ],
-  "description": "59ml",
-  "image": "/medias/sys_master/prd-images/hdf/h71/44326365331486/prd-front-6396668-1_600x600/prd-front-6396668-1-600x600.jpg"
+  "description": "59ml"
 }

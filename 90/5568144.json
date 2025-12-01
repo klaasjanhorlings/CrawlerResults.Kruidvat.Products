@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6157 > 6176",
   "supplier": "HEALTHYPHARM BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Paracetamol"
     }
   ],
-  "description": "Geneesmiddel - 50 stuks"
+  "description": "Geneesmiddel - 50 stuks",
+  "image": "/medias/sys_master/prd-images/h31/hc6/44255134122014/prd-front-5568144-1_600x600/prd-front-5568144-1-600x600.jpg"
 }

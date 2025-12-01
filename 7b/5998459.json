@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
-  "inStock": "inStock",
-  "onPromo": "1058191",
-  "mmkId": "1058191",
-  "productGroupId": "506370",
+  "inStock": "outOfStock",
+  "onPromo": "1058304",
+  "mmkId": "1058304",
+  "productGroupId": "496158",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-volumexpress-black-waterproof-mascara/p/5998459",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hcb/ha5/45001795502110/prd-front-5998459-1_600x600/prd-front-5998459-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hac/h31/45014684139550/prd-front-5998459-1_600x600/prd-front-5998459-1-600x600.jpg"
 }
