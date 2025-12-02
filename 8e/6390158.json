@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Mint 4mg Suikervrije Nicotinekauwgom",
   "code": "6390158",
   "price": "42.99",
@@ -29,5 +29,6 @@
       "name": "Nieuw"
     }
   ],
-  "description": "Geneesmiddel - 204 stuks"
+  "description": "Geneesmiddel - 204 stuks",
+  "image": "/medias/sys_master/prd-images/h0f/h75/44701333258270/prd-front-6390158-1_600x600/prd-front-6390158-1-600x600.jpg"
 }

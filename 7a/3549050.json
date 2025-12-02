@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Vitamine B12 1000mcg Kauwtabletjes",
   "code": "3549050",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/prd-front-3549050-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTExODF8aW1hZ2UvanBlZ3xhR1l5TDJobU1TOHhOalUzT0RVd056WXpOamMyTmk5d2NtUXRabkp2Ym5RdE16VTBPVEExTUMweFh6WXdNSGcyTURBfDA2YmRiMmU4MzkxZmU0NjU3MTYwNGQ2MGY4Yjc1Y2I2NmVmMzNjYTY2YThhYTgxY2Y3YmZlOWRjN2VhODRhZmM"
 }

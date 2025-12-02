@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Davitamon Vitamine C + Extra D3 Bruistabletten",
   "code": "4224662",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "15 stuks",
-  "image": "/medias/sys_master/prd-images/h53/hca/31461168513054/prd-front-4224662-1_600x600/prd-front-4224662-1-600x600.jpg"
+  "description": "15 stuks"
 }

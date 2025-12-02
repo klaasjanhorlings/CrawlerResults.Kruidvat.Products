@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Catrice Lift Up Volume & Lift 010 Deep Black Waterproof Mascara",
-  "code": "5707549",
-  "price": "5.49",
+  "itemName": "Essence Micro Precise 03 Dark Brown Eyebrow Pencil",
+  "code": "4677863",
+  "price": "1.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1058548",
@@ -13,9 +13,9 @@
   "productGroupId": "524247",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/catrice-lift-up-volume-lift-010-deep-black-waterproof-mascara/p/5707549",
+  "url": "/essence-micro-precise-03-dark-brown-eyebrow-pencil/p/4677863",
   "listName": "Lister",
-  "brand": "Catrice",
+  "brand": "Essence",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,13 @@
       "name": "Make-up"
     },
     {
-      "id": 30266576,
-      "name": "Mascara"
+      "id": 30266592,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30266908,
+      "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "11ml",
-  "image": "/medias/sys_master/prd-images/h0f/h36/29938846793758/prd-front-5707549-1_600x600/prd-front-5707549-1-600x600.jpg"
+  "description": ""
 }

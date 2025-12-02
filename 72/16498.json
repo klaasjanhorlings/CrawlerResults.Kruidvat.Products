@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "WeCare Forest Fruits Meal Replacement Shake",
   "code": "16498",
   "price": "16.39",
@@ -33,6 +33,5 @@
       "name": "Maaltijdvervangers"
     }
   ],
-  "description": "436g",
-  "image": "/medias/sys_master/prd-images/h8d/h69/35064447533086/prd-front-16498-1_600x600/prd-front-16498-1-600x600.jpg"
+  "description": "436g"
 }

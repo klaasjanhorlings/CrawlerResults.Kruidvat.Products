@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "A. Vogel Bijholteontsteking Neusspray",
   "code": "6150058",
   "price": "14.99",
@@ -12,7 +12,7 @@
   "mmkId": "1058301",
   "productGroupId": "496017",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "$ 5,00",
   "url": "/a-vogel-bijholteontsteking-neusspray/p/6150058",
   "listName": "Lister",
   "brand": "A.Vogel",

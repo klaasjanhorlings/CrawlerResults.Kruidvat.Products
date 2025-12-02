@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3545",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058246",
   "mmkId": "1058246",
   "productGroupId": "473140",
@@ -37,5 +37,6 @@
       "name": "Reinigingsdoekjes"
     }
   ],
-  "description": "25 stuks - Droge en gevoelige huid"
+  "description": "25 stuks - Droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hc7/hc5/34491704967198/prd-front-826911-1_600x600/prd-front-826911-1-600x600.jpg"
 }

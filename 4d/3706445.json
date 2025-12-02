@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Garnier PureActive Micellair Water voor de Gevoelige & Gemengde tot Vette Huid",
-  "code": "3675547",
+  "itemName": "Garnier SkinActive Micellair Reinigingswater voor Langhoudende en Waterproof Make-Up",
+  "code": "3706445",
   "price": "8.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058391",
   "mmkId": "1058391",
   "productGroupId": "506218",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/garnier-pureactive-micellair-water-voor-de-gevoelige-gemengde-tot-vette-huid/p/3675547",
+  "url": "/garnier-skinactive-micellair-reinigingswater-voor-langhoudende-en-waterproof-make-up/p/3706445",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
   "mpOrigin": "Kruidvat",
@@ -37,6 +37,6 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml - Gevoelige, gecombineerde en vette huid",
-  "image": "/medias/sys_master/prd-images/h80/hc6/35155210731550/prd-front-3675547-1_600x600/prd-front-3675547-1-600x600.jpg"
+  "description": "400ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h88/h53/35155267354654/prd-front-3706445-1_600x600/prd-front-3706445-1-600x600.jpg"
 }

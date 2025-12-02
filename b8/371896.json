@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Supradyn Complex Forte Bruistabletten",
   "code": "371896",
   "price": "10.49",
@@ -33,5 +33,6 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "15 stuks"
+  "description": "15 stuks",
+  "image": "/medias/sys_master/prd-images/h53/h59/33338964475934/prd-front-371896-1_600x600/prd-front-371896-1-600x600.jpg"
 }

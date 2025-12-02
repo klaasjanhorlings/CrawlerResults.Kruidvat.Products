@@ -7,7 +7,7 @@
   "priceOriginal": "31.49",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058248",
   "mmkId": "1058248",
   "productGroupId": "474466",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Alle huidtypen en rijpe huid",
-  "image": "/medias/sys_master/prd-images/hde/h23/45017193185310/prd-front-2785700-1_600x600/prd-front-2785700-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf7/hf8/45029541904414/prd-front-2785700-1_600x600/prd-front-2785700-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Leukoplast Traditionele Hechtpleister",
   "code": "30704",
   "price": "3.22",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 500cm x 1,25cm",
-  "image": "/medias/sys_master/prd-images/h17/ha7/45019524333598/prd-front-30704-1_600x600/prd-front-30704-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h11/h23/45032764211230/prd-front-30704-1_600x600/prd-front-30704-1-600x600.jpg"
 }

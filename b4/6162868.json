@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Roter Vitamine C 1000mg Zwarte Bes Appel Bruistabletten",
   "code": "6162868",
   "price": "5.99",
@@ -37,6 +37,5 @@
       "name": "Vitamine C"
     }
   ],
-  "description": "15 stuks",
-  "image": "/medias/sys_master/prd-images/hae/haf/44926718803998/prd-front-6162868-1_600x600/prd-front-6162868-1-600x600.jpg"
+  "description": "15 stuks"
 }

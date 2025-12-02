@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Natterman Hoest en Keel Pastilles",
   "code": "4552157",
   "price": "9.69",
@@ -37,6 +37,5 @@
       "name": "Keelpastilles"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/h99/hcc/44934859456542/prd-front-4552157-1_600x600/prd-front-4552157-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 20 stuks"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Alpine FlyFit Oordoppen",
   "code": "5844746",
   "price": "13.95",
@@ -37,5 +37,6 @@
       "name": "Oordoppen"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h39/hfd/27221918187550/prd-front-5844746-1_600x600/prd-front-5844746-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nicotinell Mint Mondspray",
   "code": "6071560",
   "price": "49.95",
@@ -37,5 +37,6 @@
       "name": "Nicotinesprays"
     }
   ],
-  "description": "Geneesmiddel - 2 x 15ml"
+  "description": "Geneesmiddel - 2 x 15ml",
+  "image": "/medias/sys_master/prd-images/haf/hd0/31103797395486/prd-front-6071560-1_600x600/prd-front-6071560-1-600x600.jpg"
 }

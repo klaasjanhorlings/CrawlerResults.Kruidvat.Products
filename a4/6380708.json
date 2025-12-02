@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2909 > 3706",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058240",
   "mmkId": "1058240",
   "productGroupId": "471212",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h5f/hc4/45025986543646/prd-front-6380708-1_600x600/prd-front-6380708-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/heb/h2e/45038728970270/prd-front-6380708-1_600x600/prd-front-6380708-1-600x600.jpg"
 }

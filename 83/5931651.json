@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "CeraVe Hydraterende Melk",
-  "code": "5882182",
-  "price": "14.99",
+  "itemName": "Cetaphil Hydraterende Lotion",
+  "code": "5931651",
+  "price": "13.49",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
-  "supplier": "LOREAL NED B.V.",
+  "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
   "onPromo": "1053321",
   "mmkId": "1053321",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/cerave-hydraterende-melk/p/5882182",
+  "url": "/cetaphil-hydraterende-lotion/p/5931651",
   "listName": "Lister",
-  "brand": "CeraVe",
+  "brand": "Cetaphil",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "236ml",
-  "image": "/medias/sys_master/prd-images/h7a/hc0/35124888240158/prd-front-5882182-1_600x600/prd-front-5882182-1-600x600.jpg"
+  "description": "237ml",
+  "image": "/medias/sys_master/prd-images/h48/ha5/28134097125406/prd-front-5931651-1_600x600/prd-front-5931651-1-600x600.jpg"
 }

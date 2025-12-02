@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nestosyl Hydrofobe Crème",
   "code": "6288238",
   "price": "8.29",
@@ -37,5 +37,6 @@
       "name": "Na de beet"
     }
   ],
-  "description": "15g"
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/hee/h4d/44932409557022/prd-front-6288238-1_600x600/prd-front-6288238-1-600x600.jpg"
 }

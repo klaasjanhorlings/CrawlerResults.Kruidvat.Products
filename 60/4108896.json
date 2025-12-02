@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Suprimal",
   "code": "4108896",
   "price": "5.79",
@@ -33,5 +33,6 @@
       "name": "Reisziekte"
     }
   ],
-  "description": "Geneesmiddel - 10 stuks"
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h32/h90/29038220378142/prd-front-4108896-1_600x600/prd-front-4108896-1-600x600.jpg"
 }

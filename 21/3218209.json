@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2340 > 2740 > 3442",
   "supplier": "MONDELEZ NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250g",
-  "image": "/medias/sys_master/prd-images/h07/he2/45014470819870/prd-front-3218209-1_600x600/prd-front-3218209-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/heb/hcd/45025813889054/prd-front-3218209-1_600x600/prd-front-3218209-1-600x600.jpg"
 }

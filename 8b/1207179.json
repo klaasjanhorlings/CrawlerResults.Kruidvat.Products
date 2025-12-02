@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6195 > 6213 > 6243",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058324",
   "mmkId": "1058324",
   "productGroupId": "497596",
@@ -29,6 +29,5 @@
       "name": "Baby en Kind gezondheid"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/hf9/hb0/45014466101278/prd-front-1207179-1_600x600/prd-front-1207179-1-600x600.jpg"
+  "description": "60 stuks"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Leukoplast Cutisoft Kompressen",
   "code": "4399529",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Kompressen"
     }
   ],
-  "description": "Medisch hulpmiddel - 7.5cm x 7.5cm, 12 stuks"
+  "description": "Medisch hulpmiddel - 7.5cm x 7.5cm, 12 stuks",
+  "image": "/medias/sys_master/prd-images/h4b/h0a/28816993189918/prd-front-4399529-1_600x600/prd-front-4399529-1-600x600.jpg"
 }

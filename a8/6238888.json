@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mycosan Steelwrattenbevriezing",
   "code": "6238888",
   "price": "21.99",
@@ -37,5 +37,6 @@
       "name": "Wrattenbehandeling"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h53/hf6/34327219404830/prd-front-6238888-1_600x600/prd-front-6238888-1-600x600.jpg"
 }

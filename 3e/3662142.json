@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058379",
   "mmkId": "1058379",
   "productGroupId": "503801",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h9c/hf7/31158655549470/prd-front-3662142-1_600x600/prd-front-3662142-1-600x600.jpg"
 }

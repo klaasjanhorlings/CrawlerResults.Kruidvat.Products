@@ -7,7 +7,7 @@
   "priceOriginal": "8.99",
   "itemBgbcat": "2001 > 2095 > 2150 > 2644 > 6616 > 6619",
   "supplier": "BECONNECTED HK LTD",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058330",
   "mmkId": "1058330",
   "productGroupId": "498760",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "beige, mt L"
+  "description": "beige, mt L",
+  "image": "/medias/sys_master/prd-images/h82/h9b/44970662232094/prd-front-6327879-1_600x600/prd-front-6327879-1-600x600.jpg"
 }

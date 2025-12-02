@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Multi-Gyn FloraPlus",
   "code": "2604925",
   "price": "18.49",
@@ -37,5 +37,6 @@
       "name": "Vaginale schimmel"
     }
   ],
-  "description": "Medisch hulpmiddel - 25ml"
+  "description": "Medisch hulpmiddel - 25ml",
+  "image": "/medias/sys_master/prd-images/hd3/hd3/32823054303262/prd-front-2604925-1_600x600/prd-front-2604925-1-600x600.jpg"
 }

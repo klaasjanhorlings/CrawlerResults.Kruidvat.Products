@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058352",
   "mmkId": "1058352",
   "productGroupId": "500722",
@@ -33,5 +33,6 @@
       "name": "LEGO Creator"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h46/hb3/28052457979934/prd-front-5819553-1_600x600/prd-front-5819553-1-600x600.jpg"
 }

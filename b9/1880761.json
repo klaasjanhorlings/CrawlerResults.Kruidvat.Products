@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Otrivin Duo Xylometazoline HCl Ipratropium Br, 0,5/0,6 mg/ml Neusspray",
   "code": "1880761",
   "price": "7.89",
@@ -37,5 +37,6 @@
       "name": "Neusspray"
     }
   ],
-  "description": "Geneesmiddel - 10ml"
+  "description": "Geneesmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h31/h8a/34486149546014/prd-front-1880761-1_600x600/prd-front-1880761-1-600x600.jpg"
 }
