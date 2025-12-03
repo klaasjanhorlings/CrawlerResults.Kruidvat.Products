@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Modifast Melkchocolade Lunchreep",
   "code": "920886",
   "price": "7.19",
@@ -29,8 +29,8 @@
       "name": "Verantwoorde voeding"
     },
     {
-      "id": 30266743,
-      "name": "Maaltijdvervangers"
+      "id": 30266742,
+      "name": "Maaltijdrepen, drinkmaaltijden"
     }
   ],
   "description": "6 x 31g",

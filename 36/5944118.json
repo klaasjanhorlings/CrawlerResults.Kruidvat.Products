@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal K2 75 Mcg + D3 20 Mcg Capsules",
   "code": "5944118",
   "price": "14.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6206 > 6224 > 6298",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058317",
   "mmkId": "1058317",
   "productGroupId": "497013",
@@ -33,8 +33,8 @@
       "name": "Vitamines"
     },
     {
-      "id": 30266991,
-      "name": "Vitamine D"
+      "id": 30266992,
+      "name": "Vitamine K"
     }
   ],
   "description": "60 stuks",

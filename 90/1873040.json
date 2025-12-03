@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Betadine Desinfectiepleisters Strips",
   "code": "1873040",
   "price": "3.69",
@@ -37,5 +37,6 @@
       "name": "Klassieke pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks"
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h99/h2c/27757108199454/prd-front-1873040-1_600x600/prd-front-1873040-1-600x600.jpg"
 }

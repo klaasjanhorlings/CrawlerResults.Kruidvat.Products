@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bepanthen Eczeem Crème",
   "code": "3218979",
   "price": "10.99",
@@ -37,5 +37,6 @@
       "name": "Eczeemcreme"
     }
   ],
-  "description": "Medisch hulpmiddel - 20g"
+  "description": "Medisch hulpmiddel - 20g",
+  "image": "/medias/sys_master/prd-images/h3e/ha6/34696233811998/prd-front-3218979-1_600x600/prd-front-3218979-1-600x600.jpg"
 }

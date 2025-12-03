@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Family Pack Pleisterset",
   "code": "3496347",
   "price": "2.99",
@@ -33,8 +33,8 @@
       "name": "Pleisters"
     },
     {
-      "id": 73414085,
-      "name": "Klassieke pleisters"
+      "id": 73414243,
+      "name": "Waterbestendige pleisters"
     }
   ],
   "description": "Medisch hulpmiddel - 50 stuks",

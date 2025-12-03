@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dagravit Vitaal 50+ Vit D + Omega-3 Visolie Capsules",
   "code": "4502289",
   "price": "26.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058324",
   "mmkId": "1058324",
   "productGroupId": "497596",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267461,
-      "name": "Multivitamines"
+      "id": 49792812,
+      "name": "Omega 3"
     }
   ],
   "description": "90 stuks",

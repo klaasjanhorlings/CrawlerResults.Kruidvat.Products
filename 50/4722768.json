@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon 400mg Magnesium Mentale Energie Tabletten",
   "code": "4722768",
   "price": "19.99",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266715,
-      "name": "Mineralen"
-    },
-    {
-      "id": 50001842,
-      "name": "Magnesium"
+      "id": 30266717,
+      "name": "Weerstand en energie"
     }
   ],
   "description": "30 stuks",

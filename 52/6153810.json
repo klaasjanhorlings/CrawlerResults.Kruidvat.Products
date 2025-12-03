@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "EasyToys Buttplug met Zilverkleurig Hartje",
   "code": "6153810",
   "price": "12.99",
@@ -33,8 +33,12 @@
       "name": "Seksspeeltjes"
     },
     {
-      "id": 65905109,
-      "name": "Anale toys"
+      "id": 30266995,
+      "name": "Vibrator"
+    },
+    {
+      "id": 65904943,
+      "name": "Anaal vibrators"
     }
   ],
   "description": "",

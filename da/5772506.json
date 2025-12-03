@@ -7,7 +7,7 @@
   "priceOriginal": "18.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "EUROFOUR BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058445",
   "mmkId": "1058445",
   "productGroupId": "507439",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/hff/ha0/30534352240670/prd-front-5772506-1_600x600/prd-front-5772506-1-600x600.jpg"
 }

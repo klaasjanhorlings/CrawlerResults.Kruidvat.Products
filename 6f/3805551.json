@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bach Rescue Spray",
   "code": "3805551",
   "price": "14.99",
@@ -33,6 +33,5 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "7ml",
-  "image": "/medias/sys_master/prd-images/ha1/h71/34836096614430/prd-front-3805551-1_600x600/prd-front-3805551-1-600x600.jpg"
+  "description": "7ml"
 }

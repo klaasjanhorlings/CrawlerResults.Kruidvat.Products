@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Physiomer Strong Jet Neusspray",
   "code": "4133130",
   "price": "13.49",
@@ -12,7 +12,7 @@
   "mmkId": "1058287",
   "productGroupId": "492506",
   "brandType": "A of B merk",
-  "discount": "$ 4,50",
+  "discount": "€ 4,50",
   "url": "/physiomer-strong-jet-neusspray/p/4133130",
   "listName": "Lister",
   "brand": "Physiomer",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266705,
-      "name": "Luchtwegen"
-    },
-    {
-      "id": 49313533,
-      "name": "Neusreiniger"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "Medisch hulpmiddel - 210ml",

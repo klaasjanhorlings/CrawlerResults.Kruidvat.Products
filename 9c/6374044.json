@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Homed-IQ Soa Test voor Vrouwen",
   "code": "6374044",
   "price": "49.0",
@@ -25,10 +25,18 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266710,
+      "name": "Zelftesten"
+    },
+    {
+      "id": 30266984,
+      "name": "Gezondheidstesten"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h6b/h87/45031427670046/prd-front-6374044-1_600x600/prd-front-6374044-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc6/h37/45042790039582/prd-front-6374044-1_600x600/prd-front-6374044-1-600x600.jpg"
 }

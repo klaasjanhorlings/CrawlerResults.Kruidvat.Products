@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bausch + Lomb Boston Simplus Lenzenvloeistof Special Flight Pack",
   "code": "6356355",
   "price": "14.95",
@@ -33,6 +33,5 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hdf/hcb/44599309238302/prd-front-6356355-1_600x600/prd-front-6356355-1-600x600.jpg"
+  "description": ""
 }

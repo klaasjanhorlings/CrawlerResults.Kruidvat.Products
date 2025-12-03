@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bausch & Lomb -1.75 Zachte Daglenzen",
   "code": "5241202",
   "price": "22.99",
@@ -37,5 +37,6 @@
       "name": "Daglenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 30 stuks"
+  "description": "Medisch hulpmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/hb2/h85/28457393684510/prd-front-5241202-1_600x600/prd-front-5241202-1-600x600.jpg"
 }

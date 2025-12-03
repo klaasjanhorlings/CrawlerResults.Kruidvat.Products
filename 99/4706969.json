@@ -7,7 +7,7 @@
   "priceOriginal": "6.99",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 3577 > 6689",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058400",
   "mmkId": "1058400",
   "productGroupId": "506472",
@@ -29,8 +29,8 @@
       "name": "Haarverzorging"
     },
     {
-      "id": 49745158,
-      "name": "Leave-in conditioner"
+      "id": 30266695,
+      "name": "Conditioner"
     }
   ],
   "description": "200ml",

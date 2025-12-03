@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Kurkuma Capsules",
   "code": "2542037",
   "price": "5.39",
@@ -33,5 +33,6 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h5d/hb4/33325010223134/prd-front-2542037-1_600x600/prd-front-2542037-1-600x600.jpg"
 }

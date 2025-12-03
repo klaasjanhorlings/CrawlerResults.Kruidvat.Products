@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Multi-Gyn 2-in-1 ActiGel",
   "code": "6390032",
   "price": "17.99",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266702,
-      "name": "Intieme ongemakken"
-    },
-    {
-      "id": 30266957,
-      "name": "Bacteriële vaginose"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "Medisch hulpmiddel - 50ml",

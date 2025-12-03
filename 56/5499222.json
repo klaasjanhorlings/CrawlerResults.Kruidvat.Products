@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Loratadine 10mg Hooikoortstabletten",
   "code": "5499222",
   "price": "9.99",
@@ -33,8 +33,8 @@
       "name": "Allergische reacties"
     },
     {
-      "id": 30266951,
-      "name": "Hooikoortstabletten"
+      "id": 49949665,
+      "name": "Loratadine"
     }
   ],
   "description": "Geneesmiddel - 30 stuks",

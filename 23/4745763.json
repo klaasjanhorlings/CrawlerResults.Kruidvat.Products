@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hansaplast Finger Cohesive Zelfhechtende Vingerbandage",
   "code": "4745763",
   "price": "5.49",
@@ -29,12 +29,8 @@
       "name": "Wondverzorging"
     },
     {
-      "id": 30266739,
-      "name": "Pleisters"
-    },
-    {
-      "id": 73414265,
-      "name": "Vingerpleisters"
+      "id": 30266737,
+      "name": "Bandages en windsels"
     }
   ],
   "description": "Medisch hulpmiddel - 5m x 2,5cm",

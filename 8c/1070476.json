@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3051 > 3900",
   "supplier": "GUHL IKEBANA COSMETICS",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058333",
   "mmkId": "1058333",
   "productGroupId": "499049",
@@ -25,12 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266692,
-      "name": "Haarstylingproducten"
+      "id": 30266005,
+      "name": "Haarverzorging"
     },
     {
-      "id": 30266932,
-      "name": "Haarmousse"
+      "id": 82417013,
+      "name": "Krullenverzorging"
     }
   ],
   "description": "200ml",

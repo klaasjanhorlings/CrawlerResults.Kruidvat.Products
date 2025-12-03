@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058388",
   "mmkId": "1058388",
   "productGroupId": "505595",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h83/h72/45025808810014/prd-front-3194955-1_600x600/prd-front-3194955-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7b/hd5/45038950219806/prd-front-3194955-1_600x600/prd-front-3194955-1-600x600.jpg"
 }

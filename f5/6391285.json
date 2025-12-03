@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Zacht & Sterk 3-laags Toiletpapier",
+  "code": "6391285",
+  "price": "2.59",
+  "priceOriginal": "2.99",
+  "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
+  "supplier": "WEPA FRANCE SAS",
+  "inStock": "inStock",
+  "onPromo": "1059356",
+  "mmkId": "1059356",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "€ 0,40",
+  "url": "/kruidvat-zacht-sterk-3-laags-toiletpapier/p/6391285",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266072,
+      "name": "Toiletpapier"
+    }
+  ],
+  "description": "6 rollen",
+  "image": "/medias/sys_master/prd-images/h5e/hcd/44265055027230/prd-front-6391285-1_600x600/prd-front-6391285-1-600x600.jpg"
+}

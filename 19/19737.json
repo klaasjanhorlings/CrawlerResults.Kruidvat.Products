@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "WeCare Chocolate Meal Replacement Shake",
   "code": "19737",
   "price": "16.39",
@@ -33,5 +33,6 @@
       "name": "Maaltijdvervangers"
     }
   ],
-  "description": "436g"
+  "description": "436g",
+  "image": "/medias/sys_master/prd-images/hf0/h1c/31690878976030/prd-front-19737-1_600x600/prd-front-19737-1-600x600.jpg"
 }

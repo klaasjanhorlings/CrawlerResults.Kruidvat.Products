@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
   "supplier": "GEM BOHEMIA S.R.O.",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
@@ -29,6 +29,5 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h9f/h19/34898546720798/prd-front-2838249-1_600x600/prd-front-2838249-1-600x600.jpg"
+  "description": "100ml"
 }

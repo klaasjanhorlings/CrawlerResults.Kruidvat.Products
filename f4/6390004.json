@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2450 > 2953 > 3747",
   "supplier": "NESTLE NEDERLAND B.V",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Koude dranken"
     }
   ],
-  "description": "800g"
+  "description": "800g",
+  "image": "/medias/sys_master/prd-images/h42/h6d/44328620392478/prd-front-6390004-1_600x600/prd-front-6390004-1-600x600.jpg"
 }

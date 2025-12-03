@@ -21,17 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536082,
-      "name": "Fashion"
+      "id": 57856073,
+      "name": "Sport"
     },
     {
-      "id": 30266039,
-      "name": "Dames"
-    },
-    {
-      "id": 30266841,
-      "name": "Dameskleding"
+      "id": 58016371,
+      "name": "Sportkleding"
     }
   ],
-  "description": "grijs, mt XL"
+  "description": "grijs, mt XL",
+  "image": "/medias/sys_master/prd-images/h9b/h43/44969167683614/prd-front-6321782-1_600x600/prd-front-6321782-1-600x600.jpg"
 }

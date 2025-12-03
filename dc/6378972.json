@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
   "supplier": "PLAYGRO EUROPE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058352",
   "mmkId": "1058352",
   "productGroupId": "500722",
@@ -33,6 +33,5 @@
       "name": "Interactief speelgoed"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he3/ha4/44009912631326/prd-front-6378972-1_600x600/prd-front-6378972-1-600x600.jpg"
+  "description": ""
 }

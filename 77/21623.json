@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "VSM Nisyleen Druppels",
   "code": "21623",
   "price": "11.89",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "Homeopathisch geneesmiddel - 50ml"
+  "description": "Homeopathisch geneesmiddel - 50ml",
+  "image": "/medias/sys_master/prd-images/h67/h3b/32880505389086/prd-front-21623-1_600x600/prd-front-21623-1-600x600.jpg"
 }

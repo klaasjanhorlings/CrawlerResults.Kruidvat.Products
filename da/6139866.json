@@ -7,7 +7,7 @@
   "priceOriginal": "5.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "MARION PRIVATE LABEL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058251",
   "mmkId": "1058251",
   "productGroupId": "475366",
@@ -29,12 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266919,
-      "name": "Reinigingstonic"
+      "id": 84945977,
+      "name": "Exfoliant"
     }
   ],
   "description": "200ml - Onzuivere huid",

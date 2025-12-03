@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon Multi Overgang All-in-1 Multi Tabletten",
   "code": "4607219",
   "price": "22.99",
@@ -33,5 +33,6 @@
       "name": "Overgang"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h42/h4b/32172655542302/prd-front-4607219-1_600x600/prd-front-4607219-1-600x600.jpg"
 }

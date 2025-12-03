@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "A.Vogel Oorhygiëne Oordruppels",
   "code": "5454289",
   "price": "10.99",
@@ -29,8 +29,12 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266712,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 30266700,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 49949611,
+      "name": "Oordruppels"
     }
   ],
   "description": "20ml",

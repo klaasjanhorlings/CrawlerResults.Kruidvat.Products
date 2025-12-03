@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Durex Play Sensual Ylang-Ylang 2-In-1 Massageolie en Glijmiddel",
   "code": "2033221",
   "price": "11.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -29,12 +29,8 @@
       "name": "Seksualiteit"
     },
     {
-      "id": 30266748,
-      "name": "Glijmiddelen"
-    },
-    {
-      "id": 66278176,
-      "name": "Waterbasis glijmiddelen"
+      "id": 65907418,
+      "name": "Erotische massage"
     }
   ],
   "description": "Medisch hulpmiddel - 200ml",

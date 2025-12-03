@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "VSM Arniflor Eerste Hulp Zalf",
   "code": "2722315",
   "price": "8.59",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "HEEL BIOLOGISCHE GENEES",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -37,6 +37,5 @@
       "name": "Eerste hulp zalf"
     }
   ],
-  "description": "25g",
-  "image": "/medias/sys_master/prd-images/hba/hac/34769111744542/prd-front-2722315-1_600x600/prd-front-2722315-1-600x600.jpg"
+  "description": "25g"
 }

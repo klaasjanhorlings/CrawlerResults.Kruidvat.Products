@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2610 > 3250 > 4141 > 5928 > 6038 > 6042",
   "supplier": "TRENDSOURCE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,16 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536082,
-      "name": "Fashion"
+      "id": 57856073,
+      "name": "Sport"
     },
     {
-      "id": 30266040,
-      "name": "Heren"
-    },
-    {
-      "id": 30266846,
-      "name": "Herenkleding"
+      "id": 58016371,
+      "name": "Sportkleding"
     }
   ],
   "description": "navy, mt L",

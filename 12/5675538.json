@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Skin Science Brightening Correcting Serum",
+  "code": "5675538",
+  "price": "4.99",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "OCEANIC SP. Z O.O.",
+  "inStock": "inStock",
+  "onPromo": "1058249",
+  "mmkId": "1058249",
+  "productGroupId": "475240",
+  "brandType": "Eigen merk",
+  "discount": "€ 5,00",
+  "url": "/kruidvat-skin-science-brightening-correcting-serum/p/5675538",
+  "listName": "Lister",
+  "brand": "Kruidvat Skin Science",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266604,
+      "name": "Oogcreme"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h9b/h80/34536159445022/prd-front-5675538-1_600x600/prd-front-5675538-1-600x600.jpg"
+}

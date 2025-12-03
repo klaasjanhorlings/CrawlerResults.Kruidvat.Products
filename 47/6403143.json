@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Ontspanning Balans Capsules",
   "code": "6403143",
   "price": "9.99",
@@ -25,12 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266724,
-      "name": "Rust en ontspanning"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "30 stuks",

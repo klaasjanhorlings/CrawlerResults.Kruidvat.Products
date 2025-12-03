@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bisolvon Hoesttabletten",
   "code": "25118",
   "price": "8.85",
@@ -37,6 +37,5 @@
       "name": "Hoesttabletten"
     }
   ],
-  "description": "Geneesmiddel - 50 stuks",
-  "image": "/medias/sys_master/prd-images/h78/h8e/34695500955678/prd-front-25118-1_600x600/prd-front-25118-1-600x600.jpg"
+  "description": "Geneesmiddel - 50 stuks"
 }

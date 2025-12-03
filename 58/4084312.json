@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Opticare Sensitive Zachte Lenzen All-In-One Lenzenvloeistof",
   "code": "4084312",
   "price": "2.09",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "RIDAM CARE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058256",
   "mmkId": "1058256",
   "productGroupId": "476756",
@@ -21,16 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266013,
-      "name": "Optiek"
-    },
-    {
-      "id": 30266757,
-      "name": "Lenzenvloeistof"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "Medisch hulpmiddel - 100ml",

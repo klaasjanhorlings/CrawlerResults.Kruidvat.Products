@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058358",
   "mmkId": "1058358",
   "productGroupId": "501349",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hfd/h0f/33766085918750/prd-front-5091080-1_600x600/prd-front-5091080-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "ELF BEAUTY UK LIMITED",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265987,
-      "name": "Make-up"
+      "id": 30265992,
+      "name": "Make-up accessoires"
     },
     {
-      "id": 30266592,
-      "name": "Wenkbrauw make-up"
-    },
-    {
-      "id": 30266906,
-      "name": "Wenkbrauwmascara"
+      "id": 30266617,
+      "name": "Make-up kwasten"
     }
   ],
   "description": "0,24g",

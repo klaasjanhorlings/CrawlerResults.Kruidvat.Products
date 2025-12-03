@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Bioticomel Puur Postbiotica Capsules",
   "code": "6390452",
   "price": "19.99",
@@ -33,6 +33,5 @@
       "name": "Bacteriestammen"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/hfe/h39/44313443074078/prd-front-6390452-1_600x600/prd-front-6390452-1-600x600.jpg"
+  "description": "30 stuks"
 }

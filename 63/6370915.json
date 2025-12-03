@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5791 > 5790 > 5792 > 5795 > 5928 > 6716",
   "supplier": "TRENDSOURCE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Damespyjama's"
     }
   ],
-  "description": "zwart, mt L-XL"
+  "description": "zwart, mt L-XL",
+  "image": "/medias/sys_master/prd-images/h29/h1e/44870121259038/prd-front-6370915-1_600x600/prd-front-6370915-1-600x600.jpg"
 }

@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "A.Vogel Echinaforce Tabletten",
   "code": "4744692",
   "price": "22.49",
   "priceOriginal": "29.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "A.VOGEL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058301",
   "mmkId": "1058301",
   "productGroupId": "496017",
   "brandType": "A of B merk",
-  "discount": "$ 7,50",
+  "discount": "€ 7,50",
   "url": "/avogel-echinaforce-tabletten/p/4744692",
   "listName": "Lister",
   "brand": "A.Vogel",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266717,
-      "name": "Weerstand en energie"
+      "id": 49950694,
+      "name": "Natuurlijke supplementen"
     }
   ],
   "description": "350 stuks",

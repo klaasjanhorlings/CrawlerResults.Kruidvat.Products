@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Antioxidant Complex Capsules",
   "code": "6402569",
   "price": "16.99",
@@ -25,10 +25,13 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266721,
+      "name": "Overige supplementen"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/hf0/hcb/44448620216350/prd-front-6402569-1_600x600/prd-front-6402569-1-600x600.jpg"
+  "description": "30 stuks"
 }

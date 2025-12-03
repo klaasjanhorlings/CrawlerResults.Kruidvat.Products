@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6760 > 6762 > 6761 > 6759 > 6758",
   "supplier": "LOREAL NED B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1053321",
   "mmkId": "1053321",
   "productGroupId": "",
@@ -21,16 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
-    },
-    {
-      "id": 30266637,
-      "name": "Bodylotion"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "473ml",

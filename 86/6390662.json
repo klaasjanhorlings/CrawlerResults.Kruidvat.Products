@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Gehoorapparaat",
   "code": "6390662",
   "price": "19.99",
@@ -25,12 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 67784836,
-      "name": "Gezondheidsapparatuur"
-    },
-    {
-      "id": 84926695,
-      "name": "Gehoorapparaten"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "Medisch hulpmiddel",

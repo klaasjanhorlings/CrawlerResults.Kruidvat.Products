@@ -7,7 +7,7 @@
   "priceOriginal": "15.49",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "WILKINSON SWORD GMBH",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058294",
   "mmkId": "1058294",
   "productGroupId": "494840",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/hcc/he5/28072317091870/prd-front-4558877-1_600x600/prd-front-4558877-1-600x600.jpg"
 }

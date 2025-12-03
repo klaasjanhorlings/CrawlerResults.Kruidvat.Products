@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nisita Neuszalf",
   "code": "4133109",
   "price": "7.96",
@@ -12,7 +12,7 @@
   "mmkId": "1058284",
   "productGroupId": "492247",
   "brandType": "A of B merk",
-  "discount": "$ 1,99",
+  "discount": "€ 1,99",
   "url": "/nisita-neuszalf/p/4133109",
   "listName": "Lister",
   "brand": "Nisita",
@@ -33,6 +33,5 @@
       "name": "Neuszalf"
     }
   ],
-  "description": "Medisch hulpmiddel - 10g",
-  "image": "/medias/sys_master/prd-images/h85/h9d/28631114383390/prd-front-4133109-1_600x600/prd-front-4133109-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 10g"
 }
