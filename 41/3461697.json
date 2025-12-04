@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Vitamine C-80 Suikervrij Tabletten",
   "code": "3461697",
   "price": "2.69",
@@ -37,6 +37,5 @@
       "name": "Vitamine C"
     }
   ],
-  "description": "300 stuks",
-  "image": "/medias/sys_master/prd-images/h3e/h54/33355315281950/prd-front-3461697-1_600x600/prd-front-3461697-1-600x600.jpg"
+  "description": "300 stuks"
 }

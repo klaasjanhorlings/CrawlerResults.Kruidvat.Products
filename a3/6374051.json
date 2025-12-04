@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Homed-IQ Diabetes Test",
   "code": "6374051",
   "price": "45.0",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h18/h86/45039599779870/prd-front-6374051-1_600x600/prd-front-6374051-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb4/hff/45052630663198/prd-front-6374051-1_600x600/prd-front-6374051-1-600x600.jpg"
 }

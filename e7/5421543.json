@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bio-Oil Huidverzorgingsolie",
   "code": "5421543",
   "price": "11.99",
@@ -12,7 +12,7 @@
   "mmkId": "1058363",
   "productGroupId": "502106",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "$ 3,00",
   "url": "/bio-oil-huidverzorgingsolie/p/5421543",
   "listName": "Lister",
   "brand": "Bio-Oil",

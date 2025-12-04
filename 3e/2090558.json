@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dr. Scholl's 2-In-1 Oplossing voor Schimmelnagels",
   "code": "2090558",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Kalknagels"
     }
   ],
-  "description": "Medisch hulpmiddel - 3,8ml"
+  "description": "Medisch hulpmiddel - 3,8ml",
+  "image": "/medias/sys_master/prd-images/hf7/h4a/34327648534558/prd-front-2090558-1_600x600/prd-front-2090558-1-600x600.jpg"
 }

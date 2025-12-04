@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Arnicazalf",
   "code": "4438393",
   "price": "6.49",
@@ -37,6 +37,5 @@
       "name": "Eerste hulp zalf"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h4e/hcb/34602462183454/prd-front-4438393-1_600x600/prd-front-4438393-1-600x600.jpg"
+  "description": "75ml"
 }

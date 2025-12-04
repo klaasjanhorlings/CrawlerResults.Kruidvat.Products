@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Satisfyer Double Joy Partner Vibrator",
   "code": "5307114",
   "price": "19.97",
@@ -12,7 +12,7 @@
   "mmkId": "1058261",
   "productGroupId": "481535",
   "brandType": "Exclusief merk",
-  "discount": "€ 19,98",
+  "discount": "$ 19,98",
   "url": "/satisfyer-double-joy-partner-vibrator/p/5307114",
   "listName": "Lister",
   "brand": "Satisfyer",
@@ -37,6 +37,5 @@
       "name": "Satisfyer"
     }
   ],
-  "description": "9,14cm x 4,18cm x 5,74cm",
-  "image": "/medias/sys_master/prd-images/h65/h0e/28454624526366/prd-front-5307114-1_600x600/prd-front-5307114-1-600x600.jpg"
+  "description": "9,14cm x 4,18cm x 5,74cm"
 }

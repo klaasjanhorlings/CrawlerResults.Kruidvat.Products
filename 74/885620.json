@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Durex Play Sensitive Glijmiddel",
   "code": "885620",
   "price": "8.99",
@@ -37,5 +37,6 @@
       "name": "Waterbasis glijmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 50ml"
+  "description": "Medisch hulpmiddel - 50ml",
+  "image": "/medias/prd-front-885620-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDkzMTZ8aW1hZ2UvanBlZ3xhRE0wTDJneU9DOHlOams1T1RFME9ESXhOak0xTUM5d2NtUXRabkp2Ym5RdE9EZzFOakl3TFRGZk5qQXdlRFl3TUF8Mjc2YmQzZmM0Yzc1OWExOGM5OWE1YWI5ZjcyMDNjNTIxOGQ5MWM5YTNmNzYwZWFmZDQzODZkNmE1MDlmOGI0YQ"
 }

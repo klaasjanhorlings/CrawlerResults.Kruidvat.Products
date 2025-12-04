@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4113 > 5861 > 5864 > 6705 > 6706",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
@@ -33,6 +33,5 @@
       "name": "Parfum geschenkset voor haar"
     }
   ],
-  "description": "4 x 50ml",
-  "image": "/medias/sys_master/prd-images/h34/h64/44241031397406/prd-front-6345302-1_600x600/prd-front-6345302-1-600x600.jpg"
+  "description": "4 x 50ml"
 }

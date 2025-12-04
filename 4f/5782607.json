@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6329 > 6674",
   "supplier": "LEIJTENS IMPORT BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
@@ -33,6 +33,5 @@
       "name": "Pincetten"
     }
   ],
-  "description": "roségoud",
-  "image": "/medias/prd-front-5782607-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTU3NTh8aW1hZ2UvanBlZ3xhR1JoTDJnNVpTOHhOekl3TkRJM016UTNPVGN4TUM5d2NtUXRabkp2Ym5RdE5UYzRNall3TnkweFh6WXdNSGcyTURBfDQ2ZDhhODgwOTQxNzZjOWVhNjhlMDZjOTQwNDRlOGEyZDc3YTNiNzk4YzMyOTExNTNiODg1YjkxZWI3ZmU5NjY"
+  "description": "roségoud"
 }

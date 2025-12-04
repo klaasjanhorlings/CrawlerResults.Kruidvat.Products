@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Magnesium 400mg Citraat Bruistabletten",
   "code": "5641336",
   "price": "7.99",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/prd-front-5641336-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTk3MTF8aW1hZ2UvanBlZ3xhR1F6TDJneU5pOHhOall3TnpFek1EVXhOelV6TkM5d2NtUXRabkp2Ym5RdE5UWTBNVE16TmkweFh6WXdNSGcyTURBfDZiOWRjY2YyOGE3NDFjZGYwNDJiNWE5OTBiOWIyNjI4ZWMzZTcxZDZjOWQ3Y2Y4MjYxM2I0Y2FkMmE3NTI0N2Y"
 }

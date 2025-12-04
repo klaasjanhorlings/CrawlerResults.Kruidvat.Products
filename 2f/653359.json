@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Opticare Zachte Lenzen No Rub Lenzenvloeistof",
   "code": "653359",
   "price": "4.39",
@@ -33,6 +33,5 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "Medisch hulpmiddel - 240ml",
-  "image": "/medias/sys_master/prd-images/h46/h92/28529578278942/prd-front-653359-1_600x600/prd-front-653359-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 240ml"
 }

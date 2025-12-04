@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "A.Vogel Prostaforce Capsules",
   "code": "26331",
   "price": "14.99",
@@ -12,7 +12,7 @@
   "mmkId": "1058301",
   "productGroupId": "496017",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "$ 5,00",
   "url": "/avogel-prostaforce-capsules/p/26331",
   "listName": "Lister",
   "brand": "A.Vogel",

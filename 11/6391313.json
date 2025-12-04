@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Vruchtbaarheidsgel",
   "code": "6391313",
   "price": "19.99",
@@ -29,6 +29,5 @@
       "name": "Nieuw"
     }
   ],
-  "description": "Medisch hulpmiddel - 5 x 5ml",
-  "image": "/medias/sys_master/prd-images/h31/h3d/44277128167454/prd-front-6391313-1_600x600/prd-front-6391313-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 5 x 5ml"
 }

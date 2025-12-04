@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Satisfyer Pro 2 Generation 2 Air Pulse Vibrator Leopard Limited Edition",
   "code": "6161244",
   "price": "24.99",
   "priceOriginal": "49.99",
   "itemBgbcat": "2006 > 2070 > 2156 > 6401 > 6463 > 6464",
   "supplier": "TRIPLE A MARKETING GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058261",
   "mmkId": "1058261",
   "productGroupId": "481535",
   "brandType": "Exclusief merk",
-  "discount": "€ 25,00",
+  "discount": "$ 25,00",
   "url": "/satisfyer-pro-2-generation-2-air-pulse-vibrator-leopard-limited-edition/p/6161244",
   "listName": "Lister",
   "brand": "Satisfyer",
@@ -37,5 +37,6 @@
       "name": "Satisfyer"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h00/hd7/31585028636702/prd-front-6161244-1_600x600/prd-front-6161244-1-600x600.jpg"
 }

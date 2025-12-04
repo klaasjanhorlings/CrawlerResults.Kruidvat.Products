@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "KALEGRA COSMETICS GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058334",
   "mmkId": "1058334",
   "productGroupId": "499081",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "1,2g"
+  "description": "1,2g",
+  "image": "/medias/sys_master/prd-images/h13/h96/27570125209630/prd-front-5484886-1_600x600/prd-front-5484886-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Rode Gist Rijst Tabletten",
   "code": "5709390",
   "price": "37.99",
@@ -33,6 +33,5 @@
       "name": "Rode gist rijst"
     }
   ],
-  "description": "360 stuks",
-  "image": "/medias/prd-front-5709390-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODQwOTN8aW1hZ2UvanBlZ3xhRGMwTDJnd1lpOHhOall4TURZeU9EWTVPREUwTWk5d2NtUXRabkp2Ym5RdE5UY3dPVE01TUMweFh6WXdNSGcyTURBfGQzMDY5ZDcxNzg0ZDYyMjc3NTQ1NGFlNjVjMGI4YTc4MzVlNjk2ODE2YTA1MDMwOTYwMTVhZWNiYmY3NzVkYTg"
+  "description": "360 stuks"
 }

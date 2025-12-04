@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Natriumcromoglicaat 20mg/ml Oogdruppels",
   "code": "5423146",
   "price": "5.99",
@@ -37,6 +37,5 @@
       "name": "Hooikoorts oogdruppels"
     }
   ],
-  "description": "Geneesmiddel - 10ml",
-  "image": "/medias/sys_master/prd-images/hc4/hf9/34295014850590/prd-front-5423146-1_600x600/prd-front-5423146-1-600x600.jpg"
+  "description": "Geneesmiddel - 10ml"
 }

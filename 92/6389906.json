@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bite.Free",
   "code": "6389906",
   "price": "5.99",
@@ -12,7 +12,7 @@
   "mmkId": "1058380",
   "productGroupId": "503805",
   "brandType": "A of B merk",
-  "discount": "€ 2,00",
+  "discount": "$ 2,00",
   "url": "/bitefree/p/6389906",
   "listName": "Lister",
   "brand": "Bite.Free",
