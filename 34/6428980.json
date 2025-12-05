@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 6+M Bio Appel, Aardbei, Kers en Pruim Knijpzakje",
   "code": "6428980",
   "price": "8.99",
@@ -37,5 +37,6 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "12 x 90g"
+  "description": "12 x 90g",
+  "image": "/medias/sys_master/prd-images/he3/h82/44918897311774/prd-front-6428980-1_600x600/prd-front-6428980-1-600x600.jpg"
 }

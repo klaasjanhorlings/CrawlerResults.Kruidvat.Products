@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1058422",
-  "mmkId": "1058422",
-  "productGroupId": "507087",
+  "onPromo": "1058552",
+  "mmkId": "1058552",
+  "productGroupId": "507881",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-venus-pro-comfortglide-sugarberry-navulmesjes/p/6261610",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "3 stuks"
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h5a/haa/33335143596062/prd-front-6261610-1_600x600/prd-front-6261610-1-600x600.jpg"
 }

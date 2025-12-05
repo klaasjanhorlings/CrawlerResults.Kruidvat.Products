@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Möller's Omega-3 Tutti Frutti Visolie",
   "code": "6092308",
   "price": "23.35",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49793273,
-      "name": "Visolie"
+      "id": 30266727,
+      "name": "Hart en/of bloedvaten"
     }
   ],
   "description": "250ml",

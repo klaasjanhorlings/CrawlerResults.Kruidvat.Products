@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Satisfyer Men Vibration+ Connect App Vibrator",
   "code": "5900109",
   "price": "39.98",
@@ -12,7 +12,7 @@
   "mmkId": "1058261",
   "productGroupId": "481535",
   "brandType": "Exclusief merk",
-  "discount": "$ 39,97",
+  "discount": "€ 39,97",
   "url": "/satisfyer-men-vibration-connect-app-vibrator/p/5900109",
   "listName": "Lister",
   "brand": "Satisfyer",
@@ -37,5 +37,6 @@
       "name": "Satisfyer"
     }
   ],
-  "description": "6,1cm x 6,7cm x 17,1cm"
+  "description": "6,1cm x 6,7cm x 17,1cm",
+  "image": "/medias/sys_master/prd-images/h55/hff/28449825194014/prd-front-5900109-1_600x600/prd-front-5900109-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Natures Passiebloem Rust",
   "code": "5836766",
   "price": "5.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49950694,
-      "name": "Natuurlijke supplementen"
+      "id": 30266724,
+      "name": "Rust en ontspanning"
     }
   ],
   "description": "60 stuks",

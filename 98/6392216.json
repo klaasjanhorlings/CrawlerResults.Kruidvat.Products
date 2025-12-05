@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Valdispert Relax & Fit Advanced Tabletten",
   "code": "6392216",
   "price": "18.99",
@@ -25,8 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266724,
+      "name": "Rust en ontspanning"
     }
   ],
   "description": "24 stuks",

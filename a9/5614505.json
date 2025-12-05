@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Babysokjes",
   "code": "5614505",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Babysokken"
     }
   ],
-  "description": "roze, wit, 0-6m, 3 paar"
+  "description": "roze, wit, 0-6m, 3 paar",
+  "image": "/medias/prd-front-5614505-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODA0OTZ8aW1hZ2UvanBlZ3xhRGt4TDJneVlpOHhOak13TWpBMU9EQXhNamN3TWk5d2NtUXRabkp2Ym5RdE5UWXhORFV3TlMweFh6WXdNSGcyTURBfDI0ZGM0YjJkN2U3NWIyNDk4NzhhNjNkZjdhYWIxODlkY2YzODk3OGQ2YjU0NDhiZDRjMzg3MzEyMzg5YzE4YzE"
 }

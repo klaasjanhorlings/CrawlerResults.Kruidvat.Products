@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Leefvitaal Magnesiumcitraat Tabletten",
   "code": "4947293",
   "price": "14.99",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266715,
-      "name": "Mineralen"
-    },
-    {
-      "id": 50001842,
-      "name": "Magnesium"
+      "id": 30266729,
+      "name": "Botten en spieren"
     }
   ],
   "description": "70 stuks",

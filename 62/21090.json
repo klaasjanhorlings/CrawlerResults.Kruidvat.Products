@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Sudocrem Multi-Expert Crème",
   "code": "21090",
   "price": "11.3",
@@ -12,7 +12,7 @@
   "mmkId": "1058280",
   "productGroupId": "489729",
   "brandType": "A of B merk",
-  "discount": "€ 1,99",
+  "discount": "$ 1,99",
   "url": "/sudocrem-multi-expert-creme/p/21090",
   "listName": "Lister",
   "brand": "Sudocrem",

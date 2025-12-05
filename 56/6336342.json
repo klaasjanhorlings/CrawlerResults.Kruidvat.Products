@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6328 > 6674",
   "supplier": "BRANSUS COSM ULTIMATCH",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058322",
   "mmkId": "1058322",
   "productGroupId": "497363",
@@ -33,5 +33,6 @@
       "name": "Make-up kwasten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hba/hb2/44486682017822/prd-front-6336342-1_600x600/prd-front-6336342-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 0+M Baby Borstel & Kam",
   "code": "760341",
   "price": "3.59",
@@ -37,6 +37,5 @@
       "name": "Babyhaarborstels- en kammen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha3/hd3/34890411737118/prd-front-760341-1_600x600/prd-front-760341-1-600x600.jpg"
+  "description": ""
 }

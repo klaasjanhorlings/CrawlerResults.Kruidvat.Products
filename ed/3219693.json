@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "A.Vogel Cinuforce Forte Neusspray",
   "code": "3219693",
-  "price": "7.49",
-  "priceOriginal": "",
+  "price": "5.62",
+  "priceOriginal": "7.49",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1058301",
+  "mmkId": "1058301",
+  "productGroupId": "496017",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,87",
   "url": "/avogel-cinuforce-forte-neusspray/p/3219693",
   "listName": "Lister",
   "brand": "A.Vogel",
@@ -37,5 +37,6 @@
       "name": "Neusspray"
     }
   ],
-  "description": "Medisch hulpmiddel - 20ml"
+  "description": "Medisch hulpmiddel - 20ml",
+  "image": "/medias/sys_master/prd-images/hf2/hb6/33350420430878/prd-front-3219693-1_600x600/prd-front-3219693-1-600x600.jpg"
 }

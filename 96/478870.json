@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon Vitamine D3 Vanaf 50 Jaar Tabletten",
   "code": "478870",
   "price": "11.99",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266991,
-      "name": "Vitamine D"
+      "id": 30266729,
+      "name": "Botten en spieren"
     }
   ],
   "description": "250 stuks",

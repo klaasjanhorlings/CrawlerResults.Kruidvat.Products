@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Super Collageen Poeder",
   "code": "4132717",
   "price": "22.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266719,
-      "name": "Beautysupplementen"
+      "id": 49363733,
+      "name": "Collageensupplementen"
     }
   ],
   "description": "54,6g",

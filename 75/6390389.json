@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pluggerz Silent Sleep Oordoppen",
+  "code": "6390389",
+  "price": "10.87",
+  "priceOriginal": "14.5",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6717 > 6719 > 6718",
+  "supplier": "COMFOOR BV",
+  "inStock": "outOfStock",
+  "onPromo": "1058507",
+  "mmkId": "1058507",
+  "productGroupId": "517620",
+  "brandType": "A of B merk",
+  "discount": "€ 3,63",
+  "url": "/pluggerz-silent-sleep-oordoppen/p/6390389",
+  "listName": "Lister",
+  "brand": "Pluggerz",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor, oog en mond"
+    },
+    {
+      "id": 30266948,
+      "name": "Oordoppen"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h93/ha8/45031437697054/prd-front-6390389-1_600x600/prd-front-6390389-1-600x600.jpg"
+}

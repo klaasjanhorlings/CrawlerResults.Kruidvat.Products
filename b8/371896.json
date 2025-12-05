@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Supradyn Complex Forte Bruistabletten",
   "code": "371896",
   "price": "10.49",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6285",
   "supplier": "BAYER BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267461,
-      "name": "Multivitamines"
+      "id": 30266717,
+      "name": "Weerstand en energie"
     }
   ],
   "description": "15 stuks",

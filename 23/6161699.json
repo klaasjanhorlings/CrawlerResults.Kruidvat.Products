@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Aanvulling voor Vegetariërs Capsules",
   "code": "6161699",
   "price": "26.99",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266989,
-      "name": "Vitamine B"
+      "id": 49792812,
+      "name": "Omega 3"
     }
   ],
   "description": "60 stuks",

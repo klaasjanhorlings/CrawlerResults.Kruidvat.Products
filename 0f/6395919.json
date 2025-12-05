@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Ariana Grande Thank U Next 2.0 Eau de Parfum",
   "code": "6395919",
-  "price": "29.99",
-  "priceOriginal": "",
+  "price": "26.99",
+  "priceOriginal": "29.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "onPromo": "1059377",
+  "mmkId": "1059377",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/ariana-grande-thank-u-next-20-eau-de-parfum/p/6395919",
   "listName": "Lister",
   "brand": "Ariana Grande",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h5b/h3f/44493704167454/prd-front-6395919-1_600x600/prd-front-6395919-1-600x600.jpg"
 }

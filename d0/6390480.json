@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Super Omega-3",
   "code": "6390480",
   "price": "19.99",
@@ -25,8 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49793273,
+      "name": "Visolie"
     }
   ],
   "description": "125ml",

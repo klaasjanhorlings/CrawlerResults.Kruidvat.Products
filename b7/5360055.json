@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Suède Babyslofjes",
   "code": "5360055",
   "price": "10.99",
@@ -33,5 +33,6 @@
       "name": "Babyslofjes"
     }
   ],
-  "description": "mt 19"
+  "description": "mt 19",
+  "image": "/medias/sys_master/prd-images/h94/ha9/34236923379742/prd-front-5360055-1_600x600/prd-front-5360055-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Overgang Slaap & Spier Support Tabletten",
   "code": "6374296",
   "price": "8.99",
@@ -25,10 +25,14 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266730,
+      "name": "Overgang"
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/he8/h23/45053496066078/prd-front-6374296-1_600x600/prd-front-6374296-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/had/h00/45068198674462/prd-front-6374296-1_600x600/prd-front-6374296-1-600x600.jpg"
 }

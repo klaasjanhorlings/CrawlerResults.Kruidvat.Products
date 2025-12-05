@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "A.Vogel Passiflora Stemmingswisselingen2* Rustgevende1* Tabletten",
   "code": "3183685",
   "price": "10.87",
@@ -12,7 +12,7 @@
   "mmkId": "1058301",
   "productGroupId": "496017",
   "brandType": "A of B merk",
-  "discount": "$ 3,62",
+  "discount": "€ 3,62",
   "url": "/avogel-passiflora-stemmingswisselingen2-rustgevende1-tabletten/p/3183685",
   "listName": "Lister",
   "brand": "A.Vogel",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49950694,
-      "name": "Natuurlijke supplementen"
+      "id": 30266724,
+      "name": "Rust en ontspanning"
     }
   ],
   "description": "30 stuks",

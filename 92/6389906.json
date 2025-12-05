@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bite.Free",
   "code": "6389906",
   "price": "5.99",
   "priceOriginal": "7.99",
   "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
   "supplier": "TRADE SENSE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058380",
   "mmkId": "1058380",
   "productGroupId": "503805",
   "brandType": "A of B merk",
-  "discount": "$ 2,00",
+  "discount": "€ 2,00",
   "url": "/bitefree/p/6389906",
   "listName": "Lister",
   "brand": "Bite.Free",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 72475724,
-      "name": "Nagels"
-    },
-    {
-      "id": 30265994,
-      "name": "Nagelverzorging"
-    },
-    {
-      "id": 30266631,
-      "name": "Nagelbehandeling"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "11ml",

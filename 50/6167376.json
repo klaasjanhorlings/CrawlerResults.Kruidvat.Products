@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Guess Amore Portofino Eau de Toilette",
   "code": "6167376",
-  "price": "18.74",
-  "priceOriginal": "24.99",
+  "price": "24.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1058309",
-  "mmkId": "1058309",
-  "productGroupId": "496348",
+  "onPromo": "1059377",
+  "mmkId": "1059377",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 6,25",
+  "discount": "",
   "url": "/guess-amore-portofino-eau-de-toilette/p/6167376",
   "listName": "Lister",
   "brand": "Guess",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/ha0/hc6/31843317481502/prd-front-6167376-1_600x600/prd-front-6167376-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bepanthen Verzorgende Crème",
   "code": "4515911",
   "price": "14.99",
@@ -37,5 +37,6 @@
       "name": "Droge en gevoelige huid"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/hae/hb8/31159710547998/prd-front-4515911-1_600x600/prd-front-4515911-1-600x600.jpg"
 }

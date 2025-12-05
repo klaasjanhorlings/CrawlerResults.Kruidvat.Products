@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Valentino Donna Born In Roma Eau de Parfum",
   "code": "6331652",
-  "price": "61.99",
-  "priceOriginal": "",
+  "price": "55.79",
+  "priceOriginal": "61.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "onPromo": "1059377",
+  "mmkId": "1059377",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,20",
   "url": "/valentino-donna-born-in-roma-eau-de-parfum/p/6331652",
   "listName": "Lister",
   "brand": "Valentino",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h3e/hfb/34416885530654/prd-front-6331652-1_600x600/prd-front-6331652-1-600x600.jpg"
 }

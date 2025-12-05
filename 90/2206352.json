@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "A.Vogel Overgang Famosan Salvia Sterk** Tabletten",
   "code": "2206352",
   "price": "17.99",
@@ -12,7 +12,7 @@
   "mmkId": "1058301",
   "productGroupId": "496017",
   "brandType": "A of B merk",
-  "discount": "$ 6,00",
+  "discount": "€ 6,00",
   "url": "/avogel-overgang-famosan-salvia-sterk-tabletten/p/2206352",
   "listName": "Lister",
   "brand": "A.Vogel",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49950694,
-      "name": "Natuurlijke supplementen"
+      "id": 30266730,
+      "name": "Overgang"
     }
   ],
   "description": "25 stuks",

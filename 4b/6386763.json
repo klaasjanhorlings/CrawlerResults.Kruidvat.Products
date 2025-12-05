@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Philips Avent Soother Ultra Air 0-6M SCF376/24 Nighttime Fopspeen",
   "code": "6386763",
   "price": "10.49",
@@ -33,5 +33,6 @@
       "name": "Fopspenen"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h85/ha3/44267272372254/prd-front-6386763-1_600x600/prd-front-6386763-1-600x600.jpg"
 }

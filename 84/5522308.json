@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon Magnesium Kauwtabletten",
   "code": "5522308",
   "price": "22.49",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/haa/h6b/44588772425758/prd-front-5522308-1_600x600/prd-front-5522308-1-600x600.jpg"
 }

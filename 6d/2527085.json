@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Schwarzkopf Kids Shampoo & Douchegel",
   "code": "2527085",
   "price": "3.59",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058354",
   "mmkId": "1058354",
   "productGroupId": "500729",
@@ -37,6 +37,5 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h2f/hd9/44325985681438/prd-front-2527085-1_600x600/prd-front-2527085-1-600x600.jpg"
+  "description": "250ml"
 }

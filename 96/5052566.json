@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Pants Junior Maat 5 Luierbroekjes Midpack",
   "code": "5052566",
   "price": "7.49",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 5"
     }
   ],
-  "description": "mt 5 (12-17 kg), 21 stuks"
+  "description": "mt 5 (12-17 kg), 21 stuks",
+  "image": "/medias/sys_master/prd-images/h27/h58/44916320469022/prd-front-5052566-1_600x600/prd-front-5052566-1-600x600.jpg"
 }

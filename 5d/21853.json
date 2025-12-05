@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Roter Vitamine C 1000 mg Abrikoos-Sinaasappel Bruistabletten",
   "code": "21853",
   "price": "7.39",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266717,
-      "name": "Weerstand en energie"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266990,
+      "name": "Vitamine C"
     }
   ],
   "description": "20 stuks",

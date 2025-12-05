@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Modifast Koffie Maaltijddrink",
   "code": "1446558",
   "price": "2.55",
@@ -29,8 +29,8 @@
       "name": "Verantwoorde voeding"
     },
     {
-      "id": 30266742,
-      "name": "Maaltijdrepen, drinkmaaltijden"
+      "id": 30266743,
+      "name": "Maaltijdvervangers"
     }
   ],
   "description": "236ml",

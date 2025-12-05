@@ -1,9 +1,9 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Ibuprofen Liquid Caps 200 mg Capsules",
   "code": "3684325",
-  "price": "5.09",
+  "price": "5.19",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6156 > 6171",
   "supplier": "MAE PHARMA BV",
@@ -33,9 +33,10 @@
       "name": "Pijn"
     },
     {
-      "id": 30266967,
-      "name": "Ibuprofen"
+      "id": 30266970,
+      "name": "Pijnstiller"
     }
   ],
-  "description": "Geneesmiddel - 40 stuks"
+  "description": "Geneesmiddel - 40 stuks",
+  "image": "/medias/sys_master/prd-images/hdd/h8e/35064633589790/prd-front-3684325-1_600x600/prd-front-3684325-1-600x600.jpg"
 }

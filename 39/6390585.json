@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Omega 3 Vetzuren Capsules",
   "code": "6390585",
   "price": "19.99",
@@ -25,12 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 49792812,
-      "name": "Omega 3"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "120 stuks",

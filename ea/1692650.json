@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dagravit Kids Vitamine D Aquosum Druppels",
   "code": "1692650",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Botten en spieren"
     }
   ],
-  "description": "25ml"
+  "description": "25ml",
+  "image": "/medias/sys_master/prd-images/h0e/h53/44937917923358/prd-front-1692650-1_600x600/prd-front-1692650-1-600x600.jpg"
 }

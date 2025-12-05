@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Overgang Gewichtsbeheersing Tabletten",
   "code": "6374289",
   "price": "8.99",
@@ -25,10 +25,14 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266730,
+      "name": "Overgang"
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/hb8/hae/45052908437534/prd-front-6374289-1_600x600/prd-front-6374289-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h52/hff/45065992208414/prd-front-6374289-1_600x600/prd-front-6374289-1-600x600.jpg"
 }

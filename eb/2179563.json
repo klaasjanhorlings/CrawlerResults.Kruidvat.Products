@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Veiligheidsspelden",
   "code": "2179563",
   "price": "1.99",
@@ -33,5 +33,6 @@
       "name": "Wasbare luiers"
     }
   ],
-  "description": "6 stuks"
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/hd3/h10/30365276569630/prd-front-2179563-1_600x600/prd-front-2179563-1-600x600.jpg"
 }

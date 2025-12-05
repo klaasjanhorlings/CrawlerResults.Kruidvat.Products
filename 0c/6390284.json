@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bepanthen SPF 25 Repair Crème",
   "code": "6390284",
   "price": "16.99",
@@ -29,5 +29,6 @@
       "name": "Nieuw"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/he9/h5c/44273857953822/prd-front-6390284-1_600x600/prd-front-6390284-1-600x600.jpg"
 }

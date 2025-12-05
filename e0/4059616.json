@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Solait Kids SPF50+ Sunmilk",
   "code": "4059616",
   "price": "8.99",
@@ -29,5 +29,6 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hb9/hfd/44803675586590/prd-front-4059616-1_600x600/prd-front-4059616-1-600x600.jpg"
 }

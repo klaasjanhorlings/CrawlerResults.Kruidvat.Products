@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Daro Fysiologische Zoutoplossing 0,9%",
   "code": "369439",
   "price": "5.24",
@@ -12,7 +12,7 @@
   "mmkId": "1058263",
   "productGroupId": "483151",
   "brandType": "A of B merk",
-  "discount": "$ 1,75",
+  "discount": "€ 1,75",
   "url": "/daro-fysiologische-zoutoplossing-0-9/p/369439",
   "listName": "Lister",
   "brand": "Daro Kind",
@@ -33,8 +33,8 @@
       "name": "Luchtwegen"
     },
     {
-      "id": 49313533,
-      "name": "Neusreiniger"
+      "id": 30266960,
+      "name": "Neusdruppels"
     }
   ],
   "description": "Medisch hulpmiddel - 10 stuks",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Vruchtbaarheid Support Man Tabletten",
   "code": "6391320",
   "price": "19.99",
@@ -25,12 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266721,
-      "name": "Overige supplementen"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "60 stuks",

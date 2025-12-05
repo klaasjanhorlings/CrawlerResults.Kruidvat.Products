@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ohropax Classic Geluiddempers",
   "code": "21582",
   "price": "2.69",
@@ -12,7 +12,7 @@
   "mmkId": "1058296",
   "productGroupId": "495734",
   "brandType": "A of B merk",
-  "discount": "$ 0,90",
+  "discount": "€ 0,90",
   "url": "/ohropax-classic-geluiddempers/p/21582",
   "listName": "Lister",
   "brand": "Ohropax",
@@ -37,6 +37,5 @@
       "name": "Oordoppen"
     }
   ],
-  "description": "12 stuks",
-  "image": "/medias/sys_master/prd-images/h14/hc2/34181113085982/prd-front-21582-1_600x600/prd-front-21582-1-600x600.jpg"
+  "description": "12 stuks"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat All-in-one Wasbare Luier",
   "code": "5897820",
   "price": "11.99",
@@ -33,5 +33,6 @@
       "name": "Wasbare luiers"
     }
   ],
-  "description": "blauw, mt 4-15kg"
+  "description": "blauw, mt 4-15kg",
+  "image": "/medias/sys_master/prd-images/hd8/h3b/28182993960990/prd-front-5897820-1_600x600/prd-front-5897820-1-600x600.jpg"
 }

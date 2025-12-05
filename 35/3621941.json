@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Guess Seductive Homme Eau De Toilette",
   "code": "3621941",
-  "price": "24.99",
-  "priceOriginal": "",
+  "price": "22.49",
+  "priceOriginal": "24.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "onPromo": "1059377",
+  "mmkId": "1059377",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,50",
   "url": "/guess-seductive-homme-eau-de-toilette/p/3621941",
   "listName": "Lister",
   "brand": "Guess",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/prd-front-3621941-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDY4MzF8aW1hZ2UvanBlZ3xhRFprTDJobVppOHhOalUzTXpVM056QXdNekF6T0M5d2NtUXRabkp2Ym5RdE16WXlNVGswTVMweFh6WXdNSGcyTURBfDUzNDE2ZDYyZTY1YWFmOTA1Yzk0MTA1MWQ2YTQyYWVjZDhiNGJjMTNjZDcwZWJjOWRjZGFjOGY2M2E4Mjg0OTU"
+  "description": "50ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Homed-IQ  Soa Test voor Mannen",
   "code": "6374037",
   "price": "49.0",
@@ -25,18 +25,10 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266710,
-      "name": "Zelftesten"
-    },
-    {
-      "id": 30266984,
-      "name": "Gezondheidstesten"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hb0/hcc/45056567607326/prd-front-6374037-1_600x600/prd-front-6374037-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8c/hc9/45068968329246/prd-front-6374037-1_600x600/prd-front-6374037-1-600x600.jpg"
 }

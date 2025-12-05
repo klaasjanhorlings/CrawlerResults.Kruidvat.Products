@@ -1,9 +1,9 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Magnesium Kauwtabletten",
   "code": "4269280",
-  "price": "4.29",
+  "price": "4.49",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
   "supplier": "HERKEL BV",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h73/h4c/34600605417502/prd-front-4269280-1_600x600/prd-front-4269280-1-600x600.jpg"
 }

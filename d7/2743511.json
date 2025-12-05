@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon Calcium met Vitamine D3 Pepermunt Kauwtabletten",
   "code": "2743511",
   "price": "12.99",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266991,
-      "name": "Vitamine D"
+      "id": 30266729,
+      "name": "Botten en spieren"
     }
   ],
   "description": "60 stuks",

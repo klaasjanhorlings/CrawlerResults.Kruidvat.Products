@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Tiger Balm Wit Tijgerbalsem",
   "code": "2063377",
   "price": "9.49",
@@ -37,6 +37,5 @@
       "name": "Spierwrijfmiddelen"
     }
   ],
-  "description": "19g",
-  "image": "/medias/sys_master/prd-images/h13/h5a/45055674810398/prd-front-2063377-1_600x600/prd-front-2063377-1-600x600.jpg"
+  "description": "19g"
 }

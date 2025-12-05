@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Aspirine 100 mg Tabletten",
   "code": "21722",
   "price": "4.79",
@@ -37,6 +37,5 @@
       "name": "Acetylsalicylzuur"
     }
   ],
-  "description": "Geneesmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/h38/h89/34689695285278/prd-front-21722-1_600x600/prd-front-21722-1-600x600.jpg"
+  "description": "Geneesmiddel - 20 stuks"
 }

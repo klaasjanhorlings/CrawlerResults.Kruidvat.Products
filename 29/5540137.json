@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Zwitsal Pink Blossom Bodymist",
   "code": "5540137",
-  "price": "8.49",
-  "priceOriginal": "",
+  "price": "7.64",
+  "priceOriginal": "8.49",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1058390",
-  "mmkId": "1058390",
-  "productGroupId": "505763",
+  "onPromo": "1059377",
+  "mmkId": "1059377",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 0,85",
   "url": "/zwitsal-pink-blossom-bodymist/p/5540137",
   "listName": "Lister",
   "brand": "Zwitsal",
@@ -33,6 +33,5 @@
       "name": "Bodymist"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h31/h1d/28023385554974/prd-front-5540137-1_600x600/prd-front-5540137-1-600x600.jpg"
+  "description": "150ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Natriumcromoglicaat 20mg/ml Oogdruppels",
   "code": "5423146",
   "price": "5.99",
@@ -33,8 +33,8 @@
       "name": "Allergische reacties"
     },
     {
-      "id": 30266953,
-      "name": "Hooikoorts oogdruppels"
+      "id": 49949748,
+      "name": "Natriumcromoglicaat"
     }
   ],
   "description": "Geneesmiddel - 10ml"

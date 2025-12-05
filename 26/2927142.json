@@ -1,9 +1,9 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Anti-Luis Shampoo",
   "code": "2927142",
-  "price": "9.69",
+  "price": "9.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3103 > 4116",
   "supplier": "GEOCOS BV",
@@ -33,6 +33,5 @@
       "name": "Hoofdluis"
     }
   ],
-  "description": "Medisch hulpmiddel - 125ml",
-  "image": "/medias/prd-front-2927142-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjkwMzR8aW1hZ2UvanBlZ3xhR05rTDJobVpTOHhOek0wT1RjNE1EUXdOak13TWk5d2NtUXRabkp2Ym5RdE1qa3lOekUwTWkweFh6WXdNSGcyTURBfDA1MWQ4MWEyY2VjNTJhY2FmOWExZjkxZjc3NmZlNGNhOTMyYTE3NDVjYjRlNDBkZmRhYTE4ODk3MmUxMzI2YTA"
+  "description": "Medisch hulpmiddel - 125ml"
 }
