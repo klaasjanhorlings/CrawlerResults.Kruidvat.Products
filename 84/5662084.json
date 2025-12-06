@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Pure & Soft  Maat 2 Luiers Volumedoos",
   "code": "5662084",
   "price": "22.99",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1010662",
   "mmkId": "1010662",
   "productGroupId": "242521",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 2"
     }
   ],
-  "description": "mt 2 (3-6 kg), 186 stuks"
+  "description": "mt 2 (3-6 kg), 186 stuks",
+  "image": "/medias/sys_master/prd-images/h81/hc6/44970000482334/prd-front-5662084-1_600x600/prd-front-5662084-1-600x600.jpg"
 }

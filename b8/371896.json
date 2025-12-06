@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6285",
   "supplier": "BAYER BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266717,
-      "name": "Weerstand en energie"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
   "description": "15 stuks",

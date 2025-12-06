@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kidsner Verkoelende Foam bij Waterpokken",
   "code": "5141137",
   "price": "15.99",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml"
+  "description": "Medisch hulpmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/h15/hf4/45076575158302/prd-front-5141137-1_600x600/prd-front-5141137-1-600x600.jpg"
 }

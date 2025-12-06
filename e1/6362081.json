@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 12+M Bio Groente, Rijst & Kip Maaltijd",
   "code": "6362081",
   "price": "1.39",
@@ -37,5 +37,6 @@
       "name": "12+ maanden"
     }
   ],
-  "description": "250g"
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h47/h59/35026200920094/prd-front-6362081-1_600x600/prd-front-6362081-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Naïf Babydoekjes",
   "code": "6295105",
   "price": "47.88",
@@ -12,7 +12,7 @@
   "mmkId": "1058311",
   "productGroupId": "496362",
   "brandType": "A of B merk",
-  "discount": "$ 47,88",
+  "discount": "€ 47,88",
   "url": "/naif-babydoekjes/p/6295105",
   "listName": "Lister",
   "brand": "Naïf",

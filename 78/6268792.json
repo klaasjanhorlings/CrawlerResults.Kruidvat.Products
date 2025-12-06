@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
   "supplier": "TREFFINA BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
@@ -33,5 +33,6 @@
       "name": "Geschenkset voor hem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb0/ha9/33682842812446/prd-front-6268792-1_600x600/prd-front-6268792-1-600x600.jpg"
 }

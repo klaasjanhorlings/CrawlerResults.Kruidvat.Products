@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nûby Flip-It Beker",
   "code": "5094608",
   "price": "15.75",
@@ -33,6 +33,5 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "blauw, 360ml",
-  "image": "/medias/prd-front-5094608-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE0MDV8aW1hZ2UvanBlZ3xhRFZrTDJobE15OHhOelF4T0RneE1ESTVORE13TWk5d2NtUXRabkp2Ym5RdE5UQTVORFl3T0MweFh6WXdNSGcyTURBfGFhOWVkM2E3YmQ5N2E4NjA3ZDZmNWUxOWI4MjBkZTY5OWU0MDA3ZjY4M2RlYTkxZTcwOTBlY2FmMjg2Zjc3MTU"
+  "description": "blauw, 360ml"
 }

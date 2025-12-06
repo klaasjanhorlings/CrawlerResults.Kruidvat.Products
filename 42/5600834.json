@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nutrilon DuoBalans 2 Opvolgmelk Flesvoeding 6-12 Maanden",
   "code": "5600834",
   "price": "21.99",
@@ -37,5 +37,6 @@
       "name": "Opvolgmelk"
     }
   ],
-  "description": "800g"
+  "description": "800g",
+  "image": "/medias/sys_master/prd-images/h98/h1b/33886307745822/prd-front-5600834-1_600x600/prd-front-5600834-1-600x600.jpg"
 }

@@ -1,9 +1,9 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 6+M Bio Mango-Perzik met Appel Knijpzakje",
   "code": "5471565",
-  "price": "0.89",
+  "price": "0.99",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "FRUITFUNK BV",
@@ -37,5 +37,6 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "90g"
+  "description": "90g",
+  "image": "/medias/sys_master/prd-images/hab/hb7/27496496398366/prd-front-5471565-1_600x600/prd-front-5471565-1-600x600.jpg"
 }
