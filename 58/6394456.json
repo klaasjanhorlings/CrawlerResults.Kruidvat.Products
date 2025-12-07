@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Black Friday Box",
+  "code": "6394456",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 6134 > 6135 > 6133",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-black-friday-box/p/6394456",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266590,
+      "name": "Blush"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9b/h5a/44450677293086/prd-front-6394456-1_600x600/prd-front-6394456-1-600x600.jpg"
+}

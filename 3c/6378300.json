@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Atelier Privee Mistical France Dreamy Tonka Geschenkset",
   "code": "6378300",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Parfum geschenkset voor haar"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h24/h6b/44448915652638/prd-front-6378300-1_600x600/prd-front-6378300-1-600x600.jpg"
+  "description": ""
 }
