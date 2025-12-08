@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Amberblokjes Kerst Geschenkset",
+  "code": "6377208",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 5926 > 5962 > 5979 > 5996 > 6679",
+  "supplier": "TROY COMPANIES BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/amberblokjes-kerst-geschenkset/p/6377208",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266895,
+      "name": "Kaarsen"
+    },
+    {
+      "id": 84925918,
+      "name": "Stomp en tafelkaarsen"
+    }
+  ],
+  "description": "goudkleur",
+  "image": "/medias/sys_master/prd-images/hb6/hac/35071205802014/prd-front-6377208-1_600x600/prd-front-6377208-1-600x600.jpg"
+}

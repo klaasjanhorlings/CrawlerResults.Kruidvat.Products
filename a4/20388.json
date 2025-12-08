@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Boost Volume Shampoo",
   "code": "20388",
   "price": "1.99",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/prd-front-20388-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ3NjF8aW1hZ2UvanBlZ3xhR0ZqTDJnMk5DOHhOelF4TVRZNU5qRTJORGc1TkM5d2NtUXRabkp2Ym5RdE1qQXpPRGd0TVY4Mk1EQjROakF3fGNlMzdiNTM1NjBiY2U1ZDdhMmYwZDMzZGQyMzYwOTE4MTZiNWM1ZDQ5ZDE1N2EyYjE5ZTIxMjUzMmRmNDc3NTk"
 }

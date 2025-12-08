@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Braun IPL Silk-Expert Pro 3 PL3020 Lichtontharingsapparaat Met Etui",
   "code": "6121820",
   "price": "349.99",
@@ -33,5 +33,6 @@
       "name": "IPL lichtontharingsapparaten"
     }
   ],
-  "description": "wit, zilverkleur"
+  "description": "wit, zilverkleur",
+  "image": "/medias/sys_master/prd-images/haf/hd9/45076834091038/prd-front-6121820-1_600x600/prd-front-6121820-1-600x600.jpg"
 }

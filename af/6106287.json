@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Amando Mystery Douchefoam",
   "code": "6106287",
   "price": "2.5",
@@ -33,6 +33,5 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/ha5/h08/31440674848798/prd-front-6106287-1_600x600/prd-front-6106287-1-600x600.jpg"
+  "description": "200ml"
 }

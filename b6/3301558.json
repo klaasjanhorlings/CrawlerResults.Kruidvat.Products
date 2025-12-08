@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "OGX Argan Oil of Morocco Repairing Shampoo",
   "code": "3301558",
   "price": "10.99",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "385ml - Droog en beschadigd haar"
+  "description": "385ml - Droog en beschadigd haar",
+  "image": "/medias/sys_master/prd-images/h0c/hf9/44110287503390/prd-front-3301558-1_600x600/prd-front-3301558-1-600x600.jpg"
 }

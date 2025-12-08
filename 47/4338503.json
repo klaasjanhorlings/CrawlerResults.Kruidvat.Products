@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "John Frieda Violet Crush Purple Conditioner",
   "code": "4338503",
   "price": "13.49",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h85/h40/28997513609246/prd-front-4338503-1_600x600/prd-front-4338503-1-600x600.jpg"
+  "description": "250ml"
 }

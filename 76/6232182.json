@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1058352",
-  "mmkId": "1058352",
-  "productGroupId": "500722",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-super-mario-72036-mario-kart-baby-peach-en-grand-prixset/p/6232182",
@@ -33,5 +33,6 @@
       "name": "LEGO Super Mario"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb3/h26/33064798879774/prd-front-6232182-1_600x600/prd-front-6232182-1-600x600.jpg"
 }

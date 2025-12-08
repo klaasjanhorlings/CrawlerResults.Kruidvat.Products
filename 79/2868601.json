@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Parodontax Extra Fresh Tandpasta",
   "code": "2868601",
   "price": "5.79",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 75ml",
-  "image": "/medias/sys_master/prd-images/hb0/h95/34925563084830/prd-front-2868601-1_600x600/prd-front-2868601-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 75ml"
 }

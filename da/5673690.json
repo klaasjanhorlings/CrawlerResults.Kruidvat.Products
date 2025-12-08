@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Yari Green Curls Rosemary Mint Hair Oil",
   "code": "5673690",
   "price": "4.99",
@@ -12,7 +12,7 @@
   "mmkId": "1058447",
   "productGroupId": "507562",
   "brandType": "Exclusief merk",
-  "discount": "€ 5,00",
+  "discount": "$ 5,00",
   "url": "/yari-green-curls-rosemary-mint-hair-oil/p/5673690",
   "listName": "Lister",
   "brand": "Yari Green Curls",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h86/h7c/28803813277726/prd-front-5673690-1_600x600/prd-front-5673690-1-600x600.jpg"
 }

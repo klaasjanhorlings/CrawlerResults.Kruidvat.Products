@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Yari Egyptian Showergel",
   "code": "6283303",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h28/h4a/34182565855262/prd-front-6283303-1_600x600/prd-front-6283303-1-600x600.jpg"
 }

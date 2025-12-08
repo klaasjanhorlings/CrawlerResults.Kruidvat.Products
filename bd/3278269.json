@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Versace Bright Crystal Eau de Toilette",
   "code": "3278269",
-  "price": "58.87",
+  "price": "65.41",
   "priceOriginal": "93.0",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "JTG BV",
   "inStock": "outOfStock",
-  "onPromo": "1059377",
-  "mmkId": "1059377",
-  "productGroupId": "",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
-  "discount": "$ 34,13",
+  "discount": "€ 27,59",
   "url": "/versace-bright-crystal-eau-de-toilette/p/3278269",
   "listName": "Lister",
   "brand": "Versace",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "90ml"
+  "description": "90ml",
+  "image": "/medias/sys_master/prd-images/h78/h3e/35103652053022/prd-front-3278269-1_600x600/prd-front-3278269-1-600x600.jpg"
 }

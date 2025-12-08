@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Smooth Silk Crème Douchegel",
   "code": "951126",
   "price": "1.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "1016191",
-  "mmkId": "1016191",
-  "productGroupId": "9004942",
+  "onPromo": "1058581",
+  "mmkId": "1058581",
+  "productGroupId": "452408",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-smooth-silk-creme-douchegel/p/951126",
@@ -33,6 +33,5 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "300ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h0f/ha6/30044745990174/prd-front-951126-1_600x600/prd-front-951126-1-600x600.jpg"
+  "description": "300ml - Normale huid"
 }

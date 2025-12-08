@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Black & White Invisible Silky Smooth Antitranspirant Roller",
   "code": "4538941",
   "price": "6.59",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h82/h14/34572619546654/prd-front-4538941-1_600x600/prd-front-4538941-1-600x600.jpg"
 }

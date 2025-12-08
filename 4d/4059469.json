@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Sun Protect & Hydrate SPF30 Zonnespray",
   "code": "4059469",
   "price": "24.99",
@@ -33,6 +33,5 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hf2/hee/44849706008606/prd-front-4059469-1_600x600/prd-front-4059469-1-600x600.jpg"
+  "description": "200ml"
 }

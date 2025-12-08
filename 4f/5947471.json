@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "King C. Gillette Pro Baardtrimmer",
   "code": "5947471",
   "price": "29.99",
@@ -12,7 +12,7 @@
   "mmkId": "1058420",
   "productGroupId": "507082",
   "brandType": "A of B merk",
-  "discount": "€ 30,00",
+  "discount": "$ 30,00",
   "url": "/king-c-gillette-pro-baardtrimmer/p/5947471",
   "listName": "Lister",
   "brand": "King C",

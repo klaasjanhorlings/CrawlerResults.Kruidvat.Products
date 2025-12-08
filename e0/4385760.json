@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kneipp Silky Secret Doucheschuim",
   "code": "4385760",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Droge huid"
+  "description": "200ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h32/he2/27296719831070/prd-front-4385760-1_600x600/prd-front-4385760-1-600x600.jpg"
 }

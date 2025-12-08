@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Hismile Teeth Brightening PAP+ Pen",
   "code": "6289841",
   "price": "24.99",
@@ -33,5 +33,6 @@
       "name": "Whitening producten"
     }
   ],
-  "description": "3ml"
+  "description": "3ml",
+  "image": "/medias/sys_master/prd-images/hc2/hbc/34147170615326/prd-front-6289841-1_600x600/prd-front-6289841-1-600x600.jpg"
 }

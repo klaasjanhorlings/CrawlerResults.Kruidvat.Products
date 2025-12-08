@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Hismile Grape Bubblegum Tandpasta",
   "code": "6289869",
   "price": "10.99",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "60g",
-  "image": "/medias/sys_master/prd-images/h20/hd1/34147170025502/prd-front-6289869-1_600x600/prd-front-6289869-1-600x600.jpg"
+  "description": "60g"
 }

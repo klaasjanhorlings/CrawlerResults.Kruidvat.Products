@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Steradent Triple Action Plus Reinigingstabletten",
   "code": "152891",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Kunstgebitreiniger"
     }
   ],
-  "description": "Medisch hulpmiddel - 90 stuks"
+  "description": "Medisch hulpmiddel - 90 stuks",
+  "image": "/medias/sys_master/prd-images/h8c/h6d/28789672837150/prd-front-152891-1_600x600/prd-front-152891-1-600x600.jpg"
 }

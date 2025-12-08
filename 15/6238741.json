@@ -8,9 +8,9 @@
   "itemBgbcat": "2232 > 5179 > 5303 > 5492 > 5921 > 6040",
   "supplier": "MATTEL EUROPA BV",
   "inStock": "outOfStock",
-  "onPromo": "1058352",
-  "mmkId": "1058352",
-  "productGroupId": "500722",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/marvel-studios-i-am-groot-knuffel/p/6238741",
@@ -33,6 +33,5 @@
       "name": "Speelfiguren"
     }
   ],
-  "description": "30cm",
-  "image": "/medias/sys_master/prd-images/he9/h0e/32896825327646/prd-front-6238741-1_600x600/prd-front-6238741-1-600x600.jpg"
+  "description": "30cm"
 }

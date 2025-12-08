@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tristar KR-3140 Kruimelzuiger",
+  "code": "6391040",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 4901 > 4947 > 4993 > 5929 > 6019",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tristar-kr-3140-kruimelzuiger/p/6391040",
+  "listName": "Lister",
+  "brand": "Tristar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053317,
+      "name": "Schoonmaakapparatuur"
+    },
+    {
+      "id": 75054064,
+      "name": "Stofzuigers"
+    },
+    {
+      "id": 99556702,
+      "name": "Kruimelzuigers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd0/h61/44180044644382/prd-front-6391040-1_600x600/prd-front-6391040-1-600x600.jpg"
+}

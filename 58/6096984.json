@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Jil Sander Sun Sport for Woman Eau de Toilette",
   "code": "6096984",
-  "price": "23.39",
-  "priceOriginal": "25.99",
+  "price": "25.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "1059377",
-  "mmkId": "1059377",
-  "productGroupId": "",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
-  "discount": "€ 2,60",
+  "discount": "",
   "url": "/jil-sander-sun-sport-for-woman-eau-de-toilette/p/6096984",
   "listName": "Lister",
   "brand": "Jil Sander",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h96/he0/31028390559774/prd-front-6096984-1_600x600/prd-front-6096984-1-600x600.jpg"
 }

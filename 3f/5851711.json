@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Face & Body Peel Off Waxing Pearls Waxing Kit",
   "code": "5851711",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "250g"
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h10/hcd/33848441798686/prd-front-5851711-1_600x600/prd-front-5851711-1-600x600.jpg"
 }

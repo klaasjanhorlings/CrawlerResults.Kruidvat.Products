@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gucci Bamboo Eau de Toilette",
   "code": "4996433",
-  "price": "55.79",
-  "priceOriginal": "61.99",
+  "price": "61.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1059377",
-  "mmkId": "1059377",
-  "productGroupId": "",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
-  "discount": "€ 6,20",
+  "discount": "",
   "url": "/gucci-bamboo-eau-de-toilette/p/4996433",
   "listName": "Lister",
   "brand": "Gucci",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hc9/h95/28793361661982/prd-front-4996433-1_600x600/prd-front-4996433-1-600x600.jpg"
 }

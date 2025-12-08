@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Secret d'Afrique Cocoa Butter Lotion",
   "code": "3574621",
   "price": "3.02",
@@ -12,7 +12,7 @@
   "mmkId": "1058447",
   "productGroupId": "507562",
   "brandType": "A of B merk",
-  "discount": "€ 3,03",
+  "discount": "$ 3,03",
   "url": "/secret-dafrique-cocoa-butter-lotion/p/3574621",
   "listName": "Lister",
   "brand": "Secret d'Afrique",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/ha5/hd5/28240519888926/prd-front-3574621-1_600x600/prd-front-3574621-1-600x600.jpg"
 }

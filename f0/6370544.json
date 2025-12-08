@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Squishmallows Dekbedovertrek",
+  "code": "6370544",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2453 > 2738 > 3440 > 5926 > 6020",
+  "supplier": "VESPO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/squishmallows-dekbedovertrek/p/6370544",
+  "listName": "Lister",
+  "brand": "Squishmallows",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 65815325,
+      "name": "Dekbedovertrekken"
+    }
+  ],
+  "description": "140cm x 200cm",
+  "image": "/medias/sys_master/prd-images/he1/h26/35103657230366/prd-front-6370544-1_600x600/prd-front-6370544-1-600x600.jpg"
+}

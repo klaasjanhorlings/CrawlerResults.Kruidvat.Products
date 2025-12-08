@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dove Coconut Oil Shower Mousse",
   "code": "4335311",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h3a/h4e/29076133478430/prd-front-4335311-1_600x600/prd-front-4335311-1-600x600.jpg"
 }

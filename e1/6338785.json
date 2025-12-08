@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Natures 2-in-1 Soap & Scrub Shower Bar",
   "code": "6338785",
   "price": "3.49",
@@ -33,6 +33,5 @@
       "name": "Zeepbar"
     }
   ],
-  "description": "65g",
-  "image": "/medias/sys_master/prd-images/hb5/h83/34891278647326/prd-front-6338785-1_600x600/prd-front-6338785-1-600x600.jpg"
+  "description": "65g"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Andrélon Pro Nature Coco Curl Creation Haarmasker",
   "code": "6116283",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h0c/h7c/31401421176862/prd-front-6116283-1_600x600/prd-front-6116283-1-600x600.jpg"
 }

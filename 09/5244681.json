@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Syoss Intense Repair Deep Caring Shampoo",
   "code": "5244681",
   "price": "7.49",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "440ml"
+  "description": "440ml",
+  "image": "/medias/sys_master/prd-images/hde/h50/33762633515038/prd-front-5244681-1_600x600/prd-front-5244681-1-600x600.jpg"
 }

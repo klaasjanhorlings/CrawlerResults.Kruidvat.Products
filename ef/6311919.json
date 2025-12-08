@@ -7,7 +7,7 @@
   "priceOriginal": "114.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 2885 > 4228 > 5693",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1049366",
   "mmkId": "1049366",
   "productGroupId": "479416",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "wit, 10 stuks",
-  "image": "/medias/sys_master/prd-images/hda/h01/45087884181534/prd-front-6311919-1_600x600/prd-front-6311919-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h55/h62/45095132430366/prd-front-6311919-1_600x600/prd-front-6311919-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Braun Series 5 BT5520 Baardtrimmer",
   "code": "6261876",
   "price": "41.99",
@@ -12,7 +12,7 @@
   "mmkId": "1058423",
   "productGroupId": "507100",
   "brandType": "A of B merk",
-  "discount": "€ 28,00",
+  "discount": "$ 28,00",
   "url": "/braun-series-5-bt5520-baardtrimmer/p/6261876",
   "listName": "Lister",
   "brand": "Braun",
@@ -33,5 +33,6 @@
       "name": "Baardtrimmers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb2/h7d/33500287631390/prd-front-6261876-1_600x600/prd-front-6261876-1-600x600.jpg"
 }

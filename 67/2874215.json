@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Wilkinson Sword Extra Essential 3 Sensitive Wegwerpscheermesjes",
   "code": "2874215",
   "price": "3.57",
@@ -12,7 +12,7 @@
   "mmkId": "1058294",
   "productGroupId": "494840",
   "brandType": "A of B merk",
-  "discount": "€ 1,92",
+  "discount": "$ 1,92",
   "url": "/wilkinson-sword-extra-essential-3-sensitive-wegwerpscheermesjes/p/2874215",
   "listName": "Lister",
   "brand": "Wilkinson Sword",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "6 stuks",
-  "image": "/medias/sys_master/prd-images/h7d/h7c/28332369084446/prd-front-2874215-1_600x600/prd-front-2874215-1-600x600.jpg"
+  "description": "6 stuks"
 }

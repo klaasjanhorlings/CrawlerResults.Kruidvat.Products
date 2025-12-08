@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "S. Oliver Life Time Men Eau de Toilette",
   "code": "6310491",
-  "price": "18.44",
-  "priceOriginal": "20.49",
+  "price": "20.49",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "MAURER&WIRTZ GMBH&CO KG",
   "inStock": "inStock",
-  "onPromo": "1059377",
-  "mmkId": "1059377",
-  "productGroupId": "",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
-  "discount": "€ 2,05",
+  "discount": "",
   "url": "/s-oliver-life-time-men-eau-de-toilette/p/6310491",
   "listName": "Lister",
   "brand": "S. Oliver",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h31/h34/34989162463262/prd-front-6310491-1_600x600/prd-front-6310491-1-600x600.jpg"
+  "description": "30ml"
 }

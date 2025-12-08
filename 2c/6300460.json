@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HOYU COSMETICS (NEDERLAND) B.V.",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058257",
   "mmkId": "1058257",
   "productGroupId": "477300",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h68/hd8/34837142110238/prd-front-6300460-1_600x600/prd-front-6300460-1-600x600.jpg"
 }

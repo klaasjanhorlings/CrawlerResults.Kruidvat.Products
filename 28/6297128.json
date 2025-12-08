@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Geribde Velours Damespyjama",
+  "code": "6297128",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5791 > 5790 > 5792 > 5795 > 5928 > 6716",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/geribde-velours-damespyjama/p/6297128",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266843,
+      "name": "Damespyjama's"
+    }
+  ],
+  "description": "zwart, mt L",
+  "image": "/medias/sys_master/prd-images/h10/h0f/45053510156318/prd-front-6297128-1_600x600/prd-front-6297128-1-600x600.jpg"
+}

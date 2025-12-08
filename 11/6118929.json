@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5921 > 6018 > 6735 > 6733 > 6734",
   "supplier": "IDENTITY GAMES INT. BV",
   "inStock": "inStock",
-  "onPromo": "1058352",
-  "mmkId": "1058352",
-  "productGroupId": "500722",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/identity-games-dieren-dobbelen-spel/p/6118929",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h82/h96/31639256203294/prd-front-6118929-1_600x600/prd-front-6118929-1-600x600.jpg"
 }
