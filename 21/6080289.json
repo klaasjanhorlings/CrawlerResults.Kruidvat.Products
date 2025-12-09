@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "GUM Trav-ler Interdentale Ragers",
   "code": "6080289",
   "price": "6.49",
@@ -33,6 +33,5 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "1,2 mm, 6 stuks",
-  "image": "/medias/sys_master/prd-images/hbe/h9f/34514003165214/prd-front-6080289-1_600x600/prd-front-6080289-1-600x600.jpg"
+  "description": "1,2 mm, 6 stuks"
 }

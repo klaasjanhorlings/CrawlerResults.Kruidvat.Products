@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Castor Haarolie",
   "code": "5667229",
   "price": "1.99",
@@ -12,7 +12,7 @@
   "mmkId": "1058447",
   "productGroupId": "507562",
   "brandType": "Eigen merk",
-  "discount": "$ 2,00",
+  "discount": "€ 2,00",
   "url": "/kruidvat-castor-haarolie/p/5667229",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Haarolie"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h40/h2a/29997428604958/prd-front-5667229-1_600x600/prd-front-5667229-1-600x600.jpg"
+  "description": "150ml"
 }

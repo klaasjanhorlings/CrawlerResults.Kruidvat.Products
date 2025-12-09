@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Super Plus Tampons met Applicator",
   "code": "5832972",
   "price": "2.49",
@@ -33,5 +33,6 @@
       "name": "Tampons"
     }
   ],
-  "description": "16 stuks"
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/h97/h5c/32107200643102/prd-front-5832972-1_600x600/prd-front-5832972-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Gillette Fusion Hydra Scheergel voor de Gevoelige Huid",
   "code": "1056728",
   "price": "7.59",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h51/hf6/27782892027934/prd-front-1056728-1_600x600/prd-front-1056728-1-600x600.jpg"
 }

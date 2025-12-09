@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dove Men+Care Cool Fresh Antitranspirant Spray",
   "code": "3647603",
   "price": "5.49",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h4c/hfd/44517018107934/prd-front-3647603-1_600x600/prd-front-3647603-1-600x600.jpg"
 }

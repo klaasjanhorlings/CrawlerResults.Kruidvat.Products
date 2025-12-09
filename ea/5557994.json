@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Oral-B Pro Cross Action Opzetborstels",
   "code": "5557994",
   "price": "31.19",
@@ -12,7 +12,7 @@
   "mmkId": "1058434",
   "productGroupId": "507328",
   "brandType": "A of B merk",
-  "discount": "$ 20,80",
+  "discount": "€ 20,80",
   "url": "/oral-b-pro-cross-action-opzetborstels/p/5557994",
   "listName": "Lister",
   "brand": "Oral B",
@@ -33,5 +33,6 @@
       "name": "Opzetborstels"
     }
   ],
-  "description": "zwart, 8 stuks"
+  "description": "zwart, 8 stuks",
+  "image": "/medias/sys_master/prd-images/hee/h43/32943705784350/prd-front-5557994-1_600x600/prd-front-5557994-1-600x600.jpg"
 }

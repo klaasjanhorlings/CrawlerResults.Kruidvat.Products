@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Vaseline Gluta-Hya Flawless Tone Semi Burst Lotion",
   "code": "6287391",
   "price": "11.99",
@@ -33,6 +33,5 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h15/h30/34181713821726/prd-front-6287391-1_600x600/prd-front-6287391-1-600x600.jpg"
+  "description": "200ml"
 }

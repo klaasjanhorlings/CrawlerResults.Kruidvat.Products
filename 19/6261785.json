@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Gillette Venus Pro ComfortGlide Scheermesjes",
   "code": "6261785",
   "price": "68.29",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/hac/hd2/33995843895326/prd-front-6261785-1_600x600/prd-front-6261785-1-600x600.jpg"
 }

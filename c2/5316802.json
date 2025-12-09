@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kneipp Relaxing Lavendel Badkristallen",
   "code": "5316802",
   "price": "12.49",
@@ -33,6 +33,5 @@
       "name": "Badzout"
     }
   ],
-  "description": "600g",
-  "image": "/medias/sys_master/prd-images/h55/h76/27302512132126/prd-front-5316802-1_600x600/prd-front-5316802-1-600x600.jpg"
+  "description": "600g"
 }

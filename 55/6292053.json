@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Braun Series 6 61-N1000S Elektrisch Scheerapparaat",
   "code": "6292053",
   "price": "174.99",
@@ -33,5 +33,6 @@
       "name": "Baardtrimmers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfb/hfe/34394386071582/prd-front-6292053-1_600x600/prd-front-6292053-1-600x600.jpg"
 }

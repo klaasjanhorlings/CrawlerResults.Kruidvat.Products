@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Aunt Jackie's Kids E-Blast Nourishing Scalp Remedy",
   "code": "5616759",
   "price": "8.99",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "237ml"
+  "description": "237ml",
+  "image": "/medias/sys_master/prd-images/hd3/h09/27496127823902/prd-front-5616759-1_600x600/prd-front-5616759-1-600x600.jpg"
 }

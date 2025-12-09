@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Mixsoon Bean Toner",
   "code": "6200262",
-  "price": "8.92",
+  "price": "8.93",
   "priceOriginal": "11.9",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 4226 > 6702",
   "supplier": "ORIEN TRADE OU",
@@ -12,7 +12,7 @@
   "mmkId": "1058266",
   "productGroupId": "484751",
   "brandType": "A of B merk",
-  "discount": "€ 2,98",
+  "discount": "€ 2,97",
   "url": "/mixsoon-bean-toner/p/6200262",
   "listName": "Lister",
   "brand": "MIXSOON",
@@ -25,16 +25,20 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
+      "id": 73443650,
+      "name": "Korean Skincare"
     },
     {
-      "id": 30266920,
-      "name": "Reinigingsstrips"
+      "id": 90761979,
+      "name": "Korean gezichtsreiniging"
+    },
+    {
+      "id": 90766276,
+      "name": "Korean toner"
     }
   ],
   "description": "100ml",

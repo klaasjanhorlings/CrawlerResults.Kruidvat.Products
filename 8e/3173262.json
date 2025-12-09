@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Aquafresh Anti-Cariës Tandpasta",
   "code": "3173262",
   "price": "2.59",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "75ml",
-  "image": "/medias/prd-front-3173262-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDk3NTJ8aW1hZ2UvanBlZ3xhR00xTDJneU1pOHhOakU1TmpVNE9EYzVOems0TWk5d2NtUXRabkp2Ym5RdE16RTNNekkyTWkweFh6WXdNSGcyTURBfGMzM2Q0MDk3NGM0YTk1YzdlZWI1NmVjZWJkZDVhOGM2YTk0YzQyYjcxZDc5MjdmZWM0ZTYwZTc4ZmJhODkyNWY"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

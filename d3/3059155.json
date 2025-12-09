@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Crème Soft Douchecrème",
   "code": "3059155",
   "price": "4.69",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml - Normale huid"
+  "description": "250ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hc7/h57/34814507876382/prd-front-3059155-1_600x600/prd-front-3059155-1-600x600.jpg"
 }

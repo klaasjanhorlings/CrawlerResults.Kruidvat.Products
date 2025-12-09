@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Derma Control Defend Antitranspirant Spray",
   "code": "6324869",
   "price": "5.69",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/had/h6e/44039361855518/prd-front-6324869-1_600x600/prd-front-6324869-1-600x600.jpg"
+  "description": "150ml"
 }

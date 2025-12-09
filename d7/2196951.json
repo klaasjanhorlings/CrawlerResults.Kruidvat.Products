@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mentos White Sweet Mint XL Gum",
+  "code": "2196951",
+  "price": "3.99",
+  "priceOriginal": "4.99",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2365 > 3283 > 4184",
+  "supplier": "PERFETTI VAN MELLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 1,00",
+  "url": "/mentos-white-sweet-mint-xl-gum/p/2196951",
+  "listName": "Lister",
+  "brand": "Mentos",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 92033748,
+      "name": "Kauwgom en pepermunt"
+    }
+  ],
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/h46/h29/28223429410846/prd-front-2196951-1_600x600/prd-front-2196951-1-600x600.jpg"
+}

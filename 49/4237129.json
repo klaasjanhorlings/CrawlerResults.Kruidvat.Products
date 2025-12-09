@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Care Sensitive Crème",
   "code": "4237129",
   "price": "7.89",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h04/h45/44915073515550/prd-front-4237129-1_600x600/prd-front-4237129-1-600x600.jpg"
+  "description": "200ml"
 }

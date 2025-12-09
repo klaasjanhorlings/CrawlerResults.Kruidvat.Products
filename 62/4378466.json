@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Braun Silk-épil FG1100 Bikinistyler",
   "code": "4378466",
   "price": "32.99",
@@ -33,6 +33,5 @@
       "name": "Haartrimmers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hda/h2f/27772257566750/prd-front-4378466-1_600x600/prd-front-4378466-1-600x600.jpg"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Axe Gold Deodorant & Bodyspray",
   "code": "4324412",
   "price": "7.49",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h7b/hc3/33390398734366/prd-front-4324412-1_600x600/prd-front-4324412-1-600x600.jpg"
+  "description": "150ml"
 }

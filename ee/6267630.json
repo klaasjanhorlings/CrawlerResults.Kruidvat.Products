@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Always Ultra Day Long Plus Maandverband",
   "code": "6267630",
   "price": "2.89",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "mt 3, 9 stuks"
+  "description": "mt 3, 9 stuks",
+  "image": "/medias/sys_master/prd-images/h8e/h02/34028288278558/prd-front-6267630-1_600x600/prd-front-6267630-1-600x600.jpg"
 }

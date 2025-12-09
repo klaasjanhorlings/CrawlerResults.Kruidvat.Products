@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Hydrocare Scheerschuim",
   "code": "6380708",
   "price": "5.29",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h77/h9b/45076320190494/prd-front-6380708-1_600x600/prd-front-6380708-1-600x600.jpg"
 }

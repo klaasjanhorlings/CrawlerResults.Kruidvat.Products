@@ -8,9 +8,9 @@
   "itemBgbcat": "2487 > 3056 > 3904 > 5928 > 6351 > 6352",
   "supplier": "FERRO FOOTWEAR BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059422",
+  "mmkId": "1059422",
+  "productGroupId": "529282",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/regenlaarzen/p/6274091",
@@ -33,5 +33,6 @@
       "name": "Regenkleding"
     }
   ],
-  "description": "beige, mt 40-41"
+  "description": "beige, mt 40-41",
+  "image": "/medias/sys_master/prd-images/h10/h3c/34416883892254/prd-front-6274091-1_600x600/prd-front-6274091-1-600x600.jpg"
 }

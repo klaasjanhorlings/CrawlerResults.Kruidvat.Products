@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Biodermal P-CL-E Verzorgende Bodylotion",
   "code": "5475877",
   "price": "29.99",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hb1/h33/44367384215582/prd-front-5475877-1_600x600/prd-front-5475877-1-600x600.jpg"
 }

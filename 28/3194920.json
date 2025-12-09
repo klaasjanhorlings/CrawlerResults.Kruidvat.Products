@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Vaseline Healthy Hands & Stronger Nails Handlotion",
   "code": "3194920",
   "price": "6.49",
@@ -33,6 +33,5 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h35/h61/27776520749086/prd-front-3194920-1_600x600/prd-front-3194920-1-600x600.jpg"
+  "description": "200ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Yari Green Curls Curl Maker",
   "code": "5430972",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "384ml"
+  "description": "384ml",
+  "image": "/medias/prd-front-5430972-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzQ2MTV8aW1hZ2UvanBlZ3xhRGcxTDJnMFppOHlOekEwTkRreE5UQTROVE0wTWk5d2NtUXRabkp2Ym5RdE5UUXpNRGszTWkweFh6WXdNSGcyTURBfDQ2NjA4NjY2NWEzMzhjYjQyYjA1N2ZhZTM0NTYzMTY2NWU2YmUwZGRiZDJlOGFlODhlNWE2NWIwYjY1OTFiYzg"
 }

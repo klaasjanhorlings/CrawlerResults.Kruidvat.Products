@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "e.l.f. Skin Suntouchable Whoa Glow SPF30 Zonnebrandcrème",
   "code": "6303799",
   "price": "17.0",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h44/h71/34089439199262/prd-front-6303799-1_600x600/prd-front-6303799-1-600x600.jpg"
 }

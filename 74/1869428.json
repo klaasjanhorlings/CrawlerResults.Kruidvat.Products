@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Care Cacao Butter Bodylotion",
   "code": "1869428",
   "price": "3.29",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h5a/h04/34351932932126/prd-front-1869428-1_600x600/prd-front-1869428-1-600x600.jpg"
 }

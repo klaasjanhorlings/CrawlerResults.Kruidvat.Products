@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dove Men+Care Extra Fresh Douchegel",
   "code": "1732123",
   "price": "7.15",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h1f/h5a/33198904573982/prd-front-1732123-1_600x600/prd-front-1732123-1-600x600.jpg"
+  "description": "400ml"
 }

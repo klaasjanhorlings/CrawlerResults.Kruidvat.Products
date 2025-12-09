@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Yari 100% Pure Conoconut Oil",
   "code": "3019535",
   "price": "3.49",
@@ -12,7 +12,7 @@
   "mmkId": "1058447",
   "productGroupId": "507562",
   "brandType": "Exclusief merk",
-  "discount": "$ 3,50",
+  "discount": "€ 3,50",
   "url": "/yari-100-pure-conoconut-oil/p/3019535",
   "listName": "Lister",
   "brand": "Yari",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h82/h2b/27779089956894/prd-front-3019535-1_600x600/prd-front-3019535-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Fa Oriental Neroli Douchecrème",
   "code": "3552508",
   "price": "4.29",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h24/h38/44915073187870/prd-front-3552508-1_600x600/prd-front-3552508-1-600x600.jpg"
 }

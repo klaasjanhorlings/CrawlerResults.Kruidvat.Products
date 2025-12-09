@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dove Advanced Care Anti-Stress Douchegel",
   "code": "6058022",
   "price": "5.95",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "225ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h83/h9c/30702530822174/prd-front-6058022-1_600x600/prd-front-6058022-1-600x600.jpg"
+  "description": "225ml - Normale huid"
 }

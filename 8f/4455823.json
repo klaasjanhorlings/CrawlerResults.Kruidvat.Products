@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Yari Naturals Sulfate Free Shampoo",
   "code": "4455823",
   "price": "6.49",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "375ml"
+  "description": "375ml",
+  "image": "/medias/prd-front-4455823-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjIyNTF8aW1hZ2UvanBlZ3xhREZsTDJnd1lpOHlOamc0TkRRd05ERTRNekEzTUM5d2NtUXRabkp2Ym5RdE5EUTFOVGd5TXkweFh6WXdNSGcyTURBfDY1MmVkMjMzMDZkNmQ4ZjU5ZjU3ZmVlMzRkMDZhNmU2NTM1NjVkNzY3YmRkN2IyMDBmZTQyNzFjZTgwMzI5OWY"
 }

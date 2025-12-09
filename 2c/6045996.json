@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Odorex Extra Dry Regular Antitranspirant Spray",
   "code": "6045996",
   "price": "8.29",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h3c/h95/44329308684318/prd-front-6045996-1_600x600/prd-front-6045996-1-600x600.jpg"
+  "description": "150ml"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Spiderman Snuggle Kinderhoodie",
+  "code": "6371307",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2495 > 3061 > 3520 > 5795 > 5928 > 6716",
+  "supplier": "SABORN TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/spiderman-snuggle-kinderhoodie/p/6371307",
+  "listName": "Lister",
+  "brand": "Spiderman",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266856,
+      "name": "Kinderpyjama's"
+    }
+  ],
+  "description": "blauw, rood, mt 122-128",
+  "image": "/medias/sys_master/prd-images/hc7/hbc/44159407980574/prd-front-6371307-1_600x600/prd-front-6371307-1-600x600.jpg"
+}

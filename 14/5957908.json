@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kneipp Relaxing Nourishing Body Cream",
   "code": "5957908",
   "price": "12.99",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hc7/hba/30124234244126/prd-front-5957908-1_600x600/prd-front-5957908-1-600x600.jpg"
+  "description": "200ml"
 }

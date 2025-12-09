@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Braun Series 7 Scheerapparaat",
   "code": "6121813",
   "price": "119.99",
@@ -12,7 +12,7 @@
   "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 120,00",
+  "discount": "€ 120,00",
   "url": "/braun-series-7-scheerapparaat/p/6121813",
   "listName": "Lister",
   "brand": "Braun",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h71/h5b/32570882588702/prd-front-6121813-1_600x600/prd-front-6121813-1-600x600.jpg"
 }

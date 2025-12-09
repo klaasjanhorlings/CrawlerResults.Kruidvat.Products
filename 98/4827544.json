@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Creme Aloe Douchecrème",
   "code": "4827544",
   "price": "5.29",
@@ -33,6 +33,5 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h89/h94/32902371868702/prd-front-4827544-1_600x600/prd-front-4827544-1-600x600.jpg"
+  "description": "250ml - Normale huid"
 }

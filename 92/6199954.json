@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Stay Well 98% Aloe Soothing Gel",
   "code": "6199954",
   "price": "2.92",
@@ -12,7 +12,7 @@
   "mmkId": "1058266",
   "productGroupId": "484751",
   "brandType": "A of B merk",
-  "discount": "$ 0,98",
+  "discount": "€ 0,98",
   "url": "/stay-well-98-aloe-soothing-gel/p/6199954",
   "listName": "Lister",
   "brand": "STAY WELL",
@@ -33,6 +33,5 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "55ml",
-  "image": "/medias/sys_master/prd-images/he1/h9d/32250468728862/prd-front-6199954-1_600x600/prd-front-6199954-1-600x600.jpg"
+  "description": "55ml"
 }

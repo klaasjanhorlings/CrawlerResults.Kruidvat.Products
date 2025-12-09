@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier Loving Blends Rice Water Infusion & Zetmeel Gladmakende Conditioner",
   "code": "6029056",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h0e/he0/31567481176094/prd-front-6029056-1_600x600/prd-front-6029056-1-600x600.jpg"
 }

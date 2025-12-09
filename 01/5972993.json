@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Remington D5710 Thermacare Pro 2200 Watt Föhn",
   "code": "5972993",
   "price": "24.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 6,00",
+  "discount": "€ 6,00",
   "url": "/remington-d5710-thermacare-pro-2200-watt-fohn/p/5972993",
   "listName": "Lister",
   "brand": "Remington",
@@ -37,6 +37,5 @@
       "name": "Föhns"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hd4/hdc/29287084851230/prd-front-5972993-1_600x600/prd-front-5972993-1-600x600.jpg"
+  "description": ""
 }

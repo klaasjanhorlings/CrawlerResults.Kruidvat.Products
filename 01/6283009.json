@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Moments Sandalwood & Cupuacu Butter Handbalm",
   "code": "6283009",
   "price": "2.44",
@@ -12,7 +12,7 @@
   "mmkId": "1058387",
   "productGroupId": "505350",
   "brandType": "Eigen merk",
-  "discount": "$ 1,05",
+  "discount": "€ 1,05",
   "url": "/kruidvat-moments-sandalwood-cupuacu-butter-handbalm/p/6283009",
   "listName": "Lister",
   "brand": "Kruidvat Moments",
@@ -33,6 +33,5 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h12/hfc/33847925014558/prd-front-6283009-1_600x600/prd-front-6283009-1-600x600.jpg"
+  "description": "150ml"
 }

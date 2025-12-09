@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Rexona Women Invisible Aqua Antitranspirant Spray",
   "code": "2152564",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hf7/hcd/44524263669790/prd-front-2152564-1_600x600/prd-front-2152564-1-600x600.jpg"
+  "description": "150ml"
 }

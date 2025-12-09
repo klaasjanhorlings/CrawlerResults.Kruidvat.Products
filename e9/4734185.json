@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Professional Multigroomkit",
   "code": "4734185",
   "price": "17.99",
@@ -33,6 +33,5 @@
       "name": "Multigroomers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h68/hfb/28858729365534/prd-front-4734185-1_600x600/prd-front-4734185-1-600x600.jpg"
+  "description": ""
 }

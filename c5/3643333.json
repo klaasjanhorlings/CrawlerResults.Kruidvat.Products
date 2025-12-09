@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Guhl Kleurbescherming & Verzorging Shampoo",
+  "code": "3643333",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "GUHL IKEBANA COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "1058456",
+  "mmkId": "1058456",
+  "productGroupId": "508261",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/guhl-kleurbescherming-verzorging-shampoo/p/3643333",
+  "listName": "Lister",
+  "brand": "Guhl",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h12/h29/44652982501406/prd-front-3643333-1_600x600/prd-front-3643333-1-600x600.jpg"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dove Body Love Essential Care Handcrème",
   "code": "5169921",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h82/h74/28479358795806/prd-front-5169921-1_600x600/prd-front-5169921-1-600x600.jpg"
 }

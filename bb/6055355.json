@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Odorex Invisible Dry Deodorant Antitranspirant Spray",
   "code": "6055355",
   "price": "4.49",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h0c/h9c/44329308880926/prd-front-6055355-1_600x600/prd-front-6055355-1-600x600.jpg"
 }

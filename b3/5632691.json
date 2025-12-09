@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Therme Zen White Lotus Extra Dry 48H Cream",
   "code": "5632691",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Deodorant creme"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h51/h62/29340081422366/prd-front-5632691-1_600x600/prd-front-5632691-1-600x600.jpg"
 }
