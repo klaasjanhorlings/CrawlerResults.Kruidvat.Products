@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Soft Touch 20 Golden Buttercream Butter Bronzer",
-  "code": "6349040",
-  "price": "2.99",
+  "itemName": "Essence Curl Fixing Lash Base",
+  "code": "6348662",
+  "price": "3.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1058548",
@@ -13,7 +13,7 @@
   "productGroupId": "524247",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-soft-touch-20-golden-buttercream-butter-bronzer/p/6349040",
+  "url": "/essence-curl-fixing-lash-base/p/6348662",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266588,
-      "name": "Bronzer"
+      "id": 30266576,
+      "name": "Mascara"
     }
   ],
-  "description": "10g",
-  "image": "/medias/sys_master/prd-images/hf8/h27/44119070310430/prd-front-6349040-1_600x600/prd-front-6349040-1-600x600.jpg"
+  "description": "7ml",
+  "image": "/medias/sys_master/prd-images/hcc/hfe/44121751748638/prd-front-6348662-1_600x600/prd-front-6348662-1-600x600.jpg"
 }

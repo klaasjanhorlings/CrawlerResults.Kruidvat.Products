@@ -7,7 +7,7 @@
   "priceOriginal": "7.99",
   "itemBgbcat": "2176 > 2430 > 2915 > 3710 > 5921 > 6040",
   "supplier": "SPIN MASTER INT. SARL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059368",
   "mmkId": "1059368",
   "productGroupId": "",
@@ -25,12 +25,8 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266028,
-      "name": "Speelfiguren en speelsets"
-    },
-    {
-      "id": 84925806,
-      "name": "Speelsets"
+      "id": 30266030,
+      "name": "Knutselen"
     }
   ],
   "description": "",

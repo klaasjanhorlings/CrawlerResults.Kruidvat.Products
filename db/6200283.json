@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Cosrx BHA Blackhead Power Liquid",
   "code": "6200283",
-  "price": "17.26",
+  "price": "17.25",
   "priceOriginal": "23.0",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
@@ -12,7 +12,7 @@
   "mmkId": "1058266",
   "productGroupId": "484751",
   "brandType": "A of B merk",
-  "discount": "€ 5,74",
+  "discount": "€ 5,75",
   "url": "/cosrx-bha-blackhead-power-liquid/p/6200283",
   "listName": "Lister",
   "brand": "COSRX",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
-    },
-    {
-      "id": 90760917,
-      "name": "Korean exfoliant"
+      "id": 84945977,
+      "name": "Exfoliant"
     }
   ],
   "description": "100ml",

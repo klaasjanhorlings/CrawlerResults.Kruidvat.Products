@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "AFC Ajax 2-in-1 Shampoo & Showergel",
+  "code": "6378671",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2440 > 2935 > 3730 > 5861 > 5864",
+  "supplier": "BRAND NEW FRAGRANCES CR",
+  "inStock": "inStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/afc-ajax-2-in-1-shampoo-showergel/p/6378671",
+  "listName": "Lister",
+  "brand": "AFC Ajax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72666181,
+      "name": "Geschenkset voor hem"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h29/hc5/44460999507998/prd-front-6378671-1_600x600/prd-front-6378671-1-600x600.jpg"
+}

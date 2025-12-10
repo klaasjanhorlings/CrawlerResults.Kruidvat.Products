@@ -25,10 +25,13 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266733,
+      "name": "ORS"
     }
   ],
-  "description": "15 stuks",
-  "image": "/medias/sys_master/prd-images/h24/h25/44276369358878/prd-front-6373960-1_600x600/prd-front-6373960-1-600x600.jpg"
+  "description": "15 stuks"
 }

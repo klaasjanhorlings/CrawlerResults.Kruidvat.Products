@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Hugo Boss Man Eau de Toilette",
-  "code": "6087898",
-  "price": "39.99",
+  "itemName": "Lolita Lempicka Eau de Parfum",
+  "code": "5985264",
+  "price": "42.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
-  "supplier": "SAR TRADING BV",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "JTG BV",
   "inStock": "outOfStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/hugo-boss-man-eau-de-toilette/p/6087898",
+  "url": "/lolita-lempicka-eau-de-parfum/p/5985264",
   "listName": "Lister",
-  "brand": "Hugo Boss",
+  "brand": "Lolita Lempicka",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -29,10 +29,10 @@
       "name": "Parfum"
     },
     {
-      "id": 72654823,
-      "name": "Herenparfum"
+      "id": 72654362,
+      "name": "Damesparfum"
     }
   ],
-  "description": "125ml",
-  "image": "/medias/sys_master/prd-images/h65/haa/30743127392286/prd-front-6087898-1_600x600/prd-front-6087898-1-600x600.jpg"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h8c/h86/29217490960414/prd-front-5985264-1_600x600/prd-front-5985264-1-600x600.jpg"
 }

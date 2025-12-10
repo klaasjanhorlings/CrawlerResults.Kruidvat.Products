@@ -29,9 +29,14 @@
       "name": "Skincare"
     },
     {
-      "id": 87390099,
-      "name": "Peeling"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266913,
+      "name": "Micellair water"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h96/h14/34612352876574/prd-front-5780682-1_600x600/prd-front-5780682-1-600x600.jpg"
 }

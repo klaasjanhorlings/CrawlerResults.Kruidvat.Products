@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Philips HP8660/40 Airstyler",
+  "itemName": "Philips 8000 Series HP8660/40 Airstyler",
   "code": "4931396",
   "price": "29.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/philips-hp8660/40-airstyler/p/4931396",
+  "url": "/philips-8000-series-hp8660/40-airstyler/p/4931396",
   "listName": "Lister",
   "brand": "Philips",
   "mpOrigin": "Kruidvat",
@@ -37,5 +37,6 @@
       "name": "Föhns"
     }
   ],
-  "description": ""
+  "description": "wit",
+  "image": "/medias/sys_master/prd-images/hcf/hc9/34110960009246/prd-front-4931396-1_600x600/prd-front-4931396-1-600x600.jpg"
 }

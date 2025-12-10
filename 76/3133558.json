@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Dermo Care Protector 48-Uur Deodorant Stick",
+  "code": "3133558",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3070 > 3684",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "1058327",
+  "mmkId": "1058327",
+  "productGroupId": "498721",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-dermo-care-protector-48-uur-deodorant-stick/p/3133558",
+  "listName": "Lister",
+  "brand": "Sanex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266645,
+      "name": "Deostick"
+    }
+  ],
+  "description": "65ml - Alle huidtypes"
+}

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Mixsoon Glacier Water Hyaluronix Acid Serum",
   "code": "6200010",
-  "price": "10.42",
+  "price": "10.43",
   "priceOriginal": "13.9",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
@@ -12,7 +12,7 @@
   "mmkId": "1058266",
   "productGroupId": "484751",
   "brandType": "A of B merk",
-  "discount": "€ 3,48",
+  "discount": "€ 3,47",
   "url": "/mixsoon-glacier-water-hyaluronix-acid-serum/p/6200010",
   "listName": "Lister",
   "brand": "MIXSOON",
@@ -25,16 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266605,
-      "name": "Serum"
+      "id": 73443650,
+      "name": "Korean Skincare"
     },
     {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 90760960,
+      "name": "Korean serum"
     }
   ],
   "description": "100ml",

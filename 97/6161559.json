@@ -21,17 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30266005,
-      "name": "Haarverzorging"
+      "id": 30265989,
+      "name": "Geschenksets"
     },
     {
-      "id": 30266694,
-      "name": "Shampoo"
+      "id": 72666181,
+      "name": "Geschenkset voor hem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfe/h5f/32436829323294/prd-front-6161559-1_600x600/prd-front-6161559-1-600x600.jpg"
 }

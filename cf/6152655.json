@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2153 > 5929 > 6014 > 6728 > 6729 > 6730",
   "supplier": "I-STAR WORLD BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -25,8 +25,12 @@
       "name": "Elektronica"
     },
     {
-      "id": 30266061,
-      "name": "Verrassend elektronica"
+      "id": 30266902,
+      "name": "Telefoonaccessoires"
+    },
+    {
+      "id": 30267035,
+      "name": "Telefoonkabeltjes"
     }
   ],
   "description": "2 stuks",

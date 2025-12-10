@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Solait SPF30  XXL Sunmilk",
+  "code": "3736104",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "DALLI - WERKE GMBH & CO",
+  "inStock": "inStock",
+  "onPromo": "1058415",
+  "mmkId": "1058415",
+  "productGroupId": "507024",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-solait-spf30-xxl-sunmilk/p/3736104",
+  "listName": "Lister",
+  "brand": "Kruidvat Solait",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/hbc/h80/44855727095838/prd-front-3736104-1_600x600/prd-front-3736104-1-600x600.jpg"
+}

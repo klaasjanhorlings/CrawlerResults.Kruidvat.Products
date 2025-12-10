@@ -25,13 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
+      "id": 30265999,
+      "name": "Zonbescherming"
     },
     {
-      "id": 30266637,
-      "name": "Bodylotion"
+      "id": 30266658,
+      "name": "Aftersun"
     }
   ],
-  "description": "55ml"
+  "description": "55ml",
+  "image": "/medias/sys_master/prd-images/he1/h9d/32250468728862/prd-front-6199954-1_600x600/prd-front-6199954-1-600x600.jpg"
 }

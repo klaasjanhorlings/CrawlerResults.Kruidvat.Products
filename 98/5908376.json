@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Maybelline New York Express Brow 06 Black Brown Shaping Pencil",
-  "code": "5783461",
-  "price": "5.99",
+  "itemName": "Maybelline New York Instant Perfector 4-in-1 Glow 0.5 Fair Light Cool Concealer",
+  "code": "5908376",
+  "price": "18.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
   "onPromo": "1058304",
@@ -13,7 +13,7 @@
   "productGroupId": "496158",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/maybelline-new-york-express-brow-06-black-brown-shaping-pencil/p/5783461",
+  "url": "/maybelline-new-york-instant-perfector-4-in-1-glow-05-fair-light-cool-concealer/p/5908376",
   "listName": "Lister",
   "brand": "Maybelline",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266592,
-      "name": "Wenkbrauw make-up"
-    },
-    {
-      "id": 30266908,
-      "name": "Wenkbrauwpotlood"
+      "id": 30266580,
+      "name": "BB cream"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h2b/h8a/44812613353502/prd-front-5783461-1_600x600/prd-front-5783461-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h08/hf6/44805285216286/prd-front-5908376-1_600x600/prd-front-5908376-1-600x600.jpg"
 }

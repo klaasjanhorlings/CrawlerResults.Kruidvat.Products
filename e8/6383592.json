@@ -11,7 +11,7 @@
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Exclusief merk",
   "discount": "",
   "url": "/okeeffes-hand-body-lotion/p/6383592",
   "listName": "Lister",
@@ -25,12 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
+      "id": 30266003,
+      "name": "Handverzorging"
     },
     {
-      "id": 30266637,
-      "name": "Bodylotion"
+      "id": 30266691,
+      "name": "Handlotion"
     }
   ],
   "description": "315ml",

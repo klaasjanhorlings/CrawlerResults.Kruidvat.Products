@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zwitsal Crème Zeep",
+  "code": "6310743",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2326 > 3310 > 4214",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1053275",
+  "mmkId": "1053275",
+  "productGroupId": "497662",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zwitsal-creme-zeep/p/6310743",
+  "listName": "Lister",
+  "brand": "Zwitsal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266777,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267022,
+      "name": "Babyzeep"
+    }
+  ],
+  "description": "4 x 90g",
+  "image": "/medias/sys_master/prd-images/hd7/h61/34731410685982/prd-front-6310743-1_600x600/prd-front-6310743-1-600x600.jpg"
+}

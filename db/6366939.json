@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "COLGATE PALMOLIVE NLD",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058327",
   "mmkId": "1058327",
   "productGroupId": "498721",
@@ -29,8 +29,8 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266649,
-      "name": "Doucheolie"
+      "id": 30266648,
+      "name": "Douchegel"
     }
   ],
   "description": "450ml - Gevoelige huid",
