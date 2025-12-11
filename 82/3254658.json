@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4315",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
@@ -29,5 +29,6 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb4/h7b/44365675659294/prd-front-3254658-1_600x600/prd-front-3254658-1-600x600.jpg"
 }

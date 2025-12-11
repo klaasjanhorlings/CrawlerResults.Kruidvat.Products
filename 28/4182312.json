@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6c/h72/35120411541534/prd-front-4182312-1_600x600/prd-front-4182312-1-600x600.jpg"
 }

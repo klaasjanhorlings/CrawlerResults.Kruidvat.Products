@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "ELF BEAUTY UK LIMITED",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
@@ -37,5 +37,6 @@
       "name": "Lip balm"
     }
   ],
-  "description": "15g"
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/h87/h4e/34284256952350/prd-front-6275372-1_600x600/prd-front-6275372-1-600x600.jpg"
 }

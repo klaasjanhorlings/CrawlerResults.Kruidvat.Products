@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Davidoff Adventure Eau de Toilette",
-  "code": "3770838",
-  "price": "21.93",
+  "itemName": "Hugo Boss Man Eau de Toilette",
+  "code": "6087898",
+  "price": "39.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "SAR TRADING BV",
@@ -13,9 +13,9 @@
   "productGroupId": "524247",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/davidoff-adventure-eau-de-toilette/p/3770838",
+  "url": "/hugo-boss-man-eau-de-toilette/p/6087898",
   "listName": "Lister",
-  "brand": "Davidoff",
+  "brand": "Hugo Boss",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-3770838-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA3MDV8aW1hZ2UvanBlZ3xhRE0wTDJnNE5pOHlOekV6TnpnNU1qazBNVGcxTkM5d2NtUXRabkp2Ym5RdE16YzNNRGd6T0MweFh6WXdNSGcyTURBfGZkNGE4M2U3OTJkMjNhMWIzMGEyZGRkM2Q1NGFlMDJkYzVhYzhiYjMzNzA0N2M2Y2UxMzQ5N2IxMTY2YWE5ZGE"
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h65/haa/30743127392286/prd-front-6087898-1_600x600/prd-front-6087898-1-600x600.jpg"
 }
