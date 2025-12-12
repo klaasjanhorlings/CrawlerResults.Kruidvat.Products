@@ -29,10 +29,13 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49792812,
-      "name": "Omega 3"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266989,
+      "name": "Vitamine B"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h4f/hab/31696315187230/prd-front-6161699-1_600x600/prd-front-6161699-1-600x600.jpg"
+  "description": "60 stuks"
 }

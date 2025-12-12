@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058243",
   "mmkId": "1058243",
   "productGroupId": "471988",
@@ -37,5 +37,6 @@
       "name": "Sheet maskers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h8b/h5f/32870242582558/prd-front-4991792-1_600x600/prd-front-4991792-1-600x600.jpg"
 }

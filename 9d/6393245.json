@@ -25,10 +25,17 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 30266940,
+      "name": "Littekencremes"
     }
   ],
-  "description": "Medisch hulpmiddel - 15g",
-  "image": "/medias/sys_master/prd-images/hde/he1/44274702155806/prd-front-6393245-1_600x600/prd-front-6393245-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 15g"
 }

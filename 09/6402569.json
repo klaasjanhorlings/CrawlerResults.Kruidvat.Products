@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Antioxidant Complex Capsules",
   "code": "6402569",
-  "price": "16.99",
+  "price": "19.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6196 > 6214 > 6248",
   "supplier": "PK BENELUX BV",
@@ -25,12 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266721,
-      "name": "Overige supplementen"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "30 stuks",

@@ -7,7 +7,7 @@
   "priceOriginal": "2.59",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 2837 > 3478",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058601",
   "mmkId": "1058601",
   "productGroupId": "500902",
@@ -25,12 +25,8 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266003,
-      "name": "Handverzorging"
-    },
-    {
-      "id": 30266688,
-      "name": "Handcrèmes"
+      "id": 91341800,
+      "name": "Mini reisverpakkingen"
     }
   ],
   "description": "50ml",

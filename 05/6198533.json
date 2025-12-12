@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Kneipp Relaxing Geschenkset",
   "code": "6198533",
-  "price": "10.0",
+  "price": "9.99",
   "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
   "supplier": "KNEIPP NEDERLAND BV",
@@ -12,7 +12,7 @@
   "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "A or B brand",
-  "discount": "€ 9,99",
+  "discount": "€ 10,00",
   "url": "/kneipp-relaxing-geschenkset/p/6198533",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -37,5 +37,6 @@
       "name": "Bad & douche geschenksets"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h79/h23/32335369338910/prd-front-6198533-1_600x600/prd-front-6198533-1-600x600.jpg"
 }

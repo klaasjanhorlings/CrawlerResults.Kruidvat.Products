@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Lucovitaal D-Mannose Blaasontsteking Capsules",
   "code": "6390613",
-  "price": "11.99",
+  "price": "13.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6210 > 6228 > 6597",
   "supplier": "PK BENELUX BV",
@@ -25,8 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 52585207,
+      "name": "Blaasontsteking"
     }
   ],
   "description": "Medisch hulpmiddel - 30 stuks",

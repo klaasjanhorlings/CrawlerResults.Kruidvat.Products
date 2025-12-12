@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "John Frieda Frizz Ease Dream Curls Crème Oil",
   "code": "5605321",
-  "price": "7.49",
+  "price": "7.5",
   "priceOriginal": "14.99",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6696 > 2835",
   "supplier": "GUHL IKEBANA COSMETICS",
@@ -12,7 +12,7 @@
   "mmkId": "1058447",
   "productGroupId": "507562",
   "brandType": "A of B merk",
-  "discount": "€ 7,50",
+  "discount": "€ 7,49",
   "url": "/john-frieda-frizz-ease-dream-curls-creme-oil/p/5605321",
   "listName": "Lister",
   "brand": "John Frieda",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h4a/h4d/28998920175646/prd-front-5605321-1_600x600/prd-front-5605321-1-600x600.jpg"
 }

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Goliath Mexican Train Dominoes",
   "code": "6311779",
-  "price": "10.0",
+  "price": "9.99",
   "priceOriginal": "19.99",
   "itemBgbcat": "2181 > 5164 > 5227 > 5416 > 5921 > 6018",
   "supplier": "GOLIATH B.V.",
@@ -12,7 +12,7 @@
   "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 9,99",
+  "discount": "€ 10,00",
   "url": "/goliath-mexican-train-dominoes/p/6311779",
   "listName": "Lister",
   "brand": "Goliath",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1b/h12/34723260006430/prd-front-6311779-1_600x600/prd-front-6311779-1-600x600.jpg"
+  "description": ""
 }

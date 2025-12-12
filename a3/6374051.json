@@ -25,10 +25,18 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266710,
+      "name": "Zelftesten"
+    },
+    {
+      "id": 30266984,
+      "name": "Gezondheidstesten"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h91/h51/45125877104670/prd-front-6374051-1_600x600/prd-front-6374051-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h48/hc9/45143315775518/prd-front-6374051-1_600x600/prd-front-6374051-1-600x600.jpg"
 }

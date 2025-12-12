@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Vitamine B Complex Forte Tabletten",
   "code": "4421509",
-  "price": "14.99",
+  "price": "15.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6206 > 6224 > 6298",
   "supplier": "PK BENELUX BV",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266989,
-      "name": "Vitamine B"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "60 stuks",

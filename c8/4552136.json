@@ -25,9 +25,18 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30266938,
+      "name": "Eczeemcreme"
     }
   ],
-  "description": "Medisch hulpmiddel - 200ml"
+  "description": "Medisch hulpmiddel - 200ml",
+  "image": "/medias/sys_master/prd-images/h86/h3b/44274506268702/prd-front-4552136-1_600x600/prd-front-4552136-1-600x600.jpg"
 }

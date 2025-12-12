@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "OCEANIC SP. Z O.O.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058371",
   "mmkId": "1058371",
   "productGroupId": "502869",
@@ -33,8 +33,8 @@
       "name": "Serum"
     },
     {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 87639213,
+      "name": "Oogserum"
     }
   ],
   "description": "2,5ml",

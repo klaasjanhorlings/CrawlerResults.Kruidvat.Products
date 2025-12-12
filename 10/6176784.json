@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6496 > 6508 > 6512 > 6516 > 6520",
   "supplier": "ANVIRI COSMETICS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
@@ -33,5 +33,6 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h3b/h55/32211832569886/prd-front-6176784-1_600x600/prd-front-6176784-1-600x600.jpg"
 }

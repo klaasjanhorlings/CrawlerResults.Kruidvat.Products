@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69043063,
-      "name": "LEGO Bloemen"
+      "id": 69044935,
+      "name": "LEGO Verjaardagscadeaus"
     }
   ],
   "description": "",
