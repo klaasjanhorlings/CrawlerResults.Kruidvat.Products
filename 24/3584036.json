@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Ella's Kitchen The Red One Fruitsmoothie",
   "code": "3584036",
   "price": "1.29",
@@ -37,6 +37,5 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "90g",
-  "image": "/medias/sys_master/prd-images/h43/h60/28023261102110/prd-front-3584036-1_600x600/prd-front-3584036-1-600x600.jpg"
+  "description": "90g"
 }

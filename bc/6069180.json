@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Medela Ultra-Ademende Zoogkompressen",
   "code": "6069180",
   "price": "10.99",
@@ -33,5 +33,6 @@
       "name": "Zoogkompressen"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h11/h99/30948259266590/prd-front-6069180-1_600x600/prd-front-6069180-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "De Kleine Keuken 12+M Biologische Rozijntjes",
   "code": "5975114",
   "price": "3.39",
@@ -33,6 +33,5 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "140g",
-  "image": "/medias/sys_master/prd-images/h3f/hcf/44862431166494/prd-front-5975114-1_600x600/prd-front-5975114-1-600x600.jpg"
+  "description": "140g"
 }

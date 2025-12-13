@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 6+M Drinkbeker met Rietje",
   "code": "5092102",
   "price": "3.29",
@@ -33,6 +33,5 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "blauw, 300ml",
-  "image": "/medias/sys_master/prd-images/h4b/had/27404155584542/prd-front-5092102-1_600x600/prd-front-5092102-1-600x600.jpg"
+  "description": "blauw, 300ml"
 }

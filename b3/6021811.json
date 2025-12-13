@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Biodermal Pigment SPF50 Dagcrème",
   "code": "6021811",
   "price": "39.99",
@@ -37,5 +37,6 @@
       "name": "Pigmentverzorging"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/ha9/ha0/44154977681438/prd-front-6021811-1_600x600/prd-front-6021811-1-600x600.jpg"
 }

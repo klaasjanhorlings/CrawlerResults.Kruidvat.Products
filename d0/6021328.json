@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hugo Boss Woman Eau de Parfum",
+  "code": "6021328",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hugo-boss-woman-eau-de-parfum/p/6021328",
+  "listName": "Lister",
+  "brand": "Hugo Boss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "90ml",
+  "image": "/medias/sys_master/prd-images/hae/h56/44066660417566/prd-front-6021328-1_600x600/prd-front-6021328-1-600x600.jpg"
+}

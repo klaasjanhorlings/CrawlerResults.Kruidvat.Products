@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Soré 18+M Cheese Puffs",
   "code": "6240512",
   "price": "1.0",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,19",
+  "discount": "$ 1,19",
   "url": "/sore-18m-cheese-puffs/p/6240512",
   "listName": "Lister",
   "brand": "Sore",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Medela Contact Tepelhoedjes",
   "code": "3497761",
   "price": "11.99",
@@ -37,5 +37,6 @@
       "name": "Tepelhoedjes"
     }
   ],
-  "description": "mt M, 2 stuks"
+  "description": "mt M, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h90/h76/32147059572766/prd-front-3497761-1_600x600/prd-front-3497761-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Organix 6+M Mango, Peer & Granola Knijpfruit",
   "code": "4630445",
   "price": "1.49",
@@ -37,5 +37,6 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/hd8/h27/32823817830430/prd-front-4630445-1_600x600/prd-front-4630445-1-600x600.jpg"
 }
