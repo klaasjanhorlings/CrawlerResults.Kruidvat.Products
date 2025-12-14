@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Naïf Baby & Kids 2-in-1 Shampoo & Body Wash",
   "code": "6122793",
   "price": "12.49",
@@ -37,6 +37,5 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h37/h39/31287748788254/prd-front-6122793-1_600x600/prd-front-6122793-1-600x600.jpg"
+  "description": "200ml"
 }

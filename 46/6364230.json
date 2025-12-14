@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 18+M Bio Fruitsticks",
   "code": "6364230",
   "price": "2.49",
@@ -33,5 +33,6 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "68g"
+  "description": "68g",
+  "image": "/medias/sys_master/prd-images/h6f/h55/44001355989022/prd-front-6364230-1_600x600/prd-front-6364230-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Pampers Premium Protection Pants Maat 7 Luierbroekjes",
   "code": "6243445",
   "price": "31.99",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 7"
     }
   ],
-  "description": "mt 7 (15+kg), 30 stuks"
+  "description": "mt 7 (15+kg), 30 stuks",
+  "image": "/medias/sys_master/prd-images/h48/h95/34794048585758/prd-front-6243445-1_600x600/prd-front-6243445-1-600x600.jpg"
 }

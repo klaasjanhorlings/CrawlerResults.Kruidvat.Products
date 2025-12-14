@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Waterwipes Snoetendoekjes",
   "code": "5492852",
   "price": "39.99",
@@ -33,6 +33,5 @@
       "name": "Snoetenpoetsers"
     }
   ],
-  "description": "9 x 60 stuks",
-  "image": "/medias/sys_master/prd-images/h0f/hcd/34101085077534/prd-front-5492852-1_600x600/prd-front-5492852-1-600x600.jpg"
+  "description": "9 x 60 stuks"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Zwitsal Shampoo",
   "code": "6327018",
   "price": "46.14",
@@ -37,5 +37,6 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "6 x 400 ml"
+  "description": "6 x 400 ml",
+  "image": "/medias/sys_master/prd-images/hf4/hda/34487903125534/prd-front-6327018-1_600x600/prd-front-6327018-1-600x600.jpg"
 }
