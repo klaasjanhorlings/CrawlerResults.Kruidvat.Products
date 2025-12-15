@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Weleda Ogentroost Oogdruppels",
   "code": "1150493",
-  "price": "12.99",
-  "priceOriginal": "",
+  "price": "9.74",
+  "priceOriginal": "12.99",
   "itemBgbcat": "2006 > 2074 > 2155 > 3114 > 3611 > 6786",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1058862",
+  "mmkId": "1058862",
+  "productGroupId": "504336",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,25",
   "url": "/weleda-ogentroost-oogdruppels/p/1150493",
   "listName": "Lister",
   "brand": "Weleda",
@@ -33,5 +33,6 @@
       "name": "Oogdruppels"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/hce/h3e/34604584370206/prd-front-1150493-1_600x600/prd-front-1150493-1-600x600.jpg"
 }

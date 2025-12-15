@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 3878 > 5725",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1058240",
-  "mmkId": "1058240",
-  "productGroupId": "471212",
+  "onPromo": "1058744",
+  "mmkId": "1058744",
+  "productGroupId": "471211",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-men-deep-clean-douchegel/p/4387314",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "500ml - Normale huid"
+  "description": "500ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h55/h5e/32904943042590/prd-front-4387314-1_600x600/prd-front-4387314-1-600x600.jpg"
 }

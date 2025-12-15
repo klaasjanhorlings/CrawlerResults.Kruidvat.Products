@@ -8,9 +8,9 @@
   "itemBgbcat": "2146 > 5926 > 5962 > 5979 > 5996 > 6679",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058806",
+  "mmkId": "1058806",
+  "productGroupId": "497122",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-morning-blossom-roomspray/p/6110669",
@@ -33,5 +33,6 @@
       "name": "Geurstokjes"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hdd/h10/31801468452894/prd-front-6110669-1_600x600/prd-front-6110669-1-600x600.jpg"
 }

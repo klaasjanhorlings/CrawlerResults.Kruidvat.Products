@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "1058265",
-  "mmkId": "1058265",
-  "productGroupId": "484202",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/as-i-am-curl-clarity-shampoo/p/5423230",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "237ml",
-  "image": "/medias/sys_master/prd-images/h1f/h35/27775576408094/prd-front-5423230-1_600x600/prd-front-5423230-1-600x600.jpg"
+  "description": "237ml"
 }

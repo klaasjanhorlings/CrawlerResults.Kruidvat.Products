@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Fa Passion Fruit Pools Deodorant Spray",
   "code": "6009799",
-  "price": "4.49",
-  "priceOriginal": "",
+  "price": "1.5",
+  "priceOriginal": "4.49",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1058389",
-  "mmkId": "1058389",
-  "productGroupId": "505705",
+  "onPromo": "1058865",
+  "mmkId": "1058865",
+  "productGroupId": "505707",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,99",
   "url": "/fa-passion-fruit-pools-deodorant-spray/p/6009799",
   "listName": "Lister",
   "brand": "Fa",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h9a/h59/44486069256222/prd-front-6009799-1_600x600/prd-front-6009799-1-600x600.jpg"
 }

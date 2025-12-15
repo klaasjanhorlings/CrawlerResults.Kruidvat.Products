@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
-  "inStock": "inStock",
-  "onPromo": "1058342",
-  "mmkId": "1058342",
-  "productGroupId": "500179",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tena-lights-sensitive-long-inlegkruisjes/p/3421314",
@@ -37,5 +37,6 @@
       "name": "Incontinentie-inlegkruisjes"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks"
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/hc2/hfb/33389628522526/prd-front-3421314-1_600x600/prd-front-3421314-1-600x600.jpg"
 }

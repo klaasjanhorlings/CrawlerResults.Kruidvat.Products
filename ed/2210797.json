@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1058477",
-  "mmkId": "1058477",
-  "productGroupId": "509501",
+  "onPromo": "1058907",
+  "mmkId": "1058907",
+  "productGroupId": "509500",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-maxi-maat-4-luiers-jumbopack/p/2210797",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "mt 4 (8-12 kg), 80 stuks"
+  "description": "mt 4 (8-12 kg), 80 stuks",
+  "image": "/medias/sys_master/prd-images/hff/h03/44970375381022/prd-front-2210797-1_600x600/prd-front-2210797-1-600x600.jpg"
 }

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "LEGO 40743 Kersttafeldecoratie",
   "code": "6377292",
-  "price": "28.5",
+  "price": "28.49",
   "priceOriginal": "37.99",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
@@ -12,7 +12,7 @@
   "mmkId": "1059487",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 9,49",
+  "discount": "€ 9,50",
   "url": "/lego-40743-kersttafeldecoratie/p/6377292",
   "listName": "Lister",
   "brand": "LEGO",
@@ -33,6 +33,5 @@
       "name": "LEGO Volwassenen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h24/h7c/45079771742238/prd-front-6377292-1_600x600/prd-front-6377292-1-600x600.jpg"
+  "description": ""
 }

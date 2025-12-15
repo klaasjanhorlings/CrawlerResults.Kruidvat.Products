@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pickwick Green Tea Lemon Thee",
+  "code": "6416079",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2630 > 2947 > 3743",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pickwick-green-tea-lemon-thee/p/6416079",
+  "listName": "Lister",
+  "brand": "Pickwick",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266887,
+      "name": "Thee"
+    }
+  ],
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/h6d/h2e/44933351637022/prd-front-6416079-1_600x600/prd-front-6416079-1-600x600.jpg"
+}

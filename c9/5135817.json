@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3067 > 3681",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1058267",
-  "mmkId": "1058267",
-  "productGroupId": "487273",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/deoleen-sensitive-antitranspirant-met-pomp/p/5135817",
@@ -33,6 +33,5 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/hec/hfa/44936643510302/prd-front-5135817-1_600x600/prd-front-5135817-1-600x600.jpg"
+  "description": "75ml"
 }

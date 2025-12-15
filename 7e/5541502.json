@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Cellular Luminous630 Anti-Spot Teint Egaliserende Nachtcrème",
   "code": "5541502",
-  "price": "20.99",
-  "priceOriginal": "41.99",
+  "price": "41.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1058248",
-  "mmkId": "1058248",
-  "productGroupId": "474466",
+  "onPromo": "1058744",
+  "mmkId": "1058744",
+  "productGroupId": "471211",
   "brandType": "A of B merk",
-  "discount": "€ 21,00",
+  "discount": "",
   "url": "/nivea-cellular-luminous630-anti-spot-teint-egaliserende-nachtcreme/p/5541502",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -33,6 +33,5 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hb3/he0/44918770630686/prd-front-5541502-1_600x600/prd-front-5541502-1-600x600.jpg"
+  "description": "50ml - Alle huidtypen"
 }

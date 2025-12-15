@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "DERMCOS GMBH",
   "inStock": "inStock",
-  "onPromo": "1058415",
-  "mmkId": "1058415",
-  "productGroupId": "507024",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-solait-kids-spf50-sunspray/p/4059525",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h8b/h1f/44808102838302/prd-front-4059525-1_600x600/prd-front-4059525-1-600x600.jpg"
 }

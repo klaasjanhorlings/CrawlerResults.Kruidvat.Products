@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058396",
-  "mmkId": "1058396",
-  "productGroupId": "506342",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-vivid-brights-07-lilac-link-liquid-eyeliner/p/6130934",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "2ml"
+  "description": "2ml",
+  "image": "/medias/sys_master/prd-images/hb2/h96/31922327453726/prd-front-6130934-1_600x600/prd-front-6130934-1-600x600.jpg"
 }

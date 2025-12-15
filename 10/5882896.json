@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
-  "onPromo": "1058317",
-  "mmkId": "1058317",
-  "productGroupId": "497013",
+  "inStock": "outOfStock",
+  "onPromo": "1058805",
+  "mmkId": "1058805",
+  "productGroupId": "497017",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-neus-bijholtespray/p/5882896",
@@ -37,5 +37,6 @@
       "name": "Neusspray"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml"
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h2f/hfa/44276346224670/prd-front-5882896-1_600x600/prd-front-5882896-1-600x600.jpg"
 }

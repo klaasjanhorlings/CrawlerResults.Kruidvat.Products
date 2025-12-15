@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Drs Leenarts Dag- en Nachtcrème",
   "code": "6311576",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "11.19",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1058763",
+  "mmkId": "1058763",
+  "productGroupId": "482865",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,80",
   "url": "/drs-leenarts-dag-en-nachtcreme/p/6311576",
   "listName": "Lister",
   "brand": "Drs Leenarts",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h8a/hb7/34115012362270/prd-front-6311576-1_600x600/prd-front-6311576-1-600x600.jpg"
 }

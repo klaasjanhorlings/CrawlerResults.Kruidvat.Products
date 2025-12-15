@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1058246",
-  "mmkId": "1058246",
-  "productGroupId": "473140",
+  "onPromo": "1058750",
+  "mmkId": "1058750",
+  "productGroupId": "473118",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/diadermine-expert-fondamental-nachtcreme/p/4071915",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Rijpe huid"
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h1a/h7b/34599894319134/prd-front-4071915-1_600x600/prd-front-4071915-1-600x600.jpg"
 }

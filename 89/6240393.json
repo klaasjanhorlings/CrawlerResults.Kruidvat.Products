@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Yari Rosemary & Batana Oil",
   "code": "6240393",
-  "price": "4.99",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "1058447",
-  "mmkId": "1058447",
-  "productGroupId": "507562",
+  "onPromo": "1058768",
+  "mmkId": "1058768",
+  "productGroupId": "484203",
   "brandType": "Exclusief merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/yari-rosemary-batana-oil/p/6240393",
   "listName": "Lister",
   "brand": "Yari",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h35/hfb/33110703308830/prd-front-6240393-1_600x600/prd-front-6240393-1-600x600.jpg"
 }

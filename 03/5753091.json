@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058303",
-  "mmkId": "1058303",
-  "productGroupId": "496152",
+  "onPromo": "1058746",
+  "mmkId": "1058746",
+  "productGroupId": "471421",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-35n-true-match-foundation/p/5753091",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h93/hf8/45053436330014/prd-front-5753091-1_600x600/prd-front-5753091-1-600x600.jpg"
 }

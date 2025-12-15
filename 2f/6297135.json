@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Flanellen Gestreepte Pyjama",
+  "code": "6297135",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2495 > 3061 > 3791 > 5795 > 5928 > 6716",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/flanellen-gestreepte-pyjama/p/6297135",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266843,
+      "name": "Damespyjama's"
+    }
+  ],
+  "description": "rood, mt M",
+  "image": "/medias/sys_master/prd-images/h0f/h90/44528670048286/prd-front-6297135-1_600x600/prd-front-6297135-1-600x600.jpg"
+}

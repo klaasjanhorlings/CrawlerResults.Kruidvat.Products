@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "o.b. Herbruikbaar Menstruatieondergoed",
   "code": "6046206",
-  "price": "12.49",
-  "priceOriginal": "24.99",
+  "price": "24.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "1058607",
-  "mmkId": "1058607",
-  "productGroupId": "503640",
+  "onPromo": "1058731",
+  "mmkId": "1058731",
+  "productGroupId": "456162",
   "brandType": "A of B merk",
-  "discount": "€ 12,50",
+  "discount": "",
   "url": "/ob-herbruikbaar-menstruatieondergoed/p/6046206",
   "listName": "Lister",
   "brand": "Ob",
@@ -33,5 +33,6 @@
       "name": "Menstruatieondergoed"
     }
   ],
-  "description": "zwart, mt XS-S"
+  "description": "zwart, mt XS-S",
+  "image": "/medias/sys_master/prd-images/h62/hf6/44241603461150/prd-front-6046206-1_600x600/prd-front-6046206-1-600x600.jpg"
 }

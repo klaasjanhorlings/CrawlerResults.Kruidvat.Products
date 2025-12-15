@@ -7,7 +7,7 @@
   "priceOriginal": "9.99",
   "itemBgbcat": "2232 > 5179 > 5303 > 5492 > 5921 > 6040",
   "supplier": "HEATHSIDE TRADING BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059368",
   "mmkId": "1059368",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Speelfiguren"
     }
   ],
-  "description": "35cm"
+  "description": "35cm",
+  "image": "/medias/sys_master/prd-images/h40/h64/34598388203550/prd-front-6323448-1_600x600/prd-front-6323448-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1058329",
-  "mmkId": "1058329",
-  "productGroupId": "498726",
+  "onPromo": "1058815",
+  "mmkId": "1058815",
+  "productGroupId": "498718",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/palmolive-aroma-essence-ultimate-relax-douchegel/p/2010331",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml - Normale huid"
+  "description": "250ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/h57/h83/33905993220126/prd-front-2010331-1_600x600/prd-front-2010331-1-600x600.jpg"
 }

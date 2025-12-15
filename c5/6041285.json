@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6780",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058303",
-  "mmkId": "1058303",
-  "productGroupId": "496152",
+  "onPromo": "1058746",
+  "mmkId": "1058746",
+  "productGroupId": "471421",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-lumi-glotion-902-light-glow-natural-glow-enhancer/p/6041285",
@@ -33,5 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h21/h41/45076823998494/prd-front-6041285-1_600x600/prd-front-6041285-1-600x600.jpg"
 }

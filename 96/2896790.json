@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1058399",
-  "mmkId": "1058399",
-  "productGroupId": "506471",
+  "onPromo": "1058746",
+  "mmkId": "1058746",
+  "productGroupId": "471421",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-studio-line-special-fx-radical-24h-fibre-gel/p/2896790",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h75/h65/28505947275294/prd-front-2896790-1_600x600/prd-front-2896790-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1058271",
-  "mmkId": "1058271",
-  "productGroupId": "489199",
+  "onPromo": "1058832",
+  "mmkId": "1058832",
+  "productGroupId": "499952",
   "brandType": "A or B brand",
   "discount": "",
   "url": "/kneipp-embrace-life-douchefoam/p/6164919",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h96/hba/32364898484254/prd-front-6164919-1_600x600/prd-front-6164919-1-600x600.jpg"
 }

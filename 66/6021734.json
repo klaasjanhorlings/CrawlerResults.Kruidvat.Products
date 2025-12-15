@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "UNIVERSAL COSMETICS BV",
-  "inStock": "inStock",
-  "onPromo": "1058334",
-  "mmkId": "1058334",
-  "productGroupId": "499081",
+  "inStock": "outOfStock",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-flawless-finish-4-in-1-fixing-powder/p/6021734",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "10g",
-  "image": "/medias/sys_master/prd-images/haa/h93/29849789988894/prd-front-6021734-1_600x600/prd-front-6021734-1-600x600.jpg"
+  "description": "10g"
 }

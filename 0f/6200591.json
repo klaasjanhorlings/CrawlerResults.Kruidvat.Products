@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Beauty of Joseon Red Bean Refreshing Pore Mask",
   "code": "6200591",
-  "price": "16.43",
-  "priceOriginal": "21.9",
+  "price": "21.9",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1058266",
-  "mmkId": "1058266",
-  "productGroupId": "484751",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
-  "discount": "€ 5,47",
+  "discount": "",
   "url": "/beauty-of-joseon-red-bean-refreshing-pore-mask/p/6200591",
   "listName": "Lister",
   "brand": "BEAUTY OF JOSEON",
@@ -37,5 +37,6 @@
       "name": "Crèmemaskers"
     }
   ],
-  "description": "140g"
+  "description": "140g",
+  "image": "/medias/sys_master/prd-images/hce/hd6/32246585360414/prd-front-6200591-1_600x600/prd-front-6200591-1-600x600.jpg"
 }

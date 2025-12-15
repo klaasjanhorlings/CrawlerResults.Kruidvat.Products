@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2081 > 2239 > 2416 > 2912 > 4127",
   "supplier": "DAYES BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058912",
+  "mmkId": "1058912",
+  "productGroupId": "509885",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rosewood-zalmkluifjes-hondensnacks/p/3076410",
@@ -41,5 +41,6 @@
       "name": "Snacks voor honden"
     }
   ],
-  "description": "150g"
+  "description": "150g",
+  "image": "/medias/sys_master/prd-images/h1a/h5d/31217755619358/prd-front-3076410-1_600x600/prd-front-3076410-1-600x600.jpg"
 }

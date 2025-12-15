@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 6602 > 6603",
   "supplier": "TRADE SENSE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058733",
+  "mmkId": "1058733",
+  "productGroupId": "457664",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/treaclemoon-brazilian-love-bodyscrub/p/5696160",
@@ -33,6 +33,5 @@
       "name": "Scrub"
     }
   ],
-  "description": "225ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h8c/h77/28825283854366/prd-front-5696160-1_600x600/prd-front-5696160-1-600x600.jpg"
+  "description": "225ml - Normale huid"
 }

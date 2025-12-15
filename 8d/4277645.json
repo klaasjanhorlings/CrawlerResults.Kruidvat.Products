@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Celebrations in Fles",
+  "code": "4277645",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2734 > 3436",
+  "supplier": "MARS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/celebrations-in-fles/p/4277645",
+  "listName": "Lister",
+  "brand": "Celebrations",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464837,
+      "name": "Chocoladegeschenken"
+    }
+  ],
+  "description": "312g",
+  "image": "/medias/sys_master/prd-images/hc1/h66/31056384294942/prd-front-4277645-1_600x600/prd-front-4277645-1-600x600.jpg"
+}

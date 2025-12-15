@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "MARQUE OF BRANDS BV",
   "inStock": "inStock",
-  "onPromo": "1058378",
-  "mmkId": "1058378",
-  "productGroupId": "503777",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bfresh-fressssh-af-douchegel/p/6084349",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "473ml",
-  "image": "/medias/sys_master/prd-images/h83/h11/32886152822814/prd-front-6084349-1_600x600/prd-front-6084349-1-600x600.jpg"
+  "description": "473ml"
 }

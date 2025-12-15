@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Mycosan Kalknagel XL Behandelset",
   "code": "4682364",
-  "price": "31.99",
-  "priceOriginal": "39.99",
+  "price": "39.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 6451 > 6452 > 6788",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1058252",
-  "mmkId": "1058252",
-  "productGroupId": "475605",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Ander merk",
-  "discount": "€ 8,00",
+  "discount": "",
   "url": "/mycosan-kalknagel-xl-behandelset/p/4682364",
   "listName": "Lister",
   "brand": "Mycosan",
@@ -33,6 +33,5 @@
       "name": "Kalknagels"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml",
-  "image": "/medias/sys_master/prd-images/hcd/h5d/34597607997470/prd-front-4682364-1_600x600/prd-front-4682364-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 10ml"
 }

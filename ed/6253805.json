@@ -8,9 +8,9 @@
   "itemBgbcat": "2048 > 2225 > 4869 > 5069 > 5071 > 5096",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1058624",
-  "mmkId": "1058624",
-  "productGroupId": "513373",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/true-spirit-geruite-sjaal/p/6253805",
@@ -33,5 +33,6 @@
       "name": "Winteraccessoires"
     }
   ],
-  "description": "bruin, 200cm x 65cm"
+  "description": "bruin, 200cm x 65cm",
+  "image": "/medias/sys_master/prd-images/h78/h95/34520459837470/prd-front-6253805-1_600x600/prd-front-6253805-1-600x600.jpg"
 }

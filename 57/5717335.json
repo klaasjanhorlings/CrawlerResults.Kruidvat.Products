@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Sensodyne Repair & Protect Cool Mint Tandpasta",
   "code": "5717335",
-  "price": "29.99",
-  "priceOriginal": "",
+  "price": "14.99",
+  "priceOriginal": "29.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058713",
+  "mmkId": "1058713",
+  "productGroupId": "507516",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 15,00",
   "url": "/sensodyne-repair-protect-cool-mint-tandpasta/p/5717335",
   "listName": "Lister",
   "brand": "Sensodyne",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 4 x 75ml",
-  "image": "/medias/sys_master/prd-images/hb6/h0d/45166473084958/prd-front-5717335-1_600x600/prd-front-5717335-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hde/hd3/45174986309662/prd-front-5717335-1_600x600/prd-front-5717335-1-600x600.jpg"
 }

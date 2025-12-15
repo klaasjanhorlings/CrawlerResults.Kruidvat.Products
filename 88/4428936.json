@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1058317",
-  "mmkId": "1058317",
-  "productGroupId": "497013",
+  "onPromo": "1058805",
+  "mmkId": "1058805",
+  "productGroupId": "497017",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-vloeibare-groenlipmossel/p/4428936",
@@ -33,5 +33,6 @@
       "name": "Groenlipmossel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/prd-front-4428936-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODg1NDR8aW1hZ2UvanBlZ3xhR1pqTDJoak5DOHhOalUzTkRnNU5EQXhORFE1TkM5d2NtUXRabkp2Ym5RdE5EUXlPRGt6TmkweFh6WXdNSGcyTURBfGIxMWNiYTNiODBhOWE0Y2Y1MmZmMzNhZGI3ODQ2YmFkMWFjZDVjNDQ4NjZiZDEyZWUwNjJkN2RkNDIyYWNlNWI"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1058421",
-  "mmkId": "1058421",
-  "productGroupId": "507083",
+  "onPromo": "1058873",
+  "mmkId": "1058873",
+  "productGroupId": "507105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-venus-huid-schaamhaar-scheermesjes/p/5623990",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/h8b/hff/45055106809886/prd-front-5623990-1_600x600/prd-front-5623990-1-600x600.jpg"
 }

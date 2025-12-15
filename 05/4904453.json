@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Philips StraightCare Essential HP8321/40 Stijltang",
   "code": "4904453",
-  "price": "29.99",
-  "priceOriginal": "",
+  "price": "14.99",
+  "priceOriginal": "29.99",
   "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6426",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1058996",
+  "mmkId": "1058996",
+  "productGroupId": "477821",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 15,00",
   "url": "/philips-straightcare-essential-hp8321/40-stijltang/p/4904453",
   "listName": "Lister",
   "brand": "Philips",
@@ -37,6 +37,5 @@
       "name": "Stijltangen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h09/h8b/34113155334174/prd-front-4904453-1_600x600/prd-front-4904453-1-600x600.jpg"
+  "description": ""
 }

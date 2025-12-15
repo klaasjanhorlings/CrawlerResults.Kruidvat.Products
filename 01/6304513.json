@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Gestreepte Teddy Tas",
+  "code": "6304513",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-gestreepte-teddy-tas/p/6304513",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    },
+    {
+      "id": 101713392,
+      "name": "Shopper"
+    }
+  ],
+  "description": "bruin, zwart, 40cm x 14cm x 40cm",
+  "image": "/medias/sys_master/prd-images/h0d/h63/33963793645598/prd-front-6304513-1_600x600/prd-front-6304513-1-600x600.jpg"
+}
