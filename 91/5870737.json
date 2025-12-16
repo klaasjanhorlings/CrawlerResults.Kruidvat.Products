@@ -1,0 +1,46 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Music Oordopjes",
+  "code": "5870737",
+  "price": "4.49",
+  "priceOriginal": "5.99",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6719 > 6718",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "1058901",
+  "mmkId": "1058901",
+  "productGroupId": "509013",
+  "brandType": "Eigen merk",
+  "discount": "€ 1,50",
+  "url": "/kruidvat-music-oordopjes/p/5870737",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30266948,
+      "name": "Oordoppen"
+    },
+    {
+      "id": 117075229,
+      "name": "Muziek oordoppen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h77/h24/34603990482974/prd-front-5870737-1_600x600/prd-front-5870737-1-600x600.jpg"
+}

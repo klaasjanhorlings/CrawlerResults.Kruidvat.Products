@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
   "supplier": "WEPA FRANCE SAS",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Toiletpapier"
     }
   ],
-  "description": "24 rollen, alleen online verkrijgbaar"
+  "description": "24 rollen, alleen online verkrijgbaar",
+  "image": "/medias/sys_master/prd-images/h1b/h96/27270881443870/prd-front-5145694-1_600x600/prd-front-5145694-1-600x600.jpg"
 }

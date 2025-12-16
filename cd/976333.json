@@ -1,0 +1,46 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Otalgan Comfort Oordopjes",
+  "code": "976333",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6719 > 6718",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/otalgan-comfort-oordopjes/p/976333",
+  "listName": "Lister",
+  "brand": "Otalgan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30266948,
+      "name": "Oordoppen"
+    },
+    {
+      "id": 117395750,
+      "name": "Schuim oordoppen"
+    }
+  ],
+  "description": "2 paar",
+  "image": "/medias/sys_master/prd-images/hb3/h9b/29568988119070/prd-front-976333-1_600x600/prd-front-976333-1-600x600.jpg"
+}

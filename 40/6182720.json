@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NG Bella Vida Home Perfume",
+  "code": "6182720",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 5926 > 5962 > 5979 > 5996 > 6679",
+  "supplier": "NEXT GENERATION PERFUME",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ng-bella-vida-home-perfume/p/6182720",
+  "listName": "Lister",
+  "brand": "NG",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266075,
+      "name": "Luchtverfrissers"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h5a/hbe/31907654139934/prd-front-6182720-1_600x600/prd-front-6182720-1-600x600.jpg"
+}

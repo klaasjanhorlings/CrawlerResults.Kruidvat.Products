@@ -1,0 +1,46 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alpine Soft Silicone Oordoppen",
+  "code": "5730110",
+  "price": "6.74",
+  "priceOriginal": "8.99",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6719 > 6718",
+  "supplier": "ALPINE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1058795",
+  "mmkId": "1058795",
+  "productGroupId": "496009",
+  "brandType": "A of B merk",
+  "discount": "€ 2,25",
+  "url": "/alpine-soft-silicone-oordoppen/p/5730110",
+  "listName": "Lister",
+  "brand": "Alpine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30266948,
+      "name": "Oordoppen"
+    },
+    {
+      "id": 117395766,
+      "name": "Siliconen oordoppen"
+    }
+  ],
+  "description": "3 paar",
+  "image": "/medias/sys_master/prd-images/ha2/hb5/29540898471966/prd-front-5730110-1_600x600/prd-front-5730110-1-600x600.jpg"
+}

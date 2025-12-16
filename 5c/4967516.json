@@ -1,0 +1,46 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Oordopjes",
+  "code": "4967516",
+  "price": "1.87",
+  "priceOriginal": "2.49",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6717 > 6719 > 6718",
+  "supplier": "RIDAM-NOTIONS BV",
+  "inStock": "inStock",
+  "onPromo": "1058901",
+  "mmkId": "1058901",
+  "productGroupId": "509013",
+  "brandType": "Eigen merk",
+  "discount": "€ 0,62",
+  "url": "/kruidvat-oordopjes/p/4967516",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30266948,
+      "name": "Oordoppen"
+    },
+    {
+      "id": 117395750,
+      "name": "Schuim oordoppen"
+    }
+  ],
+  "description": "3 paar",
+  "image": "/medias/prd-front-4967516-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzU4MTB8aW1hZ2UvanBlZ3xhRE5tTDJnNE5pOHhOek16TkRRMk9EWXdPREF6TUM5d2NtUXRabkp2Ym5RdE5EazJOelV4TmkweFh6WXdNSGcyTURBfDViZTk4ZmNiN2U4NTFlOGU1NDBhZDFlNGY5ZGZiZWZiMzFmNGNjOWNhOWQ4ODczNTk3ZWRlZDM1NzI1ZTk0YTI"
+}

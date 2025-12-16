@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
@@ -33,5 +33,6 @@
       "name": "Bronzer"
     }
   ],
-  "description": "5g"
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/h41/hc6/33641058631710/prd-front-6230656-1_600x600/prd-front-6230656-1-600x600.jpg"
 }

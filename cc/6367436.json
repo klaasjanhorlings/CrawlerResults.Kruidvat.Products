@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Miniatuur Badkamer Bouwset",
+  "code": "6367436",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2191 > 2512 > 3126 > 3991 > 5697 > 5921",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "1058841",
+  "mmkId": "1058841",
+  "productGroupId": "500731",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/miniatuur-badkamer-bouwset/p/6367436",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266036,
+      "name": "Houten speelgoed"
+    },
+    {
+      "id": 84925671,
+      "name": "Houten speelsets"
+    }
+  ],
+  "description": "9,5cm x 9,8cm x 9,1cm",
+  "image": "/medias/sys_master/prd-images/h61/ha8/44388877238302/prd-front-6367436-1_600x600/prd-front-6367436-1-600x600.jpg"
+}

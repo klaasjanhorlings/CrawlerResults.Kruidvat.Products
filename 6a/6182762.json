@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NG Bella Vida Geurstokjes",
+  "code": "6182762",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2146 > 5926 > 5962 > 5979 > 5996 > 6679",
+  "supplier": "NEXT GENERATION PERFUME",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ng-bella-vida-geurstokjes/p/6182762",
+  "listName": "Lister",
+  "brand": "NG",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 30266894,
+      "name": "Geurstokjes"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hfd/h9d/31911682441246/prd-front-6182762-1_600x600/prd-front-6182762-1-600x600.jpg"
+}

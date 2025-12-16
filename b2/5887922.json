@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Oral-B Pro Kids Spiderman Elektrische Tandenborstel",
   "code": "5887922",
-  "price": "20.0",
+  "price": "19.99",
   "priceOriginal": "39.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058786",
   "mmkId": "1058786",
   "productGroupId": "492561",
   "brandType": "A of B merk",
-  "discount": "€ 19,99",
+  "discount": "€ 20,00",
   "url": "/oral-b-pro-kids-spiderman-elektrische-tandenborstel/p/5887922",
   "listName": "Lister",
   "brand": "Oral B",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he9/he8/44800971440158/prd-front-5887922-1_600x600/prd-front-5887922-1-600x600.jpg"
 }

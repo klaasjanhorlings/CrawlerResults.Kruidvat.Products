@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Aroma Rood Koffiepads",
+  "code": "4409560",
+  "price": "8.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 4354 > 4355",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/douwe-egberts-aroma-rood-koffiepads/p/4409560",
+  "listName": "Lister",
+  "brand": "Douwe Egberts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    },
+    {
+      "id": 113103511,
+      "name": "Koffiepads"
+    }
+  ],
+  "description": "54 stuks",
+  "image": "/medias/sys_master/prd-images/hea/hbb/28231595720734/prd-front-4409560-1_600x600/prd-front-4409560-1-600x600.jpg"
+}

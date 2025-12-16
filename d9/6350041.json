@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Laura's Bakery Maatlepels",
+  "code": "6350041",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "AVEC STUDIO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/lauras-bakery-maatlepels/p/6350041",
+  "listName": "Lister",
+  "brand": "Laura's Bakery",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 90363361,
+      "name": "Keukengerei"
+    }
+  ],
+  "description": "goudkleur",
+  "image": "/medias/sys_master/prd-images/h18/h13/44144355704862/prd-front-6350041-1_600x600/prd-front-6350041-1-600x600.jpg"
+}

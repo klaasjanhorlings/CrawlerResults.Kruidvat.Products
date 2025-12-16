@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "999 Games Blasting Billy",
   "code": "6319717",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "2.99",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
   "supplier": "999 GAMES",
   "inStock": "inStock",
-  "onPromo": "1058841",
-  "mmkId": "1058841",
-  "productGroupId": "500731",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/999-games-blasting-billy/p/6319717",
   "listName": "Lister",
   "brand": "999 Games",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/hba/h4d/34435895984158/prd-front-6319717-1_600x600/prd-front-6319717-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

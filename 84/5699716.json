@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Biodermal Anti-age SPF30 Dagcrème",
   "code": "5699716",
-  "price": "22.0",
+  "price": "21.99",
   "priceOriginal": "43.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "OMEGA PHARMA NEDERLAND",
@@ -12,7 +12,7 @@
   "mmkId": "1058854",
   "productGroupId": "503068",
   "brandType": "A of B merk",
-  "discount": "€ 21,99",
+  "discount": "€ 22,00",
   "url": "/biodermal-anti-age-spf30-dagcreme/p/5699716",
   "listName": "Lister",
   "brand": "Biodermal",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid",
-  "image": "/medias/sys_master/prd-images/hdc/h1b/27288907022366/prd-front-5699716-1_600x600/prd-front-5699716-1-600x600.jpg"
+  "description": "50ml - Rijpe huid"
 }

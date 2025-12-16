@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -25,17 +25,10 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266700,
-      "name": "Oor en mond"
-    },
-    {
-      "id": 30266946,
-      "name": "Oorspray"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
-  "description": "Medisch hulpmiddel - 12ml"
+  "description": "Medisch hulpmiddel - 12ml",
+  "image": "/medias/sys_master/prd-images/hc7/hd7/44587925340190/prd-front-6391348-1_600x600/prd-front-6391348-1-600x600.jpg"
 }
