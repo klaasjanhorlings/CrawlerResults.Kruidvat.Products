@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Star Wars 75372 Clone Trooper & Battle Droid Battle Pack",
+  "code": "6003156",
+  "price": "20.99",
+  "priceOriginal": "27.99",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "1059487",
+  "mmkId": "1059487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 7,00",
+  "url": "/lego-star-wars-75372-clone-trooper-battle-droid-battle-pack/p/6003156",
+  "listName": "Lister",
+  "brand": "LEGO Star Wars",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266821,
+      "name": "LEGO Star Wars"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he0/h46/29499343405086/prd-front-6003156-1_600x600/prd-front-6003156-1-600x600.jpg"
+}

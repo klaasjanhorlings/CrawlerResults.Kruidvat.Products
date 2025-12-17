@@ -7,7 +7,7 @@
   "priceOriginal": "29.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058713",
   "mmkId": "1058713",
   "productGroupId": "507516",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 4 x 75ml",
-  "image": "/medias/sys_master/prd-images/hca/h00/45182031527966/prd-front-5717335-1_600x600/prd-front-5717335-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5f/hc5/45192036581406/prd-front-5717335-1_600x600/prd-front-5717335-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Elvive Glycolic Gloss Conditioner",
+  "code": "6024464",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1058746",
+  "mmkId": "1058746",
+  "productGroupId": "471421",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-elvive-glycolic-gloss-conditioner/p/6024464",
+  "listName": "Lister",
+  "brand": "Elvive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h2c/h9d/30687570591774/prd-front-6024464-1_600x600/prd-front-6024464-1-600x600.jpg"
+}

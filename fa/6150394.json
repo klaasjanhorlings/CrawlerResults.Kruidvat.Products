@@ -7,7 +7,7 @@
   "priceOriginal": "69.99",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3869 > 5720",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058790",
   "mmkId": "1058790",
   "productGroupId": "494723",
@@ -29,8 +29,8 @@
       "name": "Scheren en ontharen"
     },
     {
-      "id": 30266686,
-      "name": "Baardtrimmers"
+      "id": 30266684,
+      "name": "Multigroomers"
     }
   ],
   "description": "zwart",

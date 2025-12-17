@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Beauty Innovatiebox",
+  "itemName": "Kruidvat Beautybox",
   "code": "6152137",
   "price": "55.0",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "524247",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-beauty-innovatiebox/p/6152137",
+  "url": "/kruidvat-beautybox/p/6152137",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -29,8 +29,12 @@
       "name": "Make-up"
     },
     {
-      "id": 30266576,
-      "name": "Mascara"
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266583,
+      "name": "Lipgloss"
     }
   ],
   "description": "Alleen online",

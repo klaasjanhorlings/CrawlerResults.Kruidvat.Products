@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1059016",
+  "mmkId": "1059016",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/had/h19/45188664754206/prd-front-2527085-1_600x600/prd-front-2527085-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h95/h4a/45200033153054/prd-front-2527085-1_600x600/prd-front-2527085-1-600x600.jpg"
 }

@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "HOUSE OF DARCY AGENCY",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1059016",
+  "mmkId": "1059016",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf9/hd9/32825657491486/prd-front-6157177-1_600x600/prd-front-6157177-1-600x600.jpg"
 }

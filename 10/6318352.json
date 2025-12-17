@@ -7,7 +7,7 @@
   "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058760",
   "mmkId": "1058760",
   "productGroupId": "480386",
@@ -25,16 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30265987,
-      "name": "Make-up"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 87391909,
-      "name": "Lipmake-up"
+      "id": 30266607,
+      "name": "Gezichtsmaskers"
     },
     {
-      "id": 87395837,
-      "name": "Lip mask"
+      "id": 87374636,
+      "name": "Lipmaskers"
     }
   ],
   "description": "3 x 3g",

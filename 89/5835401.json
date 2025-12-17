@@ -25,13 +25,10 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
-  "description": "52ml"
+  "description": "52ml",
+  "image": "/medias/sys_master/prd-images/hb6/hb1/34426598096926/prd-front-5835401-1_600x600/prd-front-5835401-1-600x600.jpg"
 }
