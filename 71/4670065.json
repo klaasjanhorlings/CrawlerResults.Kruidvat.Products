@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 2920 > 3715",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1059016",
-  "mmkId": "1059016",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,6 +37,5 @@
       "name": "4 maanden +"
     }
   ],
-  "description": "12 x 125g",
-  "image": "/medias/sys_master/prd-images/h38/hc9/30686448713758/prd-front-4670065-1_600x600/prd-front-4670065-1-600x600.jpg"
+  "description": "12 x 125g"
 }

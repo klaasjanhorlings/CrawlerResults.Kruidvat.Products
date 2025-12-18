@@ -7,7 +7,7 @@
   "priceOriginal": "8.49",
   "itemBgbcat": "2002 > 6760 > 6762 > 6761 > 6759 > 6758",
   "supplier": "DR LEENARTS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058763",
   "mmkId": "1058763",
   "productGroupId": "482865",
@@ -33,5 +33,6 @@
       "name": "Handcrèmes"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hb4/h0e/33953818542110/prd-front-5960582-1_600x600/prd-front-5960582-1-600x600.jpg"
 }

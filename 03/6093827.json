@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4338 > 4337",
   "supplier": "HERO NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1059016",
-  "mmkId": "1059016",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 0,49",
@@ -33,6 +33,5 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "30g",
-  "image": "/medias/sys_master/prd-images/hb5/h2b/44861586079774/prd-front-6093827-1_600x600/prd-front-6093827-1-600x600.jpg"
+  "description": "30g"
 }

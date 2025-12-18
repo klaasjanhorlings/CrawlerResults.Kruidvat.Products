@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1058834",
-  "mmkId": "1058834",
-  "productGroupId": "500160",
+  "onPromo": "1059004",
+  "mmkId": "1059004",
+  "productGroupId": "509192",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/head-shoulders-sensitive-antiroosshampoo/p/5411022",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "300ml - Alle haar- en hoofdhuidtypen"
+  "description": "300ml - Alle haar- en hoofdhuidtypen",
+  "image": "/medias/sys_master/prd-images/hb6/h78/34022320177182/prd-front-5411022-1_600x600/prd-front-5411022-1-600x600.jpg"
 }

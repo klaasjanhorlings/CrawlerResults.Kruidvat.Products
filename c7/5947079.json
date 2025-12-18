@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
   "supplier": "INEX NV",
   "inStock": "inStock",
-  "onPromo": "1059016",
-  "mmkId": "1059016",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,6 +37,5 @@
       "name": "Dreumesmelk"
     }
   ],
-  "description": "3 x 250ml",
-  "image": "/medias/sys_master/prd-images/h77/h1a/29480638382110/prd-front-5947079-1_600x600/prd-front-5947079-1-600x600.jpg"
+  "description": "3 x 250ml"
 }
