@@ -25,17 +25,10 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266705,
-      "name": "Luchtwegen"
-    },
-    {
-      "id": 30266961,
-      "name": "Keelpastilles"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks"
+  "description": "Medisch hulpmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h6b/hcb/44274374410270/prd-front-6196104-1_600x600/prd-front-6196104-1-600x600.jpg"
 }

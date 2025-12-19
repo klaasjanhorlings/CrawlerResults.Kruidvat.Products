@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Geweven Hoeslaken",
+  "code": "6369893",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2453 > 2738 > 5803 > 5926 > 6020",
+  "supplier": "VESPO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-geweven-hoeslaken/p/6369893",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 61702185,
+      "name": "Hoeslakens"
+    }
+  ],
+  "description": "mokka, 90cm x 200cm"
+}

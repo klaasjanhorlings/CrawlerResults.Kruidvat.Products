@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "e.l.f. Fine as Fleck Pop Off Pink Glitteroogschaduw",
   "code": "6275582",
   "price": "8.0",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "ELF BEAUTY UK LIMITED",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
@@ -37,6 +37,5 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": "2g",
-  "image": "/medias/sys_master/prd-images/h4d/h23/34038476308510/prd-front-6275582-1_600x600/prd-front-6275582-1-600x600.jpg"
+  "description": "2g"
 }

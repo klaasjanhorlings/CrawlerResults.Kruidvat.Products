@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Adidas Vibes Happy Feels Eau de Parfum",
   "code": "6133909",
   "price": "9.99",
@@ -12,7 +12,7 @@
   "mmkId": "1058936",
   "productGroupId": "519263",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "$ 10,00",
   "url": "/adidas-vibes-happy-feels-eau-de-parfum/p/6133909",
   "listName": "Lister",
   "brand": "Adidas",
@@ -29,8 +29,8 @@
       "name": "Parfum"
     },
     {
-      "id": 72654362,
-      "name": "Damesparfum"
+      "id": 72654823,
+      "name": "Herenparfum"
     }
   ],
   "description": "30ml",

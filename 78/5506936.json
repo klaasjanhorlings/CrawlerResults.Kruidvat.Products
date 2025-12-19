@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Soft Touch 03 Eternity Eyeshadow",
   "code": "5506936",
   "price": "1.99",
@@ -37,6 +37,5 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": "2g",
-  "image": "/medias/sys_master/prd-images/h72/ha3/45075702906910/prd-front-5506936-1_600x600/prd-front-5506936-1-600x600.jpg"
+  "description": "2g"
 }

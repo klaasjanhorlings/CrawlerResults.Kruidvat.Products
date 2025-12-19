@@ -21,21 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30265989,
-      "name": "Geschenksets"
-    },
-    {
-      "id": 72656138,
-      "name": "Geschenkset voor haar"
-    },
-    {
-      "id": 87397518,
-      "name": "Bad & douche geschenksets"
+      "id": 30265998,
+      "name": "Bad- en doucheaccessoires"
     }
   ],
-  "description": "zwart, 28cm x 14cm x 8cm"
+  "description": "zwart, 28cm x 14cm x 8cm",
+  "image": "/medias/sys_master/prd-images/h8b/hd8/44000451133470/prd-front-6360058-1_600x600/prd-front-6360058-1-600x600.jpg"
 }

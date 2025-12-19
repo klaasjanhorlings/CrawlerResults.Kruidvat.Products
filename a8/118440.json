@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Snelle Wondgenezing Pleisters",
+  "code": "118440",
+  "price": "6.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4247",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hansaplast-snelle-wondgenezing-pleisters/p/118440",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266008,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30266739,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414243,
+      "name": "Waterbestendige pleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 8 stuks",
+  "image": "/medias/sys_master/prd-images/hd4/h88/32901839912990/prd-front-118440-1_600x600/prd-front-118440-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2933 > 3728",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058746",
   "mmkId": "1058746",
   "productGroupId": "471421",
@@ -29,8 +29,8 @@
       "name": "Haarstylingproducten"
     },
     {
-      "id": 30266928,
-      "name": "Haargel"
+      "id": 30266933,
+      "name": "Haarlak"
     }
   ],
   "description": "150ml",

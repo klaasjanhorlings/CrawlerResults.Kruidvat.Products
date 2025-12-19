@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Mixsoon Bean Toner",
   "code": "6200262",
   "price": "11.9",
@@ -33,10 +33,9 @@
       "name": "Gezichtsreiniging"
     },
     {
-      "id": 30266920,
-      "name": "Reinigingsstrips"
+      "id": 73443559,
+      "name": "Toner"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h56/hbb/32584277491742/prd-front-6200262-1_600x600/prd-front-6200262-1-600x600.jpg"
+  "description": "100ml"
 }

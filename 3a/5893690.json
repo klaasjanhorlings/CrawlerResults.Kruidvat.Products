@@ -8,9 +8,9 @@
   "itemBgbcat": "5928 > 6351 > 6352 > 2487 > 3056 > 3904",
   "supplier": "DUMMY EXTERN",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059011",
+  "mmkId": "1059011",
+  "productGroupId": "524662",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/korte-dameslaarzen/p/5893690",
@@ -29,5 +29,6 @@
       "name": "Pantoffels"
     }
   ],
-  "description": "zwart, mt 38-39"
+  "description": "zwart, mt 38-39",
+  "image": "/medias/sys_master/prd-images/h35/h22/31761898012702/prd-front-5893690-1_600x600/prd-front-5893690-1-600x600.jpg"
 }

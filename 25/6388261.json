@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Biodance Radiant Vita Niacinamide Mask",
   "code": "6388261",
   "price": "3.99",
   "priceOriginal": "5.9",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058726",
   "mmkId": "1058726",
   "productGroupId": "503016",
   "brandType": "A of B merk",
-  "discount": "€ 1,91",
+  "discount": "$ 1,91",
   "url": "/biodance-radiant-vita-niacinamide-mask/p/6388261",
   "listName": "Lister",
   "brand": "Biodance",
@@ -37,6 +37,5 @@
       "name": "Crèmemaskers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h0e/h57/45032341012510/prd-front-6388261-1_600x600/prd-front-6388261-1-600x600.jpg"
+  "description": ""
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Catrice Magic Repair Jelly Nail Oil",
+  "code": "6105083",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2491 > 3058 > 3906",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1058757",
+  "mmkId": "1058757",
+  "productGroupId": "478304",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/catrice-magic-repair-jelly-nail-oil/p/6105083",
+  "listName": "Lister",
+  "brand": "Catrice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266631,
+      "name": "Nagelbehandeling"
+    }
+  ],
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/h94/hdd/31565960544286/prd-front-6105083-1_600x600/prd-front-6105083-1-600x600.jpg"
+}

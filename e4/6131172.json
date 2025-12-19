@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup LPR01 Nude Lipprimer",
   "code": "6131172",
   "price": "7.95",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h48/h1b/31926875717662/prd-front-6131172-1_600x600/prd-front-6131172-1-600x600.jpg"
 }

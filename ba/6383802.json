@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 72475724,
-      "name": "Nagels"
+      "id": 30266003,
+      "name": "Handverzorging"
     },
     {
-      "id": 30265994,
-      "name": "Nagelverzorging"
-    },
-    {
-      "id": 30266631,
-      "name": "Nagelbehandeling"
+      "id": 30266688,
+      "name": "Handcrèmes"
     }
   ],
   "description": "100ml",

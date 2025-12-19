@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "outOfStock",
-  "onPromo": "1058997",
-  "mmkId": "1058997",
-  "productGroupId": "524566",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-marvel-76310-iron-mans-auto-en-black-panther-vs-rode-hulk/p/6212036",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69031070,
-      "name": "LEGO Voertuigen"
+      "id": 30266819,
+      "name": "LEGO Marvel"
     }
   ],
   "description": "",

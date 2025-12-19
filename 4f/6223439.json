@@ -7,7 +7,7 @@
   "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6320 > 6674",
   "supplier": "NEW FLAG BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058951",
   "mmkId": "1058951",
   "productGroupId": "465475",
@@ -21,15 +21,19 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30265993,
-      "name": "Haaraccessoires"
+      "id": 30266692,
+      "name": "Haarstylingproducten"
     },
     {
-      "id": 30266624,
+      "id": 30266698,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30266936,
       "name": "Haarborstels"
     }
   ],

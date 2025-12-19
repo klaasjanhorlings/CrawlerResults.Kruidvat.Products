@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "e.l.f. Halo Glow Medium Setting Powder",
   "code": "6275911",
   "price": "10.0",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "6,7g"
+  "description": "6,7g",
+  "image": "/medias/sys_master/prd-images/h9c/hb0/34039851155486/prd-front-6275911-1_600x600/prd-front-6275911-1-600x600.jpg"
 }

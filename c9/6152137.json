@@ -1,9 +1,9 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Beautybox",
   "code": "6152137",
-  "price": "55.0",
+  "price": "80.89",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 5690 > 5691 > 5692",
   "supplier": "BRANSUS COSM ULTIMATCH",
@@ -25,16 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30265987,
-      "name": "Make-up"
+      "id": 30265988,
+      "name": "Parfum"
     },
     {
-      "id": 87391909,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 30266583,
-      "name": "Lipgloss"
+      "id": 72654362,
+      "name": "Damesparfum"
     }
   ],
   "description": "Alleen online",

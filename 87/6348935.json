@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Camouflage+ Waterproof 20 Matte Concealer",
   "code": "6348935",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "8ml"
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/hc3/ha2/44121752338462/prd-front-6348935-1_600x600/prd-front-6348935-1-600x600.jpg"
 }

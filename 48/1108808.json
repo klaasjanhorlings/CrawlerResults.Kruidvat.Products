@@ -29,9 +29,14 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266729,
-      "name": "Botten en spieren"
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001862,
+      "name": "Calcium"
     }
   ],
-  "description": "100 stuks"
+  "description": "100 stuks",
+  "image": "/medias/prd-front-1108808-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODY3MjB8aW1hZ2UvanBlZ3xhR1ptTDJoa1pDOHhOalV6T1RnMU1EZ3pNemsxTUM5d2NtUXRabkp2Ym5RdE1URXdPRGd3T0MweFh6WXdNSGcyTURBfDBhNWY5ZjFhNjJiOGZiMmZjMzc5MWYxZmE4N2RjN2VlODBlY2E1MmZkMjBjNjFmOWI3YzBkMjdiYTY5MjExMGQ"
 }

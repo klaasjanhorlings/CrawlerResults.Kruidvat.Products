@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Jimmy Choo Illicit Eau de Parfum",
   "code": "4753365",
   "price": "25.0",
@@ -12,7 +12,7 @@
   "mmkId": "1058548",
   "productGroupId": "524247",
   "brandType": "A of B merk",
-  "discount": "€ 22,38",
+  "discount": "$ 22,38",
   "url": "/jimmy-choo-illicit-eau-de-parfum/p/4753365",
   "listName": "Lister",
   "brand": "Jimmy Choo",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h9b/h45/34986552229918/prd-front-4753365-1_600x600/prd-front-4753365-1-600x600.jpg"
 }

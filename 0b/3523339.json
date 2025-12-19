@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1058997",
-  "mmkId": "1058997",
-  "productGroupId": "524566",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-classic-11023-groene-bouwplaat/p/3523339",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 49429181,
-      "name": "LEGO bouwplaten"
+      "id": 30266811,
+      "name": "LEGO Classic"
     }
   ],
   "description": "25cm x 25cm",

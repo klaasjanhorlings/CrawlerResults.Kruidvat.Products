@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice All Matt Plus 001 Universal Shine Control Powder",
   "code": "4318441",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9f/h7e/29938111021086/prd-front-4318441-1_600x600/prd-front-4318441-1-600x600.jpg"
 }
