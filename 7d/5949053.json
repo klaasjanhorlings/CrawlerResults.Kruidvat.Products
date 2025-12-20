@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Denman D81M The Style & Shine Borstel",
   "code": "5949053",
   "price": "19.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6320 > 6674",
   "supplier": "DENMAN INTERNATIONAL LTD",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
@@ -33,5 +33,6 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "zwart, rood"
+  "description": "zwart, rood",
+  "image": "/medias/sys_master/prd-images/hf5/h56/28891798994974/prd-front-5949053-1_600x600/prd-front-5949053-1-600x600.jpg"
 }

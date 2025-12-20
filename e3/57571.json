@@ -29,9 +29,14 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266719,
-      "name": "Beautysupplementen"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 49364743,
+      "name": "Vitamine E"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h7a/hdf/33116393209886/prd-front-57571-1_600x600/prd-front-57571-1-600x600.jpg"
 }

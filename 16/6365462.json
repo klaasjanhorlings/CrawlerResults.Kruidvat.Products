@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gucci Flora Gorgeous Gardenia Eau de Parfum",
   "code": "6365462",
-  "price": "78.22",
-  "priceOriginal": "",
+  "price": "70.4",
+  "priceOriginal": "78.22",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "onPromo": "1059764",
+  "mmkId": "1059764",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,82",
   "url": "/gucci-flora-gorgeous-gardenia-eau-de-parfum/p/6365462",
   "listName": "Lister",
   "brand": "Gucci",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hcd/hab/35176060125214/prd-front-6365462-1_600x600/prd-front-6365462-1-600x600.jpg"
 }

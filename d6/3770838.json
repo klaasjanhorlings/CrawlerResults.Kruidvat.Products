@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Davidoff Adventure Eau de Toilette",
   "code": "3770838",
-  "price": "21.93",
-  "priceOriginal": "",
+  "price": "19.74",
+  "priceOriginal": "21.93",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "onPromo": "1059764",
+  "mmkId": "1059764",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,19",
   "url": "/davidoff-adventure-eau-de-toilette/p/3770838",
   "listName": "Lister",
   "brand": "Davidoff",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-3770838-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA3MDV8aW1hZ2UvanBlZ3xhRE0wTDJnNE5pOHlOekV6TnpnNU1qazBNVGcxTkM5d2NtUXRabkp2Ym5RdE16YzNNRGd6T0MweFh6WXdNSGcyTURBfGZkNGE4M2U3OTJkMjNhMWIzMGEyZGRkM2Q1NGFlMDJkYzVhYzhiYjMzNzA0N2M2Y2UxMzQ5N2IxMTY2YWE5ZGE"
 }

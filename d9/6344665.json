@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Hyper Lash 030 Burgundy Bliss Mascara",
   "code": "6344665",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "11ml",
-  "image": "/medias/sys_master/prd-images/h4b/h19/35012914741278/prd-front-6344665-1_600x600/prd-front-6344665-1-600x600.jpg"
+  "description": "11ml"
 }

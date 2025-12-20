@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Guess Seductive Woman Eau De Toilette",
   "code": "3082885",
-  "price": "24.99",
-  "priceOriginal": "",
+  "price": "22.49",
+  "priceOriginal": "24.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "onPromo": "1059764",
+  "mmkId": "1059764",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,50",
   "url": "/guess-seductive-woman-eau-de-toilette/p/3082885",
   "listName": "Lister",
   "brand": "Guess",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/prd-front-3082885-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjUyMTl8aW1hZ2UvanBlZ3xhRFEwTDJneE1TOHhOalU1TWpneE1qZ3pORGcwTmk5d2NtUXRabkp2Ym5RdE16QTRNamc0TlMweFh6WXdNSGcyTURBfDc0ZDRmNDIxYzg2ODUwZGM3NTJjNzYxNzg2NDExMmQ0OWMzYTU5OTRlZjZjMTZiYTYzODYwNWNhNTU4MDAwZWQ"
+  "description": "50ml"
 }

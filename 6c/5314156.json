@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5929 > 6014 > 2153 > 6587 > 6588 > 6589",
   "supplier": "I-STAR WORLD BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Lampen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hcf/h17/44578200289310/prd-front-5314156-1_600x600/prd-front-5314156-1-600x600.jpg"
+  "description": ""
 }

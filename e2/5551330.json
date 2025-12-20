@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Miss So..? Love Potion Bodymist",
   "code": "5551330",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "5.39",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "onPromo": "1059764",
+  "mmkId": "1059764",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 0,60",
   "url": "/miss-so-love-potion-bodymist/p/5551330",
   "listName": "Lister",
   "brand": "So",
@@ -33,6 +33,5 @@
       "name": "Bodymist"
     }
   ],
-  "description": "140ml",
-  "image": "/medias/prd-front-5551330-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzc0MDN8aW1hZ2UvanBlZ3xhRFE0TDJnMlpDOHhOalU1TWpreE5UVTJNalV5Tmk5d2NtUXRabkp2Ym5RdE5UVTFNVE16TUMweFh6WXdNSGcyTURBfDkzMjFlNGQ0YzA4ZGU2NWYzYzJmMWFkN2ZkNTc1YWI3YjE1ZDUxZWY0NTZlMTI4NDhkMjhjMGQ3MDExYWE3YWY"
+  "description": "140ml"
 }

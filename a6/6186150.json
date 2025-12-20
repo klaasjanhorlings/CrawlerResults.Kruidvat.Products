@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Honeybalm Honey Lipbalm",
   "code": "6186150",
   "price": "4.99",
@@ -12,7 +12,7 @@
   "mmkId": "1058548",
   "productGroupId": "524247",
   "brandType": "A of B merk",
-  "discount": "$ 5,00",
+  "discount": "€ 5,00",
   "url": "/honeybalm-honey-lipbalm/p/6186150",
   "listName": "Lister",
   "brand": "HONEYBALM",
@@ -33,5 +33,6 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h01/hd8/31979310186526/prd-front-6186150-1_600x600/prd-front-6186150-1-600x600.jpg"
 }

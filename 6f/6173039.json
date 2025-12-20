@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Chloé Nomade Eau de Parfum",
-  "code": "5549510",
-  "price": "54.99",
-  "priceOriginal": "",
+  "itemName": "Lattafa Yara Eau de Parfum",
+  "code": "6173039",
+  "price": "19.99",
+  "priceOriginal": "21.28",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "onPromo": "1059764",
+  "mmkId": "1059764",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
-  "url": "/chloe-nomade-eau-de-parfum/p/5549510",
+  "discount": "€ 1,29",
+  "url": "/lattafa-yara-eau-de-parfum/p/6173039",
   "listName": "Lister",
-  "brand": "Chloe",
+  "brand": "Lattafa",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hb9/h9f/31058390614046/prd-front-5549510-1_600x600/prd-front-5549510-1-600x600.jpg"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h81/h34/31833855229982/prd-front-6173039-1_600x600/prd-front-6173039-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6638 > 6639",
   "supplier": "HERKEL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -33,5 +33,6 @@
       "name": "Afslanksupplementen"
     }
   ],
-  "description": "85 stuks"
+  "description": "85 stuks",
+  "image": "/medias/sys_master/prd-images/h0a/h0e/32495684419614/prd-front-65460-1_600x600/prd-front-65460-1-600x600.jpg"
 }

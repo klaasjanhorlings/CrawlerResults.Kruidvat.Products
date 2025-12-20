@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "e.l.f. Medium Peach Hydrating Camo Concealer Satin Finish",
   "code": "6274371",
   "price": "9.0",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "6ml"
+  "description": "6ml",
+  "image": "/medias/sys_master/prd-images/h0d/h8e/34024768307230/prd-front-6274371-1_600x600/prd-front-6274371-1-600x600.jpg"
 }
