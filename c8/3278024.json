@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "HALEON (NOVARTIS)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1058792",
   "mmkId": "1058792",
   "productGroupId": "495744",
@@ -37,6 +37,5 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/he2/hb3/34677918203934/prd-front-3278024-1_600x600/prd-front-3278024-1-600x600.jpg"
+  "description": "30 stuks"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2495 > 3061 > 3791 > 5795 > 5928 > 6716",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Damespyjama's"
     }
   ],
-  "description": "rood, mt L"
+  "description": "rood, mt L",
+  "image": "/medias/sys_master/prd-images/hee/h79/45124992040990/prd-front-6297177-1_600x600/prd-front-6297177-1-600x600.jpg"
 }
