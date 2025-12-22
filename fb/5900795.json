@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Cellular Expert Lift Bakuchiol Serum",
   "code": "5900795",
-  "price": "37.99",
-  "priceOriginal": "",
+  "price": "18.99",
+  "priceOriginal": "37.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1058744",
-  "mmkId": "1058744",
-  "productGroupId": "471211",
+  "onPromo": "1059038",
+  "mmkId": "1059038",
+  "productGroupId": "474490",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 19,00",
   "url": "/nivea-cellular-expert-lift-bakuchiol-serum/p/5900795",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h5c/h1b/44917586296862/prd-front-5900795-1_600x600/prd-front-5900795-1-600x600.jpg"
+  "description": "30ml - Alle huidtypen"
 }

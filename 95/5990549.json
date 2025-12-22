@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Michael Kors Gorgeous! Eau de Parfum",
   "code": "5990549",
-  "price": "44.99",
-  "priceOriginal": "49.99",
+  "price": "49.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1059764",
-  "mmkId": "1059764",
-  "productGroupId": "",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/michael-kors-gorgeous-eau-de-parfum/p/5990549",
   "listName": "Lister",
   "brand": "MIchael Kors",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hb4/hd8/29217491288094/prd-front-5990549-1_600x600/prd-front-5990549-1-600x600.jpg"
 }

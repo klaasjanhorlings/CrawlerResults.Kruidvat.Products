@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3659",
   "supplier": "ONTEX BVBA",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059751",
+  "mmkId": "1059751",
+  "productGroupId": "530762",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-classic-normal-tampons/p/5832937",
@@ -33,5 +33,6 @@
       "name": "Tampons"
     }
   ],
-  "description": "24 stuks"
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/hda/hf2/32105015214110/prd-front-5832937-1_600x600/prd-front-5832937-1-600x600.jpg"
 }

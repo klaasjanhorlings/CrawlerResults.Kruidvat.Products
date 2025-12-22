@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6018",
   "supplier": "RAVENSBURGER BV",
   "inStock": "inStock",
-  "onPromo": "1058841",
-  "mmkId": "1058841",
-  "productGroupId": "500731",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ravensburger-super-mario-3-in-1-puzzel/p/6133951",
@@ -29,5 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h49/h2b/34926697742366/prd-front-6133951-1_600x600/prd-front-6133951-1-600x600.jpg"
 }

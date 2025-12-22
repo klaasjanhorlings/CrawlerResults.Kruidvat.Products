@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -37,5 +37,6 @@
       "name": "Neusspray"
     }
   ],
-  "description": "Medisch hulpmiddel - 20ml"
+  "description": "Medisch hulpmiddel - 20ml",
+  "image": "/medias/sys_master/prd-images/he9/hc1/30556543746078/prd-front-5981652-1_600x600/prd-front-5981652-1-600x600.jpg"
 }

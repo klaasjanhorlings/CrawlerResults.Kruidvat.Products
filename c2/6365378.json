@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Givenchy Gentlemen Eau de Parfum",
   "code": "6365378",
-  "price": "64.0",
-  "priceOriginal": "71.11",
+  "price": "71.11",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1059764",
-  "mmkId": "1059764",
-  "productGroupId": "",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
-  "discount": "€ 7,11",
+  "discount": "",
   "url": "/givenchy-gentlemen-eau-de-parfum/p/6365378",
   "listName": "Lister",
   "brand": "Givenchy",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h5b/h7f/35174643761182/prd-front-6365378-1_600x600/prd-front-6365378-1-600x600.jpg"
+  "description": "100ml"
 }

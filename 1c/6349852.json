@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "LEGO Jurassic World 76972 Offroad Raptorontsnapping",
   "code": "6349852",
-  "price": "31.99",
-  "priceOriginal": "",
+  "price": "23.99",
+  "priceOriginal": "31.99",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1059768",
+  "mmkId": "1059768",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 8,00",
   "url": "/lego-jurassic-world-76972-offroad-raptorontsnapping/p/6349852",
   "listName": "Lister",
   "brand": "LEGO",
@@ -33,6 +33,5 @@
       "name": "LEGO Films en series"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h42/hcc/35041479557150/prd-front-6349852-1_600x600/prd-front-6349852-1-600x600.jpg"
+  "description": ""
 }

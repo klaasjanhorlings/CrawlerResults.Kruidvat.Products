@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Teddysweater",
+  "code": "6297471",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5791 > 5790 > 5792 > 5795 > 5928 > 6716",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/teddysweater/p/6297471",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "zwart, mt L-XL",
+  "image": "/medias/sys_master/prd-images/h33/hcc/44599574757406/prd-front-6297471-1_600x600/prd-front-6297471-1-600x600.jpg"
+}

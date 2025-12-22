@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1059037",
+  "mmkId": "1059037",
+  "productGroupId": "469786",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-multi-a-z-dragees/p/3909795",
@@ -37,5 +37,6 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "500 stuks"
+  "description": "500 stuks",
+  "image": "/medias/sys_master/prd-images/hda/h03/34837797863454/prd-front-3909795-1_600x600/prd-front-3909795-1-600x600.jpg"
 }

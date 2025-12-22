@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Silvergear Elektrische Schoenverwarmer",
   "code": "6171758",
   "price": "9.99",
@@ -29,6 +29,5 @@
       "name": "Verrassend elektronica"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hcc/h6e/44449745338398/prd-front-6171758-1_600x600/prd-front-6171758-1-600x600.jpg"
+  "description": ""
 }

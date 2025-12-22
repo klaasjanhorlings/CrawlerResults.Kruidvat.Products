@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
   "supplier": "ASMODEE THE NETHERLANDS",
   "inStock": "inStock",
-  "onPromo": "1058841",
-  "mmkId": "1058841",
-  "productGroupId": "500731",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/ticket-to-ride-san-francisco/p/6152025",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/hc1/h76/31496478064670/prd-front-6152025-1_600x600/prd-front-6152025-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

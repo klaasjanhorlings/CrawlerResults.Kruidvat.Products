@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris True Match 7.R/C Rose Amber Foundation",
+  "code": "4167129",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1058746",
+  "mmkId": "1058746",
+  "productGroupId": "471421",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-true-match-7r/c-rose-amber-foundation/p/4167129",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266577,
+      "name": "Foundation"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h8b/hff/45052871868446/prd-front-4167129-1_600x600/prd-front-4167129-1-600x600.jpg"
+}

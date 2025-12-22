@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gucci Memoire d'Une Odeur",
   "code": "6114463",
-  "price": "49.49",
-  "priceOriginal": "54.99",
+  "price": "54.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1059764",
-  "mmkId": "1059764",
-  "productGroupId": "",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
-  "discount": "€ 5,50",
+  "discount": "",
   "url": "/gucci-memoire-dune-odeur/p/6114463",
   "listName": "Lister",
   "brand": "Gucci",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "60ml",
-  "image": "/medias/sys_master/prd-images/hc6/h16/32415585599518/prd-front-6114463-1_600x600/prd-front-6114463-1-600x600.jpg"
+  "description": "60ml"
 }

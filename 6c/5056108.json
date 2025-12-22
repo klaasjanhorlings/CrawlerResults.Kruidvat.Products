@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Regenerist Retinol24 Nachtserum",
   "code": "5056108",
-  "price": "41.49",
-  "priceOriginal": "",
+  "price": "20.74",
+  "priceOriginal": "41.49",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1058767",
-  "mmkId": "1058767",
-  "productGroupId": "483955",
+  "onPromo": "1059038",
+  "mmkId": "1059038",
+  "productGroupId": "474490",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 20,75",
   "url": "/olay-regenerist-retinol24-nachtserum/p/5056108",
   "listName": "Lister",
   "brand": "Olay",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "40ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h8e/h5d/44848759373854/prd-front-5056108-1_600x600/prd-front-5056108-1-600x600.jpg"
+  "description": "40ml - Alle huidtypen"
 }

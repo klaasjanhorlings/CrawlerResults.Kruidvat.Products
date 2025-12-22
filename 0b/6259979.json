@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Liquid Core Caramel Protein Bar",
+  "code": "6259979",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6385 > 6386 > 6397",
+  "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
+  "inStock": "inStock",
+  "onPromo": "1058850",
+  "mmkId": "1058850",
+  "productGroupId": "502166",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-liquid-core-caramel-protein-bar/p/6259979",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266751,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "57g",
+  "image": "/medias/sys_master/prd-images/hcd/hee/44428650446878/prd-front-6259979-1_600x600/prd-front-6259979-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1058998",
-  "mmkId": "1058998",
-  "productGroupId": "501313",
+  "onPromo": "1058548",
+  "mmkId": "1058548",
+  "productGroupId": "524247",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bio-oil-huidverzorgingsolie/p/2888145",
@@ -37,5 +37,6 @@
       "name": "Littekencremes"
     }
   ],
-  "description": "200ml - Alle huidtypen"
+  "description": "200ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h7a/h25/34595244441630/prd-front-2888145-1_600x600/prd-front-2888145-1-600x600.jpg"
 }
