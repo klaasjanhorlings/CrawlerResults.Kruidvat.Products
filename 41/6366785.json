@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Reisformaat Stijltang",
+  "code": "6366785",
+  "price": "8.24",
+  "priceOriginal": "10.99",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6430",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "1058743",
+  "mmkId": "1058743",
+  "productGroupId": "468797",
+  "brandType": "Eigen merk",
+  "discount": "€ 2,75",
+  "url": "/kruidvat-reisformaat-stijltang/p/6366785",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266698,
+      "name": "Haarstylers"
+    },
+    {
+      "id": 30266935,
+      "name": "Stijltangen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1b/h62/44569631719454/prd-front-6366785-1_600x600/prd-front-6366785-1-600x600.jpg"
+}

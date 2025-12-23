@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Ticket to Ride San Francisco",
   "code": "6152025",
-  "price": "14.99",
-  "priceOriginal": "",
+  "price": "7.49",
+  "priceOriginal": "14.99",
   "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
   "supplier": "ASMODEE THE NETHERLANDS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "Ander merk",
-  "discount": "",
+  "discount": "€ 7,50",
   "url": "/ticket-to-ride-san-francisco/p/6152025",
   "listName": "Lister",
   "brand": "Overig",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/hc1/h76/31496478064670/prd-front-6152025-1_600x600/prd-front-6152025-1-600x600.jpg"
 }

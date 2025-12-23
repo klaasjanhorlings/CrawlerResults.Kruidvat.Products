@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 3027 > 6779 > 6785",
   "supplier": "LENSCONCEPT BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1016529",
   "mmkId": "1016529",
   "productGroupId": "286850",
@@ -37,6 +37,5 @@
       "name": "Maandlenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks",
-  "image": "/medias/prd-front-3663017-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzM2MDJ8aW1hZ2UvanBlZ3xhRFl6TDJnMk5pOHhOelEwTnpjNE1UQTBNREUxT0M5d2NtUXRabkp2Ym5RdE16WTJNekF4TnkweFh6WXdNSGcyTURBfGJmYzA3YzM3OGYxYTQzNTA2NzkwNGRkM2FmYTlmNDI0YWU2NzA0OTc4YTZkNDgyMmEyODEwODM4ZTdmNmE3ZjQ"
+  "description": "Medisch hulpmiddel - 6 stuks"
 }

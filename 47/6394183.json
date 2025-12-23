@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Villa Volance Beer Lamp",
   "code": "6394183",
   "price": "6.99",
@@ -29,6 +29,5 @@
       "name": "Verlichting"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h10/h55/44274695602206/prd-front-6394183-1_600x600/prd-front-6394183-1-600x600.jpg"
+  "description": ""
 }

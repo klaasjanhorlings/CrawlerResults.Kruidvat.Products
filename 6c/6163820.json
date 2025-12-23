@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "EasyGlide Anaal Glijmiddel",
   "code": "6163820",
-  "price": "24.99",
-  "priceOriginal": "",
+  "price": "12.49",
+  "priceOriginal": "24.99",
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "ONE-DC B.V.",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1058941",
+  "mmkId": "1058941",
+  "productGroupId": "521174",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 12,50",
   "url": "/easyglide-anaal-glijmiddel/p/6163820",
   "listName": "Lister",
   "brand": "Easyglide",
@@ -37,5 +37,6 @@
       "name": "Anale glijmiddelen"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h8e/ha8/33268610957342/prd-front-6163820-1_600x600/prd-front-6163820-1-600x600.jpg"
 }

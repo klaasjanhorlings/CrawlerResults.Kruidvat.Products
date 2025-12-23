@@ -6,7 +6,7 @@
   "price": "14.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2756 > 3946 > 6529",
-  "supplier": "BENCKMAR BV",
+  "supplier": "SIMILASAN NEDERLAND BV",
   "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
@@ -25,12 +25,16 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266013,
-      "name": "Optiek"
+      "id": 30266006,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30266759,
-      "name": "Oogdruppels"
+      "id": 30266701,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 30266953,
+      "name": "Hooikoorts oogdruppels"
     }
   ],
   "description": "Medisch hulpmiddel - 10ml",
