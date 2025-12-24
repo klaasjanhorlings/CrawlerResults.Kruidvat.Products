@@ -5,7 +5,7 @@
   "code": "5109448",
   "price": "47.97",
   "priceOriginal": "",
-  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2577 > 3017 > 3842",
   "supplier": "ESSITY NETHERLANDS BV",
   "inStock": "outOfStock",
   "onPromo": "1010662",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "mt 4 (8-12kg), 240 stuks"
+  "description": "mt 4 (8-12kg), 240 stuks",
+  "image": "/medias/sys_master/prd-images/ha8/h0f/44970388553758/prd-front-5109448-1_600x600/prd-front-5109448-1-600x600.jpg"
 }

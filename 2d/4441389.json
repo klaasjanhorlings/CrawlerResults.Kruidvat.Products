@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Nutrilon 1 Volledige Zuigelingenvoeding Flesvoeding 0-6 Maanden",
+  "itemName": "Nutrilon 1 Volledige Zuigelingenvoeding Baby Flesvoeding 0-6 Maanden",
   "code": "4441389",
   "price": "17.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/nutrilon-1-volledige-zuigelingenvoeding-flesvoeding-0-6-maanden/p/4441389",
+  "url": "/nutrilon-1-volledige-zuigelingenvoeding-baby-flesvoeding-0-6-maanden/p/4441389",
   "listName": "Lister",
   "brand": "Nutrilon",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Zuigelingenmelk"
     }
   ],
-  "description": "800g",
-  "image": "/medias/sys_master/prd-images/h3e/h3f/33885597237278/prd-front-4441389-1_600x600/prd-front-4441389-1-600x600.jpg"
+  "description": "800g"
 }

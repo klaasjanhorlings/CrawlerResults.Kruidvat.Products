@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Maximum Definition Waterproof Volume Mascara",
-  "code": "5067805",
-  "price": "2.99",
+  "itemName": "Essence Extreme Shine 12 Dazzling Apricot Volume Lipgloss",
+  "code": "6123045",
+  "price": "2.29",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1058548",
@@ -13,7 +13,7 @@
   "productGroupId": "524247",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-maximum-definition-waterproof-volume-mascara/p/5067805",
+  "url": "/essence-extreme-shine-12-dazzling-apricot-volume-lipgloss/p/6123045",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30266576,
-      "name": "Mascara"
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266583,
+      "name": "Lipgloss"
     }
   ],
-  "description": "8ml",
-  "image": "/medias/sys_master/prd-images/hc6/h6d/35124871462942/prd-front-5067805-1_600x600/prd-front-5067805-1-600x600.jpg"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/he5/hc1/45078037921822/prd-front-6123045-1_600x600/prd-front-6123045-1-600x600.jpg"
 }

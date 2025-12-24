@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266076,
-      "name": "Eten en drinken"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 30266886,
-      "name": "Koffie"
+      "id": 30266006,
+      "name": "Zelfzorg"
     },
     {
-      "id": 113103697,
-      "name": "Koffiecups"
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 49950085,
+      "name": "Neusstrip"
     }
   ],
   "description": "16 stuks",

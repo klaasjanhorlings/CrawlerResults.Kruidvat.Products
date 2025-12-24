@@ -25,9 +25,14 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266035,
-      "name": "Elektronisch speelgoed"
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 49281541,
+      "name": "Interactief speelgoed"
     }
   ],
-  "description": "12cm x 20cm x 25cm"
+  "description": "12cm x 20cm x 25cm",
+  "image": "/medias/sys_master/prd-images/he6/hab/44588242272286/prd-front-6375612-1_600x600/prd-front-6375612-1-600x600.jpg"
 }

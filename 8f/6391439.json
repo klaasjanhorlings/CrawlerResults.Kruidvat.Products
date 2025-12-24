@@ -25,14 +25,13 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266003,
-      "name": "Handverzorging"
+      "id": 30265995,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30266691,
-      "name": "Handlotion"
+      "id": 30266637,
+      "name": "Bodylotion"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/ha9/h7c/44642407743518/prd-front-6391439-1_600x600/prd-front-6391439-1-600x600.jpg"
+  "description": "500ml"
 }
