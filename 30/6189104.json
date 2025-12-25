@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dove Men+Care Clean Comfort Douchegel",
-  "code": "5164237",
-  "price": "32.1",
+  "itemName": "Baylis & Harding Kindness+ Plant Collagen Body Wash",
+  "code": "6189104",
+  "price": "9.99",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
-  "supplier": "UNILEVER BELGIUM",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
+  "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dove-mencare-clean-comfort-douchegel/p/5164237",
+  "url": "/baylis-harding-kindness-plant-collagen-body-wash/p/6189104",
   "listName": "Lister",
-  "brand": "Dove Men",
+  "brand": "Baylis",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "6 x 250ml",
-  "image": "/medias/sys_master/prd-images/hac/h94/29300153942046/prd-front-5164237-1_600x600/prd-front-5164237-1-600x600.jpg"
+  "description": "500ml"
 }

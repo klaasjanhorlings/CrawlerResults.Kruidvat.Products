@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence The Slim Stick 102 Over The Nude Lipstick",
-  "code": "5998851",
-  "price": "2.99",
+  "itemName": "Catrice Plumping 110 Stay Seductive Lip Liner",
+  "code": "5493223",
+  "price": "2.69",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1058548",
   "mmkId": "1058548",
   "productGroupId": "524247",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-the-slim-stick-102-over-the-nude-lipstick/p/5998851",
+  "url": "/catrice-plumping-110-stay-seductive-lip-liner/p/5493223",
   "listName": "Lister",
-  "brand": "Essence",
+  "brand": "Catrice",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,10 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30266582,
-      "name": "Lipstick"
+      "id": 30266595,
+      "name": "Lipliner"
     }
   ],
-  "description": "1,7g",
-  "image": "/medias/sys_master/prd-images/hb0/he4/45077376598046/prd-front-5998851-1_600x600/prd-front-5998851-1-600x600.jpg"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h84/hb2/35010630156318/prd-front-5493223-1_600x600/prd-front-5493223-1-600x600.jpg"
 }
