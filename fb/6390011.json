@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4346 > 4347",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1010662",
   "mmkId": "1010662",
   "productGroupId": "242521",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 7"
     }
   ],
-  "description": "mt 7 (kg), 192 stuks"
+  "description": "mt 7 (kg), 192 stuks",
+  "image": "/medias/sys_master/prd-images/h9e/h04/45025983496222/prd-front-6390011-1_600x600/prd-front-6390011-1-600x600.jpg"
 }

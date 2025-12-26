@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "UNILEVER BELGIUM",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1053276",
   "mmkId": "1053276",
   "productGroupId": "497664",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "3 x 57 stuks",
-  "image": "/medias/sys_master/prd-images/h15/h54/44397690290206/prd-front-4366636-1_600x600/prd-front-4366636-1-600x600.jpg"
+  "description": "3 x 57 stuks"
 }
