@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Mixsoon Centella Cleansing Water",
-  "code": "6200122",
-  "price": "13.9",
+  "itemName": "Mixsoon Centella Cleansing Foam",
+  "code": "6200094",
+  "price": "16.9",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 6455 > 6702",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "outOfStock",
   "onPromo": "1058548",
@@ -13,7 +13,7 @@
   "productGroupId": "524247",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/mixsoon-centella-cleansing-water/p/6200122",
+  "url": "/mixsoon-centella-cleansing-foam/p/6200094",
   "listName": "Lister",
   "brand": "MIXSOON",
   "mpOrigin": "Kruidvat",
@@ -37,10 +37,9 @@
       "name": "Korean gezichtsreiniging"
     },
     {
-      "id": 90765729,
-      "name": "Korean micellair water"
+      "id": 90766123,
+      "name": "Korean reinigingsmousse"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/hf0/h79/32249773031454/prd-front-6200122-1_600x600/prd-front-6200122-1-600x600.jpg"
+  "description": "150ml"
 }

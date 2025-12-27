@@ -7,7 +7,7 @@
   "priceOriginal": "45.99",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059768",
   "mmkId": "1059768",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "LEGO Harry Potter"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h29/hfd/35038259085342/prd-front-6346289-1_600x600/prd-front-6346289-1-600x600.jpg"
 }
