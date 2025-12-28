@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Ariel Original Vloeibaar Wasmiddel",
   "code": "6297121",
   "price": "9.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "$ 10,00",
   "url": "/ariel-original-vloeibaar-wasmiddel/p/6297121",
   "listName": "Lister",
   "brand": "Ariel",

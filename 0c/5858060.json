@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Robijn Collection Kokos Sensation Wasverzachter",
   "code": "5858060",
   "price": "14.0",
@@ -12,7 +12,7 @@
   "mmkId": "1058698",
   "productGroupId": "502223",
   "brandType": "A of B merk",
-  "discount": "€ 13,99",
+  "discount": "$ 13,99",
   "url": "/robijn-collection-kokos-sensation-wasverzachter/p/5858060",
   "listName": "Lister",
   "brand": "Robijn",
@@ -29,6 +29,5 @@
       "name": "Wasverzachter"
     }
   ],
-  "description": "4 x 765ml , 152 wasbeurten",
-  "image": "/medias/sys_master/prd-images/hce/hc4/34901496725534/prd-front-5858060-1_600x600/prd-front-5858060-1-600x600.jpg"
+  "description": "4 x 765ml , 152 wasbeurten"
 }

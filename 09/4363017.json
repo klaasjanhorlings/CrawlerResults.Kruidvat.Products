@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dylon Emerald Green Machinewas Textielverf",
   "code": "4363017",
   "price": "11.99",
@@ -29,6 +29,5 @@
       "name": "Textielverf"
     }
   ],
-  "description": "350g",
-  "image": "/medias/prd-front-4363017-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzc2ODN8aW1hZ2UvanBlZ3xhRFk1TDJoak5TOHhOakE1TkRreE56VTVNVEEzTUM5d2NtUXRabkp2Ym5RdE5ETTJNekF4TnkweFh6WXdNSGcyTURBfGFlMjJmMmViNGQ2NzM4Y2Q2YmVjNGUyNjZmODQ1YjUyYzQ2MDliM2U1OWJjNGZkZTllYzM0NDk2NTllOWQ4YzA"
+  "description": "350g"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2330 > 2730 > 3433 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059047",
   "mmkId": "1059047",
   "productGroupId": "498766",
@@ -33,6 +33,5 @@
       "name": "Rompertjes"
     }
   ],
-  "description": "groen, mt 62-68",
-  "image": "/medias/sys_master/prd-images/hba/hd0/33641410330654/prd-front-6284248-1_600x600/prd-front-6284248-1-600x600.jpg"
+  "description": "groen, mt 62-68"
 }

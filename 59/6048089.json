@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Witte Reus Waspoeder",
   "code": "6048089",
   "price": "11.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 19,00",
+  "discount": "$ 19,00",
   "url": "/witte-reus-waspoeder/p/6048089",
   "listName": "Lister",
   "brand": "Witte Reus",
