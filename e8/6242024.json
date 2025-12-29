@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Colossal Bubble Waterproof Mascara",
   "code": "6242024",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "10.0",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058797",
-  "mmkId": "1058797",
-  "productGroupId": "496175",
+  "onPromo": "1059200",
+  "mmkId": "1059200",
+  "productGroupId": "511340",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,99",
   "url": "/maybelline-new-york-colossal-bubble-waterproof-mascara/p/6242024",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf3/h37/44790251552798/prd-front-6242024-1_600x600/prd-front-6242024-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Glade Winter Berries Luchtverfrisser Navulling",
   "code": "6409695",
   "price": "2.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 2,70",
+  "discount": "€ 2,70",
   "url": "/glade-winter-berries-luchtverfrisser-navulling/p/6409695",
   "listName": "Lister",
   "brand": "Glade by Brise",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h80/h55/44531722354718/prd-front-6409695-1_600x600/prd-front-6409695-1-600x600.jpg"
 }

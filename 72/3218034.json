@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/versace-the-dreamer-for-him-eau-de-toilette/p/3218034",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-3218034-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzkxMDF8aW1hZ2UvanBlZ3xhR0kxTDJnM01DOHhOalU1TWpneE16VXlNamszTkM5d2NtUXRabkp2Ym5RdE16SXhPREF6TkMweFh6WXdNSGcyTURBfDNlZTM3YTVmMDdjODExMDVkODI3MTdiZGNlODg3M2FiMWFlZGE2ZmNmNmU2NDNkNDZlZGZkMWE5ZjdmMzk1Yjk"
+  "description": "100ml"
 }

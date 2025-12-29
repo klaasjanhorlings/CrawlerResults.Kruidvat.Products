@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1058821",
-  "mmkId": "1058821",
-  "productGroupId": "498873",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-sensitive-24h-antitranspirant-spray/p/25992",
@@ -33,6 +33,5 @@
       "name": "Overmatig transpireren"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h38/h6e/29340395536414/prd-front-25992-1_600x600/prd-front-25992-1-600x600.jpg"
+  "description": "75ml"
 }

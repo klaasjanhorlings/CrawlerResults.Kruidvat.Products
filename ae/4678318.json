@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gillette Fusion5 Scheerapparaat",
   "code": "4678318",
-  "price": "15.0",
+  "price": "12.5",
   "priceOriginal": "18.49",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5722 > 3880",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1059009",
-  "mmkId": "1059009",
-  "productGroupId": "507104",
+  "onPromo": "1059278",
+  "mmkId": "1059278",
+  "productGroupId": "513770",
   "brandType": "A of B merk",
-  "discount": "€ 3,49",
+  "discount": "€ 5,99",
   "url": "/gillette-fusion5-scheerapparaat/p/4678318",
   "listName": "Lister",
   "brand": "Gillette",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": "Inclusief 2 scheermesjes"
+  "description": "Inclusief 2 scheermesjes",
+  "image": "/medias/sys_master/prd-images/he5/h6c/33338967359518/prd-front-4678318-1_600x600/prd-front-4678318-1-600x600.jpg"
 }

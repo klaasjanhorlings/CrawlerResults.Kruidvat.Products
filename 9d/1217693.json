@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6694 > 2835",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1058842",
-  "mmkId": "1058842",
-  "productGroupId": "500734",
+  "onPromo": "1059217",
+  "mmkId": "1059217",
+  "productGroupId": "512340",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-liquid-silk-anti-klitspray/p/1217693",
@@ -33,5 +33,6 @@
       "name": "Anti-klitspray"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h13/h8f/33762623094814/prd-front-1217693-1_600x600/prd-front-1217693-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tangle Teezer Detangler Mini Hairbrush",
   "code": "6142722",
-  "price": "8.99",
-  "priceOriginal": "11.99",
+  "price": "11.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6320 > 6674",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1058951",
-  "mmkId": "1058951",
-  "productGroupId": "465475",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/tangle-teezer-detangler-mini-hairbrush/p/6142722",
   "listName": "Lister",
   "brand": "Tangle Teezer",
@@ -37,5 +37,6 @@
       "name": "Haarborstels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1d/h5a/31661315588126/prd-front-6142722-1_600x600/prd-front-6142722-1-600x600.jpg"
 }

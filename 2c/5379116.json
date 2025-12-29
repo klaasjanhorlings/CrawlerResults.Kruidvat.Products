@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/calvin-klein-man-eau-de-toilette/p/5379116",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/prd-front-5379116-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDUyNDF8aW1hZ2UvanBlZ3xhR0l3TDJnNE15OHlOamt3TXpRME5UVTJPVFUyTmk5d2NtUXRabkp2Ym5RdE5UTTNPVEV4TmkweFh6WXdNSGcyTURBfGQ0M2U5OTQ4Njk3MzQ1OGM2YjA0MzYxNTRkZTBiODI4ZjUzYjdiYzU4NGM1MTI4ZTEyNGMwZTIxMTY4OGZkNmY"
 }

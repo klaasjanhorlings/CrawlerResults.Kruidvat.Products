@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Gourmet Perle Mini Filets in Saus Kattenvoer",
   "code": "6125691",
   "price": "24.99",
@@ -41,5 +41,6 @@
       "name": "Natvoer katten"
     }
   ],
-  "description": "40 x 85g"
+  "description": "40 x 85g",
+  "image": "/medias/sys_master/prd-images/hd6/h2c/44335153938462/prd-front-6125691-1_600x600/prd-front-6125691-1-600x600.jpg"
 }

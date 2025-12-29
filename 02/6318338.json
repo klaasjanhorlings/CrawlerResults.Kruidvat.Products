@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Black Dual-Ended Pro Smudge Eyeliner",
   "code": "6318338",
-  "price": "4.89",
-  "priceOriginal": "6.99",
+  "price": "6.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1058760",
-  "mmkId": "1058760",
-  "productGroupId": "480386",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,10",
+  "discount": "",
   "url": "/mcobeauty-black-dual-ended-pro-smudge-eyeliner/p/6318338",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "0,2g"
+  "description": "0,2g",
+  "image": "/medias/sys_master/prd-images/h4a/h06/34829911916574/prd-front-6318338-1_600x600/prd-front-6318338-1-600x600.jpg"
 }

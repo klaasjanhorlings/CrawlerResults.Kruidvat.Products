@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hasbro My Little Pony Sunny Starscout",
+  "code": "6119104",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 5177 > 5271 > 5460 > 5921 > 6040",
+  "supplier": "OSTOY TRADING B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hasbro-my-little-pony-sunny-starscout/p/6119104",
+  "listName": "Lister",
+  "brand": "My Little Pony",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hde/h6f/44970025254942/prd-front-6119104-1_600x600/prd-front-6119104-1-600x600.jpg"
+}

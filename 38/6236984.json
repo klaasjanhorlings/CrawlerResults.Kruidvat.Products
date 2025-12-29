@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1059038",
-  "mmkId": "1059038",
-  "productGroupId": "474490",
+  "onPromo": "1059288",
+  "mmkId": "1059288",
+  "productGroupId": "514164",
   "brandType": "A of B merk",
   "discount": "€ 7,50",
   "url": "/garnier-pureactive-salicylic-exfolierende-liquid-care/p/6236984",
@@ -33,5 +33,6 @@
       "name": "Exfoliant"
     }
   ],
-  "description": "120ml"
+  "description": "120ml",
+  "image": "/medias/sys_master/prd-images/h6b/h6a/44316764995614/prd-front-6236984-1_600x600/prd-front-6236984-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2500 > 3102 > 4104",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1058805",
-  "mmkId": "1058805",
-  "productGroupId": "497017",
+  "onPromo": "1059197",
+  "mmkId": "1059197",
+  "productGroupId": "511195",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-aambeiengel/p/6391271",
@@ -37,5 +37,6 @@
       "name": "Aambeien"
     }
   ],
-  "description": "Medisch hulpmiddel - 40ml"
+  "description": "Medisch hulpmiddel - 40ml",
+  "image": "/medias/sys_master/prd-images/h53/h1e/44276369555486/prd-front-6391271-1_600x600/prd-front-6391271-1-600x600.jpg"
 }

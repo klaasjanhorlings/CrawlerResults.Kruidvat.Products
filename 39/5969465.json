@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ecostyle Mosquito Free",
   "code": "5969465",
   "price": "28.99",
@@ -29,6 +29,5 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "25m2",
-  "image": "/medias/sys_master/prd-images/h3f/h72/30358761635870/prd-front-5969465-1_600x600/prd-front-5969465-1-600x600.jpg"
+  "description": "25m2"
 }

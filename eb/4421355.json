@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 3270 > 4171",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1058881",
-  "mmkId": "1058881",
-  "productGroupId": "507526",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/corega-free-kleefcreme/p/4421355",
@@ -33,5 +33,6 @@
       "name": "Kleefpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 70g"
+  "description": "Medisch hulpmiddel - 70g",
+  "image": "/medias/sys_master/prd-images/hfb/h33/34521197346846/prd-front-4421355-1_600x600/prd-front-4421355-1-600x600.jpg"
 }

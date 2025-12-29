@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Nailner Multi-Action 2-in-1 Kalknagelkwastje",
   "code": "5391835",
-  "price": "23.99",
-  "priceOriginal": "29.99",
+  "price": "29.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 6451 > 6452 > 6788",
   "supplier": "ALL-IN-1 BVBA",
   "inStock": "inStock",
-  "onPromo": "1058812",
-  "mmkId": "1058812",
-  "productGroupId": "498391",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "€ 6,00",
+  "discount": "",
   "url": "/nailner-multi-action-2-in-1-kalknagelkwastje/p/5391835",
   "listName": "Lister",
   "brand": "Nailner",
@@ -33,6 +33,5 @@
       "name": "Kalknagels"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/haf/hb9/34246324256798/prd-front-5391835-1_600x600/prd-front-5391835-1-600x600.jpg"
+  "description": "10ml"
 }

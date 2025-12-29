@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jij Bent Mijn Knuffelbeestje Kinderboek",
+  "code": "6413566",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2092 > 2245 > 2343 > 2743 > 4868 > 6569",
+  "supplier": "BOOK & SERVICE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/jij-bent-mijn-knuffelbeestje-kinderboek/p/6413566",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266034,
+      "name": "Educatief speelgoed"
+    },
+    {
+      "id": 90164317,
+      "name": "Kinderboeken"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h36/hb3/45293145161758/prd-front-6413566-1_600x600/prd-front-6413566-1-600x600.jpg"
+}

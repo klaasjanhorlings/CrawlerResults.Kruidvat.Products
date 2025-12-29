@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ecostyle Mouse & Rat Free",
   "code": "5969451",
   "price": "40.99",
@@ -29,6 +29,5 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "2x 30m2",
-  "image": "/medias/sys_master/prd-images/h47/hdf/30357845901342/prd-front-5969451-1_600x600/prd-front-5969451-1-600x600.jpg"
+  "description": "2x 30m2"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Invisible Biker Damesshort",
   "code": "6327921",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "4.49",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2001 > 2095 > 2150 > 2644 > 6616 > 6619",
   "supplier": "BECONNECTED HK LTD",
   "inStock": "inStock",
-  "onPromo": "1058914",
-  "mmkId": "1058914",
-  "productGroupId": "510578",
+  "onPromo": "1059284",
+  "mmkId": "1059284",
+  "productGroupId": "514141",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 4,50",
   "url": "/kruidvat-invisible-biker-damesshort/p/6327921",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt XL",
-  "image": "/medias/sys_master/prd-images/ha9/h35/44439316660254/prd-front-6327921-1_600x600/prd-front-6327921-1-600x600.jpg"
+  "description": "zwart, mt XL"
 }

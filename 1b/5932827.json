@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6320 > 6674",
   "supplier": "ORIGINAL ADDITIONS (BP)",
   "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/cantu-detangle-borstel/p/5932827",
@@ -33,6 +33,5 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "zwart",
-  "image": "/medias/sys_master/prd-images/h42/haa/28889033539614/prd-front-5932827-1_600x600/prd-front-5932827-1-600x600.jpg"
+  "description": "zwart"
 }

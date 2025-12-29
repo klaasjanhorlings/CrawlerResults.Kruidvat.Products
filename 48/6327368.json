@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Shapewear Biker Damesshort",
   "code": "6327368",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "4.49",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2001 > 2095 > 2150 > 2644 > 6616 > 6621",
   "supplier": "BECONNECTED HK LTD",
   "inStock": "inStock",
-  "onPromo": "1058914",
-  "mmkId": "1058914",
-  "productGroupId": "510578",
+  "onPromo": "1059284",
+  "mmkId": "1059284",
+  "productGroupId": "514141",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 4,50",
   "url": "/kruidvat-shapewear-biker-damesshort/p/6327368",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "beige, mt M"
+  "description": "beige, mt M",
+  "image": "/medias/sys_master/prd-images/hea/h1b/44420716822558/prd-front-6327368-1_600x600/prd-front-6327368-1-600x600.jpg"
 }

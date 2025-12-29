@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Medium Buff Instant Concealer Camouflage & Contour",
   "code": "6317848",
-  "price": "5.59",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1058760",
-  "mmkId": "1058760",
-  "productGroupId": "480386",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,40",
+  "discount": "",
   "url": "/mcobeauty-medium-buff-instant-concealer-camouflage-contour/p/6317848",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h60/h7c/34827099406366/prd-front-6317848-1_600x600/prd-front-6317848-1-600x600.jpg"
 }

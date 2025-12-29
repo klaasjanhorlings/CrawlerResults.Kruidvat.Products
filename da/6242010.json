@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline Sunkisser 30 Pink Mirage Hazy Matte Blush",
   "code": "6242010",
-  "price": "14.99",
-  "priceOriginal": "",
+  "price": "10.0",
+  "priceOriginal": "14.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "onPromo": "1059319",
+  "mmkId": "1059319",
+  "productGroupId": "516335",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,99",
   "url": "/maybelline-sunkisser-30-pink-mirage-hazy-matte-blush/p/6242010",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,5 +33,6 @@
       "name": "Highlighter"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd1/hcb/44789881700382/prd-front-6242010-1_600x600/prd-front-6242010-1-600x600.jpg"
 }

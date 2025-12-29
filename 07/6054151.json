@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3679 > 5723",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1058832",
-  "mmkId": "1058832",
-  "productGroupId": "499952",
+  "onPromo": "1059172",
+  "mmkId": "1059172",
+  "productGroupId": "508952",
   "brandType": "A or B brand",
   "discount": "",
   "url": "/kneipp-clean-beauty-bio-lotusbloem-bio-jojoba-douchegel/p/6054151",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "200ml - Droge huid"
+  "description": "200ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hd7/hbe/31121543036958/prd-front-6054151-1_600x600/prd-front-6054151-1-600x600.jpg"
 }

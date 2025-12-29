@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6283",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1059037",
-  "mmkId": "1059037",
-  "productGroupId": "469786",
+  "onPromo": "1059187",
+  "mmkId": "1059187",
+  "productGroupId": "510664",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-zink-tabletten/p/1290612",
@@ -37,5 +37,6 @@
       "name": "Zink"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h1a/h05/33574774702110/prd-front-1290612-1_600x600/prd-front-1290612-1-600x600.jpg"
 }

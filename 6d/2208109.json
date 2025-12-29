@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3519",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059209",
+  "mmkId": "1059209",
+  "productGroupId": "512134",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jordan-step-by-step-6-9-jaar-tandenborstel/p/2208109",
@@ -33,6 +33,5 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hfc/hfe/27775581782046/prd-front-2208109-1_600x600/prd-front-2208109-1-600x600.jpg"
+  "description": ""
 }

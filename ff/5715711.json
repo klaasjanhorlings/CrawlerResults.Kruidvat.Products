@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Bademmertjes",
+  "code": "5715711",
+  "price": "1.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "SOLUTION EU BV",
+  "inStock": "outOfStock",
+  "onPromo": "1059138",
+  "mmkId": "1059138",
+  "productGroupId": "487953",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-bademmertjes/p/5715711",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30266830,
+      "name": "Badspeelgoed"
+    }
+  ],
+  "description": "blauw, geel, roze, 3 stuks",
+  "image": "/medias/sys_master/prd-images/h39/h1c/28808034713630/prd-front-5715711-1_600x600/prd-front-5715711-1-600x600.jpg"
+}

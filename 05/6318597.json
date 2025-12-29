@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Auburn Magic Brows",
   "code": "6318597",
-  "price": "6.29",
-  "priceOriginal": "8.99",
+  "price": "8.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1058760",
-  "mmkId": "1058760",
-  "productGroupId": "480386",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,70",
+  "discount": "",
   "url": "/mcobeauty-auburn-magic-brows/p/6318597",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwgel"
     }
   ],
-  "description": "3.5ml",
-  "image": "/medias/sys_master/prd-images/hd7/h2d/34826211852318/prd-front-6318597-1_600x600/prd-front-6318597-1-600x600.jpg"
+  "description": "3.5ml"
 }

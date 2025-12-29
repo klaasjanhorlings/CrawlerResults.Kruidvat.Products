@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "L'OREAL NED B.V.",
   "inStock": "outOfStock",
-  "onPromo": "1058746",
-  "mmkId": "1058746",
-  "productGroupId": "471421",
+  "onPromo": "1059287",
+  "mmkId": "1059287",
+  "productGroupId": "514159",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-triple-active-dagcreme-voor-de-normale-tot-gemengde-huid/p/1755251",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hb4/h0e/35038231035934/prd-front-1755251-1_600x600/prd-front-1755251-1-600x600.jpg"
+  "description": "50ml"
 }

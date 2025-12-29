@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mentos Breeze Mint XL Gum",
+  "code": "1637616",
+  "price": "2.99",
+  "priceOriginal": "4.99",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3276 > 4177",
+  "supplier": "PERFETTI VAN MELLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 2,00",
+  "url": "/mentos-breeze-mint-xl-gum/p/1637616",
+  "listName": "Lister",
+  "brand": "Mentos",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 92033748,
+      "name": "Kauwgom en pepermunt"
+    }
+  ],
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/h2a/h17/44641888534558/prd-front-1637616-1_600x600/prd-front-1637616-1-600x600.jpg"
+}

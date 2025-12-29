@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Emily in Paris Stijltang",
   "code": "6122037",
-  "price": "14.99",
-  "priceOriginal": "",
+  "price": "11.24",
+  "priceOriginal": "14.99",
   "itemBgbcat": "2003 > 2058 > 2188 > 2541 > 3169 > 6426",
   "supplier": "AROVO INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059303",
+  "mmkId": "1059303",
+  "productGroupId": "515078",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,75",
   "url": "/emily-in-paris-stijltang/p/6122037",
   "listName": "Lister",
   "brand": "EMILY IN PARIS",
@@ -37,6 +37,5 @@
       "name": "Stijltangen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1b/hb5/31462627868702/prd-front-6122037-1_600x600/prd-front-6122037-1-600x600.jpg"
+  "description": ""
 }

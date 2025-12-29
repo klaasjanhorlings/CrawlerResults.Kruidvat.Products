@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playgro Ball Activity Nest",
+  "code": "6421371",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
+  "supplier": "PLAYGRO EUROPE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/playgro-ball-activity-nest/p/6421371",
+  "listName": "Lister",
+  "brand": "Playgro",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30266831,
+      "name": "Speelkleden en Babygyms"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h3b/h1d/44869782143006/prd-front-6421371-1_600x600/prd-front-6421371-1-600x600.jpg"
+}

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay POP Hyaluronic Hydra Boost Navulling",
   "code": "6034992",
-  "price": "34.99",
-  "priceOriginal": "",
+  "price": "17.49",
+  "priceOriginal": "34.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1058767",
-  "mmkId": "1058767",
-  "productGroupId": "483955",
+  "onPromo": "1059237",
+  "mmkId": "1059237",
+  "productGroupId": "512964",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 17,50",
   "url": "/olay-pop-hyaluronic-hydra-boost-navulling/p/6034992",
   "listName": "Lister",
   "brand": "Olay",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml, alle huidtypes",
-  "image": "/medias/sys_master/prd-images/hc7/h12/44846207795230/prd-front-6034992-1_600x600/prd-front-6034992-1-600x600.jpg"
+  "description": "50ml, alle huidtypes"
 }

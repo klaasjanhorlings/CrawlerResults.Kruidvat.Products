@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Glade Festive Honey & Chocolate  Electric Scented Oil Luchtverfrisser Navulling",
   "code": "6409737",
   "price": "2.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 2,70",
+  "discount": "€ 2,70",
   "url": "/glade-festive-honey-chocolate-electric-scented-oil-luchtverfrisser-navulling/p/6409737",
   "listName": "Lister",
   "brand": "Glade by Brise",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h66/h7b/44530371985438/prd-front-6409737-1_600x600/prd-front-6409737-1-600x600.jpg"
 }

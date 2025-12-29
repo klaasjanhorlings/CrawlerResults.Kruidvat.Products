@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "EasyGlide Toycleaner",
   "code": "6155749",
-  "price": "3.99",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 6401 > 6463 > 6464",
   "supplier": "ONE-DC B.V.",
   "inStock": "outOfStock",
-  "onPromo": "1058941",
-  "mmkId": "1058941",
-  "productGroupId": "521174",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "€ 4,00",
+  "discount": "",
   "url": "/easyglide-toycleaner/p/6155749",
   "listName": "Lister",
   "brand": "Easyglide",
@@ -33,5 +33,6 @@
       "name": "Toy reiniger"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h85/hd2/31587745890334/prd-front-6155749-1_600x600/prd-front-6155749-1-600x600.jpg"
 }

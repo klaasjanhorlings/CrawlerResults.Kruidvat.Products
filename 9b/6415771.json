@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Moose Toys Goo Jit Zu Hero Creator",
+  "code": "6415771",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2140 > 5157 > 5589 > 5619 > 5921 > 6040",
+  "supplier": "SPECTRON BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/moose-toys-goo-jit-zu-hero-creator/p/6415771",
+  "listName": "Lister",
+  "brand": "Moose Toys",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h23/heb/44661318352926/prd-front-6415771-1_600x600/prd-front-6415771-1-600x600.jpg"
+}

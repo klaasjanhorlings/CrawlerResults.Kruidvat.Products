@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 4312 > 4310 > 4311 > 4313 > 4314",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1058548",
-  "mmkId": "1058548",
-  "productGroupId": "524247",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/head-shoulders-classic-antiroosshampoo/p/6020467",
@@ -29,6 +29,5 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "95ml",
-  "image": "/medias/sys_master/prd-images/hc3/h2d/35124306575390/prd-front-6020467-1_600x600/prd-front-6020467-1-600x600.jpg"
+  "description": "95ml"
 }

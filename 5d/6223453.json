@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Ultimate Thick & Curly Tangle Teezer",
   "code": "6223453",
-  "price": "11.99",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6320 > 6674",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "outOfStock",
-  "onPromo": "1058951",
-  "mmkId": "1058951",
-  "productGroupId": "465475",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,00",
+  "discount": "",
   "url": "/ultimate-thick-curly-tangle-teezer/p/6223453",
   "listName": "Lister",
   "brand": "Tangle Teezer",
@@ -37,6 +37,5 @@
       "name": "Haarborstels"
     }
   ],
-  "description": "paars",
-  "image": "/medias/sys_master/prd-images/h7d/h64/32568477712414/prd-front-6223453-1_600x600/prd-front-6223453-1-600x600.jpg"
+  "description": "paars"
 }

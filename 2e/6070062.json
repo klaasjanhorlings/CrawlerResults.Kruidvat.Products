@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3532",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1058876",
-  "mmkId": "1058876",
-  "productGroupId": "507517",
+  "onPromo": "1059247",
+  "mmkId": "1059247",
+  "productGroupId": "513283",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/prodent-kids-0-6-jaar-tandpasta/p/6070062",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h94/h61/34393266585630/prd-front-6070062-1_600x600/prd-front-6070062-1-600x600.jpg"
 }

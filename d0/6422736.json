@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Series 5 BT5500 Baardtrimmer",
+  "code": "6422736",
+  "price": "34.99",
+  "priceOriginal": "59.99",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6442 > 6672 > 6673",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1059128",
+  "mmkId": "1059128",
+  "productGroupId": "514748",
+  "brandType": "A of B merk",
+  "discount": "€ 25,00",
+  "url": "/braun-series-5-bt5500-baardtrimmer/p/6422736",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266686,
+      "name": "Baardtrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

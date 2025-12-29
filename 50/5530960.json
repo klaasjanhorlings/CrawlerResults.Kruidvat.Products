@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Epitact Knie Medical Physiostrap",
   "code": "5530960",
-  "price": "33.96",
-  "priceOriginal": "42.45",
+  "price": "42.45",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 6475 > 6476 > 6477 > 6481",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1058856",
-  "mmkId": "1058856",
-  "productGroupId": "503317",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "€ 8,49",
+  "discount": "",
   "url": "/epitact-knie-medical-physiostrap/p/5530960",
   "listName": "Lister",
   "brand": "Epitact",
@@ -33,5 +33,6 @@
       "name": "Braces en bandages"
     }
   ],
-  "description": "mt L"
+  "description": "mt L",
+  "image": "/medias/sys_master/prd-images/hbe/h8c/27757426933790/prd-front-5530960-1_600x600/prd-front-5530960-1-600x600.jpg"
 }

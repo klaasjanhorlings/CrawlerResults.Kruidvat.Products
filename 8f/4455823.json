@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "1058768",
-  "mmkId": "1058768",
-  "productGroupId": "484203",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/yari-naturals-sulfate-free-shampoo/p/4455823",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "375ml",
-  "image": "/medias/prd-front-4455823-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjIyNTF8aW1hZ2UvanBlZ3xhREZsTDJnd1lpOHlOamc0TkRRd05ERTRNekEzTUM5d2NtUXRabkp2Ym5RdE5EUTFOVGd5TXkweFh6WXdNSGcyTURBfDY1MmVkMjMzMDZkNmQ4ZjU5ZjU3ZmVlMzRkMDZhNmU2NTM1NjVkNzY3YmRkN2IyMDBmZTQyNzFjZTgwMzI5OWY"
+  "description": "375ml"
 }

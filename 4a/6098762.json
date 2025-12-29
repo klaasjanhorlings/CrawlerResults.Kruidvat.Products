@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ariel Original 3-in-1 Pods",
   "code": "6098762",
   "price": "9.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 13,00",
+  "discount": "€ 13,00",
   "url": "/ariel-original-3-in-1-pods/p/6098762",
   "listName": "Lister",
   "brand": "Ariel",
@@ -29,5 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h99/hc5/33737693495326/prd-front-6098762-1_600x600/prd-front-6098762-1-600x600.jpg"
 }
