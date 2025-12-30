@@ -6,7 +6,7 @@
   "price": "6.74",
   "priceOriginal": "8.99",
   "itemBgbcat": "4640 > 5189 > 5365 > 5554 > 5921 > 6040",
-  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "supplier": "DUMMY EXTERN",
   "inStock": "inStock",
   "onPromo": "1025309",
   "mmkId": "1025309",
@@ -25,12 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266036,
-      "name": "Houten speelgoed"
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
     },
     {
-      "id": 84925671,
-      "name": "Houten speelsets"
+      "id": 30266832,
+      "name": "Vormenstoof"
     }
   ],
   "description": "",

@@ -6,7 +6,7 @@
   "price": "14.95",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
-  "supplier": "BMEDCARE BV",
+  "supplier": "HEALTHCARE BRANDS GROUP NEDERLAND BV",
   "inStock": "inStock",
   "onPromo": "1053321",
   "mmkId": "1053321",
@@ -29,9 +29,14 @@
       "name": "Skincare"
     },
     {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87639222,
+      "name": "Gezichtsolie"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hdc/hab/44001405239326/prd-front-6301601-1_600x600/prd-front-6301601-1-600x600.jpg"
 }
