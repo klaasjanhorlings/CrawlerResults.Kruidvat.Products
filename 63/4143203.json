@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kiss Brush On Gel Kit",
   "code": "4143203",
-  "price": "14.99",
-  "priceOriginal": "19.99",
+  "price": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2958 > 3753",
   "supplier": "ANVIRI COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1059185",
-  "mmkId": "1059185",
-  "productGroupId": "510254",
+  "onPromo": "1059374",
+  "mmkId": "1059374",
+  "productGroupId": "516028",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/kiss-brush-on-gel-kit/p/4143203",
   "listName": "Lister",
   "brand": "Kiss",
@@ -37,5 +37,6 @@
       "name": "Nepnagels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb5/h6f/28294718226462/prd-front-4143203-1_600x600/prd-front-4143203-1-600x600.jpg"
 }

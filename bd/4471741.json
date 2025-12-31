@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Oordopjes",
   "code": "4471741",
   "price": "16.99",
@@ -29,8 +29,8 @@
       "name": "Telefoonaccessoires"
     },
     {
-      "id": 49258289,
-      "name": "Koptelefoons"
+      "id": 85823920,
+      "name": "Oordopjes"
     }
   ],
   "description": "wit",

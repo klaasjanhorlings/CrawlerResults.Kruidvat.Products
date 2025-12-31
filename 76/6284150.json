@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2330 > 2730 > 3433 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059316",
   "mmkId": "1059316",
   "productGroupId": "516155",
@@ -33,5 +33,6 @@
       "name": "Rompertjes"
     }
   ],
-  "description": "beige, mt 74-80"
+  "description": "beige, mt 74-80",
+  "image": "/medias/sys_master/prd-images/hf5/hde/33641410789406/prd-front-6284150-1_600x600/prd-front-6284150-1-600x600.jpg"
 }

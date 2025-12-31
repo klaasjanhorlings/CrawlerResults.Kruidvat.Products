@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1059373",
+  "mmkId": "1059373",
+  "productGroupId": "510135",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-baby-face-lou-lou-multiuse-cream-stick/p/6317946",
@@ -29,8 +29,12 @@
       "name": "Make-up"
     },
     {
-      "id": 30266590,
-      "name": "Blush"
+      "id": 30266596,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30266910,
+      "name": "Mono oogschaduw"
     }
   ],
   "description": "6g",

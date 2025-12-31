@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Fujifilm instax Mini Spray Art Instant Films",
   "code": "5759811",
   "price": "11.99",
@@ -33,5 +33,6 @@
       "name": "Instax fotopapier"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/prd-front-5759811-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTU0OTR8aW1hZ2UvanBlZ3xhR1l4TDJneFlTOHhOakl3T1RreE56QXhPREUwTWk5d2NtUXRabkp2Ym5RdE5UYzFPVGd4TVMweFh6WXdNSGcyTURBfDY5NzdiOWIzMjNiOTJhZmEwOTE4NjBhNWJlYTczNzA2NzlhOTk4MDc1ZGU0YWEyODY2MGQyZDRiNTEyNmI2ZWI"
 }

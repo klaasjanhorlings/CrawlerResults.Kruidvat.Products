@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Lifter Stix 75 Foundation Stick",
   "code": "6241639",
-  "price": "10.0",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1059319",
-  "mmkId": "1059319",
-  "productGroupId": "516335",
+  "onPromo": "1059373",
+  "mmkId": "1059373",
+  "productGroupId": "510135",
   "brandType": "A of B merk",
-  "discount": "€ 4,99",
+  "discount": "",
   "url": "/maybelline-new-york-lifter-stix-75-foundation-stick/p/6241639",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,5 +33,6 @@
       "name": "Contour"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h73/hbc/44803927638046/prd-front-6241639-1_600x600/prd-front-6241639-1-600x600.jpg"
 }

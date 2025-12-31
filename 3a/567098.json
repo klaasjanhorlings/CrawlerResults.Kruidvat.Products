@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1059287",
-  "mmkId": "1059287",
-  "productGroupId": "514159",
+  "onPromo": "1059373",
+  "mmkId": "1059373",
+  "productGroupId": "510135",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/l-oreal-paris-true-match-5r/5c-rose-sand-foundation/p/567098",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h75/hb3/45214864769054/prd-front-567098-1_600x600/prd-front-567098-1-600x600.jpg"
 }

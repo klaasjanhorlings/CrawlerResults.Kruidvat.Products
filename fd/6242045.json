@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New Yorker Sunkisser 20 Kiss Of Shimmer Liquid Glow Highlighter",
   "code": "6242045",
-  "price": "10.0",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6780",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1059319",
-  "mmkId": "1059319",
-  "productGroupId": "516335",
+  "onPromo": "1059373",
+  "mmkId": "1059373",
+  "productGroupId": "510135",
   "brandType": "A of B merk",
-  "discount": "€ 4,99",
+  "discount": "",
   "url": "/maybelline-new-yorker-sunkisser-20-kiss-of-shimmer-liquid-glow-highlighter/p/6242045",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -29,8 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 30266589,
-      "name": "Highlighter"
+      "id": 30266590,
+      "name": "Blush"
     }
   ],
   "description": "",

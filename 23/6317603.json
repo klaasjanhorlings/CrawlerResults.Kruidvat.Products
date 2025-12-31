@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1059373",
+  "mmkId": "1059373",
+  "productGroupId": "510135",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-precision-light/medium-super-fine-brow-pencil/p/6317603",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "0,1g"
+  "description": "0,1g",
+  "image": "/medias/sys_master/prd-images/h7e/h09/34793773957150/prd-front-6317603-1_600x600/prd-front-6317603-1-600x600.jpg"
 }

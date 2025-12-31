@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1059373",
+  "mmkId": "1059373",
+  "productGroupId": "510135",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/mcobeauty-rosy-red-cheek-lip-stain/p/6317806",
@@ -29,12 +29,8 @@
       "name": "Make-up"
     },
     {
-      "id": 87391909,
-      "name": "Lipmake-up"
-    },
-    {
-      "id": 87395177,
-      "name": "Lip tint"
+      "id": 30266590,
+      "name": "Blush"
     }
   ],
   "description": "5ml",

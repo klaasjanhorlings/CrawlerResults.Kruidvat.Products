@@ -25,9 +25,14 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266717,
+      "name": "Weerstand en energie"
     }
   ],
-  "description": "24 stuks"
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/hbb/h6b/44917001519134/prd-front-6391796-1_600x600/prd-front-6391796-1-600x600.jpg"
 }

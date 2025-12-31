@@ -25,9 +25,14 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266603,
+      "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Normale en rijpe huid"
+  "description": "50ml - Normale en rijpe huid",
+  "image": "/medias/sys_master/prd-images/h74/h48/44800362283038/prd-front-5627364-1_600x600/prd-front-5627364-1-600x600.jpg"
 }

@@ -25,9 +25,14 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266725,
+      "name": "Glucosamine"
     }
   ],
-  "description": "360 stuks"
+  "description": "360 stuks",
+  "image": "/medias/sys_master/prd-images/h23/h81/44451386490910/prd-front-6402590-1_600x600/prd-front-6402590-1-600x600.jpg"
 }

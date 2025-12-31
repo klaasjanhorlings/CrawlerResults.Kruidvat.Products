@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Ardell Naked Lashes 421 Kunstwimpers",
   "code": "5134620",
-  "price": "5.24",
-  "priceOriginal": "6.99",
+  "price": "6.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6520 > 6496 > 6508 > 6512 > 6516",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1059184",
-  "mmkId": "1059184",
-  "productGroupId": "510251",
+  "onPromo": "1059374",
+  "mmkId": "1059374",
+  "productGroupId": "516028",
   "brandType": "Exclusief merk",
-  "discount": "€ 1,75",
+  "discount": "",
   "url": "/ardell-naked-lashes-421-kunstwimpers/p/5134620",
   "listName": "Lister",
   "brand": "Ardell",
@@ -33,6 +33,5 @@
       "name": "Nepwimpers"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-5134620-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzYzNTF8aW1hZ2UvanBlZ3xhR0UyTDJneFl5OHlOalV6TlRreE16VTROamN4T0M5d2NtUXRabkp2Ym5RdE5URXpORFl5TUMweFh6WXdNSGcyTURBfGVkNmI1MDM5MzM5ZGY4YzY3N2RlYjJiMzZkOTQ3MzBiMWM2NjgwMDAxNmUwMTgwYmI2M2UyMjhmZDNjZGIyMGE"
+  "description": ""
 }
