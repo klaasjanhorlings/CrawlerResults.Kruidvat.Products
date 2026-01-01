@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier SkinActive Pure Active Anti-Mee-Eters Reinigingsgel",
   "code": "34381",
-  "price": "4.99",
+  "price": "4.0",
   "priceOriginal": "9.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5663",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1059288",
-  "mmkId": "1059288",
-  "productGroupId": "514164",
+  "onPromo": "1059402",
+  "mmkId": "1059402",
+  "productGroupId": "513768",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "€ 5,99",
   "url": "/garnier-skinactive-pure-active-anti-mee-eters-reinigingsgel/p/34381",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -37,6 +37,5 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "150ml - Gecombineerde en vette huid",
-  "image": "/medias/sys_master/prd-images/h9a/h61/35156269137950/prd-front-34381-1_600x600/prd-front-34381-1-600x600.jpg"
+  "description": "150ml - Gecombineerde en vette huid"
 }

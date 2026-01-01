@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Skin Naturals Express 2-In-1 Oogreinigingslotion",
   "code": "2986733",
-  "price": "3.49",
+  "price": "2.8",
   "priceOriginal": "6.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 3668",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1059288",
-  "mmkId": "1059288",
-  "productGroupId": "514164",
+  "onPromo": "1059402",
+  "mmkId": "1059402",
+  "productGroupId": "513768",
   "brandType": "A of B merk",
-  "discount": "€ 3,50",
+  "discount": "€ 4,19",
   "url": "/garnier-skin-naturals-express-2-in-1-oogreinigingslotion/p/2986733",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -37,5 +37,6 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "125ml - Gevoelige huid"
+  "description": "125ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h21/h10/35156268875806/prd-front-2986733-1_600x600/prd-front-2986733-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059413",
+  "mmkId": "1059413",
+  "productGroupId": "516207",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-avent-natural-flesspeen-1m/p/5845516",
@@ -33,5 +33,6 @@
       "name": "Flessenspenen"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h18/h9e/44390453051422/prd-front-5845516-1_600x600/prd-front-5845516-1-600x600.jpg"
 }

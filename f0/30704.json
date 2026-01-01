@@ -7,7 +7,7 @@
   "priceOriginal": "3.22",
   "itemBgbcat": "2006 > 2070 > 2174 > 2690 > 3390 > 2332",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059368",
   "mmkId": "1059368",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Hechtpleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 500cm x 1,25cm"
+  "description": "Medisch hulpmiddel - 500cm x 1,25cm",
+  "image": "/medias/sys_master/prd-images/h11/h23/45032764211230/prd-front-30704-1_600x600/prd-front-30704-1-600x600.jpg"
 }

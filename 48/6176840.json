@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6502 > 6503 > 6520",
   "supplier": "ANVIRI COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1059374",
-  "mmkId": "1059374",
-  "productGroupId": "516028",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/color-fx-by-impress-the-no-glue-mani-better-kunstnagels/p/6176840",
@@ -37,5 +37,6 @@
       "name": "Nepnagels"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h75/h8c/44254856347678/prd-front-6176840-1_600x600/prd-front-6176840-1-600x600.jpg"
 }

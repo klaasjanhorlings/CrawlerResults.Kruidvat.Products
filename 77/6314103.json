@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059225",
   "mmkId": "1059225",
   "productGroupId": "512496",
@@ -37,5 +37,6 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hbf/hbd/44524328321054/prd-front-6314103-1_600x600/prd-front-6314103-1-600x600.jpg"
 }
