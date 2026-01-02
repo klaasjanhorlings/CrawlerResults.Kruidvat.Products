@@ -25,8 +25,16 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30266960,
+      "name": "Neusdruppels"
     }
   ],
   "description": "Medisch hulpmiddel - 18 x 5ml",

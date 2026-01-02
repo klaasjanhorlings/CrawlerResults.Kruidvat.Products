@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Air Wick Lentebloemen Elektrische Luchtverfrisser Navulling",
   "code": "5673214",
   "price": "6.29",
@@ -29,5 +29,6 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "19ml"
+  "description": "19ml",
+  "image": "/medias/sys_master/prd-images/h51/he6/34124289605662/prd-front-5673214-1_600x600/prd-front-5673214-1-600x600.jpg"
 }

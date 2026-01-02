@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Ultra Concentrated Afwasmiddel",
   "code": "714840",
   "price": "0.99",
@@ -29,5 +29,6 @@
       "name": "Afwasmiddel"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/hcc/he4/27286267428894/prd-front-714840-1_600x600/prd-front-714840-1-600x600.jpg"
 }

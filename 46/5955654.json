@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath Graffity Rummikub",
+  "code": "5955654",
+  "price": "9.99",
+  "priceOriginal": "19.99",
+  "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/goliath-graffity-rummikub/p/5955654",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h59/h27/31723804622878/prd-front-5955654-1_600x600/prd-front-5955654-1-600x600.jpg"
+}

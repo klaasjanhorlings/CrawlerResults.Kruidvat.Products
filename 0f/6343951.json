@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Creamy Dreamy Knuffels",
+  "code": "6343951",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 5179 > 5303 > 5492 > 5921 > 6040",
+  "supplier": "THE MERCHANDISE CLUB BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/creamy-dreamy-knuffels/p/6343951",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h34/h6e/34926709112862/prd-front-6343951-1_600x600/prd-front-6343951-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "999 Games Catan: Steden & Ridders Uitbreidingsset",
+  "code": "6346597",
+  "price": "9.99",
+  "priceOriginal": "19.99",
+  "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
+  "supplier": "999 GAMES",
+  "inStock": "inStock",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/999-games-catan-steden-ridders-uitbreidingsset/p/6346597",
+  "listName": "Lister",
+  "brand": "999 Games",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h6c/h71/35101323067422/prd-front-6346597-1_600x600/prd-front-6346597-1-600x600.jpg"
+}

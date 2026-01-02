@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Clean Tapijt- en Bekledingreiniger",
   "code": "17477",
   "price": "2.49",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h70/h56/28246732865566/prd-front-17477-1_600x600/prd-front-17477-1-600x600.jpg"
 }

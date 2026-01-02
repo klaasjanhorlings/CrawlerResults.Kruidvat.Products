@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tommy Girl Summer Edition Eau de Toillette",
   "code": "6035076",
-  "price": "19.49",
-  "priceOriginal": "29.99",
+  "price": "29.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1059388",
-  "mmkId": "1059388",
-  "productGroupId": "513426",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 10,50",
+  "discount": "",
   "url": "/tommy-girl-summer-edition-eau-de-toillette/p/6035076",
   "listName": "Lister",
   "brand": "Tommy Hilfiger",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hc1/h39/34672321986590/prd-front-6035076-1_600x600/prd-front-6035076-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 3114 > 3611 > 6786",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -33,5 +33,6 @@
       "name": "Oogreiniging"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/h77/h84/30265671122974/prd-front-5813589-1_600x600/prd-front-5813589-1-600x600.jpg"
 }

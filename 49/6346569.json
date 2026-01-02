@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "999 Games What The Fog?!",
+  "code": "6346569",
+  "price": "7.49",
+  "priceOriginal": "14.99",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
+  "supplier": "999 GAMES",
+  "inStock": "outOfStock",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 7,50",
+  "url": "/999-games-what-the-fog/p/6346569",
+  "listName": "Lister",
+  "brand": "999 Games",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h85/h38/35103660310558/prd-front-6346569-1_600x600/prd-front-6346569-1-600x600.jpg"
+}

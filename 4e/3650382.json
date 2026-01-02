@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Q10 Power SPF30 Anti-Rimpel Dagcrème",
   "code": "3650382",
-  "price": "11.47",
-  "priceOriginal": "25.49",
+  "price": "25.49",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1059397",
-  "mmkId": "1059397",
-  "productGroupId": "513116",
+  "onPromo": "1059240",
+  "mmkId": "1059240",
+  "productGroupId": "513111",
   "brandType": "A of B merk",
-  "discount": "€ 14,02",
+  "discount": "",
   "url": "/nivea-q10-power-spf30-anti-rimpel-dagcreme/p/3650382",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/had/hc1/45025809072158/prd-front-3650382-1_600x600/prd-front-3650382-1-600x600.jpg"
+  "description": "50ml - Alle huidtypen"
 }

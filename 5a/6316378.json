@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6196 > 6214 > 6244",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1059412",
-  "mmkId": "1059412",
-  "productGroupId": "516042",
+  "onPromo": "1059187",
+  "mmkId": "1059187",
+  "productGroupId": "510664",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-micro-biotica-2-bacterie-stammen-kids-druppels/p/6316378",
@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 75860460,
-      "name": "Baby en Kind gezondheid"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49950650,
+      "name": "Bacteriestammen"
     }
   ],
   "description": "15ml",

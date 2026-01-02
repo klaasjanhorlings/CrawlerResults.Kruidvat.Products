@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Skin Naturals Pure Active Charcoal Peel Off-Masker",
   "code": "4543078",
-  "price": "3.6",
+  "price": "4.49",
   "priceOriginal": "8.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1059402",
-  "mmkId": "1059402",
-  "productGroupId": "513768",
+  "onPromo": "1059288",
+  "mmkId": "1059288",
+  "productGroupId": "514164",
   "brandType": "A of B merk",
-  "discount": "€ 5,39",
+  "discount": "€ 4,50",
   "url": "/garnier-skin-naturals-pure-active-charcoal-peel-off-masker/p/4543078",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -37,5 +37,6 @@
       "name": "Peel-off maskers"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hae/h99/35155848232990/prd-front-4543078-1_600x600/prd-front-4543078-1-600x600.jpg"
 }

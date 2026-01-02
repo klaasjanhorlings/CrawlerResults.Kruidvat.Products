@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath Luxe Poker Chip Set",
+  "code": "6311772",
+  "price": "13.99",
+  "priceOriginal": "27.99",
+  "itemBgbcat": "2181 > 5164 > 5227 > 5416 > 5921 > 6018",
+  "supplier": "GOLIATH B.V.",
+  "inStock": "outOfStock",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 14,00",
+  "url": "/goliath-luxe-poker-chip-set/p/6311772",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 57879466,
+      "name": "Speltafels"
+    },
+    {
+      "id": 84925815,
+      "name": "Poker"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4e/h47/34720317636638/prd-front-6311772-1_600x600/prd-front-6311772-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1059412",
-  "mmkId": "1059412",
-  "productGroupId": "516042",
+  "onPromo": "1059187",
+  "mmkId": "1059187",
+  "productGroupId": "510664",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-vitamine-e-400-capsules/p/57571",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266719,
-      "name": "Beautysupplementen"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 49364743,
+      "name": "Vitamine E"
     }
   ],
   "description": "60 stuks",

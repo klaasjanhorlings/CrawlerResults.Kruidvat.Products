@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1059412",
-  "mmkId": "1059412",
-  "productGroupId": "516042",
+  "onPromo": "1059187",
+  "mmkId": "1059187",
+  "productGroupId": "510664",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-multi-a-z-framboos-tabletten-voor-kinderen/p/2927310",
@@ -33,10 +33,9 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267462,
-      "name": "Kindervitamines"
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h2e/hbd/44438726180894/prd-front-2927310-1_600x600/prd-front-2927310-1-600x600.jpg"
+  "description": "60 stuks"
 }

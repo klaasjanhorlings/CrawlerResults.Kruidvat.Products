@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Cetaphil 6 Hours Fast Clear Pimple Patch",
   "code": "6310232",
-  "price": "12.95",
-  "priceOriginal": "",
+  "price": "6.47",
+  "priceOriginal": "12.95",
   "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1059405",
-  "mmkId": "1059405",
-  "productGroupId": "514934",
+  "onPromo": "1059160",
+  "mmkId": "1059160",
+  "productGroupId": "508203",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,48",
   "url": "/cetaphil-6-hours-fast-clear-pimple-patch/p/6310232",
   "listName": "Lister",
   "brand": "Cetaphil",
@@ -25,8 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 81073358,
+      "name": "Pimple patches"
     }
   ],
   "description": "24 stuks",

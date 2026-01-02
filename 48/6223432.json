@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 3437 > 6674",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1059409",
-  "mmkId": "1059409",
-  "productGroupId": "515430",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/invisibobble-heatless-curling-set/p/6223432",
@@ -25,12 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30265993,
-      "name": "Haaraccessoires"
+      "id": 30265989,
+      "name": "Geschenksets"
     },
     {
-      "id": 30266627,
-      "name": "Haarbanden"
+      "id": 72656138,
+      "name": "Geschenkset voor haar"
+    },
+    {
+      "id": 90370403,
+      "name": "Haaraccessoires geschenksets"
     }
   ],
   "description": "",

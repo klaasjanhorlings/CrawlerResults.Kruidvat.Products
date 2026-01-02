@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Age Perfect Reinigingsmelk",
   "code": "6290548",
-  "price": "5.2",
-  "priceOriginal": "12.99",
+  "price": "12.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3889 > 6702",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1059402",
-  "mmkId": "1059402",
-  "productGroupId": "513768",
+  "onPromo": "1059287",
+  "mmkId": "1059287",
+  "productGroupId": "514159",
   "brandType": "A of B merk",
-  "discount": "€ 7,79",
+  "discount": "",
   "url": "/loreal-paris-age-perfect-reinigingsmelk/p/6290548",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
@@ -37,5 +37,6 @@
       "name": "Reinigingsmelk"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hac/he5/33931064246302/prd-front-6290548-1_600x600/prd-front-6290548-1-600x600.jpg"
 }

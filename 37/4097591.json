@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Skin Active Botanische Dagcrème met Rozenwater",
   "code": "4097591",
-  "price": "3.4",
+  "price": "4.24",
   "priceOriginal": "8.49",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1059402",
-  "mmkId": "1059402",
-  "productGroupId": "513768",
+  "onPromo": "1059288",
+  "mmkId": "1059288",
+  "productGroupId": "514164",
   "brandType": "A of B merk",
-  "discount": "€ 5,09",
+  "discount": "€ 4,25",
   "url": "/garnier-skin-active-botanische-dagcreme-met-rozenwater/p/4097591",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Droge en gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h3b/h4f/35156214513694/prd-front-4097591-1_600x600/prd-front-4097591-1-600x600.jpg"
+  "description": "50ml - Droge en gevoelige huid"
 }

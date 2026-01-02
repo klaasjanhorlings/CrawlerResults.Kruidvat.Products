@@ -25,22 +25,17 @@
       "name": "Beauty"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
     },
     {
-      "id": 90761979,
-      "name": "Korean gezichtsreiniging"
-    },
-    {
-      "id": 90766276,
-      "name": "Korean toner"
+      "id": 73443559,
+      "name": "Toner"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/ha5/hcf/34533919555614/prd-front-6295042-1_600x600/prd-front-6295042-1-600x600.jpg"
+  "description": "300ml"
 }

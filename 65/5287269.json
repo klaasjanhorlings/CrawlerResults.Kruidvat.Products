@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 6397 > 2261 > 2607 > 6383 > 6384",
   "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059295",
   "mmkId": "1059295",
   "productGroupId": "514622",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "670g"
+  "description": "670g",
+  "image": "/medias/sys_master/prd-images/h57/h34/44701066657822/prd-front-5287269-1_600x600/prd-front-5287269-1-600x600.jpg"
 }

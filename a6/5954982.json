@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Air Wick Active Fresh Kersenbloesem & Framboos Starterkit",
   "code": "5954982",
   "price": "14.99",
@@ -29,6 +29,5 @@
       "name": "Luchtverfrissers"
     }
   ],
-  "description": "228ml",
-  "image": "/medias/sys_master/prd-images/h93/ha3/44564290568222/prd-front-5954982-1_600x600/prd-front-5954982-1-600x600.jpg"
+  "description": "228ml"
 }
