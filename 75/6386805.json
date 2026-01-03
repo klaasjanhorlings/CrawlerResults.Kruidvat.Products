@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Philips Avent Soother 0-6M SCF099/27 Soothie Fopspeen",
   "code": "6386805",
   "price": "9.99",
@@ -33,5 +33,6 @@
       "name": "Fopspenen"
     }
   ],
-  "description": "roze, 2 stuks"
+  "description": "roze, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hb5/h4f/44264366768158/prd-front-6386805-1_600x600/prd-front-6386805-1-600x600.jpg"
 }

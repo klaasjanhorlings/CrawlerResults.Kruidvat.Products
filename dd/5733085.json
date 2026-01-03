@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Swiffer Duster StarterKit",
   "code": "5733085",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakartikelen"
     }
   ],
-  "description": "1 handvat + 3 navullingen"
+  "description": "1 handvat + 3 navullingen",
+  "image": "/medias/sys_master/prd-images/h83/hf1/34124984647710/prd-front-5733085-1_600x600/prd-front-5733085-1-600x600.jpg"
 }

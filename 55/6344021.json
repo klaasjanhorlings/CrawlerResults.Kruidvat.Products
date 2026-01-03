@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Robijn Klein & Krachtig Classics Black Velvet Vloeibaar Wasmiddel",
   "code": "6344021",
   "price": "5.99",
@@ -29,5 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "665ml, 22 wasbeurten"
+  "description": "665ml, 22 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h51/hf8/44690946129950/prd-front-6344021-1_600x600/prd-front-6344021-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 6602 > 6603",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059333",
   "mmkId": "1059333",
   "productGroupId": "518473",
@@ -33,6 +33,5 @@
       "name": "Scrub"
     }
   ],
-  "description": "225ml - Droge huid, exfoliërend",
-  "image": "/medias/prd-front-4404268-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjQ5NTN8aW1hZ2UvanBlZ3xhRGhqTDJoa05pOHhOalUxTkRBME5ETTVNVFExTkM5d2NtUXRabkp2Ym5RdE5EUXdOREkyT0MweFh6WXdNSGcyTURBfDFhNmE4YjgzMDU0NzFiMmQ0OGVhYTgwMWI1YjhhODRhZTU2M2JkOGI1MjZlYWVjOGI1OWVmYWJiYjE3ZWY0MTA"
+  "description": "225ml - Droge huid, exfoliërend"
 }

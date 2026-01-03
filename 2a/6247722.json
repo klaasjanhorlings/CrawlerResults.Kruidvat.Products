@@ -7,7 +7,7 @@
   "priceOriginal": "83.95",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059420",
   "mmkId": "1059420",
   "productGroupId": "522310",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/h77/h8d/33469070540830/prd-front-6247722-1_600x600/prd-front-6247722-1-600x600.jpg"
+  "description": "20 stuks"
 }

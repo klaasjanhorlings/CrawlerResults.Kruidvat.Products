@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Vanish Oxi Action Gold Powergel Vlekverwijderaar Voorbehandeling",
   "code": "3076438",
   "price": "5.99",
@@ -29,6 +29,5 @@
       "name": "Vlekverwijderaars"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h6c/h37/34100087521310/prd-front-3076438-1_600x600/prd-front-3076438-1-600x600.jpg"
+  "description": "200ml"
 }

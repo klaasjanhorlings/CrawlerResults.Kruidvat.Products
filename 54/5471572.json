@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 6+M Bio Aardbei met Appel Knijpzakje",
   "code": "5471572",
   "price": "0.99",
@@ -37,5 +37,6 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "90g"
+  "description": "90g",
+  "image": "/medias/sys_master/prd-images/h57/h6e/27495356596254/prd-front-5471572-1_600x600/prd-front-5471572-1-600x600.jpg"
 }

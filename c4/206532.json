@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dr. Beckmann Ossengalzeep Pre-Wash Vlekkenspray",
   "code": "206532",
   "price": "3.79",
@@ -29,6 +29,5 @@
       "name": "Vlekverwijderaars"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/hdf/h7d/34352658710558/prd-front-206532-1_600x600/prd-front-206532-1-600x600.jpg"
+  "description": "500ml"
 }

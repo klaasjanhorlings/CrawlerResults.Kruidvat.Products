@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Babysokjes",
   "code": "5614393",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Babysokken"
     }
   ],
-  "description": "zwart, 18-24m, 3 paar"
+  "description": "zwart, 18-24m, 3 paar",
+  "image": "/medias/prd-front-5614393-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzIwMTB8aW1hZ2UvanBlZ3xhRFpqTDJneVpDOHlOekV6TVRnME1EZzRPRGcyTWk5d2NtUXRabkp2Ym5RdE5UWXhORE01TXkweFh6WXdNSGcyTURBfDE1NTAwOTMyMDZiODc3OGViYWUwNTE3MTliZDc5N2Y0MTE5NWFmMTgxZDFhNjdhMDE1NzA3OGFmMWRlYzgyNTM"
 }

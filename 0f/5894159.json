@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Drs Leenarts Baby Wascrème",
   "code": "5894159",
   "price": "10.99",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h7f/h72/45055786876958/prd-front-5894159-1_600x600/prd-front-5894159-1-600x600.jpg"
+  "description": "150ml"
 }

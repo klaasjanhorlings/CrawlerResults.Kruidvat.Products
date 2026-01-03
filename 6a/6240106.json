@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Rascals Maat 5 Cocomelon Luierbroekjes",
   "code": "6240106",
   "price": "11.99",
@@ -33,6 +33,5 @@
       "name": "Luierbroekjes maat 5"
     }
   ],
-  "description": "Maat 5 (13-18 kg), 26 stuks",
-  "image": "/medias/sys_master/prd-images/h02/hc2/33984251658270/prd-front-6240106-1_600x600/prd-front-6240106-1-600x600.jpg"
+  "description": "Maat 5 (13-18 kg), 26 stuks"
 }

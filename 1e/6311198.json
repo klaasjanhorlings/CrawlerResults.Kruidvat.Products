@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Zwitsal Shampoo",
   "code": "6311198",
   "price": "7.49",
@@ -12,7 +12,7 @@
   "mmkId": "1059205",
   "productGroupId": "511884",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "$ 5,00",
   "url": "/zwitsal-shampoo/p/6311198",
   "listName": "Lister",
   "brand": "Zwitsal",

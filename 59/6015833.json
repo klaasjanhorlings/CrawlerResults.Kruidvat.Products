@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Extra Concentrated Vloeibaar Wasmiddel",
   "code": "6015833",
   "price": "1.99",
@@ -29,5 +29,6 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h98/hf6/29631396970526/prd-front-6015833-1_600x600/prd-front-6015833-1-600x600.jpg"
 }

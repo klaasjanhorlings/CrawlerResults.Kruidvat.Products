@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 7+M Bio Appel en Wortel Maïspuffs",
   "code": "5918995",
   "price": "1.99",
@@ -33,5 +33,6 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "4 x 15g"
+  "description": "4 x 15g",
+  "image": "/medias/sys_master/prd-images/hed/h09/45327412068382/prd-front-5918995-1_600x600/prd-front-5918995-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pampers Baby-Dry Maat 8 Luiers",
   "code": "6240904",
   "price": "28.99",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 8"
     }
   ],
-  "description": "mt 8 (17+kg), 38 stuks"
+  "description": "mt 8 (17+kg), 38 stuks",
+  "image": "/medias/sys_master/prd-images/h26/h1c/34793639903262/prd-front-6240904-1_600x600/prd-front-6240904-1-600x600.jpg"
 }

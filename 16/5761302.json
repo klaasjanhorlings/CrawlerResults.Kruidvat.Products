@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nijntje Shampoo",
   "code": "5761302",
   "price": "3.49",
@@ -37,5 +37,6 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/prd-front-5761302-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzQzMDN8aW1hZ2UvanBlZ3xhRFE0TDJneU55OHhOalEwTkRNM05ETTFNVGt3TWk5d2NtUXRabkp2Ym5RdE5UYzJNVE13TWkweFh6WXdNSGcyTURBfGI1OWI0OGVlOWY3ZDgzMmRlYWFlMzFiZGExYzNiZDBhZWU4Njc0MjIzMGNmMWE3MDg1ZDJmMzI3ZGQ4YWJhNjQ"
 }

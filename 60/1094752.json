@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Insectenspray tegen Kruipende Insecten en Wespen",
   "code": "1094752",
   "price": "7.39",
@@ -29,5 +29,6 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h8d/h96/27777957199902/prd-front-1094752-1_600x600/prd-front-1094752-1-600x600.jpg"
 }

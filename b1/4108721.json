@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Anti-Mug Stekker",
   "code": "4108721",
   "price": "5.99",
@@ -29,6 +29,5 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hef/h3c/30752147570718/prd-front-4108721-1_600x600/prd-front-4108721-1-600x600.jpg"
+  "description": ""
 }

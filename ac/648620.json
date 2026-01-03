@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "HG Citroenzuur Koffiemachine-Ontkalker",
   "code": "648620",
   "price": "5.79",
@@ -33,6 +33,5 @@
       "name": "Ontkalkmiddel"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/prd-front-648620-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDQ1OTB8aW1hZ2UvanBlZ3xhRFJpTDJnNFppOHhOak16T0RVd016azFPRFUxT0M5d2NtUXRabkp2Ym5RdE5qUTROakl3TFRGZk5qQXdlRFl3TUF8NmM2OTk4ZTg1ZjZkMmM2N2EyNDY1M2QzNzVkYTYwYjE2M2VmYzBmZGJkZGRkNTFjMzQ0MzVkMmIyZTYwNTViOA"
+  "description": "500ml"
 }

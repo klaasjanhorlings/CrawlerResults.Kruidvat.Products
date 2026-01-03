@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ecostyle Cat & Dog Free",
   "code": "5969955",
   "price": "65.99",
@@ -29,6 +29,5 @@
       "name": "Insectenbestrijding"
     }
   ],
-  "description": "200m2",
-  "image": "/medias/sys_master/prd-images/h93/h94/30356564049950/prd-front-5969955-1_600x600/prd-front-5969955-1-600x600.jpg"
+  "description": "200m2"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "14.49",
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "REMARK GROEP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059335",
   "mmkId": "1059335",
   "productGroupId": "518724",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 150ml",
-  "image": "/medias/sys_master/prd-images/h59/h7d/45317835915294/prd-front-4942897-1_600x600/prd-front-4942897-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha5/h20/45327792996382/prd-front-4942897-1_600x600/prd-front-4942897-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "26.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3395",
   "supplier": "LABORI INTERNATIONAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Aftershave"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-17789-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTk5MzV8aW1hZ2UvanBlZ3xhRE5rTDJobE5DOHhOalUzT0RVd01qY3lNVFUyTmk5d2NtUXRabkp2Ym5RdE1UYzNPRGt0TVY4Mk1EQjROakF3fDI3YjRlYTdiMTZjNTczMmVlN2U4ZTJiYzBkNzQ0NWIwZWZhNWUxMTYwYjU3MzEyMzcwNWJhOTkxZWZmYjc1Njg"
+  "description": "100ml"
 }
