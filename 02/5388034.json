@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Extra Large Maat 6 Luiers Volumedoos",
   "code": "5388034",
   "price": "63.96",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 6"
     }
   ],
-  "description": "mt 6 (16-21 kg), 216 stuks"
+  "description": "mt 6 (16-21 kg), 216 stuks",
+  "image": "/medias/sys_master/prd-images/h45/h61/44859160690718/prd-front-5388034-1_600x600/prd-front-5388034-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ella's Kitchen 4+M Bananen En Appels Pureehapje",
   "code": "5962857",
   "price": "1.95",
@@ -37,6 +37,5 @@
       "name": "4 maanden +"
     }
   ],
-  "description": "120g",
-  "image": "/medias/sys_master/prd-images/h85/ha2/28825715572766/prd-front-5962857-1_600x600/prd-front-5962857-1-600x600.jpg"
+  "description": "120g"
 }

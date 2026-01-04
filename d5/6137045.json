@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Rascal + Friends Maat 5 Premium Luiers",
   "code": "6137045",
   "price": "11.99",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 5"
     }
   ],
-  "description": "mt 5 (13-18kg), 26 stuks",
-  "image": "/medias/sys_master/prd-images/hee/h29/33992023506974/prd-front-6137045-1_600x600/prd-front-6137045-1-600x600.jpg"
+  "description": "mt 5 (13-18kg), 26 stuks"
 }

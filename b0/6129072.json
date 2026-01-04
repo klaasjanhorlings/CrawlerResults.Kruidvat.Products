@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Neutral 0% Baby Bath, Wash & Shampoo ",
   "code": "6129072",
   "price": "5.59",
@@ -37,5 +37,6 @@
       "name": "Babyshampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/ha4/h41/31738454409246/prd-front-6129072-1_600x600/prd-front-6129072-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Wasbare Babydoekjes",
   "code": "5897806",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Wasbare luiers"
     }
   ],
-  "description": "6 stuks"
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/hb8/h40/28186570096670/prd-front-5897806-1_600x600/prd-front-5897806-1-600x600.jpg"
 }

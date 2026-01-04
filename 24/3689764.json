@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hero Nutrasense Comfort+ AR 1 (0-6m) Zuigelingenvoeding",
   "code": "3689764",
   "price": "21.99",
@@ -33,6 +33,5 @@
       "name": "Zuigelingenmelk"
     }
   ],
-  "description": "700g",
-  "image": "/medias/sys_master/prd-images/h05/h93/32818647269406/prd-front-3689764-1_600x600/prd-front-3689764-1-600x600.jpg"
+  "description": "700g"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 3-4 Midi-Maxi Zwemluiers",
   "code": "4400306",
   "price": "6.99",
@@ -33,6 +33,5 @@
       "name": "Zwemluiers"
     }
   ],
-  "description": "14 stuks",
-  "image": "/medias/sys_master/prd-images/h0d/h28/27986531975198/prd-front-4400306-1_600x600/prd-front-4400306-1-600x600.jpg"
+  "description": "14 stuks"
 }

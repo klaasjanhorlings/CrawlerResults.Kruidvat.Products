@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Pampers Baby-Dry Paw Patrol Pants Maat 6 Luierbroekjes",
   "code": "6240330",
   "price": "16.49",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 6"
     }
   ],
-  "description": "mt 6 (13-19kg), 19 stuks"
+  "description": "mt 6 (13-19kg), 19 stuks",
+  "image": "/medias/sys_master/prd-images/hd5/h1e/33550134870046/prd-front-6240330-1_600x600/prd-front-6240330-1-600x600.jpg"
 }

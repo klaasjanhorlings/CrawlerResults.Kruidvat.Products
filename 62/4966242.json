@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 6521 > 6522",
   "supplier": "MATTISSON HEALTCARE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059293",
   "mmkId": "1059293",
   "productGroupId": "514560",
@@ -33,5 +33,6 @@
       "name": "Maaltijdverrijkers"
     }
   ],
-  "description": "250g"
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/hdb/hd4/29175113416734/prd-front-4966242-1_600x600/prd-front-4966242-1-600x600.jpg"
 }

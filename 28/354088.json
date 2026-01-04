@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5926 > 6679 > 2146 > 2631 > 2889 > 3664",
   "supplier": "BOLSIUS NEDERLAND BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059314",
   "mmkId": "1059314",
   "productGroupId": "515910",
@@ -37,5 +37,6 @@
       "name": "Theelichten"
     }
   ],
-  "description": "50 stuks"
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/h58/hc8/44377766363166/prd-front-354088-1_600x600/prd-front-354088-1-600x600.jpg"
 }

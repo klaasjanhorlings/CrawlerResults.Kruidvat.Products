@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Pampers Harmonie Maat 2 Luiers",
   "code": "6262149",
   "price": "50.99",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 2"
     }
   ],
-  "description": "Maat 2 (4-8kg), 104 stuks"
+  "description": "Maat 2 (4-8kg), 104 stuks",
+  "image": "/medias/sys_master/prd-images/h14/h5a/34795465605150/prd-front-6262149-1_600x600/prd-front-6262149-1-600x600.jpg"
 }

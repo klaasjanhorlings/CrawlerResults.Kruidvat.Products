@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Corine de Farme Liniment Calcium Balsem",
   "code": "4486350",
   "price": "7.5",
@@ -37,6 +37,5 @@
       "name": "Babycreme"
     }
   ],
-  "description": "500ml",
-  "image": "/medias/sys_master/prd-images/h57/h38/28044542869534/prd-front-4486350-1_600x600/prd-front-4486350-1-600x600.jpg"
+  "description": "500ml"
 }

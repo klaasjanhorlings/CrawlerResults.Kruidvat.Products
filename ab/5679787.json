@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Difrax 9+M 360° Beker",
   "code": "5679787",
   "price": "10.99",
@@ -33,6 +33,5 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "bruin, 250ml",
-  "image": "/medias/prd-front-5679787-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDAyODR8aW1hZ2UvanBlZ3xhR1F3TDJneE55OHhOalkzTlRnMk16RTVPVGMzTkM5d2NtUXRabkp2Ym5RdE5UWTNPVGM0TnkweFh6WXdNSGcyTURBfDRiZDJkMDFjM2JmNTg3MzE4NjBmNDhlZjkyNjBiMzM3NzhhNzMyYzEwOWRiMGE4MGQyZjRkZTg4ZGUyOWI5YTM"
+  "description": "bruin, 250ml"
 }

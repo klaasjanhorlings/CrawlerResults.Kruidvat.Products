@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Pants Maxi Maat 4 Luierbroekjes Minipack",
   "code": "5052573",
   "price": "2.99",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 3019 > 3844",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1010662",
   "mmkId": "1010662",
   "productGroupId": "242521",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 4"
     }
   ],
-  "description": "mt 4 (9-14 kg), 6 stuks"
+  "description": "mt 4 (9-14 kg), 6 stuks",
+  "image": "/medias/sys_master/prd-images/hb6/h7e/44918761783326/prd-front-5052573-1_600x600/prd-front-5052573-1-600x600.jpg"
 }
