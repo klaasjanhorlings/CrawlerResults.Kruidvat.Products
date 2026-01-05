@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "GoVolta Treinticket naar Berlijn, Hamburg of Bremen",
+  "code": "6460949",
+  "price": "24.0",
+  "priceOriginal": "",
+  "itemBgbcat": "4870 > 4893 > 4891 > 4892 > 4894 > 6447",
+  "supplier": "FLYWISE SERVICES BV",
+  "inStock": "inStock",
+  "onPromo": "1059502",
+  "mmkId": "1059502",
+  "productGroupId": "519900",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/govolta-treinticket-naar-berlijn-hamburg-of-bremen/p/6460949",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536083,
+      "name": "Tickets"
+    },
+    {
+      "id": 30266048,
+      "name": "Vakantie"
+    },
+    {
+      "id": 30266872,
+      "name": "Weekendje weg"
+    }
+  ],
+  "description": "Boek je reis via www.govolta.com/kruidvat"
+}

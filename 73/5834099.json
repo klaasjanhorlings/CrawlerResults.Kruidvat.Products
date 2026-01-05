@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
   "supplier": "RECKITT BENCKISER B.V",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059289",
   "mmkId": "1059289",
   "productGroupId": "514249",
@@ -33,6 +33,5 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks",
-  "image": "/medias/prd-front-5834099-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODQxMTJ8aW1hZ2UvanBlZ3xhR05tTDJnell5OHlOekV4T0RFek1EUTVOVFV4T0M5d2NtUXRabkp2Ym5RdE5UZ3pOREE1T1MweFh6WXdNSGcyTURBfGJmYTYyNzg2NmMyNGM1MDZkMjg3YWZjNTUzZTZlNjdlNTMwZDFjODg5ZjA4ZTg1NjMzNTE0OTA3ZTc0NDQzMWU"
+  "description": "Medisch hulpmiddel - 10 stuks"
 }

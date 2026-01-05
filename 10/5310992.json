@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat USB C Kabel",
   "code": "5310992",
-  "price": "2.99",
-  "priceOriginal": "",
+  "price": "2.54",
+  "priceOriginal": "2.99",
   "itemBgbcat": "5929 > 6014 > 2153 > 2632 > 6423 > 6446",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059476",
+  "mmkId": "1059476",
+  "productGroupId": "517489",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 0,45",
   "url": "/kruidvat-usb-c-kabel/p/5310992",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Telefoonkabeltjes"
     }
   ],
-  "description": "wit, 1m"
+  "description": "wit, 1m",
+  "image": "/medias/sys_master/prd-images/h22/h82/44579366273054/prd-front-5310992-1_600x600/prd-front-5310992-1-600x600.jpg"
 }

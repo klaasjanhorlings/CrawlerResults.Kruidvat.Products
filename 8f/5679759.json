@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Difrax Natural 0+M S-Fles",
   "code": "5679759",
-  "price": "12.49",
-  "priceOriginal": "",
+  "price": "9.37",
+  "priceOriginal": "12.49",
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "DIFRAX BV",
   "inStock": "outOfStock",
-  "onPromo": "1059413",
-  "mmkId": "1059413",
-  "productGroupId": "516207",
+  "onPromo": "1059283",
+  "mmkId": "1059283",
+  "productGroupId": "513896",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,12",
   "url": "/difrax-natural-0m-s-fles/p/5679759",
   "listName": "Lister",
   "brand": "Difrax",
@@ -33,6 +33,5 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "groen, 250ml",
-  "image": "/medias/sys_master/prd-images/h06/h5f/28126816174110/prd-front-5679759-1_600x600/prd-front-5679759-1-600x600.jpg"
+  "description": "groen, 250ml"
 }

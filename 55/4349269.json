@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "outOfStock",
-  "onPromo": "1059413",
-  "mmkId": "1059413",
-  "productGroupId": "516207",
+  "onPromo": "1059324",
+  "mmkId": "1059324",
+  "productGroupId": "517044",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-moedermelkbewaarzakjes-met-schenktuit/p/4349269",
@@ -37,6 +37,5 @@
       "name": "Moedermelkbewaarzakjes"
     }
   ],
-  "description": "50 stuks",
-  "image": "/medias/sys_master/prd-images/h51/h4e/32146015846430/prd-front-4349269-1_600x600/prd-front-4349269-1-600x600.jpg"
+  "description": "50 stuks"
 }

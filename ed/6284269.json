@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Konijn Knisperknuffel",
   "code": "6284269",
-  "price": "3.99",
-  "priceOriginal": "5.99",
+  "price": "5.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2314 > 2710 > 3413 > 4362",
   "supplier": "MUNDIA BV",
   "inStock": "inStock",
-  "onPromo": "1057688",
-  "mmkId": "1057688",
-  "productGroupId": "509883",
+  "onPromo": "1059316",
+  "mmkId": "1059316",
+  "productGroupId": "516155",
   "brandType": "Eigen merk",
-  "discount": "€ 2,00",
+  "discount": "",
   "url": "/kruidvat-konijn-knisperknuffel/p/6284269",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Grijp- en bijtspeelgoed"
     }
   ],
-  "description": "wit"
+  "description": "wit",
+  "image": "/medias/sys_master/prd-images/hae/h98/33642047209502/prd-front-6284269-1_600x600/prd-front-6284269-1-600x600.jpg"
 }

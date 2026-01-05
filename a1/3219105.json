@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059479",
+  "mmkId": "1059479",
+  "productGroupId": "518714",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-nutrisse-ultra-creme-7-natuurlijk-blond-intens-voedende-permanente-haarkleuring/p/3219105",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h2b/ha5/31762868142110/prd-front-3219105-1_600x600/prd-front-3219105-1-600x600.jpg"
+  "description": ""
 }

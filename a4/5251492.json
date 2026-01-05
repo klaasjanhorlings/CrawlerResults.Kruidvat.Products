@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Cellular Luminous630 Anti-Spot Corrigerend Serum",
   "code": "5251492",
-  "price": "43.49",
-  "priceOriginal": "",
+  "price": "21.74",
+  "priceOriginal": "43.49",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1059240",
-  "mmkId": "1059240",
-  "productGroupId": "513111",
+  "onPromo": "1059448",
+  "mmkId": "1059448",
+  "productGroupId": "508208",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 21,75",
   "url": "/nivea-cellular-luminous630-anti-spot-corrigerend-serum/p/5251492",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml - Alle huidtypen"
+  "description": "30ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hca/hf5/34525803708446/prd-front-5251492-1_600x600/prd-front-5251492-1-600x600.jpg"
 }

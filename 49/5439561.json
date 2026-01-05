@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Difrax Natural 18+M Fopspeen",
   "code": "5439561",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "4.49",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2001 > 2033 > 2128 > 2417 > 2871 > 6356",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "1059413",
-  "mmkId": "1059413",
-  "productGroupId": "516207",
+  "onPromo": "1059283",
+  "mmkId": "1059283",
+  "productGroupId": "513896",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,50",
   "url": "/difrax-natural-18m-fopspeen/p/5439561",
   "listName": "Lister",
   "brand": "Difrax",
@@ -33,6 +33,5 @@
       "name": "Fopspenen"
     }
   ],
-  "description": "grijs",
-  "image": "/medias/sys_master/prd-images/h4b/h41/34891706236958/prd-front-5439561-1_600x600/prd-front-5439561-1-600x600.jpg"
+  "description": "grijs"
 }
