@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO 40499 Arrenslee",
+  "code": "6183826",
+  "price": "28.49",
+  "priceOriginal": "37.99",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1059487",
+  "mmkId": "1059487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 9,50",
+  "url": "/lego-40499-arrenslee/p/6183826",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69044935,
+      "name": "LEGO Verjaardagscadeaus"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb4/h85/45077123465246/prd-front-6183826-1_600x600/prd-front-6183826-1-600x600.jpg"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Gel Nail Colour 83 Mocha My Day Nagellak",
   "code": "6349047",
   "price": "1.99",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb0/h85/44119773118494/prd-front-6349047-1_600x600/prd-front-6349047-1-600x600.jpg"
 }

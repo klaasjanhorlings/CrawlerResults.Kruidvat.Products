@@ -25,13 +25,10 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266008,
-      "name": "Wondverzorging"
-    },
-    {
-      "id": 30266740,
-      "name": "Wondreiniging en/of -ontsmetting"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
-  "description": "Geneesmiddel - 120ml"
+  "description": "Geneesmiddel - 120ml",
+  "image": "/medias/sys_master/prd-images/hed/h84/44275646070814/prd-front-6393315-1_600x600/prd-front-6393315-1-600x600.jpg"
 }

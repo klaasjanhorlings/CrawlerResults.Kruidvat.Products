@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Body & Fit Clear Whey Isolate Cherry Poeder",
+  "code": "6125313",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
+  "supplier": "BODY & FIT SPORTSNUTRIT",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/body-fit-clear-whey-isolate-cherry-poeder/p/6125313",
+  "listName": "Lister",
+  "brand": "Body & Fit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266750,
+      "name": "Proteine eiwit poeders"
+    }
+  ],
+  "description": "270g"
+}

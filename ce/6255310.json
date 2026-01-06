@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059262",
   "mmkId": "1059262",
   "productGroupId": "513327",
@@ -33,6 +33,5 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "wit",
-  "image": "/medias/sys_master/prd-images/he5/h5b/44985007341598/prd-front-6255310-1_600x600/prd-front-6255310-1-600x600.jpg"
+  "description": "wit"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Laura's Bakery Luxe Tulband Bakvorm",
+  "code": "6366246",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2195 > 4908 > 4954 > 5000 > 5860 > 5926",
+  "supplier": "AVEC STUDIO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/lauras-bakery-luxe-tulband-bakvorm/p/6366246",
+  "listName": "Lister",
+  "brand": "Laura's Bakery",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266897,
+      "name": "Keuken"
+    },
+    {
+      "id": 80863211,
+      "name": "Bakspullen"
+    }
+  ],
+  "description": "1L",
+  "image": "/medias/sys_master/prd-images/h70/h9f/44210032377886/prd-front-6366246-1_600x600/prd-front-6366246-1-600x600.jpg"
+}

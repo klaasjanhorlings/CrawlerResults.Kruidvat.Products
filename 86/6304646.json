@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2495 > 3061 > 3791 > 5795 > 5928 > 6716",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Damespyjama's"
     }
   ],
-  "description": "roze, mt L-XL",
-  "image": "/medias/sys_master/prd-images/ha4/hc4/45273447858206/prd-front-6304646-1_600x600/prd-front-6304646-1-600x600.jpg"
+  "description": "roze, mt L-XL"
 }

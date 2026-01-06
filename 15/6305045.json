@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Schoudertasje",
+  "code": "6305045",
+  "price": "4.99",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "€ 5,00",
+  "url": "/true-spirit-schoudertasje/p/6305045",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    },
+    {
+      "id": 101713049,
+      "name": "Crossbody tas"
+    }
+  ],
+  "description": "zwart, 23cm x 13cm x 8cm",
+  "image": "/medias/sys_master/prd-images/ha6/hff/44067874209822/prd-front-6305045-1_600x600/prd-front-6305045-1-600x600.jpg"
+}

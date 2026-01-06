@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lambertz Florentines Mix",
+  "code": "5949095",
+  "price": "2.49",
+  "priceOriginal": "2.99",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "HENRY LAMBERTZ GMBH & C",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 0,50",
+  "url": "/lambertz-florentines-mix/p/5949095",
+  "listName": "Lister",
+  "brand": "Lambertz",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267023,
+      "name": "Koek"
+    }
+  ],
+  "description": "150g",
+  "image": "/medias/sys_master/prd-images/h58/he5/28505040453662/prd-front-5949095-1_600x600/prd-front-5949095-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "SUNVAL BABY FOOD GMBH",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1057902",
   "mmkId": "1057902",
   "productGroupId": "522403",
@@ -37,6 +37,5 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "190g",
-  "image": "/medias/sys_master/prd-images/hba/h90/35026525356062/prd-front-6362858-1_600x600/prd-front-6362858-1-600x600.jpg"
+  "description": "190g"
 }

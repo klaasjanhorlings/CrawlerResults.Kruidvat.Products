@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Celenes By Sweden Reinigende Foaming Gel",
+  "code": "6060024",
+  "price": "4.49",
+  "priceOriginal": "17.95",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
+  "supplier": "CRX NORDIC AG",
+  "inStock": "inStock",
+  "onPromo": "1025310",
+  "mmkId": "1025310",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 13,46",
+  "url": "/celenes-by-sweden-reinigende-foaming-gel/p/6060024",
+  "listName": "Lister",
+  "brand": "CELENES BY SWEDEN",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50676912,
+      "name": "Reinigingsmousse"
+    }
+  ],
+  "description": "250ml - Droge en gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hf9/h8d/31004975530014/prd-front-6060024-1_600x600/prd-front-6060024-1-600x600.jpg"
+}

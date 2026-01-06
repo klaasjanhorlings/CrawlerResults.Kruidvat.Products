@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2998 > 4100",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059198",
   "mmkId": "1059198",
   "productGroupId": "511214",
@@ -33,8 +33,8 @@
       "name": "Luchtwegen"
     },
     {
-      "id": 30266965,
-      "name": "Neusinhaler"
+      "id": 30266960,
+      "name": "Neusdruppels"
     }
   ],
   "description": "2ml",

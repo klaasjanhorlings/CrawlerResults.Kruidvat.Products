@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Narciso Rodriguez For Her Eau de Parfum",
   "code": "4338881",
   "price": "66.83",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/ha3/had/28324210704414/prd-front-4338881-1_600x600/prd-front-4338881-1-600x600.jpg"
+  "description": "50ml"
 }
