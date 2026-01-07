@@ -25,9 +25,14 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266031,
-      "name": "Voertuigen"
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69031070,
+      "name": "LEGO Voertuigen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h45/h41/35037688102942/prd-front-6346037-1_600x600/prd-front-6346037-1-600x600.jpg"
 }

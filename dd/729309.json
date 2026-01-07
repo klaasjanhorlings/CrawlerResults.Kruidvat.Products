@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Hydra Soft Lippenbalsem",
+  "code": "729309",
+  "price": "1.25",
+  "priceOriginal": "1.89",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
+  "supplier": "DELARANGE COSMETICS",
+  "inStock": "inStock",
+  "onPromo": "1059341",
+  "mmkId": "1059341",
+  "productGroupId": "522229",
+  "brandType": "Eigen merk",
+  "discount": "€ 0,64",
+  "url": "/kruidvat-hydra-soft-lippenbalsem/p/729309",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266609,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "4,8g",
+  "image": "/medias/sys_master/prd-images/ha0/hab/30493270605854/prd-front-729309-1_600x600/prd-front-729309-1-600x600.jpg"
+}

@@ -21,21 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265999,
+      "name": "Zonbescherming"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
-    },
-    {
-      "id": 90760987,
-      "name": "Korean zonbescherming"
+      "id": 30266657,
+      "name": "Zonnebrand"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hf0/h0e/34112874283038/prd-front-6295084-1_600x600/prd-front-6295084-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "6.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "MARION PRIVATE LABEL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059161",
   "mmkId": "1059161",
   "productGroupId": "508256",
@@ -37,6 +37,5 @@
       "name": "Verzorging probleemhuid"
     }
   ],
-  "description": "30ml, onzuivere huid",
-  "image": "/medias/sys_master/prd-images/hee/h51/33347896279070/prd-front-6031457-1_600x600/prd-front-6031457-1-600x600.jpg"
+  "description": "30ml, onzuivere huid"
 }

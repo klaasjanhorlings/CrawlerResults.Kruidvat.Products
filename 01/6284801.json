@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Honeybalm SPF25 Original Cherry Infused Lip Balm",
+  "code": "6284801",
+  "price": "5.49",
+  "priceOriginal": "10.99",
+  "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,50",
+  "url": "/honeybalm-spf25-original-cherry-infused-lip-balm/p/6284801",
+  "listName": "Lister",
+  "brand": "HONEYBALM",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266609,
+      "name": "Lippenbalsem"
+    }
+  ],
+  "description": "5,5g",
+  "image": "/medias/sys_master/prd-images/h24/hcd/34215119159326/prd-front-6284801-1_600x600/prd-front-6284801-1-600x600.jpg"
+}

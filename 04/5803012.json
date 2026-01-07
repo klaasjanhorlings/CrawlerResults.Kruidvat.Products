@@ -25,10 +25,13 @@
       "name": "Verzorging"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30265995,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30266638,
+      "name": "Bodybutter"
     }
   ],
-  "description": "75g",
-  "image": "/medias/sys_master/prd-images/ha8/h81/34881677099038/prd-front-5803012-1_600x600/prd-front-5803012-1-600x600.jpg"
+  "description": "75g"
 }

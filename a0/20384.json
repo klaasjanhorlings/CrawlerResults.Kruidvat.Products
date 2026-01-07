@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Total Care 2-In-1 Shampoo & Conditioner",
+  "code": "20384",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3913",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-total-care-2-in-1-shampoo-conditioner/p/20384",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/prd-front-20384-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjEzNDZ8aW1hZ2UvanBlZ3xhREZpTDJneU5pOHhOelF3T0RZeU9URTNPRE01T0M5d2NtUXRabkp2Ym5RdE1qQXpPRFF0TVY4Mk1EQjROakF3fDU2MGU1OGRmM2I4ZTFiNjhkZmUwMjNmNzQ1ZTMwNTY2MDhhZDY5ODYxMDY4OTBlMzhkZWQxYWNkYjM4ZjkwYzc"
+}

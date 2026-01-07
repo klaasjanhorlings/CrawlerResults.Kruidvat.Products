@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059448",
   "mmkId": "1059448",
   "productGroupId": "508208",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "40ml - Rijpe huid",
-  "image": "/medias/sys_master/prd-images/h94/h2c/44845999128606/prd-front-5589858-1_600x600/prd-front-5589858-1-600x600.jpg"
+  "description": "40ml - Rijpe huid"
 }

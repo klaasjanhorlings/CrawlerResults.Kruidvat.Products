@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Instant Volume Droogshampoo",
+  "code": "3279088",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-instant-volume-droogshampoo/p/3279088",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266693,
+      "name": "Droogshampoo"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h26/h72/28620193792030/prd-front-3279088-1_600x600/prd-front-3279088-1-600x600.jpg"
+}

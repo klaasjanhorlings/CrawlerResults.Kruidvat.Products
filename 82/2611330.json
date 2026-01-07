@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5926 > 6679 > 2146 > 2631 > 2889 > 3664",
   "supplier": "SPAAS KAARSEN NV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059314",
   "mmkId": "1059314",
   "productGroupId": "515910",
@@ -37,6 +37,5 @@
       "name": "Theelichten"
     }
   ],
-  "description": "35 stuks",
-  "image": "/medias/sys_master/prd-images/ha1/hc3/44376922619934/prd-front-2611330-1_600x600/prd-front-2611330-1-600x600.jpg"
+  "description": "35 stuks"
 }

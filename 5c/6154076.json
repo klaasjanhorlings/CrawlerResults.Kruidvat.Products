@@ -21,12 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536085,
-      "name": "Elektronica"
+      "id": 30266078,
+      "name": "Wonen"
     },
     {
-      "id": 51235484,
-      "name": "Kachels"
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 57225738,
+      "name": "Dekens"
+    },
+    {
+      "id": 57225822,
+      "name": "Elektrische dekens"
     }
   ],
   "description": "160cm x 140cm"

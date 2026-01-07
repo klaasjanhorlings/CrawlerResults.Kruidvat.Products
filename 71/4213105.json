@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Kiss Acryl Nagelvijl",
   "code": "4213105",
-  "price": "3.74",
-  "priceOriginal": "4.99",
+  "price": "4.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2684 > 3384",
   "supplier": "ANVIRI COSMETICS BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1059185",
   "productGroupId": "510254",
   "brandType": "A of B merk",
-  "discount": "€ 1,25",
+  "discount": "",
   "url": "/kiss-acryl-nagelvijl/p/4213105",
   "listName": "Lister",
   "brand": "Kiss",
@@ -37,6 +37,5 @@
       "name": "Nagelvijlen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h5f/hbf/27294104944670/prd-front-4213105-1_600x600/prd-front-4213105-1-600x600.jpg"
+  "description": ""
 }

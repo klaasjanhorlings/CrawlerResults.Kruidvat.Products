@@ -29,10 +29,13 @@
       "name": "Skincare"
     },
     {
-      "id": 84945977,
-      "name": "Exfoliant"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266916,
+      "name": "Cleanser"
     }
   ],
-  "description": "236ml",
-  "image": "/medias/sys_master/prd-images/h1c/h45/34048583139358/prd-front-6309896-1_600x600/prd-front-6309896-1-600x600.jpg"
+  "description": "236ml"
 }

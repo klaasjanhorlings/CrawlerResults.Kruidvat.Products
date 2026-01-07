@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "9,5g"
+  "description": "9,5g",
+  "image": "/medias/sys_master/prd-images/hcc/h58/45052267364382/prd-front-5731433-1_600x600/prd-front-5731433-1-600x600.jpg"
 }

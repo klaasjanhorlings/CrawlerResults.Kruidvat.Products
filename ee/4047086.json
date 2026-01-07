@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059218",
   "mmkId": "1059218",
   "productGroupId": "512346",
@@ -33,6 +33,5 @@
       "name": "Haarwax"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h3e/h13/33772684345374/prd-front-4047086-1_600x600/prd-front-4047086-1-600x600.jpg"
+  "description": "150ml"
 }
