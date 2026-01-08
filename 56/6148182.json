@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Wireless Koptelefoon",
+  "code": "6148182",
+  "price": "14.44",
+  "priceOriginal": "16.99",
+  "itemBgbcat": "2153 > 5929 > 6014 > 2632 > 6424 > 6446",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "1059476",
+  "mmkId": "1059476",
+  "productGroupId": "517489",
+  "brandType": "Eigen merk",
+  "discount": "€ 2,55",
+  "url": "/kruidvat-wireless-koptelefoon/p/6148182",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266902,
+      "name": "Telefoonaccessoires"
+    },
+    {
+      "id": 49258289,
+      "name": "Koptelefoons"
+    }
+  ],
+  "description": "zwart"
+}

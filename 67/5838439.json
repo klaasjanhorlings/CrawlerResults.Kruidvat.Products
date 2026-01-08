@@ -7,7 +7,7 @@
   "priceOriginal": "109.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 6396 > 6395 > 3835",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059261",
   "mmkId": "1059261",
   "productGroupId": "513318",
@@ -33,5 +33,6 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "roze"
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/h67/h95/44856509956126/prd-front-5838439-1_600x600/prd-front-5838439-1-600x600.jpg"
 }

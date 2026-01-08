@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 5861 > 5864 > 5872 > 5889 > 5909",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059325",
   "mmkId": "1059325",
   "productGroupId": "517058",
@@ -33,5 +33,6 @@
       "name": "Geschenkset voor hem"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h38/h72/44241025302558/prd-front-6156239-1_600x600/prd-front-6156239-1-600x600.jpg"
 }
