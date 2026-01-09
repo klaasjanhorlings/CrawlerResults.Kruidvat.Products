@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,10 +29,9 @@
       "name": "LEGO"
     },
     {
-      "id": 69044935,
-      "name": "LEGO Verjaardagscadeaus"
+      "id": 69046909,
+      "name": "LEGO Peuters en Kleuters"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he5/h34/34950859948062/prd-front-6345750-1_600x600/prd-front-6345750-1-600x600.jpg"
+  "description": ""
 }

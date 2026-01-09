@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Silver Soda Grof",
   "code": "20714",
-  "price": "1.19",
+  "price": "1.29",
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "SENZORA BV",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "1000g",
-  "image": "/medias/prd-front-20714-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODUyMTd8aW1hZ2UvanBlZ3xhREl4TDJneU1pOHlOamt4TkRVek5UQTNPVGsyTmk5d2NtUXRabkp2Ym5RdE1qQTNNVFF0TVY4Mk1EQjROakF3fGFlNmVkYmUwOTBhZDc2MTYzNmQ5NDczZjcxMDQ0YTA0M2MyYjcwOWFmMzZkZDExZmIxZDkyYTk4MWNhODRkZDI"
+  "description": "1000g"
 }

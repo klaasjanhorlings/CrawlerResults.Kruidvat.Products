@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -33,9 +33,10 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267461,
-      "name": "Multivitamines"
+      "id": 30267462,
+      "name": "Kindervitamines"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/prd-front-4727941-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njk2MDd8aW1hZ2UvanBlZ3xhRGM1TDJnMU9TOHhOek0yTXpRMU1USTBPRFkzTUM5d2NtUXRabkp2Ym5RdE5EY3lOemswTVMweFh6WXdNSGcyTURBfDUyODI5ODBiMDJkOTViODQ0YTliYjk1MjM2ZDBkZTliOWM5YWJmNTYwY2M0OGYyNjM3NzJlZTNkMTFlYjIwYzI"
 }

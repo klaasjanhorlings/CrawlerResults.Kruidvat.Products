@@ -25,9 +25,14 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49793273,
+      "name": "Visolie"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h84/h89/44317515448350/prd-front-6390480-1_600x600/prd-front-6390480-1-600x600.jpg"
 }

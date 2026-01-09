@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "NIVEA Fresh Comfort Deodorant Spray",
   "code": "4474632",
-  "price": "5.49",
+  "price": "5.79",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "BEIERSDORF NV NL",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h7d/h1c/33178270105630/prd-front-4474632-1_600x600/prd-front-4474632-1-600x600.jpg"
 }

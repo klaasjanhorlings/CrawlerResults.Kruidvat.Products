@@ -7,7 +7,7 @@
   "priceOriginal": "9.39",
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "REMARK GROEP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059335",
   "mmkId": "1059335",
   "productGroupId": "518724",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h38/h01/45362401673246/prd-front-21524-1_600x600/prd-front-21524-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h76/hee/45371943223326/prd-front-21524-1_600x600/prd-front-21524-1-600x600.jpg"
 }

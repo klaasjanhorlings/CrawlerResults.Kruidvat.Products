@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Garnier SkinActive Micellair Reinigingswater voor de Droge huid",
   "code": "4343151",
-  "price": "4.24",
-  "priceOriginal": "8.49",
+  "price": "4.49",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1059288",
   "productGroupId": "514164",
   "brandType": "A of B merk",
-  "discount": "€ 4,25",
+  "discount": "€ 4,50",
   "url": "/garnier-skinactive-micellair-reinigingswater-voor-de-droge-huid/p/4343151",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -37,6 +37,5 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml - Droge huid",
-  "image": "/medias/sys_master/prd-images/h82/hb6/35156215496734/prd-front-4343151-1_600x600/prd-front-4343151-1-600x600.jpg"
+  "description": "400ml - Droge huid"
 }

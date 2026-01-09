@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Davitamon Energie Boost¹ Hooggedoseerde Bosvruchten Kauwvitaminen",
   "code": "3939293",
-  "price": "15.39",
+  "price": "15.49",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "OMEGA PHARMA NEDERLAND",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266717,
-      "name": "Weerstand en energie"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
   "description": "40 stuks",

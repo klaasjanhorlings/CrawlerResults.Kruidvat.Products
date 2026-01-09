@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6697",
   "supplier": "GUHL IKEBANA COSMETICS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059212",
   "mmkId": "1059212",
   "productGroupId": "512226",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h88/hd3/33106015289374/prd-front-6243578-1_600x600/prd-front-6243578-1-600x600.jpg"
 }

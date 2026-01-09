@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Gehwol 8-in-1 Voetcrème",
   "code": "5826161",
-  "price": "15.89",
+  "price": "16.69",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 2834 > 3576 > 6784",
   "supplier": "OMEGA PHARMA NEDERLAND",
@@ -33,5 +33,6 @@
       "name": "Voetcreme"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hdf/h06/33279047335966/prd-front-5826161-1_600x600/prd-front-5826161-1-600x600.jpg"
 }

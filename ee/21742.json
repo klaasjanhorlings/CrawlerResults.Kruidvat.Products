@@ -29,13 +29,14 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266707,
-      "name": "Maag en darm"
+      "id": 30266702,
+      "name": "Intieme ongemakken"
     },
     {
-      "id": 30266975,
-      "name": "Stoelgang"
+      "id": 30266955,
+      "name": "Aambeien"
     }
   ],
-  "description": "Geneesmiddel - 25g"
+  "description": "Geneesmiddel - 25g",
+  "image": "/medias/sys_master/prd-images/h92/h05/44932398415902/prd-front-21742-1_600x600/prd-front-21742-1-600x600.jpg"
 }
