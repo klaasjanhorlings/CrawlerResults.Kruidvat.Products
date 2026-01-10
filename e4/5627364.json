@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "KENVUE",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059233",
   "mmkId": "1059233",
   "productGroupId": "512900",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266603,
-      "name": "Nachtcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "50ml - Normale en rijpe huid",

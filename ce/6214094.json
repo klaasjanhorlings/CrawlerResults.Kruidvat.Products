@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2092 > 2245 > 2343 > 2743 > 4868 > 6568",
   "supplier": "BOOK & SERVICE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Nederlandstalig boek",
-  "image": "/medias/sys_master/prd-images/hb7/h92/45373095870494/prd-front-6214094-1_600x600/prd-front-6214094-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h03/hc4/45390860648478/prd-front-6214094-1_600x600/prd-front-6214094-1-600x600.jpg"
 }
