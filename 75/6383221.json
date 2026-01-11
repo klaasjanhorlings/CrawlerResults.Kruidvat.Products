@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fake Fur Hoedje",
+  "code": "6383221",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2225 > 3118 > 3984 > 4869 > 5095",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/fake-fur-hoedje/p/6383221",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266037,
+      "name": "Verkleedkleding & accessoires"
+    }
+  ],
+  "description": "fuchsia, Ø56cm",
+  "image": "/medias/sys_master/prd-images/h35/h80/44458757652510/prd-front-6383221-1_600x600/prd-front-6383221-1-600x600.jpg"
+}
