@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1059240",
-  "mmkId": "1059240",
-  "productGroupId": "513111",
+  "onPromo": "1059544",
+  "mmkId": "1059544",
+  "productGroupId": "508983",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-protect-care-antitranspirant-roller/p/3647554",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hef/h0e/34567854424094/prd-front-3647554-1_600x600/prd-front-3647554-1-600x600.jpg"
 }

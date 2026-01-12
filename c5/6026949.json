@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Bright Reveal Dark Spot SPF50 Hydraterende Crème",
   "code": "6026949",
-  "price": "33.99",
-  "priceOriginal": "",
+  "price": "16.99",
+  "priceOriginal": "33.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1059287",
-  "mmkId": "1059287",
-  "productGroupId": "514159",
+  "onPromo": "1059661",
+  "mmkId": "1059661",
+  "productGroupId": "514167",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 17,00",
   "url": "/loreal-paris-bright-reveal-dark-spot-spf50-hydraterende-creme/p/6026949",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml, alle huidtypes"
+  "description": "50ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/h47/h9a/34957928464414/prd-front-6026949-1_600x600/prd-front-6026949-1-600x600.jpg"
 }

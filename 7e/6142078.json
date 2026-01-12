@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "1059300",
-  "mmkId": "1059300",
-  "productGroupId": "514861",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-oneblade-intimate-man-qp229/50-skinprotect-blade-navulmesjes-/p/6142078",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/hf4/h58/33631758123038/prd-front-6142078-1_600x600/prd-front-6142078-1-600x600.jpg"
 }

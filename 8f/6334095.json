@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Therme Forest Flower Meditation Bodybutter",
   "code": "6334095",
-  "price": "13.49",
-  "priceOriginal": "",
+  "price": "8.0",
+  "priceOriginal": "13.49",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1059447",
-  "mmkId": "1059447",
-  "productGroupId": "507433",
+  "onPromo": "1059533",
+  "mmkId": "1059533",
+  "productGroupId": "507436",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,49",
   "url": "/therme-forest-flower-meditation-bodybutter/p/6334095",
   "listName": "Lister",
   "brand": "Therme",
@@ -33,6 +33,5 @@
       "name": "Bodybutter"
     }
   ],
-  "description": "225ml",
-  "image": "/medias/sys_master/prd-images/hb7/h5d/45273378193438/prd-front-6334095-1_600x600/prd-front-6334095-1-600x600.jpg"
+  "description": "225ml"
 }

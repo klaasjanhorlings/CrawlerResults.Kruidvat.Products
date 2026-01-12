@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3070 > 3684",
   "supplier": "ORANGE-SHEEP BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059530",
+  "mmkId": "1059530",
+  "productGroupId": "506749",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/happy-earth-100-natural-pure-crystal-geurloze-deodorant-stick/p/4027486",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "90g"
+  "description": "90g",
+  "image": "/medias/sys_master/prd-images/h7e/haf/34756928045086/prd-front-4027486-1_600x600/prd-front-4027486-1-600x600.jpg"
 }

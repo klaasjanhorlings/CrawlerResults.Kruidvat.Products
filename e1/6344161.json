@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "RIDAM CARE BV",
   "inStock": "inStock",
-  "onPromo": "1059260",
-  "mmkId": "1059260",
-  "productGroupId": "513312",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-soft-1-7-3-4mm-interdentale-borsteltjes/p/6344161",
@@ -33,5 +33,6 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "100 stuks"
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/hc0/hea/45040585146398/prd-front-6344161-1_600x600/prd-front-6344161-1-600x600.jpg"
 }

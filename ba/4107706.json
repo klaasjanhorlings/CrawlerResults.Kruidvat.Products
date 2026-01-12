@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "1059167",
-  "mmkId": "1059167",
-  "productGroupId": "508664",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tena-discreet-ultra-mini-verbanden/p/4107706",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "Medisch hulpmiddel - 2 x 20 stuks"
+  "description": "Medisch hulpmiddel - 2 x 20 stuks",
+  "image": "/medias/sys_master/prd-images/h43/hf0/33391262695454/prd-front-4107706-1_600x600/prd-front-4107706-1-600x600.jpg"
 }

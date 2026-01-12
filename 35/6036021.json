@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris True Match Radiant 3R Serum Concealer",
   "code": "6036021",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "7.99",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1059678",
+  "mmkId": "1059678",
+  "productGroupId": "514767",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 8,00",
   "url": "/loreal-paris-true-match-radiant-3r-serum-concealer/p/6036021",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "11ml"
+  "description": "11ml",
+  "image": "/medias/sys_master/prd-images/h1f/h82/45080310022174/prd-front-6036021-1_600x600/prd-front-6036021-1-600x600.jpg"
 }

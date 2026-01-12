@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "inStock",
-  "onPromo": "1059463",
-  "mmkId": "1059463",
-  "productGroupId": "510932",
+  "inStock": "outOfStock",
+  "onPromo": "1059559",
+  "mmkId": "1059559",
+  "productGroupId": "510946",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-advanced-care-glowing-douchegel/p/6057980",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "225ml - Gevoelige huid"
+  "description": "225ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h11/h75/30704554672158/prd-front-6057980-1_600x600/prd-front-6057980-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dreamiez Kat Slaapknuffel",
+  "code": "6414007",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2096 > 2132 > 2331 > 2731 > 3434 > 5921",
+  "supplier": "HEATHSIDE TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/dreamiez-kat-slaapknuffel/p/6414007",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266035,
+      "name": "Elektronisch speelgoed"
+    }
+  ],
+  "description": "grijs, wit",
+  "image": "/medias/sys_master/prd-images/hb1/h01/45265635049502/prd-front-6414007-1_600x600/prd-front-6414007-1-600x600.jpg"
+}

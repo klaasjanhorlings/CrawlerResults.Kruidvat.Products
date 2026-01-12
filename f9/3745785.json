@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
   "supplier": "SANATURE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059705",
+  "mmkId": "1059705",
+  "productGroupId": "516370",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/sanature-100-katoenen-super-maandverband/p/3745785",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/prd-front-3745785-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjkxNDV8aW1hZ2UvanBlZ3xhRGRrTDJoa1l5OHhOekUxTmpjeU5EYzFNalF4TkM5d2NtUXRabkp2Ym5RdE16YzBOVGM0TlMweFh6WXdNSGcyTURBfDhhOWZkZjlhN2E3NjJkZjVmOThjYmZmODM4OTEyZTc1ZmM2M2IxZDM0MTMwYzk4NWJkYmZmOWQwNjA0OWIwYzE"
 }

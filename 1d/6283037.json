@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Moments Jasmine & Tucuma Butter Bodylotion",
   "code": "6283037",
-  "price": "4.99",
-  "priceOriginal": "",
+  "price": "3.49",
+  "priceOriginal": "4.99",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "MAXIM MARKENPRODUKTE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059652",
+  "mmkId": "1059652",
+  "productGroupId": "513736",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 1,50",
   "url": "/kruidvat-moments-jasmine-tucuma-butter-bodylotion/p/6283037",
   "listName": "Lister",
   "brand": "Kruidvat Moments",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hcc/h1b/33850952744990/prd-front-6283037-1_600x600/prd-front-6283037-1-600x600.jpg"
 }

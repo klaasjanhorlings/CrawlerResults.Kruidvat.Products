@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1059287",
-  "mmkId": "1059287",
-  "productGroupId": "514159",
+  "onPromo": "1059688",
+  "mmkId": "1059688",
+  "productGroupId": "515349",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-studio-line-invisi-fix-super-strong-24h-clear-clean-haargel/p/2893227",
@@ -33,5 +33,6 @@
       "name": "Haargel"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/prd-front-2893227-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTMxNDJ8aW1hZ2UvanBlZ3xhR1ZpTDJnMVppOHhOamd4TlRRMU1ESTFPVFE0Tmk5d2NtUXRabkp2Ym5RdE1qZzVNekl5TnkweFh6WXdNSGcyTURBfDM2Y2JjZWI1MzhkMDcwNzEzZjk0MjRhZTNmMzRhZmZkMmRmNjAxNTEyOWI5ZWM2MDhhNzgxODI1ZjM5ZTM2MGM"
 }

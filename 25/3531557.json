@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wortie Freeze Wrattenverwijderaar",
+  "code": "3531557",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 6457 > 6458 > 6788",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wortie-freeze-wrattenverwijderaar/p/3531557",
+  "listName": "Lister",
+  "brand": "Wortie",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30266942,
+      "name": "Wrattenbehandeling"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 50ml",
+  "image": "/medias/sys_master/prd-images/h81/h50/32428011651102/prd-front-3531557-1_600x600/prd-front-3531557-1-600x600.jpg"
+}

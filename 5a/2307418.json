@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1059733",
+  "mmkId": "1059733",
+  "productGroupId": "522450",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-colour-elixir-075-ruby-tuesday-lipstick/p/2307418",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h55/h30/31161026609182/prd-front-2307418-1_600x600/prd-front-2307418-1-600x600.jpg"
 }

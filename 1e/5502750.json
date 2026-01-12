@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Wear It Nude Skin Perfecting Medium Dark BB Cream",
   "code": "5502750",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "5.0",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "DERMCOS GMBH",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1059535",
+  "mmkId": "1059535",
+  "productGroupId": "507908",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 0,99",
   "url": "/kruidvat-wear-it-nude-skin-perfecting-medium-dark-bb-cream/p/5502750",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "BB cream"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h62/h2f/33759403933726/prd-front-5502750-1_600x600/prd-front-5502750-1-600x600.jpg"
 }

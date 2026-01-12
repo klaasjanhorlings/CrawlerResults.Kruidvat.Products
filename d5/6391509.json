@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
   "supplier": "BRANDM BV",
   "inStock": "inStock",
-  "onPromo": "1059291",
-  "mmkId": "1059291",
-  "productGroupId": "514545",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/optimum-nutrition-clear-protein-juicy-peach-100-plant-protein-isolate/p/6391509",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "280g"
+  "description": "280g",
+  "image": "/medias/sys_master/prd-images/h3f/h54/44274397511710/prd-front-6391509-1_600x600/prd-front-6391509-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Tattoo Liner 103 Burgundy Boost Dip-Ink Liquid Eyeliner",
   "code": "6242059",
-  "price": "10.0",
-  "priceOriginal": "13.99",
+  "price": "13.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
   "supplier": "MAYBELLINE MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1059200",
-  "mmkId": "1059200",
-  "productGroupId": "511340",
+  "onPromo": "1059567",
+  "mmkId": "1059567",
+  "productGroupId": "511342",
   "brandType": "A of B merk",
-  "discount": "€ 3,99",
+  "discount": "",
   "url": "/maybelline-new-york-tattoo-liner-103-burgundy-boost-dip-ink-liquid-eyeliner/p/6242059",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,6 +33,5 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "3,5ml",
-  "image": "/medias/sys_master/prd-images/h56/h70/44837511495710/prd-front-6242059-1_600x600/prd-front-6242059-1-600x600.jpg"
+  "description": "3,5ml"
 }

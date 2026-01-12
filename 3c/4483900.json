@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059549",
+  "mmkId": "1059549",
+  "productGroupId": "509447",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dettol-power-fresh-original-allesreiniger/p/4483900",
@@ -33,6 +33,5 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "1500ml",
-  "image": "/medias/sys_master/prd-images/h6f/h66/32335877079070/prd-front-4483900-1_600x600/prd-front-4483900-1-600x600.jpg"
+  "description": "1500ml"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 60 Seconden Thermometer",
+  "code": "1413651",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6431",
+  "supplier": "RETOMED HEALTH BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-60-seconden-thermometer/p/1413651",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 67784836,
+      "name": "Gezondheidsapparatuur"
+    },
+    {
+      "id": 30266763,
+      "name": "Thermometers"
+    }
+  ],
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h0d/h94/34593893056542/prd-front-1413651-1_600x600/prd-front-1413651-1-600x600.jpg"
+}

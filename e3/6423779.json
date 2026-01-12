@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WC Eend Lime Zest Fresh Disc Navullingen",
+  "code": "6423779",
+  "price": "2.99",
+  "priceOriginal": "6.09",
+  "itemBgbcat": "2007 > 2068 > 2194 > 6071 > 6072 > 6074",
+  "supplier": "S.C. JOHNSON",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 3,10",
+  "url": "/wc-eend-lime-zest-fresh-disc-navullingen/p/6423779",
+  "listName": "Lister",
+  "brand": "WC eend",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266071,
+      "name": "Toiletblokken"
+    }
+  ],
+  "description": "2 x 36ml",
+  "image": "/medias/sys_master/prd-images/ha8/h76/44810869047326/prd-front-6423779-1_600x600/prd-front-6423779-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1059331",
-  "mmkId": "1059331",
-  "productGroupId": "517868",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kids-stuff-sparkling-bubble-bath-badschuim/p/6126006",
@@ -37,5 +37,6 @@
       "name": "Babybadschuim"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h28/h47/31368312487966/prd-front-6126006-1_600x600/prd-front-6126006-1-600x600.jpg"
 }

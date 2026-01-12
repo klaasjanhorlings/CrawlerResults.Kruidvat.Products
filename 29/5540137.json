@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059630",
+  "mmkId": "1059630",
+  "productGroupId": "513627",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-pink-blossom-bodymist/p/5540137",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h31/h1d/28023385554974/prd-front-5540137-1_600x600/prd-front-5540137-1-600x600.jpg"
 }

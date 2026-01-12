@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hansaplast Elastic Pleisters",
+  "code": "176838",
+  "price": "13.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 2174 > 3032 > 3649 > 6789",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hansaplast-elastic-pleisters/p/176838",
+  "listName": "Lister",
+  "brand": "Hansaplast",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266008,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30266739,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414085,
+      "name": "Klassieke pleisters"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 5m x 6cm",
+  "image": "/medias/sys_master/prd-images/h67/haf/44522954588190/prd-front-176838-1_600x600/prd-front-176838-1-600x600.jpg"
+}

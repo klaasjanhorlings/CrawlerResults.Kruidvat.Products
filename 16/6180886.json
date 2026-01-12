@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat +1.0 Wider Fit Leesbril",
+  "code": "6180886",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2074 > 2155 > 3202 > 4074 > 6791",
+  "supplier": "J-CLUB E-COMM",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-10-wider-fit-leesbril/p/6180886",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266013,
+      "name": "Optiek"
+    },
+    {
+      "id": 30266756,
+      "name": "Leesbrillen"
+    }
+  ],
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/h26/h05/32709880905758/prd-front-6180886-1_600x600/prd-front-6180886-1-600x600.jpg"
+}

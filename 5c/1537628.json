@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1059204",
-  "mmkId": "1059204",
-  "productGroupId": "511830",
+  "onPromo": "1059566",
+  "mmkId": "1059566",
+  "productGroupId": "511282",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-cream-oil-magnolia-douchecreme/p/1537628",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/hbe/h81/44799761023006/prd-front-1537628-1_600x600/prd-front-1537628-1-600x600.jpg"
 }

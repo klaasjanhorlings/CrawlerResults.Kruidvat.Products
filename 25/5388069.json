@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Compeed Medium Blaarpleisters",
+  "code": "5388069",
+  "price": "7.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 3177 > 3445",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/compeed-medium-blaarpleisters/p/5388069",
+  "listName": "Lister",
+  "brand": "Compeed",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetongemakken"
+    },
+    {
+      "id": 48220902,
+      "name": "Blaren"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 6 stuks",
+  "image": "/medias/sys_master/prd-images/hcb/hd8/44937932341278/prd-front-5388069-1_600x600/prd-front-5388069-1-600x600.jpg"
+}

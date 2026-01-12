@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6334 > 3699",
   "supplier": "LOREAL NED BV",
   "inStock": "outOfStock",
-  "onPromo": "1059287",
-  "mmkId": "1059287",
-  "productGroupId": "514159",
+  "onPromo": "1059688",
+  "mmkId": "1059688",
+  "productGroupId": "515349",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-studio-line-remix-strong-hold-styling-haarpaste/p/2896468",
@@ -33,5 +33,6 @@
       "name": "Haarpasta"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/prd-front-2896468-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTg1NDl8aW1hZ2UvanBlZ3xhRGxoTDJoaU1DOHhOelF4TWpnMk56ZzFNREkzTUM5d2NtUXRabkp2Ym5RdE1qZzVOalEyT0MweFh6WXdNSGcyTURBfDEzODc5YzJjNWNmZDc5YzQxYzJmOTg3NjNmODI1YmMwNmJlYmNjN2QxMWE1NWZhMGJkYTA3OWMyMmRhZWUyY2E"
 }

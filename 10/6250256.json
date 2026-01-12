@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 2932 > 3727",
   "supplier": "BOLDKING",
   "inStock": "inStock",
-  "onPromo": "1059222",
-  "mmkId": "1059222",
-  "productGroupId": "512407",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/boldking-original-foaming-shave-gel/p/6250256",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "185ml"
+  "description": "185ml",
+  "image": "/medias/sys_master/prd-images/hff/he0/33651874234398/prd-front-6250256-1_600x600/prd-front-6250256-1-600x600.jpg"
 }

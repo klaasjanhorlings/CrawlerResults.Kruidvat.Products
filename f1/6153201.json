@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Dual 30W USB-C-naar-8-pin Kabel",
   "code": "6153201",
-  "price": "8.49",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2153 > 2632 > 5929 > 6014 > 6423 > 6446",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "1059476",
-  "mmkId": "1059476",
-  "productGroupId": "517489",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
-  "discount": "€ 1,50",
+  "discount": "",
   "url": "/kruidvat-dual-30w-usb-c-naar-8-pin-kabel/p/6153201",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Telefoonkabeltjes"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h29/h16/44578674475038/prd-front-6153201-1_600x600/prd-front-6153201-1-600x600.jpg"
+  "description": ""
 }
