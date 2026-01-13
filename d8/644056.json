@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "EUROFIL SRL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059753",
   "mmkId": "1059753",
   "productGroupId": "530782",
@@ -37,5 +37,6 @@
       "name": "Incontinentieverband"
     }
   ],
-  "description": "Medisch hulpmiddel - 12 stuks"
+  "description": "Medisch hulpmiddel - 12 stuks",
+  "image": "/medias/sys_master/prd-images/h6c/hd4/28234759634974/prd-front-644056-1_600x600/prd-front-644056-1-600x600.jpg"
 }

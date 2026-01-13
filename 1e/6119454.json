@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "WeCare Chocolate High Protein Bars",
+  "code": "6119454",
+  "price": "4.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2044 > 2165 > 2497 > 2733 > 3435",
+  "supplier": "NUTRITION&SANTE BENELX",
+  "inStock": "inStock",
+  "onPromo": "1059667",
+  "mmkId": "1059667",
+  "productGroupId": "514517",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wecare-chocolate-high-protein-bars/p/6119454",
+  "listName": "Lister",
+  "brand": "WeCare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266751,
+      "name": "Sportrepen"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h12/he7/35063369007134/prd-front-6119454-1_600x600/prd-front-6119454-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5731 > 3876",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059559",
+  "mmkId": "1059559",
+  "productGroupId": "510946",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/rexona-men-maximum-protection-clean-scent-antitranspirant-creme-stick/p/1758163",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "45ml"
+  "description": "45ml",
+  "image": "/medias/sys_master/prd-images/h3b/h75/44219686322206/prd-front-1758163-1_600x600/prd-front-1758163-1-600x600.jpg"
 }

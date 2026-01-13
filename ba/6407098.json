@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Hansaplast Second Skin Spray Pleister",
   "code": "6407098",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "4.99",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4247",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1059693",
+  "mmkId": "1059693",
+  "productGroupId": "515833",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/hansaplast-second-skin-spray-pleister/p/6407098",
   "listName": "Lister",
   "brand": "Hansaplast",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "40ml",
-  "image": "/medias/sys_master/prd-images/hf9/h6f/45412161060894/prd-front-6407098-1_600x600/prd-front-6407098-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h3e/h22/45420981583902/prd-front-6407098-1_600x600/prd-front-6407098-1-600x600.jpg"
 }

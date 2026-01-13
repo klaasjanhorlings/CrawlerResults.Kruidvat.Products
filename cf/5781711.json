@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059604",
   "mmkId": "1059604",
   "productGroupId": "513119",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "15ml - Rijpe huid en alle huidtypen",
-  "image": "/medias/sys_master/prd-images/hbb/h5f/44918772072478/prd-front-5781711-1_600x600/prd-front-5781711-1-600x600.jpg"
+  "description": "15ml - Rijpe huid en alle huidtypen"
 }

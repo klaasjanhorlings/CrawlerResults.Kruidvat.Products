@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "YARI BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Babylotion"
     }
   ],
-  "description": "368g"
+  "description": "368g",
+  "image": "/medias/sys_master/prd-images/hf5/ha4/34872701976606/prd-front-2594859-1_600x600/prd-front-2594859-1-600x600.jpg"
 }

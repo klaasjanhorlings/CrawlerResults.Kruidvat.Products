@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Aroma Rood Oploskoffie",
+  "code": "1665455",
+  "price": "5.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 2963 > 3764",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/douwe-egberts-aroma-rood-oploskoffie/p/1665455",
+  "listName": "Lister",
+  "brand": "Douwe Egberts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    },
+    {
+      "id": 113103992,
+      "name": "Oploskoffie"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/prd-front-1665455-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTQ3NDV8aW1hZ2UvanBlZ3xhREExTDJnMU5DOHlOamsyTkRRNE9UYzJORGc1TkM5d2NtUXRabkp2Ym5RdE1UWTJOVFExTlMweFh6WXdNSGcyTURBfDMyNTc3NGM5NmUwZTlmNDEwMjhjODVhMjhlNTIzOTRlOWU5MzA3Nzc3YWJjZDBiYmZhNGViMjIwNjJmMTMxZTk"
+}
