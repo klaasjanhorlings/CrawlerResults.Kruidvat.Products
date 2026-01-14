@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Naïf Lotion Babydoekjes",
+  "code": "5919744",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
+  "supplier": "NAIF CARE BV",
+  "inStock": "inStock",
+  "onPromo": "1053273",
+  "mmkId": "1053273",
+  "productGroupId": "497650",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/naif-lotion-babydoekjes/p/5919744",
+  "listName": "Lister",
+  "brand": "Naïf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266018,
+      "name": "Billendoekjes"
+    }
+  ],
+  "description": "8 x 54 stuks",
+  "image": "/medias/sys_master/prd-images/h72/h8f/44652189319198/prd-front-5919744-1_600x600/prd-front-5919744-1-600x600.jpg"
+}

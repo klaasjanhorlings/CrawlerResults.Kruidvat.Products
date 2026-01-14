@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Hydraterende Dagcrème met SPF15",
+  "code": "1305627",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1059604",
+  "mmkId": "1059604",
+  "productGroupId": "513119",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-hydraterende-dagcreme-met-spf15/p/1305627",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hf9/hd2/45025809596446/prd-front-1305627-1_600x600/prd-front-1305627-1-600x600.jpg"
+}
