@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Biodermal Anti Age 50+ Dagcrème",
   "code": "2148679",
-  "price": "21.99",
+  "price": "17.6",
   "priceOriginal": "43.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1059538",
-  "mmkId": "1059538",
-  "productGroupId": "508114",
+  "onPromo": "1059760",
+  "mmkId": "1059760",
+  "productGroupId": "515497",
   "brandType": "A of B merk",
-  "discount": "€ 22,00",
+  "discount": "€ 26,39",
   "url": "/biodermal-anti-age-50-dagcreme/p/2148679",
   "listName": "Lister",
   "brand": "Biodermal",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid"
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h86/hb6/27285486370846/prd-front-2148679-1_600x600/prd-front-2148679-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Roter Vitamine C 250 mg Weerstand Tabletten",
   "code": "584108",
-  "price": "15.49",
-  "priceOriginal": "",
+  "price": "6.97",
+  "priceOriginal": "15.49",
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1059762",
+  "mmkId": "1059762",
+  "productGroupId": "517135",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 8,52",
   "url": "/roter-vitamine-c-250-mg-weerstand-tabletten/p/584108",
   "listName": "Lister",
   "brand": "Roter",
@@ -29,14 +29,9 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266990,
-      "name": "Vitamine C"
+      "id": 30266717,
+      "name": "Weerstand en energie"
     }
   ],
-  "description": "75 stuks",
-  "image": "/medias/sys_master/prd-images/heb/ha1/44921754058782/prd-front-584108-1_600x600/prd-front-584108-1-600x600.jpg"
+  "description": "75 stuks"
 }

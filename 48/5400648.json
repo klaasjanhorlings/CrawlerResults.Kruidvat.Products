@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Epitact Hallux Valgus Corrigerende Orthese",
+  "code": "5400648",
+  "price": "37.45",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 3567 > 6449 > 6784",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/epitact-hallux-valgus-corrigerende-orthese/p/5400648",
+  "listName": "Lister",
+  "brand": "Epitact",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetongemakken"
+    },
+    {
+      "id": 48220914,
+      "name": "Hulpmiddelen voetproblemen"
+    }
+  ],
+  "description": "mt 36-38"
+}

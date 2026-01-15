@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Roter Vitamine C 1000 mg Sterk Kauwtabletten",
   "code": "3549491",
-  "price": "13.99",
-  "priceOriginal": "",
+  "price": "6.3",
+  "priceOriginal": "13.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1059762",
+  "mmkId": "1059762",
+  "productGroupId": "517135",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,69",
   "url": "/roter-vitamine-c-1000-mg-sterk-kauwtabletten/p/3549491",
   "listName": "Lister",
   "brand": "Roter",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266990,
-      "name": "Vitamine C"
+      "id": 30266717,
+      "name": "Weerstand en energie"
     }
   ],
   "description": "50 stuks",

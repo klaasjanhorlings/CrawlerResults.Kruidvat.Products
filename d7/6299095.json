@@ -7,7 +7,7 @@
   "priceOriginal": "7.99",
   "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
   "supplier": "DUGROS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059368",
   "mmkId": "1059368",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Handtas"
     }
   ],
-  "description": "bordeaux, 21cm x 3cm x 11cm",
-  "image": "/medias/sys_master/prd-images/h5b/h41/34147513565214/prd-front-6299095-1_600x600/prd-front-6299095-1-600x600.jpg"
+  "description": "bordeaux, 21cm x 3cm x 11cm"
 }

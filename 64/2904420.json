@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ONTEX BVBA",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1032227",
   "mmkId": "1032227",
   "productGroupId": "379074",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "12 stuks",
-  "image": "/medias/sys_master/prd-images/h6a/h93/45435721842718/temp-prd-front-2904420-1_600x600/temp-prd-front-2904420-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h39/h1f/45514757505054/temp-prd-front-2904420-1_600x600/temp-prd-front-2904420-1-600x600.jpg"
 }
