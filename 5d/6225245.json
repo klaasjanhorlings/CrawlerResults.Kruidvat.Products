@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 2942 > 3736",
   "supplier": "GREEN SOAP COMPANY BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1040120",
   "mmkId": "1040120",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Afwasmiddel"
     }
   ],
-  "description": "6 x 500ml",
-  "image": "/medias/sys_master/prd-images/ha3/hf7/35138343436318/prd-front-6225245-1_600x600/prd-front-6225245-1-600x600.jpg"
+  "description": "6 x 500ml"
 }

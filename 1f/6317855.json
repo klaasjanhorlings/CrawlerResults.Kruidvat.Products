@@ -29,9 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30266590,
-      "name": "Blush"
+      "id": 30266596,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30266910,
+      "name": "Mono oogschaduw"
     }
   ],
-  "description": "6g"
+  "description": "6g",
+  "image": "/medias/sys_master/prd-images/h0a/h0d/34828193071134/prd-front-6317855-1_600x600/prd-front-6317855-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "e.l.f. Glow Reviver Pink-Me Energy Lip Oil Stick",
+  "code": "6414903",
+  "price": "12.0",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "ELF BEAUTY UK LIMITED",
+  "inStock": "outOfStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elf-glow-reviver-pink-me-energy-lip-oil-stick/p/6414903",
+  "listName": "Lister",
+  "brand": "ELF",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 87393641,
+      "name": "Lip oil"
+    }
+  ],
+  "description": "3,4g",
+  "image": "/medias/sys_master/prd-images/h9c/h73/45125890408478/prd-front-6414903-1_600x600/prd-front-6414903-1-600x600.jpg"
+}

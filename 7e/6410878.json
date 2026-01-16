@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2640 > 3325 > 4829 > 5812 > 5928 > 6038",
   "supplier": "PARTYXPLOSION BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Dameskleding"
     }
   ],
-  "description": "mt L-XL"
+  "description": "mt L-XL",
+  "image": "/medias/sys_master/prd-images/h17/hd3/45273141903390/prd-front-6410878-1_600x600/prd-front-6410878-1-600x600.jpg"
 }

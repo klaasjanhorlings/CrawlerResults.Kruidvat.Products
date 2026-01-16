@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "De Vergulde Hand Savon à Raser",
   "code": "6247645",
-  "price": "4.49",
+  "price": "4.69",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 3144 > 4011",
   "supplier": "REMARK GROEP",
@@ -33,5 +33,6 @@
       "name": "Scheerschuim en scheergel"
     }
   ],
-  "description": "75gr"
+  "description": "75gr",
+  "image": "/medias/sys_master/prd-images/h67/he6/33390953922590/prd-front-6247645-1_600x600/prd-front-6247645-1-600x600.jpg"
 }

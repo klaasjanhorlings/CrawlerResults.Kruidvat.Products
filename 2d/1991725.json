@@ -4,7 +4,7 @@
   "itemName": "Therme Zen White Lotus Bodybutter",
   "code": "1991725",
   "price": "8.0",
-  "priceOriginal": "13.49",
+  "priceOriginal": "13.69",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3108 > 3485",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1059533",
   "productGroupId": "507436",
   "brandType": "A of B merk",
-  "discount": "€ 5,49",
+  "discount": "€ 5,69",
   "url": "/therme-zen-white-lotus-bodybutter/p/1991725",
   "listName": "Lister",
   "brand": "Therme",
@@ -33,6 +33,5 @@
       "name": "Bodybutter"
     }
   ],
-  "description": "225g",
-  "image": "/medias/sys_master/prd-images/h85/h4d/34758488752158/prd-front-1991725-1_600x600/prd-front-1991725-1-600x600.jpg"
+  "description": "225g"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "AllMatters Menstruatiecup",
   "code": "4248791",
-  "price": "22.69",
-  "priceOriginal": "",
+  "price": "11.34",
+  "priceOriginal": "22.69",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ALLMATTERS APS",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,35",
   "url": "/allmatters-menstruatiecup/p/4248791",
   "listName": "Lister",
   "brand": "AllMatters",
@@ -33,6 +33,5 @@
       "name": "Menstruatiecups"
     }
   ],
-  "description": "Size A",
-  "image": "/medias/sys_master/prd-images/hcf/h34/27781213814814/prd-front-4248791-1_600x600/prd-front-4248791-1-600x600.jpg"
+  "description": "Size A"
 }
