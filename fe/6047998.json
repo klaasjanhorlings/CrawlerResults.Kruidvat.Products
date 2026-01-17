@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Glucosamine Chondroïtine Visolie 1500/500/2000mg",
+  "code": "6047998",
+  "price": "43.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6200 > 6218 > 6268",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1059563",
+  "mmkId": "1059563",
+  "productGroupId": "511199",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-glucosamine-chondroitine-visolie-1500/500/2000mg/p/6047998",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266725,
+      "name": "Glucosamine"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/hfe/hae/30503908868126/prd-front-6047998-1_600x600/prd-front-6047998-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Loratadine 10mg Hooikoortstabletten",
+  "code": "5499222",
+  "price": "10.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6529 > 2756 > 3472",
+  "supplier": "HEALTHYPHARM BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-loratadine-10mg-hooikoortstabletten/p/5499222",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266701,
+      "name": "Allergische reacties"
+    },
+    {
+      "id": 30266951,
+      "name": "Hooikoortstabletten"
+    }
+  ],
+  "description": "Geneesmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/hdd/haf/44255647694878/prd-front-5499222-1_600x600/prd-front-5499222-1-600x600.jpg"
+}

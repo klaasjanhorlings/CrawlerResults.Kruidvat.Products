@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Sensitive Micellair Water",
+  "code": "4428180",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1028975",
+  "mmkId": "1028975",
+  "productGroupId": "362258",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-sensitive-micellair-water/p/4428180",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266913,
+      "name": "Micellair water"
+    }
+  ],
+  "description": "400ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h3b/h3b/34531814539294/prd-front-4428180-1_600x600/prd-front-4428180-1-600x600.jpg"
+}

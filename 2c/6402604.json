@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Prostaat Comfort Capsules",
+  "code": "6402604",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6202 > 6220 > 6278",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1059563",
+  "mmkId": "1059563",
+  "productGroupId": "511199",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-prostaat-comfort-capsules/p/6402604",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 106232180,
+      "name": "Nieuw"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h67/h53/44448920633374/prd-front-6402604-1_600x600/prd-front-6402604-1-600x600.jpg"
+}

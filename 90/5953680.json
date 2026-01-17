@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Derma Hydraterende Reinigingslotion",
+  "code": "5953680",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
+  "supplier": "MARION PRIVATE LABEL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-derma-hydraterende-reinigingslotion/p/5953680",
+  "listName": "Lister",
+  "brand": "KRUIDVAT DERMA",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677303,
+      "name": "Reinigingslotion"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h26/h48/28937658433566/prd-front-5953680-1_600x600/prd-front-5953680-1-600x600.jpg"
+}

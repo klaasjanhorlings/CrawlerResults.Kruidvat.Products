@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aspirine 100 mg Tabletten",
+  "code": "21722",
+  "price": "4.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6154 > 6161",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aspirine-100-mg-tabletten/p/21722",
+  "listName": "Lister",
+  "brand": "Aspirine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266706,
+      "name": "Pijn"
+    },
+    {
+      "id": 30266968,
+      "name": "Acetylsalicylzuur"
+    }
+  ],
+  "description": "Geneesmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h38/h89/34689695285278/prd-front-21722-1_600x600/prd-front-21722-1-600x600.jpg"
+}

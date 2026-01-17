@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Loperamide HCl Diarreeremmer 2mg Harde Capsules",
+  "code": "1617974",
+  "price": "3.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2765 > 3471",
+  "supplier": "AUROBINDO PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-loperamide-hcl-diarreeremmer-2mg-harde-capsules/p/1617974",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266707,
+      "name": "Maag en darm"
+    },
+    {
+      "id": 30266974,
+      "name": "Diarreeremmers"
+    }
+  ],
+  "description": "Geneesmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h6d/h6b/44219686060062/prd-front-1617974-1_600x600/prd-front-1617974-1-600x600.jpg"
+}

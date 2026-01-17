@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "From PB With Love Faux Fur Dekbedovertrek",
   "code": "6331673",
-  "price": "14.99",
-  "priceOriginal": "",
+  "price": "7.49",
+  "priceOriginal": "14.99",
   "itemBgbcat": "2196 > 2453 > 2738 > 3440 > 5926 > 6020",
   "supplier": "VESPO BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 7,50",
   "url": "/from-pb-with-love-faux-fur-dekbedovertrek/p/6331673",
   "listName": "Lister",
   "brand": "Patty",
@@ -33,5 +33,6 @@
       "name": "Dekbedovertrekken"
     }
   ],
-  "description": "bruin, 140cm x 200cm"
+  "description": "bruin, 140cm x 200cm",
+  "image": "/medias/sys_master/prd-images/hdb/hdb/35129614270494/prd-front-6331673-1_600x600/prd-front-6331673-1-600x600.jpg"
 }

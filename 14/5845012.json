@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dagravit Kids Multivitaminen Minions Gummies",
+  "code": "5845012",
+  "price": "12.28",
+  "priceOriginal": "27.29",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1059761",
+  "mmkId": "1059761",
+  "productGroupId": "517134",
+  "brandType": "A of B merk",
+  "discount": "€ 15,01",
+  "url": "/dagravit-kids-multivitaminen-minions-gummies/p/5845012",
+  "listName": "Lister",
+  "brand": "Dagravit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h88/h1c/44937939812382/prd-front-5845012-1_600x600/prd-front-5845012-1-600x600.jpg"
+}

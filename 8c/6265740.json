@@ -1,0 +1,46 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Alpine PartyPlug Pro Oordoppen",
+  "code": "6265740",
+  "price": "22.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6717 > 6719 > 6718",
+  "supplier": "ALPINE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/alpine-partyplug-pro-oordoppen/p/6265740",
+  "listName": "Lister",
+  "brand": "Alpine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30266948,
+      "name": "Oordoppen"
+    },
+    {
+      "id": 117075229,
+      "name": "Muziek oordoppen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h29/h5d/33465548963870/prd-front-6265740-1_600x600/prd-front-6265740-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Oorsmeer Druppels",
+  "code": "6391341",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2477 > 3088 > 3951",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-oorsmeer-druppels/p/6391341",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 106232180,
+      "name": "Nieuw"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h2b/heb/44254061297694/prd-front-6391341-1_600x600/prd-front-6391341-1-600x600.jpg"
+}

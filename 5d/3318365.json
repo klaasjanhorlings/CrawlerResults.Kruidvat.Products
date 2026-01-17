@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Revitalift Filler Dagcrème",
+  "code": "3318365",
+  "price": "14.8",
+  "priceOriginal": "36.99",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1059760",
+  "mmkId": "1059760",
+  "productGroupId": "515497",
+  "brandType": "A of B merk",
+  "discount": "€ 22,19",
+  "url": "/loreal-paris-revitalift-filler-dagcreme/p/3318365",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Normale en rijpe huid",
+  "image": "/medias/sys_master/prd-images/h13/h11/44313162842142/prd-front-3318365-1_600x600/prd-front-3318365-1-600x600.jpg"
+}

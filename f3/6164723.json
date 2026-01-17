@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Cholesterol met Plantensterolen 1600mg Tabletten",
+  "code": "6164723",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6198 > 6216 > 6258",
+  "supplier": "HERKEL BV",
+  "inStock": "outOfStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-cholesterol-met-plantensterolen-1600mg-tabletten/p/6164723",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266727,
+      "name": "Hart en/of bloedvaten"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h46/hae/34286186332190/prd-front-6164723-1_600x600/prd-front-6164723-1-600x600.jpg"
+}

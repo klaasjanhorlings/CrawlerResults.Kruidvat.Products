@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nicorette Mint 1mg Suikervrije Mondspray",
+  "code": "4967348",
+  "price": "54.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 3940",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nicorette-mint-1mg-suikervrije-mondspray/p/4967348",
+  "listName": "Lister",
+  "brand": "Nicorette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266709,
+      "name": "Stoppen met roken"
+    },
+    {
+      "id": 30266982,
+      "name": "Nicotinesprays"
+    }
+  ],
+  "description": "Geneesmiddel - 2 stuks",
+  "image": "/medias/sys_master/prd-images/hba/h16/45491460571166/temp-prd-front-4967348-1_600x600/temp-prd-front-4967348-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Bright Reveal Dark Spot SPF50+ Tinted Glow UV Fluid",
+  "code": "6236928",
+  "price": "12.0",
+  "priceOriginal": "29.99",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1059760",
+  "mmkId": "1059760",
+  "productGroupId": "515497",
+  "brandType": "A of B merk",
+  "discount": "€ 17,99",
+  "url": "/loreal-paris-bright-reveal-dark-spot-spf50-tinted-glow-uv-fluid/p/6236928",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h59/h50/34535000670238/prd-front-6236928-1_600x600/prd-front-6236928-1-600x600.jpg"
+}

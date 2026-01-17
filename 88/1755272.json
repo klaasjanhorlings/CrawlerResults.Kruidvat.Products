@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Triple Active Nachtcrème",
+  "code": "1755272",
+  "price": "5.95",
+  "priceOriginal": "11.9",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1059661",
+  "mmkId": "1059661",
+  "productGroupId": "514167",
+  "brandType": "A of B merk",
+  "discount": "€ 5,95",
+  "url": "/loreal-paris-triple-active-nachtcreme/p/1755272",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266603,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/hab/hf9/28800701104158/prd-front-1755272-1_600x600/prd-front-1755272-1-600x600.jpg"
+}

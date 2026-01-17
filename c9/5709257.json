@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Rode Gist Rijst & Co-enzym Q10 Tabletten",
+  "code": "5709257",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1059563",
+  "mmkId": "1059563",
+  "productGroupId": "511199",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-rode-gist-rijst-co-enzym-q10-tabletten/p/5709257",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49791688,
+      "name": "Rode gist rijst"
+    }
+  ],
+  "description": "90 stuks",
+  "image": "/medias/prd-front-5709257-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODQwNzJ8aW1hZ2UvanBlZ3xhR1EyTDJnellpOHhOall3T0RFMU56SXpOekkzT0M5d2NtUXRabkp2Ym5RdE5UY3dPVEkxTnkweFh6WXdNSGcyTURBfDhlNzBiOGI3MDk1NWU4OWQzMzM0NzcxMWNjZDdmNTJhYjQwNGJlMmFjMzliYTIxMDA0YTQ2MDdlNDQ5OTE3ZjE"
+}

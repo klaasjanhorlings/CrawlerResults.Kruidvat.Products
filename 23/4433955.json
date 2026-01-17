@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Remescar Wallen & Donkere Kringen Crème",
+  "code": "4433955",
+  "price": "36.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/remescar-wallen-donkere-kringen-creme/p/4433955",
+  "listName": "Lister",
+  "brand": "Remescar",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266604,
+      "name": "Oogcreme"
+    }
+  ],
+  "description": "8ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h67/hb7/34535203995678/prd-front-4433955-1_600x600/prd-front-4433955-1-600x600.jpg"
+}

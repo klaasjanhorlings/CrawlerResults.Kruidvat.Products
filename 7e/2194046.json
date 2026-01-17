@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Hydrate Hyaluron SPF15 Dagcrème",
+  "code": "2194046",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "1028975",
+  "mmkId": "1028975",
+  "productGroupId": "362258",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-hydrate-hyaluron-spf15-dagcreme/p/2194046",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Normale en gecombineerde huid",
+  "image": "/medias/sys_master/prd-images/hd9/hb9/34456787058718/prd-front-2194046-1_600x600/prd-front-2194046-1-600x600.jpg"
+}

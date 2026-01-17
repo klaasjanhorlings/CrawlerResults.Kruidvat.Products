@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bisolvon 2-in-1 Suikervrij",
+  "code": "4552101",
+  "price": "10.49",
+  "priceOriginal": "13.99",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
+  "supplier": "HEALTHYPHARM BV",
+  "inStock": "inStock",
+  "onPromo": "1059332",
+  "mmkId": "1059332",
+  "productGroupId": "518177",
+  "brandType": "A of B merk",
+  "discount": "€ 3,50",
+  "url": "/bisolvon-2-in-1-suikervrij/p/4552101",
+  "listName": "Lister",
+  "brand": "Bisolvon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30266964,
+      "name": "Hoestsiropen"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 120ml",
+  "image": "/medias/sys_master/prd-images/h08/h15/34730759159838/prd-front-4552101-1_600x600/prd-front-4552101-1-600x600.jpg"
+}

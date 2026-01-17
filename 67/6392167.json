@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dagravit Complete Start Drinkbare Multivitaminen Sachets",
+  "code": "6392167",
+  "price": "7.2",
+  "priceOriginal": "15.99",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6204 > 6222 > 6286",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1059761",
+  "mmkId": "1059761",
+  "productGroupId": "517134",
+  "brandType": "A of B merk",
+  "discount": "€ 8,79",
+  "url": "/dagravit-complete-start-drinkbare-multivitaminen-sachets/p/6392167",
+  "listName": "Lister",
+  "brand": "Dagravit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266717,
+      "name": "Weerstand en energie"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/hd5/h9e/44933350457374/prd-front-6392167-1_600x600/prd-front-6392167-1-600x600.jpg"
+}

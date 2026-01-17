@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "CeraVe Balancing Air Foam Reiniger",
+  "code": "6308524",
+  "price": "15.45",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
+  "supplier": "LOREAL NED B.V.",
+  "inStock": "inStock",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cerave-balancing-air-foam-reiniger/p/6308524",
+  "listName": "Lister",
+  "brand": "CeraVe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266916,
+      "name": "Cleanser"
+    }
+  ],
+  "description": "148ml",
+  "image": "/medias/sys_master/prd-images/hfa/h58/34393130860574/prd-front-6308524-1_600x600/prd-front-6308524-1-600x600.jpg"
+}

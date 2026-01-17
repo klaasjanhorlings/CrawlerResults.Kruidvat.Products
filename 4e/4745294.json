@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal CBD 10% CBD Olie",
+  "code": "4745294",
+  "price": "35.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6523 > 6524 > 6525",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1059563",
+  "mmkId": "1059563",
+  "productGroupId": "511199",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-cbd-10-cbd-olie/p/4745294",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266723,
+      "name": "CBD"
+    }
+  ],
+  "description": "",
+  "image": "/medias/prd-front-4745294-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODcwNTd8aW1hZ2UvanBlZ3xhRFkyTDJoak1pOHhOall3TXprME56azFPRE13TWk5d2NtUXRabkp2Ym5RdE5EYzBOVEk1TkMweFh6WXdNSGcyTURBfGNiYTViYWZjNmY5MzEwNWM1NjBiM2Y4MDc4ZjM5MTJiMTRjZWU2MTY0NWM3MjlhNWMwZmVkODQ5MDhiODQ3MTg"
+}

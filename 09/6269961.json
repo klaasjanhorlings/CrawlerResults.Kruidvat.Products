@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Maagzuurremmende Kauwtabletten",
+  "code": "6269961",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3465",
+  "supplier": "HEALTHYPHARM BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-maagzuurremmende-kauwtabletten/p/6269961",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266707,
+      "name": "Maag en darm"
+    },
+    {
+      "id": 30266972,
+      "name": "Maagzuurremmers"
+    }
+  ],
+  "description": "Geneesmiddel - 48 stuks",
+  "image": "/medias/sys_master/prd-images/h27/h9a/33575844380702/prd-front-6269961-1_600x600/prd-front-6269961-1-600x600.jpg"
+}

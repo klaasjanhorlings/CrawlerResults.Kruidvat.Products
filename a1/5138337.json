@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat D-Mannose Blaasontsteking Capsules",
+  "code": "5138337",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6228 > 6597",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-d-mannose-blaasontsteking-capsules/p/5138337",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 52585207,
+      "name": "Blaasontsteking"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/h6e/h23/29570602762270/prd-front-5138337-1_600x600/prd-front-5138337-1-600x600.jpg"
+}

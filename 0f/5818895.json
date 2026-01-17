@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Calcium & Vitamine D3 Kauwtabletten",
+  "code": "5818895",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6283",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-calcium-vitamine-d3-kauwtabletten/p/5818895",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266991,
+      "name": "Vitamine D"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hfd/hf5/33139908771870/prd-front-5818895-1_600x600/prd-front-5818895-1-600x600.jpg"
+}

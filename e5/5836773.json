@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Natures Prostaat Capsules",
+  "code": "5836773",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6202 > 6220 > 6278",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-natures-prostaat-capsules/p/5836773",
+  "listName": "Lister",
+  "brand": "Kruidvat Natures",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49950694,
+      "name": "Natuurlijke supplementen"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/ha8/hc6/33348815978526/prd-front-5836773-1_600x600/prd-front-5836773-1-600x600.jpg"
+}

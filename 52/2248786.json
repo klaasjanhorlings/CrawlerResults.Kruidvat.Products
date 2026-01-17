@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Centrum Family Multivitaminen Tabletten",
+  "code": "2248786",
+  "price": "42.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
+  "supplier": "PFIZER BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/centrum-family-multivitaminen-tabletten/p/2248786",
+  "listName": "Lister",
+  "brand": "Centrum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
+    }
+  ],
+  "description": "180 stuks",
+  "image": "/medias/sys_master/prd-images/hc5/h3b/33005067436062/prd-front-2248786-1_600x600/prd-front-2248786-1-600x600.jpg"
+}

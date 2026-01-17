@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bisolvon 2-In-1 Hoestdrank voor Kinderen",
+  "code": "4227000",
+  "price": "10.79",
+  "priceOriginal": "14.39",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
+  "supplier": "HEALTHYPHARM BV",
+  "inStock": "inStock",
+  "onPromo": "1059332",
+  "mmkId": "1059332",
+  "productGroupId": "518177",
+  "brandType": "A of B merk",
+  "discount": "€ 3,60",
+  "url": "/bisolvon-2-in-1-hoestdrank-voor-kinderen/p/4227000",
+  "listName": "Lister",
+  "brand": "Bisolvon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30266958,
+      "name": "Hoestdrank"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 180g",
+  "image": "/medias/sys_master/prd-images/h63/h61/34689697906718/prd-front-4227000-1_600x600/prd-front-4227000-1-600x600.jpg"
+}

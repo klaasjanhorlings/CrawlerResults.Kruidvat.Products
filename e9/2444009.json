@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Cinnarizine 25mg Tabletten",
+  "code": "2444009",
+  "price": "4.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2642 > 3327 > 4231",
+  "supplier": "MAE PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-cinnarizine-25mg-tabletten/p/2444009",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266704,
+      "name": "Reisziekte"
+    }
+  ],
+  "description": "Geneesmiddel - 20 stuks"
+}

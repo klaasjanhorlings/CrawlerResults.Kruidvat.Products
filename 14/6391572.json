@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medisana NI 200 Neusdouche",
+  "code": "6391572",
+  "price": "34.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6677",
+  "supplier": "MEDISANA BENELUX NV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medisana-ni-200-neusdouche/p/6391572",
+  "listName": "Lister",
+  "brand": "Medisana",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 49313533,
+      "name": "Neusreiniger"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h44/h1a/44274983108638/prd-front-6391572-1_600x600/prd-front-6391572-1-600x600.jpg"
+}

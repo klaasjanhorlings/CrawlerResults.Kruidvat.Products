@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Biodermal Anti-Age Oog & Lipcountourcrème",
+  "code": "6134903",
+  "price": "21.99",
+  "priceOriginal": "43.99",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "1059599",
+  "mmkId": "1059599",
+  "productGroupId": "512952",
+  "brandType": "A of B merk",
+  "discount": "€ 22,00",
+  "url": "/biodermal-anti-age-oog-lipcountourcreme/p/6134903",
+  "listName": "Lister",
+  "brand": "Biodermal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266604,
+      "name": "Oogcreme"
+    }
+  ],
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h0b/h86/34532064985118/prd-front-6134903-1_600x600/prd-front-6134903-1-600x600.jpg"
+}

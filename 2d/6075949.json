@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Magnesium Tauraat Capsules",
+  "code": "6075949",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6200 > 6218 > 6268",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1059563",
+  "mmkId": "1059563",
+  "productGroupId": "511199",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-magnesium-tauraat-capsules/p/6075949",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001842,
+      "name": "Magnesium"
+    }
+  ],
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h27/hf9/30650241482782/prd-front-6075949-1_600x600/prd-front-6075949-1-600x600.jpg"
+}

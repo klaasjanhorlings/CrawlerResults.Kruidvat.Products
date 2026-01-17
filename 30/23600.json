@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Daro Trekzalf",
+  "code": "23600",
+  "price": "7.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/daro-trekzalf/p/23600",
+  "listName": "Lister",
+  "brand": "Daro",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 49947031,
+      "name": "Speciale huidbehandeling"
+    }
+  ],
+  "description": "Geneesmiddel - 28g",
+  "image": "/medias/sys_master/prd-images/h0b/h11/27803156545566/prd-front-23600-1_600x600/prd-front-23600-1-600x600.jpg"
+}

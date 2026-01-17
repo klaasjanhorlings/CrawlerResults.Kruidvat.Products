@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Haar Volume Capsules",
+  "code": "6402583",
+  "price": "49.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6193 > 6211 > 6233",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1059563",
+  "mmkId": "1059563",
+  "productGroupId": "511199",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-haar-volume-capsules/p/6402583",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 106232180,
+      "name": "Nieuw"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/he1/hc5/44448620085278/prd-front-6402583-1_600x600/prd-front-6402583-1-600x600.jpg"
+}

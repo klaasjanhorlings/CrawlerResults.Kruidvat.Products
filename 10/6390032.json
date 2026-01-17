@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Multi-Gyn 2-in-1 ActiGel",
+  "code": "6390032",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3100 > 3963",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/multi-gyn-2-in-1-actigel/p/6390032",
+  "listName": "Lister",
+  "brand": "Multi-Gyn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266702,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 30266957,
+      "name": "Bacteriële vaginose"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 50ml",
+  "image": "/medias/sys_master/prd-images/h3a/hef/44276370276382/prd-front-6390032-1_600x600/prd-front-6390032-1-600x600.jpg"
+}

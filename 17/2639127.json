@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Ovulatietest",
+  "code": "2639127",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2553 > 3187 > 4122",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-ovulatietest/p/2639127",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266710,
+      "name": "Zelftesten"
+    },
+    {
+      "id": 30266985,
+      "name": "Ovulatietesten"
+    }
+  ],
+  "description": "7 stuks",
+  "image": "/medias/sys_master/prd-images/h83/h1f/34595105570846/prd-front-2639127-1_600x600/prd-front-2639127-1-600x600.jpg"
+}

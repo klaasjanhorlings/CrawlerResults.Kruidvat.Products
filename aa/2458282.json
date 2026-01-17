@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Roter Vitamine C 70 mg Suikervrije Kauwtabletten",
+  "code": "2458282",
+  "price": "5.62",
+  "priceOriginal": "12.49",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1059762",
+  "mmkId": "1059762",
+  "productGroupId": "517135",
+  "brandType": "A of B merk",
+  "discount": "€ 6,87",
+  "url": "/roter-vitamine-c-70-mg-suikervrije-kauwtabletten/p/2458282",
+  "listName": "Lister",
+  "brand": "Roter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266990,
+      "name": "Vitamine C"
+    }
+  ],
+  "description": "300 stuks",
+  "image": "/medias/sys_master/prd-images/hfa/h76/44923277180958/prd-front-2458282-1_600x600/prd-front-2458282-1-600x600.jpg"
+}

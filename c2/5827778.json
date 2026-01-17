@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Expert Hyaluron Nachtcrème",
+  "code": "5827778",
+  "price": "16.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "1059603",
+  "mmkId": "1059603",
+  "productGroupId": "513107",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-expert-hyaluron-nachtcreme/p/5827778",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266603,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/prd-front-5827778-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTMyOTAwfGltYWdlL2pwZWd8YUdabEwyZ3hPQzh5TmpVNU9EUXhOVGt5TlRJM09DOXdjbVF0Wm5KdmJuUXROVGd5TnpjM09DMHhYell3TUhnMk1EQXw3MGY3OGNmNGJlN2E3NmE5ZTUwMjRhNzQ0N2I4ZWM2ZDQwM2UyODVjM2JiMzU2ZTg5MTExNDkxN2JkNzM0ZWM3"
+}

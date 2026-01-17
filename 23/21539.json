@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Aspirine C 400mg Bruistabletten",
+  "code": "21539",
+  "price": "5.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2758 > 3927",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/aspirine-c-400mg-bruistabletten/p/21539",
+  "listName": "Lister",
+  "brand": "Aspirine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266706,
+      "name": "Pijn"
+    },
+    {
+      "id": 30266968,
+      "name": "Acetylsalicylzuur"
+    }
+  ],
+  "description": "Geneesmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h19/h7e/44029568057374/prd-front-21539-1_600x600/prd-front-21539-1-600x600.jpg"
+}

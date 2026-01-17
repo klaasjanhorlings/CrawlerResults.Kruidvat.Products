@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Broomhexine 8mg/5ml Drank",
+  "code": "4639475",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
+  "supplier": "MAE PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-broomhexine-8mg/5ml-drank/p/4639475",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30266958,
+      "name": "Hoestdrank"
+    }
+  ],
+  "description": "Geneesmiddel - 150ml",
+  "image": "/medias/sys_master/prd-images/hbe/h7f/34603283709982/prd-front-4639475-1_600x600/prd-front-4639475-1-600x600.jpg"
+}

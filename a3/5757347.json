@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Derma Skin Clear Dagelijks Verzorgende Nachtexfoliant",
+  "code": "5757347",
+  "price": "11.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 5665",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1059544",
+  "mmkId": "1059544",
+  "productGroupId": "508983",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-derma-skin-clear-dagelijks-verzorgende-nachtexfoliant/p/5757347",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 84945977,
+      "name": "Exfoliant"
+    }
+  ],
+  "description": "40ml - Onzuivere huid",
+  "image": "/medias/sys_master/prd-images/h1b/h7c/44916959969310/prd-front-5757347-1_600x600/prd-front-5757347-1-600x600.jpg"
+}

@@ -25,17 +25,18 @@
       "name": "Beauty"
     },
     {
-      "id": 30265987,
-      "name": "Make-up"
+      "id": 30265991,
+      "name": "Skincare"
     },
     {
-      "id": 87391909,
-      "name": "Lipmake-up"
+      "id": 30266607,
+      "name": "Gezichtsmaskers"
     },
     {
-      "id": 87395837,
-      "name": "Lip mask"
+      "id": 87374636,
+      "name": "Lipmaskers"
     }
   ],
-  "description": "4.2ml"
+  "description": "4.2ml",
+  "image": "/medias/sys_master/prd-images/h51/h19/34869618999326/prd-front-6318485-1_600x600/prd-front-6318485-1-600x600.jpg"
 }

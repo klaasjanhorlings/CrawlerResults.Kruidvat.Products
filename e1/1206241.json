@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "E.J. Swaab Zinkolie",
+  "code": "1206241",
+  "price": "12.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ej-swaab-zinkolie/p/1206241",
+  "listName": "Lister",
+  "brand": "Dr. E.J. Swaab",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30266943,
+      "name": "Huidirritatie"
+    }
+  ],
+  "description": "Geneesmiddel - 100g",
+  "image": "/medias/sys_master/prd-images/he9/h89/28631114907678/prd-front-1206241-1_600x600/prd-front-1206241-1-600x600.jpg"
+}

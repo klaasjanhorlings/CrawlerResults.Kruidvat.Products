@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier SkinActive Micellair Reinigingswater met Rozenwater",
+  "code": "5081546",
+  "price": "4.99",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1059664",
+  "mmkId": "1059664",
+  "productGroupId": "514173",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/garnier-skinactive-micellair-reinigingswater-met-rozenwater/p/5081546",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266913,
+      "name": "Micellair water"
+    }
+  ],
+  "description": "400ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/hbf/h9c/35155848167454/prd-front-5081546-1_600x600/prd-front-5081546-1-600x600.jpg"
+}

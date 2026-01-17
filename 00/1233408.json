@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Priorin Capsules",
+  "code": "1233408",
+  "price": "37.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6193 > 6211 > 6233",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/priorin-capsules/p/1233408",
+  "listName": "Lister",
+  "brand": "Priorin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266719,
+      "name": "Beautysupplementen"
+    }
+  ],
+  "description": "60 stuks"
+}

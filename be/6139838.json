@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Derma Poriënzuiverende Reinigingsgel",
+  "code": "6139838",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5663 > 6702",
+  "supplier": "MARION PRIVATE LABEL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-derma-porienzuiverende-reinigingsgel/p/6139838",
+  "listName": "Lister",
+  "brand": "KRUIDVAT DERMA",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266915,
+      "name": "Reinigingsgel"
+    }
+  ],
+  "description": "250ml - Onzuivere huid",
+  "image": "/medias/sys_master/prd-images/h34/h75/34536820473886/prd-front-6139838-1_600x600/prd-front-6139838-1-600x600.jpg"
+}

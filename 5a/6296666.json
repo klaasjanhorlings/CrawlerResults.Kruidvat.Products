@@ -1,0 +1,46 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pluggerz True Tone Oordoppen",
+  "code": "6296666",
+  "price": "20.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6717 > 6719 > 6718",
+  "supplier": "COMFOOR BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pluggerz-true-tone-oordoppen/p/6296666",
+  "listName": "Lister",
+  "brand": "Pluggerz",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30266948,
+      "name": "Oordoppen"
+    },
+    {
+      "id": 117075229,
+      "name": "Muziek oordoppen"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/hd0/h36/34756872405022/prd-front-6296666-1_600x600/prd-front-6296666-1-600x600.jpg"
+}

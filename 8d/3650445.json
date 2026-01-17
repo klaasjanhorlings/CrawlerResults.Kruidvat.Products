@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Age Perfect Golden Age Anti-Veroudering Nachtcrème",
+  "code": "3650445",
+  "price": "16.99",
+  "priceOriginal": "33.99",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "1059661",
+  "mmkId": "1059661",
+  "productGroupId": "514167",
+  "brandType": "A of B merk",
+  "discount": "€ 17,00",
+  "url": "/loreal-paris-age-perfect-golden-age-anti-veroudering-nachtcreme/p/3650445",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266603,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml - Normale en rijpe huid",
+  "image": "/medias/sys_master/prd-images/h48/h33/35155845546014/prd-front-3650445-1_600x600/prd-front-3650445-1-600x600.jpg"
+}

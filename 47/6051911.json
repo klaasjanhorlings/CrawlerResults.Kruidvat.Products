@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Pore Refining Niacinamide & Coconutwater Sheet Mask",
+  "code": "6051911",
+  "price": "1.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "FEMIA COSMETIC",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-pore-refining-niacinamide-coconutwater-sheet-mask/p/6051911",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266607,
+      "name": "Gezichtsmaskers"
+    },
+    {
+      "id": 87374839,
+      "name": "Sheet maskers"
+    }
+  ],
+  "description": "Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hf9/hd1/30331271118878/prd-front-6051911-1_600x600/prd-front-6051911-1-600x600.jpg"
+}

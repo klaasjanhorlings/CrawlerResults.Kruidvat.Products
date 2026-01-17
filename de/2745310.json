@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Otrivin Zoutoplossing Plus Eucalyptus Neusspray",
+  "code": "2745310",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/otrivin-zoutoplossing-plus-eucalyptus-neusspray/p/2745310",
+  "listName": "Lister",
+  "brand": "Otrivin",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30266959,
+      "name": "Neusspray"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 20ml",
+  "image": "/medias/sys_master/prd-images/h68/heb/45441865187358/temp-prd-front-2745310-1_600x600/temp-prd-front-2745310-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nicorette Nicotine Freshmint 4mg Suikervrije Zuigtabletten",
+  "code": "5874846",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2309 > 2787 > 3940",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nicorette-nicotine-freshmint-4mg-suikervrije-zuigtabletten/p/5874846",
+  "listName": "Lister",
+  "brand": "Nicorette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266709,
+      "name": "Stoppen met roken"
+    },
+    {
+      "id": 30266981,
+      "name": "Nicotinezuigtabletten"
+    }
+  ],
+  "description": "Geneesmiddel - 2 x 40 stuks",
+  "image": "/medias/sys_master/prd-images/h07/hcd/45470276354078/temp-prd-front-5874846-1_600x600/temp-prd-front-5874846-1-600x600.jpg"
+}

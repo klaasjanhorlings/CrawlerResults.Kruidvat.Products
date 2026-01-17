@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Vitamine C-1000 Tabletten",
+  "code": "3932286",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1059673",
+  "mmkId": "1059673",
+  "productGroupId": "514726",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-vitamine-c-1000-tabletten/p/3932286",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266990,
+      "name": "Vitamine C"
+    }
+  ],
+  "description": "200 stuks",
+  "image": "/medias/sys_master/prd-images/h32/h64/33116496887838/prd-front-3932286-1_600x600/prd-front-3932286-1-600x600.jpg"
+}

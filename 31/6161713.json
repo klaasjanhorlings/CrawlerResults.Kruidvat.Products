@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fluimucil Acetylcysteïne 600mg Bruistabletten",
+  "code": "6161713",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3935",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/fluimucil-acetylcysteine-600mg-bruistabletten/p/6161713",
+  "listName": "Lister",
+  "brand": "Fluimucil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 48656825,
+      "name": "Hoesttabletten"
+    }
+  ],
+  "description": "Geneesmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/hde/h88/31989492514846/prd-front-6161713-1_600x600/prd-front-6161713-1-600x600.jpg"
+}

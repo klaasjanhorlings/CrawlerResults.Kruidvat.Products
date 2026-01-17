@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dagravit Vitamine B Becoforte Dragees",
+  "code": "21730",
+  "price": "6.88",
+  "priceOriginal": "15.29",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1059761",
+  "mmkId": "1059761",
+  "productGroupId": "517134",
+  "brandType": "A of B merk",
+  "discount": "€ 8,41",
+  "url": "/dagravit-vitamine-b-becoforte-dragees/p/21730",
+  "listName": "Lister",
+  "brand": "Dagravit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266989,
+      "name": "Vitamine B"
+    }
+  ],
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/h1a/h74/44916310573086/prd-front-21730-1_600x600/prd-front-21730-1-600x600.jpg"
+}

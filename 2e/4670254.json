@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Davitamon Multi Vrouw Tabletten",
+  "code": "4670254",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6208 > 6226 > 6308",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "inStock",
+  "onPromo": "1059571",
+  "mmkId": "1059571",
+  "productGroupId": "511417",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/davitamon-multi-vrouw-tabletten/p/4670254",
+  "listName": "Lister",
+  "brand": "Davitamon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266717,
+      "name": "Weerstand en energie"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hff/hbe/31460324737054/prd-front-4670254-1_600x600/prd-front-4670254-1-600x600.jpg"
+}

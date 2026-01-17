@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Eczeem Psoriasis Shampoo",
+  "code": "4552136",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1059563",
+  "mmkId": "1059563",
+  "productGroupId": "511199",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-eczeem-psoriasis-shampoo/p/4552136",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30266938,
+      "name": "Eczeemcreme"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 200ml",
+  "image": "/medias/sys_master/prd-images/h86/h3b/44274506268702/prd-front-4552136-1_600x600/prd-front-4552136-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Q10 Energy Anti-Rimpel Oogcontourcrème",
+  "code": "6126160",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1059604",
+  "mmkId": "1059604",
+  "productGroupId": "513119",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-q10-energy-anti-rimpel-oogcontourcreme/p/6126160",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266604,
+      "name": "Oogcreme"
+    }
+  ],
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/ha5/h38/34522724958238/prd-front-6126160-1_600x600/prd-front-6126160-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Hyaluron Gezichtsreinigingdoekjes",
+  "code": "6293418",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3545 > 6702",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1016191",
+  "mmkId": "1016191",
+  "productGroupId": "9004942",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-hyaluron-gezichtsreinigingdoekjes/p/6293418",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266912,
+      "name": "Reinigingsdoekjes"
+    }
+  ],
+  "description": "25 stuks",
+  "image": "/medias/sys_master/prd-images/hb8/h56/34394985988126/prd-front-6293418-1_600x600/prd-front-6293418-1-600x600.jpg"
+}

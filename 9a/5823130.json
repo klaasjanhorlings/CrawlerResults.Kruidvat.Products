@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6697 > 2835",
   "supplier": "COSMOGROUP BRANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059686",
   "mmkId": "1059686",
   "productGroupId": "515081",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "250g"
+  "description": "250g",
+  "image": "/medias/sys_master/prd-images/h1b/h50/31029296267294/prd-front-5823130-1_600x600/prd-front-5823130-1-600x600.jpg"
 }

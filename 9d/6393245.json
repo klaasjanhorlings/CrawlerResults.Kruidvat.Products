@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dermatix Siliconengel bij Littekens",
+  "code": "6393245",
+  "price": "35.17",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 3956",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dermatix-siliconengel-bij-littekens/p/6393245",
+  "listName": "Lister",
+  "brand": "Dermatix",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 106232180,
+      "name": "Nieuw"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 15g",
+  "image": "/medias/sys_master/prd-images/hde/he1/44274702155806/prd-front-6393245-1_600x600/prd-front-6393245-1-600x600.jpg"
+}

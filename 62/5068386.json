@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "UNIVERSAL COSMETICS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "12ml"
+  "description": "12ml",
+  "image": "/medias/sys_master/prd-images/h9e/h64/27575771856926/prd-front-5068386-1_600x600/prd-front-5068386-1-600x600.jpg"
 }

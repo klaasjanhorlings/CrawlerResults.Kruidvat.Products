@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Luminous630 Anti-spot SPF30 03 Dark 3-in-1 CC Crème",
+  "code": "6085588",
+  "price": "17.2",
+  "priceOriginal": "42.99",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1059760",
+  "mmkId": "1059760",
+  "productGroupId": "515497",
+  "brandType": "A of B merk",
+  "discount": "€ 25,79",
+  "url": "/nivea-luminous630-anti-spot-spf30-03-dark-3-in-1-cc-creme/p/6085588",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266581,
+      "name": "CC cream"
+    }
+  ],
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h14/h0f/44925622779934/prd-front-6085588-1_600x600/prd-front-6085588-1-600x600.jpg"
+}

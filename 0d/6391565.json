@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Medisana 54590 IN 515 Portable Ultrasonic Nebulizer",
+  "code": "6391565",
+  "price": "34.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6677",
+  "supplier": "MEDISANA BENELUX NV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/medisana-54590-in-515-portable-ultrasonic-nebulizer/p/6391565",
+  "listName": "Lister",
+  "brand": "Medisana",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 67784836,
+      "name": "Gezondheidsapparatuur"
+    },
+    {
+      "id": 67785760,
+      "name": "Inhalator"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcb/hfd/44933354127390/prd-front-6391565-1_600x600/prd-front-6391565-1-600x600.jpg"
+}

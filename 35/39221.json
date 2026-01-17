@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Supradyn Complex Forte Bruistabletten",
+  "code": "39221",
+  "price": "25.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6285",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/supradyn-complex-forte-bruistabletten/p/39221",
+  "listName": "Lister",
+  "brand": "Supradyn",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
+    }
+  ],
+  "description": "45 stuks",
+  "image": "/medias/sys_master/prd-images/hf2/hb1/32494438383646/prd-front-39221-1_600x600/prd-front-39221-1-600x600.jpg"
+}

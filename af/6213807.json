@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Cellular Expert Filler Anti-Uv Daily Fluid",
+  "code": "6213807",
+  "price": "12.0",
+  "priceOriginal": "29.99",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1059760",
+  "mmkId": "1059760",
+  "productGroupId": "515497",
+  "brandType": "A of B merk",
+  "discount": "€ 17,99",
+  "url": "/nivea-cellular-expert-filler-anti-uv-daily-fluid/p/6213807",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hf9/h08/44918883254302/prd-front-6213807-1_600x600/prd-front-6213807-1-600x600.jpg"
+}

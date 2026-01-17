@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Multi Gummies",
+  "code": "3439486",
+  "price": "5.0",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1059670",
+  "mmkId": "1059670",
+  "productGroupId": "514720",
+  "brandType": "Eigen merk",
+  "discount": "€ 2,99",
+  "url": "/kruidvat-multi-gummies/p/3439486",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267462,
+      "name": "Kindervitamines"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h63/hed/34580464304158/prd-front-3439486-1_600x600/prd-front-3439486-1-600x600.jpg"
+}

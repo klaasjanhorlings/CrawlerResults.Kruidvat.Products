@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 5% CBD Druppels",
+  "code": "4401090",
+  "price": "19.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6523 > 6524 > 6525",
+  "supplier": "JACOB HOOY&CO BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-5-cbd-druppels/p/4401090",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266723,
+      "name": "CBD"
+    }
+  ],
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h64/hd5/28049863049246/prd-front-4401090-1_600x600/prd-front-4401090-1-600x600.jpg"
+}

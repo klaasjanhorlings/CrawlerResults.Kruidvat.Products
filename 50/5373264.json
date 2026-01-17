@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olay Collagen Peptide Hydraterende Dagcrème",
+  "code": "5373264",
+  "price": "16.8",
+  "priceOriginal": "41.99",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "1059760",
+  "mmkId": "1059760",
+  "productGroupId": "515497",
+  "brandType": "A of B merk",
+  "discount": "€ 25,19",
+  "url": "/olay-collagen-peptide-hydraterende-dagcreme/p/5373264",
+  "listName": "Lister",
+  "brand": "Olay",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h6d/h7b/44847571533854/prd-front-5373264-1_600x600/prd-front-5373264-1-600x600.jpg"
+}

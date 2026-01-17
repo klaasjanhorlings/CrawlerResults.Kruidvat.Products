@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Biodance Hydro Cera-Nol Real Deep Mask",
+  "code": "6388254",
+  "price": "5.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "outOfStock",
+  "onPromo": "1059159",
+  "mmkId": "1059159",
+  "productGroupId": "508195",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/biodance-hydro-cera-nol-real-deep-mask/p/6388254",
+  "listName": "Lister",
+  "brand": "Biodance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266607,
+      "name": "Gezichtsmaskers"
+    },
+    {
+      "id": 87374839,
+      "name": "Sheet maskers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2f/h81/45028731453470/prd-front-6388254-1_600x600/prd-front-6388254-1-600x600.jpg"
+}

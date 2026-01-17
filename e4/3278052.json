@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Centrum Women 50+ Multivitaminen Tabletten",
+  "code": "3278052",
+  "price": "16.49",
+  "priceOriginal": "32.99",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
+  "supplier": "HALEON (NOVARTIS)",
+  "inStock": "inStock",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 16,50",
+  "url": "/centrum-women-50-multivitaminen-tabletten/p/3278052",
+  "listName": "Lister",
+  "brand": "Centrum",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
+    }
+  ],
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/hd2/hfd/34680503304222/prd-front-3278052-1_600x600/prd-front-3278052-1-600x600.jpg"
+}

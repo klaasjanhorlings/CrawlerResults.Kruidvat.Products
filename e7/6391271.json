@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Aambeiengel",
+  "code": "6391271",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2500 > 3102 > 4104",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1059563",
+  "mmkId": "1059563",
+  "productGroupId": "511199",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-aambeiengel/p/6391271",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266702,
+      "name": "Intieme ongemakken"
+    },
+    {
+      "id": 30266955,
+      "name": "Aambeien"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 40ml",
+  "image": "/medias/sys_master/prd-images/h53/h1e/44276369555486/prd-front-6391271-1_600x600/prd-front-6391271-1-600x600.jpg"
+}

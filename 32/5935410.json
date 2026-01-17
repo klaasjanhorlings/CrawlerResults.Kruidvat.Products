@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "CeraVe Retinol Serum Tegen Post-Acne Vlekjes",
+  "code": "5935410",
+  "price": "23.25",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
+  "supplier": "LOREAL NED B.V.",
+  "inStock": "inStock",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cerave-retinol-serum-tegen-post-acne-vlekjes/p/5935410",
+  "listName": "Lister",
+  "brand": "CeraVe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h12/hc8/44528215719966/prd-front-5935410-1_600x600/prd-front-5935410-1-600x600.jpg"
+}

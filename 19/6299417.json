@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Q10 Anti-Rimpel Expert SPF50 Anti-Uv Fluïde",
+  "code": "6299417",
+  "price": "12.0",
+  "priceOriginal": "29.99",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1059760",
+  "mmkId": "1059760",
+  "productGroupId": "515497",
+  "brandType": "A of B merk",
+  "discount": "€ 17,99",
+  "url": "/nivea-q10-anti-rimpel-expert-spf50-anti-uv-fluide/p/6299417",
+  "listName": "Lister",
+  "brand": "Nivea Skincare",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
+    }
+  ],
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/hbc/h70/45026581512222/prd-front-6299417-1_600x600/prd-front-6299417-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Perskindol Heat Gel",
+  "code": "5141228",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/perskindol-heat-gel/p/5141228",
+  "listName": "Lister",
+  "brand": "Perskindol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266708,
+      "name": "Spieren en gewrichten"
+    },
+    {
+      "id": 30266978,
+      "name": "Spierwrijfmiddelen"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h22/hf8/34375353958430/prd-front-5141228-1_600x600/prd-front-5141228-1-600x600.jpg"
+}

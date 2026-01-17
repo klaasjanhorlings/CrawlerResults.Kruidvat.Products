@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier PureActive Pimple Patches",
+  "code": "6236949",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-pureactive-pimple-patches/p/6236949",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 81073358,
+      "name": "Pimple patches"
+    }
+  ],
+  "description": "22 stuks",
+  "image": "/medias/sys_master/prd-images/h80/h58/35136451805214/prd-front-6236949-1_600x600/prd-front-6236949-1-600x600.jpg"
+}

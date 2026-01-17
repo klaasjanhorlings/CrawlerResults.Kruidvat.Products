@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 10mg CBD Capsules",
+  "code": "4342234",
+  "price": "16.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6523 > 6524 > 6525",
+  "supplier": "JACOB HOOY&CO BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-10mg-cbd-capsules/p/4342234",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266723,
+      "name": "CBD"
+    }
+  ],
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h49/h42/28506963116062/prd-front-4342234-1_600x600/prd-front-4342234-1-600x600.jpg"
+}

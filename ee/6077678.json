@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Duo Maagtabletten met Muntsmaak",
+  "code": "6077678",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3465",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-duo-maagtabletten-met-muntsmaak/p/6077678",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266707,
+      "name": "Maag en darm"
+    },
+    {
+      "id": 30266972,
+      "name": "Maagzuurremmers"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 48 stuks",
+  "image": "/medias/sys_master/prd-images/h23/h21/34595546267678/prd-front-6077678-1_600x600/prd-front-6077678-1-600x600.jpg"
+}

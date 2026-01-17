@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Permetrine 50mg/g Gel",
+  "code": "5954898",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "MAE PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-permetrine-50mg/g-gel/p/5954898",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 51356214,
+      "name": "Schurft"
+    }
+  ],
+  "description": "Geneesmiddel - 30g",
+  "image": "/medias/sys_master/prd-images/h04/h96/34595594666014/prd-front-5954898-1_600x600/prd-front-5954898-1-600x600.jpg"
+}

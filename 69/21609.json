@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "A.Vogel Echinaforce Druppels",
+  "code": "21609",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6199 > 6217 > 6590",
+  "supplier": "A.VOGEL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/avogel-echinaforce-druppels/p/21609",
+  "listName": "Lister",
+  "brand": "A.Vogel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266712,
+      "name": "Natuurlijke zelfzorgmiddelen"
+    }
+  ],
+  "description": "Geneesmiddel - 50ml",
+  "image": "/medias/sys_master/prd-images/he8/he3/32568091639838/prd-front-21609-1_600x600/prd-front-21609-1-600x600.jpg"
+}

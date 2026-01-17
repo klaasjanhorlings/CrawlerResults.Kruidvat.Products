@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Villa Volance Geweven Hoeslaken",
   "code": "6369914",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "2.99",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2196 > 2453 > 2738 > 5803 > 5926 > 6020",
   "supplier": "VESPO BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/villa-volance-geweven-hoeslaken/p/6369914",
   "listName": "Lister",
   "brand": "Villa Volance",
@@ -33,6 +33,5 @@
       "name": "Hoeslakens"
     }
   ],
-  "description": "olijfgroen, 90cm x 200cm",
-  "image": "/medias/sys_master/prd-images/had/ha8/44700337668126/prd-front-6369914-1_600x600/prd-front-6369914-1-600x600.jpg"
+  "description": "olijfgroen, 90cm x 200cm"
 }

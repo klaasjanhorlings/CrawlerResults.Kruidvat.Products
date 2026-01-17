@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Hydro Boost SPF25 Aqua Fluid",
+  "code": "5882651",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutrogena-hydro-boost-spf25-aqua-fluid/p/5882651",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30266606,
+      "name": "Dermacare"
+    }
+  ],
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h1c/hea/44111279292446/prd-front-5882651-1_600x600/prd-front-5882651-1-600x600.jpg"
+}

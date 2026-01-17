@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clearblue Geavanceerde Digitale Ovulatietest",
+  "code": "6114155",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2553 > 4300 > 4301",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1058514",
+  "mmkId": "1058514",
+  "productGroupId": "521524",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/clearblue-geavanceerde-digitale-ovulatietest/p/6114155",
+  "listName": "Lister",
+  "brand": "Clearblue",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266710,
+      "name": "Zelftesten"
+    },
+    {
+      "id": 30266985,
+      "name": "Ovulatietesten"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/hbd/h2f/44188896722974/prd-front-6114155-1_600x600/prd-front-6114155-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dentinox Zachte Tandverzorging Gel",
+  "code": "6309175",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
+  "supplier": "THEOTCLAB HEALTHCARE BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dentinox-zachte-tandverzorging-gel/p/6309175",
+  "listName": "Lister",
+  "brand": "Dentinox",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266700,
+      "name": "Oor en mond"
+    },
+    {
+      "id": 30266949,
+      "name": "Doorkomende tandjes"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h28/h4c/34293062172702/prd-front-6309175-1_600x600/prd-front-6309175-1-600x600.jpg"
+}

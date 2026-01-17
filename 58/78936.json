@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Diadermine Lift+ Nourrissant Nachtcrème",
+  "code": "78936",
+  "price": "18.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "1059603",
+  "mmkId": "1059603",
+  "productGroupId": "513107",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/diadermine-lift-nourrissant-nachtcreme/p/78936",
+  "listName": "Lister",
+  "brand": "Diadermine",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266603,
+      "name": "Nachtcreme"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hfb/h5c/34488942428190/prd-front-78936-1_600x600/prd-front-78936-1-600x600.jpg"
+}

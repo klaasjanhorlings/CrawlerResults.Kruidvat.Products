@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Cleansing Oil To Milk",
+  "code": "6284353",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-cleansing-oil-to-milk/p/6284353",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 50677212,
+      "name": "Reinigingsolie"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h28/hc7/33930331193374/prd-front-6284353-1_600x600/prd-front-6284353-1-600x600.jpg"
+}

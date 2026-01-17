@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Pigmentatie Van De Huid Gummies",
+  "code": "6402597",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6193 > 6211 > 6233",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1059563",
+  "mmkId": "1059563",
+  "productGroupId": "511199",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-pigmentatie-van-de-huid-gummies/p/6402597",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 106232180,
+      "name": "Nieuw"
+    }
+  ],
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/h56/h50/44448920567838/prd-front-6402597-1_600x600/prd-front-6402597-1-600x600.jpg"
+}

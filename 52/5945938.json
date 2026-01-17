@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Amylmetacresol + Lidocaïne Keelpijn Zuigtabletten",
+  "code": "5945938",
+  "price": "5.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 3469",
+  "supplier": "MAE PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-amylmetacresol-lidocaine-keelpijn-zuigtabletten/p/5945938",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30266961,
+      "name": "Keelpastilles"
+    }
+  ],
+  "description": "Geneesmiddel - 24 stuks",
+  "image": "/medias/sys_master/prd-images/h3c/hd9/34599073120286/prd-front-5945938-1_600x600/prd-front-5945938-1-600x600.jpg"
+}

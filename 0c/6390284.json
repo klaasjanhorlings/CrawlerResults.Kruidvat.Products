@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bepanthen SPF 25 Repair Crème",
+  "code": "6390284",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "BAYER BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bepanthen-spf-25-repair-creme/p/6390284",
+  "listName": "Lister",
+  "brand": "Bepanthen",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 106232180,
+      "name": "Nieuw"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/he9/h5c/44273857953822/prd-front-6390284-1_600x600/prd-front-6390284-1-600x600.jpg"
+}

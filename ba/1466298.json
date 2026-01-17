@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Q10 100 mg Capsules met Vitamine B1",
+  "code": "1466298",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6197 > 6215 > 6253",
+  "supplier": "COBECO PHARMA WHOLESALE",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-q10-100-mg-capsules-met-vitamine-b1/p/1466298",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266717,
+      "name": "Weerstand en energie"
+    }
+  ],
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/hba/hba/33350959988766/prd-front-1466298-1_600x600/prd-front-1466298-1-600x600.jpg"
+}

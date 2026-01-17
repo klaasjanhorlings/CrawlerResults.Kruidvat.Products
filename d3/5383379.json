@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "A.Vogel Pollinosan Hooikoorts Neusspray",
+  "code": "5383379",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6529 > 2756 > 4146",
+  "supplier": "A.VOGEL",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/avogel-pollinosan-hooikoorts-neusspray/p/5383379",
+  "listName": "Lister",
+  "brand": "A.Vogel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266712,
+      "name": "Natuurlijke zelfzorgmiddelen"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 20ml",
+  "image": "/medias/sys_master/prd-images/h35/h68/33209751994398/prd-front-5383379-1_600x600/prd-front-5383379-1-600x600.jpg"
+}

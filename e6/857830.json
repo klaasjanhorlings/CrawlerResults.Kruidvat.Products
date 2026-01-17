@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Levertraan Capsules",
+  "code": "857830",
+  "price": "5.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-levertraan-capsules/p/857830",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266717,
+      "name": "Weerstand en energie"
+    }
+  ],
+  "description": "200 stuks",
+  "image": "/medias/sys_master/prd-images/h3d/h45/33322407100446/prd-front-857830-1_600x600/prd-front-857830-1-600x600.jpg"
+}

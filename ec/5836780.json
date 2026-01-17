@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Natures Magnesium Complex",
+  "code": "5836780",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6200 > 6218 > 6268",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1059672",
+  "mmkId": "1059672",
+  "productGroupId": "514724",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-natures-magnesium-complex/p/5836780",
+  "listName": "Lister",
+  "brand": "Kruidvat Natures",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49950694,
+      "name": "Natuurlijke supplementen"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h50/h1e/33347892936734/prd-front-5836780-1_600x600/prd-front-5836780-1-600x600.jpg"
+}

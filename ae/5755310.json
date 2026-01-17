@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Drs Leenarts Beschermende Barrièrecrème",
+  "code": "5755310",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6760 > 6762 > 6761 > 6759 > 6758",
+  "supplier": "DR LEENARTS BV",
+  "inStock": "inStock",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/drs-leenarts-beschermende-barrierecreme/p/5755310",
+  "listName": "Lister",
+  "brand": "Drs Leenarts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265995,
+      "name": "Huidverzorging"
+    },
+    {
+      "id": 30266641,
+      "name": "Bodycremes"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h1d/hdd/33466827079710/prd-front-5755310-1_600x600/prd-front-5755310-1-600x600.jpg"
+}

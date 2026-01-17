@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Celenes By Sweden Micellair Reinigingswater",
+  "code": "6056279",
+  "price": "3.24",
+  "priceOriginal": "12.95",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 6455 > 6702",
+  "supplier": "CRX NORDIC AG",
+  "inStock": "inStock",
+  "onPromo": "1025310",
+  "mmkId": "1025310",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 9,71",
+  "url": "/celenes-by-sweden-micellair-reinigingswater/p/6056279",
+  "listName": "Lister",
+  "brand": "CELENES BY SWEDEN",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266913,
+      "name": "Micellair water"
+    }
+  ],
+  "description": "250ml, vette en gecombineerde huid",
+  "image": "/medias/sys_master/prd-images/he6/hdf/31004730195998/prd-front-6056279-1_600x600/prd-front-6056279-1-600x600.jpg"
+}

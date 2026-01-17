@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gaviscon Duo Kauwtabletten",
+  "code": "5240586",
+  "price": "17.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2407 > 2754 > 3465",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gaviscon-duo-kauwtabletten/p/5240586",
+  "listName": "Lister",
+  "brand": "Gaviscon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266707,
+      "name": "Maag en darm"
+    },
+    {
+      "id": 30266972,
+      "name": "Maagzuurremmers"
+    }
+  ],
+  "description": "Geneesmiddel - 48 stuks",
+  "image": "/medias/prd-front-5240586-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjY0OTF8aW1hZ2UvanBlZ3xhR0ZrTDJnMk55OHlOekUyT1RNMk9USTJNREEyTWk5d2NtUXRabkp2Ym5RdE5USTBNRFU0TmkweFh6WXdNSGcyTURBfDk1NmYyNzg1NDZmYmM3NzMwOTQ5ZTM4NTIzZTBlYzUwOTYxNmY5OTE1MDE4ZTI1MWNkZjI1ZTAyODVlZjE5NTE"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier SkinActive Anti-Age Light BB Cream",
+  "code": "2660204",
+  "price": "6.0",
+  "priceOriginal": "14.99",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1059760",
+  "mmkId": "1059760",
+  "productGroupId": "515497",
+  "brandType": "A of B merk",
+  "discount": "€ 8,99",
+  "url": "/garnier-skinactive-anti-age-light-bb-cream/p/2660204",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266580,
+      "name": "BB cream"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h45/hb1/35155843055646/prd-front-2660204-1_600x600/prd-front-2660204-1-600x600.jpg"
+}

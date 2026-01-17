@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Na De Beet Pen",
+  "code": "1111048",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 6070",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-na-de-beet-pen/p/1111048",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266711,
+      "name": "Insecten"
+    },
+    {
+      "id": 30266987,
+      "name": "Na de beet"
+    }
+  ],
+  "description": "14ml",
+  "image": "/medias/sys_master/prd-images/h37/h6f/34600602206238/prd-front-1111048-1_600x600/prd-front-1111048-1-600x600.jpg"
+}

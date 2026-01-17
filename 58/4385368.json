@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Kurkuma met Zwarte Peper Capsules",
+  "code": "4385368",
+  "price": "6.89",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6199 > 6217 > 6263",
+  "supplier": "HERKEL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-kurkuma-met-zwarte-peper-capsules/p/4385368",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266717,
+      "name": "Weerstand en energie"
+    }
+  ],
+  "description": "60 stuks"
+}

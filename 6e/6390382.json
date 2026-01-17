@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Bloedcirculatie Support Tabletten",
+  "code": "6390382",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6198 > 6216 > 6258",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1059563",
+  "mmkId": "1059563",
+  "productGroupId": "511199",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-bloedcirculatie-support-tabletten/p/6390382",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266727,
+      "name": "Hart en/of bloedvaten"
+    }
+  ],
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/he0/hbe/44365124665374/prd-front-6390382-1_600x600/prd-front-6390382-1-600x600.jpg"
+}

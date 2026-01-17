@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "VSM Arniflor Eerste Hulp Zalf",
+  "code": "2722343",
+  "price": "14.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "HEEL BIOLOGISCHE GENEES",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vsm-arniflor-eerste-hulp-zalf/p/2722343",
+  "listName": "Lister",
+  "brand": "VSM",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235337,
+      "name": "Eerste hulp zalf"
+    }
+  ],
+  "description": "75g",
+  "image": "/medias/sys_master/prd-images/h65/hd4/34768827842590/prd-front-2722343-1_600x600/prd-front-2722343-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Magnesium Malaat Tabletten",
+  "code": "6071833",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2280 > 5048 > 6200 > 6218 > 6268",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1059563",
+  "mmkId": "1059563",
+  "productGroupId": "511199",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-magnesium-malaat-tabletten/p/6071833",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001842,
+      "name": "Magnesium"
+    }
+  ],
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h53/hdd/30591826001950/prd-front-6071833-1_600x600/prd-front-6071833-1-600x600.jpg"
+}

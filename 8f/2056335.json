@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dagravit Totaal 30 Vitaal 50+ Tabletten",
+  "code": "2056335",
+  "price": "11.16",
+  "priceOriginal": "24.79",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1059761",
+  "mmkId": "1059761",
+  "productGroupId": "517134",
+  "brandType": "A of B merk",
+  "discount": "€ 13,63",
+  "url": "/dagravit-totaal-30-vitaal-50-tabletten/p/2056335",
+  "listName": "Lister",
+  "brand": "Dagravit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
+    }
+  ],
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/ha0/h88/44918753919006/prd-front-2056335-1_600x600/prd-front-2056335-1-600x600.jpg"
+}

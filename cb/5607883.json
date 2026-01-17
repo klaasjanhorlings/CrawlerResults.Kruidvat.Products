@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Epitact Duimbrace Rechts",
+  "code": "5607883",
+  "price": "26.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2070 > 6475 > 6477 > 6476 > 6481",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/epitact-duimbrace-rechts/p/5607883",
+  "listName": "Lister",
+  "brand": "Epitact",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 30266741,
+      "name": "Sport, -blessures en herstel"
+    },
+    {
+      "id": 57912684,
+      "name": "Braces en bandages"
+    }
+  ],
+  "description": "mt S",
+  "image": "/medias/prd-front-5607883-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE5NTh8aW1hZ2UvanBlZ3xhRGt6TDJneU5TOHhOVEl5TlRVNU1UTTVPRFF6TUM5d2NtUXRabkp2Ym5RdE5UWXdOemc0TXkweFh6WXdNSGcyTURBfDdhYWE3YjcyZWYxZmJiZDNmZmE5NmE0ODYwMTNlYTJiZWM2NTQyMjdlNDVmMjFmMTNkNDkyMjFiODQzMzIyM2I"
+}

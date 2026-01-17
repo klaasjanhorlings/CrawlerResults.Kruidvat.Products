@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Revitalift Clinical Pure Vitamine C 12% Serum",
+  "code": "5780654",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1059664",
+  "mmkId": "1059664",
+  "productGroupId": "514173",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-revitalift-clinical-pure-vitamine-c-12-serum/p/5780654",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "30ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h8d/hfd/34615020290078/prd-front-5780654-1_600x600/prd-front-5780654-1-600x600.jpg"
+}

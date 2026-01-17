@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Vitamine C 1000 mg Bruistabletten",
+  "code": "27180",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6295",
+  "supplier": "NUTRILO GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1059673",
+  "mmkId": "1059673",
+  "productGroupId": "514726",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-vitamine-c-1000-mg-bruistabletten/p/27180",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266990,
+      "name": "Vitamine C"
+    }
+  ],
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/h25/h72/33116066152478/prd-front-27180-1_600x600/prd-front-27180-1-600x600.jpg"
+}
