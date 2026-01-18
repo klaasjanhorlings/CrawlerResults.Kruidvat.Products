@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Philips In-Ear USB Oordopjes",
   "code": "6140139",
   "price": "7.99",
@@ -33,6 +33,5 @@
       "name": "Koptelefoons"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h87/haf/32087102914590/prd-front-6140139-1_600x600/prd-front-6140139-1-600x600.jpg"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Oracle Red Bull Racing Bluetooth Koptelefoon",
   "code": "6388926",
   "price": "24.99",
@@ -33,5 +33,6 @@
       "name": "Koptelefoons"
     }
   ],
-  "description": "blauw, rood"
+  "description": "blauw, rood",
+  "image": "/medias/sys_master/prd-images/he4/hd1/44438733094942/prd-front-6388926-1_600x600/prd-front-6388926-1-600x600.jpg"
 }
