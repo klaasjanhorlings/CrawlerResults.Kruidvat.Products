@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Beauty Kussenslopen",
+  "code": "6021685",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2453 > 2738 > 5926 > 6020 > 3440",
+  "supplier": "VESPO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-beauty-kussenslopen/p/6021685",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 61701782,
+      "name": "Kussens"
+    },
+    {
+      "id": 80864043,
+      "name": "Kussenslopen"
+    }
+  ],
+  "description": "beige, 60cm x 70cm, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h73/hb3/44325346115614/prd-front-6021685-1_600x600/prd-front-6021685-1-600x600.jpg"
+}

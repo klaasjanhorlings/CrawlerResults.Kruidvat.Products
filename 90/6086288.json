@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "DKNY Orchard Street Eau de Parfum",
   "code": "6086288",
-  "price": "29.99",
-  "priceOriginal": "",
+  "price": "26.99",
+  "priceOriginal": "29.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059806",
+  "mmkId": "1059806",
+  "productGroupId": "513723",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/dkny-orchard-street-eau-de-parfum/p/6086288",
   "listName": "Lister",
   "brand": "DKNY",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h1a/h6f/30801446010910/prd-front-6086288-1_600x600/prd-front-6086288-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Hyaluron Micellair Water",
   "code": "6303673",
-  "price": "3.49",
-  "priceOriginal": "",
+  "price": "2.0",
+  "priceOriginal": "3.49",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 6455 > 6702",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059830",
+  "mmkId": "1059830",
+  "productGroupId": "516621",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 1,49",
   "url": "/kruidvat-hyaluron-micellair-water/p/6303673",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -37,6 +37,5 @@
       "name": "Micellair water"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hf0/hc1/33926921453598/prd-front-6303673-1_600x600/prd-front-6303673-1-600x600.jpg"
+  "description": "400ml"
 }

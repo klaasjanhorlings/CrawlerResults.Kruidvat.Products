@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Mercedes Benz Sign Your Attitude Eau de Toilette",
   "code": "6420083",
-  "price": "29.99",
-  "priceOriginal": "",
+  "price": "26.99",
+  "priceOriginal": "29.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059806",
+  "mmkId": "1059806",
+  "productGroupId": "513723",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/mercedes-benz-sign-your-attitude-eau-de-toilette/p/6420083",
   "listName": "Lister",
   "brand": "Mercedez-Benz",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hf7/hdb/45625989726238/temp-prd-front-6420083-2_600x600/temp-prd-front-6420083-2-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hcd/h54/45627441709086/temp-prd-front-6420083-1_600x600/temp-prd-front-6420083-1-600x600.jpg"
 }

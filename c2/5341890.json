@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Difrax Fopspeenkoordje",
   "code": "5341890",
-  "price": "6.99",
-  "priceOriginal": "",
+  "price": "5.24",
+  "priceOriginal": "6.99",
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059809",
+  "mmkId": "1059809",
+  "productGroupId": "513895",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,75",
   "url": "/difrax-fopspeenkoordje/p/5341890",
   "listName": "Lister",
   "brand": "Difrax",
@@ -33,5 +33,6 @@
       "name": "Fopspeenaccessoires"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hac/h07/34893298794526/prd-front-5341890-1_600x600/prd-front-5341890-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Damesskipully",
+  "code": "6410339",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2610 > 3250 > 4141 > 5928 > 6038 > 6042",
+  "supplier": "KIDS CONNECT FASHION",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/damesskipully/p/6410339",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "zwart, mt XL",
+  "image": "/medias/sys_master/prd-images/h1f/hce/45273379373086/prd-front-6410339-1_600x600/prd-front-6410339-1-600x600.jpg"
+}

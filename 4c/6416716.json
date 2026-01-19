@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Magnetische Knikkerbaan",
+  "code": "6416716",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/magnetische-knikkerbaan/p/6416716",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266034,
+      "name": "Educatief speelgoed"
+    },
+    {
+      "id": 90169671,
+      "name": "Educatieve speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h95/hed/44970666426398/prd-front-6416716-1_600x600/prd-front-6416716-1-600x600.jpg"
+}

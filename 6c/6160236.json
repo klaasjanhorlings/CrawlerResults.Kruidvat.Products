@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Tristar Infraroodkachel",
   "code": "6160236",
   "price": "79.99",
@@ -29,6 +29,5 @@
       "name": "Kachels"
     }
   ],
-  "description": "1,1cm x 80cm x 60cm",
-  "image": "/medias/sys_master/prd-images/h65/h61/31724915163166/prd-front-6160236-1_600x600/prd-front-6160236-1-600x600.jpg"
+  "description": "1,1cm x 80cm x 60cm"
 }

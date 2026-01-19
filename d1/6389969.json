@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Douwe Egberts Cappuccino Koffiecapsules",
+  "code": "6389969",
+  "price": "2.99",
+  "priceOriginal": "4.49",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
+  "supplier": "JACOBS DOUWE EGBERTS",
+  "inStock": "inStock",
+  "onPromo": "1059842",
+  "mmkId": "1059842",
+  "productGroupId": "528507",
+  "brandType": "A of B merk",
+  "discount": "€ 1,50",
+  "url": "/douwe-egberts-cappuccino-koffiecapsules/p/6389969",
+  "listName": "Lister",
+  "brand": "Douwe Egberts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    },
+    {
+      "id": 113103697,
+      "name": "Koffiecups"
+    }
+  ],
+  "description": "16 stuks",
+  "image": "/medias/sys_master/prd-images/h30/h79/44448375832606/prd-front-6389969-1_600x600/prd-front-6389969-1-600x600.jpg"
+}

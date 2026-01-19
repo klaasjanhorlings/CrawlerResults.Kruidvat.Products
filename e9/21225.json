@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Double Action Dagcrème & Primer",
   "code": "21225",
-  "price": "4.4",
-  "priceOriginal": "10.99",
+  "price": "10.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1059760",
-  "mmkId": "1059760",
-  "productGroupId": "515497",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 6,59",
+  "discount": "",
   "url": "/olay-double-action-dagcreme-primer/p/21225",
   "listName": "Lister",
   "brand": "Olay",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Normale en droge huid",
-  "image": "/medias/sys_master/prd-images/hef/h6f/31594373677086/prd-front-21225-1_600x600/prd-front-21225-1-600x600.jpg"
+  "description": "50ml - Normale en droge huid"
 }

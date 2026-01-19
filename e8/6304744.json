@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6760 > 6762 > 6761 > 6759 > 6758",
   "supplier": "LOREAL NED B.V.",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1053321",
   "mmkId": "1053321",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "473ml"
+  "description": "473ml",
+  "image": "/medias/sys_master/prd-images/h24/h48/44631226548254/prd-front-6304744-1_600x600/prd-front-6304744-1-600x600.jpg"
 }

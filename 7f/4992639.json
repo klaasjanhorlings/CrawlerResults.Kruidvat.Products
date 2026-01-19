@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 6600",
   "supplier": "NEW FLAG BENELUX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "65g"
+  "description": "65g",
+  "image": "/medias/prd-front-4992639-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODM5OTh8aW1hZ2UvanBlZ3xhREEzTDJoak9DOHlOalF4TXpVeE16RXhNell6TUM5d2NtUXRabkp2Ym5RdE5EazVNall6T1MweFh6WXdNSGcyTURBfGYzMjZkMWY4Njg1ZTQzYTI2OWFiZTRlNGExNTFhMWQzZTNjOGM0NWU4ZTcwZDA1MDEzYzRkMzkzMmRlZTI3NWI"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Guerlain La Petite Robe Noire Eau de Parfum",
   "code": "5876008",
-  "price": "54.99",
-  "priceOriginal": "",
+  "price": "49.49",
+  "priceOriginal": "54.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059806",
+  "mmkId": "1059806",
+  "productGroupId": "513723",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,50",
   "url": "/guerlain-la-petite-robe-noire-eau-de-parfum/p/5876008",
   "listName": "Lister",
   "brand": "Guerlain",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h2b/ha0/27452861808670/prd-front-5876008-1_600x600/prd-front-5876008-1-600x600.jpg"
 }

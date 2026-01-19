@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Age Perfect Golden Age SPF20 Versterkende Dagcrème",
   "code": "5098815",
-  "price": "13.6",
+  "price": "16.99",
   "priceOriginal": "33.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1059760",
-  "mmkId": "1059760",
-  "productGroupId": "515497",
+  "onPromo": "1059661",
+  "mmkId": "1059661",
+  "productGroupId": "514167",
   "brandType": "A of B merk",
-  "discount": "€ 20,39",
+  "discount": "€ 17,00",
   "url": "/loreal-paris-age-perfect-golden-age-spf20-versterkende-dagcreme/p/5098815",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe en doffe huid"
+  "description": "50ml - Rijpe en doffe huid",
+  "image": "/medias/sys_master/prd-images/h3e/h73/35156217528350/prd-front-5098815-1_600x600/prd-front-5098815-1-600x600.jpg"
 }

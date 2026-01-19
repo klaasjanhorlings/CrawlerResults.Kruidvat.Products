@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Neutrogena Hydro Boost Hydrating Fluid met SPF50",
   "code": "6161020",
-  "price": "23.99",
-  "priceOriginal": "",
+  "price": "16.79",
+  "priceOriginal": "23.99",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1059819",
+  "mmkId": "1059819",
+  "productGroupId": "514944",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,20",
   "url": "/neutrogena-hydro-boost-hydrating-fluid-met-spf50/p/6161020",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h3e/h25/34039215128606/prd-front-6161020-1_600x600/prd-front-6161020-1-600x600.jpg"
 }

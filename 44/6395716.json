@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Truespirit Weekendtas Roze Zon",
+  "code": "6395716",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/truespirit-weekendtas-roze-zon/p/6395716",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    },
+    {
+      "id": 101713392,
+      "name": "Shopper"
+    }
+  ],
+  "description": "roze, 56cm x 38cm x 18cm",
+  "image": "/medias/sys_master/prd-images/hb5/h51/44623521382430/prd-front-6395716-1_600x600/prd-front-6395716-1-600x600.jpg"
+}

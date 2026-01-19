@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dermolin Facewash",
   "code": "5807716",
-  "price": "7.96",
+  "price": "6.96",
   "priceOriginal": "9.95",
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "HEALTHCARE BRANDS GROUP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1059684",
-  "mmkId": "1059684",
-  "productGroupId": "514953",
+  "onPromo": "1059820",
+  "mmkId": "1059820",
+  "productGroupId": "514958",
   "brandType": "A of B merk",
-  "discount": "€ 1,99",
+  "discount": "€ 2,99",
   "url": "/dermolin-facewash/p/5807716",
   "listName": "Lister",
   "brand": "Dermolin",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/prd-front-5807716-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjEwMDd8aW1hZ2UvanBlZ3xhRGhtTDJobFlpOHlOalE1TWprMk1qTXdPREV5Tmk5d2NtUXRabkp2Ym5RdE5UZ3dOemN4TmkweFh6WXdNSGcyTURBfDYzZjI0OWRkOTkwYzM4YTI3MWRlMDAwMGY1NDMxZTU3ZDMzNDYwYzY0YjBkZWRjNmJjYTRhMDU5MDJmMmZhNGI"
+  "description": "100ml"
 }
