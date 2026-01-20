@@ -25,10 +25,17 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 48657015,
+      "name": "Inhalatieproducten"
     }
   ],
-  "description": "100g",
-  "image": "/medias/sys_master/prd-images/h2c/hd9/44274391220254/prd-front-6391264-1_600x600/prd-front-6391264-1-600x600.jpg"
+  "description": "100g"
 }

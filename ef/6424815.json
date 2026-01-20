@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pokémon Trading Card Game Kanto Power Mini Tin",
+  "code": "6424815",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5921 > 6018 > 6743 > 6742 > 6744",
+  "supplier": "ASMODEE THE NETHERLANDS",
+  "inStock": "outOfStock",
+  "onPromo": "1059840",
+  "mmkId": "1059840",
+  "productGroupId": "525531",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pokemon-trading-card-game-kanto-power-mini-tin/p/6424815",
+  "listName": "Lister",
+  "brand": "Pokemon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hde/ha8/44873199714334/prd-front-6424815-1_600x600/prd-front-6424815-1-600x600.jpg"
+}

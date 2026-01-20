@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Calvin Klein Obsession for Men Eau de Toilette",
   "code": "6117963",
-  "price": "18.89",
-  "priceOriginal": "20.99",
+  "price": "20.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "1059806",
-  "mmkId": "1059806",
-  "productGroupId": "513723",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,10",
+  "discount": "",
   "url": "/calvin-klein-obsession-for-men-eau-de-toilette/p/6117963",
   "listName": "Lister",
   "brand": "Calvin Klein",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/ha7/h3b/31903142445086/prd-front-6117963-1_600x600/prd-front-6117963-1-600x600.jpg"
+  "description": "75ml"
 }

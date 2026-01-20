@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2146 > 2351 > 2704 > 3407 > 5926 > 6679",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Geurkaarsen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha8/h5a/44450664644638/prd-front-6110949-1_600x600/prd-front-6110949-1-600x600.jpg"
+  "description": ""
 }

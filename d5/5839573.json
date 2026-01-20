@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Jimmy Choo Illicit Eau de Parfum",
   "code": "5839573",
-  "price": "40.49",
-  "priceOriginal": "44.99",
+  "price": "44.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "JTG BV",
   "inStock": "inStock",
-  "onPromo": "1059806",
-  "mmkId": "1059806",
-  "productGroupId": "513723",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,50",
+  "discount": "",
   "url": "/jimmy-choo-illicit-eau-de-parfum/p/5839573",
   "listName": "Lister",
   "brand": "Jimmy Choo",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-5839573-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTUwNTl8aW1hZ2UvanBlZ3xhRFl5TDJoa09DOHlOamsxT0RrMk1EQTJOalU1TUM5d2NtUXRabkp2Ym5RdE5UZ3pPVFUzTXkweFh6WXdNSGcyTURBfDllMzBkMTc1ZmVkYmY4OWU0YzA5MTAwZjlhMDY3YzI3ZTUzYzFkNGQwNTQxZjgxZDA3MjhlMGEwNjk2YzM3YmI"
 }

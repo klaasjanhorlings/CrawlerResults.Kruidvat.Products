@@ -25,17 +25,18 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
+      "id": 73443650,
+      "name": "Korean Skincare"
     },
     {
-      "id": 50048154,
-      "name": "Verzorging probleemhuid"
+      "id": 90761022,
+      "name": "Korean pimple patches"
     }
   ],
-  "description": "18 stuks"
+  "description": "18 stuks",
+  "image": "/medias/sys_master/prd-images/had/hc5/32246315810846/prd-front-6199996-1_600x600/prd-front-6199996-1-600x600.jpg"
 }

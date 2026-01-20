@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Cetaphil Hydraterende Lotion",
   "code": "5932204",
-  "price": "13.96",
+  "price": "14.96",
   "priceOriginal": "19.95",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1059817",
-  "mmkId": "1059817",
-  "productGroupId": "514936",
+  "onPromo": "1059683",
+  "mmkId": "1059683",
+  "productGroupId": "514935",
   "brandType": "A of B merk",
-  "discount": "€ 5,99",
+  "discount": "€ 4,99",
   "url": "/cetaphil-hydraterende-lotion/p/5932204",
   "listName": "Lister",
   "brand": "Cetaphil",
@@ -25,8 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "470ml",

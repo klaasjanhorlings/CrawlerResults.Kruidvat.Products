@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Neutrogena Anti-Puistjes+ Wasgel",
   "code": "6019795",
-  "price": "11.89",
-  "priceOriginal": "16.99",
+  "price": "16.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "1059819",
-  "mmkId": "1059819",
-  "productGroupId": "514944",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,10",
+  "discount": "",
   "url": "/neutrogena-anti-puistjes-wasgel/p/6019795",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -29,8 +29,12 @@
       "name": "Skincare"
     },
     {
-      "id": 84945977,
-      "name": "Exfoliant"
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266915,
+      "name": "Reinigingsgel"
     }
   ],
   "description": "200ml - Onzuivere huid",

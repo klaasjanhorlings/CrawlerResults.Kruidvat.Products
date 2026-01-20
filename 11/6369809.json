@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Dekbedovertrek met Bogenprint",
+  "code": "6369809",
+  "price": "9.99",
+  "priceOriginal": "19.99",
+  "itemBgbcat": "2196 > 2453 > 2738 > 3440 > 5926 > 6020",
+  "supplier": "VESPO BV",
+  "inStock": "inStock",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "€ 10,00",
+  "url": "/villa-volance-dekbedovertrek-met-bogenprint/p/6369809",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 65815325,
+      "name": "Dekbedovertrekken"
+    }
+  ],
+  "description": "olijfgroen, 200cm x 200cm",
+  "image": "/medias/sys_master/prd-images/hfa/ha9/35143209451550/prd-front-6369809-1_600x600/prd-front-6369809-1-600x600.jpg"
+}

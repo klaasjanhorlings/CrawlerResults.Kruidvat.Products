@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059585",
   "mmkId": "1059585",
   "productGroupId": "512517",
@@ -29,5 +29,6 @@
       "name": "Pyjamabroekjes"
     }
   ],
-  "description": "32 stuks"
+  "description": "32 stuks",
+  "image": "/medias/sys_master/prd-images/he5/h15/44857475104798/prd-front-5897799-1_600x600/prd-front-5897799-1-600x600.jpg"
 }

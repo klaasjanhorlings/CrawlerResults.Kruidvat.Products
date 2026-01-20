@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Q10 Expert Gerichte Rimpelopvuller Serum",
   "code": "5781711",
-  "price": "12.4",
-  "priceOriginal": "30.99",
+  "price": "30.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1059804",
-  "mmkId": "1059804",
-  "productGroupId": "513126",
+  "onPromo": "1059604",
+  "mmkId": "1059604",
+  "productGroupId": "513119",
   "brandType": "A of B merk",
-  "discount": "€ 18,59",
+  "discount": "",
   "url": "/nivea-q10-expert-gerichte-rimpelopvuller-serum/p/5781711",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "15ml - Rijpe huid en alle huidtypen"
+  "description": "15ml - Rijpe huid en alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hbb/h5f/44918772072478/prd-front-5781711-1_600x600/prd-front-5781711-1-600x600.jpg"
 }

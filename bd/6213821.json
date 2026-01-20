@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Cellular Expert Filler Hyaluron Serum",
   "code": "6213821",
-  "price": "8.0",
-  "priceOriginal": "19.99",
+  "price": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1059804",
-  "mmkId": "1059804",
-  "productGroupId": "513126",
+  "onPromo": "1059604",
+  "mmkId": "1059604",
+  "productGroupId": "513119",
   "brandType": "A of B merk",
-  "discount": "€ 11,99",
+  "discount": "",
   "url": "/nivea-cellular-expert-filler-hyaluron-serum/p/6213821",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "15ml",
-  "image": "/medias/sys_master/prd-images/h14/hcb/44920827838494/prd-front-6213821-1_600x600/prd-front-6213821-1-600x600.jpg"
+  "description": "15ml"
 }

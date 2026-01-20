@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Neutrogena Hydro Boost 3-in-1 Micellair Water",
   "code": "4726625",
-  "price": "7.69",
-  "priceOriginal": "10.99",
+  "price": "10.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "1059819",
-  "mmkId": "1059819",
-  "productGroupId": "514944",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,30",
+  "discount": "",
   "url": "/neutrogena-hydro-boost-3-in-1-micellair-water/p/4726625",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266913,
-      "name": "Micellair water"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "400ml - Alle huidtypen",
