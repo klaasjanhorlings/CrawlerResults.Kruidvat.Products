@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Elnett Satin Heat Protection Glad Haarspray",
+  "code": "2639932",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3698",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1059688",
+  "mmkId": "1059688",
+  "productGroupId": "515349",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-elnett-satin-heat-protection-glad-haarspray/p/2639932",
+  "listName": "Lister",
+  "brand": "Elnett",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266931,
+      "name": "Heat protectors"
+    }
+  ],
+  "description": "170ml",
+  "image": "/medias/sys_master/prd-images/hab/h06/34868804452382/prd-front-2639932-1_600x600/prd-front-2639932-1-600x600.jpg"
+}

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Volume Hair Plus Midden Bruin Verdikkende Hairspray",
+  "itemName": "Volume Hair Plus Midden Bruin Verdikkende Haarspray",
   "code": "2499631",
   "price": "17.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/volume-hair-plus-midden-bruin-verdikkende-hairspray/p/2499631",
+  "url": "/volume-hair-plus-midden-bruin-verdikkende-haarspray/p/2499631",
   "listName": "Lister",
   "brand": "Volume hair",
   "mpOrigin": "Kruidvat",
@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30265990,
-      "name": "Haarverf"
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266933,
+      "name": "Haarlak"
     }
   ],
   "description": "150ml",

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h59/h58/35123241975838/prd-front-5444650-1_600x600/prd-front-5444650-1-600x600.jpg"
+  "description": "5ml"
 }

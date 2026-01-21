@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Men Craft Stylers Fixating Styling Gel",
+  "code": "4916486",
+  "price": "7.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2931 > 3726",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1059544",
+  "mmkId": "1059544",
+  "productGroupId": "508983",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-men-craft-stylers-fixating-styling-gel/p/4916486",
+  "listName": "Lister",
+  "brand": "Nivea Men",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266928,
+      "name": "Haargel"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hf3/h7e/33987898114078/prd-front-4916486-1_600x600/prd-front-4916486-1-600x600.jpg"
+}

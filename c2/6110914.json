@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2146 > 5926 > 5962 > 5979 > 5996 > 6679",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Geurstokjes"
     }
   ],
-  "description": "160ml"
+  "description": "160ml",
+  "image": "/medias/sys_master/prd-images/h4b/hf6/31803474837534/prd-front-6110914-1_600x600/prd-front-6110914-1-600x600.jpg"
 }

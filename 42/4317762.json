@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dove Original 0% Aluminiumzouten Deodorant Roller",
+  "itemName": "Dove Original 0% Deodorant Roller",
   "code": "4317762",
   "price": "5.25",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "510946",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dove-original-0-aluminiumzouten-deodorant-roller/p/4317762",
+  "url": "/dove-original-0-deodorant-roller/p/4317762",
   "listName": "Lister",
   "brand": "Dove",
   "mpOrigin": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hb7/h3d/29203372834846/prd-front-4317762-1_600x600/prd-front-4317762-1-600x600.jpg"
 }

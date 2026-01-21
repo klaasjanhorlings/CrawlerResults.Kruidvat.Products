@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Happy Earth 100% Natural Pure Crystal Geurloze Deodorant Stick",
+  "code": "4027486",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3070 > 3684",
+  "supplier": "ORANGE-SHEEP BV",
+  "inStock": "inStock",
+  "onPromo": "1059530",
+  "mmkId": "1059530",
+  "productGroupId": "506749",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/happy-earth-100-natural-pure-crystal-geurloze-deodorant-stick/p/4027486",
+  "listName": "Lister",
+  "brand": "Happy Earth",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266645,
+      "name": "Deostick"
+    }
+  ],
+  "description": "90g",
+  "image": "/medias/sys_master/prd-images/h7e/haf/34756928045086/prd-front-4027486-1_600x600/prd-front-4027486-1-600x600.jpg"
+}

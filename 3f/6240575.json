@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gliss Full Hair Wonder Scalp & Root Activator",
+  "code": "6240575",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6697",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1059800",
+  "mmkId": "1059800",
+  "productGroupId": "512362",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gliss-full-hair-wonder-scalp-root-activator/p/6240575",
+  "listName": "Lister",
+  "brand": "Gliss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213665,
+      "name": "Haartreatment"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h5b/hc3/33774858043422/prd-front-6240575-1_600x600/prd-front-6240575-1-600x600.jpg"
+}

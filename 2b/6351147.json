@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Lip Swirl 01 Caring Mask",
+  "code": "6351147",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 6134 > 6135 > 6133",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-lip-swirl-01-caring-mask/p/6351147",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266607,
+      "name": "Gezichtsmaskers"
+    },
+    {
+      "id": 87374636,
+      "name": "Lipmaskers"
+    }
+  ],
+  "description": "8g",
+  "image": "/medias/sys_master/prd-images/hfb/haa/35128374591518/prd-front-6351147-1_600x600/prd-front-6351147-1-600x600.jpg"
+}

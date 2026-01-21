@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Elvive Extraordinary Oil Kokos Conditioner",
+  "code": "4129700",
+  "price": "7.59",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1059688",
+  "mmkId": "1059688",
+  "productGroupId": "515349",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-elvive-extraordinary-oil-kokos-conditioner/p/4129700",
+  "listName": "Lister",
+  "brand": "Elvive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h16/h62/33047775838238/prd-front-4129700-1_600x600/prd-front-4129700-1-600x600.jpg"
+}

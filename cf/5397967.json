@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "King C. Gillette Double Edge Safety Razor Scheerapparaat",
+  "code": "5397967",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 5720 > 3869",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1059677",
+  "mmkId": "1059677",
+  "productGroupId": "514752",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/king-c-gillette-double-edge-safety-razor-scheerapparaat/p/5397967",
+  "listName": "Lister",
+  "brand": "King C",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266679,
+      "name": "Scheerapparaten"
+    }
+  ],
+  "description": "Inclusief 5 scheermesjes",
+  "image": "/medias/sys_master/prd-images/h0c/hcd/29287158546462/prd-front-5397967-1_600x600/prd-front-5397967-1-600x600.jpg"
+}

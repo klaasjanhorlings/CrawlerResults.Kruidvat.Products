@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sebamed Alledag Zeepvrije Shampoo",
+  "code": "1433104",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "1059593",
+  "mmkId": "1059593",
+  "productGroupId": "512691",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sebamed-alledag-zeepvrije-shampoo/p/1433104",
+  "listName": "Lister",
+  "brand": "Sebamed",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hb7/h63/44934845890590/prd-front-1433104-1_600x600/prd-front-1433104-1-600x600.jpg"
+}
