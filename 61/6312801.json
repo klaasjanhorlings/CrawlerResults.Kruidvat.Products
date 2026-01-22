@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059870",
+  "mmkId": "1059870",
+  "productGroupId": "516045",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/depend-orange-sticks/p/6312801",
@@ -41,6 +41,5 @@
       "name": "Nepnageltools"
     }
   ],
-  "description": "3 stuks",
-  "image": "/medias/sys_master/prd-images/h47/h64/44253785227294/prd-front-6312801-1_600x600/prd-front-6312801-1-600x600.jpg"
+  "description": "3 stuks"
 }

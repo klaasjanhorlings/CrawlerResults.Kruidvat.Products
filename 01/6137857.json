@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Men Expert Hydra Energetic Vitamin C Serum",
+  "code": "6137857",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2254 > 2592 > 6667 > 6669",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-men-expert-hydra-energetic-vitamin-c-serum/p/6137857",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris Men Expert",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 80553729,
+      "name": "Gezichtsserum mannen"
+    }
+  ],
+  "description": "30ml"
+}

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L’Oréal Paris 0.5R/C True Match Foundation",
   "code": "5752832",
-  "price": "9.99",
-  "priceOriginal": "19.99",
+  "price": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1059678",
-  "mmkId": "1059678",
-  "productGroupId": "514767",
+  "onPromo": "1059864",
+  "mmkId": "1059864",
+  "productGroupId": "514769",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "",
   "url": "/loreal-paris-05r/c-true-match-foundation/p/5752832",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h96/h74/45057294827550/prd-front-5752832-1_600x600/prd-front-5752832-1-600x600.jpg"
 }

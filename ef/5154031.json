@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3687",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1059618",
-  "mmkId": "1059618",
-  "productGroupId": "513577",
+  "onPromo": "1059860",
+  "mmkId": "1059860",
+  "productGroupId": "513775",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/colgate-maximum-caries-protection-tandpasta/p/5154031",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Anti-cariës"
+  "description": "75ml - Anti-cariës",
+  "image": "/medias/sys_master/prd-images/h75/h76/31763180617758/prd-front-5154031-1_600x600/prd-front-5154031-1-600x600.jpg"
 }

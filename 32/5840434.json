@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Labello Hyaluron Lip Moisture Lippenbalsem",
   "code": "5840434",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "2.99",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 3268 > 4169",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1059690",
-  "mmkId": "1059690",
-  "productGroupId": "515566",
+  "onPromo": "1059867",
+  "mmkId": "1059867",
+  "productGroupId": "515579",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/labello-hyaluron-lip-moisture-lippenbalsem/p/5840434",
   "listName": "Lister",
   "brand": "Labello",
@@ -33,6 +33,5 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "5,2g",
-  "image": "/medias/sys_master/prd-images/h85/h04/44556797870110/prd-front-5840434-1_600x600/prd-front-5840434-1-600x600.jpg"
+  "description": "5,2g"
 }

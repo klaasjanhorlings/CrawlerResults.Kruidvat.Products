@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
   "supplier": "THG NUTRITION LIMITED",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059657",
   "mmkId": "1059657",
   "productGroupId": "514045",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "1000g"
+  "description": "1000g",
+  "image": "/medias/sys_master/prd-images/h51/h54/33917337468958/prd-front-6298101-1_600x600/prd-front-6298101-1-600x600.jpg"
 }

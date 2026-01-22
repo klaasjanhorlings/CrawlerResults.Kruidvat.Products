@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bleach London Rosé Semipermanente Haarkleuring",
+  "code": "6426341",
+  "price": "11.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
+  "supplier": "BLEACH PRODUCTS LIMITED",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bleach-london-rose-semipermanente-haarkleuring/p/6426341",
+  "listName": "Lister",
+  "brand": "BLEACH LONDON",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265990,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h33/h99/45217241628702/prd-front-6426341-1_600x600/prd-front-6426341-1-600x600.jpg"
+}

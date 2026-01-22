@@ -7,7 +7,7 @@
   "priceOriginal": "11.49",
   "itemBgbcat": "2002 > 6760 > 6762 > 6761 > 6759 > 6758",
   "supplier": "HEALTHCARE BRANDS GROUP NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059684",
   "mmkId": "1059684",
   "productGroupId": "514953",
@@ -33,6 +33,5 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hea/h75/27374606483486/prd-front-5827708-1_600x600/prd-front-5827708-1-600x600.jpg"
+  "description": "200ml"
 }
