@@ -25,14 +25,17 @@
       "name": "Gezondheid"
     },
     {
-      "id": 48220663,
-      "name": "Voetongemakken"
+      "id": 30266006,
+      "name": "Zelfzorg"
     },
     {
-      "id": 48220885,
-      "name": "Voetschimmel"
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 49946950,
+      "name": "Schimmelinfectie"
     }
   ],
-  "description": "Geneesmiddel - 30g",
-  "image": "/medias/sys_master/prd-images/hbb/hd9/44190284972062/prd-front-594307-1_600x600/prd-front-594307-1-600x600.jpg"
+  "description": "Geneesmiddel - 30g"
 }

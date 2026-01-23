@@ -6,7 +6,7 @@
   "price": "17.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
-  "supplier": "MAYBELLINE MAKE-UP",
+  "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
   "onPromo": "1059567",
   "mmkId": "1059567",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc8/haa/44845482082334/prd-front-6136037-1_600x600/prd-front-6136037-1-600x600.jpg"
 }

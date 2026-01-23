@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Harry Potter 76464 Ketel met Geheim Toverdrankenklaslokaal",
+  "code": "6428714",
+  "price": "54.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-harry-potter-76464-ketel-met-geheim-toverdrankenklaslokaal/p/6428714",
+  "listName": "Lister",
+  "brand": "LEGO Harry Potter",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266816,
+      "name": "LEGO Harry Potter"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfa/h99/45717880012830/temp-prd-front-6428714-1_600x600/temp-prd-front-6428714-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO DUPLO 10470 3-in-1 Modern Woonhuis met Figuren",
+  "code": "6428735",
+  "price": "74.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1040890",
+  "mmkId": "1040890",
+  "productGroupId": "432542",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-duplo-10470-3-in-1-modern-woonhuis-met-figuren/p/6428735",
+  "listName": "Lister",
+  "brand": "LEGO Duplo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266815,
+      "name": "LEGO Creator"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc3/h07/45708409274398/temp-prd-front-6428735-1_600x600/temp-prd-front-6428735-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO DUPLO 10475 3-in-1 Bouwvoertuigen",
+  "code": "6426033",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "1040890",
+  "mmkId": "1040890",
+  "productGroupId": "432542",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-duplo-10475-3-in-1-bouwvoertuigen/p/6426033",
+  "listName": "Lister",
+  "brand": "LEGO Duplo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266815,
+      "name": "LEGO Creator"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h3a/h0d/45713434968094/temp-prd-front-6426033-1_600x600/temp-prd-front-6426033-1-600x600.jpg"
+}

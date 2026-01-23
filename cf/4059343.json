@@ -25,9 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/ha5/he1/45475346710558/temp-prd-front-4059343-1_600x600/temp-prd-front-4059343-1-600x600.jpg"
 }

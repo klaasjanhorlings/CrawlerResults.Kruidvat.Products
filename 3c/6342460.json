@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Villa Volance Fluffy Verwarmd Sierkussen",
   "code": "6342460",
   "price": "19.99",
@@ -37,6 +37,5 @@
       "name": "Hoofdkussens"
     }
   ],
-  "description": "crème, 45cm x 45cm",
-  "image": "/medias/sys_master/prd-images/h1d/h7d/44133881249822/prd-front-6342460-1_600x600/prd-front-6342460-1-600x600.jpg"
+  "description": "crème, 45cm x 45cm"
 }

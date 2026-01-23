@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Sonic The Hedgehog 77117 Sonic: Speedster Lightning",
+  "code": "6425977",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-sonic-the-hedgehog-77117-sonic-speedster-lightning/p/6425977",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69034864,
+      "name": "LEGO Games"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4e/hc0/45708473827358/temp-prd-front-6425977-1_600x600/temp-prd-front-6425977-1-600x600.jpg"
+}

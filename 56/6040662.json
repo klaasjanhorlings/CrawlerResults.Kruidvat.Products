@@ -7,7 +7,7 @@
   "priceOriginal": "9.99",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 4130",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059444",
   "mmkId": "1059444",
   "productGroupId": "504758",
@@ -29,6 +29,5 @@
       "name": "Wasverzachter"
     }
   ],
-  "description": "1150ml, 55 wasbeurten",
-  "image": "/medias/sys_master/prd-images/h60/he1/34162686591006/prd-front-6040662-1_600x600/prd-front-6040662-1-600x600.jpg"
+  "description": "1150ml, 55 wasbeurten"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Disney 43269 101 Dalmatiërs Puppy",
+  "code": "6346016",
+  "price": "125.99",
+  "priceOriginal": "139.99",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 14,00",
+  "url": "/lego-disney-43269-101-dalmatiers-puppy/p/6346016",
+  "listName": "Lister",
+  "brand": "LEGO Disney",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266820,
+      "name": "LEGO Disney"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6c/h04/45706917675038/temp-prd-front-6346016-1_600x600/temp-prd-front-6346016-1-600x600.jpg"
+}

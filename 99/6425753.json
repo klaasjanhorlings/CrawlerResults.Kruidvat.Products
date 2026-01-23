@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO City 60485 Hot Rod",
+  "code": "6425753",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "1040891",
+  "mmkId": "1040891",
+  "productGroupId": "432557",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-city-60485-hot-rod/p/6425753",
+  "listName": "Lister",
+  "brand": "LEGO City",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69031070,
+      "name": "LEGO Voertuigen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7c/hac/45713541136414/temp-prd-front-6425753-1_600x600/temp-prd-front-6425753-1-600x600.jpg"
+}

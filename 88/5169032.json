@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Alecto SA50 Rookmelder",
   "code": "5169032",
   "price": "9.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 14,96",
+  "discount": "$ 14,96",
   "url": "/alecto-sa50-rookmelder/p/5169032",
   "listName": "Lister",
   "brand": "Alecto",

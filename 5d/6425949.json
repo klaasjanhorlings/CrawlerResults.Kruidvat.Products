@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Minecraft 21585 Kippenboerderij",
+  "code": "6425949",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-minecraft-21585-kippenboerderij/p/6425949",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266825,
+      "name": "LEGO Minecraft"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h67/hd3/45706952736798/temp-prd-front-6425949-1_600x600/temp-prd-front-6425949-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Marvel 11208 Team Spidey Piratenschip",
+  "code": "6428819",
+  "price": "45.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-marvel-11208-team-spidey-piratenschip/p/6428819",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69040785,
+      "name": "LEGO Films en series"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7d/hd7/45713415962654/temp-prd-front-6428819-1_600x600/temp-prd-front-6428819-1-600x600.jpg"
+}
