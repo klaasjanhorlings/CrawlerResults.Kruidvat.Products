@@ -7,7 +7,7 @@
   "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 6631",
   "supplier": "COTY NETHERLANDS BV CB",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059858",
   "mmkId": "1059858",
   "productGroupId": "513718",
@@ -29,8 +29,8 @@
       "name": "Parfum"
     },
     {
-      "id": 72654362,
-      "name": "Damesparfum"
+      "id": 72654920,
+      "name": "Unisex parfum"
     }
   ],
   "description": "30ml",

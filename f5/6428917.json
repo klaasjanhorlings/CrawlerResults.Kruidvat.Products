@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO One Piece 75639 Het Piratenschip Going Merry",
   "code": "6428917",
   "price": "119.99",
@@ -33,6 +33,5 @@
       "name": "LEGO Films en series"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h54/h63/45715182878750/temp-prd-front-6428917-1_600x600/temp-prd-front-6428917-1-600x600.jpg"
+  "description": ""
 }

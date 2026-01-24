@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pokémon Trading Card Game Kanto Power Mini Tin",
   "code": "6424815",
   "price": "10.99",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hde/ha8/44873199714334/prd-front-6424815-1_600x600/prd-front-6424815-1-600x600.jpg"
+  "description": ""
 }

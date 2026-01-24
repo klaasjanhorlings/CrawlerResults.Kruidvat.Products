@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Star Wars Fennec Shand Figuur",
   "code": "6343398",
   "price": "19.99",
@@ -12,7 +12,7 @@
   "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 20,00",
+  "discount": "$ 20,00",
   "url": "/star-wars-fennec-shand-figuur/p/6343398",
   "listName": "Lister",
   "brand": "Star Wars",

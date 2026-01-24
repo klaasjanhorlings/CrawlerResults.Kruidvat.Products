@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LEIJTENS IMPORT BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059870",
   "mmkId": "1059870",
   "productGroupId": "516045",
@@ -29,8 +29,8 @@
       "name": "Nagels"
     },
     {
-      "id": 30266584,
-      "name": "Nagellak"
+      "id": 72476685,
+      "name": "Gellak"
     }
   ],
   "description": "6,5ml",

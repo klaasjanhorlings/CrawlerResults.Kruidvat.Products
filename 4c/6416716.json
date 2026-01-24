@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Magnetische Knikkerbaan",
   "code": "6416716",
   "price": "12.99",
@@ -33,6 +33,5 @@
       "name": "Educatieve speelsets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h95/hed/44970666426398/prd-front-6416716-1_600x600/prd-front-6416716-1-600x600.jpg"
+  "description": ""
 }

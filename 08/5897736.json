@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Identity Games Dino Weetjes Kwartet",
   "code": "5897736",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h88/h86/30987030528030/prd-front-5897736-1_600x600/prd-front-5897736-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2640 > 3325 > 4829 > 5812 > 5928 > 6038",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Dameskleding"
     }
   ],
-  "description": "mt S-M"
+  "description": "mt S-M",
+  "image": "/medias/sys_master/prd-images/h89/h2f/45273746702366/prd-front-6375465-1_600x600/prd-front-6375465-1-600x600.jpg"
 }

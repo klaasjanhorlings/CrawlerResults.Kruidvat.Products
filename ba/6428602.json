@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Minecraft 21588 De Vos",
   "code": "6428602",
   "price": "41.99",
@@ -33,6 +33,5 @@
       "name": "LEGO Games"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc7/h00/45708441976862/temp-prd-front-6428602-1_600x600/temp-prd-front-6428602-1-600x600.jpg"
+  "description": ""
 }

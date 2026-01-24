@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "LEGO Botanicals 10343 Mini Orchidee",
   "code": "6201739",
   "price": "27.99",
@@ -33,5 +33,6 @@
       "name": "LEGO Bloemen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf8/h1b/35037906075678/prd-front-6201739-1_600x600/prd-front-6201739-1-600x600.jpg"
 }

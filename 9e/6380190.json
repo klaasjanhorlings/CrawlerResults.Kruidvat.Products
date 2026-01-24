@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Clementoni Idea! Hello Kitty and Friends Pen Creator Studio",
   "code": "6380190",
   "price": "16.99",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h11/hf2/44325141381150/prd-front-6380190-1_600x600/prd-front-6380190-1-600x600.jpg"
 }
