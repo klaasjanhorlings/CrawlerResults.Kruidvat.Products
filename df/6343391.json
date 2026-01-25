@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Star Wars Mace Windu Figuur",
   "code": "6343391",
   "price": "19.99",
@@ -12,7 +12,7 @@
   "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 20,00",
+  "discount": "€ 20,00",
   "url": "/star-wars-mace-windu-figuur/p/6343391",
   "listName": "Lister",
   "brand": "Star Wars",

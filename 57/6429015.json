@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Marvel 76341 Groot in Ravager Jumpsuit",
   "code": "6429015",
   "price": "54.99",
@@ -33,6 +33,5 @@
       "name": "LEGO Films en series"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he0/h16/45706941464606/temp-prd-front-6429015-1_600x600/temp-prd-front-6429015-1-600x600.jpg"
+  "description": ""
 }

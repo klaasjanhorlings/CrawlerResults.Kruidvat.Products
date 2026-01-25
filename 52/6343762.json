@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nickelodeon Dora Pop",
   "code": "6343762",
   "price": "5.99",
@@ -12,7 +12,7 @@
   "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 6,00",
+  "discount": "€ 6,00",
   "url": "/nickelodeon-dora-pop/p/6343762",
   "listName": "Lister",
   "brand": "Dora",

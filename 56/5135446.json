@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "COOPER CONSUMER HEALTH NL B.V.",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059795",
   "mmkId": "1059795",
   "productGroupId": "511255",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h1a/hae/44934049136670/prd-front-5135446-1_600x600/prd-front-5135446-1-600x600.jpg"
+  "description": "50ml"
 }

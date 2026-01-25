@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Luipaard Knuffeldoek",
   "code": "6284262",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Kraamcadeaus"
     }
   ],
-  "description": "onmisbaar zacht knuffeldoekje. Verkrijgbaar in 2 varianten. 100% polyester."
+  "description": "onmisbaar zacht knuffeldoekje. Verkrijgbaar in 2 varianten. 100% polyester.",
+  "image": "/medias/sys_master/prd-images/h68/h5e/33641412296734/prd-front-6284262-1_600x600/prd-front-6284262-1-600x600.jpg"
 }

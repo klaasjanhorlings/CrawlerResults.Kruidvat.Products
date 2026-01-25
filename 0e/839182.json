@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "RIDAM CARE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059709",
   "mmkId": "1059709",
   "productGroupId": "516439",
@@ -33,5 +33,6 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "Medisch hulpmiddel - 240ml"
+  "description": "Medisch hulpmiddel - 240ml",
+  "image": "/medias/sys_master/prd-images/h5f/hea/27935587565598/prd-front-839182-1_600x600/prd-front-839182-1-600x600.jpg"
 }

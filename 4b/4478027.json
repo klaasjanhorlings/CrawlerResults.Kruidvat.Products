@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "CODI INTERNATIONAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059532",
   "mmkId": "1059532",
   "productGroupId": "507435",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "62 stuks"
+  "description": "62 stuks",
+  "image": "/medias/sys_master/prd-images/hac/h2d/29123530194974/prd-front-4478027-1_600x600/prd-front-4478027-1-600x600.jpg"
 }

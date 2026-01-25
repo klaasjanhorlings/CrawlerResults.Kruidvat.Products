@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sticki Rolls Station",
   "code": "6452031",
   "price": "7.99",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf8/h41/45028734402590/prd-front-6452031-1_600x600/prd-front-6452031-1-600x600.jpg"
 }

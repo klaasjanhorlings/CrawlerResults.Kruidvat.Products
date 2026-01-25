@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "LEGO Marvel 11208 Team Spidey Piratenschip",
   "code": "6428819",
   "price": "45.99",
@@ -33,6 +33,5 @@
       "name": "LEGO Films en series"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7d/hd7/45713415962654/temp-prd-front-6428819-1_600x600/temp-prd-front-6428819-1-600x600.jpg"
+  "description": ""
 }
