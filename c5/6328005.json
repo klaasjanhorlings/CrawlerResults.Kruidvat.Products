@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Invisible Maxi Damesslip",
   "code": "6328005",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "4.49",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2001 > 2095 > 2150 > 2644 > 6616 > 6619",
   "supplier": "BECONNECTED HK LTD",
   "inStock": "outOfStock",
-  "onPromo": "1059704",
-  "mmkId": "1059704",
-  "productGroupId": "516336",
+  "onPromo": "1060108",
+  "mmkId": "1060108",
+  "productGroupId": "515541",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 4,50",
   "url": "/kruidvat-invisible-maxi-damesslip/p/6328005",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "beige, mt M",
-  "image": "/medias/sys_master/prd-images/h07/h7f/44439766794270/prd-front-6328005-1_600x600/prd-front-6328005-1-600x600.jpg"
+  "description": "beige, mt M"
 }

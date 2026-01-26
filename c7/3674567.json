@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059899",
+  "mmkId": "1059899",
+  "productGroupId": "505264",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-mach3-turbo-scheermesjes/p/3674567",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "5 stuks",
-  "image": "/medias/sys_master/prd-images/h3e/hda/33337863307294/prd-front-3674567-1_600x600/prd-front-3674567-1-600x600.jpg"
+  "description": "5 stuks"
 }

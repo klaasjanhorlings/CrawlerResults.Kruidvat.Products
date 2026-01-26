@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Assy Luizenkam",
   "code": "4945319",
-  "price": "10.49",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3103 > 4116",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1059822",
-  "mmkId": "1059822",
-  "productGroupId": "515418",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "€ 4,50",
+  "discount": "",
   "url": "/assy-luizenkam/p/4945319",
   "listName": "Lister",
   "brand": "Assy",
@@ -33,5 +33,6 @@
       "name": "Hoofdluis"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h22/hf2/32342754328606/prd-front-4945319-1_600x600/prd-front-4945319-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "SKIN1004 Madagascar Centella Ampoule Foam",
   "code": "6200570",
-  "price": "7.9",
-  "priceOriginal": "",
+  "price": "5.92",
+  "priceOriginal": "7.9",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059917",
+  "mmkId": "1059917",
+  "productGroupId": "508222",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,98",
   "url": "/skin1004-madagascar-centella-ampoule-foam/p/6200570",
   "listName": "Lister",
   "brand": "SKIN1004",
@@ -37,6 +37,5 @@
       "name": "Reinigingsmousse"
     }
   ],
-  "description": "20ml",
-  "image": "/medias/sys_master/prd-images/h0e/h96/32249173114910/prd-front-6200570-1_600x600/prd-front-6200570-1-600x600.jpg"
+  "description": "20ml"
 }

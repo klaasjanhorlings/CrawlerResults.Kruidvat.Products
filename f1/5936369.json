@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "CeraVe Hydraterende Schuimende Reinigingsolie",
   "code": "5936369",
-  "price": "14.55",
-  "priceOriginal": "",
+  "price": "11.64",
+  "priceOriginal": "14.55",
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1059963",
+  "mmkId": "1059963",
+  "productGroupId": "511434",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,91",
   "url": "/cerave-hydraterende-schuimende-reinigingsolie/p/5936369",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "236ml",
-  "image": "/medias/sys_master/prd-images/h10/hfe/34426641874974/prd-front-5936369-1_600x600/prd-front-5936369-1-600x600.jpg"
+  "description": "236ml"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "GREEN SOAP COMPANY BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059927",
+  "mmkId": "1059927",
+  "productGroupId": "509065",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/marcels-green-soap-argan-oudh-shower-gel/p/5808598",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/h01/28910417084446/prd-front-5808598-1_600x600/prd-front-5808598-1-600x600.jpg"
 }

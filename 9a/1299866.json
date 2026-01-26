@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Q10 Power Anti-Rimpel Nachtcrème",
   "code": "1299866",
-  "price": "9.8",
-  "priceOriginal": "24.49",
+  "price": "24.49",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1059866",
-  "mmkId": "1059866",
-  "productGroupId": "515500",
+  "onPromo": "1059964",
+  "mmkId": "1059964",
+  "productGroupId": "511470",
   "brandType": "A of B merk",
-  "discount": "€ 14,69",
+  "discount": "",
   "url": "/nivea-q10-power-anti-rimpel-nachtcreme/p/1299866",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -33,5 +33,6 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Alle huidtypen"
+  "description": "50ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h62/h1e/45028695539742/prd-front-1299866-1_600x600/prd-front-1299866-1-600x600.jpg"
 }

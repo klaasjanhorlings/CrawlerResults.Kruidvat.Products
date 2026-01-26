@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "inStock",
-  "onPromo": "1059579",
-  "mmkId": "1059579",
-  "productGroupId": "512363",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/wilkinson-sword-classic-scheermesjes/p/6251649",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/h63/ha7/33067725881374/prd-front-6251649-1_600x600/prd-front-6251649-1-600x600.jpg"
 }

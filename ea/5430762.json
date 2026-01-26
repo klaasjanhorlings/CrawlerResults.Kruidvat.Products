@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "SheaMoisture Raw Shea Butter Restorative Conditioner",
   "code": "5430762",
-  "price": "14.29",
-  "priceOriginal": "",
+  "price": "9.29",
+  "priceOriginal": "14.29",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6700 > 5896",
   "supplier": "UNILEVER ASIA PRIV. LTD",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1060013",
+  "mmkId": "1060013",
+  "productGroupId": "512932",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/sheamoisture-raw-shea-butter-restorative-conditioner/p/5430762",
   "listName": "Lister",
   "brand": "SheaMoisture",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "384ml",
-  "image": "/medias/prd-front-5430762-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDI3MjV8aW1hZ2UvanBlZ3xhR1psTDJoak1pOHlOams1TnpjMU1UUTRNRE0xTUM5d2NtUXRabkp2Ym5RdE5UUXpNRGMyTWkweFh6WXdNSGcyTURBfDA3MWZjNDNiMjVlMmFhMDA3ZThmNzg1MDgzNDk4YTA3OTk5MGYwZjZjNTNkNzY0OGE1NWJmZTMzMDVlOWYwZTU"
+  "description": "384ml"
 }

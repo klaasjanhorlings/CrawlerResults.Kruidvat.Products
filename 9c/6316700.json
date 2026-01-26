@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty 8-10 Warm Deep Miracle Hyaluronic Tinted Serum",
   "code": "6316700",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "11.19",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1060098",
+  "mmkId": "1060098",
+  "productGroupId": "514797",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 4,80",
   "url": "/mcobeauty-8-10-warm-deep-miracle-hyaluronic-tinted-serum/p/6316700",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h29/h2c/34829550551070/prd-front-6316700-1_600x600/prd-front-6316700-1-600x600.jpg"
+  "description": "30ml"
 }

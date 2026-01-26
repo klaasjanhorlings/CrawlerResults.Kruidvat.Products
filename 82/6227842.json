@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3786",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1059559",
-  "mmkId": "1059559",
-  "productGroupId": "510946",
+  "onPromo": "1059957",
+  "mmkId": "1059957",
+  "productGroupId": "511027",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-whole-body-lavender-camomile-deodorant-stick/p/6227842",
@@ -33,5 +33,6 @@
       "name": "Deostick"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hdc/hd3/45250155446302/prd-front-6227842-1_600x600/prd-front-6227842-1-600x600.jpg"
 }

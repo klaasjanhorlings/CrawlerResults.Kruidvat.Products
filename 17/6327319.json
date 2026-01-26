@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Cotton Stretch Damessinglet",
   "code": "6327319",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "2.99",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2001 > 2095 > 2150 > 2644 > 6616 > 6617",
   "supplier": "BECONNECTED HK LTD",
   "inStock": "inStock",
-  "onPromo": "1059704",
-  "mmkId": "1059704",
-  "productGroupId": "516336",
+  "onPromo": "1060108",
+  "mmkId": "1060108",
+  "productGroupId": "515541",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/kruidvat-cotton-stretch-damessinglet/p/6327319",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt XL"
+  "description": "zwart, mt XL",
+  "image": "/medias/sys_master/prd-images/h93/h84/44390544801822/prd-front-6327319-1_600x600/prd-front-6327319-1-600x600.jpg"
 }

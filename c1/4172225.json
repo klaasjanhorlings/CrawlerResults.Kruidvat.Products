@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1059567",
-  "mmkId": "1059567",
-  "productGroupId": "511342",
+  "onPromo": "1060075",
+  "mmkId": "1060075",
+  "productGroupId": "513876",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-matte-ink-10-dreamer-lipstick/p/4172225",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5ml"
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h7c/hb4/44843119935518/prd-front-4172225-1_600x600/prd-front-4172225-1-600x600.jpg"
 }

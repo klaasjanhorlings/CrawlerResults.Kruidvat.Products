@@ -8,8 +8,8 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1061577",
+  "mmkId": "1061577",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "Medisch hulpmiddel - 4 x 75ml"
+  "description": "Medisch hulpmiddel - 4 x 75ml",
+  "image": "/medias/sys_master/prd-images/h07/h9d/45712053174302/temp-prd-front-5717335-1_600x600/temp-prd-front-5717335-1-600x600.jpg"
 }

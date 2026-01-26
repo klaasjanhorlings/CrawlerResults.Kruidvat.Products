@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3345 > 4249",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1059566",
-  "mmkId": "1059566",
-  "productGroupId": "511282",
+  "onPromo": "1059987",
+  "mmkId": "1059987",
+  "productGroupId": "512378",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-max-hold-wax/p/4041234",
@@ -33,5 +33,6 @@
       "name": "Haarwax"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hc5/h41/33771155750942/prd-front-4041234-1_600x600/prd-front-4041234-1-600x600.jpg"
 }

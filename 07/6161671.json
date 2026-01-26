@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059968",
+  "mmkId": "1059968",
+  "productGroupId": "511816",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/neutrogena-hydro-boost-ultrahydraterend-serum/p/6161671",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hb6/h70/31685072388126/prd-front-6161671-1_600x600/prd-front-6161671-1-600x600.jpg"
+  "description": "30ml"
 }

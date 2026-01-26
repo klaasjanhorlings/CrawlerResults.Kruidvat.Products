@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kidsner Verkoelende Foam bij Waterpokken",
   "code": "5141137",
-  "price": "12.79",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "THEOTCLAB HEALTHCARE BV",
   "inStock": "inStock",
-  "onPromo": "1059570",
-  "mmkId": "1059570",
-  "productGroupId": "511393",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "€ 3,20",
+  "discount": "",
   "url": "/kidsner-verkoelende-foam-bij-waterpokken/p/5141137",
   "listName": "Lister",
   "brand": "Kidsner",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml"
+  "description": "Medisch hulpmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/he6/h37/45100929450014/prd-front-5141137-1_600x600/prd-front-5141137-1-600x600.jpg"
 }

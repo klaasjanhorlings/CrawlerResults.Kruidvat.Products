@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Epitact Duimbrace Links",
   "code": "5607897",
-  "price": "26.95",
-  "priceOriginal": "",
+  "price": "20.21",
+  "priceOriginal": "26.95",
   "itemBgbcat": "2006 > 2070 > 6475 > 6477 > 6476 > 6481",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1060129",
+  "mmkId": "1060129",
+  "productGroupId": "516488",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,74",
   "url": "/epitact-duimbrace-links/p/5607897",
   "listName": "Lister",
   "brand": "Epitact",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt S",
-  "image": "/medias/sys_master/prd-images/hbd/h60/45899585060894/temp-prd-front-5607897-1_600x600/temp-prd-front-5607897-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h31/h67/45945702219806/temp-prd-front-5607897-1_600x600/temp-prd-front-5607897-1-600x600.jpg"
 }

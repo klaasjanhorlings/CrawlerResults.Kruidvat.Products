@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1059637",
-  "mmkId": "1059637",
-  "productGroupId": "513662",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "€ 75,00",
   "url": "/oral-b-io-series-3-radiant-white-elektrische-tandenborstel-geschenkset/p/6375290",
@@ -33,6 +33,5 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7b/h6f/44783358869534/prd-front-6375290-1_600x600/prd-front-6375290-1-600x600.jpg"
+  "description": ""
 }

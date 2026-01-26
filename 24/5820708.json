@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dermolin Herstellende Crème",
   "code": "5820708",
-  "price": "9.56",
-  "priceOriginal": "11.95",
+  "price": "11.95",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "HEALTHCARE BRANDS GROUP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1059684",
-  "mmkId": "1059684",
-  "productGroupId": "514953",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,39",
+  "discount": "",
   "url": "/dermolin-herstellende-creme/p/5820708",
   "listName": "Lister",
   "brand": "Dermolin",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h5c/h4f/27374208122910/prd-front-5820708-1_600x600/prd-front-5820708-1-600x600.jpg"
+  "description": "75ml"
 }

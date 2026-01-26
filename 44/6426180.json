@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO 40824 Looney Tunes Sweetheart Tweety Bird",
+  "code": "6426180",
+  "price": "32.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-40824-looney-tunes-sweetheart-tweety-bird/p/6426180",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69044935,
+      "name": "LEGO Verjaardagscadeaus"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h29/h64/45039088238622/prd-front-6426180-1_600x600/prd-front-6426180-1-600x600.jpg"
+}

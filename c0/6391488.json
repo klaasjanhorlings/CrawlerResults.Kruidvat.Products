@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2261 > 2607 > 6391 > 6392 > 6397",
   "supplier": "NUTRI-DYNAMICS HEALTH PRODUCTS BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1060091",
+  "mmkId": "1060091",
+  "productGroupId": "514632",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-creatine-with-creapure/p/6391488",
@@ -33,5 +33,6 @@
       "name": "Creatine"
     }
   ],
-  "description": "300g"
+  "description": "300g",
+  "image": "/medias/sys_master/prd-images/hfc/h37/45952164233246/temp-prd-front-6391488-1_600x600/temp-prd-front-6391488-1-600x600.jpg"
 }

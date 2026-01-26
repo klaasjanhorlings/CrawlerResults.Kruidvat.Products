@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2933 > 3728",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1059566",
-  "mmkId": "1059566",
-  "productGroupId": "511282",
+  "onPromo": "1059987",
+  "mmkId": "1059987",
+  "productGroupId": "512378",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/taft-ultra-level-4-gellac/p/1986027",
@@ -33,5 +33,6 @@
       "name": "Haarlak"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hc6/h98/33767716290590/prd-front-1986027-1_600x600/prd-front-1986027-1-600x600.jpg"
 }

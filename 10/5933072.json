@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Weleda Granaatappel & Maca-Peptiden Verstevigende Dagcrème",
   "code": "5933072",
-  "price": "27.99",
-  "priceOriginal": "",
+  "price": "20.99",
+  "priceOriginal": "27.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059994",
+  "mmkId": "1059994",
+  "productGroupId": "512460",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 7,00",
   "url": "/weleda-granaatappel-maca-peptiden-verstevigende-dagcreme/p/5933072",
   "listName": "Lister",
   "brand": "Weleda",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "40ml - Rijpe huid"
+  "description": "40ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/he5/hb2/28134369722398/prd-front-5933072-1_600x600/prd-front-5933072-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "A.Vogel Neusspray Bijholteontsteking bij Eerste Symptomen",
   "code": "6376872",
-  "price": "11.99",
-  "priceOriginal": "",
+  "price": "8.99",
+  "priceOriginal": "11.99",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1059953",
+  "mmkId": "1059953",
+  "productGroupId": "510920",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/avogel-neusspray-bijholteontsteking-bij-eerste-symptomen/p/6376872",
   "listName": "Lister",
   "brand": "A.Vogel",
@@ -29,6 +29,5 @@
       "name": "Nieuw"
     }
   ],
-  "description": "Medisch hulpmiddel - 20ml",
-  "image": "/medias/sys_master/prd-images/hee/hc8/44277655404574/prd-front-6376872-1_600x600/prd-front-6376872-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 20ml"
 }

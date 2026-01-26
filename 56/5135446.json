@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3682",
   "supplier": "COOPER CONSUMER HEALTH NL B.V.",
   "inStock": "outOfStock",
-  "onPromo": "1059795",
-  "mmkId": "1059795",
-  "productGroupId": "511255",
+  "onPromo": "1059951",
+  "mmkId": "1059951",
+  "productGroupId": "510802",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/deoleen-0-sensitive-deodorant-roller/p/5135446",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h1a/hae/44934049136670/prd-front-5135446-1_600x600/prd-front-5135446-1-600x600.jpg"
 }

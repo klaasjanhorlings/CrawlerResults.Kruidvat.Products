@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1059327",
-  "mmkId": "1059327",
-  "productGroupId": "517102",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/bausch-lomb-boston-simplus-lenzenvloeistof-special-flight-pack/p/6356355",
@@ -33,5 +33,6 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hdf/hcb/44599309238302/prd-front-6356355-1_600x600/prd-front-6356355-1-600x600.jpg"
 }

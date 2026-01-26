@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2077 > 2235 > 2452 > 3321 > 4225",
   "supplier": "WEPA FRANCE SAS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Toiletpapier"
     }
   ],
-  "description": "6 rollen",
-  "image": "/medias/sys_master/prd-images/h69/hb7/45125876252702/prd-front-6391285-1_600x600/prd-front-6391285-1-600x600.jpg"
+  "description": "6 rollen"
 }

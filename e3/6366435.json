@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Essential Banana Whey Protein",
   "code": "6366435",
-  "price": "5.89",
-  "priceOriginal": "6.89",
+  "price": "6.89",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
   "supplier": "PRINSEN BV",
   "inStock": "inStock",
-  "onPromo": "1059669",
-  "mmkId": "1059669",
-  "productGroupId": "514626",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
-  "discount": "€ 1,00",
+  "discount": "",
   "url": "/kruidvat-essential-banana-whey-protein/p/6366435",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "330g",
-  "image": "/medias/sys_master/prd-images/h2d/ha7/45908285587486/temp-prd-front-6366435-1_600x600/temp-prd-front-6366435-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd5/h10/45955784114206/temp-prd-front-6366435-1_600x600/temp-prd-front-6366435-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Lip Varnish Rose Mauve Liquid Lipstick",
   "code": "6318324",
-  "price": "6.0",
+  "price": "5.59",
   "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1059680",
-  "mmkId": "1059680",
-  "productGroupId": "514796",
+  "onPromo": "1060098",
+  "mmkId": "1060098",
+  "productGroupId": "514797",
   "brandType": "Exclusief merk",
-  "discount": "€ 1,99",
+  "discount": "€ 2,40",
   "url": "/mcobeauty-lip-varnish-rose-mauve-liquid-lipstick/p/6318324",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4.2ml",
-  "image": "/medias/sys_master/prd-images/h1a/hc0/44839509491742/prd-front-6318324-1_600x600/prd-front-6318324-1-600x600.jpg"
+  "description": "4.2ml"
 }

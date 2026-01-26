@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "SNUGGSWEAR S.R.O.",
   "inStock": "outOfStock",
-  "onPromo": "1059529",
-  "mmkId": "1059529",
-  "productGroupId": "505354",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Ander merk",
   "discount": "",
   "url": "/snuggs-hugger-menstruatieondergoed/p/6449714",
@@ -33,6 +33,5 @@
       "name": "Menstruatieondergoed"
     }
   ],
-  "description": "rood, roze, mt M",
-  "image": "/medias/sys_master/prd-images/h2e/h96/45101887520798/prd-front-6449714-1_600x600/prd-front-6449714-1-600x600.jpg"
+  "description": "rood, roze, mt M"
 }

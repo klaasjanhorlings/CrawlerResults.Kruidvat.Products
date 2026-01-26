@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "SheaMoisture Power Treatment Haarbehandeling",
   "code": "5807527",
-  "price": "15.49",
-  "priceOriginal": "",
+  "price": "10.49",
+  "priceOriginal": "15.49",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "UNILEVER ASIA PRIV. LTD",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1060013",
+  "mmkId": "1060013",
+  "productGroupId": "512932",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/sheamoisture-power-treatment-haarbehandeling/p/5807527",
   "listName": "Lister",
   "brand": "SheaMoisture",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "335ml"
+  "description": "335ml",
+  "image": "/medias/prd-front-5807527-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njk4ODd8aW1hZ2UvanBlZ3xhRFU0TDJobFpTOHlOams1T0RFNE56RXpNRGt4TUM5d2NtUXRabkp2Ym5RdE5UZ3dOelV5TnkweFh6WXdNSGcyTURBfGQ1YTZjODRhNWUxMTZiNzliNmYzMTJjNmUzYjUxNWQ2NjJkOTIwMjg1YzUyMTZlOTJhNjE3OWRkYWJlMGM5ODg"
 }

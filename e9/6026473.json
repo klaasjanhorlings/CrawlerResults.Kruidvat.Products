@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
-  "inStock": "inStock",
-  "onPromo": "1059593",
-  "mmkId": "1059593",
-  "productGroupId": "512691",
+  "inStock": "outOfStock",
+  "onPromo": "1060102",
+  "mmkId": "1060102",
+  "productGroupId": "515110",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sebamed-relief-5-urea-shampoo/p/6026473",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hce/hae/44935057997854/prd-front-6026473-1_600x600/prd-front-6026473-1-600x600.jpg"
+  "description": "200ml"
 }

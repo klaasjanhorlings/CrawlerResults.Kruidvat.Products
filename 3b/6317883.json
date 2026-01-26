@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Sheer Rose Lip Oil",
   "code": "6317883",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "4.19",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1060098",
+  "mmkId": "1060098",
+  "productGroupId": "514797",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 1,80",
   "url": "/mcobeauty-sheer-rose-lip-oil/p/6317883",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,6 +37,5 @@
       "name": "Lip oil"
     }
   ],
-  "description": "9ml",
-  "image": "/medias/sys_master/prd-images/h17/hba/34830503018526/prd-front-6317883-1_600x600/prd-front-6317883-1-600x600.jpg"
+  "description": "9ml"
 }

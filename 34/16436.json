@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Hansaplast Sensitive Pleister",
   "code": "16436",
-  "price": "4.59",
-  "priceOriginal": "",
+  "price": "3.44",
+  "priceOriginal": "4.59",
   "itemBgbcat": "2006 > 2070 > 2174 > 3032 > 4109 > 6789",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1060116",
+  "mmkId": "1060116",
+  "productGroupId": "515836",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,15",
   "url": "/hansaplast-sensitive-pleister/p/16436",
   "listName": "Lister",
   "brand": "Hansaplast",
@@ -37,5 +37,6 @@
       "name": "Sensitive pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 1m x 6cm"
+  "description": "Medisch hulpmiddel - 1m x 6cm",
+  "image": "/medias/sys_master/prd-images/h3d/hff/44517123981342/prd-front-16436-1_600x600/prd-front-16436-1-600x600.jpg"
 }

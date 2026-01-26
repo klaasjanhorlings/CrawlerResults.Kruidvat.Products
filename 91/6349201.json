@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Bausch + Lomb Biotrue Multi-Purpose Solution Lenzenvloeistof Flight Pack",
   "code": "6349201",
-  "price": "9.49",
-  "priceOriginal": "",
+  "price": "7.12",
+  "priceOriginal": "9.49",
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1059327",
-  "mmkId": "1059327",
-  "productGroupId": "517102",
+  "onPromo": "1060127",
+  "mmkId": "1060127",
+  "productGroupId": "516436",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,37",
   "url": "/bausch-lomb-biotrue-multi-purpose-solution-lenzenvloeistof-flight-pack/p/6349201",
   "listName": "Lister",
   "brand": "Bausch & Lomb",
@@ -33,5 +33,6 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h8b/h78/44600487477278/prd-front-6349201-1_600x600/prd-front-6349201-1-600x600.jpg"
 }

@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "COTY NETHERLANDS CB SUB",
-  "inStock": "inStock",
-  "onPromo": "1059733",
-  "mmkId": "1059733",
-  "productGroupId": "522450",
+  "inStock": "outOfStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-masterpiece-001-black-waterproof-mascara/p/1703612",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h33/h81/30916263804958/prd-front-1703612-1_600x600/prd-front-1703612-1-600x600.jpg"
 }

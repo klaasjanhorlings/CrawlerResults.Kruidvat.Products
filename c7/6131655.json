@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Bolsius Golden Lights 8-Uur Waxinelichtjes",
   "code": "6131655",
-  "price": "4.67",
-  "priceOriginal": "7.19",
+  "price": "7.19",
+  "priceOriginal": "",
   "itemBgbcat": "2146 > 2631 > 2889 > 3664 > 5926 > 6679",
   "supplier": "BOLSIUS NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1059697",
-  "mmkId": "1059697",
-  "productGroupId": "515942",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,52",
+  "discount": "",
   "url": "/bolsius-golden-lights-8-uur-waxinelichtjes/p/6131655",
   "listName": "Lister",
   "brand": "Bolsius",
@@ -37,6 +37,5 @@
       "name": "Theelichten"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h79/h10/31621947752478/prd-front-6131655-1_600x600/prd-front-6131655-1-600x600.jpg"
+  "description": "30 stuks"
 }

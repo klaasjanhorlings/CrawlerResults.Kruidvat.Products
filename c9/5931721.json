@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Weleda Hydra+ 48H Hydraterende Gezichtscrème",
   "code": "5931721",
-  "price": "14.99",
-  "priceOriginal": "",
+  "price": "11.24",
+  "priceOriginal": "14.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059994",
+  "mmkId": "1059994",
+  "productGroupId": "512460",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,75",
   "url": "/weleda-hydra-48h-hydraterende-gezichtscreme/p/5931721",
   "listName": "Lister",
   "brand": "Weleda",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30ml - Droge en normale huid",
-  "image": "/medias/sys_master/prd-images/hcc/h47/45916085813278/temp-prd-front-5931721-1_600x600/temp-prd-front-5931721-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd6/h4b/45961776824350/temp-prd-front-5931721-1_600x600/temp-prd-front-5931721-1-600x600.jpg"
 }

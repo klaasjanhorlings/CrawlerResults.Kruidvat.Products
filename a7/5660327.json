@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Vaseline Original Lip Therapy",
   "code": "5660327",
-  "price": "1.99",
-  "priceOriginal": "2.89",
+  "price": "2.89",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2067 > 2209 > 2469 > 2968 > 3770",
   "supplier": "UNILEVER ASIA PRIV. LTD",
   "inStock": "inStock",
-  "onPromo": "1059691",
-  "mmkId": "1059691",
-  "productGroupId": "515567",
+  "onPromo": "1060109",
+  "mmkId": "1060109",
+  "productGroupId": "515563",
   "brandType": "A of B merk",
-  "discount": "€ 0,90",
+  "discount": "",
   "url": "/vaseline-original-lip-therapy/p/5660327",
   "listName": "Lister",
   "brand": "Vaseline",
@@ -33,6 +33,5 @@
       "name": "Lippenbalsem"
     }
   ],
-  "description": "7g",
-  "image": "/medias/sys_master/prd-images/h82/h9e/45256207990814/prd-front-5660327-1_600x600/prd-front-5660327-1-600x600.jpg"
+  "description": "7g"
 }

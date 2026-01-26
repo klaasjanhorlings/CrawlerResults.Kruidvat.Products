@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Essential Vanilla Whey Protein",
   "code": "6366421",
-  "price": "5.89",
-  "priceOriginal": "6.89",
+  "price": "6.89",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2261 > 2607 > 6383 > 6384 > 6397",
   "supplier": "PRINSEN BV",
   "inStock": "inStock",
-  "onPromo": "1059669",
-  "mmkId": "1059669",
-  "productGroupId": "514626",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
-  "discount": "€ 1,00",
+  "discount": "",
   "url": "/kruidvat-essential-vanilla-whey-protein/p/6366421",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "330g",
-  "image": "/medias/sys_master/prd-images/h58/h36/45912413831198/temp-prd-front-6366421-1_600x600/temp-prd-front-6366421-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hcf/h02/45959918125086/temp-prd-front-6366421-1_600x600/temp-prd-front-6366421-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "SheaMoisture Jamaican Black Castor Oil Strengthen & Restore Leave-In Conditioner",
   "code": "3808827",
-  "price": "18.89",
-  "priceOriginal": "",
+  "price": "13.89",
+  "priceOriginal": "18.89",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "UNILEVER ASIA PRIV. LTD",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1060013",
+  "mmkId": "1060013",
+  "productGroupId": "512932",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/sheamoisture-jamaican-black-castor-oil-strengthen-restore-leave-in-conditioner/p/3808827",
   "listName": "Lister",
   "brand": "SheaMoisture",
@@ -33,5 +33,6 @@
       "name": "Leave-in conditioner"
     }
   ],
-  "description": "431ml"
+  "description": "431ml",
+  "image": "/medias/prd-front-3808827-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODExMDJ8aW1hZ2UvanBlZ3xhR0U1TDJnME15OHlOekF3TVRrMU5EazVNakUxT0M5d2NtUXRabkp2Ym5RdE16Z3dPRGd5TnkweFh6WXdNSGcyTURBfDE2ZDc1NzdiMWNhMTVhN2Q3NTk5ZTMzNmMxMzEzMDJmN2VlMGFlYTEyOWQ5ZmYyOTI5ZDA5NGM4MzFmNDRkNTk"
 }

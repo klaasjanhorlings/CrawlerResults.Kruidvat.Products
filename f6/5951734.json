@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6696",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "outOfStock",
-  "onPromo": "1059800",
-  "mmkId": "1059800",
-  "productGroupId": "512362",
+  "onPromo": "1059966",
+  "mmkId": "1059966",
+  "productGroupId": "511686",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gliss-overnight-moisture-night-elixir/p/5951734",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hea/h1e/34029262700574/prd-front-5951734-1_600x600/prd-front-5951734-1-600x600.jpg"
 }

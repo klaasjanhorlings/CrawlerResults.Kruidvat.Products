@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Inoli Shampoo & Douchegel",
   "code": "5187540",
-  "price": "9.37",
-  "priceOriginal": "12.49",
+  "price": "12.49",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "NIA CARE BV",
   "inStock": "inStock",
-  "onPromo": "1059562",
-  "mmkId": "1059562",
-  "productGroupId": "511179",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,12",
+  "discount": "",
   "url": "/inoli-shampoo-douchegel/p/5187540",
   "listName": "Lister",
   "brand": "Inoli",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/he5/hb4/45912317820958/temp-prd-front-5187540-1_600x600/temp-prd-front-5187540-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb1/hd1/45959800913950/temp-prd-front-5187540-1_600x600/temp-prd-front-5187540-1-600x600.jpg"
 }

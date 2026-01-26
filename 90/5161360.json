@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 4341 > 4350 > 4351",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
-  "onPromo": "1059801",
-  "mmkId": "1059801",
-  "productGroupId": "512503",
+  "inStock": "outOfStock",
+  "onPromo": "1059996",
+  "mmkId": "1059996",
+  "productGroupId": "512502",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-newborn-mini-maat-2-luiers-jumbopack/p/5161360",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 2"
     }
   ],
-  "description": "mt 2 (3-6 kg), 108 stuks",
-  "image": "/medias/sys_master/prd-images/h7a/hc7/44969569845278/prd-front-5161360-1_600x600/prd-front-5161360-1-600x600.jpg"
+  "description": "mt 2 (3-6 kg), 108 stuks"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Cosrx Clear Fit Master Patch",
   "code": "6199996",
-  "price": "5.9",
-  "priceOriginal": "",
+  "price": "4.42",
+  "priceOriginal": "5.9",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1059917",
+  "mmkId": "1059917",
+  "productGroupId": "508222",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,48",
   "url": "/cosrx-clear-fit-master-patch/p/6199996",
   "listName": "Lister",
   "brand": "COSRX",
@@ -37,5 +37,6 @@
       "name": "Korean pimple patches"
     }
   ],
-  "description": "18 stuks"
+  "description": "18 stuks",
+  "image": "/medias/sys_master/prd-images/had/hc5/32246315810846/prd-front-6199996-1_600x600/prd-front-6199996-1-600x600.jpg"
 }

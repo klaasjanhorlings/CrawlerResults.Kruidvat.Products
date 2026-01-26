@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1059630",
-  "mmkId": "1059630",
-  "productGroupId": "513627",
+  "onPromo": "1059914",
+  "mmkId": "1059914",
+  "productGroupId": "508008",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-mindful-blossom-hair-bodymist/p/6302329",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h9c/h63/34111715016734/prd-front-6302329-1_600x600/prd-front-6302329-1-600x600.jpg"
 }

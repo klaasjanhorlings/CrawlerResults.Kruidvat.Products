@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Epitact Hallux Valgus Knobbel Flexibele Corrigerende Orthese",
   "code": "5400641",
-  "price": "37.45",
-  "priceOriginal": "",
+  "price": "28.09",
+  "priceOriginal": "37.45",
   "itemBgbcat": "2006 > 2052 > 2175 > 6449 > 3567 > 6784",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1060129",
+  "mmkId": "1060129",
+  "productGroupId": "516488",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,36",
   "url": "/epitact-hallux-valgus-knobbel-flexibele-corrigerende-orthese/p/5400641",
   "listName": "Lister",
   "brand": "Epitact",
@@ -33,5 +33,6 @@
       "name": "Hulpmiddelen voetproblemen"
     }
   ],
-  "description": "taupe, mt 39-41"
+  "description": "taupe, mt 39-41",
+  "image": "/medias/sys_master/prd-images/h57/h56/27747937452062/prd-front-5400641-1_600x600/prd-front-5400641-1-600x600.jpg"
 }

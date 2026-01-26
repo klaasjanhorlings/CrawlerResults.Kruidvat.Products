@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1059864",
-  "mmkId": "1059864",
-  "productGroupId": "514769",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-24h-brow-50-light-brunette-filling-triangular-pencil/p/5783321",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "1ml",
-  "image": "/medias/sys_master/prd-images/h81/h3f/34376070201374/prd-front-5783321-1_600x600/prd-front-5783321-1-600x600.jpg"
+  "description": "1ml"
 }

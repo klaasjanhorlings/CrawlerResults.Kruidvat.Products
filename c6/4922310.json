@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1059604",
-  "mmkId": "1059604",
-  "productGroupId": "513119",
+  "onPromo": "1059964",
+  "mmkId": "1059964",
+  "productGroupId": "511470",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-q10-power-extra-voedende-anti-rimpel-dagcreme/p/4922310",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Droge huid"
+  "description": "50ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h71/he0/45028698587166/prd-front-4922310-1_600x600/prd-front-4922310-1-600x600.jpg"
 }

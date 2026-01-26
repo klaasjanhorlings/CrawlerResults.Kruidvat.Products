@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2486 > 3053 > 3902",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1059642",
-  "mmkId": "1059642",
-  "productGroupId": "513689",
+  "onPromo": "1059951",
+  "mmkId": "1059951",
+  "productGroupId": "510802",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/cb12-white-mondwater/p/4369240",
@@ -33,5 +33,6 @@
       "name": "Mondwater en mondspray"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h25/h0e/44934857228318/prd-front-4369240-1_600x600/prd-front-4369240-1-600x600.jpg"
 }

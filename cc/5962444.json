@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "DKNY Be Delicious Bodymist",
   "code": "5962444",
-  "price": "11.99",
-  "priceOriginal": "",
+  "price": "9.59",
+  "priceOriginal": "11.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "1059630",
-  "mmkId": "1059630",
-  "productGroupId": "513627",
+  "onPromo": "1060037",
+  "mmkId": "1060037",
+  "productGroupId": "513733",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,40",
   "url": "/dkny-be-delicious-bodymist/p/5962444",
   "listName": "Lister",
   "brand": "DKNY",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/ha2/h08/28676013031454/prd-front-5962444-1_600x600/prd-front-5962444-1-600x600.jpg"
 }
