@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Age Perfect Reinigingsmelk",
+  "itemName": "L'Oréal Paris Age Perfect Cleansing Cream",
   "code": "6290548",
   "price": "12.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "511982",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-age-perfect-reinigingsmelk/p/6290548",
+  "url": "/loreal-paris-age-perfect-cleansing-cream/p/6290548",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
   "mpOrigin": "Kruidvat",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hfb/hb5/45963912642590/temp-prd-front-6290548-1_600x600/temp-prd-front-6290548-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf2/h8a/46008797954078/temp-prd-front-6290548-1_600x600/temp-prd-front-6290548-1-600x600.jpg"
 }

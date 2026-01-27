@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "From PB With Love Schoudertas met Nepbont",
+  "code": "6338442",
+  "price": "3.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "€ 4,00",
+  "url": "/from-pb-with-love-schoudertas-met-nepbont/p/6338442",
+  "listName": "Lister",
+  "brand": "Patty",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    },
+    {
+      "id": 101890704,
+      "name": "Schoudertas"
+    }
+  ],
+  "description": "30cm x 30cm"
+}

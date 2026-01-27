@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Fujifilm instax Link Wide Fotoprinter",
   "code": "6050525",
   "price": "139.99",
@@ -33,5 +33,6 @@
       "name": "Instax printers"
     }
   ],
-  "description": "grijs"
+  "description": "grijs",
+  "image": "/medias/sys_master/prd-images/h4b/hff/44505896550430/prd-front-6050525-1_600x600/prd-front-6050525-1-600x600.jpg"
 }

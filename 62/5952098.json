@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Fujifilm instax Mini 11 Case",
   "code": "5952098",
   "price": "14.99",
@@ -33,5 +33,6 @@
       "name": "Instax beschermhoezen"
     }
   ],
-  "description": "blush pink"
+  "description": "blush pink",
+  "image": "/medias/sys_master/prd-images/h8c/hf2/28866136866846/prd-front-5952098-1_600x600/prd-front-5952098-1-600x600.jpg"
 }
