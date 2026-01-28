@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2074 > 2155 > 3027 > 3565 > 6785",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -37,5 +37,6 @@
       "name": "Daglenzen"
     }
   ],
-  "description": "Medisch hulpmiddel - 30 stuks"
+  "description": "Medisch hulpmiddel - 30 stuks",
+  "image": "/medias/sys_master/prd-images/h76/h19/28459968823326/prd-front-5241153-1_600x600/prd-front-5241153-1-600x600.jpg"
 }

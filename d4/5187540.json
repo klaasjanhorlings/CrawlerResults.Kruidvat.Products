@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2726 > 3428",
   "supplier": "NIA CARE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1060171",
+  "mmkId": "1060171",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hc3/h69/46004870578206/temp-prd-front-5187540-1_600x600/temp-prd-front-5187540-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h20/hd7/46051294609438/temp-prd-front-5187540-1_600x600/temp-prd-front-5187540-1-600x600.jpg"
 }

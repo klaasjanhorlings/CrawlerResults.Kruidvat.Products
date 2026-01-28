@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -37,5 +37,6 @@
       "name": "Droge en gevoelige huid"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/hdd/h67/34594990063646/prd-front-6077496-1_600x600/prd-front-6077496-1-600x600.jpg"
 }

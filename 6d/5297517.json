@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1060143",
+  "mmkId": "1060143",
+  "productGroupId": "519638",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/philips-avent-scf551/05-6m-drinkbeker-met-zachte-tuit/p/5297517",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "blauw, 200ml"
+  "description": "blauw, 200ml",
+  "image": "/medias/sys_master/prd-images/h79/h68/27495346372638/prd-front-5297517-1_600x600/prd-front-5297517-1-600x600.jpg"
 }

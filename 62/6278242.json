@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Weleda Baby Calendula Bodycrème",
   "code": "6278242",
-  "price": "7.87",
+  "price": "7.34",
   "priceOriginal": "10.49",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2719 > 3422",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "1059994",
-  "mmkId": "1059994",
-  "productGroupId": "512460",
+  "onPromo": "1060220",
+  "mmkId": "1060220",
+  "productGroupId": "517213",
   "brandType": "A of B merk",
-  "discount": "€ 2,62",
+  "discount": "€ 3,15",
   "url": "/weleda-baby-calendula-bodycreme/p/6278242",
   "listName": "Lister",
   "brand": "Weleda",
@@ -37,5 +37,6 @@
       "name": "Babycreme"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hc8/h4e/33644464799774/prd-front-6278242-1_600x600/prd-front-6278242-1-600x600.jpg"
 }

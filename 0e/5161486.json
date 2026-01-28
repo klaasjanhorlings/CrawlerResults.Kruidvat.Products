@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "MAYBORN FRANCE EURL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1060171",
+  "mmkId": "1060171",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,5 +37,6 @@
       "name": "Navullingen luieremmers"
     }
   ],
-  "description": "6 stuks"
+  "description": "6 stuks",
+  "image": "/medias/sys_master/prd-images/h9c/h41/28811055824926/prd-front-5161486-1_600x600/prd-front-5161486-1-600x600.jpg"
 }

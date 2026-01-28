@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Hydrofielluiers",
   "code": "6284164",
-  "price": "3.99",
-  "priceOriginal": "",
+  "price": "2.39",
+  "priceOriginal": "3.99",
   "itemBgbcat": "2001 > 2130 > 2499 > 3106 > 3973 > 4362",
   "supplier": "MUNDIA BV",
   "inStock": "inStock",
-  "onPromo": "1060081",
-  "mmkId": "1060081",
-  "productGroupId": "514151",
+  "onPromo": "1060208",
+  "mmkId": "1060208",
+  "productGroupId": "514177",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 1,60",
   "url": "/kruidvat-hydrofielluiers/p/6284164",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "60cm x 60cm, 3 stuks",
-  "image": "/medias/sys_master/prd-images/hca/hd8/45993828188190/temp-prd-front-6284164-1_600x600/temp-prd-front-6284164-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h31/h1a/46040525045790/temp-prd-front-6284164-1_600x600/temp-prd-front-6284164-1-600x600.jpg"
 }

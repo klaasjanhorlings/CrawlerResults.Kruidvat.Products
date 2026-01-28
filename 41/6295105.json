@@ -7,7 +7,7 @@
   "priceOriginal": "95.76",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "NAIF CARE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1060026",
   "mmkId": "1060026",
   "productGroupId": "513424",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "24 x 54 stuks"
+  "description": "24 x 54 stuks",
+  "image": "/medias/sys_master/prd-images/hf7/hee/44241071964190/prd-front-6295105-1_600x600/prd-front-6295105-1-600x600.jpg"
 }

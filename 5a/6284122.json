@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Kinderpyjama",
   "code": "6284122",
-  "price": "6.99",
-  "priceOriginal": "",
+  "price": "4.19",
+  "priceOriginal": "6.99",
   "itemBgbcat": "2001 > 2130 > 2324 > 2723 > 3426 > 4362",
   "supplier": "MUNDIA BV",
   "inStock": "inStock",
-  "onPromo": "1060081",
-  "mmkId": "1060081",
-  "productGroupId": "514151",
+  "onPromo": "1060208",
+  "mmkId": "1060208",
+  "productGroupId": "514177",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 2,80",
   "url": "/kruidvat-kinderpyjama/p/6284122",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "beige, mt 74-80",
-  "image": "/medias/sys_master/prd-images/hbc/h7f/45992004911134/temp-prd-front-6284122-1_600x600/temp-prd-front-6284122-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h86/h95/46037251194910/temp-prd-front-6284122-1_600x600/temp-prd-front-6284122-1-600x600.jpg"
 }

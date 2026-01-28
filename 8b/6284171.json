@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Terry Monddoekjes",
   "code": "6284171",
-  "price": "3.99",
-  "priceOriginal": "",
+  "price": "2.39",
+  "priceOriginal": "3.99",
   "itemBgbcat": "2001 > 2130 > 2499 > 3106 > 3973 > 4362",
   "supplier": "MUNDIA BV",
   "inStock": "inStock",
-  "onPromo": "1060081",
-  "mmkId": "1060081",
-  "productGroupId": "514151",
+  "onPromo": "1060208",
+  "mmkId": "1060208",
+  "productGroupId": "514177",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 1,60",
   "url": "/kruidvat-terry-monddoekjes/p/6284171",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30cm x 30cm, 3 stuks",
-  "image": "/medias/sys_master/prd-images/hd8/hf9/45998324776990/temp-prd-front-6284171-1_600x600/temp-prd-front-6284171-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h09/h6e/46043601502238/temp-prd-front-6284171-1_600x600/temp-prd-front-6284171-1-600x600.jpg"
 }

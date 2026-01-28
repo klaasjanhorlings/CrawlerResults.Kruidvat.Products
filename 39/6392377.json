@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3934",
   "supplier": "HALEON NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -29,6 +29,5 @@
       "name": "Nieuw"
     }
   ],
-  "description": "Medisch hulpmiddel - 18 x 5ml",
-  "image": "/medias/sys_master/prd-images/hb5/h3a/44936670642206/prd-front-6392377-1_600x600/prd-front-6392377-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 18 x 5ml"
 }

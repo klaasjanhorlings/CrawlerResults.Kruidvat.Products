@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Terry Slabbetjes",
   "code": "6284556",
-  "price": "4.49",
-  "priceOriginal": "",
+  "price": "2.69",
+  "priceOriginal": "4.49",
   "itemBgbcat": "2001 > 2130 > 2499 > 3106 > 3973 > 4362",
   "supplier": "MUNDIA BV",
   "inStock": "inStock",
-  "onPromo": "1060081",
-  "mmkId": "1060081",
-  "productGroupId": "514151",
+  "onPromo": "1060208",
+  "mmkId": "1060208",
+  "productGroupId": "514177",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 1,80",
   "url": "/kruidvat-terry-slabbetjes/p/6284556",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/h6d/h7e/45990730432542/temp-prd-front-6284556-1_600x600/temp-prd-front-6284556-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h07/had/46037209251870/temp-prd-front-6284556-1_600x600/temp-prd-front-6284556-1-600x600.jpg"
 }
