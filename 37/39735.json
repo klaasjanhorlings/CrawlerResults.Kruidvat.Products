@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
   "supplier": "INEX NV",
   "inStock": "inStock",
-  "onPromo": "1060171",
-  "mmkId": "1060171",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,5 +37,6 @@
       "name": "Dreumesmelk"
     }
   ],
-  "description": "1L"
+  "description": "1L",
+  "image": "/medias/sys_master/prd-images/h66/h44/30916718559262/prd-front-39735-1_600x600/prd-front-39735-1-600x600.jpg"
 }

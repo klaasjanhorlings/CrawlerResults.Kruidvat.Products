@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Cellular Luminous630 Anti-Spot Post-Acne Vlekken Serum",
   "code": "5891702",
-  "price": "43.99",
-  "priceOriginal": "",
+  "price": "20.0",
+  "priceOriginal": "43.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "BEIERSDORF NV BL",
   "inStock": "inStock",
-  "onPromo": "1059964",
-  "mmkId": "1059964",
-  "productGroupId": "511470",
+  "onPromo": "1060226",
+  "mmkId": "1060226",
+  "productGroupId": "513172",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 23,99",
   "url": "/nivea-cellular-luminous630-anti-spot-post-acne-vlekken-serum/p/5891702",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml - Onzuivere huid",
-  "image": "/medias/sys_master/prd-images/hbf/h9d/45052177907742/prd-front-5891702-1_600x600/prd-front-5891702-1-600x600.jpg"
+  "description": "30ml - Onzuivere huid"
 }

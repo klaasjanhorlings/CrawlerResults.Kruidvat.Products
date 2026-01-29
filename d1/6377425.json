@@ -21,21 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 57856073,
+      "name": "Sport"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
+      "id": 30266012,
+      "name": "Sportvoeding"
     },
     {
-      "id": 30266715,
-      "name": "Mineralen"
-    },
-    {
-      "id": 50001842,
-      "name": "Magnesium"
+      "id": 30266755,
+      "name": "Sportaccessoires"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h8d/ha0/44241612537886/prd-front-6377425-1_600x600/prd-front-6377425-1-600x600.jpg"
 }

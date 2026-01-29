@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Difrax Lovi Mammafeel Fles",
   "code": "6143506",
-  "price": "7.49",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2498 > 2978 > 3804",
   "supplier": "DIFRAX BV",
   "inStock": "inStock",
-  "onPromo": "1060219",
-  "mmkId": "1060219",
-  "productGroupId": "517129",
+  "onPromo": "1053330",
+  "mmkId": "1053330",
+  "productGroupId": "498876",
   "brandType": "A of B merk",
-  "discount": "€ 7,50",
+  "discount": "",
   "url": "/difrax-lovi-mammafeel-fles/p/6143506",
   "listName": "Lister",
   "brand": "Difrax",
@@ -33,6 +33,5 @@
       "name": "Babyflesjes"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/hbf/h3f/32147692421150/prd-front-6143506-1_600x600/prd-front-6143506-1-600x600.jpg"
+  "description": "250ml"
 }

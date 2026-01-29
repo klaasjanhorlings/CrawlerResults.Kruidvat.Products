@@ -29,13 +29,14 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266702,
-      "name": "Intieme ongemakken"
+      "id": 30266707,
+      "name": "Maag en darm"
     },
     {
-      "id": 30266955,
-      "name": "Aambeien"
+      "id": 30266975,
+      "name": "Stoelgang"
     }
   ],
-  "description": "Medisch hulpmiddel - 40ml"
+  "description": "Medisch hulpmiddel - 40ml",
+  "image": "/medias/sys_master/prd-images/h53/h1e/44276369555486/prd-front-6391271-1_600x600/prd-front-6391271-1-600x600.jpg"
 }

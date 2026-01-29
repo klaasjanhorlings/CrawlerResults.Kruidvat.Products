@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Difrax Antilektuitbeker",
   "code": "5766146",
-  "price": "5.49",
-  "priceOriginal": "10.99",
+  "price": "10.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2611 > 3252 > 4143",
   "supplier": "DIFRAX BV",
   "inStock": "outOfStock",
-  "onPromo": "1060219",
-  "mmkId": "1060219",
-  "productGroupId": "517129",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,50",
+  "discount": "",
   "url": "/difrax-antilektuitbeker/p/5766146",
   "listName": "Lister",
   "brand": "Difrax",
@@ -33,6 +33,5 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hd7/h58/28162651881502/prd-front-5766146-1_600x600/prd-front-5766146-1-600x600.jpg"
+  "description": ""
 }

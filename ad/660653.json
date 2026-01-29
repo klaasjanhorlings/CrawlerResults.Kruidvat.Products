@@ -5,7 +5,7 @@
   "code": "660653",
   "price": "6.49",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "EMIL KIESSLING GMBH",
   "inStock": "inStock",
   "onPromo": "1060133",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hef/hab/44803605594142/prd-front-660653-1_600x600/prd-front-660653-1-600x600.jpg"
 }

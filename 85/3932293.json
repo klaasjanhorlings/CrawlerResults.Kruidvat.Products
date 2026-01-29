@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Kids 0+ Vitamine D3 Druppels op Oliebasis",
   "code": "3932293",
-  "price": "2.79",
-  "priceOriginal": "3.99",
+  "price": "3.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6239",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1060211",
-  "mmkId": "1060211",
-  "productGroupId": "514721",
+  "onPromo": "1061953",
+  "mmkId": "1061953",
+  "productGroupId": "536620",
   "brandType": "Eigen merk",
-  "discount": "€ 1,20",
+  "discount": "",
   "url": "/kruidvat-kids-0-vitamine-d3-druppels-op-oliebasis/p/3932293",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536080,
+      "name": "Baby"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30266991,
-      "name": "Vitamine D"
+      "id": 75860460,
+      "name": "Baby en Kind gezondheid"
     }
   ],
   "description": "25ml",

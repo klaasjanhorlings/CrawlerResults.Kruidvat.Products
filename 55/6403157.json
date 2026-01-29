@@ -25,10 +25,13 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 49950650,
+      "name": "Bacteriestammen"
     }
   ],
-  "description": "14 stuks",
-  "image": "/medias/sys_master/prd-images/hce/h76/44450680045598/prd-front-6403157-1_600x600/prd-front-6403157-1-600x600.jpg"
+  "description": "14 stuks"
 }

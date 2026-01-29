@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1060171",
-  "mmkId": "1060171",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,6 +37,5 @@
       "name": "Opvolgmelk"
     }
   ],
-  "description": "800g",
-  "image": "/medias/sys_master/prd-images/h8d/h64/33885872783390/prd-front-2774591-1_600x600/prd-front-2774591-1-600x600.jpg"
+  "description": "800g"
 }

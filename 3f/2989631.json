@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Weleda Zwangerschapsolie",
   "code": "2989631",
-  "price": "18.99",
-  "priceOriginal": "",
+  "price": "14.24",
+  "priceOriginal": "18.99",
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "WELEDA BENELUX SE",
-  "inStock": "inStock",
-  "onPromo": "1060218",
-  "mmkId": "1060218",
-  "productGroupId": "516473",
+  "inStock": "outOfStock",
+  "onPromo": "1059994",
+  "mmkId": "1059994",
+  "productGroupId": "512460",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,75",
   "url": "/weleda-zwangerschapsolie/p/2989631",
   "listName": "Lister",
   "brand": "Weleda",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266023,
-      "name": "Zwangerschap en kraamtijd"
+      "id": 30265995,
+      "name": "Huidverzorging"
     },
     {
-      "id": 30266805,
-      "name": "Mama verzorgingsproducten"
+      "id": 30266639,
+      "name": "Bodyolie"
     }
   ],
   "description": "100ml",

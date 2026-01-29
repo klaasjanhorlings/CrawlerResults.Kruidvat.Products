@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kneipp Goodbye Stress Watermunt & Rozemarijn Douchegel",
   "code": "5511066",
-  "price": "6.49",
-  "priceOriginal": "",
+  "price": "3.99",
+  "priceOriginal": "6.49",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 3686 > 5723",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1059926",
-  "mmkId": "1059926",
-  "productGroupId": "508960",
+  "onPromo": "1060228",
+  "mmkId": "1060228",
+  "productGroupId": "514215",
   "brandType": "A or B brand",
-  "discount": "",
+  "discount": "€ 2,50",
   "url": "/kneipp-goodbye-stress-watermunt-rozemarijn-douchegel/p/5511066",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -29,8 +29,8 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266648,
-      "name": "Douchegel"
+      "id": 30266650,
+      "name": "Doucheschuim"
     }
   ],
   "description": "200ml - Normale huid",
