@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Cloudtopia Divine Crimson Cheek & Lip Mousse",
+  "code": "6428168",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "1060075",
+  "mmkId": "1060075",
+  "productGroupId": "513876",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-cloudtopia-divine-crimson-cheek-lip-mousse/p/6428168",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266590,
+      "name": "Blush"
+    }
+  ],
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/heb/h13/46145746599966/temp-prd-front-6428168-1_600x600/temp-prd-front-6428168-1-600x600.jpg"
+}

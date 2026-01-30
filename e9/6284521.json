@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2316 > 2717 > 3420 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1060081",
   "mmkId": "1060081",
   "productGroupId": "514151",
@@ -29,8 +29,8 @@
       "name": "Babykleding"
     },
     {
-      "id": 51621369,
-      "name": "Badcapes en badjassen"
+      "id": 30266854,
+      "name": "Babykledingaccessoires"
     }
   ],
   "description": "",

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Drs Leenarts Aanstiplotion bij Puistjes",
   "code": "5754687",
-  "price": "9.74",
-  "priceOriginal": "12.99",
+  "price": "12.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1060096",
   "productGroupId": "514795",
   "brandType": "A of B merk",
-  "discount": "€ 3,25",
+  "discount": "",
   "url": "/drs-leenarts-aanstiplotion-bij-puistjes/p/5754687",
   "listName": "Lister",
   "brand": "Drs Leenarts",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 50048154,
-      "name": "Verzorging probleemhuid"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "15ml",

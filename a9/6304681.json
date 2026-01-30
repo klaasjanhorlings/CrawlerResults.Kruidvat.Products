@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "CeraVe SPF50 Hydraterende Gezichtscrème",
   "code": "6304681",
-  "price": "15.16",
-  "priceOriginal": "18.95",
+  "price": "18.95",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1059963",
   "productGroupId": "511434",
   "brandType": "A of B merk",
-  "discount": "€ 3,79",
+  "discount": "",
   "url": "/cerave-spf50-hydraterende-gezichtscreme/p/6304681",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "52ml",

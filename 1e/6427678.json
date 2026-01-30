@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Make 'Em Wonder 20 Classic Tan Foundation",
+  "code": "6427678",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "1060073",
+  "mmkId": "1060073",
+  "productGroupId": "513873",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-make-em-wonder-20-classic-tan-foundation/p/6427678",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266577,
+      "name": "Foundation"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6b/hc7/46135411507230/temp-prd-front-6427678-1_600x600/temp-prd-front-6427678-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "18.0",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059917",
   "mmkId": "1059917",
   "productGroupId": "508222",
@@ -33,8 +33,8 @@
       "name": "Korean Skincare"
     },
     {
-      "id": 90760765,
-      "name": "Korean dagcreme"
+      "id": 90760987,
+      "name": "Korean zonbescherming"
     }
   ],
   "description": "50ml",

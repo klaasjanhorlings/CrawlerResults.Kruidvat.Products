@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Fit Me 01 Translucent Mattifying Setting Powder",
+  "code": "6428042",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "1060075",
+  "mmkId": "1060075",
+  "productGroupId": "513876",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-fit-me-01-translucent-mattifying-setting-powder/p/6428042",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266587,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "15g",
+  "image": "/medias/sys_master/prd-images/h55/h01/46139724955678/temp-prd-front-6428042-1_600x600/temp-prd-front-6428042-1-600x600.jpg"
+}

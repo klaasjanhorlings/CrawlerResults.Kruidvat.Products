@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Beauty of Joseon Revive Eye Serum",
   "code": "6200024",
-  "price": "15.67",
-  "priceOriginal": "20.9",
+  "price": "20.9",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1059917",
   "productGroupId": "508222",
   "brandType": "A of B merk",
-  "discount": "€ 5,23",
+  "discount": "",
   "url": "/beauty-of-joseon-revive-eye-serum/p/6200024",
   "listName": "Lister",
   "brand": "BEAUTY OF JOSEON",
@@ -25,12 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266604,
-      "name": "Oogcreme"
+      "id": 73443650,
+      "name": "Korean Skincare"
+    },
+    {
+      "id": 90760988,
+      "name": "Korean oogcreme"
     }
   ],
   "description": "30ml",

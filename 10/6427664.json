@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Wonder Snatch 05 Banana Brat Poeder",
+  "code": "6427664",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "1060073",
+  "mmkId": "1060073",
+  "productGroupId": "513873",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-wonder-snatch-05-banana-brat-poeder/p/6427664",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266587,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6f/h51/46153943384094/temp-prd-front-6427664-1_600x600/temp-prd-front-6427664-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Wonder Snatch 07 Cinnamon Catch Poeder",
+  "code": "6427650",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "1060073",
+  "mmkId": "1060073",
+  "productGroupId": "513873",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-wonder-snatch-07-cinnamon-catch-poeder/p/6427650",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266587,
+      "name": "Gezichtspoeder"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd7/ha3/46133423800350/temp-prd-front-6427650-1_600x600/temp-prd-front-6427650-1-600x600.jpg"
+}

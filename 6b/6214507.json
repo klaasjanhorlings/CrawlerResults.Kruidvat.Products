@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Weleda Voetbalsem",
   "code": "6214507",
-  "price": "11.99",
-  "priceOriginal": "",
+  "price": "8.99",
+  "priceOriginal": "11.99",
   "itemBgbcat": "2006 > 2052 > 2175 > 2834 > 3576 > 6784",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1060113",
   "productGroupId": "515757",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,00",
   "url": "/weleda-voetbalsem/p/6214507",
   "listName": "Lister",
   "brand": "Weleda",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "75ml",
-  "image": "/medias/sys_master/prd-images/hd3/h82/46093942489118/temp-prd-front-6214507-1_600x600/temp-prd-front-6214507-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h11/had/46143692374046/temp-prd-front-6214507-1_600x600/temp-prd-front-6214507-1-600x600.jpg"
 }

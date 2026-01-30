@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "CeraVe Schuimende Reinigingsgel",
   "code": "5869568",
-  "price": "15.68",
-  "priceOriginal": "19.6",
+  "price": "19.6",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1059963",
   "productGroupId": "511434",
   "brandType": "A of B merk",
-  "discount": "€ 3,92",
+  "discount": "",
   "url": "/cerave-schuimende-reinigingsgel/p/5869568",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266915,
-      "name": "Reinigingsgel"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "473ml - Normale tot gemengde huid",

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Make 'Em Wonder 12 Natural Foundation",
+  "code": "6427734",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "1060073",
+  "mmkId": "1060073",
+  "productGroupId": "513873",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-make-em-wonder-12-natural-foundation/p/6427734",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266577,
+      "name": "Foundation"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb7/h42/46133406892062/temp-prd-front-6427734-1_600x600/temp-prd-front-6427734-1-600x600.jpg"
+}

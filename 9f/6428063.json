@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Sculpting Stix 011 Rosy Sculpt 2-in-1 Eyeliner",
+  "code": "6428063",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "1060075",
+  "mmkId": "1060075",
+  "productGroupId": "513876",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-sculpting-stix-011-rosy-sculpt-2-in-1-eyeliner/p/6428063",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266586,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb0/h3c/46143795691550/temp-prd-front-6428063-1_600x600/temp-prd-front-6428063-1-600x600.jpg"
+}

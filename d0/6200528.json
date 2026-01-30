@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "SKIN1004 Madagascar Centella Ampoule",
   "code": "6200528",
-  "price": "9.67",
-  "priceOriginal": "12.9",
+  "price": "12.9",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1059917",
   "productGroupId": "508222",
   "brandType": "A of B merk",
-  "discount": "€ 3,23",
+  "discount": "",
   "url": "/skin1004-madagascar-centella-ampoule/p/6200528",
   "listName": "Lister",
   "brand": "SKIN1004",
@@ -33,6 +33,5 @@
       "name": "Ampoules"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hc8/h83/32247185932318/prd-front-6200528-1_600x600/prd-front-6200528-1-600x600.jpg"
+  "description": "30ml"
 }

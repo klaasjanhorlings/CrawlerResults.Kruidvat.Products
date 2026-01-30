@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Garnier SkinActive Vitamine C Glow Booster Serum Cream",
   "code": "5583551",
-  "price": "15.0",
-  "priceOriginal": "24.99",
+  "price": "24.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1060086",
   "productGroupId": "514183",
   "brandType": "A of B merk",
-  "discount": "€ 9,99",
+  "discount": "",
   "url": "/garnier-skinactive-vitamine-c-glow-booster-serum-cream/p/5583551",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -29,12 +29,8 @@
       "name": "Skincare"
     },
     {
-      "id": 30266605,
-      "name": "Serum"
-    },
-    {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "50ml - Alle huidtypen",

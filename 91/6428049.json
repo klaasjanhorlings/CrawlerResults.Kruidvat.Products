@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maybelline New York Cloudtopia Dreamy Dawn Cheek & Lip Mousse",
+  "code": "6428049",
+  "price": "16.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "1060075",
+  "mmkId": "1060075",
+  "productGroupId": "513876",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maybelline-new-york-cloudtopia-dreamy-dawn-cheek-lip-mousse/p/6428049",
+  "listName": "Lister",
+  "brand": "Maybelline",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266590,
+      "name": "Blush"
+    }
+  ],
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/h9a/hcf/46143809060894/temp-prd-front-6428049-1_600x600/temp-prd-front-6428049-1-600x600.jpg"
+}

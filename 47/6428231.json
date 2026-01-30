@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Hyaluron Tint Lip Stain Serum",
   "code": "6428231",
-  "price": "9.99",
-  "priceOriginal": "16.99",
+  "price": "16.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1060071",
   "productGroupId": "513870",
   "brandType": "A of B merk",
-  "discount": "€ 7,00",
+  "discount": "",
   "url": "/loreal-paris-hyaluron-tint-lip-stain-serum/p/6428231",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h18/hf6/46082398552094/temp-prd-front-6428231-1_600x600/temp-prd-front-6428231-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hca/h7a/46174623858718/temp-prd-front-6428231-1_600x600/temp-prd-front-6428231-1-600x600.jpg"
 }

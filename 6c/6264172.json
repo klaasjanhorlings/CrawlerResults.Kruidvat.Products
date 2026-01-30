@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Schwarzkopf Creme Supreme 10-0 Natuurlijk Ultra Lichtblond Verzorgende Crèmekleuring",
   "code": "6264172",
-  "price": "9.99",
-  "priceOriginal": "20.99",
+  "price": "20.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1059967",
   "productGroupId": "511815",
   "brandType": "A of B merk",
-  "discount": "€ 11,00",
+  "discount": "",
   "url": "/schwarzkopf-creme-supreme-10-0-natuurlijk-ultra-lichtblond-verzorgende-cremekleuring/p/6264172",
   "listName": "Lister",
   "brand": "Schwarzkopf creme supreme",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "182g",
-  "image": "/medias/sys_master/prd-images/hbf/h95/46087291994142/temp-prd-front-6264172-1_600x600/temp-prd-front-6264172-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hdc/h76/46139424505886/temp-prd-front-6264172-1_600x600/temp-prd-front-6264172-1-600x600.jpg"
 }

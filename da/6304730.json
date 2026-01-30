@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "CeraVe Hydraterend Hyaluronzuur Serum",
   "code": "6304730",
-  "price": "18.12",
-  "priceOriginal": "22.65",
+  "price": "22.65",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1059963",
   "productGroupId": "511434",
   "brandType": "A of B merk",
-  "discount": "€ 4,53",
+  "discount": "",
   "url": "/cerave-hydraterend-hyaluronzuur-serum/p/6304730",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -25,18 +25,9 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266605,
-      "name": "Serum"
-    },
-    {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hd9/h04/34396313944094/prd-front-6304730-1_600x600/prd-front-6304730-1-600x600.jpg"
+  "description": "30ml"
 }

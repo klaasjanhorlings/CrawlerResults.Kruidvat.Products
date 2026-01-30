@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Garnier SkinActive Hydra Bomb Tissuemasker",
   "code": "3902144",
-  "price": "1.99",
-  "priceOriginal": "3.99",
+  "price": "3.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1060084",
   "productGroupId": "514178",
   "brandType": "A of B merk",
-  "discount": "€ 2,00",
+  "discount": "",
   "url": "/garnier-skinactive-hydra-bomb-tissuemasker/p/3902144",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -33,8 +33,8 @@
       "name": "Gezichtsmaskers"
     },
     {
-      "id": 87374839,
-      "name": "Sheet maskers"
+      "id": 87375041,
+      "name": "Serummaskers"
     }
   ],
   "description": "31g",

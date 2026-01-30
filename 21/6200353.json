@@ -21,21 +21,18 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 73443590,
-      "name": "Korean Beauty"
+      "id": 30265999,
+      "name": "Zonbescherming"
     },
     {
-      "id": 73443650,
-      "name": "Korean Skincare"
-    },
-    {
-      "id": 90760987,
-      "name": "Korean zonbescherming"
+      "id": 30266657,
+      "name": "Zonnebrand"
     }
   ],
-  "description": "18g"
+  "description": "18g",
+  "image": "/medias/sys_master/prd-images/h31/h6c/46139432304670/temp-prd-front-6200353-1_600x600/temp-prd-front-6200353-1-600x600.jpg"
 }

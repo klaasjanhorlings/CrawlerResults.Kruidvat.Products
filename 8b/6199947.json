@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Beauty of Joseon Green Plum Refreshing Cleanser",
   "code": "6199947",
-  "price": "11.17",
-  "priceOriginal": "14.9",
+  "price": "14.9",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1059917",
   "productGroupId": "508222",
   "brandType": "A of B merk",
-  "discount": "€ 3,73",
+  "discount": "",
   "url": "/beauty-of-joseon-green-plum-refreshing-cleanser/p/6199947",
   "listName": "Lister",
   "brand": "BEAUTY OF JOSEON",
@@ -25,16 +25,20 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
+      "id": 73443650,
+      "name": "Korean Skincare"
     },
     {
-      "id": 30266916,
-      "name": "Cleanser"
+      "id": 90761979,
+      "name": "Korean gezichtsreiniging"
+    },
+    {
+      "id": 90765742,
+      "name": "Korean reinigingsgel"
     }
   ],
   "description": "100ml",

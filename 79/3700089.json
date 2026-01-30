@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Elmex Anti-Cariës Tandpasta",
   "code": "3700089",
-  "price": "16.99",
+  "price": "20.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "COLGATE PALMOLIVE NLD",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "4 x 75ml - Anti-cariës"
+  "description": "4 x 75ml - Anti-cariës",
+  "image": "/medias/sys_master/prd-images/h05/hc3/33904976592926/prd-front-3700089-1_600x600/prd-front-3700089-1-600x600.jpg"
 }

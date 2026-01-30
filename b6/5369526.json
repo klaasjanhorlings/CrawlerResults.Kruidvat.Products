@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Elmex Sensitive Extra Soft Professional Tandenborstel",
   "code": "5369526",
-  "price": "4.29",
+  "price": "4.79",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 4129",
   "supplier": "COLGATE PALMOLIVE NLD",
@@ -33,5 +33,6 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "Gevoelige tanden"
+  "description": "Gevoelige tanden",
+  "image": "/medias/sys_master/prd-images/hb8/h8a/45077655519262/prd-front-5369526-1_600x600/prd-front-5369526-1-600x600.jpg"
 }

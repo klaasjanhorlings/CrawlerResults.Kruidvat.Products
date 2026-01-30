@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NYX Professional Makeup Epic Inky Stix 01 Black Screen Eyeliner",
+  "code": "6427692",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
+  "supplier": "NYX PROFESSIONAL MAKE-UP",
+  "inStock": "outOfStock",
+  "onPromo": "1060073",
+  "mmkId": "1060073",
+  "productGroupId": "513873",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nyx-professional-makeup-epic-inky-stix-01-black-screen-eyeliner/p/6427692",
+  "listName": "Lister",
+  "brand": "NYX Professional Makeup",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266586,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he8/h08/46139300053022/temp-prd-front-6427692-1_600x600/temp-prd-front-6427692-1-600x600.jpg"
+}

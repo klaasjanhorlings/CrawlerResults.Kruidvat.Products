@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Beauty of Joseon Calming Serum",
   "code": "6293425",
-  "price": "14.99",
-  "priceOriginal": "19.99",
+  "price": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1059917",
   "productGroupId": "508222",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/beauty-of-joseon-calming-serum/p/6293425",
   "listName": "Lister",
   "brand": "BEAUTY OF JOSEON",
@@ -25,16 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266605,
-      "name": "Serum"
+      "id": 73443650,
+      "name": "Korean Skincare"
     },
     {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 90760960,
+      "name": "Korean serum"
     }
   ],
   "description": "30ml",

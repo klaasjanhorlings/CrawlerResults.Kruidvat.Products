@@ -7,7 +7,7 @@
   "priceOriginal": "12.99",
   "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
   "supplier": "ARISTOCRATE DISTRIBUTORS LTD",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1060034",
   "mmkId": "1060034",
   "productGroupId": "513690",
@@ -33,5 +33,6 @@
       "name": "Menstruatieondergoed"
     }
   ],
-  "description": "zwart, mt S"
+  "description": "zwart, mt S",
+  "image": "/medias/sys_master/prd-images/h56/h0e/34919390117918/prd-front-6363033-1_600x600/prd-front-6363033-1-600x600.jpg"
 }

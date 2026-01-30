@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6196 > 6214 > 6244",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061953",
   "mmkId": "1061953",
   "productGroupId": "536620",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "15ml",
-  "image": "/medias/sys_master/prd-images/h0a/h40/46087244808222/temp-prd-front-6316378-1_600x600/temp-prd-front-6316378-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h19/hf3/46139328495646/temp-prd-front-6316378-1_600x600/temp-prd-front-6316378-1-600x600.jpg"
 }
