@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Color Booster 7.34 Light Warm Brown Kleurshampoo",
+  "code": "3550415",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
+  "supplier": "EMIL KIESSLING GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "1028975",
+  "mmkId": "1028975",
+  "productGroupId": "362258",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-color-booster-734-light-warm-brown-kleurshampoo/p/3550415",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266694,
+      "name": "Shampoo"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h7e/h86/45051827552286/prd-front-3550415-1_600x600/prd-front-3550415-1-600x600.jpg"
+}

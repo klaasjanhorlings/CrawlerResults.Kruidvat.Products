@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Cookies & Cream Paaseitjes",
+  "code": "6412054",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 3648",
+  "supplier": "BARONIE - DE HEER BV",
+  "inStock": "inStock",
+  "onPromo": "1059896",
+  "mmkId": "1059896",
+  "productGroupId": "503114",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-cookies-cream-paaseitjes/p/6412054",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267028,
+      "name": "Paaseitjes"
+    }
+  ],
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/h5e/hdc/44811868864542/prd-front-6412054-1_600x600/prd-front-6412054-1-600x600.jpg"
+}

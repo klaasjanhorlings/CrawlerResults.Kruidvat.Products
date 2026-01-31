@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1053275",
   "mmkId": "1053275",
   "productGroupId": "497662",
@@ -33,6 +33,5 @@
       "name": "Baby bad- en doucheverzorging"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hdb/h4a/44315834187806/prd-front-6386063-1_600x600/prd-front-6386063-1-600x600.jpg"
+  "description": ""
 }

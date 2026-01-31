@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 4362 > 2130 > 5787 > 5788 > 5789",
   "supplier": "MUNDIA BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1060083",
   "mmkId": "1060083",
   "productGroupId": "514161",
@@ -33,5 +33,6 @@
       "name": "Babysokken"
     }
   ],
-  "description": "wit, 18-24m, 3 paar"
+  "description": "wit, 18-24m, 3 paar",
+  "image": "/medias/sys_master/prd-images/h85/h31/27927864639518/prd-front-5614421-1_600x600/prd-front-5614421-1-600x600.jpg"
 }

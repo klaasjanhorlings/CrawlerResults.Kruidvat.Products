@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Miracle Flawless 2 Natural Medium Pressed Powder",
   "code": "6317022",
-  "price": "13.99",
-  "priceOriginal": "",
+  "price": "9.79",
+  "priceOriginal": "13.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1060098",
   "productGroupId": "514797",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 4,20",
   "url": "/mcobeauty-miracle-flawless-2-natural-medium-pressed-powder/p/6317022",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,6 +33,5 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": "8g",
-  "image": "/medias/sys_master/prd-images/hed/h44/34828189138974/prd-front-6317022-1_600x600/prd-front-6317022-1-600x600.jpg"
+  "description": "8g"
 }

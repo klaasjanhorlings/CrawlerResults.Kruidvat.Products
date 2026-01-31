@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 2920 > 3715",
   "supplier": "CAMPS FOOD BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1053201",
   "mmkId": "1053201",
   "productGroupId": "497778",
@@ -37,6 +37,5 @@
       "name": "4 maanden +"
     }
   ],
-  "description": "120g",
-  "image": "/medias/prd-front-5161437-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjE4MTh8aW1hZ2UvanBlZ3xhREU1TDJoaVpDOHhOak0yTmpNeE9EVXhPRE13TWk5d2NtUXRabkp2Ym5RdE5URTJNVFF6TnkweFh6WXdNSGcyTURBfGFkNjMyZjM0MGY0ZDQ5NzQ0NTA2ZTliOWQzMjViNDdiZjQxYTc2MTY1MmRkOWNiZmNlYTViNDVjYjJiMjRmYjg"
+  "description": "120g"
 }
