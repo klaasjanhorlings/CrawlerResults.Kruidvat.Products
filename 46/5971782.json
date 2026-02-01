@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Skincyclopedia 2% Salicylic Acid Tea Tree Gezichtsserum",
-  "code": "5933541",
-  "price": "9.99",
-  "priceOriginal": "",
+  "itemName": "Estée Lauder Advanced Night Repair Serum",
+  "code": "5971782",
+  "price": "42.99",
+  "priceOriginal": "54.95",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
-  "supplier": "REBRO COSMETICS BV",
+  "supplier": "DUMMY LEV",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
-  "url": "/skincyclopedia-2-salicylic-acid-tea-tree-gezichtsserum/p/5933541",
+  "discount": "€ 11,96",
+  "url": "/estee-lauder-advanced-night-repair-serum/p/5971782",
   "listName": "Lister",
-  "brand": "SKINCYCLOPEDIA",
+  "brand": "Estée Lauder",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,6 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h93/hc9/29833260662814/prd-front-5933541-1_600x600/prd-front-5933541-1-600x600.jpg"
+  "description": "20ml, alle huidtypes",
+  "image": "/medias/sys_master/prd-images/hcc/hc3/30104510922782/prd-front-5971782-1_600x600/prd-front-5971782-1-600x600.jpg"
 }

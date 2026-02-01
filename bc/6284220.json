@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Afritsslaapzak",
+  "code": "6284220",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2130 > 2324 > 2723 > 3426 > 4362",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1060081",
+  "mmkId": "1060081",
+  "productGroupId": "514151",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-afritsslaapzak/p/6284220",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266041,
+      "name": "Babykleding"
+    },
+    {
+      "id": 30266850,
+      "name": "Babyslaapzakken"
+    }
+  ],
+  "description": "beige, mt 68-80",
+  "image": "/medias/sys_master/prd-images/hba/hc7/46140201140254/temp-prd-front-6284220-2_600x600/temp-prd-front-6284220-2-600x600.jpg"
+}

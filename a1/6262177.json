@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059878",
   "mmkId": "1059878",
   "productGroupId": "512582",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 6"
     }
   ],
-  "description": "Maat 6 (13+kg), 62 stuks"
+  "description": "Maat 6 (13+kg), 62 stuks",
+  "image": "/medias/sys_master/prd-images/hcd/ha1/34795829461022/prd-front-6262177-1_600x600/prd-front-6262177-1-600x600.jpg"
 }

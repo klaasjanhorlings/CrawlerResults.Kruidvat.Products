@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Guerlain L'Homme Ideal Eau de Toilette",
+  "code": "5566135",
+  "price": "64.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/guerlain-lhomme-ideal-eau-de-toilette/p/5566135",
+  "listName": "Lister",
+  "brand": "Guerlain",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654823,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-5566135-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDc5MjZ8aW1hZ2UvanBlZ3xhR0kyTDJoak9DOHhOalUzTmpZNU5qa3dPVGcxTkM5d2NtUXRabkp2Ym5RdE5UVTJOakV6TlMweFh6WXdNSGcyTURBfDEwZTkwOTZmN2VkNGVkYmJhNzEzM2EzNWM0NTE2ZDAxY2Q3MjMzNGY0ZTJkZmUxN2Q1Y2VhNjM3NjU1NjMxMTY"
+}
