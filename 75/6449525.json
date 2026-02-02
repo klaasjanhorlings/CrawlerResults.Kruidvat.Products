@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Botanicals 11509 Bloeiende Cactus",
+  "code": "6449525",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1060261",
+  "mmkId": "1060261",
+  "productGroupId": "516265",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-botanicals-11509-bloeiende-cactus/p/6449525",
+  "listName": "Lister",
+  "brand": "LEGO Botanicals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69043063,
+      "name": "LEGO Bloemen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfa/hd6/45125011832862/prd-front-6449525-1_600x600/prd-front-6449525-1-600x600.jpg"
+}

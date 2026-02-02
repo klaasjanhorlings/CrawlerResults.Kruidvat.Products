@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1060261",
+  "mmkId": "1060261",
+  "productGroupId": "516265",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-harry-potter-76461-keltisch-aardmannetje/p/6428658",
@@ -33,5 +33,6 @@
       "name": "LEGO Harry Potter"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hde/hf7/45709863780382/temp-prd-front-6428658-1_600x600/temp-prd-front-6428658-1-600x600.jpg"
 }

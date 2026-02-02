@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Twinkle Pets Kralenset",
+  "code": "6413580",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2183 > 5176 > 5269 > 5458 > 5921 > 6040",
+  "supplier": "UP INTERNATIONAL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/twinkle-pets-kralenset/p/6413580",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266030,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf0/h9a/44630614736926/prd-front-6413580-1_600x600/prd-front-6413580-1-600x600.jpg"
+}

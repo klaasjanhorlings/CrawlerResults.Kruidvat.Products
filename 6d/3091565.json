@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Milka I Love Milka Pralinés",
+  "code": "3091565",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "MONDELEZ NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/milka-i-love-milka-pralines/p/3091565",
+  "listName": "Lister",
+  "brand": "Milka",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464836,
+      "name": "Bonbons en pralines"
+    }
+  ],
+  "description": "165g",
+  "image": "/medias/prd-front-3091565-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjEyNzl8aW1hZ2UvanBlZ3xhR015TDJnelpTOHlOamN4T0RZeE1qWTFNakEyTWk5d2NtUXRabkp2Ym5RdE16QTVNVFUyTlMweFh6WXdNSGcyTURBfGUwN2ViNjc1NDRmMTAyYjZkNDZkOWNjMzY2YTg3NTM1MTBiMzQyMjQ3OWI1MTk4M2I0YTA2ZjY5NzYzNjgwYmM"
+}

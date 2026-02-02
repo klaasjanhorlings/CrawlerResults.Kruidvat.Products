@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Scholl Verzachtend en Revitaliserend Voetmasker",
   "code": "6238860",
-  "price": "4.99",
-  "priceOriginal": "",
+  "price": "3.49",
+  "priceOriginal": "4.99",
   "itemBgbcat": "2006 > 2052 > 2175 > 6662 > 6663 > 6784",
   "supplier": "PIETERCIL BARENDS BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1060259",
+  "mmkId": "1060259",
+  "productGroupId": "515875",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,50",
   "url": "/scholl-verzachtend-en-revitaliserend-voetmasker/p/6238860",
   "listName": "Lister",
   "brand": "Dr. Scholl's",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/h4d/he0/46226341658654/temp-prd-front-6238860-1_600x600/temp-prd-front-6238860-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hfb/h27/46263554506782/temp-prd-front-6238860-1_600x600/temp-prd-front-6238860-1-600x600.jpg"
 }

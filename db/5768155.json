@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1060268",
+  "mmkId": "1060268",
+  "productGroupId": "529694",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-12m-knijpfruit-variatiemenu/p/5768155",
@@ -37,5 +37,6 @@
       "name": "12 maanden +"
     }
   ],
-  "description": "18 stuks"
+  "description": "18 stuks",
+  "image": "/medias/prd-front-5768155-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAzNTA3fGltYWdlL2pwZWd8YUdFMEwyZzROQzh4TnpFMU9EazJORGMwTURFeU5pOXdjbVF0Wm5KdmJuUXROVGMyT0RFMU5TMHhYell3TUhnMk1EQXw5NzExMWYzOTI1YTU4ZGZmMGY1ZDdlZThjMTQ3YmNjZWE4NzY0NjE0OGIwNjExM2Y3ZmQwNzFkMTQ2NDMxMGYw"
 }

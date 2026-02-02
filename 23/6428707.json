@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1060261",
+  "mmkId": "1060261",
+  "productGroupId": "516265",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-friends-42686-binnenspeeltuin/p/6428707",
@@ -33,6 +33,5 @@
       "name": "LEGO Friends"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h6b/h9c/45712115400734/temp-prd-front-6428707-1_600x600/temp-prd-front-6428707-1-600x600.jpg"
+  "description": ""
 }

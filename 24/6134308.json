@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Icons 10369 Japanse Abrikoos",
+  "code": "6134308",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1060261",
+  "mmkId": "1060261",
+  "productGroupId": "516265",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-icons-10369-japanse-abrikoos/p/6134308",
+  "listName": "Lister",
+  "brand": "LEGO Botanicals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69026508,
+      "name": "LEGO Volwassenen"
+    }
+  ],
+  "description": ""
+}

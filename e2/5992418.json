@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Organic Shop Pu-Erh Tea & Caffeine Tonic Eye Gel Patch",
   "code": "5992418",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "7.99",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "TRADE SENSE BV",
   "inStock": "inStock",
-  "onPromo": "1059938",
-  "mmkId": "1059938",
-  "productGroupId": "509901",
+  "onPromo": "1060247",
+  "mmkId": "1060247",
+  "productGroupId": "508204",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 8,00",
   "url": "/organic-shop-pu-erh-tea-caffeine-tonic-eye-gel-patch/p/5992418",
   "listName": "Lister",
   "brand": "Organic Shop",
@@ -37,5 +37,6 @@
       "name": "Oogmaskers"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hbd/hc5/34534993854494/prd-front-5992418-1_600x600/prd-front-5992418-1-600x600.jpg"
 }

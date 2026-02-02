@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Days of Wonder Ticket To Ride: USA",
+  "code": "5512368",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6018",
+  "supplier": "ASMODEE THE NETHERLANDS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/days-of-wonder-ticket-to-ride-usa/p/5512368",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel"
+}

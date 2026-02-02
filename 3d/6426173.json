@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Creator 31379 3-in-1 Woeste Dinosaurus",
+  "code": "6426173",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1060261",
+  "mmkId": "1060261",
+  "productGroupId": "516265",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-creator-31379-3-in-1-woeste-dinosaurus/p/6426173",
+  "listName": "Lister",
+  "brand": "LEGO Creator",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266815,
+      "name": "LEGO Creator"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbc/h2b/45154323660830/prd-front-6426173-1_600x600/prd-front-6426173-1-600x600.jpg"
+}
