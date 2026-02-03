@@ -5,7 +5,7 @@
   "code": "4942106",
   "price": "7.99",
   "priceOriginal": "",
-  "itemBgbcat": "5921 > 6018 > 2181 > 6741 > 6740 > 6739",
+  "itemBgbcat": "5921 > 2181 > 6741 > 6740 > 6739 > 6040",
   "supplier": "GOLIATH B.V.",
   "inStock": "inStock",
   "onPromo": "",
@@ -25,12 +25,8 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266027,
-      "name": "Spellen"
-    },
-    {
-      "id": 30266835,
-      "name": "Bordspellen"
+      "id": 30266035,
+      "name": "Elektronisch speelgoed"
     }
   ],
   "description": "",

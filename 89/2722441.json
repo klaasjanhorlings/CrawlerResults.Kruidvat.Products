@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "VSM Calendulan Eerste Hulp Zalf voor de Huid",
+  "code": "2722441",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 3000 > 4101",
+  "supplier": "HEEL BIOLOGISCHE GENEES",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vsm-calendulan-eerste-hulp-zalf-voor-de-huid/p/2722441",
+  "listName": "Lister",
+  "brand": "VSM",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 51235337,
+      "name": "Eerste hulp zalf"
+    }
+  ],
+  "description": "75g",
+  "image": "/medias/sys_master/prd-images/hd6/hc9/34768827514910/prd-front-2722441-1_600x600/prd-front-2722441-1-600x600.jpg"
+}

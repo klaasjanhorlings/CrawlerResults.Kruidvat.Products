@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h2a/h25/46139347370014/temp-prd-front-6468320-1_600x600/temp-prd-front-6468320-1-600x600.jpg"
+  "description": ""
 }

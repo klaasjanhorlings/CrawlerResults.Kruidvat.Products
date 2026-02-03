@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Dekbedovertrek",
+  "code": "6128799",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2453 > 2738 > 3440 > 5926 > 6020",
+  "supplier": "VESPO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-dekbedovertrek/p/6128799",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 65815325,
+      "name": "Dekbedovertrekken"
+    }
+  ],
+  "description": "crèmekleur, 200cm x 200cm",
+  "image": "/medias/sys_master/prd-images/h7d/h70/31665204232222/prd-front-6128799-1_600x600/prd-front-6128799-1-600x600.jpg"
+}

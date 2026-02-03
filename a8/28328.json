@@ -5,7 +5,7 @@
   "code": "28328",
   "price": "0.89",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2065 > 2229 > 2516 > 3131 > 3996",
+  "itemBgbcat": "2003 > 2065 > 2516 > 3131 > 3996 > 2205",
   "supplier": "CEDO HOUSEHOLD PRODUCTS",
   "inStock": "inStock",
   "onPromo": "",
@@ -29,8 +29,12 @@
       "name": "Intieme verzorging"
     },
     {
-      "id": 30266665,
-      "name": "Intieme hygiëne"
+      "id": 30266660,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30266923,
+      "name": "Incontinentieverband"
     }
   ],
   "description": "50 stuks",

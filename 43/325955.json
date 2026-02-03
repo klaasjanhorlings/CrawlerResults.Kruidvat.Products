@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NiQuitin Clear Pleister Stap 3 - 7 mg - Nicotinepleister",
   "code": "325955",
   "price": "24.79",
@@ -37,6 +37,5 @@
       "name": "Nicotinepleisters"
     }
   ],
-  "description": "Geneesmiddel - 7 stuks",
-  "image": "/medias/sys_master/prd-images/h0a/h9e/33287029653534/prd-front-325955-1_600x600/prd-front-325955-1-600x600.jpg"
+  "description": "Geneesmiddel - 7 stuks"
 }

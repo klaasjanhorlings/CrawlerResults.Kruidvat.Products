@@ -5,7 +5,7 @@
   "code": "5640503",
   "price": "9.99",
   "priceOriginal": "",
-  "itemBgbcat": "2181 > 5921 > 6018 > 6737 > 6738 > 6736",
+  "itemBgbcat": "2181 > 5921 > 6737 > 6738 > 6736 > 6040",
   "supplier": "IDENTITY GAMES INT. BV",
   "inStock": "outOfStock",
   "onPromo": "",
@@ -25,12 +25,12 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266026,
-      "name": "Baby- en peuterspeelgoed"
+      "id": 30266027,
+      "name": "Spellen"
     },
     {
-      "id": 49281541,
-      "name": "Interactief speelgoed"
+      "id": 30266835,
+      "name": "Bordspellen"
     }
   ],
   "description": "Nederlandstalig spel",

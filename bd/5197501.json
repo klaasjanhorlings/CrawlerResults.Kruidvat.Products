@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Medicijnbox",
   "code": "5197501",
   "price": "8.09",
@@ -33,6 +33,5 @@
       "name": "Pillendozen"
     }
   ],
-  "description": "",
-  "image": "/medias/prd-front-5197501-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzc1ODJ8aW1hZ2UvanBlZ3xhREE0TDJobE5TOHhOelExTXpVMk5UUXhNVE0xT0M5d2NtUXRabkp2Ym5RdE5URTVOelV3TVMweFh6WXdNSGcyTURBfDI0NTE2Zjk2Y2JkNWUwYTIxODYyZDVkZGQxYzU2Y2FmODY1NjlmNGNhNjdjZTcxZTA2MWY4Y2ZiNDk2OWRlOTc"
+  "description": ""
 }

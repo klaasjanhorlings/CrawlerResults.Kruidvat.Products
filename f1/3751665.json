@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bepanthen Eczeem Crème",
   "code": "3751665",
   "price": "18.61",
@@ -12,7 +12,7 @@
   "mmkId": "1059954",
   "productGroupId": "510927",
   "brandType": "A of B merk",
-  "discount": "€ 3,28",
+  "discount": "$ 3,28",
   "url": "/bepanthen-eczeem-creme/p/3751665",
   "listName": "Lister",
   "brand": "Bepanthen",
@@ -37,5 +37,6 @@
       "name": "Eczeemcreme"
     }
   ],
-  "description": "Medisch hulpmiddel - 50g"
+  "description": "Medisch hulpmiddel - 50g",
+  "image": "/medias/sys_master/prd-images/hbc/ha1/27540559101982/prd-front-3751665-1_600x600/prd-front-3751665-1-600x600.jpg"
 }

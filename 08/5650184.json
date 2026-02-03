@@ -5,7 +5,7 @@
   "code": "5650184",
   "price": "9.99",
   "priceOriginal": "",
-  "itemBgbcat": "5921 > 6018 > 2181 > 6735 > 6733 > 6734",
+  "itemBgbcat": "5921 > 2181 > 6735 > 6733 > 6734 > 6040",
   "supplier": "999 GAMES",
   "inStock": "inStock",
   "onPromo": "",
@@ -33,6 +33,5 @@
       "name": "Dobbelspellen"
     }
   ],
-  "description": "Nederlandstalig spel",
-  "image": "/medias/sys_master/prd-images/h78/h5a/28625076092958/prd-front-5650184-1_600x600/prd-front-5650184-1-600x600.jpg"
+  "description": "Nederlandstalig spel"
 }

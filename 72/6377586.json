@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Xelly Beauty Beautyclutch",
+  "code": "6377586",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2271 > 2637 > 3320 > 4224 > 6674",
+  "supplier": "BRANSUS COSM ULTIMATCH",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/xelly-beauty-beautyclutch/p/6377586",
+  "listName": "Lister",
+  "brand": "XELLY BEAUTY",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265992,
+      "name": "Make-up accessoires"
+    },
+    {
+      "id": 30266620,
+      "name": "Toilettassen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h82/h99/44512587808798/prd-front-6377586-1_600x600/prd-front-6377586-1-600x600.jpg"
+}

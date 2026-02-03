@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Nurofen voor Kinderen Ibuprofen 60 mg Zetpillen",
   "code": "6161748",
   "price": "5.29",
@@ -37,6 +37,5 @@
       "name": "Ibuprofen"
     }
   ],
-  "description": "Geneesmiddel - 10 stuks",
-  "image": "/medias/sys_master/prd-images/h1a/hb1/31776722452510/prd-front-6161748-1_600x600/prd-front-6161748-1-600x600.jpg"
+  "description": "Geneesmiddel - 10 stuks"
 }

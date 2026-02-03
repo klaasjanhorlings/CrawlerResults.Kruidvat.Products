@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Vrouw Hormoonhuishouding Tabletten",
   "code": "6160425",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Overgang"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/he2/hef/31696920412190/prd-front-6160425-1_600x600/prd-front-6160425-1-600x600.jpg"
 }

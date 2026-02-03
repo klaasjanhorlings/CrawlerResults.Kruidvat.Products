@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Hansaplast Wondspray",
   "code": "4381000",
   "price": "5.54",
@@ -12,7 +12,7 @@
   "mmkId": "1060116",
   "productGroupId": "515836",
   "brandType": "A of B merk",
-  "discount": "€ 1,85",
+  "discount": "$ 1,85",
   "url": "/hansaplast-wondspray/p/4381000",
   "listName": "Lister",
   "brand": "Hansaplast",

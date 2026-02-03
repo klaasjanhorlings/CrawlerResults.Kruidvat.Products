@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Clearblue Digitale Ovulatietestset",
   "code": "3093098",
   "price": "27.99",
@@ -8,8 +8,8 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2553 > 3187 > 4122",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1059899",
-  "mmkId": "1059899",
+  "onPromo": "1062089",
+  "mmkId": "1062089",
   "productGroupId": "505264",
   "brandType": "A of B merk",
   "discount": "",

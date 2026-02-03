@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Kruidvat PPC tabletten",
+  "code": "25600",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 6157 > 6179",
+  "supplier": "MAE PHARMA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-ppc-tabletten/p/25600",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266706,
+      "name": "Pijn"
+    },
+    {
+      "id": 30266970,
+      "name": "Pijnstiller"
+    }
+  ],
+  "description": "Geneesmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/he4/hee/34729154084894/prd-front-25600-1_600x600/prd-front-25600-1-600x600.jpg"
+}

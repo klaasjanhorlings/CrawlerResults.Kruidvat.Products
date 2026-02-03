@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Lactolerantie Capsules",
   "code": "2452262",
   "price": "6.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6196 > 6214 > 6248",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -33,5 +33,6 @@
       "name": "Spijsvertering"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h3c/he3/33322404741150/prd-front-2452262-1_600x600/prd-front-2452262-1-600x600.jpg"
 }

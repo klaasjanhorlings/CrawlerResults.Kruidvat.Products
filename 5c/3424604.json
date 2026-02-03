@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Roter Cysticare Tabletten",
   "code": "3424604",
   "price": "18.74",
@@ -12,7 +12,7 @@
   "mmkId": "1059976",
   "productGroupId": "512123",
   "brandType": "A of B merk",
-  "discount": "€ 6,25",
+  "discount": "$ 6,25",
   "url": "/roter-cysticare-tabletten/p/3424604",
   "listName": "Lister",
   "brand": "Roter",

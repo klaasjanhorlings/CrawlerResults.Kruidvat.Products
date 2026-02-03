@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pluggerz Enjoy Sleep Oordoppen",
   "code": "5613952",
   "price": "7.95",
@@ -12,7 +12,7 @@
   "mmkId": "1060293",
   "productGroupId": "533650",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "$ 3,00",
   "url": "/pluggerz-enjoy-sleep-oordoppen/p/5613952",
   "listName": "Lister",
   "brand": "Pluggerz",
@@ -41,5 +41,6 @@
       "name": "Slaap oordoppen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h27/hee/44147222478878/prd-front-5613952-1_600x600/prd-front-5613952-1-600x600.jpg"
 }

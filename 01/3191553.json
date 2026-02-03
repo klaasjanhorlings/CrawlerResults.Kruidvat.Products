@@ -5,7 +5,7 @@
   "code": "3191553",
   "price": "9.99",
   "priceOriginal": "",
-  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6018",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6040",
   "supplier": "999 GAMES",
   "inStock": "inStock",
   "onPromo": "",
@@ -33,5 +33,6 @@
       "name": "Reisspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/prd-front-3191553-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTYzOTV8aW1hZ2UvanBlZ3xhR1l6TDJnM09DOHhOalUyTURZNE16TTFNakE1TkM5d2NtUXRabkp2Ym5RdE16RTVNVFUxTXkweFh6WXdNSGcyTURBfDkwMGQxMTFlZDdlMWE2NzYwMDVlZGE2NGQ4YzViYzRlY2QwM2I5MDVjMTE3YjYzYWRmOWI0NGQyNTkyMDY2NjU"
 }

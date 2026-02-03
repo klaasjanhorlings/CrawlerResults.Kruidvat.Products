@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 2920 > 3715",
   "supplier": "FRUITFUNK BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1060268",
   "mmkId": "1060268",
   "productGroupId": "529694",
@@ -37,5 +37,6 @@
       "name": "6 maanden +"
     }
   ],
-  "description": "12 x 90g"
+  "description": "12 x 90g",
+  "image": "/medias/sys_master/prd-images/h28/ha3/27222747283486/prd-front-5837872-1_600x600/prd-front-5837872-1-600x600.jpg"
 }

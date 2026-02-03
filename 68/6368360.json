@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Labelprinter",
+  "code": "6368360",
+  "price": "6.49",
+  "priceOriginal": "12.99",
+  "itemBgbcat": "2153 > 2503 > 3113 > 3979 > 5929 > 6014",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "inStock",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 6,50",
+  "url": "/labelprinter/p/6368360",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 49258802,
+      "name": "Printers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h62/h32/35175828946974/prd-front-6368360-1_600x600/prd-front-6368360-1-600x600.jpg"
+}
