@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 6040 > 2141 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1060261",
   "mmkId": "1060261",
   "productGroupId": "516265",
@@ -29,10 +29,10 @@
       "name": "LEGO"
     },
     {
-      "id": 49429181,
-      "name": "LEGO bouwplaten"
+      "id": 30266811,
+      "name": "LEGO Classic"
     }
   ],
-  "description": "25cm x 25cm",
+  "description": "",
   "image": "/medias/sys_master/prd-images/h1f/h79/34960077848606/prd-front-3523339-1_600x600/prd-front-3523339-1-600x600.jpg"
 }

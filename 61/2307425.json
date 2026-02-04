@@ -5,7 +5,7 @@
   "code": "2307425",
   "price": "15.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -33,9 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 30266582,
-      "name": "Lipstick"
+      "id": 30266595,
+      "name": "Lipliner"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/h70/h0f/31161771851806/prd-front-2307425-1_600x600/prd-front-2307425-1-600x600.jpg"
 }

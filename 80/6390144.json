@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Antigrippine Tabletten",
   "code": "6390144",
   "price": "9.99",
@@ -37,5 +37,6 @@
       "name": "Paracetamol"
     }
   ],
-  "description": "Geneesmiddel - 40 stuks"
+  "description": "Geneesmiddel - 40 stuks",
+  "image": "/medias/sys_master/prd-images/haa/h8b/44275646267422/prd-front-6390144-1_600x600/prd-front-6390144-1-600x600.jpg"
 }

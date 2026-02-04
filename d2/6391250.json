@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Oorspray",
   "code": "6391250",
   "price": "11.99",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266700,
-      "name": "Oor en mond"
-    },
-    {
-      "id": 30266946,
-      "name": "Oorspray"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "Medisch hulpmiddel - 20ml",

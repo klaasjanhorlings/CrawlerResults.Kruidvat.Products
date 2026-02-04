@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "COBECO PHARMA WHOLESALE",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1060121",
   "mmkId": "1060121",
   "productGroupId": "516146",
@@ -33,8 +33,8 @@
       "name": "Glijmiddelen"
     },
     {
-      "id": 66278175,
-      "name": "Siliconen glijmiddelen"
+      "id": 66278174,
+      "name": "Anale glijmiddelen"
     }
   ],
   "description": "75ml",

@@ -21,14 +21,21 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 75860460,
-      "name": "Baby en Kind gezondheid"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30266938,
+      "name": "Eczeemcreme"
     }
   ],
-  "description": "Medisch hulpmiddel - 50ml",
-  "image": "/medias/sys_master/prd-images/hf0/hd5/31388008742942/prd-front-6126027-1_600x600/prd-front-6126027-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 50ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Super Calcium 1000mg Tabletten",
   "code": "6403199",
   "price": "10.99",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266715,
-      "name": "Mineralen"
-    },
-    {
-      "id": 50001862,
-      "name": "Calcium"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "60 stuks",

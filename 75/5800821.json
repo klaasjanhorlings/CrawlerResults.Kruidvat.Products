@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Natures Essential Micellar Water",
+  "code": "5800821",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
+  "supplier": "MAXIM MARKENPRODUKTE",
+  "inStock": "inStock",
+  "onPromo": "1060248",
+  "mmkId": "1060248",
+  "productGroupId": "508285",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-natures-essential-micellar-water/p/5800821",
+  "listName": "Lister",
+  "brand": "Kruidvat Natures",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266913,
+      "name": "Micellair water"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h03/hae/46192824254494/temp-prd-front-5800821-1_600x600/temp-prd-front-5800821-1-600x600.jpg"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nicotinell 7mg/24u Pleisters",
   "code": "50000",
   "price": "24.99",
@@ -37,5 +37,6 @@
       "name": "Nicotinepleisters"
     }
   ],
-  "description": "Geneesmiddel - 7 stuks"
+  "description": "Geneesmiddel - 7 stuks",
+  "image": "/medias/sys_master/prd-images/he3/he9/28477207052318/prd-front-50000-1_600x600/prd-front-50000-1-600x600.jpg"
 }

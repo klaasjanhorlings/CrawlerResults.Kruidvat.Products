@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Leukoplast Waterdichte Hechtpleister",
   "code": "1389641",
   "price": "2.44",
   "priceOriginal": "4.89",
   "itemBgbcat": "2006 > 2070 > 2174 > 2690 > 3390 > 2332",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1059368",
   "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 2,45",
+  "discount": "€ 2,45",
   "url": "/leukoplast-waterdichte-hechtpleister/p/1389641",
   "listName": "Lister",
   "brand": "Leukoplast",
@@ -33,6 +33,5 @@
       "name": "Hechtpleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 500cm x 2,5cm",
-  "image": "/medias/sys_master/prd-images/h31/h7d/28818787991582/prd-front-1389641-1_600x600/prd-front-1389641-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 500cm x 2,5cm"
 }

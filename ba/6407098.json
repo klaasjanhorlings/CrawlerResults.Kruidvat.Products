@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hansaplast Second Skin Spray Pleister",
   "code": "6407098",
   "price": "4.99",
@@ -12,7 +12,7 @@
   "mmkId": "1060117",
   "productGroupId": "515837",
   "brandType": "A of B merk",
-  "discount": "$ 5,00",
+  "discount": "€ 5,00",
   "url": "/hansaplast-second-skin-spray-pleister/p/6407098",
   "listName": "Lister",
   "brand": "Hansaplast",
@@ -33,10 +33,10 @@
       "name": "Pleisters"
     },
     {
-      "id": 73414085,
-      "name": "Klassieke pleisters"
+      "id": 73414243,
+      "name": "Waterbestendige pleisters"
     }
   ],
-  "description": "40ml",
+  "description": "Medisch hulpmiddel - 40ml",
   "image": "/medias/sys_master/prd-images/h3f/hbf/45668713627678/temp-prd-front-6407098-1_600x600/temp-prd-front-6407098-1-600x600.jpg"
 }

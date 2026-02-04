@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Ohropax Mini Soft Oordopjes",
   "code": "3902816",
   "price": "3.74",
@@ -12,7 +12,7 @@
   "mmkId": "1059950",
   "productGroupId": "510771",
   "brandType": "A of B merk",
-  "discount": "$ 1,25",
+  "discount": "€ 1,25",
   "url": "/ohropax-mini-soft-oordopjes/p/3902816",
   "listName": "Lister",
   "brand": "Ohropax",
@@ -41,5 +41,6 @@
       "name": "Schuim oordoppen"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/h2c/hdd/34180774494238/prd-front-3902816-1_600x600/prd-front-3902816-1-600x600.jpg"
 }

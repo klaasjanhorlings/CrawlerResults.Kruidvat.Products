@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Multi A-Z Vrouw Tabletten",
   "code": "5535951",
   "price": "5.99",
@@ -29,12 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267461,
-      "name": "Multivitamines"
+      "id": 30266717,
+      "name": "Weerstand en energie"
     }
   ],
   "description": "60 stuks",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dagravit Complete Start Kids 3-12 Drinkbare Multivitaminen Sachets",
   "code": "6391824",
   "price": "15.99",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267462,
-      "name": "Kindervitamines"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "30 stuks",

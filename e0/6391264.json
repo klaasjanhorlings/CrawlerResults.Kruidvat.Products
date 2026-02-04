@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Inhaleerbalsem",
   "code": "6391264",
   "price": "4.99",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266705,
-      "name": "Luchtwegen"
-    },
-    {
-      "id": 48657015,
-      "name": "Inhalatieproducten"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "100g",

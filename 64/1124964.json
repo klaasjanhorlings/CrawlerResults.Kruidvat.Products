@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Omega 3-6-9 Capsules",
   "code": "1124964",
   "price": "9.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49793273,
-      "name": "Visolie"
+      "id": 49792812,
+      "name": "Omega 3"
     }
   ],
   "description": "60 stuks",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sperti Aambeienzetpillen",
   "code": "21573",
   "price": "11.79",
@@ -29,12 +29,12 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266702,
-      "name": "Intieme ongemakken"
+      "id": 30266707,
+      "name": "Maag en darm"
     },
     {
-      "id": 30266955,
-      "name": "Aambeien"
+      "id": 30266975,
+      "name": "Stoelgang"
     }
   ],
   "description": "Geneesmiddel - 12 stuks",

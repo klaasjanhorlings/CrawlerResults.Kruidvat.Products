@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Cranberry Tabletten",
   "code": "291514",
   "price": "5.24",
@@ -12,7 +12,7 @@
   "mmkId": "1059976",
   "productGroupId": "512123",
   "brandType": "Eigen merk",
-  "discount": "$ 1,75",
+  "discount": "€ 1,75",
   "url": "/kruidvat-cranberry-tabletten/p/291514",
   "listName": "Lister",
   "brand": "Kruidvat",

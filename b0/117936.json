@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Perskindol Active Spray",
   "code": "117936",
   "price": "15.99",
@@ -37,5 +37,6 @@
       "name": "Spierspray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/prd-front-117936-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTEyMzV8aW1hZ2UvanBlZ3xhR0poTDJneE5DOHhOelUxTURBM09UVTVNRFF6TUM5d2NtUXRabkp2Ym5RdE1URTNPVE0yTFRGZk5qQXdlRFl3TUF8NmNmYTQ1YWMzNTk2Y2YyMTc4NGIxNzdjNDc3ZmRlOGVmY2IyNWYxMTFlN2UwNjE2OWFkNTQ4ODYwYmY5MzIxYQ"
 }

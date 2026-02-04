@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Eczeem Psoriasis Shampoo",
   "code": "4552136",
   "price": "14.99",
@@ -29,5 +29,6 @@
       "name": "Nieuw"
     }
   ],
-  "description": "Medisch hulpmiddel - 200ml"
+  "description": "Medisch hulpmiddel - 200ml",
+  "image": "/medias/sys_master/prd-images/h86/h3b/44274506268702/prd-front-4552136-1_600x600/prd-front-4552136-1-600x600.jpg"
 }

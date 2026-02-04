@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hansaplast Classic Pleisters",
   "code": "2211483",
   "price": "3.89",
@@ -12,7 +12,7 @@
   "mmkId": "1060116",
   "productGroupId": "515836",
   "brandType": "A of B merk",
-  "discount": "$ 1,30",
+  "discount": "€ 1,30",
   "url": "/hansaplast-classic-pleisters/p/2211483",
   "listName": "Lister",
   "brand": "Hansaplast",

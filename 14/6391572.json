@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Medisana NI 200 Neusdouche",
   "code": "6391572",
   "price": "26.21",
@@ -12,7 +12,7 @@
   "mmkId": "1060257",
   "productGroupId": "515666",
   "brandType": "A of B merk",
-  "discount": "$ 8,74",
+  "discount": "€ 8,74",
   "url": "/medisana-ni-200-neusdouche/p/6391572",
   "listName": "Lister",
   "brand": "Medisana",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266705,
-      "name": "Luchtwegen"
-    },
-    {
-      "id": 49313533,
-      "name": "Neusreiniger"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "",

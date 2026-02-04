@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Ulipristal Noodanticonceptie",
   "code": "5354266",
   "price": "15.59",
@@ -33,6 +33,5 @@
       "name": "Morning after pil"
     }
   ],
-  "description": "Geneesmiddel - 30mg",
-  "image": "/medias/sys_master/prd-images/h38/hb6/45113550143518/prd-front-5354266-1_600x600/prd-front-5354266-1-600x600.jpg"
+  "description": "Geneesmiddel - 30mg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hansaplast Sensitive Pleister",
   "code": "16436",
   "price": "3.44",
@@ -12,7 +12,7 @@
   "mmkId": "1060116",
   "productGroupId": "515836",
   "brandType": "A of B merk",
-  "discount": "$ 1,15",
+  "discount": "€ 1,15",
   "url": "/hansaplast-sensitive-pleister/p/16436",
   "listName": "Lister",
   "brand": "Hansaplast",

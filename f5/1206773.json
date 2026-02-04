@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "A.Vogel Cranberry Monarda Tabletten",
   "code": "1206773",
   "price": "12.74",
   "priceOriginal": "16.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6228 > 6318",
   "supplier": "A.VOGEL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059976",
   "mmkId": "1059976",
   "productGroupId": "512123",
   "brandType": "A of B merk",
-  "discount": "$ 4,25",
+  "discount": "€ 4,25",
   "url": "/avogel-cranberry-monarda-tabletten/p/1206773",
   "listName": "Lister",
   "brand": "A.Vogel",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266728,
-      "name": "Blaas supplementen"
+      "id": 30266734,
+      "name": "Cranberrysupplementen"
     }
   ],
   "description": "30 stuks",

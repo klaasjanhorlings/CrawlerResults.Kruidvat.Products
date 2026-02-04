@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Kurkuma met Zwarte Peper Capsules",
   "code": "4385368",
   "price": "6.89",
@@ -33,6 +33,5 @@
       "name": "Weerstand en energie"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h4d/h12/33121286619166/prd-front-4385368-1_600x600/prd-front-4385368-1-600x600.jpg"
+  "description": "60 stuks"
 }

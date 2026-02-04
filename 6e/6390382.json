@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Bloedcirculatie Support Tabletten",
   "code": "6390382",
   "price": "14.99",
@@ -25,8 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266727,
+      "name": "Hart en/of bloedvaten"
     }
   ],
   "description": "60 stuks",

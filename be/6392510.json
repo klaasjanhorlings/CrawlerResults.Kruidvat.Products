@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dermatix Littekenpleister",
   "code": "6392510",
   "price": "44.58",
@@ -25,10 +25,17 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266008,
+      "name": "Wondverzorging"
+    },
+    {
+      "id": 30266739,
+      "name": "Pleisters"
+    },
+    {
+      "id": 73414085,
+      "name": "Klassieke pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 4cm x 13cm",
-  "image": "/medias/sys_master/prd-images/h5e/hf9/44275647774750/prd-front-6392510-1_600x600/prd-front-6392510-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 4cm x 13cm"
 }

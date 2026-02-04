@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hansaplast Elastic Pleisters",
   "code": "176838",
   "price": "10.12",
@@ -12,7 +12,7 @@
   "mmkId": "1060116",
   "productGroupId": "515836",
   "brandType": "A of B merk",
-  "discount": "$ 3,37",
+  "discount": "€ 3,37",
   "url": "/hansaplast-elastic-pleisters/p/176838",
   "listName": "Lister",
   "brand": "Hansaplast",
@@ -37,6 +37,5 @@
       "name": "Klassieke pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 5m x 6cm",
-  "image": "/medias/sys_master/prd-images/h67/haf/44522954588190/prd-front-176838-1_600x600/prd-front-176838-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 5m x 6cm"
 }

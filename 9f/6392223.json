@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Valdispert Slaap & Focus Tabletten",
   "code": "6392223",
   "price": "20.99",
@@ -25,12 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266724,
-      "name": "Rust en ontspanning"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "24 stuks",

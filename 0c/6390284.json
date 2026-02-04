@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bepanthen SPF 25 Repair Crème",
   "code": "6390284",
   "price": "14.44",
@@ -12,7 +12,7 @@
   "mmkId": "1059954",
   "productGroupId": "510927",
   "brandType": "A of B merk",
-  "discount": "$ 2,55",
+  "discount": "€ 2,55",
   "url": "/bepanthen-spf-25-repair-creme/p/6390284",
   "listName": "Lister",
   "brand": "Bepanthen",
@@ -21,16 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "50ml",

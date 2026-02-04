@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Supradyn Complex Forte Tabletten",
   "code": "1290010",
   "price": "15.29",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266717,
-      "name": "Weerstand en energie"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
   "description": "35 stuks",

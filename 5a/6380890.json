@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Metallic Kinderlegging",
+  "code": "6380890",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "3533 > 5808 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/metallic-kinderlegging/p/6380890",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "roze, mt 110-116",
+  "image": "/medias/sys_master/prd-images/h42/hc5/46344292728862/temp-prd-front-6380890-1_600x600/temp-prd-front-6380890-1-600x600.jpg"
+}

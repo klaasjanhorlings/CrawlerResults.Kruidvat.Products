@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hansaplast Expert+ Second Skin Protection Hydrocolloïde Pleisters",
   "code": "6197637",
   "price": "3.24",
@@ -12,7 +12,7 @@
   "mmkId": "1060117",
   "productGroupId": "515837",
   "brandType": "A of B merk",
-  "discount": "$ 3,25",
+  "discount": "€ 3,25",
   "url": "/hansaplast-expert-second-skin-protection-hydrocolloide-pleisters/p/6197637",
   "listName": "Lister",
   "brand": "Hansaplast",
@@ -33,8 +33,8 @@
       "name": "Pleisters"
     },
     {
-      "id": 73414243,
-      "name": "Waterbestendige pleisters"
+      "id": 111697443,
+      "name": "Hydrocolloïde pleisters"
     }
   ],
   "description": "Medisch hulpmiddel - 6 stuks",

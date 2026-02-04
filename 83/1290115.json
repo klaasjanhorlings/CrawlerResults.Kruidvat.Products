@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Supradyn Vital 50+ Tabletten",
   "code": "1290115",
   "price": "32.99",
@@ -29,8 +29,12 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266717,
-      "name": "Weerstand en energie"
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
   "description": "95 stuks",

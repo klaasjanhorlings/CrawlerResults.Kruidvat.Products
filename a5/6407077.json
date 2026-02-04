@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hansaplast Second Skin Liquid Concentrate Pleister",
   "code": "6407077",
   "price": "6.24",
@@ -12,7 +12,7 @@
   "mmkId": "1060117",
   "productGroupId": "515837",
   "brandType": "A of B merk",
-  "discount": "$ 6,25",
+  "discount": "€ 6,25",
   "url": "/hansaplast-second-skin-liquid-concentrate-pleister/p/6407077",
   "listName": "Lister",
   "brand": "Hansaplast",
@@ -37,6 +37,6 @@
       "name": "Waterbestendige pleisters"
     }
   ],
-  "description": "10ml",
+  "description": "Medisch hulpmiddel - 10ml",
   "image": "/medias/sys_master/prd-images/h04/hfb/45674183426078/temp-prd-front-6407077-1_600x600/temp-prd-front-6407077-1-600x600.jpg"
 }

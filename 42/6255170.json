@@ -1,7 +1,7 @@
 {
   "type": "product",
-  "currency": "USD",
-  "itemName": "Kruidvat Kv Cond Classic 24",
+  "currency": "EUR",
+  "itemName": "Kruidvat Classic Condooms",
   "code": "6255170",
   "price": "6.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-kv-cond-classic-24/p/6255170",
+  "url": "/kruidvat-classic-condooms/p/6255170",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel",
+  "description": "Medisch hulpmiddel - 24 stuks",
   "image": "/medias/sys_master/prd-images/hab/hed/44661143011358/prd-front-6255170-1_600x600/prd-front-6255170-1-600x600.jpg"
 }

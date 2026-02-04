@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Prioderm Shampoo Plus Anti-hoofdluisshampoo",
   "code": "3440662",
   "price": "19.99",
@@ -25,12 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266703,
-      "name": "Hoofdluis"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "Medisch hulpmiddel - 100ml",

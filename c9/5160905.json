@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Melatonine + CBD Smelttabletten",
   "code": "5160905",
   "price": "8.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266723,
-      "name": "CBD"
+      "id": 49950664,
+      "name": "Melatonine"
     }
   ],
   "description": "50 stuks",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Foliumzuur + Vitamine D3 Tabletten",
   "code": "6403136",
   "price": "5.99",
@@ -25,10 +25,13 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266716,
+      "name": "Zwangerschapssupplementen"
     }
   ],
-  "description": "120 stuks",
-  "image": "/medias/sys_master/prd-images/h59/hfb/44451387932702/prd-front-6403136-1_600x600/prd-front-6403136-1-600x600.jpg"
+  "description": "120 stuks"
 }

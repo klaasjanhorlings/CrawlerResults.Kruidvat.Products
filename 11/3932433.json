@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Collageen 1000mg Tabletten",
   "code": "3932433",
   "price": "11.99",
@@ -29,10 +29,10 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266719,
-      "name": "Beautysupplementen"
+      "id": 49363733,
+      "name": "Collageensupplementen"
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h20/h55/46300397404190/temp-prd-front-3932433-1_600x600/temp-prd-front-3932433-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2d/h53/46341500272670/temp-prd-front-3932433-1_600x600/temp-prd-front-3932433-1-600x600.jpg"
 }

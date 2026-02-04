@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun Series 6 61-N1000S Elektrisch Scheerapparaat",
+  "code": "6292053",
+  "price": "87.5",
+  "priceOriginal": "174.99",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6442 > 6672 > 6673",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1060266",
+  "mmkId": "1060266",
+  "productGroupId": "523503",
+  "brandType": "A of B merk",
+  "discount": "€ 87,49",
+  "url": "/braun-series-6-61-n1000s-elektrisch-scheerapparaat/p/6292053",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266686,
+      "name": "Baardtrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfb/hfe/34394386071582/prd-front-6292053-1_600x600/prd-front-6292053-1-600x600.jpg"
+}
