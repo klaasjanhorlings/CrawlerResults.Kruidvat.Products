@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 3032 > 4246 > 6789",
   "supplier": "BEVAPLAST BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -37,5 +37,6 @@
       "name": "Waterbestendige pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 x 6cm"
+  "description": "Medisch hulpmiddel - 10 x 6cm",
+  "image": "/medias/sys_master/prd-images/h25/h76/34162265653278/prd-front-28400-1_600x600/prd-front-28400-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
   "supplier": "MARQUE OF BRANDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Zelfbruiners"
     }
   ],
-  "description": "437ml"
+  "description": "437ml",
+  "image": "/medias/sys_master/prd-images/h0c/h05/44794855292958/prd-front-6050119-1_600x600/prd-front-6050119-1-600x600.jpg"
 }

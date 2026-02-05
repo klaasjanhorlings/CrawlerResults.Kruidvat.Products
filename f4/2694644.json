@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Guess Seductive Eau de Toilette",
   "code": "2694644",
-  "price": "29.99",
+  "price": "26.99",
   "priceOriginal": "63.0",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061499",
+  "mmkId": "1061499",
+  "productGroupId": "534960",
   "brandType": "A of B merk",
-  "discount": "€ 33,01",
+  "discount": "€ 36,01",
   "url": "/guess-seductive-eau-de-toilette/p/2694644",
   "listName": "Lister",
   "brand": "Guess",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/hee/hf0/44505838452766/prd-front-2694644-1_600x600/prd-front-2694644-1-600x600.jpg"
+  "description": "75ml"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ariana Grande Thank U Next Eau de Parfum",
+  "code": "5770630",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ariana-grande-thank-u-next-eau-de-parfum/p/5770630",
+  "listName": "Lister",
+  "brand": "Ariana Grande",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/prd-front-5770630-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDEwMzV8aW1hZ2UvanBlZ3xhR1V3TDJneVlpOHhOams0T1RVeE5EWXlPVEUxTUM5d2NtUXRabkp2Ym5RdE5UYzNNRFl6TUMweFh6WXdNSGcyTURBfGNhNTUzNjQwYjM5NTQ1MTI4Zjg3NGMwZThhMTA4ZWY1ZDBmOTFiMGI5ZDNlNGNhYTA4NjY2OWZhMThhYzBhYjE"
+}

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Calvin Klein IN2U Him Eau de Toilette",
   "code": "3693985",
-  "price": "26.99",
+  "price": "24.29",
   "priceOriginal": "75.0",
   "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061499",
+  "mmkId": "1061499",
+  "productGroupId": "534960",
   "brandType": "A of B merk",
-  "discount": "€ 48,01",
+  "discount": "€ 50,71",
   "url": "/calvin-klein-in2u-him-eau-de-toilette/p/3693985",
   "listName": "Lister",
   "brand": "Calvin Klein",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/prd-front-3693985-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDA0OTF8aW1hZ2UvanBlZ3xhRFV4TDJneU1DOHhOelF3TlRjeU1ESXpNVGsyTmk5d2NtUXRabkp2Ym5RdE16WTVNems0TlMweFh6WXdNSGcyTURBfGFlYWYwZGViNGJhODQ0ZGMyNmQ5OTg2YTcwYmU0MjJjOTk2MDM3MTc5Yjc3YmQwYWU5Zjk0ZThlMDllY2RiNWE"
 }

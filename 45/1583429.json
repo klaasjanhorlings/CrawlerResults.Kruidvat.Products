@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dr. Scholl's Active Repair K+ Herstellende Hielkloven Crème",
+  "itemName": "Dr. Scholl's Hielkloven Crème",
   "code": "1583429",
   "price": "9.49",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "515757",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dr-scholls-active-repair-k-herstellende-hielkloven-creme/p/1583429",
+  "url": "/dr-scholls-hielkloven-creme/p/1583429",
   "listName": "Lister",
   "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 101912253,
-      "name": "Voetverzorging"
+      "id": 48220663,
+      "name": "Voetongemakken"
     },
     {
-      "id": 48220898,
-      "name": "Voetcreme"
+      "id": 49316183,
+      "name": "Voetkloven"
     }
   ],
   "description": "60ml",
