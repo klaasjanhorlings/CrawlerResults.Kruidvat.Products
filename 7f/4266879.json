@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Colab Dry+ Extreme Volume Droogshampoo",
+  "code": "4266879",
+  "price": "4.19",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "1059946",
+  "mmkId": "1059946",
+  "productGroupId": "510323",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/colab-dry-extreme-volume-droogshampoo/p/4266879",
+  "listName": "Lister",
+  "brand": "Colab",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266693,
+      "name": "Droogshampoo"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h10/ha5/35029916057630/prd-front-4266879-1_600x600/prd-front-4266879-1-600x600.jpg"
+}

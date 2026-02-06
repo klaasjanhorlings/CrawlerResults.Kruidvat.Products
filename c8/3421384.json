@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 2979 > 3805",
   "supplier": "CURATEX GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1059751",
-  "mmkId": "1059751",
-  "productGroupId": "530762",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-flex-zwarte-inlegkruisjes/p/3421384",
@@ -33,6 +33,5 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/hb7/he6/45565296607262/temp-prd-front-3421384-1_600x600/temp-prd-front-3421384-1-600x600.jpg"
+  "description": "30 stuks"
 }

@@ -6,7 +6,7 @@
   "price": "3.59",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
-  "supplier": "SOLUTION EU BV",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
   "onPromo": "1060087",
   "mmkId": "1060087",
@@ -37,5 +37,6 @@
       "name": "Babyhaarborstels- en kammen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha3/hd3/34890411737118/prd-front-760341-1_600x600/prd-front-760341-1-600x600.jpg"
 }

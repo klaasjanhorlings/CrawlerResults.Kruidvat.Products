@@ -5,7 +5,7 @@
   "code": "6392370",
   "price": "12.69",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3970",
+  "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2862 > 3527",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "outOfStock",
   "onPromo": "1008193",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266705,
-      "name": "Luchtwegen"
-    },
-    {
-      "id": 49313533,
-      "name": "Neusreiniger"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "Medisch hulpmiddel",

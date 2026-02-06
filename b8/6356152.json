@@ -7,7 +7,7 @@
   "priceOriginal": "33.95",
   "itemBgbcat": "2006 > 2074 > 2155 > 2381 > 2823 > 3564",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1060278",
   "mmkId": "1060278",
   "productGroupId": "516649",
@@ -33,6 +33,5 @@
       "name": "Lenzenvloeistof"
     }
   ],
-  "description": "Medisch hulpmiddel - 3 x 360ml",
-  "image": "/medias/sys_master/prd-images/h8a/h0f/44598979330078/prd-front-6356152-1_600x600/prd-front-6356152-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 3 x 360ml"
 }

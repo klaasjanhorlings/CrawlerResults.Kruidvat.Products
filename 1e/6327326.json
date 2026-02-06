@@ -7,7 +7,7 @@
   "priceOriginal": "5.99",
   "itemBgbcat": "2001 > 2095 > 2150 > 2644 > 6616 > 6617",
   "supplier": "BECONNECTED HK LTD",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1060108",
   "mmkId": "1060108",
   "productGroupId": "515541",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "zwart, mt XL, 2 stuks"
+  "description": "zwart, mt XL, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h1e/he7/44389467095070/prd-front-6327326-1_600x600/prd-front-6327326-1-600x600.jpg"
 }

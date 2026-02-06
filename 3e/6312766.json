@@ -5,7 +5,7 @@
   "code": "6312766",
   "price": "39.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
+  "itemBgbcat": "2002 > 6497 > 6496 > 6520 > 2684 > 3384",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
   "onPromo": "1060118",
@@ -29,8 +29,8 @@
       "name": "Nagels"
     },
     {
-      "id": 72476848,
-      "name": "Nagel-ledlamp"
+      "id": 72476685,
+      "name": "Gellak"
     }
   ],
   "description": "",

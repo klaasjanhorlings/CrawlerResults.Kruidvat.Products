@@ -5,7 +5,7 @@
   "code": "6369592",
   "price": "9.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
+  "itemBgbcat": "2002 > 6497 > 6496 > 6520 > 2684 > 3384",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
   "onPromo": "1060159",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "6,5ml"
+  "description": "6,5ml",
+  "image": "/medias/sys_master/prd-images/h88/h3b/44253900898334/prd-front-6369592-1_600x600/prd-front-6369592-1-600x600.jpg"
 }

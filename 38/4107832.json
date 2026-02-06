@@ -5,7 +5,7 @@
   "code": "4107832",
   "price": "18.95",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2065 > 2516 > 3131 > 3996 > 2205",
+  "itemBgbcat": "2003 > 2065 > 2205 > 6838 > 6839 > 6840",
   "supplier": "BENCKMAR BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -37,5 +37,6 @@
       "name": "Vaginale droogheid"
     }
   ],
-  "description": "Medisch hulpmiddel - 50g"
+  "description": "Medisch hulpmiddel - 50g",
+  "image": "/medias/sys_master/prd-images/h09/h47/32825536970782/prd-front-4107832-1_600x600/prd-front-4107832-1-600x600.jpg"
 }

@@ -5,7 +5,7 @@
   "code": "6413580",
   "price": "8.99",
   "priceOriginal": "",
-  "itemBgbcat": "2183 > 5176 > 5269 > 5458 > 5921 > 6040",
+  "itemBgbcat": "5921 > 6040 > 2232 > 5177 > 5271 > 5460",
   "supplier": "UP INTERNATIONAL BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf0/h9a/44630614736926/prd-front-6413580-1_600x600/prd-front-6413580-1-600x600.jpg"
 }

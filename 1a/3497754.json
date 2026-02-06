@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1060046",
   "mmkId": "1060046",
   "productGroupId": "513776",
@@ -33,6 +33,5 @@
       "name": "Mama verzorgingsproducten"
     }
   ],
-  "description": "37g",
-  "image": "/medias/sys_master/prd-images/h13/he7/27503702310942/prd-front-3497754-1_600x600/prd-front-3497754-1-600x600.jpg"
+  "description": "37g"
 }

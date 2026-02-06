@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Kruidvat Kruidvat Easy & Comfort Super Tampons",
+  "itemName": "Kruidvat Easy & Comfort Super Tampons",
   "code": "5829374",
   "price": "1.29",
   "priceOriginal": "",
-  "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3303 > 3660",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3043 > 3659",
   "supplier": "ONTEX BVBA",
   "inStock": "inStock",
   "onPromo": "1059751",
@@ -13,7 +13,7 @@
   "productGroupId": "530762",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/kruidvat-kruidvat-easy-comfort-super-tampons/p/5829374",
+  "url": "/kruidvat-easy-comfort-super-tampons/p/5829374",
   "listName": "Lister",
   "brand": "Kruidvat",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Tampons"
     }
   ],
-  "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/h39/h29/45552653631518/temp-prd-front-5829374-1_600x600/temp-prd-front-5829374-1-600x600.jpg"
+  "description": "16 stuks"
 }

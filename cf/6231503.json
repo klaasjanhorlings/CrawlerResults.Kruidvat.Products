@@ -5,7 +5,7 @@
   "code": "6231503",
   "price": "29.99",
   "priceOriginal": "",
-  "itemBgbcat": "4929 > 4975 > 5021 > 5921 > 6040 > 2232",
+  "itemBgbcat": "4929 > 5921 > 6040 > 2232 > 2746 > 3454",
   "supplier": "MATTEL EUROPA BV",
   "inStock": "inStock",
   "onPromo": "",
@@ -29,5 +29,6 @@
       "name": "Voertuigen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he4/h50/32897696792606/prd-front-6231503-1_600x600/prd-front-6231503-1-600x600.jpg"
 }

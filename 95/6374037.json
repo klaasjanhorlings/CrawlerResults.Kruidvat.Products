@@ -5,7 +5,7 @@
   "code": "6374037",
   "price": "49.0",
   "priceOriginal": "",
-  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6676 > 6677",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6492 > 6493 > 6494",
   "supplier": "HOMEDIQ EUROPE BV",
   "inStock": "inStock",
   "onPromo": "1008193",
@@ -25,18 +25,9 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266710,
-      "name": "Zelftesten"
-    },
-    {
-      "id": 30266984,
-      "name": "Gezondheidstesten"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha4/he2/45190858473502/prd-front-6374037-1_600x600/prd-front-6374037-1-600x600.jpg"
+  "description": ""
 }

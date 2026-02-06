@@ -5,7 +5,7 @@
   "code": "6037806",
   "price": "13.97",
   "priceOriginal": "27.95",
-  "itemBgbcat": "2003 > 2065 > 2516 > 3131 > 3996 > 2205",
+  "itemBgbcat": "2003 > 2065 > 2199 > 6832 > 6834 > 6833",
   "supplier": "ESSITY",
   "inStock": "inStock",
   "onPromo": "1059923",
@@ -37,5 +37,6 @@
       "name": "Incontinentiebroekjes"
     }
   ],
-  "description": "Medisch hulpmiddel - mt L"
+  "description": "Medisch hulpmiddel - mt L",
+  "image": "/medias/sys_master/prd-images/h97/h7c/34415338422302/prd-front-6037806-1_600x600/prd-front-6037806-1-600x600.jpg"
 }
