@@ -5,7 +5,7 @@
   "code": "6335495",
   "price": "9.99",
   "priceOriginal": "",
-  "itemBgbcat": "2176 > 3710 > 5921 > 6040 > 6822 > 6823",
+  "itemBgbcat": "3710 > 5921 > 6040 > 6822 > 6823 > 2191",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
   "onPromo": "",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h86/h6c/34872156192798/prd-front-6335495-1_600x600/prd-front-6335495-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2181 > 5164 > 5227 > 5416 > 5921 > 6040",
   "supplier": "999 GAMES",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/ha3/h54/33455567863838/prd-front-6269317-1_600x600/prd-front-6269317-1-600x600.jpg"
 }

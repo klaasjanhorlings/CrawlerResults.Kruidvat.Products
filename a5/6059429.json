@@ -7,7 +7,7 @@
   "priceOriginal": "349.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1059902",
   "mmkId": "1059902",
   "productGroupId": "506574",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "zwart, wit, 2 stuks",
-  "image": "/medias/sys_master/prd-images/hb7/h80/46438041681950/temp-prd-front-6059429-1_600x600/temp-prd-front-6059429-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hec/hda/46482424889374/temp-prd-front-6059429-1_600x600/temp-prd-front-6059429-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "BRANSUS COSM ULTIMATCH",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
@@ -29,9 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266590,
-      "name": "Blush"
+      "id": 30266589,
+      "name": "Highlighter"
     }
   ],
-  "description": "9g"
+  "description": "9g",
+  "image": "/medias/sys_master/prd-images/hdf/h89/44484960256030/prd-front-6336587-1_600x600/prd-front-6336587-1-600x600.jpg"
 }

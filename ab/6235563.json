@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1061222",
+  "mmkId": "1061222",
+  "productGroupId": "515826",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-105-mesmerizing-gold-le-shadow-stick/p/6235563",
@@ -37,5 +37,6 @@
       "name": "Mono oogschaduw"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h80/h15/44915528630302/prd-front-6235563-1_600x600/prd-front-6235563-1-600x600.jpg"
 }

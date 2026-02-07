@@ -8,8 +8,8 @@
   "itemBgbcat": "2048 > 2225 > 4869 > 6652 > 6653 > 6654",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1062106",
+  "mmkId": "1062106",
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
@@ -33,5 +33,6 @@
       "name": "Winteraccessoires"
     }
   ],
-  "description": "one size"
+  "description": "one size",
+  "image": "/medias/sys_master/prd-images/h06/h54/44327295680542/prd-front-6383326-1_600x600/prd-front-6383326-1-600x600.jpg"
 }

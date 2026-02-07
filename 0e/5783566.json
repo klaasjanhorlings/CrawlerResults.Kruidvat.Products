@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1061222",
+  "mmkId": "1061222",
+  "productGroupId": "515826",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-24h-806-infinite-intimacy-lipstick/p/5783566",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "5,7g"
+  "description": "5,7g",
+  "image": "/medias/sys_master/prd-images/hbb/h72/45055784321054/prd-front-5783566-1_600x600/prd-front-5783566-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1061222",
+  "mmkId": "1061222",
+  "productGroupId": "515826",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-color-riche-550-unapologetic-satin-nude-lippenstift/p/5994567",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,54g"
+  "description": "4,54g",
+  "image": "/medias/sys_master/prd-images/h83/h26/45055117295646/prd-front-5994567-1_600x600/prd-front-5994567-1-600x600.jpg"
 }

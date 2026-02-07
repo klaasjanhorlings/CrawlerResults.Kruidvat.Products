@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 6431 > 6492 > 6676",
   "supplier": "OTC MEDICAL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -33,5 +33,6 @@
       "name": "Thermometers"
     }
   ],
-  "description": "Medisch hulpmiddel - 40 stuks"
+  "description": "Medisch hulpmiddel - 40 stuks",
+  "image": "/medias/sys_master/prd-images/h9e/ha9/34594997338142/prd-front-6193052-1_600x600/prd-front-6193052-1-600x600.jpg"
 }
