@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1061222",
-  "mmkId": "1061222",
-  "productGroupId": "515826",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-infaillible-brows-24h-108-dark-brunette-waterproof-wenkbrauwmascara/p/5058299",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwmascara"
     }
   ],
-  "description": "12,1g"
+  "description": "12,1g",
+  "image": "/medias/sys_master/prd-images/hdc/hff/44111754100766/prd-front-5058299-1_600x600/prd-front-5058299-1-600x600.jpg"
 }

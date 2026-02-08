@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Calcium & Magnesium Bruistabletten",
   "code": "569261",
   "price": "3.39",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/he3/h82/46482519326750/temp-prd-front-569261-1_600x600/temp-prd-front-569261-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he1/hc1/46572668747806/temp-prd-front-569261-1_600x600/temp-prd-front-569261-1-600x600.jpg"
 }

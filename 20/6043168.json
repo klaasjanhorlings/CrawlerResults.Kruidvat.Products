@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "outOfStock",
-  "onPromo": "1061222",
-  "mmkId": "1061222",
-  "productGroupId": "515826",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-50-brunette-brow-color-wenkbrauwverf/p/6043168",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwverf"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h07/ha0/44496414638110/prd-front-6043168-1_600x600/prd-front-6043168-1-600x600.jpg"
+  "description": "30ml"
 }

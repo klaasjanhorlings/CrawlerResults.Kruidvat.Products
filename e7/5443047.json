@@ -7,7 +7,7 @@
   "priceOriginal": "12.95",
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "TRIPLE A MARKETING GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1060024",
   "mmkId": "1060024",
   "productGroupId": "513342",
@@ -33,5 +33,6 @@
       "name": "Toy reiniger"
     }
   ],
-  "description": "Medisch hulpmiddel - 300ml"
+  "description": "Medisch hulpmiddel - 300ml",
+  "image": "/medias/prd-front-5443047-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzMxMjR8aW1hZ2UvanBlZ3xhR1E1TDJnNE1pOHhOakV3TURRM05ERTFPVEV6TkM5d2NtUXRabkp2Ym5RdE5UUTBNekEwTnkweFh6WXdNSGcyTURBfDc1MzJjYjMxMjExNTRhMzUyOThiZGM5MTEyYjFhYTMyZDlhMmQzOTc0NTM1ZjQ0NmQ5N2NjY2JiYmQ0M2Y5NGM"
 }

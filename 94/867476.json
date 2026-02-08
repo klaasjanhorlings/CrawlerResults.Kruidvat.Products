@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "A.Vogel Aesculaforce Tabletten",
   "code": "867476",
   "price": "20.99",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke zelfzorgmiddelen"
     }
   ],
-  "description": "Geneesmiddel - 50 stuks"
+  "description": "Geneesmiddel - 50 stuks",
+  "image": "/medias/sys_master/prd-images/h07/h81/33354454958110/prd-front-867476-1_600x600/prd-front-867476-1-600x600.jpg"
 }

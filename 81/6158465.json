@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "EasyToys Tapping Play Topping Stimulator",
   "code": "6158465",
   "price": "14.99",
@@ -12,7 +12,7 @@
   "mmkId": "1060059",
   "productGroupId": "513830",
   "brandType": "A of B merk",
-  "discount": "€ 15,00",
+  "discount": "$ 15,00",
   "url": "/easytoys-tapping-play-topping-stimulator/p/6158465",
   "listName": "Lister",
   "brand": "EasyToys",
@@ -41,5 +41,6 @@
       "name": "Clitoris vibrators"
     }
   ],
-  "description": "roze"
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/h55/he2/31696920805406/prd-front-6158465-1_600x600/prd-front-6158465-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "A. Vogel Famosan Overgang Totaal",
   "code": "1550956",
   "price": "24.99",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke supplementen"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h20/h34/32567735091230/prd-front-1550956-1_600x600/prd-front-1550956-1-600x600.jpg"
 }

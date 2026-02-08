@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "CranMed Forte Capsules",
   "code": "2870239",
   "price": "14.99",
@@ -12,7 +12,7 @@
   "mmkId": "1059976",
   "productGroupId": "512123",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "$ 5,00",
   "url": "/cranmed-forte-capsules/p/2870239",
   "listName": "Lister",
   "brand": "Lucovitaal",

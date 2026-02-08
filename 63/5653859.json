@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Lucovitaal Probiotica Vitaminen & Mineralen Complex Capsules",
   "code": "5653859",
   "price": "14.99",
@@ -33,6 +33,5 @@
       "name": "Bacteriestammen"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/prd-front-5653859-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODU5ODh8aW1hZ2UvanBlZ3xhRGcyTDJnd05DOHhOall5TURRME56UXpNamN6TkM5d2NtUXRabkp2Ym5RdE5UWTFNemcxT1MweFh6WXdNSGcyTURBfGU0YTgxNWRjMmM4MGNiNGJkYWUxOWYyNTNmNTAzODIzMTdjMjU5MWVjNGUxYmMzMjNlYmZmYTI2OWRjMTM0ODI"
+  "description": "30 stuks"
 }

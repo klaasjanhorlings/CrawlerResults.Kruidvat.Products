@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bepanthen Repair SOS Balm",
   "code": "6390298",
   "price": "15.29",
@@ -12,7 +12,7 @@
   "mmkId": "1059954",
   "productGroupId": "510927",
   "brandType": "A of B merk",
-  "discount": "€ 2,70",
+  "discount": "$ 2,70",
   "url": "/bepanthen-repair-sos-balm/p/6390298",
   "listName": "Lister",
   "brand": "Bepanthen",
@@ -29,5 +29,6 @@
       "name": "Nieuw"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hb6/h19/44275938721822/prd-front-6390298-1_600x600/prd-front-6390298-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Canesten Gyno 1 Tablet",
   "code": "2871093",
   "price": "16.99",
@@ -37,5 +37,6 @@
       "name": "Vaginale schimmel"
     }
   ],
-  "description": "Geneesmiddel"
+  "description": "Geneesmiddel",
+  "image": "/medias/sys_master/prd-images/h75/he2/34689526824990/prd-front-2871093-1_600x600/prd-front-2871093-1-600x600.jpg"
 }

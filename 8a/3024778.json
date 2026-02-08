@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dr. Scholl's Velvet Smooth Elektrische Voetvijl",
   "code": "3024778",
   "price": "29.99",
@@ -33,6 +33,5 @@
       "name": "Eeltverwijderaars"
     }
   ],
-  "description": "blauw",
-  "image": "/medias/sys_master/prd-images/h59/hd7/34324352598046/prd-front-3024778-1_600x600/prd-front-3024778-1-600x600.jpg"
+  "description": "blauw"
 }

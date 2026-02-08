@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Care Plus 50% Deet Anti-Insect Spray",
   "code": "6019788",
   "price": "24.99",
@@ -37,5 +37,6 @@
       "name": "Voor de beet"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h2e/h1f/45068592414750/prd-front-6019788-1_600x600/prd-front-6019788-1-600x600.jpg"
 }

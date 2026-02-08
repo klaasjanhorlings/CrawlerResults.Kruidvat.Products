@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Similasan Hooikoorts Oogdruppels",
   "code": "3145941",
   "price": "14.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 10ml",
-  "image": "/medias/sys_master/prd-images/hab/hd1/46503867056158/temp-prd-front-3145941-1_600x600/temp-prd-front-3145941-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf4/h1d/46547262275614/temp-prd-front-3145941-1_600x600/temp-prd-front-3145941-1-600x600.jpg"
 }

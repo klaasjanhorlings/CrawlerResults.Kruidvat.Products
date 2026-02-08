@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "A.Vogel Extra Intensief Oogdruppels",
   "code": "3611329",
   "price": "11.99",
@@ -12,7 +12,7 @@
   "mmkId": "1060156",
   "productGroupId": "529703",
   "brandType": "A of B merk",
-  "discount": "€ 3,00",
+  "discount": "$ 3,00",
   "url": "/avogel-extra-intensief-oogdruppels/p/3611329",
   "listName": "Lister",
   "brand": "A.Vogel",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Opticare Zachte Lenzen All-In-One No Rub Lenzenvloeistof",
   "code": "4084333",
   "price": "2.39",
@@ -29,6 +29,5 @@
       "name": "Mini reisverpakkingen"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml",
-  "image": "/medias/sys_master/prd-images/h47/h41/28531992330270/prd-front-4084333-1_600x600/prd-front-4084333-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 100ml"
 }

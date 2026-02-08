@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Wondreinigingsdoekjes",
   "code": "3551948",
   "price": "2.99",
@@ -33,5 +33,6 @@
       "name": "Wondreiniging en/of -ontsmetting"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks"
+  "description": "Medisch hulpmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h0f/h47/28026399359006/prd-front-3551948-1_600x600/prd-front-3551948-1-600x600.jpg"
 }

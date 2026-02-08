@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dr. Scholl's Geurblokker Inlegzolen",
   "code": "6255912",
   "price": "4.99",
@@ -12,7 +12,7 @@
   "mmkId": "1060292",
   "productGroupId": "533213",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "$ 5,00",
   "url": "/dr-scholls-geurblokker-inlegzolen/p/6255912",
   "listName": "Lister",
   "brand": "Dr. Scholl's",

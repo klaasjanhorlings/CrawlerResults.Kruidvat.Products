@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Knoflook Capsules",
   "code": "22648",
   "price": "3.29",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100 stuks",
-  "image": "/medias/sys_master/prd-images/hfc/hf0/46499278815262/temp-prd-front-22648-1_600x600/temp-prd-front-22648-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hdf/hd6/46545308942366/temp-prd-front-22648-1_600x600/temp-prd-front-22648-1-600x600.jpg"
 }

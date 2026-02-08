@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Music Oordopjes",
   "code": "5870737",
   "price": "5.99",
@@ -41,6 +41,5 @@
       "name": "Muziek oordoppen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h3d/hce/46503969095710/temp-prd-front-5870737-1_600x600/temp-prd-front-5870737-1-600x600.jpg"
+  "description": ""
 }

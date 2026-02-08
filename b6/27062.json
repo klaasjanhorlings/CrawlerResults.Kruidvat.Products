@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "WeCare Choco Crisp Meal Replacement Bars",
   "code": "27062",
   "price": "3.49",
@@ -33,5 +33,6 @@
       "name": "Maaltijdvervangers"
     }
   ],
-  "description": "2 x 58g"
+  "description": "2 x 58g",
+  "image": "/medias/sys_master/prd-images/h29/he5/31684786389022/prd-front-27062-1_600x600/prd-front-27062-1-600x600.jpg"
 }

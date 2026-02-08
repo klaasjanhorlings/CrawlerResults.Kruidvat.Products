@@ -7,7 +7,7 @@
   "priceOriginal": "8.99",
   "itemBgbcat": "2001 > 2095 > 2150 > 2644 > 6616 > 6619",
   "supplier": "BECONNECTED HK LTD",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1060108",
   "mmkId": "1060108",
   "productGroupId": "515541",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "donkerbruin, mt M",
-  "image": "/medias/sys_master/prd-images/hbb/h7f/46499088433182/temp-prd-front-6328012-1_600x600/temp-prd-front-6328012-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h7c/hd1/46542837448734/temp-prd-front-6328012-1_600x600/temp-prd-front-6328012-1-600x600.jpg"
 }

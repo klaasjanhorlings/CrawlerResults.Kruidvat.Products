@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 60 Seconden Thermometer",
   "code": "1413651",
   "price": "4.99",
@@ -33,5 +33,6 @@
       "name": "Thermometers"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/h0d/h94/34593893056542/prd-front-1413651-1_600x600/prd-front-1413651-1-600x600.jpg"
 }

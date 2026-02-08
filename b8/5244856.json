@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Leefvitaal Magnesiumcitraat Bruistabletten",
   "code": "5244856",
   "price": "11.99",
@@ -37,6 +37,5 @@
       "name": "Magnesium"
     }
   ],
-  "description": "2 x 12 stuks",
-  "image": "/medias/sys_master/prd-images/h12/hc1/29569234599966/prd-front-5244856-1_600x600/prd-front-5244856-1-600x600.jpg"
+  "description": "2 x 12 stuks"
 }

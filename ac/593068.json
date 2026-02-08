@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Dr. Scholl's Schoendeodorant",
   "code": "593068",
   "price": "7.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hb4/h63/46503882162206/temp-prd-front-593068-1_600x600/temp-prd-front-593068-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h48/h3c/46547267649566/temp-prd-front-593068-1_600x600/temp-prd-front-593068-1-600x600.jpg"
 }

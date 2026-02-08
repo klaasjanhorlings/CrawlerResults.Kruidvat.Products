@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "A.Vogel Extra Hydratatie Ooggel",
   "code": "5558834",
   "price": "12.79",
@@ -12,7 +12,7 @@
   "mmkId": "1060156",
   "productGroupId": "529703",
   "brandType": "A of B merk",
-  "discount": "€ 3,20",
+  "discount": "$ 3,20",
   "url": "/avogel-extra-hydratatie-ooggel/p/5558834",
   "listName": "Lister",
   "brand": "A.Vogel",
@@ -33,5 +33,6 @@
       "name": "Oogdruppels"
     }
   ],
-  "description": "Medisch hulpmiddel - 10ml"
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/h62/h9e/32661463695390/prd-front-5558834-1_600x600/prd-front-5558834-1-600x600.jpg"
 }

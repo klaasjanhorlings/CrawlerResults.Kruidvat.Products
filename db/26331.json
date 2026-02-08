@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "A.Vogel Prostaforce Capsules",
   "code": "26331",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke supplementen"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h92/h66/32571654373406/prd-front-26331-1_600x600/prd-front-26331-1-600x600.jpg"
 }
