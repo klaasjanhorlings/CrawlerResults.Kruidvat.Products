@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
   "supplier": "MAXIM MARKENPRODUKTE",
   "inStock": "inStock",
-  "onPromo": "1059946",
-  "mmkId": "1059946",
-  "productGroupId": "510323",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-original-fresh-droogshampoo/p/3878813",
@@ -33,5 +33,6 @@
       "name": "Droogshampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h4d/ha7/28997506400286/prd-front-3878813-1_600x600/prd-front-3878813-1-600x600.jpg"
 }

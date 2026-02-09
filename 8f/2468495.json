@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2038 > 2157 > 2385 > 2827 > 4088",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "1060137",
-  "mmkId": "1060137",
-  "productGroupId": "517079",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/demakup-expert-wattenschijfjes/p/2468495",
@@ -33,6 +33,5 @@
       "name": "Wattenschijfjes en staafjes"
     }
   ],
-  "description": "108 stuks",
-  "image": "/medias/sys_master/prd-images/h7e/hb8/31068054650910/prd-front-2468495-1_600x600/prd-front-2468495-1-600x600.jpg"
+  "description": "108 stuks"
 }

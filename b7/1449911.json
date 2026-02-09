@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. E.J. Swaab Glyca Handcrème met Kamfer",
+  "code": "1449911",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2059 > 2139 > 2443 > 2840 > 3580",
+  "supplier": "REMARK GROEP",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dr-ej-swaab-glyca-handcreme-met-kamfer/p/1449911",
+  "listName": "Lister",
+  "brand": "Dr. E.J. Swaab",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266003,
+      "name": "Handverzorging"
+    },
+    {
+      "id": 30266688,
+      "name": "Handcrèmes"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/ha2/h97/35129156141086/prd-front-1449911-1_600x600/prd-front-1449911-1-600x600.jpg"
+}

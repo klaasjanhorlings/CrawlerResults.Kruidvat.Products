@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2156 > 2380 > 2821 > 3562",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "1059972",
-  "mmkId": "1059972",
-  "productGroupId": "511967",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/durex-performa-condooms/p/5138932",
@@ -33,5 +33,6 @@
       "name": "Condooms"
     }
   ],
-  "description": "Medisch hulpmiddel - 10 stuks"
+  "description": "Medisch hulpmiddel - 10 stuks",
+  "image": "/medias/sys_master/prd-images/h41/hdf/27991941251102/prd-front-5138932-1_600x600/prd-front-5138932-1-600x600.jpg"
 }

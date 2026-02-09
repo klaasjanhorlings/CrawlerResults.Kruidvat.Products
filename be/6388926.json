@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Oracle Red Bull Racing Bluetooth Koptelefoon",
   "code": "6388926",
-  "price": "24.99",
-  "priceOriginal": "",
+  "price": "18.74",
+  "priceOriginal": "24.99",
   "itemBgbcat": "2153 > 2503 > 3113 > 3979 > 5929 > 6014",
   "supplier": "I-STAR WORLD BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1062101",
+  "mmkId": "1062101",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,25",
   "url": "/oracle-red-bull-racing-bluetooth-koptelefoon/p/6388926",
   "listName": "Lister",
   "brand": "ORACLE Red Bull RACING",
@@ -33,5 +33,6 @@
       "name": "Koptelefoons"
     }
   ],
-  "description": "blauw, rood"
+  "description": "blauw, rood",
+  "image": "/medias/sys_master/prd-images/he4/hd1/44438733094942/prd-front-6388926-1_600x600/prd-front-6388926-1-600x600.jpg"
 }

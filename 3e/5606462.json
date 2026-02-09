@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Power Base Matte Liquid Longlasting Eye Primer",
   "code": "5606462",
-  "price": "3.49",
-  "priceOriginal": "",
+  "price": "2.62",
+  "priceOriginal": "3.49",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "KALEGRA COSMETICS GMBH",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1061263",
+  "mmkId": "1061263",
+  "productGroupId": "507909",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 0,87",
   "url": "/kruidvat-power-base-matte-liquid-longlasting-eye-primer/p/5606462",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Primer"
     }
   ],
-  "description": "8,5ml",
-  "image": "/medias/sys_master/prd-images/h7b/hb0/27622772736030/prd-front-5606462-1_600x600/prd-front-5606462-1-600x600.jpg"
+  "description": "8,5ml"
 }

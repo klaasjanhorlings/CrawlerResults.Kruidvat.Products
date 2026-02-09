@@ -3,16 +3,16 @@
   "currency": "USD",
   "itemName": "Hansaplast Sensitive Wondpleister",
   "code": "4749781",
-  "price": "4.64",
-  "priceOriginal": "6.19",
+  "price": "6.19",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 3032 > 4109 > 6789",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1060116",
-  "mmkId": "1060116",
-  "productGroupId": "515836",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "$ 1,55",
+  "discount": "",
   "url": "/hansaplast-sensitive-wondpleister/p/4749781",
   "listName": "Lister",
   "brand": "Hansaplast",
@@ -37,6 +37,5 @@
       "name": "Sensitive pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 2m x 6cm",
-  "image": "/medias/sys_master/prd-images/h87/h43/44520749006878/prd-front-4749781-1_600x600/prd-front-4749781-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 2m x 6cm"
 }

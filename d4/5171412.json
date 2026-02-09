@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Starbucks by Nespresso Espresso Roast Koffiecapsules",
+  "code": "5171412",
+  "price": "3.39",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
+  "supplier": "NESTLE NEDERLAND B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/starbucks-by-nespresso-espresso-roast-koffiecapsules/p/5171412",
+  "listName": "Lister",
+  "brand": "Starbucks",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    },
+    {
+      "id": 113103697,
+      "name": "Koffiecups"
+    }
+  ],
+  "description": "10 stuks",
+  "image": "/medias/prd-front-5171412-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTIyMDF8aW1hZ2UvanBlZ3xhREl4TDJnd09DOHlOamd5TlRnek9USTBOek01TUM5d2NtUXRabkp2Ym5RdE5URTNNVFF4TWkweFh6WXdNSGcyTURBfDMwZTIwYjdmZWIzOTI2ZTM2YjA5MmM4MTQ4MTgzOGUyMjRkNWU1MmVmZmViMWM4YWZjNjVhZjE3NTg2ZGZlZWY"
+}

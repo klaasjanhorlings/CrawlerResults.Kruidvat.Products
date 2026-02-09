@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Borotalco Original Deodorant Spray",
   "code": "4396022",
-  "price": "3.0",
-  "priceOriginal": "5.89",
+  "price": "5.89",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
   "supplier": "BOLTON NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1059903",
-  "mmkId": "1059903",
-  "productGroupId": "506737",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,89",
+  "discount": "",
   "url": "/borotalco-original-deodorant-spray/p/4396022",
   "listName": "Lister",
   "brand": "Borotalco",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h52/h85/32822134800414/prd-front-4396022-1_600x600/prd-front-4396022-1-600x600.jpg"
+  "description": "150ml"
 }

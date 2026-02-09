@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 3742",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1061359",
+  "mmkId": "1061359",
+  "productGroupId": "518443",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-pleisterspray/p/20099",
@@ -37,5 +37,6 @@
       "name": "Klassieke pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 75ml"
+  "description": "Medisch hulpmiddel - 75ml",
+  "image": "/medias/sys_master/prd-images/h09/h05/28822928359454/prd-front-20099-1_600x600/prd-front-20099-1-600x600.jpg"
 }

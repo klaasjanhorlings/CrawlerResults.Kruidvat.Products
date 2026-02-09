@@ -3,16 +3,16 @@
   "currency": "USD",
   "itemName": "Tiger Balm Neck & Shoulder Rub",
   "code": "3443483",
-  "price": "10.69",
-  "priceOriginal": "",
+  "price": "9.09",
+  "priceOriginal": "10.69",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1061290",
+  "mmkId": "1061290",
+  "productGroupId": "511246",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "$ 1,60",
   "url": "/tiger-balm-neck-shoulder-rub/p/3443483",
   "listName": "Lister",
   "brand": "Tiger Balm",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "50g",
-  "image": "/medias/sys_master/prd-images/h70/h4c/46531097395230/temp-prd-front-3443483-1_600x600/temp-prd-front-3443483-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h16/h9e/46578540806174/temp-prd-front-3443483-1_600x600/temp-prd-front-3443483-1-600x600.jpg"
 }

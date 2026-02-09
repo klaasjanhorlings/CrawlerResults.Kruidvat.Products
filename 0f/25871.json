@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Hansaplast Elastic Finger Strips",
   "code": "25871",
-  "price": "2.77",
-  "priceOriginal": "3.69",
+  "price": "3.69",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 3650",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1060116",
-  "mmkId": "1060116",
-  "productGroupId": "515836",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "$ 0,92",
+  "discount": "",
   "url": "/hansaplast-elastic-finger-strips/p/25871",
   "listName": "Lister",
   "brand": "Hansaplast",
@@ -37,5 +37,6 @@
       "name": "Vingerpleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 16 stuks"
+  "description": "Medisch hulpmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/hda/hcf/44519934001182/prd-front-25871-1_600x600/prd-front-25871-1-600x600.jpg"
 }

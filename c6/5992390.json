@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Organic Shop Hydrating Eye Gel Patch",
   "code": "5992390",
-  "price": "7.99",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "TRADE SENSE BV",
   "inStock": "outOfStock",
-  "onPromo": "1060247",
-  "mmkId": "1060247",
-  "productGroupId": "508204",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 8,00",
+  "discount": "",
   "url": "/organic-shop-hydrating-eye-gel-patch/p/5992390",
   "listName": "Lister",
   "brand": "Organic Shop",
@@ -37,5 +37,6 @@
       "name": "Oogmaskers"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hc9/he8/34534994116638/prd-front-5992390-1_600x600/prd-front-5992390-1-600x600.jpg"
 }

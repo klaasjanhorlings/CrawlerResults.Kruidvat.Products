@@ -3,16 +3,16 @@
   "currency": "USD",
   "itemName": "Hansaplast Extra Strong Waterproof Pleisters",
   "code": "2477616",
-  "price": "3.29",
-  "priceOriginal": "4.39",
+  "price": "4.39",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2547 > 3273 > 4247",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
-  "onPromo": "1060116",
-  "mmkId": "1060116",
-  "productGroupId": "515836",
+  "inStock": "outOfStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "$ 1,10",
+  "discount": "",
   "url": "/hansaplast-extra-strong-waterproof-pleisters/p/2477616",
   "listName": "Lister",
   "brand": "Hansaplast",
@@ -37,5 +37,6 @@
       "name": "Waterbestendige pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 16 stuks"
+  "description": "Medisch hulpmiddel - 16 stuks",
+  "image": "/medias/sys_master/prd-images/h88/hf5/44516283351070/prd-front-2477616-1_600x600/prd-front-2477616-1-600x600.jpg"
 }

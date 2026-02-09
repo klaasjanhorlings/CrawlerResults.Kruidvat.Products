@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "EMIL KIESSLING GMBH",
   "inStock": "inStock",
-  "onPromo": "1060131",
-  "mmkId": "1060131",
-  "productGroupId": "516618",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-power-curls-leave-in-curl-smoothie/p/6016169",
@@ -33,6 +33,5 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/he4/h93/30687575310366/prd-front-6016169-1_600x600/prd-front-6016169-1-600x600.jpg"
+  "description": "250ml"
 }

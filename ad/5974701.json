@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Zilver Plated Schakel Oorbellen",
   "code": "5974701",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "4.99",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2048 > 2143 > 2348 > 2749 > 4869 > 6580",
   "supplier": "J-CLUB E-COMM",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1062102",
+  "mmkId": "1062102",
   "productGroupId": "",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/kruidvat-zilver-plated-schakel-oorbellen/p/5974701",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Mama verzorgingsproducten"
     }
   ],
-  "description": "zilverkleurig"
+  "description": "zilverkleurig",
+  "image": "/medias/sys_master/prd-images/h5e/hc4/29023468683294/prd-front-5974701-1_600x600/prd-front-5974701-1-600x600.jpg"
 }

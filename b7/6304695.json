@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "CeraVe Schuimende Reinigingsgel Navulling",
   "code": "6304695",
-  "price": "13.32",
-  "priceOriginal": "16.65",
+  "price": "16.65",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
-  "onPromo": "1059963",
-  "mmkId": "1059963",
-  "productGroupId": "511434",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,33",
+  "discount": "",
   "url": "/cerave-schuimende-reinigingsgel-navulling/p/6304695",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -37,5 +37,6 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "473ml"
+  "description": "473ml",
+  "image": "/medias/sys_master/prd-images/h5c/h2e/35120669949982/prd-front-6304695-1_600x600/prd-front-6304695-1-600x600.jpg"
 }

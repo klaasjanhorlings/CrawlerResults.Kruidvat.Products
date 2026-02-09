@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Naïf Baby & Kids Anti Klit Hair Lotion",
   "code": "5961247",
-  "price": "11.19",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2322 > 2721 > 3424",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "1059971",
-  "mmkId": "1059971",
-  "productGroupId": "511913",
+  "onPromo": "1061297",
+  "mmkId": "1061297",
+  "productGroupId": "511939",
   "brandType": "A of B merk",
-  "discount": "€ 4,80",
+  "discount": "",
   "url": "/naif-baby-kids-anti-klit-hair-lotion/p/5961247",
   "listName": "Lister",
   "brand": "Naïf",
@@ -37,5 +37,6 @@
       "name": "Baby haarlotion"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hb8/h15/32790641344542/prd-front-5961247-1_600x600/prd-front-5961247-1-600x600.jpg"
 }

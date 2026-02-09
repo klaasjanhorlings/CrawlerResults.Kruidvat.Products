@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Beauty of Joseon Apricot Blossom Peeling Gel",
   "code": "6200318",
-  "price": "11.17",
-  "priceOriginal": "14.9",
+  "price": "14.9",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 5665 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1059917",
-  "mmkId": "1059917",
-  "productGroupId": "508222",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 3,73",
+  "discount": "",
   "url": "/beauty-of-joseon-apricot-blossom-peeling-gel/p/6200318",
   "listName": "Lister",
   "brand": "BEAUTY OF JOSEON",
@@ -37,5 +37,6 @@
       "name": "Reinigingsscrub"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h37/h6c/32247293313054/prd-front-6200318-1_600x600/prd-front-6200318-1-600x600.jpg"
 }

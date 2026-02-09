@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1060073",
-  "mmkId": "1060073",
-  "productGroupId": "513873",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-epic-inky-stix-03-kinetic-copper-eyeliner/p/6427671",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h45/h8d/46133415084062/temp-prd-front-6427671-1_600x600/temp-prd-front-6427671-1-600x600.jpg"
 }

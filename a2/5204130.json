@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Starbucks By Nescafé Dolce Gusto Cappuccino Koffiecapsules",
+  "code": "5204130",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
+  "supplier": "NESTLE NEDERLAND B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/starbucks-by-nescafe-dolce-gusto-cappuccino-koffiecapsules/p/5204130",
+  "listName": "Lister",
+  "brand": "Starbucks",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    },
+    {
+      "id": 113103697,
+      "name": "Koffiecups"
+    }
+  ],
+  "description": "12 stuks",
+  "image": "/medias/sys_master/prd-images/h56/h09/33371834384414/prd-front-5204130-1_600x600/prd-front-5204130-1-600x600.jpg"
+}

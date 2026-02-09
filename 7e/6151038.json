@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3112 > 3978",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1062088",
-  "mmkId": "1062088",
-  "productGroupId": "505267",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/swiffer-dry-droge-vloerdoekjes/p/6151038",
@@ -33,6 +33,5 @@
       "name": "Dweilen en vloerwissers"
     }
   ],
-  "description": "72 stuks",
-  "image": "/medias/sys_master/prd-images/h7e/hbe/34125187022878/prd-front-6151038-1_600x600/prd-front-6151038-1-600x600.jpg"
+  "description": "72 stuks"
 }

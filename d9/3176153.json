@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Oral-B Pro Cross Action Opzetborstels",
   "code": "3176153",
-  "price": "27.99",
-  "priceOriginal": "",
+  "price": "16.79",
+  "priceOriginal": "27.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1060060",
-  "mmkId": "1060060",
-  "productGroupId": "513831",
+  "onPromo": "1061379",
+  "mmkId": "1061379",
+  "productGroupId": "518946",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 11,20",
   "url": "/oral-b-pro-cross-action-opzetborstels/p/3176153",
   "listName": "Lister",
   "brand": "Oral B",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "wit. 4 stuks",
-  "image": "/medias/sys_master/prd-images/h36/h08/46536702722078/temp-prd-front-3176153-1_600x600/temp-prd-front-3176153-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h92/h65/46583923146782/temp-prd-front-3176153-1_600x600/temp-prd-front-3176153-1-600x600.jpg"
 }

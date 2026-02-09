@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1060046",
-  "mmkId": "1060046",
-  "productGroupId": "513776",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-moedermelk-bewaarzakjes/p/6404389",
@@ -37,6 +37,5 @@
       "name": "Moedermelkbewaarzakjes"
     }
   ],
-  "description": "100 stuks",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "100 stuks"
 }

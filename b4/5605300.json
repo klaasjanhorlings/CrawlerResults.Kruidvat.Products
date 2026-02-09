@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "1062089",
-  "mmkId": "1062089",
-  "productGroupId": "505264",
+  "inStock": "outOfStock",
+  "onPromo": "1061403",
+  "mmkId": "1061403",
+  "productGroupId": "519814",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dermaxpro-by-head-shoulders-kalmeert-antiroosshampoo/p/5605300",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h3e/h03/34024046460958/prd-front-5605300-1_600x600/prd-front-5605300-1-600x600.jpg"
 }

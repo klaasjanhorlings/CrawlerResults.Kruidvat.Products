@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 5684 > 5685",
   "supplier": "PICOMEL NUTRITION",
   "inStock": "inStock",
-  "onPromo": "1059978",
-  "mmkId": "1059978",
-  "productGroupId": "512213",
+  "onPromo": "1059752",
+  "mmkId": "1059752",
+  "productGroupId": "530772",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-3-standaard-10m-opvolgmelk/p/760229",
@@ -37,6 +37,5 @@
       "name": "Opvolgmelk"
     }
   ],
-  "description": "2 x 400g",
-  "image": "/medias/sys_master/prd-images/h12/h9f/31989468856350/prd-front-760229-1_600x600/prd-front-760229-1-600x600.jpg"
+  "description": "2 x 400g"
 }

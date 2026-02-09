@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Colgate Max White Ultra Deep Clean Tandpasta",
   "code": "5887551",
-  "price": "4.99",
+  "price": "5.99",
   "priceOriginal": "9.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1060051",
-  "mmkId": "1060051",
-  "productGroupId": "513800",
+  "onPromo": "1061373",
+  "mmkId": "1061373",
+  "productGroupId": "518715",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "€ 4,00",
   "url": "/colgate-max-white-ultra-deep-clean-tandpasta/p/5887551",
   "listName": "Lister",
   "brand": "Colgate",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Whitening"
+  "description": "75ml - Whitening",
+  "image": "/medias/sys_master/prd-images/hdd/h14/31565064470558/prd-front-5887551-1_600x600/prd-front-5887551-1-600x600.jpg"
 }

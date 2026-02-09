@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1062089",
-  "mmkId": "1062089",
-  "productGroupId": "505264",
+  "onPromo": "1061395",
+  "mmkId": "1061395",
+  "productGroupId": "519218",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-venus-smooth-sensitive-scheersysteem/p/6262191",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": "Inclusief 2 scheermesjes"
+  "description": "Inclusief 2 scheermesjes",
+  "image": "/medias/sys_master/prd-images/hab/h2c/33500986572830/prd-front-6262191-1_600x600/prd-front-6262191-1-600x600.jpg"
 }

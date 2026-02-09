@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Braun CCR2 Clean&Charge Navulling",
   "code": "4381343",
-  "price": "15.99",
+  "price": "13.99",
   "priceOriginal": "19.99",
   "itemBgbcat": "2003 > 2088 > 2255 > 6672 > 6673 > 6442",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1059885",
-  "mmkId": "1059885",
-  "productGroupId": "514761",
+  "onPromo": "1061236",
+  "mmkId": "1061236",
+  "productGroupId": "519220",
   "brandType": "A of B merk",
-  "discount": "€ 4,00",
+  "discount": "€ 6,00",
   "url": "/braun-ccr2-clean-charge-navulling/p/4381343",
   "listName": "Lister",
   "brand": "Braun",
@@ -33,5 +33,6 @@
       "name": "Elektrische scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hbe/h82/45051827683358/prd-front-4381343-1_600x600/prd-front-4381343-1-600x600.jpg"
 }

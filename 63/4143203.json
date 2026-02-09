@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6520 > 6496 > 6497 > 2958 > 3753",
   "supplier": "ANVIRI COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1059937",
-  "mmkId": "1059937",
-  "productGroupId": "509844",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/kiss-brush-on-gel-kit/p/4143203",
@@ -37,5 +37,6 @@
       "name": "Nepnagels"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb5/h6f/28294718226462/prd-front-4143203-1_600x600/prd-front-4143203-1-600x600.jpg"
 }

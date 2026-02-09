@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Dreamy Cloud Glowy Finish Foam Primer",
   "code": "6258901",
-  "price": "6.49",
-  "priceOriginal": "",
+  "price": "4.87",
+  "priceOriginal": "6.49",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
   "supplier": "KALEGRA COSMETICS GMBH",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1061263",
+  "mmkId": "1061263",
+  "productGroupId": "507909",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 1,62",
   "url": "/kruidvat-dreamy-cloud-glowy-finish-foam-primer/p/6258901",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h88/h8c/33763652698142/prd-front-6258901-1_600x600/prd-front-6258901-1-600x600.jpg"
 }

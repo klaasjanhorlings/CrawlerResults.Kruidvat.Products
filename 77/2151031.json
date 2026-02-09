@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Formule W Wrattenpen",
   "code": "2151031",
   "price": "13.39",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2052 > 2175 > 6457 > 6458 > 6788",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1061418",
+  "mmkId": "1061418",
+  "productGroupId": "520735",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/formule-w-wrattenpen/p/2151031",
@@ -33,5 +33,6 @@
       "name": "Voetwratten"
     }
   ],
-  "description": "Medisch hulpmiddel - 1,5ml"
+  "description": "Medisch hulpmiddel - 1,5ml",
+  "image": "/medias/sys_master/prd-images/h3a/hb1/44690096390174/prd-front-2151031-1_600x600/prd-front-2151031-1-600x600.jpg"
 }

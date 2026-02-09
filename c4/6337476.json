@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Villa Volance Hoeslaken Geweven",
   "code": "6337476",
-  "price": "4.49",
-  "priceOriginal": "8.99",
+  "price": "8.99",
+  "priceOriginal": "",
   "itemBgbcat": "2196 > 2453 > 2738 > 5803 > 5926 > 6020",
   "supplier": "BEDDING HOUSE BV",
   "inStock": "outOfStock",
-  "onPromo": "1059368",
-  "mmkId": "1059368",
+  "onPromo": "1062102",
+  "mmkId": "1062102",
   "productGroupId": "",
   "brandType": "Eigen merk",
-  "discount": "€ 4,50",
+  "discount": "",
   "url": "/villa-volance-hoeslaken-geweven/p/6337476",
   "listName": "Lister",
   "brand": "Villa Volance",
@@ -33,6 +33,5 @@
       "name": "Hoeslakens"
     }
   ],
-  "description": "donkerblauw, 180cm x 200cm",
-  "image": "/medias/sys_master/prd-images/h81/ha1/34869292138526/prd-front-6337476-1_600x600/prd-front-6337476-1-600x600.jpg"
+  "description": "donkerblauw, 180cm x 200cm"
 }

@@ -3,16 +3,16 @@
   "currency": "USD",
   "itemName": "Roter Cysticare Tabletten",
   "code": "3424604",
-  "price": "18.74",
-  "priceOriginal": "24.99",
+  "price": "24.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6228 > 6597",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1059976",
-  "mmkId": "1059976",
-  "productGroupId": "512123",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "$ 6,25",
+  "discount": "",
   "url": "/roter-cysticare-tabletten/p/3424604",
   "listName": "Lister",
   "brand": "Roter",
@@ -33,6 +33,5 @@
       "name": "Blaasontsteking"
     }
   ],
-  "description": "Medisch hulpmiddel - 15 stuks",
-  "image": "/medias/sys_master/prd-images/h78/h86/33152907477022/prd-front-3424604-1_600x600/prd-front-3424604-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 15 stuks"
 }

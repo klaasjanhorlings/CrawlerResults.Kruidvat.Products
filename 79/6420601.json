@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Damesbroek",
+  "code": "6420601",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2640 > 3325 > 3802 > 4829 > 5928 > 6038",
+  "supplier": "TRENDSOURCE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-damesbroek/p/6420601",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266841,
+      "name": "Dameskleding"
+    }
+  ],
+  "description": "zwart, mt XL",
+  "image": "/medias/sys_master/prd-images/h62/h03/46438265028638/temp-prd-front-6420601-1_600x600/temp-prd-front-6420601-1-600x600.jpg"
+}

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NYX Professional Makeup 03 Auburn Micro Brow Pencil",
   "code": "6129457",
-  "price": "10.95",
-  "priceOriginal": "",
+  "price": "9.85",
+  "priceOriginal": "10.95",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1060073",
-  "mmkId": "1060073",
-  "productGroupId": "513873",
+  "onPromo": "1061466",
+  "mmkId": "1061466",
+  "productGroupId": "528193",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,10",
   "url": "/nyx-professional-makeup-03-auburn-micro-brow-pencil/p/6129457",
   "listName": "Lister",
   "brand": "NYX Professional Makeup",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h97/h71/31924543782942/prd-front-6129457-1_600x600/prd-front-6129457-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 6602 > 6603",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1059914",
-  "mmkId": "1059914",
-  "productGroupId": "508008",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-mindful-blossom-shower-scrub/p/6044568",
@@ -33,5 +33,6 @@
       "name": "Scrub"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h2f/he3/44209932730398/prd-front-6044568-1_600x600/prd-front-6044568-1-600x600.jpg"
 }

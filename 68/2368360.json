@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Calvin Klein Eternity Moment Eau de Parfum",
   "code": "2368360",
-  "price": "16.19",
-  "priceOriginal": "17.99",
+  "price": "17.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "SAR TRADING BV",
   "inStock": "inStock",
-  "onPromo": "1061499",
-  "mmkId": "1061499",
-  "productGroupId": "534960",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,80",
+  "discount": "",
   "url": "/calvin-klein-eternity-moment-eau-de-parfum/p/2368360",
   "listName": "Lister",
   "brand": "Calvin Klein",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h2a/h20/34314387193886/prd-front-2368360-1_600x600/prd-front-2368360-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "FEMIA COSMETIC",
   "inStock": "inStock",
-  "onPromo": "1059919",
-  "mmkId": "1059919",
-  "productGroupId": "508275",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-hyaluron-intense-hydration-serum-infused-sheet-mask/p/6051925",
@@ -37,5 +37,6 @@
       "name": "Sheet maskers"
     }
   ],
-  "description": "Alle huidtypen"
+  "description": "Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h46/h69/30585417826334/prd-front-6051925-1_600x600/prd-front-6051925-1-600x600.jpg"
 }

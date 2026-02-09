@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Weleda Baby Calendula Shampoo & Douchecrème",
   "code": "6374681",
-  "price": "11.99",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "1059994",
-  "mmkId": "1059994",
-  "productGroupId": "512460",
+  "onPromo": "1061297",
+  "mmkId": "1061297",
+  "productGroupId": "511939",
   "brandType": "A of B merk",
-  "discount": "€ 4,00",
+  "discount": "",
   "url": "/weleda-baby-calendula-shampoo-douchecreme/p/6374681",
   "listName": "Lister",
   "brand": "Weleda",
@@ -37,5 +37,6 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h1f/h01/44131153444894/prd-front-6374681-1_600x600/prd-front-6374681-1-600x600.jpg"
 }

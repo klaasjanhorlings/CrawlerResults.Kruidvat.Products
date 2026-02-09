@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gillette Venus Comfortglide Breeze Scheermesjes",
   "code": "5863240",
-  "price": "30.0",
+  "price": "27.66",
   "priceOriginal": "61.47",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "outOfStock",
-  "onPromo": "1060290",
-  "mmkId": "1060290",
-  "productGroupId": "525717",
+  "onPromo": "1061462",
+  "mmkId": "1061462",
+  "productGroupId": "527731",
   "brandType": "A of B merk",
-  "discount": "€ 31,47",
+  "discount": "€ 33,81",
   "url": "/gillette-venus-comfortglide-breeze-scheermesjes/p/5863240",
   "listName": "Lister",
   "brand": "Gillette Venus",
@@ -33,6 +33,5 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "3 x 4 stuks",
-  "image": "/medias/sys_master/prd-images/hf3/hd2/33068349620254/prd-front-5863240-1_600x600/prd-front-5863240-1-600x600.jpg"
+  "description": "3 x 4 stuks"
 }

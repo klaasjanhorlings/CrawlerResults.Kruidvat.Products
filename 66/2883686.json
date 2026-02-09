@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Palmolive Naturals Ultra Moisturization Douchemelk",
+  "code": "2883686",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "1061277",
+  "mmkId": "1061277",
+  "productGroupId": "510032",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/palmolive-naturals-ultra-moisturization-douchemelk/p/2883686",
+  "listName": "Lister",
+  "brand": "Palmolive",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266647,
+      "name": "Douchecrème"
+    }
+  ],
+  "description": "750ml",
+  "image": "/medias/sys_master/prd-images/h20/h4d/31997472899102/prd-front-2883686-1_600x600/prd-front-2883686-1-600x600.jpg"
+}

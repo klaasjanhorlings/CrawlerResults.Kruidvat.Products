@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Starbucks By Nescafé Dolce Gusto Caramel Macchiato Koffiecapsules",
+  "code": "5204116",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6641 > 6642",
+  "supplier": "NESTLE NEDERLAND B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/starbucks-by-nescafe-dolce-gusto-caramel-macchiato-koffiecapsules/p/5204116",
+  "listName": "Lister",
+  "brand": "Starbucks",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266886,
+      "name": "Koffie"
+    },
+    {
+      "id": 113103697,
+      "name": "Koffiecups"
+    }
+  ],
+  "description": "12 stuks",
+  "image": "/medias/sys_master/prd-images/h86/hd9/33371836284958/prd-front-5204116-1_600x600/prd-front-5204116-1-600x600.jpg"
+}

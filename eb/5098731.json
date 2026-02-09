@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV BL",
   "inStock": "inStock",
-  "onPromo": "1059964",
-  "mmkId": "1059964",
-  "productGroupId": "511470",
+  "onPromo": "1061316",
+  "mmkId": "1061316",
+  "productGroupId": "513176",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-vital-anti-rimpel-stralend-dagcreme/p/5098731",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Rijpe huid"
+  "description": "50ml - Rijpe huid",
+  "image": "/medias/sys_master/prd-images/h43/h1d/27803648622622/prd-front-5098731-1_600x600/prd-front-5098731-1-600x600.jpg"
 }

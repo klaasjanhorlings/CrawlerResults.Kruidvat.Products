@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1059957",
-  "mmkId": "1059957",
-  "productGroupId": "511027",
+  "onPromo": "1061284",
+  "mmkId": "1061284",
+  "productGroupId": "511054",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-mencare-advanced-extra-fresh-antitranspirant-spray/p/5800968",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h41/h04/45784421433374/temp-prd-front-5800968-1_600x600/temp-prd-front-5800968-1-600x600.jpg"
 }

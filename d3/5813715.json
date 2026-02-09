@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 2921 > 3716",
   "supplier": "CAMPS FOOD BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061259",
+  "mmkId": "1061259",
+  "productGroupId": "506848",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ellas-kitchen-6-mango-griekse-yoghurt/p/5813715",
@@ -37,5 +37,6 @@
       "name": "6 maanden +"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/prd-front-5813715-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjU0MjN8aW1hZ2UvanBlZ3xhRFJqTDJneU15OHhOelV5TmpBME5qQTJORFkzTUM5d2NtUXRabkp2Ym5RdE5UZ3hNemN4TlMweFh6WXdNSGcyTURBfDZlNTUwNDhlODhmMDExNzllMmU4NDA2YzlhZDhmMzZlMGVmMWQ4YzgxMGFiM2ZiYWY5NTYyODZlYTJkMDhlNTc"
 }

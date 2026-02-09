@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Oral-B Pro Precision Clean Opzetborstels",
   "code": "5251891",
-  "price": "23.99",
-  "priceOriginal": "",
+  "price": "14.39",
+  "priceOriginal": "23.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 5693 > 2885 > 4228",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1060060",
-  "mmkId": "1060060",
-  "productGroupId": "513831",
+  "onPromo": "1061379",
+  "mmkId": "1061379",
+  "productGroupId": "518946",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,60",
   "url": "/oral-b-pro-precision-clean-opzetborstels/p/5251891",
   "listName": "Lister",
   "brand": "Oral B",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "wit, 4 stuks",
-  "image": "/medias/sys_master/prd-images/ha2/h7c/46541120831518/temp-prd-front-5251891-1_600x600/temp-prd-front-5251891-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8b/h6d/46587499380766/temp-prd-front-5251891-1_600x600/temp-prd-front-5251891-1-600x600.jpg"
 }

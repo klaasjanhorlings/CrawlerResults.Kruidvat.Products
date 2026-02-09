@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Creator 30715 Cute Animal Birthday Party",
+  "code": "6450001",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1061235",
+  "mmkId": "1061235",
+  "productGroupId": "518059",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-creator-30715-cute-animal-birthday-party/p/6450001",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69051159,
+      "name": "LEGO Minisets"
+    }
+  ],
+  "description": ""
+}

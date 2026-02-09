@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "VIOKOX SA",
   "inStock": "outOfStock",
-  "onPromo": "1060036",
-  "mmkId": "1060036",
-  "productGroupId": "513717",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-urea-renew-creme/p/6375444",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h6d/h5d/44327921057822/prd-front-6375444-1_600x600/prd-front-6375444-1-600x600.jpg"
 }

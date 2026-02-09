@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
   "inStock": "outOfStock",
-  "onPromo": "1060012",
-  "mmkId": "1060012",
-  "productGroupId": "512881",
+  "onPromo": "1061411",
+  "mmkId": "1061411",
+  "productGroupId": "520308",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-elvive-color-vive-haarmasker/p/4446471",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/hbf/h0c/35025490870302/prd-front-4446471-1_600x600/prd-front-4446471-1-600x600.jpg"
 }

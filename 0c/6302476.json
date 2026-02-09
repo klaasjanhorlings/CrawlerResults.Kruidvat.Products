@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Goodal Vita-C Dark Spot Care Serum",
   "code": "6302476",
-  "price": "13.42",
-  "priceOriginal": "17.9",
+  "price": "17.9",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1059917",
-  "mmkId": "1059917",
-  "productGroupId": "508222",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,48",
+  "discount": "",
   "url": "/goodal-vita-c-dark-spot-care-serum/p/6302476",
   "listName": "Lister",
   "brand": "GOODAL",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "20ml"
+  "description": "20ml",
+  "image": "/medias/sys_master/prd-images/h8c/h5f/34113414463518/prd-front-6302476-1_600x600/prd-front-6302476-1-600x600.jpg"
 }

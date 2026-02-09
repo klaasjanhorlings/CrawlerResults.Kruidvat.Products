@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Superstay 24H 760 Pink Spice Lippenstift",
   "code": "2035538",
-  "price": "17.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "17.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1060075",
-  "mmkId": "1060075",
-  "productGroupId": "513876",
+  "onPromo": "1061387",
+  "mmkId": "1061387",
+  "productGroupId": "519127",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 8,00",
   "url": "/maybelline-new-york-superstay-24h-760-pink-spice-lippenstift/p/2035538",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h51/h26/44652929417246/prd-front-2035538-1_600x600/prd-front-2035538-1-600x600.jpg"
 }
