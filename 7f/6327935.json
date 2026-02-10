@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Shapewear Damessinglet",
+  "code": "6327935",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2095 > 2150 > 2644 > 6616 > 6621",
+  "supplier": "BECONNECTED HK LTD",
+  "inStock": "inStock",
+  "onPromo": "1061367",
+  "mmkId": "1061367",
+  "productGroupId": "518652",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-shapewear-damessinglet/p/6327935",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266842,
+      "name": "Damesondergoed"
+    }
+  ],
+  "description": "donkerbruin, mt XL",
+  "image": "/medias/sys_master/prd-images/h8a/hfa/44438445359134/prd-front-6327935-1_600x600/prd-front-6327935-1-600x600.jpg"
+}

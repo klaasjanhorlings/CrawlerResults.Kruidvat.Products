@@ -7,7 +7,7 @@
   "priceOriginal": "5.99",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6700",
   "supplier": "ORIGINAL ADDITIONS (BP)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061468",
   "mmkId": "1061468",
   "productGroupId": "529001",
@@ -33,5 +33,6 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "237ml"
+  "description": "237ml",
+  "image": "/medias/sys_master/prd-images/ha3/hc4/44567904157726/prd-front-3805250-1_600x600/prd-front-3805250-1-600x600.jpg"
 }

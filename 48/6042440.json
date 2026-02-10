@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "USD",
-  "itemName": "Scholl Gel Activ Professioneel Inlegzolen",
+  "itemName": "Scholl GelActiv Professioneel Inlegzolen",
   "code": "6042440",
   "price": "19.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/scholl-gel-activ-professioneel-inlegzolen/p/6042440",
+  "url": "/scholl-gelactiv-professioneel-inlegzolen/p/6042440",
   "listName": "Lister",
   "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Inlegzolen"
     }
   ],
-  "description": "mt 35,5-40,5, 2 stuks",
-  "image": "/medias/sys_master/prd-images/h20/h0d/46585731645470/temp-prd-front-6042440-1_600x600/temp-prd-front-6042440-1-600x600.jpg"
+  "description": "mt S (mt 35,5-40,5), 2 stuks",
+  "image": "/medias/sys_master/prd-images/h6f/ha9/46629143543838/temp-prd-front-6042440-1_600x600/temp-prd-front-6042440-1-600x600.jpg"
 }

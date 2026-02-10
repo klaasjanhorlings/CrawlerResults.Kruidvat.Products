@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Hyaluron Fresh & Plump Hydrating Sorbet Cream",
   "code": "6487871",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "5.0",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1061494",
+  "mmkId": "1061494",
+  "productGroupId": "520737",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,99",
   "url": "/garnier-hyaluron-fresh-plump-hydrating-sorbet-cream/p/6487871",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "85ml",
-  "image": "/medias/sys_master/prd-images/h9c/h31/46578531631134/temp-prd-front-6487871-2_600x600/temp-prd-front-6487871-2-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h66/h49/46640423141406/temp-prd-front-6487871-1_600x600/temp-prd-front-6487871-1-600x600.jpg"
 }

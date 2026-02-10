@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Libresse Dailies Extra Protection Extra Long Inlegkruisjes",
   "code": "5316830",
-  "price": "1.99",
-  "priceOriginal": "2.89",
+  "price": "2.89",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 2979 > 3805",
   "supplier": "ESSITY",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1061268",
   "productGroupId": "508688",
   "brandType": "A of B merk",
-  "discount": "€ 0,90",
+  "discount": "",
   "url": "/libresse-dailies-extra-protection-extra-long-inlegkruisjes/p/5316830",
   "listName": "Lister",
   "brand": "Libresse",
@@ -33,6 +33,5 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks",
-  "image": "/medias/sys_master/prd-images/h53/h3a/28745368043550/prd-front-5316830-1_600x600/prd-front-5316830-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 20 stuks"
 }

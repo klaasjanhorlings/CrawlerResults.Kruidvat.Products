@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Salicylic Fresh & Matte Hydrating Sorbet Cream",
   "code": "6487997",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "5.0",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "inStock": "inStock",
+  "onPromo": "1061494",
+  "mmkId": "1061494",
+  "productGroupId": "520737",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,99",
   "url": "/garnier-salicylic-fresh-matte-hydrating-sorbet-cream/p/6487997",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "85ml",
-  "image": "/medias/sys_master/prd-images/h34/hb8/46578498076702/temp-prd-front-6487997-1_600x600/temp-prd-front-6487997-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hfa/ha2/46621948248094/temp-prd-front-6487997-1_600x600/temp-prd-front-6487997-1-600x600.jpg"
 }
