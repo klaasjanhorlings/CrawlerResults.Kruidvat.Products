@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Curalyn Mondmaskers",
   "code": "6219981",
   "price": "0.99",
@@ -12,7 +12,7 @@
   "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 1,00",
+  "discount": "€ 1,00",
   "url": "/curalyn-mondmaskers/p/6219981",
   "listName": "Lister",
   "brand": "Curalyn",
@@ -33,5 +33,6 @@
       "name": "Mondkapjes"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks"
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h02/h13/33680550068254/prd-front-6219981-1_600x600/prd-front-6219981-1-600x600.jpg"
 }

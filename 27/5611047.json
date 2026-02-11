@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Carelastin Extra Sterk Neusspray",
   "code": "5611047",
   "price": "18.59",
@@ -33,8 +33,8 @@
       "name": "Allergische reacties"
     },
     {
-      "id": 30266952,
-      "name": "Hooikoorts neussprays"
+      "id": 49949703,
+      "name": "Azelastine"
     }
   ],
   "description": "Geneesmiddel - 10ml",

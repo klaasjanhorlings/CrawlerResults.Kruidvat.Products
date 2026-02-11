@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Tiger Balm Wit Tijgerbalsem",
   "code": "2063377",
   "price": "8.07",
@@ -12,7 +12,7 @@
   "mmkId": "1061290",
   "productGroupId": "511246",
   "brandType": "A of B merk",
-  "discount": "$ 1,42",
+  "discount": "€ 1,42",
   "url": "/tiger-balm-wit-tijgerbalsem/p/2063377",
   "listName": "Lister",
   "brand": "Tiger Balm",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "19g",
-  "image": "/medias/sys_master/prd-images/h7c/hb8/46636165955614/temp-prd-front-2063377-1_600x600/temp-prd-front-2063377-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf4/h8f/46688560611358/temp-prd-front-2063377-1_600x600/temp-prd-front-2063377-1-600x600.jpg"
 }

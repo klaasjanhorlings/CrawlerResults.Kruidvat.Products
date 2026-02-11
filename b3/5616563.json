@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061403",
   "mmkId": "1061403",
   "productGroupId": "519814",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "220ml",
-  "image": "/medias/sys_master/prd-images/hd4/h51/34026616291358/prd-front-5616563-1_600x600/prd-front-5616563-1-600x600.jpg"
+  "description": "220ml"
 }

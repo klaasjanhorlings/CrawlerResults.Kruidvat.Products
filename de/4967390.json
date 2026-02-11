@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Huid, Haar & Nagels Tabletten",
   "code": "4967390",
   "price": "20.99",
@@ -33,6 +33,5 @@
       "name": "Beautysupplementen"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/prd-front-4967390-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8OTA3NTd8aW1hZ2UvanBlZ3xhRGszTDJoa1pDOHhOall3TnpFd09UVTBOakF4TkM5d2NtUXRabkp2Ym5RdE5EazJOek01TUMweFh6WXdNSGcyTURBfDc4YWNmZDU0ZjM5Y2FjZTk0ZDBhMjQzMzQ5NjU5NzA4ZGU2MTgxMmJiYzk4ZDllMmFiNTNhYTM4NTM4YjQ5MmI"
+  "description": "60 stuks"
 }

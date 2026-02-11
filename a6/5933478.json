@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Opgeblazen Gevoel Capsules",
   "code": "5933478",
   "price": "9.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266721,
-      "name": "Overige supplementen"
+      "id": 30266718,
+      "name": "Spijsvertering"
     }
   ],
   "description": "Medisch hulpmiddel - 30 stuks",

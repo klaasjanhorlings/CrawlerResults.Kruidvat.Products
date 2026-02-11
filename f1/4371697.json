@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Anti-Allergie Neusspray Natriumcromoglicaat 40 mg/ml",
   "code": "4371697",
   "price": "6.99",
@@ -33,8 +33,8 @@
       "name": "Allergische reacties"
     },
     {
-      "id": 49949748,
-      "name": "Natriumcromoglicaat"
+      "id": 30266952,
+      "name": "Hooikoorts neussprays"
     }
   ],
   "description": "Geneesmiddel - 10ml",

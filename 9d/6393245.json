@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dermatix Siliconengel bij Littekens",
   "code": "6393245",
   "price": "35.17",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 51214305,
-      "name": "Speciale huidverzorging"
-    },
-    {
-      "id": 30266940,
-      "name": "Littekencremes"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "Medisch hulpmiddel - 15g",

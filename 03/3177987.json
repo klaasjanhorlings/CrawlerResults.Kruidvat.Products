@@ -21,21 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536080,
+      "name": "Baby"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266726,
-      "name": "Vitamines"
-    },
-    {
-      "id": 30267462,
-      "name": "Kindervitamines"
+      "id": 75860460,
+      "name": "Baby en Kind gezondheid"
     }
   ],
-  "description": "50 stuks"
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/h6f/h01/34594011807774/prd-front-3177987-1_600x600/prd-front-3177987-1-600x600.jpg"
 }

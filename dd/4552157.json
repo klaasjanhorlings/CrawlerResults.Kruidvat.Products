@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Natterman Hoest en Keel Pastilles",
   "code": "4552157",
   "price": "6.99",
@@ -12,7 +12,7 @@
   "mmkId": "1061288",
   "productGroupId": "511220",
   "brandType": "A of B merk",
-  "discount": "$ 3,00",
+  "discount": "€ 3,00",
   "url": "/natterman-hoest-en-keel-pastilles/p/4552157",
   "listName": "Lister",
   "brand": "Natterman",

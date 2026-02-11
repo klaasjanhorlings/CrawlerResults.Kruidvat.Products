@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Möller’s Omega-3 Levertraan Citroen",
   "code": "6092287",
   "price": "17.51",
@@ -12,7 +12,7 @@
   "mmkId": "1061283",
   "productGroupId": "510768",
   "brandType": "A of B merk",
-  "discount": "$ 5,84",
+  "discount": "€ 5,84",
   "url": "/mollers-omega-3-levertraan-citroen/p/6092287",
   "listName": "Lister",
   "brand": "Moller's",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49793273,
-      "name": "Visolie"
+      "id": 30266727,
+      "name": "Hart en/of bloedvaten"
     }
   ],
   "description": "250ml",

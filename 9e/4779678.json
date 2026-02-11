@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dettol Keukenreiniger",
+  "code": "4779678",
+  "price": "2.97",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 3245 > 4136",
+  "supplier": "RECKITT BENCKISER B.V",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dettol-keukenreiniger/p/4779678",
+  "listName": "Lister",
+  "brand": "Dettol",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266067,
+      "name": "Schoonmaken"
+    },
+    {
+      "id": 64144743,
+      "name": "Schoonmaakmiddelen"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/hf7/hfd/45075928580126/prd-front-4779678-1_600x600/prd-front-4779678-1-600x600.jpg"
+}

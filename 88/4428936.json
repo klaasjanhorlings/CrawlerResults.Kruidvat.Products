@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Vloeibare Groenlipmossel",
   "code": "4428936",
   "price": "43.99",
@@ -33,5 +33,6 @@
       "name": "Groenlipmossel"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/prd-front-4428936-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8ODg1NDR8aW1hZ2UvanBlZ3xhR1pqTDJoak5DOHhOalUzTkRnNU5EQXhORFE1TkM5d2NtUXRabkp2Ym5RdE5EUXlPRGt6TmkweFh6WXdNSGcyTURBfGIxMWNiYTNiODBhOWE0Y2Y1MmZmMzNhZGI3ODQ2YmFkMWFjZDVjNDQ4NjZiZDEyZWUwNjJkN2RkNDIyYWNlNWI"
 }

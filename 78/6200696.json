@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Digitale Zwangerschapstest",
   "code": "6200696",
   "price": "9.99",
@@ -25,8 +25,16 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266710,
+      "name": "Zelftesten"
+    },
+    {
+      "id": 30266983,
+      "name": "Zwangerschapstesten"
     }
   ],
   "description": "Medisch hulpmiddel",

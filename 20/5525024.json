@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bepanthen Crème voor Eczeemgevoelige Huid",
   "code": "5525024",
   "price": "19.99",
@@ -37,5 +37,6 @@
       "name": "Droge en gevoelige huid"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h4a/h5d/34697524838430/prd-front-5525024-1_600x600/prd-front-5525024-1-600x600.jpg"
 }

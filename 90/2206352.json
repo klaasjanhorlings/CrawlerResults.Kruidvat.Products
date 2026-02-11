@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "A.Vogel Overgang Famosan Salvia Sterk** Tabletten",
   "code": "2206352",
   "price": "23.99",
@@ -33,6 +33,5 @@
       "name": "Overgang"
     }
   ],
-  "description": "25 stuks",
-  "image": "/medias/sys_master/prd-images/hb5/hee/32569102663710/prd-front-2206352-1_600x600/prd-front-2206352-1-600x600.jpg"
+  "description": "25 stuks"
 }

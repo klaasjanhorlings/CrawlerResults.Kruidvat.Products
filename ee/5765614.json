@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Zwangerschapstest met Weekindicator",
   "code": "5765614",
   "price": "7.99",
@@ -37,5 +37,6 @@
       "name": "Zwangerschapstesten"
     }
   ],
-  "description": "Medisch hulpmiddel"
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/ha9/h48/34604597280798/prd-front-5765614-1_600x600/prd-front-5765614-1-600x600.jpg"
 }

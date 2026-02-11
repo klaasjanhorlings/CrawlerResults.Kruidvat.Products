@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nicorette Menthol Mint 2mg Suikervrije Kauwgom",
   "code": "5549083",
   "price": "33.49",
@@ -37,5 +37,6 @@
       "name": "Nicotinekauwgom"
     }
   ],
-  "description": "Geneesmiddel - 105 stuks"
+  "description": "Geneesmiddel - 105 stuks",
+  "image": "/medias/sys_master/prd-images/hab/hc0/46678480715806/temp-prd-front-5549083-1_600x600/temp-prd-front-5549083-1-600x600.jpg"
 }

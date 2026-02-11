@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 4-in-1 Oorsmeerspray",
   "code": "6391348",
   "price": "4.99",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266700,
-      "name": "Oor en mond"
-    },
-    {
-      "id": 30266946,
-      "name": "Oorspray"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "Medisch hulpmiddel - 12ml",

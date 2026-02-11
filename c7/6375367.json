@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Green Nail Guard Anti-Nail Bite",
   "code": "6375367",
   "price": "9.99",
@@ -21,14 +21,21 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 30265994,
+      "name": "Nagelverzorging"
+    },
+    {
+      "id": 30266631,
+      "name": "Nagelbehandeling"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h5a/hc0/44275936559134/prd-front-6375367-1_600x600/prd-front-6375367-1-600x600.jpg"
+  "description": "5ml"
 }

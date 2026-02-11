@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Kinderparacetamol 120mg Kauwtabletten",
   "code": "2722532",
   "price": "2.19",
@@ -33,8 +33,8 @@
       "name": "Pijn"
     },
     {
-      "id": 30266970,
-      "name": "Pijnstiller"
+      "id": 30266966,
+      "name": "Paracetamol"
     }
   ],
   "description": "Geneesmiddel - 16 stuks",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Tiger Balm Rood  Tijgerbalsem",
   "code": "3757713",
   "price": "9.94",
@@ -12,7 +12,7 @@
   "mmkId": "1061290",
   "productGroupId": "511246",
   "brandType": "A of B merk",
-  "discount": "$ 1,75",
+  "discount": "€ 1,75",
   "url": "/tiger-balm-rood-tijgerbalsem/p/3757713",
   "listName": "Lister",
   "brand": "Tiger Balm",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "30g",
-  "image": "/medias/sys_master/prd-images/hb6/h63/46623745146910/temp-prd-front-3757713-1_600x600/temp-prd-front-3757713-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0b/h7b/46670171045918/temp-prd-front-3757713-1_600x600/temp-prd-front-3757713-1-600x600.jpg"
 }

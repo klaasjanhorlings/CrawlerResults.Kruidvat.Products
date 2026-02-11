@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dagravit Complete Start Drinkbare Multivitaminen Sachets",
   "code": "6392167",
   "price": "15.99",
@@ -25,12 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266717,
-      "name": "Weerstand en energie"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "30 stuks",

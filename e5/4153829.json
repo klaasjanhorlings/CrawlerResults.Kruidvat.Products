@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Biodermal P-CL-E Olie",
   "code": "4153829",
   "price": "19.99",
@@ -12,7 +12,7 @@
   "mmkId": "1061312",
   "productGroupId": "512960",
   "brandType": "A of B merk",
-  "discount": "$ 20,00",
+  "discount": "€ 20,00",
   "url": "/biodermal-p-cl-e-olie/p/4153829",
   "listName": "Lister",
   "brand": "Biodermal",
@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 30265995,
-      "name": "Huidverzorging"
+      "id": 30266006,
+      "name": "Zelfzorg"
     },
     {
-      "id": 30266639,
-      "name": "Bodyolie"
+      "id": 51214305,
+      "name": "Speciale huidverzorging"
+    },
+    {
+      "id": 30266940,
+      "name": "Littekencremes"
     }
   ],
   "description": "75ml - Droge huid",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Biodermal Littekencrème",
   "code": "130604",
   "price": "10.99",
@@ -12,7 +12,7 @@
   "mmkId": "1061312",
   "productGroupId": "512960",
   "brandType": "A of B merk",
-  "discount": "$ 11,00",
+  "discount": "€ 11,00",
   "url": "/biodermal-littekencreme/p/130604",
   "listName": "Lister",
   "brand": "Biodermal",

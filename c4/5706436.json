@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon Omega-3 Visolie 60 Capsules",
   "code": "5706436",
   "price": "21.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49792812,
-      "name": "Omega 3"
+      "id": 49793273,
+      "name": "Visolie"
     }
   ],
   "description": "60 stuks",

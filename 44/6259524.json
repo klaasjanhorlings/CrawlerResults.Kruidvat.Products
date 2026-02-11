@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Science Magnesium Bisglycinaat Tabletten",
   "code": "6259524",
   "price": "9.99",
@@ -29,14 +29,10 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266715,
-      "name": "Mineralen"
-    },
-    {
-      "id": 50001842,
-      "name": "Magnesium"
+      "id": 30266729,
+      "name": "Botten en spieren"
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h23/h5f/46656833323038/temp-prd-front-6259524-1_600x600/temp-prd-front-6259524-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h35/h6c/46666188521502/temp-prd-front-6259524-1_600x600/temp-prd-front-6259524-1-600x600.jpg"
 }

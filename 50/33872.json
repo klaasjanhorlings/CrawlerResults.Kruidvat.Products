@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "A.Vogel Cinuforce Neusspray",
   "code": "33872",
   "price": "8.99",
@@ -29,8 +29,12 @@
       "name": "Zelfzorg"
     },
     {
-      "id": 30266712,
-      "name": "Natuurlijke zelfzorgmiddelen"
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30266959,
+      "name": "Neusspray"
     }
   ],
   "description": "Homeopathisch geneesmiddel - 20ml",

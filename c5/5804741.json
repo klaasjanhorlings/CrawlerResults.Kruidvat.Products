@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Essence Wonderfull 10 Light-Medium 5-in-1 Primer",
-  "code": "6123136",
-  "price": "3.99",
+  "itemName": "Essence Juicy Bomb 104 Shiny Lipgloss",
+  "code": "5804741",
+  "price": "1.29",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6782",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "COSNOVA GMBH (BNL)",
   "inStock": "inStock",
   "onPromo": "1005487",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/essence-wonderfull-10-light-medium-5-in-1-primer/p/6123136",
+  "url": "/essence-juicy-bomb-104-shiny-lipgloss/p/5804741",
   "listName": "Lister",
   "brand": "Essence",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,14 @@
       "name": "Make-up"
     },
     {
-      "id": 30266579,
-      "name": "Primer"
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266583,
+      "name": "Lipgloss"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hd6/hac/45075998474270/prd-front-6123136-1_600x600/prd-front-6123136-1-600x600.jpg"
+  "description": "10ml, 104",
+  "image": "/medias/sys_master/prd-images/hdb/h3d/45079650172958/prd-front-5804741-1_600x600/prd-front-5804741-1-600x600.jpg"
 }

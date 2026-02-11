@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Magnesium 375mg Bisglycinaat Tabletten",
   "code": "6390529",
   "price": "39.99",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 30266715,
-      "name": "Mineralen"
-    },
-    {
-      "id": 50001842,
-      "name": "Magnesium"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "210 stuks",

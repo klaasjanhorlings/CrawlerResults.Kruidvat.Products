@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Tiger Balm Neck & Shoulder Rub",
   "code": "3443483",
   "price": "9.09",
@@ -12,7 +12,7 @@
   "mmkId": "1061290",
   "productGroupId": "511246",
   "brandType": "A of B merk",
-  "discount": "$ 1,60",
+  "discount": "€ 1,60",
   "url": "/tiger-balm-neck-shoulder-rub/p/3443483",
   "listName": "Lister",
   "brand": "Tiger Balm",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "50g",
-  "image": "/medias/sys_master/prd-images/h21/h7e/46621970268190/temp-prd-front-3443483-1_600x600/temp-prd-front-3443483-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h37/h6a/46670160953374/temp-prd-front-3443483-1_600x600/temp-prd-front-3443483-1-600x600.jpg"
 }

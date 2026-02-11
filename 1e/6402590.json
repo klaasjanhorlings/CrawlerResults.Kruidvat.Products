@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Glucosamine Chondroïtine 1500/500mg Tabletten",
   "code": "6402590",
   "price": "69.99",
@@ -25,8 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266725,
+      "name": "Glucosamine"
     }
   ],
   "description": "360 stuks",

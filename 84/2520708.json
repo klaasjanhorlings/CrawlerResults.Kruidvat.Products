@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lamisil Once Voetschimmelbehandeling",
   "code": "2520708",
   "price": "17.49",
@@ -33,6 +33,5 @@
       "name": "Voetschimmel"
     }
   ],
-  "description": "Geneesmiddel - 4g",
-  "image": "/medias/sys_master/prd-images/h45/h5f/46040545853470/temp-prd-front-2520708-1_600x600/temp-prd-front-2520708-1-600x600.jpg"
+  "description": "Geneesmiddel - 4g"
 }

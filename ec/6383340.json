@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2048 > 2225 > 4869 > 6652 > 6653 > 6654",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062106",
   "mmkId": "1062106",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Winteraccessoires"
     }
   ],
-  "description": "fuchsia, 50cm",
-  "image": "/medias/sys_master/prd-images/hfe/h2b/44325479415838/prd-front-6383340-1_600x600/prd-front-6383340-1-600x600.jpg"
+  "description": "fuchsia, 50cm"
 }

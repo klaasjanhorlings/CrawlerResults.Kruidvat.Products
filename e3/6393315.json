@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Betadine Shampoo",
   "code": "6393315",
   "price": "10.45",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266699,
-      "name": "Huidbehandeling"
-    },
-    {
-      "id": 49947031,
-      "name": "Speciale huidbehandeling"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "Geneesmiddel - 120ml",

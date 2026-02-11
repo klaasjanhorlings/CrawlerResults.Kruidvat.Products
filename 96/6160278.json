@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Drugs Zelftest",
   "code": "6160278",
   "price": "5.0",
@@ -12,7 +12,7 @@
   "mmkId": "1061453",
   "productGroupId": "524217",
   "brandType": "Eigen merk",
-  "discount": "$ 1,99",
+  "discount": "€ 1,99",
   "url": "/kruidvat-drugs-zelftest/p/6160278",
   "listName": "Lister",
   "brand": "Kruidvat",

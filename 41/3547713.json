@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Vitamine D3 met Magnesium Tabletten",
   "code": "3547713",
   "price": "5.69",
@@ -29,14 +29,14 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266715,
-      "name": "Mineralen"
+      "id": 30266726,
+      "name": "Vitamines"
     },
     {
-      "id": 50001842,
-      "name": "Magnesium"
+      "id": 30266991,
+      "name": "Vitamine D"
     }
   ],
   "description": "90 stuks",
-  "image": "/medias/sys_master/prd-images/hd2/hd6/46620438167582/temp-prd-front-3547713-1_600x600/temp-prd-front-3547713-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb1/h4e/46668432375838/temp-prd-front-3547713-1_600x600/temp-prd-front-3547713-1-600x600.jpg"
 }

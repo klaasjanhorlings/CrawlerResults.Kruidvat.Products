@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Nurofen 400mg Ibuprofen Omhulde Tabletten",
   "code": "19996",
   "price": "6.49",
@@ -37,5 +37,6 @@
       "name": "Ibuprofen"
     }
   ],
-  "description": "Geneesmiddel - 24 stuks"
+  "description": "Geneesmiddel - 24 stuks",
+  "image": "/medias/sys_master/prd-images/h18/hf3/44173723140126/prd-front-19996-1_600x600/prd-front-19996-1-600x600.jpg"
 }

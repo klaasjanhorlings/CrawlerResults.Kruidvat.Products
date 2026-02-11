@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Cranberry Plus met Bearberry Tabletten",
   "code": "3078265",
   "price": "7.99",
@@ -29,9 +29,10 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266728,
-      "name": "Blaas supplementen"
+      "id": 30266734,
+      "name": "Cranberrysupplementen"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h4e/h9f/33323474157598/prd-front-3078265-1_600x600/prd-front-3078265-1-600x600.jpg"
 }

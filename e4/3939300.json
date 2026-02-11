@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Davitamon Compleet Omega-3 Visolie Capsules",
   "code": "3939300",
   "price": "28.99",
@@ -29,8 +29,8 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 49792812,
-      "name": "Omega 3"
+      "id": 49793273,
+      "name": "Visolie"
     }
   ],
   "description": "70 stuks",
