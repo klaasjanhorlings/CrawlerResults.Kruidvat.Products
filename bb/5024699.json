@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NG Dominatio Woman Eau de Parfum",
   "code": "5024699",
-  "price": "5.99",
-  "priceOriginal": "",
+  "price": "4.49",
+  "priceOriginal": "5.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "NEXT GENERATION PERFUME",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061506",
+  "mmkId": "1061506",
+  "productGroupId": "513908",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,50",
   "url": "/ng-dominatio-woman-eau-de-parfum/p/5024699",
   "listName": "Lister",
   "brand": "NG",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-5024699-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzIwMzB8aW1hZ2UvanBlZ3xhR1JsTDJobE9DOHhOalUzTkRBeE5EWXhPVFkzT0M5d2NtUXRabkp2Ym5RdE5UQXlORFk1T1MweFh6WXdNSGcyTURBfGNkNTVlNzAxNzhjZTUwNDAzMGVhMTcyYWY1OTFmZjY2NGIxMjM5MmJjNGQwNjM0ODk1YzczOGEwMWU5OTM1MDk"
 }

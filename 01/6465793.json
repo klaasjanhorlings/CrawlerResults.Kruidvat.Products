@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Fleuril Renew Black Bloom Vloeibaar Wasmiddel",
+  "code": "6465793",
+  "price": "7.49",
+  "priceOriginal": "14.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
+  "supplier": "HENKEL NEDERLAND BV U-W",
+  "inStock": "inStock",
+  "onPromo": "1061223",
+  "mmkId": "1061223",
+  "productGroupId": "512281",
+  "brandType": "A of B merk",
+  "discount": "€ 7,50",
+  "url": "/fleuril-renew-black-bloom-vloeibaar-wasmiddel/p/6465793",
+  "listName": "Lister",
+  "brand": "Fleuril",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266066,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "1305ml, 29 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hac/h51/45125885231134/prd-front-6465793-1_600x600/prd-front-6465793-1-600x600.jpg"
+}

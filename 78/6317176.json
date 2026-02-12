@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty No.2 Salted Caramel & Pistachio Fragrance Mist",
   "code": "6317176",
-  "price": "5.59",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 6134 > 6135 > 6133",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1061436",
-  "mmkId": "1061436",
-  "productGroupId": "521949",
+  "onPromo": "1061505",
+  "mmkId": "1061505",
+  "productGroupId": "513907",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,40",
+  "discount": "",
   "url": "/mcobeauty-no2-salted-caramel-pistachio-fragrance-mist/p/6317176",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "90ml"
+  "description": "90ml",
+  "image": "/medias/sys_master/prd-images/hfc/hb0/34917915426846/prd-front-6317176-1_600x600/prd-front-6317176-1-600x600.jpg"
 }

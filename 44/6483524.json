@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft Mega Strong Haarspray",
+  "code": "6483524",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-mega-strong-haarspray/p/6483524",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266933,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h0c/h77/45798409469982/temp-prd-front-6483524-1_600x600/temp-prd-front-6483524-1-600x600.jpg"
+}

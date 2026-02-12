@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Magnetics Super Set",
+  "itemName": "Magnetics Magnetische Super Set",
   "code": "6261141",
   "price": "44.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
-  "url": "/magnetics-super-set/p/6261141",
+  "url": "/magnetics-magnetische-super-set/p/6261141",
   "listName": "Lister",
   "brand": "Overig",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Educatieve speelsets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hcc/h77/44253646749726/prd-front-6261141-1_600x600/prd-front-6261141-1-600x600.jpg"
+  "description": ""
 }

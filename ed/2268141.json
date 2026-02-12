@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Taft Styling Power Level 5 Haarspray",
+  "code": "2268141",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3049 > 3696",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1061364",
+  "mmkId": "1061364",
+  "productGroupId": "518550",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/taft-styling-power-level-5-haarspray/p/2268141",
+  "listName": "Lister",
+  "brand": "Taft",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266933,
+      "name": "Haarlak"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h97/h40/45805880508446/temp-prd-front-2268141-1_600x600/temp-prd-front-2268141-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3486",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061505",
+  "mmkId": "1061505",
+  "productGroupId": "513907",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/guess-seductive-noir-bodymist/p/4999373",
@@ -33,5 +33,6 @@
       "name": "Bodymist"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/prd-front-4999373-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQ3MjB8aW1hZ2UvanBlZ3xhR1V6TDJobFl5OHhOelF3TkRjek5UZzRNVEkwTmk5d2NtUXRabkp2Ym5RdE5EazVPVE0zTXkweFh6WXdNSGcyTURBfGUxZjg1ZDUxNzc1YTYzZWRkYTE4YjMxYzQ4ZDAwYzFhY2Y0M2JmZmM3NzE0NDUxNmMyMzhhYzI5MGZlMmRiMzU"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nijntje Kwartet",
+  "code": "5749066",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5921 > 6737 > 6738 > 6736 > 6040",
+  "supplier": "DUMMY EXTERN",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nijntje-kwartet/p/5749066",
+  "listName": "Lister",
+  "brand": "Nijntje",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266034,
+      "name": "Educatief speelgoed"
+    },
+    {
+      "id": 90169580,
+      "name": "Educatieve spellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/hf4/h36/34918292750366/prd-front-5749066-1_600x600/prd-front-5749066-1-600x600.jpg"
+}

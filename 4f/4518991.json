@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Syoss Invisible Hold 3 Styling Paste",
+  "code": "4518991",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 3699 > 6334",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1061362",
+  "mmkId": "1061362",
+  "productGroupId": "518545",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/syoss-invisible-hold-3-styling-paste/p/4518991",
+  "listName": "Lister",
+  "brand": "Syoss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266692,
+      "name": "Haarstylingproducten"
+    },
+    {
+      "id": 30266929,
+      "name": "Haarpasta"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h7a/hb1/45705434890270/temp-prd-front-4518991-1_600x600/temp-prd-front-4518991-1-600x600.jpg"
+}
