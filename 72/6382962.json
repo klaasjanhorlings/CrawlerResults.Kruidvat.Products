@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cetaphil Daily Defense Facial Moisturiser met SPF30",
+  "code": "6382962",
+  "price": "18.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "GALDERMA BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cetaphil-daily-defense-facial-moisturiser-met-spf30/p/6382962",
+  "listName": "Lister",
+  "brand": "Cetaphil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30266606,
+      "name": "Dermacare"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h1c/h82/44228361027614/prd-front-6382962-1_600x600/prd-front-6382962-1-600x600.jpg"
+}

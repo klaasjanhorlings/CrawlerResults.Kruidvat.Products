@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Goliath Rummikub Revolution",
+  "code": "5993188",
+  "price": "14.99",
+  "priceOriginal": "37.99",
+  "itemBgbcat": "2181 > 5921 > 5164 > 5227 > 5416 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 23,00",
+  "url": "/goliath-rummikub-revolution/p/5993188",
+  "listName": "Lister",
+  "brand": "Goliath",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h75/h52/29410462957598/prd-front-5993188-1_600x600/prd-front-5993188-1-600x600.jpg"
+}

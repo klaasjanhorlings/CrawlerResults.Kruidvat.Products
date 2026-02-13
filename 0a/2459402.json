@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun SPF6 Carotene Zonnemelk",
+  "code": "2459402",
+  "price": "10.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV BL",
+  "inStock": "outOfStock",
+  "onPromo": "1061360",
+  "mmkId": "1061360",
+  "productGroupId": "518497",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-sun-spf6-carotene-zonnemelk/p/2459402",
+  "listName": "Lister",
+  "brand": "Nivea Sun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "200ml"
+}

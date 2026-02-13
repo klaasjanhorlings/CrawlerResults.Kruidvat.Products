@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat 8-Pin Oordopjes",
   "code": "6149883",
   "price": "12.99",
@@ -33,5 +33,6 @@
       "name": "Koptelefoons"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hac/h74/33409670021150/prd-front-6149883-1_600x600/prd-front-6149883-1-600x600.jpg"
 }

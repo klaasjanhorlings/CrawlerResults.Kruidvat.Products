@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hada Labo Tokyo Skin-Plumping Gel",
+  "code": "6381114",
+  "price": "21.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hada-labo-tokyo-skin-plumping-gel/p/6381114",
+  "listName": "Lister",
+  "brand": "Hada Labo Tokyo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 128509570,
+      "name": "Japanese Beauty"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h60/h8f/46379611095070/temp-prd-front-6381114-1_600x600/temp-prd-front-6381114-1-600x600.jpg"
+}

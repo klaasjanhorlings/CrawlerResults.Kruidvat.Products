@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Kruidvat Original Reinigingstabletten",
   "code": "1138222",
-  "price": "1.19",
+  "price": "1.05",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2394 > 2800 > 3541",
   "supplier": "RIDAM CARE BV",
@@ -33,6 +33,5 @@
       "name": "Kunstgebitreiniger"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/hb6/h4f/28786064261150/prd-front-1138222-1_600x600/prd-front-1138222-1-600x600.jpg"
+  "description": "30 stuks"
 }

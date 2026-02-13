@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Biodermal Clear Skin Kalmerend Serum",
+  "code": "6494745",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "OMEGA PHARMA NEDERLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/biodermal-clear-skin-kalmerend-serum/p/6494745",
+  "listName": "Lister",
+  "brand": "Biodermal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h96/h75/46379451711518/temp-prd-front-6494745-1_600x600/temp-prd-front-6494745-1-600x600.jpg"
+}

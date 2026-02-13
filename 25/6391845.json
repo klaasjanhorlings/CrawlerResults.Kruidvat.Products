@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Kruidvat 90° 0,8mm Interdentale Borsteltjes",
   "code": "6391845",
-  "price": "2.99",
+  "price": "2.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "GEOCOS BV",
@@ -33,6 +33,5 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h24/h66/44567943151646/prd-front-6391845-1_600x600/prd-front-6391845-1-600x600.jpg"
+  "description": ""
 }

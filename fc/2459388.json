@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Protect & Bronze SPF50 Zonnebrandspray",
+  "code": "2459388",
+  "price": "27.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1061360",
+  "mmkId": "1061360",
+  "productGroupId": "518497",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nivea-sun-protect-bronze-spf50-zonnebrandspray/p/2459388",
+  "listName": "Lister",
+  "brand": "Nivea Sun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h87/h99/34393311445022/prd-front-2459388-1_600x600/prd-front-2459388-1-600x600.jpg"
+}

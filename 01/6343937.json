@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bubble Waffle Wonders Knuffels",
+  "code": "6343937",
+  "price": "5.99",
+  "priceOriginal": "7.99",
+  "itemBgbcat": "2232 > 5179 > 5303 > 5492 > 5921 > 6040",
+  "supplier": "THE MERCHANDISE CLUB BV",
+  "inStock": "inStock",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 2,00",
+  "url": "/bubble-waffle-wonders-knuffels/p/6343937",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266029,
+      "name": "Poppen en knuffels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h20/he5/34679561617438/prd-front-6343937-1_600x600/prd-front-6343937-1-600x600.jpg"
+}
