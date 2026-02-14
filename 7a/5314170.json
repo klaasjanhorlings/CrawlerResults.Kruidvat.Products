@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Smart GU10 400LM Ledlamp",
   "code": "5314170",
   "price": "5.95",
@@ -33,5 +33,6 @@
       "name": "Lampen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h10/h14/44578200158238/prd-front-5314170-1_600x600/prd-front-5314170-1-600x600.jpg"
 }

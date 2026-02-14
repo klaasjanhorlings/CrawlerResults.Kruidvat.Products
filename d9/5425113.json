@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Leefvitaal Cranberry + Probiotica Capsules",
   "code": "5425113",
-  "price": "17.99",
-  "priceOriginal": "",
+  "price": "8.99",
+  "priceOriginal": "17.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6210 > 6530 > 6531",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "outOfStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,00",
   "url": "/leefvitaal-cranberry-probiotica-capsules/p/5425113",
   "listName": "Lister",
   "brand": "Leefvitaal",
@@ -33,5 +33,6 @@
       "name": "Cranberrysupplementen"
     }
   ],
-  "description": "70 stuks"
+  "description": "70 stuks",
+  "image": "/medias/sys_master/prd-images/hcb/hfe/29571141074974/prd-front-5425113-1_600x600/prd-front-5425113-1-600x600.jpg"
 }

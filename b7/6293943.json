@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
   "supplier": "TRENDSOURCE BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1062102",
   "mmkId": "1062102",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Handtas"
     }
   ],
-  "description": "beige, 30cm x 20cm x 2,5cm"
+  "description": "beige, 30cm x 20cm x 2,5cm",
+  "image": "/medias/sys_master/prd-images/hd0/h4b/44071288733726/prd-front-6293943-1_600x600/prd-front-6293943-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier SkinActive Hyaluronzuur & Aloë Vera Micellair Reinigingswater",
+  "code": "5514188",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 6702 > 2804 > 6455",
+  "supplier": "LOREAL NED BV",
+  "inStock": "inStock",
+  "onPromo": "1061419",
+  "mmkId": "1061419",
+  "productGroupId": "520738",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-skinactive-hyaluronzuur-aloe-vera-micellair-reinigingswater/p/5514188",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266913,
+      "name": "Micellair water"
+    }
+  ],
+  "description": "400ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h50/hf8/46297419743262/temp-prd-front-5514188-1_600x600/temp-prd-front-5514188-1-600x600.jpg"
+}

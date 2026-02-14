@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2371 > 2934 > 3729",
   "supplier": "HG INTERNATIONAL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Schoonmaakmiddelen"
     }
   ],
-  "description": "1L"
+  "description": "1L",
+  "image": "/medias/prd-front-3772644-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjkxMzJ8aW1hZ2UvanBlZ3xhRGd5TDJnM015OHhOak0wTnprMk5qRTNOek14TUM5d2NtUXRabkp2Ym5RdE16YzNNalkwTkMweFh6WXdNSGcyTURBfDg2NjgyZDZkODI1NTk3YzAyMDcxM2ZiNmZlOWJiYmRhMTk5ZWJlNzY2ZDliYzVkMTIyZTY3NGViNzk0YWMyZTY"
 }

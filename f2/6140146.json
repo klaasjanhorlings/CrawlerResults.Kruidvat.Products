@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Philips 1000 Series Earphones",
   "code": "6140146",
   "price": "5.99",
@@ -33,5 +33,6 @@
       "name": "Koptelefoons"
     }
   ],
-  "description": "zwart"
+  "description": "zwart",
+  "image": "/medias/sys_master/prd-images/he3/hab/32086547791902/prd-front-6140146-1_600x600/prd-front-6140146-1-600x600.jpg"
 }

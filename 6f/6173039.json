@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Calvin Klein In2U Eau de Toilette",
-  "code": "3864540",
-  "price": "26.99",
+  "itemName": "Lattafa Yara Eau de Parfum",
+  "code": "6173039",
+  "price": "21.28",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
-  "supplier": "SAR TRADING BV",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "JTG BV",
   "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/calvin-klein-in2u-eau-de-toilette/p/3864540",
+  "url": "/lattafa-yara-eau-de-parfum/p/6173039",
   "listName": "Lister",
-  "brand": "Calvin Klein",
+  "brand": "Lattafa",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -33,6 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h81/h4d/28788265779230/prd-front-3864540-1_600x600/prd-front-3864540-1-600x600.jpg"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h3a/hb4/45676361711646/temp-prd-front-6173039-1_600x600/temp-prd-front-6173039-1-600x600.jpg"
 }

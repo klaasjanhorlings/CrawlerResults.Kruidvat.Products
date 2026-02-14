@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutrilon 2 Opvolgmelk Baby Flesvoeding 6-10 Maanden",
+  "code": "4441396",
+  "price": "18.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1053199",
+  "mmkId": "1053199",
+  "productGroupId": "497748",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutrilon-2-opvolgmelk-baby-flesvoeding-6-10-maanden/p/4441396",
+  "listName": "Lister",
+  "brand": "Nutrilon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266769,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30266999,
+      "name": "Opvolgmelk"
+    }
+  ],
+  "description": "800g",
+  "image": "/medias/sys_master/prd-images/h3d/h73/44419741515806/prd-front-4441396-1_600x600/prd-front-4441396-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Viola Chlamydia Sneltest",
+  "code": "6290695",
+  "price": "5.0",
+  "priceOriginal": "9.99",
+  "itemBgbcat": "2006 > 2087 > 2123 > 6493 > 6492 > 6494",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "1061453",
+  "mmkId": "1061453",
+  "productGroupId": "524217",
+  "brandType": "A of B merk",
+  "discount": "€ 4,99",
+  "url": "/viola-chlamydia-sneltest/p/6290695",
+  "listName": "Lister",
+  "brand": "Viola",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266710,
+      "name": "Zelftesten"
+    },
+    {
+      "id": 30266984,
+      "name": "Gezondheidstesten"
+    }
+  ],
+  "description": "Medisch hulpmiddel",
+  "image": "/medias/sys_master/prd-images/hef/h29/33974503604254/prd-front-6290695-1_600x600/prd-front-6290695-1-600x600.jpg"
+}

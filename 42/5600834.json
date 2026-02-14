@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nutrilon DuoBalans 2 Opvolgmelk Baby Flesvoeding 6-12 Maanden",
+  "code": "5600834",
+  "price": "22.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2032 > 2127 > 2456 > 2910 > 3707",
+  "supplier": "DANONE NUTRICIA NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1053199",
+  "mmkId": "1053199",
+  "productGroupId": "497748",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nutrilon-duobalans-2-opvolgmelk-baby-flesvoeding-6-12-maanden/p/5600834",
+  "listName": "Lister",
+  "brand": "Nutrilon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266015,
+      "name": "Babyvoeding"
+    },
+    {
+      "id": 30266769,
+      "name": "Flesvoeding"
+    },
+    {
+      "id": 30266999,
+      "name": "Opvolgmelk"
+    }
+  ],
+  "description": "800g",
+  "image": "/medias/sys_master/prd-images/h98/h1b/33886307745822/prd-front-5600834-1_600x600/prd-front-5600834-1-600x600.jpg"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kids Fotocamera",
   "code": "6250921",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Camera’s"
     }
   ],
-  "description": "lila",
-  "image": "/medias/sys_master/prd-images/h81/h7a/33983942033438/prd-front-6250921-1_600x600/prd-front-6250921-1-600x600.jpg"
+  "description": "lila"
 }

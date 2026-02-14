@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061316",
   "mmkId": "1061316",
   "productGroupId": "513176",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h83/h4c/46782658641950/temp-prd-front-6494703-1_600x600/temp-prd-front-6494703-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h1b/h8a/46819301556254/temp-prd-front-6494703-1_600x600/temp-prd-front-6494703-1-600x600.jpg"
 }

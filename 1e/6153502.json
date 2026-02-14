@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Waterproof Bluetooth Speaker",
   "code": "6153502",
   "price": "6.99",
@@ -29,5 +29,6 @@
       "name": "Verrassend elektronica"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hea/h9c/44577436041246/prd-front-6153502-1_600x600/prd-front-6153502-1-600x600.jpg"
 }

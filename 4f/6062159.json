@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Celenes By Sweden By Sweden Vitamine C 12,5% Actief Serum",
+  "code": "6062159",
+  "price": "4.49",
+  "priceOriginal": "17.95",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "CRX NORDIC AG",
+  "inStock": "outOfStock",
+  "onPromo": "1025310",
+  "mmkId": "1025310",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 13,46",
+  "url": "/celenes-by-sweden-by-sweden-vitamine-c-12-5-actief-serum/p/6062159",
+  "listName": "Lister",
+  "brand": "CELENES BY SWEDEN",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "30ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/hd1/hce/34531798908958/prd-front-6062159-1_600x600/prd-front-6062159-1-600x600.jpg"
+}
