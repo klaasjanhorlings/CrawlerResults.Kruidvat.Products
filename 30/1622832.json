@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2091 > 2258 > 5675 > 5672 > 5673",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061555",
+  "mmkId": "1061555",
+  "productGroupId": "528565",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/glycerona-hygienische-handgel/p/1622832",
@@ -33,5 +33,6 @@
       "name": "Handgel"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/he6/ha5/34760347516958/prd-front-1622832-1_600x600/prd-front-1622832-1-600x600.jpg"
 }

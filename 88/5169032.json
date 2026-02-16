@@ -7,7 +7,7 @@
   "priceOriginal": "24.95",
   "itemBgbcat": "5929 > 2153 > 6014 > 6723 > 6724 > 6725",
   "supplier": "COMMAXX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Rook en koolmonoxidemelders"
     }
   ],
-  "description": "3,5cm x Ø10,2cm"
+  "description": "3,5cm x Ø10,2cm",
+  "image": "/medias/sys_master/prd-images/ha1/ha0/45249492156446/prd-front-5169032-1_600x600/prd-front-5169032-1-600x600.jpg"
 }

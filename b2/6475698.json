@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clipper Lemon & Ginger Thee",
+  "code": "6475698",
+  "price": "1.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2084 > 2246 > 2630 > 2947 > 3743",
+  "supplier": "WESSANEN BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/clipper-lemon-ginger-thee/p/6475698",
+  "listName": "Lister",
+  "brand": "Clipper",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266887,
+      "name": "Thee"
+    }
+  ],
+  "description": "18 stuks",
+  "image": "/medias/sys_master/prd-images/had/h11/45256659468318/prd-front-6475698-1_600x600/prd-front-6475698-1-600x600.jpg"
+}

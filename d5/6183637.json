@@ -8,9 +8,9 @@
   "itemBgbcat": "2004 > 2084 > 2246 > 2373 > 6643 > 6644",
   "supplier": "UCC COFFEE BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061549",
+  "mmkId": "1061549",
+  "productGroupId": "520928",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-regular-koffiebonen/p/6183637",
@@ -33,5 +33,6 @@
       "name": "Koffiebonen"
     }
   ],
-  "description": "1kg"
+  "description": "1kg",
+  "image": "/medias/sys_master/prd-images/h6a/hbb/44932994072606/prd-front-6183637-1_600x600/prd-front-6183637-1-600x600.jpg"
 }

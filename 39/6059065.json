@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2052 > 2175 > 6458 > 6457 > 6788",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1061574",
+  "mmkId": "1061574",
+  "productGroupId": "530167",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-wratten-bevriezing/p/6059065",
@@ -37,5 +37,6 @@
       "name": "Wrattenbehandeling"
     }
   ],
-  "description": "Medisch hulpmiddel - 50ml, 12 behandelingen"
+  "description": "Medisch hulpmiddel - 50ml, 12 behandelingen",
+  "image": "/medias/sys_master/prd-images/h38/ha0/30424305500190/prd-front-6059065-2_600x600/prd-front-6059065-2-600x600.jpg"
 }

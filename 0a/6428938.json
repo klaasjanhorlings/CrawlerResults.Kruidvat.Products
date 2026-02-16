@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Castle Smasher",
+  "code": "6428938",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "3710 > 5921 > 6040 > 6822 > 6823 > 2191",
+  "supplier": "RUBY-TOYS BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/castle-smasher/p/6428938",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h7d/h0a/45068974424094/prd-front-6428938-1_600x600/prd-front-6428938-1-600x600.jpg"
+}

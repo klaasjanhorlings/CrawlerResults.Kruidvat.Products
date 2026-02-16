@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Neutrogena Anti-Puistjes+ 4% Niacinamide + Panthenol Vochtinbrengende Gel",
   "code": "6021314",
-  "price": "8.49",
-  "priceOriginal": "16.99",
+  "price": "16.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "KENVUE",
   "inStock": "inStock",
-  "onPromo": "1061509",
-  "mmkId": "1061509",
-  "productGroupId": "514946",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 8,50",
+  "discount": "",
   "url": "/neutrogena-anti-puistjes-4-niacinamide-panthenol-vochtinbrengende-gel/p/6021314",
   "listName": "Lister",
   "brand": "Neutrogena",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Onzuivere huid"
+  "description": "50ml - Onzuivere huid",
+  "image": "/medias/sys_master/prd-images/h80/h0c/31066901053470/prd-front-6021314-1_600x600/prd-front-6021314-1-600x600.jpg"
 }

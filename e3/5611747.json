@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6198 > 6216 > 6258",
   "supplier": "COBECO PHARMA WHOLESALE",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1061558",
+  "mmkId": "1061558",
+  "productGroupId": "529737",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-knoflook-visolie/p/5611747",
@@ -33,5 +33,6 @@
       "name": "Hart en/of bloedvaten"
     }
   ],
-  "description": "60 capsules"
+  "description": "60 capsules",
+  "image": "/medias/sys_master/prd-images/h20/h51/46664313438238/temp-prd-front-5611747-1_600x600/temp-prd-front-5611747-1-600x600.jpg"
 }

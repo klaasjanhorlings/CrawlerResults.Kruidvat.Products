@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061649",
+  "mmkId": "1061649",
+  "productGroupId": "536289",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/depend-gel-iq-terra-rossa-gellak/p/6312696",
@@ -33,6 +33,5 @@
       "name": "Gellak"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h60/h08/44253784178718/prd-front-6312696-1_600x600/prd-front-6312696-1-600x600.jpg"
+  "description": "5ml"
 }
