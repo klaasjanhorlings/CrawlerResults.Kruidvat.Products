@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nip + Fab Barrier Ceramide Fix Reinigingsbalsem",
+  "code": "6043322",
+  "price": "24.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
+  "supplier": "NIP + FAB",
+  "inStock": "inStock",
+  "onPromo": "1061531",
+  "mmkId": "1061531",
+  "productGroupId": "508211",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nip-fab-barrier-ceramide-fix-reinigingsbalsem/p/6043322",
+  "listName": "Lister",
+  "brand": "NIP+FAB",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266917,
+      "name": "Reinigingscreme"
+    }
+  ],
+  "description": "75ml, rijpe huid",
+  "image": "/medias/sys_master/prd-images/hdc/h27/30113629798430/prd-front-6043322-1_600x600/prd-front-6043322-1-600x600.jpg"
+}

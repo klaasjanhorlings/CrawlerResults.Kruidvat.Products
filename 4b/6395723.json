@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Truespirit Weekendtas Zwart/Wit",
+  "code": "6395723",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/truespirit-weekendtas-zwart/wit/p/6395723",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    },
+    {
+      "id": 101713392,
+      "name": "Shopper"
+    }
+  ],
+  "description": "zwart, wit, 56cm x 38cm x 18cm",
+  "image": "/medias/sys_master/prd-images/h03/h64/44624003104798/prd-front-6395723-1_600x600/prd-front-6395723-1-600x600.jpg"
+}

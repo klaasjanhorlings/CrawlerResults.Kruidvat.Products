@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Hello Kitty Gevulde Etui",
   "code": "6359421",
-  "price": "3.99",
-  "priceOriginal": "",
+  "price": "1.99",
+  "priceOriginal": "3.99",
   "itemBgbcat": "3710 > 5921 > 6040 > 6822 > 6823 > 2191",
   "supplier": "SPEELGOEDLAND",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 2,00",
   "url": "/hello-kitty-gevulde-etui/p/6359421",
   "listName": "Lister",
   "brand": "Hello Kitty",
@@ -29,6 +29,5 @@
       "name": "Knutselen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h09/hd4/35089640161310/prd-front-6359421-1_600x600/prd-front-6359421-1-600x600.jpg"
+  "description": ""
 }

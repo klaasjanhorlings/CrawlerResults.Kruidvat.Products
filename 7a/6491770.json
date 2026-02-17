@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Anua Heartleaf 80 + Panthenol Moisture Soothing Ampoule",
+  "code": "6491770",
+  "price": "26.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/anua-heartleaf-80-panthenol-moisture-soothing-ampoule/p/6491770",
+  "listName": "Lister",
+  "brand": "ANUA",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "30mk",
+  "image": "/medias/sys_master/prd-images/hb0/h26/46982609469470/temp-prd-front-6491770-1_600x600/temp-prd-front-6491770-1-600x600.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Collagen Bank Hydraterende Gezichtscrème",
+  "code": "6460942",
+  "price": "27.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/neutrogena-collagen-bank-hydraterende-gezichtscreme/p/6460942",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30266606,
+      "name": "Dermacare"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h56/h7e/46980243652638/temp-prd-front-6460942-1_600x600/temp-prd-front-6460942-1-600x600.jpg"
+}

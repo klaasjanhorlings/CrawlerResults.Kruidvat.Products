@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mentos Pure Fresh Strawberry Kauwgom",
+  "code": "5947450",
+  "price": "3.99",
+  "priceOriginal": "5.99",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2365 > 3283 > 4184",
+  "supplier": "PERFETTI VAN MELLE NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 2,00",
+  "url": "/mentos-pure-fresh-strawberry-kauwgom/p/5947450",
+  "listName": "Lister",
+  "brand": "Mentos",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 92033748,
+      "name": "Kauwgom en pepermunt"
+    }
+  ],
+  "description": "140g"
+}
