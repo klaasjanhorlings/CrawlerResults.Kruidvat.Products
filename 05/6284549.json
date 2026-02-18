@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2499 > 3106 > 3973 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061366",
   "mmkId": "1061366",
   "productGroupId": "518645",
@@ -33,5 +33,6 @@
       "name": "Slabbetjes"
     }
   ],
-  "description": "2 stuks"
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h12/hfa/46034270715934/temp-prd-front-6284549-1_600x600/temp-prd-front-6284549-1-600x600.jpg"
 }

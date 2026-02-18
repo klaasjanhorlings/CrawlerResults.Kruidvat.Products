@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 6815",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061323",
   "mmkId": "1061323",
   "productGroupId": "513694",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h81/h71/44952184389662/prd-front-6066709-1_600x600/prd-front-6066709-1-600x600.jpg"
+  "description": ""
 }

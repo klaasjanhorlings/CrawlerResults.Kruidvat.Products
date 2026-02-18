@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Paw Patrol Vending Machine",
-  "code": "6458506",
+  "itemName": "Spongebob Vending Machine",
+  "code": "6458513",
   "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
   "supplier": "BRANDED. SLIWINSKI SPOLKA KOMANDYTOWA",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/paw-patrol-vending-machine/p/6458506",
+  "url": "/spongebob-vending-machine/p/6458513",
   "listName": "Lister",
-  "brand": "Paw Patrol",
+  "brand": "Spongebob",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/hb3/h36/47029422063646/temp-prd-front-6458513-1_600x600/temp-prd-front-6458513-1-600x600.jpg"
 }

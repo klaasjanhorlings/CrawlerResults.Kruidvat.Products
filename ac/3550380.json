@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "EMIL KIESSLING GMBH",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061422",
   "mmkId": "1061422",
   "productGroupId": "520825",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hcf/h8b/45052869509150/prd-front-3550380-1_600x600/prd-front-3550380-1-600x600.jpg"
 }

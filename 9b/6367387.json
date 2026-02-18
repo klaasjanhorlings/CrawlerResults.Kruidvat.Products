@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "CeraVe Anti-Puistjes Patches",
+  "code": "6367387",
+  "price": "10.9",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
+  "supplier": "LOREAL NED B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cerave-anti-puistjes-patches/p/6367387",
+  "listName": "Lister",
+  "brand": "CeraVe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 81073358,
+      "name": "Pimple patches"
+    }
+  ],
+  "description": "22 stuks",
+  "image": "/medias/sys_master/prd-images/hf8/h41/35042422456350/prd-front-6367387-1_600x600/prd-front-6367387-1-600x600.jpg"
+}
