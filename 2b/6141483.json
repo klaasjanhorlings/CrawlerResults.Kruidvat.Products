@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "South Park Pluchen Kenny Knuffel",
   "code": "6141483",
-  "price": "3.99",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
   "supplier": "HEATHSIDE TRADING BV",
   "inStock": "outOfStock",
-  "onPromo": "1059368",
-  "mmkId": "1059368",
-  "productGroupId": "",
+  "onPromo": "1061585",
+  "mmkId": "1061585",
+  "productGroupId": "522441",
   "brandType": "Ander merk",
-  "discount": "€ 4,00",
+  "discount": "",
   "url": "/south-park-pluchen-kenny-knuffel/p/6141483",
   "listName": "Lister",
   "brand": "Overig",
@@ -29,6 +29,5 @@
       "name": "Poppen en knuffels"
     }
   ],
-  "description": "30cm",
-  "image": "/medias/sys_master/prd-images/h8c/h12/31842068922398/prd-front-6141483-1_600x600/prd-front-6141483-1-600x600.jpg"
+  "description": "30cm"
 }

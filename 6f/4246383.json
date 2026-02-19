@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "DELARANGE COSMETICS",
   "inStock": "inStock",
-  "onPromo": "1061365",
-  "mmkId": "1061365",
-  "productGroupId": "518588",
+  "onPromo": "1061582",
+  "mmkId": "1061582",
+  "productGroupId": "518605",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-mama-care-buikbalsem/p/4246383",
@@ -33,5 +33,6 @@
       "name": "Mama verzorgingsproducten"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h96/hee/32030057693214/prd-front-4246383-1_600x600/prd-front-4246383-1-600x600.jpg"
 }

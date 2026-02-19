@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6040",
   "supplier": "RAVENSBURGER BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061585",
+  "mmkId": "1061585",
+  "productGroupId": "522441",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/paw-patrol-labyrinth-junior/p/6323021",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1a/h56/34685039280158/prd-front-6323021-1_600x600/prd-front-6323021-1-600x600.jpg"
 }

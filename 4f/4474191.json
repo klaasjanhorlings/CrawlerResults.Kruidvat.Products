@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Instant Anti Age Eraser 04 Honey Concealer",
   "code": "4474191",
-  "price": "9.99",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1061388",
-  "mmkId": "1061388",
-  "productGroupId": "519132",
+  "onPromo": "1061583",
+  "mmkId": "1061583",
+  "productGroupId": "521593",
   "brandType": "A of B merk",
-  "discount": "€ 6,00",
+  "discount": "",
   "url": "/maybelline-new-york-instant-anti-age-eraser-04-honey-concealer/p/4474191",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,6 +33,5 @@
       "name": "Concealer"
     }
   ],
-  "description": "6,8ml",
-  "image": "/medias/sys_master/prd-images/hcd/hcb/44789734572062/prd-front-4474191-1_600x600/prd-front-4474191-1-600x600.jpg"
+  "description": "6,8ml"
 }

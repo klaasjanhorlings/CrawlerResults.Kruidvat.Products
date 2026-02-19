@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Superstay 367 Lumi Matte Foundation",
   "code": "6241793",
-  "price": "9.99",
-  "priceOriginal": "19.99",
+  "price": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1061388",
-  "mmkId": "1061388",
-  "productGroupId": "519132",
+  "onPromo": "1061583",
+  "mmkId": "1061583",
+  "productGroupId": "521593",
   "brandType": "A of B merk",
-  "discount": "€ 10,00",
+  "discount": "",
   "url": "/maybelline-new-york-superstay-367-lumi-matte-foundation/p/6241793",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "35ml"
+  "description": "35ml",
+  "image": "/medias/sys_master/prd-images/ha3/hb5/44803927834654/prd-front-6241793-1_600x600/prd-front-6241793-1-600x600.jpg"
 }

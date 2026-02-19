@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Maybe It's 003 Open Late Matte Serum Lipstick",
   "code": "6427993",
-  "price": "9.99",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1061387",
-  "mmkId": "1061387",
-  "productGroupId": "519127",
+  "onPromo": "1061583",
+  "mmkId": "1061583",
+  "productGroupId": "521593",
   "brandType": "A of B merk",
-  "discount": "€ 5,00",
+  "discount": "",
   "url": "/maybelline-new-york-maybe-its-003-open-late-matte-serum-lipstick/p/6427993",
   "listName": "Lister",
   "brand": "Maybelline",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hec/hf7/46356937572382/temp-prd-front-6427993-1_600x600/temp-prd-front-6427993-1-600x600.jpg"
 }
