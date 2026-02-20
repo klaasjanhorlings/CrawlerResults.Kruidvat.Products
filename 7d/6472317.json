@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Baby Got Freckles 10 Sproetjespen",
+  "code": "6472317",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-baby-got-freckles-10-sproetjespen/p/6472317",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266586,
+      "name": "Eyeliner"
+    }
+  ],
+  "description": "1ml",
+  "image": "/medias/sys_master/prd-images/hf8/h7a/46689052295198/temp-prd-front-6472317-1_600x600/temp-prd-front-6472317-1-600x600.jpg"
+}

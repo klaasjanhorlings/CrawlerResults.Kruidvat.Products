@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dermo Care My Little Pony Shampoo",
+  "code": "1605696",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
+  "supplier": "CARESSE COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "1061297",
+  "mmkId": "1061297",
+  "productGroupId": "511939",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dermo-care-my-little-pony-shampoo/p/1605696",
+  "listName": "Lister",
+  "brand": "Dermo Care",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266775,
+      "name": "Baby haarverzorging"
+    },
+    {
+      "id": 30267012,
+      "name": "Babyshampoo"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h69/he2/46777260113950/temp-prd-front-1605696-1_600x600/temp-prd-front-1605696-1-600x600.jpg"
+}

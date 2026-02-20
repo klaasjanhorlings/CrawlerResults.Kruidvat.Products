@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Olia Gloss Icy Blond Neutraliserend Haarmasker",
+  "code": "6485995",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-olia-gloss-icy-blond-neutraliserend-haarmasker/p/6485995",
+  "listName": "Lister",
+  "brand": "Olia",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265990,
+      "name": "Haarverf"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h68/he5/46214548619294/temp-prd-front-6485995-1_600x600/temp-prd-front-6485995-1-600x600.jpg"
+}

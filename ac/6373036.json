@@ -25,10 +25,17 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266707,
+      "name": "Maag en darm"
+    },
+    {
+      "id": 49950138,
+      "name": "Maag- en of darmkramp"
     }
   ],
-  "description": "Geneesmiddel - 100 stuks",
-  "image": "/medias/sys_master/prd-images/h6d/h05/44274385453086/prd-front-6373036-1_600x600/prd-front-6373036-1-600x600.jpg"
+  "description": "Geneesmiddel - 100 stuks"
 }

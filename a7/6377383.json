@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Lucovitaal Puur Clear Whey Eiwitpoeder",
   "code": "6377383",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Proteine eiwit poeders"
     }
   ],
-  "description": "175g"
+  "description": "175g",
+  "image": "/medias/sys_master/prd-images/h39/h28/44227788734494/prd-front-6377383-1_600x600/prd-front-6377383-1-600x600.jpg"
 }

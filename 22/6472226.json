@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Mono 01 Soft Beige Matte Eyeshadow",
+  "code": "6472226",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2895 > 3670",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-mono-01-soft-beige-matte-eyeshadow/p/6472226",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266596,
+      "name": "Oogschaduw"
+    },
+    {
+      "id": 30266910,
+      "name": "Mono oogschaduw"
+    }
+  ],
+  "description": "2g",
+  "image": "/medias/sys_master/prd-images/ha9/h9f/46688759349278/temp-prd-front-6472226-1_600x600/temp-prd-front-6472226-1-600x600.jpg"
+}

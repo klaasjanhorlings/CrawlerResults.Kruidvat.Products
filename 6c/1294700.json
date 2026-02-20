@@ -21,14 +21,21 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 75860460,
-      "name": "Baby en Kind gezondheid"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
+    },
+    {
+      "id": 30266726,
+      "name": "Vitamines"
+    },
+    {
+      "id": 30266992,
+      "name": "Vitamine K"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/h80/hb3/33116494266398/prd-front-1294700-1_600x600/prd-front-1294700-1-600x600.jpg"
+  "description": "10ml"
 }

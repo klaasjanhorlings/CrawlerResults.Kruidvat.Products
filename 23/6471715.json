@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence The Super Peptide 05 Holomazing Glossy Lip Treatment",
+  "code": "6471715",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-the-super-peptide-05-holomazing-glossy-lip-treatment/p/6471715",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 87395308,
+      "name": "Lip balm"
+    }
+  ],
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h7d/hfe/46688959758366/temp-prd-front-6471715-1_600x600/temp-prd-front-6471715-1-600x600.jpg"
+}

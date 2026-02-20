@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence Extreme Shine 21 Pretty in Pink Volume Lipgloss",
+  "code": "6472499",
+  "price": "2.29",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-extreme-shine-21-pretty-in-pink-volume-lipgloss/p/6472499",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266583,
+      "name": "Lipgloss"
+    }
+  ],
+  "description": "5ml",
+  "image": "/medias/sys_master/prd-images/h3b/h12/46689244839966/temp-prd-front-6472499-1_600x600/temp-prd-front-6472499-1-600x600.jpg"
+}

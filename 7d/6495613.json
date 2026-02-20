@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mepal Mio Snackboxen",
+  "code": "6495613",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "MEPAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mepal-mio-snackboxen/p/6495613",
+  "listName": "Lister",
+  "brand": "Mepal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266803,
+      "name": "Kinderservies"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h23/ha3/46982526369822/temp-prd-front-6495613-1_600x600/temp-prd-front-6495613-1-600x600.jpg"
+}

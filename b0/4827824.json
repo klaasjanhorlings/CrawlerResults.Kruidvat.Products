@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 75860460,
-      "name": "Baby en Kind gezondheid"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266703,
+      "name": "Hoofdluis"
     }
   ],
   "description": "Medisch hulpmiddel - 100ml",

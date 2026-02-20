@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence What The Length! Wimpergroeiserum",
+  "code": "6471883",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 6134 > 6135 > 6133",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-what-the-length-wimpergroeiserum/p/6471883",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266593,
+      "name": "Wimperserums"
+    }
+  ],
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/h4a/h46/46764635226142/temp-prd-front-6471883-1_600x600/temp-prd-front-6471883-1-600x600.jpg"
+}

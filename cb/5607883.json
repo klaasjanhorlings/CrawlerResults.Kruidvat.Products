@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Epitact Duimbrace Rechts",
   "code": "5607883",
   "price": "26.95",
@@ -33,6 +33,5 @@
       "name": "Braces en bandages"
     }
   ],
-  "description": "mt S",
-  "image": "/medias/sys_master/prd-images/h05/h9b/46053396381726/temp-prd-front-5607883-1_600x600/temp-prd-front-5607883-1-600x600.jpg"
+  "description": "mt S"
 }

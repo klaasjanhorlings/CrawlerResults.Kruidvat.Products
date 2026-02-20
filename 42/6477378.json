@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hi There! Flashback Digitale Camera",
+  "code": "6477378",
+  "price": "24.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2243 > 2408 > 2849 > 3588 > 4870 > 6031",
+  "supplier": "I-STAR WORLD BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/hi-there-flashback-digitale-camera/p/6477378",
+  "listName": "Lister",
+  "brand": "Hi There",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266057,
+      "name": "Smarthome"
+    },
+    {
+      "id": 30266879,
+      "name": "Camera’s"
+    }
+  ],
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/hb0/h6f/46620351332382/temp-prd-front-6477378-1_600x600/temp-prd-front-6477378-1-600x600.jpg"
+}

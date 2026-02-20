@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Essence What The Fake! 103 Bare But Better Plumping Lipgloss",
+  "code": "6472219",
+  "price": "3.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/essence-what-the-fake-103-bare-but-better-plumping-lipgloss/p/6472219",
+  "listName": "Lister",
+  "brand": "Essence",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266583,
+      "name": "Lipgloss"
+    }
+  ],
+  "description": "4ml",
+  "image": "/medias/sys_master/prd-images/hdc/h2e/46775310254110/temp-prd-front-6472219-1_600x600/temp-prd-front-6472219-1-600x600.jpg"
+}

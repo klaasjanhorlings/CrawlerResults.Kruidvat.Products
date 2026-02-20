@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "TRIPLE A MARKETING GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -37,5 +37,6 @@
       "name": "Waterbasis glijmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 150ml"
+  "description": "Medisch hulpmiddel - 150ml",
+  "image": "/medias/prd-front-5443068-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MzYxMzV8aW1hZ2UvanBlZ3xhREl3TDJoa1pTOHhOakE1TkRVek5UQTVNREl3Tmk5d2NtUXRabkp2Ym5RdE5UUTBNekEyT0MweFh6WXdNSGcyTURBfGRmY2U5MDg5OThiNzFhNTFlNzdkZDlhOWRmZGUxZmRjMDQxMzgxYWFkNmM5YTAwOTg0ZWQwMmMxYzZiZTE4YjQ"
 }
