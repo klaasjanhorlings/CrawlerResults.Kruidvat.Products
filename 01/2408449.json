@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dermo Care My Little Pony Bad & Douche",
+  "code": "2408449",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
+  "supplier": "CARESSE COSMETICS BV",
+  "inStock": "outOfStock",
+  "onPromo": "1061297",
+  "mmkId": "1061297",
+  "productGroupId": "511939",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dermo-care-my-little-pony-bad-douche/p/2408449",
+  "listName": "Lister",
+  "brand": "Dermo Care",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266777,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267021,
+      "name": "Babywasgel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hb6/h06/45661170303006/temp-prd-front-2408449-1_600x600/temp-prd-front-2408449-1-600x600.jpg"
+}

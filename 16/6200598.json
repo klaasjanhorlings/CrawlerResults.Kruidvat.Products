@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 4226 > 6702",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Reinigingstonic"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hb7/h47/32250464698398/prd-front-6200598-1_600x600/prd-front-6200598-1-600x600.jpg"
 }

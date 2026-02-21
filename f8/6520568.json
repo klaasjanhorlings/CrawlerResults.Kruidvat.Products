@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mattel Uno Junior Gabby's Dollhouse",
+  "code": "6520568",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6040",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "outOfStock",
+  "onPromo": "1061585",
+  "mmkId": "1061585",
+  "productGroupId": "522441",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mattel-uno-junior-gabbys-dollhouse/p/6520568",
+  "listName": "Lister",
+  "brand": "Mattel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hab/hb7/46982923091998/temp-prd-front-6520568-1_600x600/temp-prd-front-6520568-1-600x600.jpg"
+}

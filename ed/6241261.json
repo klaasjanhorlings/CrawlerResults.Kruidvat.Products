@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Premium Protection Maat 3 Luiers",
+  "code": "6241261",
+  "price": "14.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3059 > 3907",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "1061495",
+  "mmkId": "1061495",
+  "productGroupId": "513802",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-premium-protection-maat-3-luiers/p/6241261",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266017,
+      "name": "Luiers"
+    },
+    {
+      "id": 30266786,
+      "name": "Luiers maat 3"
+    }
+  ],
+  "description": "mt 3 (6-10 kg), 30 stuks",
+  "image": "/medias/sys_master/prd-images/hf3/h6b/33356048138270/prd-front-6241261-1_600x600/prd-front-6241261-1-600x600.jpg"
+}

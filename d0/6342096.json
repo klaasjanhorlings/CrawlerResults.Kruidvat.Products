@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pokémon Tekenset",
+  "code": "6342096",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2191 > 3710 > 5921 > 6040 > 6822 > 6823",
+  "supplier": "SPEELGOEDLAND",
+  "inStock": "outOfStock",
+  "onPromo": "1061585",
+  "mmkId": "1061585",
+  "productGroupId": "522441",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pokemon-tekenset/p/6342096",
+  "listName": "Lister",
+  "brand": "Pokemon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266030,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1f/h7c/46982920339486/temp-prd-front-6342096-1_600x600/temp-prd-front-6342096-1-600x600.jpg"
+}

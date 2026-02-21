@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Clementoni Peppa Pig Kinderpuzzels",
+  "code": "5932302",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6040",
+  "supplier": "CLEMENTONI SPA",
+  "inStock": "outOfStock",
+  "onPromo": "1061585",
+  "mmkId": "1061585",
+  "productGroupId": "522441",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/clementoni-peppa-pig-kinderpuzzels/p/5932302",
+  "listName": "Lister",
+  "brand": "Peppa Pig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 90170187,
+      "name": "Puzzels"
+    }
+  ],
+  "description": "2 x 20 stukjes",
+  "image": "/medias/sys_master/prd-images/h7f/hd1/28812009340958/prd-front-5932302-1_600x600/prd-front-5932302-1-600x600.jpg"
+}

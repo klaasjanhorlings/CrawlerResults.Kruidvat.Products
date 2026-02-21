@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mattel Uno Disney's Lilo & Stitch",
+  "code": "6142302",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6040",
+  "supplier": "MATTEL EUROPA BV",
+  "inStock": "outOfStock",
+  "onPromo": "1061585",
+  "mmkId": "1061585",
+  "productGroupId": "522441",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mattel-uno-disneys-lilo-stitch/p/6142302",
+  "listName": "Lister",
+  "brand": "Mattel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0a/hf8/31442436292638/prd-front-6142302-1_600x600/prd-front-6142302-1-600x600.jpg"
+}

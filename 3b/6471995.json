@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "COSNOVA GMBH (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Foundation"
     }
   ],
-  "description": "10ml",
-  "image": "/medias/sys_master/prd-images/hfc/h8a/46777251594270/temp-prd-front-6471995-1_600x600/temp-prd-front-6471995-1-600x600.jpg"
+  "description": "10ml"
 }

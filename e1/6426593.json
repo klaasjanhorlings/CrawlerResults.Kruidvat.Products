@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Houten Regenboog Telraam",
+  "code": "6426593",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4640 > 5189 > 5365 > 5554 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "1061585",
+  "mmkId": "1061585",
+  "productGroupId": "522441",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/houten-regenboog-telraam/p/6426593",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266036,
+      "name": "Houten speelgoed"
+    },
+    {
+      "id": 84925671,
+      "name": "Houten speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0b/h15/44874070851614/prd-front-6426593-1_600x600/prd-front-6426593-1-600x600.jpg"
+}

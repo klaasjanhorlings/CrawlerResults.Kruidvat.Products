@@ -7,7 +7,7 @@
   "priceOriginal": "12.99",
   "itemBgbcat": "2006 > 2280 > 5048 > 6196 > 6214 > 6248",
   "supplier": "HERKEL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061545",
   "mmkId": "1061545",
   "productGroupId": "519070",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/h36/hb8/46397716889630/temp-prd-front-6317372-1_600x600/temp-prd-front-6317372-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hcd/h7b/47138671263774/temp-prd-front-6317372-1_600x600/temp-prd-front-6317372-1-600x600.jpg"
 }

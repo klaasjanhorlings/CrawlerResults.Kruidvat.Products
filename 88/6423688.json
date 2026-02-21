@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zenner Gebogen Haarklem",
+  "code": "6423688",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 6323 > 6674",
+  "supplier": "ZENNER NIEUW VENNEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/zenner-gebogen-haarklem/p/6423688",
+  "listName": "Lister",
+  "brand": "Zenner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265993,
+      "name": "Haaraccessoires"
+    },
+    {
+      "id": 30266626,
+      "name": "Haarklemmen"
+    }
+  ],
+  "description": "bruin",
+  "image": "/medias/sys_master/prd-images/h0e/h49/47163944009758/temp-prd-front-6423688-1_600x600/temp-prd-front-6423688-1-600x600.jpg"
+}
