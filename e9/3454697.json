@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Regenerist Nachtcrème",
   "code": "3454697",
-  "price": "16.0",
+  "price": "23.99",
   "priceOriginal": "39.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "outOfStock",
-  "onPromo": "1061313",
-  "mmkId": "1061313",
-  "productGroupId": "512983",
+  "onPromo": "1061753",
+  "mmkId": "1061753",
+  "productGroupId": "512454",
   "brandType": "A of B merk",
-  "discount": "€ 23,99",
+  "discount": "€ 16,00",
   "url": "/olay-regenerist-nachtcreme/p/3454697",
   "listName": "Lister",
   "brand": "Olay",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "50ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h2f/h90/47168897318942/temp-prd-front-3454697-1_600x600/temp-prd-front-3454697-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he7/hc2/47212466405406/temp-prd-front-3454697-1_600x600/temp-prd-front-3454697-1-600x600.jpg"
 }

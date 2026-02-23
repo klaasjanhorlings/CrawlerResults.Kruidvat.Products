@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5921 > 6741 > 6740 > 6739 > 6040",
   "supplier": "SPEELGOEDLAND",
   "inStock": "inStock",
-  "onPromo": "1061585",
-  "mmkId": "1061585",
-  "productGroupId": "522441",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/marvel-avengers-wie-is-het/p/6140881",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h5c/h42/31842071150622/prd-front-6140881-1_600x600/prd-front-6140881-1-600x600.jpg"
+  "description": ""
 }

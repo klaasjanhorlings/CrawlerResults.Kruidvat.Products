@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Babyshirt",
+  "code": "6426859",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2130 > 2330 > 2730 > 3433 > 4362",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-babyshirt/p/6426859",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30266807,
+      "name": "Babyaccessoires"
+    }
+  ],
+  "description": "beige, blauw, mt 62-68, 2 stuks",
+  "image": "/medias/sys_master/prd-images/h88/ha5/46383666626590/temp-prd-front-6426859-1_600x600/temp-prd-front-6426859-1-600x600.jpg"
+}

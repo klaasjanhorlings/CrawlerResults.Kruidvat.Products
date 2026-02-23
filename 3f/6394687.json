@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Anua Heartleaf Quercetinol Cleansing Foam",
   "code": "6394687",
-  "price": "14.9",
-  "priceOriginal": "",
+  "price": "11.17",
+  "priceOriginal": "14.9",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061688",
+  "mmkId": "1061688",
+  "productGroupId": "508224",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,73",
   "url": "/anua-heartleaf-quercetinol-cleansing-foam/p/6394687",
   "listName": "Lister",
   "brand": "ANUA",
@@ -37,5 +37,6 @@
       "name": "Reinigingsmousse"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hed/h3c/46379964268574/temp-prd-front-6394687-2_600x600/temp-prd-front-6394687-2-600x600.jpg"
 }

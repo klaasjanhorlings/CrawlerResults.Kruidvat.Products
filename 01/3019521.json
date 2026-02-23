@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 2838 > 3578",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "1061398",
-  "mmkId": "1061398",
-  "productGroupId": "519766",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aunt-jackies-curl-la-la-defining-curl-custard/p/3019521",
@@ -33,6 +33,5 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "426g",
-  "image": "/medias/sys_master/prd-images/hab/hb3/27769000263710/prd-front-3019521-1_600x600/prd-front-3019521-1-600x600.jpg"
+  "description": "426g"
 }

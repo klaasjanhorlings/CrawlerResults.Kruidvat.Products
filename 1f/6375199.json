@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "My Nailcandy Choco Mousse Gellak Stickers",
   "code": "6375199",
-  "price": "5.0",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LITTLE CONCEPTS NETTO",
   "inStock": "inStock",
-  "onPromo": "1061448",
-  "mmkId": "1061448",
-  "productGroupId": "523470",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,99",
+  "discount": "",
   "url": "/my-nailcandy-choco-mousse-gellak-stickers/p/6375199",
   "listName": "Lister",
   "brand": "MY NAILCANDY",
@@ -33,5 +33,6 @@
       "name": "Nagelstickers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

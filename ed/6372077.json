@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Wilkinson Sword Wilkinson 6 Scheermesjes",
   "code": "6372077",
-  "price": "20.79",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "20.79",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061829",
+  "mmkId": "1061829",
+  "productGroupId": "519256",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 10,80",
   "url": "/wilkinson-sword-wilkinson-6-scheermesjes/p/6372077",
   "listName": "Lister",
   "brand": "Wilkinson Sword",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/h5b/h72/47171806593054/temp-prd-front-6372077-1_600x600/temp-prd-front-6372077-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5c/hdb/47215491448862/temp-prd-front-6372077-1_600x600/temp-prd-front-6372077-1-600x600.jpg"
 }

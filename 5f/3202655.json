@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Elvive Extraordinary Oil Masker",
   "code": "3202655",
-  "price": "10.99",
-  "priceOriginal": "",
+  "price": "5.49",
+  "priceOriginal": "10.99",
   "itemBgbcat": "2003 > 2058 > 2186 > 6689 > 6695 > 2835",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1061411",
-  "mmkId": "1061411",
-  "productGroupId": "520308",
+  "onPromo": "1061863",
+  "mmkId": "1061863",
+  "productGroupId": "519919",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,50",
   "url": "/loreal-paris-elvive-extraordinary-oil-masker/p/3202655",
   "listName": "Lister",
   "brand": "Elvive",
@@ -33,6 +33,5 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h65/h66/33041706385438/prd-front-3202655-1_600x600/prd-front-3202655-1-600x600.jpg"
+  "description": "300ml"
 }

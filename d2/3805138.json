@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Cantu Shea Butter Activator Cream",
   "code": "3805138",
-  "price": "6.74",
-  "priceOriginal": "8.99",
+  "price": "8.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "ORIGINAL ADDITIONS (BP)",
   "inStock": "inStock",
-  "onPromo": "1061468",
-  "mmkId": "1061468",
-  "productGroupId": "529001",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 2,25",
+  "discount": "",
   "url": "/cantu-shea-butter-activator-cream/p/3805138",
   "listName": "Lister",
   "brand": "Cantu",
@@ -33,5 +33,6 @@
       "name": "Krullenverzorging"
     }
   ],
-  "description": "355ml"
+  "description": "355ml",
+  "image": "/medias/prd-front-3805138-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NTQzNzh8aW1hZ2UvanBlZ3xhR1F5TDJnNVppOHhOelUzT1RJM09Ea3lOVGcxTkM5d2NtUXRabkp2Ym5RdE16Z3dOVEV6T0MweFh6WXdNSGcyTURBfDMzYjc3OGE4NmZiN2EyODYxOTQ0ZGI2ZjQzODA2N2Y2NjBlNmJkNWJhYjcxMGE5N2ZkYjM4NDMxYmNjNmRiNzQ"
 }

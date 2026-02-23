@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Pampers Baby-Dry Maat 6 Luiers",
   "code": "6243774",
-  "price": "36.5",
-  "priceOriginal": "63.99",
+  "price": "63.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "outOfStock",
-  "onPromo": "1061232",
-  "mmkId": "1061232",
-  "productGroupId": "513832",
+  "onPromo": "1061655",
+  "mmkId": "1061655",
+  "productGroupId": "519493",
   "brandType": "A of B merk",
-  "discount": "€ 27,49",
+  "discount": "",
   "url": "/pampers-baby-dry-maat-6-luiers/p/6243774",
   "listName": "Lister",
   "brand": "Pampers",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 6"
     }
   ],
-  "description": "mt 6 (13-18kg), 108 stuks"
+  "description": "mt 6 (13-18kg), 108 stuks",
+  "image": "/medias/sys_master/prd-images/h8b/hd2/34793640755230/prd-front-6243774-1_600x600/prd-front-6243774-1-600x600.jpg"
 }

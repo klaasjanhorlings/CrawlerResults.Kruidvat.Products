@@ -8,9 +8,9 @@
   "itemBgbcat": "2232 > 2527 > 3150 > 4019 > 5921 > 6040",
   "supplier": "BRANDED. SLIWINSKI SPOLKA KOMANDYTOWA",
   "inStock": "inStock",
-  "onPromo": "1061585",
-  "mmkId": "1061585",
-  "productGroupId": "522441",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/spongebob-vending-machine/p/6458513",
@@ -33,5 +33,6 @@
       "name": "Speelsets"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb3/h36/47029422063646/temp-prd-front-6458513-1_600x600/temp-prd-front-6458513-1-600x600.jpg"
 }

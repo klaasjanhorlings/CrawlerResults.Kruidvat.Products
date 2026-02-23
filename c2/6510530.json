@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5921 > 6040 > 6737 > 6738 > 6736",
   "supplier": "IDENTITY GAMES INT. BV",
   "inStock": "outOfStock",
-  "onPromo": "1061585",
-  "mmkId": "1061585",
-  "productGroupId": "522441",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/identity-games-dikkie-dik-in-het-bos/p/6510530",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h0d/h67/46982815219742/temp-prd-front-6510530-1_600x600/temp-prd-front-6510530-1-600x600.jpg"
 }

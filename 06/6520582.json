@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6040",
   "supplier": "MATTEL EUROPA BV",
   "inStock": "outOfStock",
-  "onPromo": "1061585",
-  "mmkId": "1061585",
-  "productGroupId": "522441",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mattel-scrabble-original/p/6520582",
@@ -33,6 +33,5 @@
       "name": "Bordspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h98/he8/46982911164446/temp-prd-front-6520582-1_600x600/temp-prd-front-6520582-1-600x600.jpg"
+  "description": ""
 }

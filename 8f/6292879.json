@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1061400",
-  "mmkId": "1061400",
-  "productGroupId": "519786",
+  "onPromo": "1061725",
+  "mmkId": "1061725",
+  "productGroupId": "510958",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-antiroosshampoo/p/6292879",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/he4/h80/34924772851742/prd-front-6292879-1_600x600/prd-front-6292879-1-600x600.jpg"
 }

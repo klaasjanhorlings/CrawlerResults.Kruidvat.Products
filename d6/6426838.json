@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Babylegging",
+  "code": "6426838",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2130 > 2324 > 2723 > 4362 > 5786",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-babylegging/p/6426838",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30266807,
+      "name": "Babyaccessoires"
+    }
+  ],
+  "description": "beige, bruin, mt 62-68, 2 stuks",
+  "image": "/medias/sys_master/prd-images/hd4/h19/46393156501534/temp-prd-front-6426838-1_600x600/temp-prd-front-6426838-1-600x600.jpg"
+}

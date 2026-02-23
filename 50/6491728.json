@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1061316",
-  "mmkId": "1061316",
-  "productGroupId": "513176",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-q10-anti-rimpel-collageen-expert-dag-en-nachtbalsem/p/6491728",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h5c/h14/46950712442910/temp-prd-front-6491728-1_600x600/temp-prd-front-6491728-1-600x600.jpg"
 }

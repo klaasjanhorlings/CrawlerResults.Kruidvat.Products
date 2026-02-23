@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Fleuril Renew Bloesem Vloeibaar Wasmiddel",
   "code": "6033536",
-  "price": "7.49",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 3558",
   "supplier": "HENKEL NEDERLAND BV U-W",
   "inStock": "inStock",
-  "onPromo": "1061223",
-  "mmkId": "1061223",
-  "productGroupId": "512281",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 7,50",
+  "discount": "",
   "url": "/fleuril-renew-bloesem-vloeibaar-wasmiddel/p/6033536",
   "listName": "Lister",
   "brand": "Fleuril",
@@ -29,6 +29,5 @@
       "name": "Wasmiddel"
     }
   ],
-  "description": "1350ml, 29 wasbeurten",
-  "image": "/medias/sys_master/prd-images/h10/hfa/47123558694942/temp-prd-front-6033536-1_600x600/temp-prd-front-6033536-1-600x600.jpg"
+  "description": "1350ml, 29 wasbeurten"
 }

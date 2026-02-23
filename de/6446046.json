@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "1061323",
-  "mmkId": "1061323",
-  "productGroupId": "513694",
+  "inStock": "outOfStock",
+  "onPromo": "1061734",
+  "mmkId": "1061734",
+  "productGroupId": "511290",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/syoss-root-retouch-cashmere-rood-uitgroeispray/p/6446046",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "120ml",
-  "image": "/medias/sys_master/prd-images/h56/ha4/47210119397406/temp-prd-front-6446046-1_600x600/temp-prd-front-6446046-1-600x600.jpg"
+  "description": "120ml"
 }

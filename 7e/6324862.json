@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3785",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1061319",
-  "mmkId": "1061319",
-  "productGroupId": "513554",
+  "onPromo": "1061750",
+  "mmkId": "1061750",
+  "productGroupId": "512336",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-derma-control-restore-antitranspirant-spray/p/6324862",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hb5/he5/44039026704414/prd-front-6324862-1_600x600/prd-front-6324862-1-600x600.jpg"
 }

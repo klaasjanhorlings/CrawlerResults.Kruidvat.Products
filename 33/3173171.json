@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2638 > 2943 > 3858",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061892",
+  "mmkId": "1061892",
+  "productGroupId": "520781",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aquafresh-clean-flex-medium-tandenborstels/p/3173171",
@@ -33,5 +33,6 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "3 stuks"
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/hf1/ha6/47042799927326/temp-prd-front-3173171-1_600x600/temp-prd-front-3173171-1-600x600.jpg"
 }

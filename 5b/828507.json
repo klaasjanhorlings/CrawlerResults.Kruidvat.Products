@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris True Match D5/W5 Sable Doré Poeder",
   "code": "828507",
-  "price": "16.99",
-  "priceOriginal": "",
+  "price": "8.49",
+  "priceOriginal": "16.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1061411",
-  "mmkId": "1061411",
-  "productGroupId": "520308",
+  "onPromo": "1061772",
+  "mmkId": "1061772",
+  "productGroupId": "513882",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 8,50",
   "url": "/loreal-paris-true-match-d5/w5-sable-dore-poeder/p/828507",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h34/h21/44936641085470/prd-front-828507-1_600x600/prd-front-828507-1-600x600.jpg"
 }

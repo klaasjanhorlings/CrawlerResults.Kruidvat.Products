@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Wilkinson Sword Wilkinson 6 Scheerapparaat",
   "code": "6371328",
-  "price": "12.49",
-  "priceOriginal": "",
+  "price": "8.99",
+  "priceOriginal": "12.49",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3880 > 5722",
   "supplier": "WILKINSON SWORD GMBH",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061680",
+  "mmkId": "1061680",
+  "productGroupId": "506930",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,50",
   "url": "/wilkinson-sword-wilkinson-6-scheerapparaat/p/6371328",
   "listName": "Lister",
   "brand": "Wilkinson Sword",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hf2/he7/47210110222366/temp-prd-front-6371328-1_600x600/temp-prd-front-6371328-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h90/h9e/47251770933278/temp-prd-front-6371328-1_600x600/temp-prd-front-6371328-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "CEDO HOUSEHOLD PRODUCTS",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1010662",
   "mmkId": "1010662",
   "productGroupId": "242521",
@@ -37,5 +37,6 @@
       "name": "Navullingen luieremmers"
     }
   ],
-  "description": "100 stuks"
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/h7f/hbe/27769926451230/prd-front-667926-1_600x600/prd-front-667926-1-600x600.jpg"
 }

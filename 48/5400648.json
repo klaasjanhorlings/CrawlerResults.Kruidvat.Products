@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Epitact Hallux Valgus Corrigerende Orthese",
   "code": "5400648",
-  "price": "37.45",
-  "priceOriginal": "",
+  "price": "28.09",
+  "priceOriginal": "37.45",
   "itemBgbcat": "2006 > 2052 > 2175 > 3567 > 6449 > 6784",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1061921",
+  "mmkId": "1061921",
+  "productGroupId": "522768",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 9,36",
   "url": "/epitact-hallux-valgus-corrigerende-orthese/p/5400648",
   "listName": "Lister",
   "brand": "Epitact",
@@ -33,5 +33,6 @@
       "name": "Braces en bandages"
     }
   ],
-  "description": "mt 36-38"
+  "description": "mt 36-38",
+  "image": "/medias/sys_master/prd-images/h42/h9e/46035741474846/temp-prd-front-5400648-1_600x600/temp-prd-front-5400648-1-600x600.jpg"
 }

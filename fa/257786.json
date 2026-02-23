@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061686",
+  "mmkId": "1061686",
+  "productGroupId": "508105",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/freeman-facial-peel-off-mask-cucumber-gezichtsmasker/p/257786",
@@ -37,6 +37,5 @@
       "name": "Peel-off maskers"
     }
   ],
-  "description": "175ml",
-  "image": "/medias/sys_master/prd-images/hc3/hca/28805316378654/prd-front-257786-1_600x600/prd-front-257786-1-600x600.jpg"
+  "description": "175ml"
 }

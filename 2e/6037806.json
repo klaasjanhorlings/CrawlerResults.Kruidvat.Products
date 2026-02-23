@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2199 > 6832 > 6834 > 6833",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061857",
+  "mmkId": "1061857",
+  "productGroupId": "519767",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/tena-men-wasbare-boxershort/p/6037806",
@@ -37,6 +37,5 @@
       "name": "Incontinentiebroekjes"
     }
   ],
-  "description": "Medisch hulpmiddel - mt L",
-  "image": "/medias/sys_master/prd-images/h97/h7c/34415338422302/prd-front-6037806-1_600x600/prd-front-6037806-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - mt L"
 }

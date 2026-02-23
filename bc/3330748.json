@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3795",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1061284",
-  "mmkId": "1061284",
-  "productGroupId": "511054",
+  "onPromo": "1061727",
+  "mmkId": "1061727",
+  "productGroupId": "511064",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-soft-feel-antitranspirant-spray/p/3330748",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h9e/hc1/33198394900510/prd-front-3330748-1_600x600/prd-front-3330748-1-600x600.jpg"
 }

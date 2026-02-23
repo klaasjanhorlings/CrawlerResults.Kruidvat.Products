@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Schleich 42617 Horse Club Sofia's Beauties",
   "code": "6252643",
-  "price": "11.99",
-  "priceOriginal": "",
+  "price": "5.99",
+  "priceOriginal": "11.99",
   "itemBgbcat": "5177 > 5271 > 5460 > 5921 > 6040 > 2232",
   "supplier": "HERMANEX INTERNATIONAL",
   "inStock": "outOfStock",
-  "onPromo": "1061585",
-  "mmkId": "1061585",
-  "productGroupId": "522441",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,00",
   "url": "/schleich-42617-horse-club-sofias-beauties/p/6252643",
   "listName": "Lister",
   "brand": "Schleich",
@@ -33,6 +33,5 @@
       "name": "Speelsets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h9c/hdd/33058813476894/prd-front-6252643-1_600x600/prd-front-6252643-1-600x600.jpg"
+  "description": ""
 }

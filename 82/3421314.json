@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tena Lights Sensitive Long Inlegkruisjes",
   "code": "3421314",
-  "price": "3.49",
-  "priceOriginal": "3.89",
+  "price": "3.89",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2199 > 6827 > 6826 > 6828",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "1061266",
-  "mmkId": "1061266",
-  "productGroupId": "508678",
+  "onPromo": "1061858",
+  "mmkId": "1061858",
+  "productGroupId": "519768",
   "brandType": "A of B merk",
-  "discount": "€ 0,40",
+  "discount": "",
   "url": "/tena-lights-sensitive-long-inlegkruisjes/p/3421314",
   "listName": "Lister",
   "brand": "Lights by Tena",
@@ -37,5 +37,6 @@
       "name": "Incontinentie-inlegkruisjes"
     }
   ],
-  "description": "Medisch hulpmiddel - 20 stuks"
+  "description": "Medisch hulpmiddel - 20 stuks",
+  "image": "/medias/sys_master/prd-images/h04/h73/47212455526430/temp-prd-front-3421314-1_600x600/temp-prd-front-3421314-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "UNILEVER ASIA PRIV. LTD",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061860",
+  "mmkId": "1061860",
+  "productGroupId": "519799",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sheamoisture-manuka-honey-mafura-oil-intensive-hydration-masker/p/5430790",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "355ml"
+  "description": "355ml",
+  "image": "/medias/prd-front-5430790-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzYzNjh8aW1hZ2UvanBlZ3xhR1V6TDJneU9TOHlOekV6T0RJeU9EQTVNamsxT0M5d2NtUXRabkp2Ym5RdE5UUXpNRGM1TUMweFh6WXdNSGcyTURBfGIxZWM5OWNlMDA5Zjk3NGUwODExMTA1MjE4MTAwOTU2ZDc4ZTUzZjVhMzQyY2RhZjUwOGJlOWUxOWEwMmQ5NWU"
 }

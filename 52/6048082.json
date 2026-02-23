@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Witte Reus Color Reus 3+1 Power Caps",
+  "code": "6048082",
+  "price": "12.99",
+  "priceOriginal": "39.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 4253",
+  "supplier": "HENKEL NEDERLAND BV U-W",
+  "inStock": "inStock",
+  "onPromo": "1061958",
+  "mmkId": "1061958",
+  "productGroupId": "512306",
+  "brandType": "A of B merk",
+  "discount": "€ 27,00",
+  "url": "/witte-reus-color-reus-31-power-caps/p/6048082",
+  "listName": "Lister",
+  "brand": "Witte Reus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266066,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "64 stuks",
+  "image": "/medias/sys_master/prd-images/h48/h38/47219013681182/temp-prd-front-6048082-1_600x600/temp-prd-front-6048082-1-600x600.jpg"
+}

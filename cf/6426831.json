@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Gebreid Babyvest",
+  "code": "6426831",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2130 > 2330 > 2730 > 3433 > 4362",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-gebreid-babyvest/p/6426831",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30266807,
+      "name": "Babyaccessoires"
+    }
+  ],
+  "description": "beige, mt 62-68",
+  "image": "/medias/sys_master/prd-images/h78/h91/45309005889566/prd-front-6426831-1_600x600/prd-front-6426831-1-600x600.jpg"
+}

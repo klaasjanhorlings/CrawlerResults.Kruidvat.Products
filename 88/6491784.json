@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Revitalift Hyaluron SPF30 Aqua-Fluid",
   "code": "6491784",
-  "price": "27.99",
-  "priceOriginal": "",
+  "price": "13.99",
+  "priceOriginal": "27.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1061411",
-  "mmkId": "1061411",
-  "productGroupId": "520308",
+  "onPromo": "1061889",
+  "mmkId": "1061889",
+  "productGroupId": "520743",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 14,00",
   "url": "/loreal-paris-revitalift-hyaluron-spf30-aqua-fluid/p/6491784",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "40ml",
-  "image": "/medias/sys_master/prd-images/ha6/h17/47182684094494/temp-prd-front-6491784-1_600x600/temp-prd-front-6491784-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hdf/h26/47225950437406/temp-prd-front-6491784-1_600x600/temp-prd-front-6491784-1-600x600.jpg"
 }

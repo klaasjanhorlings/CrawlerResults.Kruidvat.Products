@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "UNILEVER ASIA PRIV. LTD",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061860",
+  "mmkId": "1061860",
+  "productGroupId": "519799",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sheamoisture-power-treatment-haarbehandeling/p/5807527",
@@ -33,5 +33,6 @@
       "name": "Haartreatment"
     }
   ],
-  "description": "335ml"
+  "description": "335ml",
+  "image": "/medias/prd-front-5807527-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njk4ODd8aW1hZ2UvanBlZ3xhRFU0TDJobFpTOHlOams1T0RFNE56RXpNRGt4TUM5d2NtUXRabkp2Ym5RdE5UZ3dOelV5TnkweFh6WXdNSGcyTURBfGQ1YTZjODRhNWUxMTZiNzliNmYzMTJjNmUzYjUxNWQ2NjJkOTIwMjg1YzUyMTZlOTJhNjE3OWRkYWJlMGM5ODg"
 }

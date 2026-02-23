@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lataffa Give Me Gourmand Choco Overdose Eau de Parfum",
+  "code": "6485743",
+  "price": "29.99",
+  "priceOriginal": "35.99",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "1061666",
+  "mmkId": "1061666",
+  "productGroupId": "523079",
+  "brandType": "A of B merk",
+  "discount": "€ 6,00",
+  "url": "/lataffa-give-me-gourmand-choco-overdose-eau-de-parfum/p/6485743",
+  "listName": "Lister",
+  "brand": "Lattafa",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h3a/h28/46521513181214/temp-prd-front-6485743-1_600x600/temp-prd-front-6485743-1-600x600.jpg"
+}

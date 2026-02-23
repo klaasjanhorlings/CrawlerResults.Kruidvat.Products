@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6203 > 6221 > 6281",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1061385",
-  "mmkId": "1061385",
-  "productGroupId": "519067",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-ijzerelixer-vrouw/p/6200689",
@@ -37,5 +37,6 @@
       "name": "Ijzer"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h2a/h8a/33351076511774/prd-front-6200689-1_600x600/prd-front-6200689-1-600x600.jpg"
 }

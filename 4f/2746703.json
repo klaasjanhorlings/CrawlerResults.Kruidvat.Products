@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3794",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1061319",
-  "mmkId": "1061319",
-  "productGroupId": "513554",
+  "onPromo": "1061750",
+  "mmkId": "1061750",
+  "productGroupId": "512336",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-black-white-invisible-pure-antitranspirant-roller/p/2746703",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h20/h93/34567305986078/prd-front-2746703-1_600x600/prd-front-2746703-1-600x600.jpg"
 }

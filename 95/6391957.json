@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
   "supplier": "YARI BV",
   "inStock": "inStock",
-  "onPromo": "1061398",
-  "mmkId": "1061398",
-  "productGroupId": "519766",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/aunt-jackies-curls-coils-elixir-essentials-hair-and-scalp-oil/p/6391957",
@@ -33,5 +33,6 @@
       "name": "Haarolie"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h63/h64/44328631009310/prd-front-6391957-1_600x600/prd-front-6391957-1-600x600.jpg"
 }

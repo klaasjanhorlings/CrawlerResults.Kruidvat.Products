@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Micro Biotica 7 Bacterie Stammen Capsules",
   "code": "6316392",
-  "price": "6.99",
-  "priceOriginal": "9.99",
+  "price": "9.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6196 > 6214 > 6248",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1061545",
-  "mmkId": "1061545",
-  "productGroupId": "519070",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
-  "discount": "€ 3,00",
+  "discount": "",
   "url": "/kruidvat-micro-biotica-7-bacterie-stammen-capsules/p/6316392",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h76/hae/47210111205406/temp-prd-front-6316392-1_600x600/temp-prd-front-6316392-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h41/h1d/47251772243998/temp-prd-front-6316392-1_600x600/temp-prd-front-6316392-1-600x600.jpg"
 }

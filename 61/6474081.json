@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Identity Games Secret Bingo",
+  "code": "6474081",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5921 > 6040 > 6741 > 6740 > 6739",
+  "supplier": "IDENTITY GAMES INT. BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/identity-games-secret-bingo/p/6474081",
+  "listName": "Lister",
+  "brand": "Identity Games",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/hfd/hd9/45190879412254/prd-front-6474081-1_600x600/prd-front-6474081-1-600x600.jpg"
+}

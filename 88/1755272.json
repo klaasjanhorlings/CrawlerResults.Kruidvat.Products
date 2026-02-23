@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5063",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1061411",
-  "mmkId": "1061411",
-  "productGroupId": "520308",
+  "onPromo": "1061742",
+  "mmkId": "1061742",
+  "productGroupId": "511987",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-triple-active-nachtcreme/p/1755272",
@@ -33,6 +33,5 @@
       "name": "Nachtcreme"
     }
   ],
-  "description": "50ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/hab/hf9/28800701104158/prd-front-1755272-1_600x600/prd-front-1755272-1-600x600.jpg"
+  "description": "50ml - Normale huid"
 }

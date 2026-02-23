@@ -8,9 +8,9 @@
   "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 6792",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061801",
+  "mmkId": "1061801",
+  "productGroupId": "518212",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/vanish-oxi-action-wasbooster-poeder/p/5673179",
@@ -29,6 +29,5 @@
       "name": "Vlekverwijderaars"
     }
   ],
-  "description": "470g",
-  "image": "/medias/sys_master/prd-images/h81/h2f/44484027678750/prd-front-5673179-1_600x600/prd-front-5673179-1-600x600.jpg"
+  "description": "470g"
 }

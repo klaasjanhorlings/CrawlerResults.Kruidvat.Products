@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1061784",
+  "mmkId": "1061784",
+  "productGroupId": "516291",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-soft-glam-20-light-cool-satin-foundation/p/6274819",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h27/h52/34024761491486/prd-front-6274819-1_600x600/prd-front-6274819-1-600x600.jpg"
 }

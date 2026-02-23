@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1040891",
-  "mmkId": "1040891",
-  "productGroupId": "432557",
+  "onPromo": "1061917",
+  "mmkId": "1061917",
+  "productGroupId": "522481",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-city-60404-hamburgertruck/p/6003268",
@@ -33,5 +33,6 @@
       "name": "LEGO City"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h1b/hae/35040644399134/prd-front-6003268-1_600x600/prd-front-6003268-1-600x600.jpg"
 }

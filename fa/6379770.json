@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "CARESSE COSMETICS BV",
-  "inStock": "inStock",
-  "onPromo": "1061297",
-  "mmkId": "1061297",
-  "productGroupId": "511939",
+  "inStock": "outOfStock",
+  "onPromo": "1061794",
+  "mmkId": "1061794",
+  "productGroupId": "517586",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-paw-patrol-shower-foam/p/6379770",
@@ -37,6 +37,5 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h23/h7e/44239510667294/prd-front-6379770-1_600x600/prd-front-6379770-1-600x600.jpg"
+  "description": "250ml"
 }

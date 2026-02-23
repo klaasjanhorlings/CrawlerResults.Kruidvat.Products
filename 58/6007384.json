@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "inStock",
-  "onPromo": "1061339",
-  "mmkId": "1061339",
-  "productGroupId": "513957",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-miracle-pure-eye-enhancer-06-maple-cream-concealer/p/6007384",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h6c/hd1/31159773462558/prd-front-6007384-1_600x600/prd-front-6007384-1-600x600.jpg"
 }

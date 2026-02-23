@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6040",
   "supplier": "IDENTITY GAMES INT. BV",
   "inStock": "inStock",
-  "onPromo": "1061585",
-  "mmkId": "1061585",
-  "productGroupId": "522441",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/identity-games-name-that-tune-series-spel/p/6348333",
@@ -33,5 +33,6 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "Nederlandstalig spel"
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h82/h46/45076316192798/prd-front-6348333-1_600x600/prd-front-6348333-1-600x600.jpg"
 }

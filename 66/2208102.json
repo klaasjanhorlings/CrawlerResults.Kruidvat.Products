@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 6838 > 6839 > 6840",
   "supplier": "BOLTON NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061852",
+  "mmkId": "1061852",
+  "productGroupId": "519563",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/chilly-fresh-intiemtissues/p/2208102",
@@ -33,5 +33,6 @@
       "name": "Intieme hygiëne"
     }
   ],
-  "description": "12 stuks"
+  "description": "12 stuks",
+  "image": "/medias/sys_master/prd-images/hcd/h81/28788570619934/prd-front-2208102-1_600x600/prd-front-2208102-1-600x600.jpg"
 }

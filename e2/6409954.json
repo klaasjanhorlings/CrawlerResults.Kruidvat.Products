@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Duracell Plus 9V-Batterij",
+  "code": "6409954",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2134 > 6013 > 6145 > 6146 > 6147",
+  "supplier": "DURACELL NETHERLANDS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/duracell-plus-9v-batterij/p/6409954",
+  "listName": "Lister",
+  "brand": "Duracell",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266055,
+      "name": "Batterijen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h93/h2e/45077433876510/prd-front-6409954-1_600x600/prd-front-6409954-1-600x600.jpg"
+}

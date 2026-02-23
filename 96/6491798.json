@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Revitalift Glass Skin Hydrogel Glow Mask",
   "code": "6491798",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "4.49",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "LOREAL NED BV",
   "inStock": "outOfStock",
-  "onPromo": "1061411",
-  "mmkId": "1061411",
-  "productGroupId": "520308",
+  "onPromo": "1061889",
+  "mmkId": "1061889",
+  "productGroupId": "520743",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,50",
   "url": "/loreal-paris-revitalift-glass-skin-hydrogel-glow-mask/p/6491798",
   "listName": "Lister",
   "brand": "L'Oreal Paris",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/hb6/h03/47178820255774/temp-prd-front-6491798-1_600x600/temp-prd-front-6491798-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h5b/hf3/47221875441694/temp-prd-front-6491798-1_600x600/temp-prd-front-6491798-1-600x600.jpg"
 }

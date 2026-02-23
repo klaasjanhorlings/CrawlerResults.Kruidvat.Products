@@ -8,9 +8,9 @@
   "itemBgbcat": "5921 > 2181 > 5162 > 5217 > 5406 > 6040",
   "supplier": "MATTEL EUROPA BV",
   "inStock": "outOfStock",
-  "onPromo": "1061585",
-  "mmkId": "1061585",
-  "productGroupId": "522441",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/mattel-super-mario-uno/p/5818300",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h6e/h39/46184167702558/temp-prd-front-5818300-1_600x600/temp-prd-front-5818300-1-600x600.jpg"
+  "description": ""
 }

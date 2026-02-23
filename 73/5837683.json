@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Libresse Dailies Normal Inlegkruisjes",
   "code": "5837683",
-  "price": "3.49",
-  "priceOriginal": "4.89",
+  "price": "4.89",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 2979 > 3805",
   "supplier": "ESSITY",
   "inStock": "inStock",
-  "onPromo": "1061269",
-  "mmkId": "1061269",
-  "productGroupId": "508689",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,40",
+  "discount": "",
   "url": "/libresse-dailies-normal-inlegkruisjes/p/5837683",
   "listName": "Lister",
   "brand": "Libresse",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "58 stuks"
+  "description": "58 stuks",
+  "image": "/medias/sys_master/prd-images/h76/hda/28736982646814/prd-front-5837683-1_600x600/prd-front-5837683-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6200 > 6218 > 6268",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1061287",
-  "mmkId": "1061287",
-  "productGroupId": "511205",
+  "onPromo": "1061732",
+  "mmkId": "1061732",
+  "productGroupId": "511231",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lucovitaal-magnesium-tauraat-capsules/p/6075949",
@@ -37,5 +37,6 @@
       "name": "Magnesium"
     }
   ],
-  "description": "90 stuks"
+  "description": "90 stuks",
+  "image": "/medias/sys_master/prd-images/h27/hf9/30650241482782/prd-front-6075949-1_600x600/prd-front-6075949-1-600x600.jpg"
 }

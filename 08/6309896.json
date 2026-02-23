@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Cetaphil Gentle Exfoliating SA Cleanser",
   "code": "6309896",
-  "price": "15.5",
-  "priceOriginal": "",
+  "price": "11.62",
+  "priceOriginal": "15.5",
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "GALDERMA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1053321",
-  "mmkId": "1053321",
-  "productGroupId": "",
+  "onPromo": "1061906",
+  "mmkId": "1061906",
+  "productGroupId": "521545",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,88",
   "url": "/cetaphil-gentle-exfoliating-sa-cleanser/p/6309896",
   "listName": "Lister",
   "brand": "Cetaphil",
@@ -37,6 +37,5 @@
       "name": "Cleanser"
     }
   ],
-  "description": "236ml",
-  "image": "/medias/sys_master/prd-images/h1c/h45/34048583139358/prd-front-6309896-1_600x600/prd-front-6309896-1-600x600.jpg"
+  "description": "236ml"
 }

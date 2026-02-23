@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5724 > 3680",
   "supplier": "KNEIPP NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1061431",
-  "mmkId": "1061431",
-  "productGroupId": "521359",
+  "onPromo": "1061694",
+  "mmkId": "1061694",
+  "productGroupId": "508964",
   "brandType": "A or B brand",
   "discount": "",
   "url": "/kneipp-refreshing-mint-eucalyptus-badschuim/p/2571647",
@@ -33,5 +33,6 @@
       "name": "Badschuim"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hab/h43/44859565244446/prd-front-2571647-1_600x600/prd-front-2571647-1-600x600.jpg"
 }

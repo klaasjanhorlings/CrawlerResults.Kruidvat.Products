@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Lucovitaal Super Visolie Omega  3",
   "code": "6048103",
-  "price": "29.99",
-  "priceOriginal": "",
+  "price": "13.0",
+  "priceOriginal": "29.99",
   "itemBgbcat": "2006 > 2280 > 5048 > 6198 > 6216 > 6258",
   "supplier": "PK BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1061287",
-  "mmkId": "1061287",
-  "productGroupId": "511205",
+  "onPromo": "1061733",
+  "mmkId": "1061733",
+  "productGroupId": "511236",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 16,99",
   "url": "/lucovitaal-super-visolie-omega-3/p/6048103",
   "listName": "Lister",
   "brand": "Lucovitaal",
@@ -33,5 +33,6 @@
       "name": "Visolie"
     }
   ],
-  "description": "120 stuks"
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h48/h6c/30503719731230/prd-front-6048103-1_600x600/prd-front-6048103-1-600x600.jpg"
 }

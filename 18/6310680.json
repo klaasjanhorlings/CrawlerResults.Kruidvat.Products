@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Zwitsal Zeepvrije Wasgel",
   "code": "6310680",
-  "price": "12.49",
-  "priceOriginal": "",
+  "price": "7.49",
+  "priceOriginal": "12.49",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1061297",
-  "mmkId": "1061297",
-  "productGroupId": "511939",
+  "onPromo": "1061925",
+  "mmkId": "1061925",
+  "productGroupId": "523210",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/zwitsal-zeepvrije-wasgel/p/6310680",
   "listName": "Lister",
   "brand": "Zwitsal",
@@ -37,5 +37,6 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "700ml"
+  "description": "700ml",
+  "image": "/medias/sys_master/prd-images/hc4/hfc/34734888812574/prd-front-6310680-1_600x600/prd-front-6310680-1-600x600.jpg"
 }

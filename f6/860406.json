@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2088 > 5075 > 2399 > 3272 > 4173",
   "supplier": "GEOCOS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061831",
+  "mmkId": "1061831",
+  "productGroupId": "519275",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-ontharingsstrips-voor-lichaam/p/860406",
@@ -33,5 +33,6 @@
       "name": "Ontharingscreme, wax en hars"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hbe/hca/27503620784158/prd-front-860406-1_600x600/prd-front-860406-1-600x600.jpg"
 }

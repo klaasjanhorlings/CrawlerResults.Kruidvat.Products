@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Psylliumvezels",
   "code": "21923",
-  "price": "3.91",
-  "priceOriginal": "5.59",
+  "price": "5.59",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6196 > 6214 > 6248",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1061545",
-  "mmkId": "1061545",
-  "productGroupId": "519070",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
-  "discount": "€ 1,68",
+  "discount": "",
   "url": "/kruidvat-psylliumvezels/p/21923",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "125g",
-  "image": "/medias/sys_master/prd-images/h71/h7a/47171903914014/temp-prd-front-21923-1_600x600/temp-prd-front-21923-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/he5/h7b/47215592898590/temp-prd-front-21923-1_600x600/temp-prd-front-21923-1-600x600.jpg"
 }

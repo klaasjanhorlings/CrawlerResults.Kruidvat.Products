@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Natures Refreshing Shower Bar",
   "code": "5827211",
-  "price": "3.29",
-  "priceOriginal": "",
+  "price": "2.47",
+  "priceOriginal": "3.29",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 5723 > 3686",
   "supplier": "MARION PRIVATE LABEL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061770",
+  "mmkId": "1061770",
+  "productGroupId": "513743",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 0,82",
   "url": "/kruidvat-natures-refreshing-shower-bar/p/5827211",
   "listName": "Lister",
   "brand": "Kruidvat Natures",
@@ -33,5 +33,6 @@
       "name": "Zeepbar"
     }
   ],
-  "description": "68g - Gevoelige huid"
+  "description": "68g - Gevoelige huid",
+  "image": "/medias/prd-front-5827211-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjA4Mzd8aW1hZ2UvanBlZ3xhR0psTDJoaE9TOHlOams0TkRjeE1ESTNOVEV3TWk5d2NtUXRabkp2Ym5RdE5UZ3lOekl4TVMweFh6WXdNSGcyTURBfDBmMjc0ZjAxOWUxYzkwNmVmZDY1MmI4NjM3OGU2NTliYTU2MGE0ZjQzYzI2ZWU2YzAzNWZhNmY5MjE1YWRjZTg"
 }

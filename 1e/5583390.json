@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Olay Vitamin C + Aha24 Serum",
+  "code": "5583390",
+  "price": "24.89",
+  "priceOriginal": "41.49",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "1061753",
+  "mmkId": "1061753",
+  "productGroupId": "512454",
+  "brandType": "A of B merk",
+  "discount": "€ 16,60",
+  "url": "/olay-vitamin-c-aha24-serum/p/5583390",
+  "listName": "Lister",
+  "brand": "Olay",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "40 ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h38/hc3/47222133325854/temp-prd-front-5583390-1_600x600/temp-prd-front-5583390-1-600x600.jpg"
+}

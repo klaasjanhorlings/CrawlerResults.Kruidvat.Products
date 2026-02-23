@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Sun Hydrate Aftersun Lotion",
   "code": "1859481",
-  "price": "14.74",
+  "price": "11.8",
   "priceOriginal": "29.49",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1061548",
-  "mmkId": "1061548",
-  "productGroupId": "520819",
+  "onPromo": "1061949",
+  "mmkId": "1061949",
+  "productGroupId": "533057",
   "brandType": "A of B merk",
-  "discount": "€ 14,75",
+  "discount": "€ 17,69",
   "url": "/nivea-sun-hydrate-aftersun-lotion/p/1859481",
   "listName": "Lister",
   "brand": "Nivea Sun",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hce/h04/47186423611422/temp-prd-front-1859481-1_600x600/temp-prd-front-1859481-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hba/h09/47229340549150/temp-prd-front-1859481-1_600x600/temp-prd-front-1859481-1-600x600.jpg"
 }

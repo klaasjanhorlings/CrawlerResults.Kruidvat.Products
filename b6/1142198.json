@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 3137 > 4003",
   "supplier": "RIDAM CARE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061847",
+  "mmkId": "1061847",
+  "productGroupId": "519355",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-gebitsbox/p/1142198",
@@ -33,5 +33,6 @@
       "name": "Kunstgebitreiniger"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h75/h53/28786064130078/prd-front-1142198-1_600x600/prd-front-1142198-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1061404",
-  "mmkId": "1061404",
-  "productGroupId": "519905",
+  "onPromo": "1061764",
+  "mmkId": "1061764",
+  "productGroupId": "512887",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-loving-blends-kokosmelk-macadamia-conditioner/p/4822266",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h8a/hd9/29794292465694/prd-front-4822266-1_600x600/prd-front-4822266-1-600x600.jpg"
 }

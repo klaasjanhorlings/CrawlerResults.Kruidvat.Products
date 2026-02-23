@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Drugs Zelftest",
   "code": "6160278",
-  "price": "5.0",
-  "priceOriginal": "6.99",
+  "price": "6.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 6493 > 6492 > 6494",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1061453",
-  "mmkId": "1061453",
-  "productGroupId": "524217",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
-  "discount": "€ 1,99",
+  "discount": "",
   "url": "/kruidvat-drugs-zelftest/p/6160278",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -37,6 +37,5 @@
       "name": "Gezondheidstesten"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h38/hc2/34602492264478/prd-front-6160278-1_600x600/prd-front-6160278-1-600x600.jpg"
+  "description": ""
 }

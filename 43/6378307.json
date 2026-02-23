@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 4324 > 4326 > 4325",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "1061297",
-  "mmkId": "1061297",
-  "productGroupId": "511939",
+  "onPromo": "1061944",
+  "mmkId": "1061944",
+  "productGroupId": "530689",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/naif-kids-hair-styling/p/6378307",
@@ -37,5 +37,6 @@
       "name": "Baby haargel"
     }
   ],
-  "description": "75g"
+  "description": "75g",
+  "image": "/medias/sys_master/prd-images/hec/h52/44632035917854/prd-front-6378307-1_600x600/prd-front-6378307-1-600x600.jpg"
 }

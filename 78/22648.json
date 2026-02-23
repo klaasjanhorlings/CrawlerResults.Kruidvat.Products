@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6198 > 6216 > 6258",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1061558",
-  "mmkId": "1061558",
-  "productGroupId": "529737",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-knoflook-capsules/p/22648",
@@ -33,5 +33,6 @@
       "name": "Hart en/of bloedvaten"
     }
   ],
-  "description": "100 stuks"
+  "description": "100 stuks",
+  "image": "/medias/sys_master/prd-images/hb7/h6f/47229302112286/temp-prd-front-22648-1_600x600/temp-prd-front-22648-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Babyslofjes",
+  "code": "6426873",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2130 > 4362 > 5787 > 5788 > 5789",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-babyslofjes/p/6426873",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266041,
+      "name": "Babykleding"
+    },
+    {
+      "id": 30266853,
+      "name": "Babyslofjes"
+    }
+  ],
+  "description": "beige, 0-6M",
+  "image": "/medias/sys_master/prd-images/h2f/hfe/46403359211550/temp-prd-front-6426873-1_600x600/temp-prd-front-6426873-1-600x600.jpg"
+}
