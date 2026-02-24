@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Always Platinum Normal Maandverband",
+  "code": "4773742",
+  "price": "5.13",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1061413",
+  "mmkId": "1061413",
+  "productGroupId": "520401",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/always-platinum-normal-maandverband/p/4773742",
+  "listName": "Lister",
+  "brand": "Always",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266662,
+      "name": "Maandverband"
+    }
+  ],
+  "description": "mt 1, 24 stuks",
+  "image": "/medias/sys_master/prd-images/he8/h74/47039202852894/temp-prd-front-4773742-1_600x600/temp-prd-front-4773742-1-600x600.jpg"
+}

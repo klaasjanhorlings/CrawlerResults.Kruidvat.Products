@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6398 > 6082",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,5 +33,6 @@
       "name": "Droogshampoo"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h9c/h76/28504428609566/prd-front-5316942-1_600x600/prd-front-5316942-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061686",
   "mmkId": "1061686",
   "productGroupId": "508105",
@@ -37,5 +37,6 @@
       "name": "Peel-off maskers"
     }
   ],
-  "description": "175ml"
+  "description": "175ml",
+  "image": "/medias/sys_master/prd-images/hc3/hca/28805316378654/prd-front-257786-1_600x600/prd-front-257786-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Steve Jackson Games Munchkin",
+  "code": "6426460",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6040",
+  "supplier": "ASMODEE THE NETHERLANDS",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/steve-jackson-games-munchkin/p/6426460",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h69/h51/44984447270942/prd-front-6426460-1_600x600/prd-front-6426460-1-600x600.jpg"
+}

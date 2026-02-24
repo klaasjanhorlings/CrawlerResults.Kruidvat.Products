@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Venco Engelse Drop Geschenkset",
+  "code": "6374457",
+  "price": "4.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 3005 > 3831",
+  "supplier": "CLOETTA HOLLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/venco-engelse-drop-geschenkset/p/6374457",
+  "listName": "Lister",
+  "brand": "Venco",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267026,
+      "name": "Snoep"
+    }
+  ],
+  "description": "700g",
+  "image": "/medias/sys_master/prd-images/h07/hdc/43989567897630/prd-front-6374457-1_600x600/prd-front-6374457-1-600x600.jpg"
+}
