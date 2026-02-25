@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061917",
   "mmkId": "1061917",
   "productGroupId": "522481",
@@ -29,8 +29,8 @@
       "name": "LEGO"
     },
     {
-      "id": 69037623,
-      "name": "LEGO Exclusief Assortiment"
+      "id": 30266815,
+      "name": "LEGO Creator"
     }
   ],
   "description": "",

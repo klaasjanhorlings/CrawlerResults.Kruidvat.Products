@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Medicube Deep Vita C Pads",
   "code": "6494976",
-  "price": "27.9",
-  "priceOriginal": "",
+  "price": "20.92",
+  "priceOriginal": "27.9",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061688",
+  "mmkId": "1061688",
+  "productGroupId": "508224",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,98",
   "url": "/medicube-deep-vita-c-pads/p/6494976",
   "listName": "Lister",
   "brand": "medicube",
@@ -25,12 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 84945977,
-      "name": "Exfoliant"
+      "id": 73443650,
+      "name": "Korean Skincare"
+    },
+    {
+      "id": 90760917,
+      "name": "Korean exfoliant"
     }
   ],
   "description": "70 stuks",

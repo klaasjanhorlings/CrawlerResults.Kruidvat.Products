@@ -25,17 +25,14 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 48220663,
+      "name": "Voetongemakken"
     },
     {
-      "id": 30266699,
-      "name": "Huidbehandeling"
-    },
-    {
-      "id": 30266942,
-      "name": "Wrattenbehandeling"
+      "id": 101911637,
+      "name": "Voetwratten"
     }
   ],
-  "description": "Medisch hulpmiddel - 4ml"
+  "description": "Medisch hulpmiddel - 4ml",
+  "image": "/medias/sys_master/prd-images/h14/hce/30496873283614/prd-front-6041432-1_600x600/prd-front-6041432-1-600x600.jpg"
 }

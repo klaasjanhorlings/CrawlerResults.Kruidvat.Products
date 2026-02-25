@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Always Discreet Incontinentiebroekjes",
   "code": "6045247",
-  "price": "14.49",
-  "priceOriginal": "",
+  "price": "8.0",
+  "priceOriginal": "14.49",
   "itemBgbcat": "2003 > 2065 > 2199 > 6830 > 6829 > 6831",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1061886",
-  "mmkId": "1061886",
-  "productGroupId": "520368",
+  "onPromo": "1061991",
+  "mmkId": "1061991",
+  "productGroupId": "520357",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,49",
   "url": "/always-discreet-incontinentiebroekjes/p/6045247",
   "listName": "Lister",
   "brand": "Always Discreet",
@@ -37,5 +37,6 @@
       "name": "Incontinentiebroekjes"
     }
   ],
-  "description": "Medisch hulpmiddel - wit, mt L, 9 stuks"
+  "description": "Medisch hulpmiddel - wit, mt L, 9 stuks",
+  "image": "/medias/sys_master/prd-images/hcf/h5b/30283428888606/prd-front-6045247-1_600x600/prd-front-6045247-1-600x600.jpg"
 }

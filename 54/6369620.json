@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062039",
+  "mmkId": "1062039",
+  "productGroupId": "522237",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/alessandro-striplac-uv-colour-124-red-paradise-nagellak/p/6369620",
@@ -29,9 +29,10 @@
       "name": "Nagels"
     },
     {
-      "id": 72476685,
-      "name": "Gellak"
+      "id": 30266584,
+      "name": "Nagellak"
     }
   ],
-  "description": "6,5ml"
+  "description": "6,5ml",
+  "image": "/medias/sys_master/prd-images/hf6/hdd/44255428476958/prd-front-6369620-1_600x600/prd-front-6369620-1-600x600.jpg"
 }

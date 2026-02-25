@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Odorex Men Sport Refresh 3-in-1 Showergel",
   "code": "6056412",
-  "price": "1.5",
-  "priceOriginal": "3.49",
+  "price": "3.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 3868 > 5725",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "1061691",
-  "mmkId": "1061691",
-  "productGroupId": "508637",
+  "onPromo": "1061981",
+  "mmkId": "1061981",
+  "productGroupId": "517892",
   "brandType": "A of B merk",
-  "discount": "€ 1,99",
+  "discount": "",
   "url": "/odorex-men-sport-refresh-3-in-1-showergel/p/6056412",
   "listName": "Lister",
   "brand": "Odorex",
@@ -25,12 +25,12 @@
       "name": "Verzorging"
     },
     {
-      "id": 30265997,
-      "name": "Bad- en doucheproducten"
+      "id": 30266005,
+      "name": "Haarverzorging"
     },
     {
-      "id": 30266648,
-      "name": "Douchegel"
+      "id": 30266694,
+      "name": "Shampoo"
     }
   ],
   "description": "300ml - Normale huid",

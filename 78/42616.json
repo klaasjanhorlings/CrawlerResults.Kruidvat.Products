@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Color Riche 303 Tendre Rose Lippenstift",
+  "code": "42616",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "supplier": "L'OREAL MAKE-UP",
+  "inStock": "inStock",
+  "onPromo": "1061821",
+  "mmkId": "1061821",
+  "productGroupId": "519159",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-color-riche-303-tendre-rose-lippenstift/p/42616",
+  "listName": "Lister",
+  "brand": "L'Oreal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 87391909,
+      "name": "Lipmake-up"
+    },
+    {
+      "id": 30266582,
+      "name": "Lipstick"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h03/hb9/35136795869214/prd-front-42616-1_600x600/prd-front-42616-1-600x600.jpg"
+}

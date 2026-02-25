@@ -21,14 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536080,
+      "name": "Baby"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266777,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267021,
+      "name": "Babywasgel"
     }
   ],
-  "description": "150ml",
+  "description": "125ml",
   "image": "/medias/sys_master/prd-images/h7f/h72/45055786876958/prd-front-5894159-1_600x600/prd-front-5894159-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1061854",
-  "mmkId": "1061854",
-  "productGroupId": "519659",
+  "onPromo": "1061999",
+  "mmkId": "1061999",
+  "productGroupId": "524003",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-moedermelkflesjes/p/3497768",
@@ -25,14 +25,18 @@
       "name": "Baby"
     },
     {
-      "id": 30266022,
-      "name": "Babyvoedingsaccessoires"
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
     },
     {
-      "id": 30266799,
-      "name": "Babyflesjes"
+      "id": 30266804,
+      "name": "Borstvoedingsaccessoires"
+    },
+    {
+      "id": 84925333,
+      "name": "Moedermelkbewaarzakjes"
     }
   ],
   "description": "3 stuks",
-  "image": "/medias/sys_master/prd-images/h88/h8b/47254003875870/temp-prd-front-3497768-1_600x600/temp-prd-front-3497768-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/haf/h93/47300471390238/temp-prd-front-3497768-1_600x600/temp-prd-front-3497768-1-600x600.jpg"
 }

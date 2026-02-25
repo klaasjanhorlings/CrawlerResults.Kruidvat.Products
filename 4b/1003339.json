@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Nutrisse Ultra Crème 5 Lichtbruin Permanente Haarkleuring",
   "code": "1003339",
-  "price": "10.0",
-  "priceOriginal": "16.99",
+  "price": "16.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1061743",
-  "mmkId": "1061743",
-  "productGroupId": "512090",
+  "onPromo": "1062002",
+  "mmkId": "1062002",
+  "productGroupId": "524160",
   "brandType": "A of B merk",
-  "discount": "€ 6,99",
+  "discount": "",
   "url": "/garnier-nutrisse-ultra-creme-5-lichtbruin-permanente-haarkleuring/p/1003339",
   "listName": "Lister",
   "brand": "Nutrisse",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h0b/h6e/32295447953438/prd-front-1003339-1_600x600/prd-front-1003339-1-600x600.jpg"
 }

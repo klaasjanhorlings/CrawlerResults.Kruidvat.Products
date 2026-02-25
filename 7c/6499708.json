@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061999",
+  "mmkId": "1061999",
+  "productGroupId": "524003",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-harmony-essential-set/p/6499708",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h51/h43/47265403961374/temp-prd-front-6499708-1_600x600/temp-prd-front-6499708-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0b/hb2/47307047010334/temp-prd-front-6499708-1_600x600/temp-prd-front-6499708-1-600x600.jpg"
 }

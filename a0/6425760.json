@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061917",
   "mmkId": "1061917",
   "productGroupId": "522481",
@@ -29,10 +29,9 @@
       "name": "LEGO"
     },
     {
-      "id": 69031070,
-      "name": "LEGO Voertuigen"
+      "id": 30266810,
+      "name": "LEGO City"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc8/ha4/45715232325662/temp-prd-front-6425760-1_600x600/temp-prd-front-6425760-1-600x600.jpg"
+  "description": ""
 }

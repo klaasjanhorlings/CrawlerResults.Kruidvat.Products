@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Odorex Men Invisible Protection Deodorant Roller",
   "code": "6046010",
-  "price": "1.5",
-  "priceOriginal": "4.39",
+  "price": "4.39",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2772 > 3784",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1061691",
-  "mmkId": "1061691",
-  "productGroupId": "508637",
+  "inStock": "outOfStock",
+  "onPromo": "1061981",
+  "mmkId": "1061981",
+  "productGroupId": "517892",
   "brandType": "A of B merk",
-  "discount": "€ 2,89",
+  "discount": "",
   "url": "/odorex-men-invisible-protection-deodorant-roller/p/6046010",
   "listName": "Lister",
   "brand": "Odorex",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h13/h55/44325465128990/prd-front-6046010-1_600x600/prd-front-6046010-1-600x600.jpg"
 }

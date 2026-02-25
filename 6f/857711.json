@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Multi A-Z Kauwtabletten voor Kinderen",
   "code": "857711",
-  "price": "4.99",
-  "priceOriginal": "",
+  "price": "3.49",
+  "priceOriginal": "4.99",
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1061819",
-  "mmkId": "1061819",
-  "productGroupId": "519073",
+  "onPromo": "1061975",
+  "mmkId": "1061975",
+  "productGroupId": "517624",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 1,50",
   "url": "/kruidvat-multi-a-z-kauwtabletten-voor-kinderen/p/857711",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,10 +33,10 @@
       "name": "Vitamines"
     },
     {
-      "id": 30267462,
-      "name": "Kindervitamines"
+      "id": 30267461,
+      "name": "Multivitamines"
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h70/h70/47269232640030/temp-prd-front-857711-1_600x600/temp-prd-front-857711-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h72/h3f/47320933171230/temp-prd-front-857711-1_600x600/temp-prd-front-857711-1-600x600.jpg"
 }

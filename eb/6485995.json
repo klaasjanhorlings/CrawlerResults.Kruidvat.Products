@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062002",
+  "mmkId": "1062002",
+  "productGroupId": "524160",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-olia-gloss-icy-blond-neutraliserend-haarmasker/p/6485995",
@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30265990,
-      "name": "Haarverf"
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266697,
+      "name": "Haarmasker"
     }
   ],
   "description": "150ml",

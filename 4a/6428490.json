@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "House of Thêom Midnight Cherry Eau de Parfum",
   "code": "6428490",
-  "price": "24.99",
-  "priceOriginal": "",
+  "price": "18.74",
+  "priceOriginal": "24.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061989",
+  "mmkId": "1061989",
+  "productGroupId": "520300",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 6,25",
   "url": "/house-of-theom-midnight-cherry-eau-de-parfum/p/6428490",
   "listName": "Lister",
   "brand": "House of Thêom",
@@ -29,8 +29,8 @@
       "name": "Parfum"
     },
     {
-      "id": 72654920,
-      "name": "Unisex parfum"
+      "id": 72654362,
+      "name": "Damesparfum"
     }
   ],
   "description": "75ml",

@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1062825",
+  "mmkId": "1062825",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -25,8 +25,12 @@
       "name": "Baby"
     },
     {
-      "id": 30266021,
-      "name": "Pyjamabroekjes"
+      "id": 30266019,
+      "name": "Luierbroekjes"
+    },
+    {
+      "id": 30266793,
+      "name": "Luierbroekjes maat 4"
     }
   ],
   "description": "mt 4 (9-15kg), 24 stuks",

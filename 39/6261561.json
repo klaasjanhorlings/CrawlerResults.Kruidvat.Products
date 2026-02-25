@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061917",
   "mmkId": "1061917",
   "productGroupId": "522481",
@@ -25,12 +25,8 @@
       "name": "Speelgoed"
     },
     {
-      "id": 30266025,
-      "name": "LEGO"
-    },
-    {
-      "id": 30266824,
-      "name": "LEGO Technic"
+      "id": 30266031,
+      "name": "Voertuigen"
     }
   ],
   "description": "",

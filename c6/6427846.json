@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061821",
   "mmkId": "1061821",
   "productGroupId": "519159",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "9,9ml",
-  "image": "/medias/sys_master/prd-images/h38/hbb/46344284307486/temp-prd-front-6427846-1_600x600/temp-prd-front-6427846-1-600x600.jpg"
+  "description": "9,9ml"
 }

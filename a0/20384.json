@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3913",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062017",
+  "mmkId": "1062017",
+  "productGroupId": "529237",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-total-care-2-in-1-shampoo-conditioner/p/20384",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/hbc/h8f/45801859809310/temp-prd-front-20384-1_600x600/temp-prd-front-20384-1-600x600.jpg"
 }

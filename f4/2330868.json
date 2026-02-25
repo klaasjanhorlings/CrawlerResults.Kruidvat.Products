@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062017",
+  "mmkId": "1062017",
+  "productGroupId": "529237",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-active-fresh-men-2-in-1-shampoo-shower/p/2330868",
@@ -25,13 +25,14 @@
       "name": "Verzorging"
     },
     {
-      "id": 30266005,
-      "name": "Haarverzorging"
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266694,
-      "name": "Shampoo"
+      "id": 30266648,
+      "name": "Douchegel"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/prd-front-2330868-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjM2MTF8aW1hZ2UvanBlZ3xhRFE0TDJnMlpTOHhOelF3TkRjeU5qRXhOak00TWk5d2NtUXRabkp2Ym5RdE1qTXpNRGcyT0MweFh6WXdNSGcyTURBfGMxMDY3YmI5MWY3NzBjYzJmMmVkNGUxZmZjZGY2M2FlNDA3ZjgzMjYzNjE0NGViYWUyNWFiMmU3ZGM0ZWI0MTI"
 }

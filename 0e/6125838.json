@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Oh My Skin Gummies",
   "code": "6125838",
-  "price": "5.0",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2280 > 5048 > 6193 > 6211 > 6233",
   "supplier": "2THINGS",
   "inStock": "inStock",
-  "onPromo": "1061818",
-  "mmkId": "1061818",
-  "productGroupId": "519072",
+  "onPromo": "1062005",
+  "mmkId": "1062005",
+  "productGroupId": "524604",
   "brandType": "Eigen merk",
-  "discount": "€ 2,99",
+  "discount": "",
   "url": "/kruidvat-oh-my-skin-gummies/p/6125838",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/hba/h31/47251764707358/temp-prd-front-6125838-1_600x600/temp-prd-front-6125838-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd1/ha5/47300345430046/temp-prd-front-6125838-1_600x600/temp-prd-front-6125838-1-600x600.jpg"
 }

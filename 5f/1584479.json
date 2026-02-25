@@ -29,9 +29,10 @@
       "name": "Skincare"
     },
     {
-      "id": 30266603,
-      "name": "Nachtcreme"
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Droge huid"
+  "description": "50ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/hf8/h27/34536604336158/prd-front-1584479-1_600x600/prd-front-1584479-1-600x600.jpg"
 }

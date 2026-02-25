@@ -21,17 +21,22 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30266002,
-      "name": "Scheren en ontharen"
+      "id": 30265987,
+      "name": "Make-up"
     },
     {
-      "id": 30266678,
-      "name": "Scheermesjes"
+      "id": 30266592,
+      "name": "Wenkbrauw make-up"
+    },
+    {
+      "id": 30266905,
+      "name": "Wenkbrauwgel"
     }
   ],
-  "description": "3 stuks"
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/ha9/h1a/29954199846942/prd-front-5911722-1_600x600/prd-front-5911722-1-600x600.jpg"
 }

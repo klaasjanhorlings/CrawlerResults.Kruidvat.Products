@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Paisley Shopper",
   "code": "6412712",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "4.99",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
   "supplier": "MIJNSCHOENENSHOP.NL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061998",
+  "mmkId": "1061998",
+  "productGroupId": "523971",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/paisley-shopper/p/6412712",
   "listName": "Lister",
   "brand": "Overig",
@@ -21,22 +21,13 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536082,
-      "name": "Fashion"
+      "id": 29536081,
+      "name": "Speelgoed"
     },
     {
-      "id": 30266046,
-      "name": "Accessoires"
-    },
-    {
-      "id": 30266863,
-      "name": "Tassen"
-    },
-    {
-      "id": 101713392,
-      "name": "Shopper"
+      "id": 90170187,
+      "name": "Puzzels"
     }
   ],
-  "description": "fuchsia, 45cm x 12cm x 35cm",
-  "image": "/medias/sys_master/prd-images/ha3/hce/44682228367390/prd-front-6412712-1_600x600/prd-front-6412712-1-600x600.jpg"
+  "description": "fuchsia, 45cm x 12cm x 35cm"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6203 > 6221 > 6280",
   "supplier": "NUTRILO GMBH (BNL)",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1062005",
+  "mmkId": "1062005",
+  "productGroupId": "524604",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-calcium-magnesium-bruistabletten/p/569261",
@@ -29,10 +29,14 @@
       "name": "Voedingssupplementen"
     },
     {
-      "id": 30266729,
-      "name": "Botten en spieren"
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001862,
+      "name": "Calcium"
     }
   ],
   "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/hd9/h99/47251754876958/temp-prd-front-569261-1_600x600/temp-prd-front-569261-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc7/ha9/47300329308190/temp-prd-front-569261-1_600x600/temp-prd-front-569261-1-600x600.jpg"
 }

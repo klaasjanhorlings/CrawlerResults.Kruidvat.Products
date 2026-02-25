@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Axe Epic Fresh 3-in-1 Douchegel",
+  "code": "5617585",
+  "price": "5.09",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 5725 > 3878",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "1061726",
+  "mmkId": "1061726",
+  "productGroupId": "511062",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/axe-epic-fresh-3-in-1-douchegel/p/5617585",
+  "listName": "Lister",
+  "brand": "Axe",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h1f/h05/33389804290078/prd-front-5617585-1_600x600/prd-front-5617585-1-600x600.jpg"
+}

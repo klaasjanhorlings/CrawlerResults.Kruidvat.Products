@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Odorex Men Fresh Protection 3-in-1 Showergel",
   "code": "6056405",
-  "price": "1.5",
-  "priceOriginal": "3.49",
+  "price": "3.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2337 > 3868 > 5725",
   "supplier": "ROYAL SANDERS (BNL)",
   "inStock": "inStock",
-  "onPromo": "1061691",
-  "mmkId": "1061691",
-  "productGroupId": "508637",
+  "onPromo": "1061981",
+  "mmkId": "1061981",
+  "productGroupId": "517892",
   "brandType": "A of B merk",
-  "discount": "€ 1,99",
+  "discount": "",
   "url": "/odorex-men-fresh-protection-3-in-1-showergel/p/6056405",
   "listName": "Lister",
   "brand": "Odorex",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "300ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/hb1/h92/44328609710110/prd-front-6056405-1_600x600/prd-front-6056405-1-600x600.jpg"
+  "description": "300ml - Normale huid"
 }

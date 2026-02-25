@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Lumi Le Liquid 640 Rouge Paris Blush",
   "code": "6235948",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5687",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1062011",
+  "mmkId": "1062011",
+  "productGroupId": "526378",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,00",
   "url": "/loreal-paris-lumi-le-liquid-640-rouge-paris-blush/p/6235948",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf3/h2a/44484951474206/prd-front-6235948-1_600x600/prd-front-6235948-1-600x600.jpg"
 }

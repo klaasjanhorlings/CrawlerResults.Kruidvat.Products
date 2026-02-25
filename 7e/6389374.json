@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Zenner Shampoobar Houder",
+  "itemName": "Zenner Shampoobarhouder",
   "code": "6389374",
   "price": "4.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/zenner-shampoobar-houder/p/6389374",
+  "url": "/zenner-shampoobarhouder/p/6389374",
   "listName": "Lister",
   "brand": "Zenner",
   "mpOrigin": "Kruidvat",
@@ -29,6 +29,5 @@
       "name": "Bad- en doucheaccessoires"
     }
   ],
-  "description": "",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": ""
 }

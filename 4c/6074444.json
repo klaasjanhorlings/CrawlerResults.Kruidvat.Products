@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "TRADE SENSE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061707",
   "mmkId": "1061707",
   "productGroupId": "509900",
@@ -29,8 +29,8 @@
       "name": "Bad- en doucheproducten"
     },
     {
-      "id": 30266648,
-      "name": "Douchegel"
+      "id": 30266655,
+      "name": "Badschuim"
     }
   ],
   "description": "500ml",

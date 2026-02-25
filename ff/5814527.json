@@ -25,10 +25,13 @@
       "name": "Verzorging"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
     }
   ],
-  "description": "20ml - Whitening",
-  "image": "/medias/sys_master/prd-images/h51/h66/35121898717214/prd-front-5814527-1_600x600/prd-front-5814527-1-600x600.jpg"
+  "description": "20ml - Whitening"
 }

@@ -21,21 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266078,
-      "name": "Wonen"
+      "id": 29536085,
+      "name": "Elektronica"
     },
     {
-      "id": 57225448,
-      "name": "Slapen"
-    },
-    {
-      "id": 57225738,
-      "name": "Dekens"
-    },
-    {
-      "id": 57225822,
-      "name": "Elektrische dekens"
+      "id": 51235484,
+      "name": "Kachels"
     }
   ],
-  "description": "160cm x 140cm"
+  "description": "160cm x 140cm",
+  "image": "/medias/sys_master/prd-images/hf5/hec/31776679264286/prd-front-6154076-1_600x600/prd-front-6154076-1-600x600.jpg"
 }

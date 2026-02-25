@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Highwaist Maxi Shapewear Damesslip",
   "code": "6327277",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Damesondergoed"
     }
   ],
-  "description": "bruin, mt L"
+  "description": "bruin, mt L",
+  "image": "/medias/sys_master/prd-images/h71/h3f/44390533791774/prd-front-6327277-1_600x600/prd-front-6327277-1-600x600.jpg"
 }

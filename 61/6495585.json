@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061999",
+  "mmkId": "1061999",
+  "productGroupId": "524003",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/medela-in-bra-breast-milk-collector/p/6495585",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h0b/h3c/47265520680990/temp-prd-front-6495585-1_600x600/temp-prd-front-6495585-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hba/h29/47307094327326/temp-prd-front-6495585-1_600x600/temp-prd-front-6495585-1-600x600.jpg"
 }
