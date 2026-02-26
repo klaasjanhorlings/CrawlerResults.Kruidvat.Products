@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "True Spirit Weekendtas met Paisley-print",
   "code": "6412747",
-  "price": "6.49",
-  "priceOriginal": "12.99",
+  "price": "12.99",
+  "priceOriginal": "",
   "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
   "supplier": "MUNDIA BV",
   "inStock": "inStock",
-  "onPromo": "1061998",
-  "mmkId": "1061998",
-  "productGroupId": "523971",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
-  "discount": "$ 6,50",
+  "discount": "",
   "url": "/true-spirit-weekendtas-met-paisley-print/p/6412747",
   "listName": "Lister",
   "brand": "Truespirit",
@@ -37,6 +37,5 @@
       "name": "Shopper"
     }
   ],
-  "description": "roze, 56cm x 38cm x 18cm",
-  "image": "/medias/sys_master/prd-images/h42/hdf/44682228826142/prd-front-6412747-1_600x600/prd-front-6412747-1-600x600.jpg"
+  "description": "roze, 56cm x 38cm x 18cm"
 }

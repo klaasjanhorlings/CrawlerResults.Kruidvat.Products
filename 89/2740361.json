@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Olia 6.60 Intens Rood Permanente Crèmekleuring",
   "code": "2740361",
-  "price": "16.99",
-  "priceOriginal": "",
+  "price": "10.0",
+  "priceOriginal": "16.99",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4044",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1062002",
-  "mmkId": "1062002",
-  "productGroupId": "524160",
+  "onPromo": "1061743",
+  "mmkId": "1061743",
+  "productGroupId": "512090",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,99",
   "url": "/garnier-olia-660-intens-rood-permanente-cremekleuring/p/2740361",
   "listName": "Lister",
   "brand": "Olia",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hca/h32/33359866069022/prd-front-2740361-1_600x600/prd-front-2740361-1-600x600.jpg"
+  "description": ""
 }

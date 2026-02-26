@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3042 > 3893",
   "supplier": "ESSITY NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1010662",
   "mmkId": "1010662",
   "productGroupId": "242521",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 2"
     }
   ],
-  "description": "mt 2 (3-6 kg), 186 stuks"
+  "description": "mt 2 (3-6 kg), 186 stuks",
+  "image": "/medias/sys_master/prd-images/h87/hd3/46000740499486/temp-prd-front-5662084-1_600x600/temp-prd-front-5662084-1-600x600.jpg"
 }

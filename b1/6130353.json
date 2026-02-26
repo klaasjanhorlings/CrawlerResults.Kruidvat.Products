@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NYX Professional Makeup 05 Link In My Bio Fat Oil Slick Click",
   "code": "6130353",
-  "price": "8.99",
-  "priceOriginal": "10.95",
+  "price": "10.95",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1062012",
-  "mmkId": "1062012",
-  "productGroupId": "526379",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 1,96",
+  "discount": "",
   "url": "/nyx-professional-makeup-05-link-in-my-bio-fat-oil-slick-click/p/6130353",
   "listName": "Lister",
   "brand": "NYX Professional Makeup",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "2g"
+  "description": "2g",
+  "image": "/medias/sys_master/prd-images/hb0/h2c/31924620591134/prd-front-6130353-1_600x600/prd-front-6130353-1-600x600.jpg"
 }

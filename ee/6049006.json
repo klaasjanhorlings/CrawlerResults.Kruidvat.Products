@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Finish Powerball All-in-1 Power Vaatwastabletten",
   "code": "6049006",
-  "price": "33.99",
+  "price": "34.99",
   "priceOriginal": "99.99",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 3011 > 3836",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "1061995",
-  "mmkId": "1061995",
-  "productGroupId": "523180",
+  "onPromo": "1061535",
+  "mmkId": "1061535",
+  "productGroupId": "509495",
   "brandType": "A of B merk",
-  "discount": "€ 66,00",
+  "discount": "€ 65,00",
   "url": "/finish-powerball-all-in-1-power-vaatwastabletten/p/6049006",
   "listName": "Lister",
   "brand": "Finish",
@@ -33,5 +33,6 @@
       "name": "Vaatwastabletten"
     }
   ],
-  "description": "272 stuks"
+  "description": "272 stuks",
+  "image": "/medias/sys_master/prd-images/hff/h79/31642796916766/prd-front-6049006-1_600x600/prd-front-6049006-1-600x600.jpg"
 }

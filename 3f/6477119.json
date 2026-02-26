@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2232 > 5177 > 5271 > 5460 > 5921 > 6040",
   "supplier": "MATTEL EUROPA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Poppen en knuffels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc4/hd8/45250028666910/prd-front-6477119-1_600x600/prd-front-6477119-1-600x600.jpg"
+  "description": ""
 }

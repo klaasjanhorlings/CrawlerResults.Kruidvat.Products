@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061917",
   "mmkId": "1061917",
   "productGroupId": "522481",
@@ -33,5 +33,6 @@
       "name": "LEGO Bloemen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb4/h26/45712006578206/temp-prd-front-6427496-1_600x600/temp-prd-front-6427496-1-600x600.jpg"
 }

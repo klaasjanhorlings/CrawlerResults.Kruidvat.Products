@@ -7,7 +7,7 @@
   "priceOriginal": "20.79",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
   "supplier": "WILKINSON SWORD GMBH",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061829",
   "mmkId": "1061829",
   "productGroupId": "519256",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/h2e/h53/47303586283550/temp-prd-front-6372077-1_600x600/temp-prd-front-6372077-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha0/hff/47352591417374/temp-prd-front-6372077-1_600x600/temp-prd-front-6372077-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Multi A-Z Framboos Tabletten voor Kinderen",
   "code": "2927310",
-  "price": "2.09",
-  "priceOriginal": "2.99",
+  "price": "2.99",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6195 > 6213 > 6243",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1061975",
-  "mmkId": "1061975",
-  "productGroupId": "517624",
+  "onPromo": "1061819",
+  "mmkId": "1061819",
+  "productGroupId": "519073",
   "brandType": "Eigen merk",
-  "discount": "€ 0,90",
+  "discount": "",
   "url": "/kruidvat-multi-a-z-framboos-tabletten-voor-kinderen/p/2927310",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -37,6 +37,5 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "60 stuks",
-  "image": "/medias/sys_master/prd-images/h2e/hbd/44438726180894/prd-front-2927310-1_600x600/prd-front-2927310-1-600x600.jpg"
+  "description": "60 stuks"
 }

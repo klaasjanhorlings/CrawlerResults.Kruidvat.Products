@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "True Spirit Jacquard Tas met Bloemenprint",
   "code": "6384579",
-  "price": "3.99",
-  "priceOriginal": "7.99",
+  "price": "7.99",
+  "priceOriginal": "",
   "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "inStock",
-  "onPromo": "1061998",
-  "mmkId": "1061998",
-  "productGroupId": "523971",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
-  "discount": "$ 4,00",
+  "discount": "",
   "url": "/true-spirit-jacquard-tas-met-bloemenprint/p/6384579",
   "listName": "Lister",
   "brand": "Truespirit",
@@ -37,5 +37,6 @@
       "name": "Shopper"
     }
   ],
-  "description": "zwart, 45cm x 18cm x 30cm"
+  "description": "zwart, 45cm x 18cm x 30cm",
+  "image": "/medias/sys_master/prd-images/hc6/h2d/44329315827742/prd-front-6384579-1_600x600/prd-front-6384579-1-600x600.jpg"
 }

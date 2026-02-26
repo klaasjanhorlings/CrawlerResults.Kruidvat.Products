@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Q10 Power Sensitive Anti-Rimpel Dagcrème",
   "code": "4460842",
-  "price": "25.99",
-  "priceOriginal": "",
+  "price": "11.99",
+  "priceOriginal": "25.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1061738",
-  "mmkId": "1061738",
-  "productGroupId": "511500",
+  "onPromo": "1062032",
+  "mmkId": "1062032",
+  "productGroupId": "519904",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 14,00",
   "url": "/nivea-q10-power-sensitive-anti-rimpel-dagcreme/p/4460842",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml - Gevoelige huid"
+  "description": "50ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h99/he7/45028698357790/prd-front-4460842-1_600x600/prd-front-4460842-1-600x600.jpg"
 }

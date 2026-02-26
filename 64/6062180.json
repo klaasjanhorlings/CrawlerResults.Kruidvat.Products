@@ -7,7 +7,7 @@
   "priceOriginal": "4.99",
   "itemBgbcat": "2007 > 2068 > 2194 > 2411 > 2942 > 3736",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061280",
   "mmkId": "1061280",
   "productGroupId": "510234",
@@ -29,6 +29,5 @@
       "name": "Afwasmiddel"
     }
   ],
-  "description": "450ml",
-  "image": "/medias/sys_master/prd-images/hef/h04/31232518062110/prd-front-6062180-1_600x600/prd-front-6062180-1-600x600.jpg"
+  "description": "450ml"
 }

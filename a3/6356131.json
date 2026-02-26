@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
-  "onPromo": "1062014",
-  "mmkId": "1062014",
-  "productGroupId": "527396",
+  "inStock": "outOfStock",
+  "onPromo": "1061734",
+  "mmkId": "1061734",
+  "productGroupId": "511290",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/fa-energising-oriental-neroli-shower-cream-foam-bath/p/6356131",
@@ -33,5 +33,6 @@
       "name": "Douchegel"
     }
   ],
-  "description": "750ml"
+  "description": "750ml",
+  "image": "/medias/sys_master/prd-images/hda/h40/34794058743838/prd-front-6356131-1_600x600/prd-front-6356131-1-600x600.jpg"
 }

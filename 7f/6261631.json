@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
-  "onPromo": "1062007",
-  "mmkId": "1062007",
-  "productGroupId": "525151",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/gillette-venus-smooth-sensitive-scheermesjes/p/6261631",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": "4 stuks"
+  "description": "4 stuks",
+  "image": "/medias/sys_master/prd-images/hed/hf6/33504808927262/prd-front-6261631-1_600x600/prd-front-6261631-1-600x600.jpg"
 }

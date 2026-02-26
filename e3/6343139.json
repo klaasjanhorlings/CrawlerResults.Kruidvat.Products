@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6040",
   "supplier": "CLEMENTONI SPA",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,6 +29,5 @@
       "name": "Puzzels"
     }
   ],
-  "description": "2 x 60 stukjes",
-  "image": "/medias/sys_master/prd-images/hdd/hb2/44131148791838/prd-front-6343139-1_600x600/prd-front-6343139-1-600x600.jpg"
+  "description": "2 x 60 stukjes"
 }

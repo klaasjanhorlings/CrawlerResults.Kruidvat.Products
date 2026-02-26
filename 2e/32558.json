@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2084 > 2246 > 2625 > 2744 > 4080",
   "supplier": "JACOBS DOUWE EGBERTS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -21,11 +21,15 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266076,
-      "name": "Eten en drinken"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 30266888,
+      "id": 30266009,
+      "name": "Verantwoorde voeding"
+    },
+    {
+      "id": 30266744,
       "name": "Zoetstoffen"
     }
   ],
