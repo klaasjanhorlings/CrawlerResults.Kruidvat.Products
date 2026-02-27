@@ -21,12 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536081,
-      "name": "Speelgoed"
+      "id": 29536082,
+      "name": "Fashion"
     },
     {
-      "id": 90170187,
-      "name": "Puzzels"
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    },
+    {
+      "id": 101713392,
+      "name": "Shopper"
     }
   ],
   "description": "fuchsia, 45cm x 12cm x 35cm"

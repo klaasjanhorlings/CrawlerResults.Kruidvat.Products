@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Drs Leenarts Herstellende Bodycrème",
   "code": "5758565",
-  "price": "12.37",
-  "priceOriginal": "16.49",
+  "price": "12.74",
+  "priceOriginal": "16.99",
   "itemBgbcat": "2002 > 6760 > 6762 > 6761 > 6759 > 6758",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1061778",
   "productGroupId": "514798",
   "brandType": "A of B merk",
-  "discount": "€ 4,12",
+  "discount": "€ 4,25",
   "url": "/drs-leenarts-herstellende-bodycreme/p/5758565",
   "listName": "Lister",
   "brand": "Drs Leenarts",
@@ -33,6 +33,5 @@
       "name": "Bodycremes"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/hf9/h92/33466548092958/prd-front-5758565-1_600x600/prd-front-5758565-1-600x600.jpg"
+  "description": "200ml"
 }

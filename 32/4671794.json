@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061761",
   "mmkId": "1061761",
   "productGroupId": "512729",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "400ml",
-  "image": "/medias/sys_master/prd-images/ha4/h94/47035709751326/temp-prd-front-4671794-1_600x600/temp-prd-front-4671794-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc7/h96/47449193119774/temp-prd-front-4671794-1_600x600/temp-prd-front-4671794-1-600x600.jpg"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "38.99",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061949",
   "mmkId": "1061949",
   "productGroupId": "533057",
@@ -33,5 +33,6 @@
       "name": "Zonnebrand"
     }
   ],
-  "description": "400ml"
+  "description": "400ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/he6/h63/34395626733598/prd-front-4059504-1_600x600/prd-front-4059504-1-600x600.jpg"
 }

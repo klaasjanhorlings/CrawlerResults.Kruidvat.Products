@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2516 > 3131 > 3996 > 2205",
   "supplier": "CEDO HOUSEHOLD PRODUCTS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,12 +29,8 @@
       "name": "Intieme verzorging"
     },
     {
-      "id": 30266660,
-      "name": "Incontinentie"
-    },
-    {
-      "id": 30266922,
-      "name": "Incontinentie-inlegkruisjes"
+      "id": 30266665,
+      "name": "Intieme hygiëne"
     }
   ],
   "description": "50 stuks",

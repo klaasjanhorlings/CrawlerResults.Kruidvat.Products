@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "CeraVe Geconcentreerde Anti-Onzuiverheden Verzorging",
   "code": "6304737",
-  "price": "17.35",
+  "price": "17.45",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "LOREAL NED B.V.",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/hc2/hac/35123263078430/prd-front-6304737-1_600x600/prd-front-6304737-1-600x600.jpg"
 }

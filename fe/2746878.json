@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 5730 > 3875",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061750",
   "mmkId": "1061750",
   "productGroupId": "512336",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h85/h2e/34393456050206/prd-front-2746878-1_600x600/prd-front-2746878-1-600x600.jpg"
+  "description": "150ml - Alle huidtypen"
 }

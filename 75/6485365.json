@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO The Botanical Collection 11502 Boeket met Zonnebloemen",
+  "code": "6485365",
+  "price": "54.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-the-botanical-collection-11502-boeket-met-zonnebloemen/p/6485365",
+  "listName": "Lister",
+  "brand": "LEGO Botanicals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69043063,
+      "name": "LEGO Bloemen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcf/h17/47126604218398/temp-prd-front-6485365-1_600x600/temp-prd-front-6485365-1-600x600.jpg"
+}

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Drs Leenarts Baby Wascrème",
   "code": "5894159",
-  "price": "8.24",
-  "priceOriginal": "10.99",
+  "price": "8.62",
+  "priceOriginal": "11.49",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1061778",
   "productGroupId": "514798",
   "brandType": "A of B merk",
-  "discount": "€ 2,75",
+  "discount": "€ 2,87",
   "url": "/drs-leenarts-baby-wascreme/p/5894159",
   "listName": "Lister",
   "brand": "Drs Leenarts",
@@ -21,20 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30266016,
-      "name": "Babyverzorging"
-    },
-    {
-      "id": 30266777,
-      "name": "Baby bad- en doucheverzorging"
-    },
-    {
-      "id": 30267021,
-      "name": "Babywasgel"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "125ml",

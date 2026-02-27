@@ -7,7 +7,7 @@
   "priceOriginal": "23.9",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "ORIEN TRADE OU",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061688",
   "mmkId": "1061688",
   "productGroupId": "508224",
@@ -25,16 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
+      "id": 73443590,
+      "name": "Korean Beauty"
     },
     {
-      "id": 30266605,
-      "name": "Serum"
+      "id": 73443650,
+      "name": "Korean Skincare"
     },
     {
-      "id": 87370060,
-      "name": "Gezichtsserum"
+      "id": 90760960,
+      "name": "Korean serum"
     }
   ],
   "description": "30ml",

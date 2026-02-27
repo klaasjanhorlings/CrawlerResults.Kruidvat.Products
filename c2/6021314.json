@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "KENVUE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061740",
   "mmkId": "1061740",
   "productGroupId": "511817",
@@ -25,8 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "50ml - Onzuivere huid",

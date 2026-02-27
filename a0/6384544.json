@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
   "supplier": "AS WATSON (TRAD.HK LIM)",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Shopper"
     }
   ],
-  "description": "zwart, 31cm x 19cm x 30cm"
+  "description": "zwart, 31cm x 19cm x 30cm",
+  "image": "/medias/sys_master/prd-images/he2/had/44632060821534/prd-front-6384544-1_600x600/prd-front-6384544-1-600x600.jpg"
 }

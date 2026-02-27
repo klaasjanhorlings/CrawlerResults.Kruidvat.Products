@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pampers Baby-Dry Maat 3 Luiers",
+  "code": "6474942",
+  "price": "34.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
+  "supplier": "PROCTER&GAMBLE(P) NL BV",
+  "inStock": "inStock",
+  "onPromo": "1062821",
+  "mmkId": "1062821",
+  "productGroupId": "519488",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pampers-baby-dry-maat-3-luiers/p/6474942",
+  "listName": "Lister",
+  "brand": "Pampers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266017,
+      "name": "Luiers"
+    },
+    {
+      "id": 30266786,
+      "name": "Luiers maat 3"
+    }
+  ],
+  "description": "mt 3 (6-10kg), 84 stuks",
+  "image": "/medias/sys_master/prd-images/he7/h92/46520993546270/temp-prd-front-6474942-1_600x600/temp-prd-front-6474942-1-600x600.jpg"
+}

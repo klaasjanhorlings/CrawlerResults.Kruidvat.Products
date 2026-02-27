@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,5 +37,6 @@
       "name": "Shopper"
     }
   ],
-  "description": "roze, 56cm x 38cm x 18cm"
+  "description": "roze, 56cm x 38cm x 18cm",
+  "image": "/medias/sys_master/prd-images/h42/hdf/44682228826142/prd-front-6412747-1_600x600/prd-front-6412747-1-600x600.jpg"
 }

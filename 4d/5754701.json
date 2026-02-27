@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "Drs Leenarts Salicylzuur 2% Gel",
   "code": "5754701",
-  "price": "10.49",
-  "priceOriginal": "13.99",
+  "price": "10.87",
+  "priceOriginal": "14.49",
   "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
   "supplier": "DR LEENARTS BV",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1061778",
   "productGroupId": "514798",
   "brandType": "A of B merk",
-  "discount": "€ 3,50",
+  "discount": "€ 3,62",
   "url": "/drs-leenarts-salicylzuur-2-gel/p/5754701",
   "listName": "Lister",
   "brand": "Drs Leenarts",
@@ -25,8 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266915,
+      "name": "Reinigingsgel"
     }
   ],
   "description": "50ml",

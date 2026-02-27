@@ -25,14 +25,17 @@
       "name": "Gezondheid"
     },
     {
-      "id": 48220663,
-      "name": "Voetongemakken"
+      "id": 30266008,
+      "name": "Wondverzorging"
     },
     {
-      "id": 48220902,
-      "name": "Blaren"
+      "id": 30266739,
+      "name": "Pleisters"
+    },
+    {
+      "id": 111697443,
+      "name": "Hydrocolloïde pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 6 stuks",
-  "image": "/medias/sys_master/prd-images/hcb/hd8/44937932341278/prd-front-5388069-1_600x600/prd-front-5388069-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 6 stuks"
 }
