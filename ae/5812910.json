@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 4338 > 4337",
   "supplier": "CAMPS FOOD BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "17g",
-  "image": "/medias/prd-front-5812910-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjY1MTV8aW1hZ2UvanBlZ3xhRFV6TDJnNU1TOHhOelV5Tmpnek16WTBNelUxTUM5d2NtUXRabkp2Ym5RdE5UZ3hNamt4TUMweFh6WXdNSGcyTURBfDI4YTc1MTAwMmUzMjQyZjQ0YWZlNGQwOWQ5ZWIwOTQ4MDM1Mjk5ZWY5YWMzOTg3NWNkZWI2NTNkNzc1NzcwYzA"
+  "description": "17g"
 }

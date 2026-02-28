@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 6459 > 6460 > 6784",
   "supplier": "DELIA COSMETICS SP ZOO",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 48220663,
-      "name": "Voetongemakken"
+      "id": 101912253,
+      "name": "Voetverzorging"
     },
     {
-      "id": 49316183,
-      "name": "Voetkloven"
+      "id": 48220898,
+      "name": "Voetcreme"
     }
   ],
   "description": "75ml",

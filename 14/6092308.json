@@ -21,17 +21,14 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536080,
+      "name": "Baby"
     },
     {
-      "id": 30266007,
-      "name": "Voedingssupplementen"
-    },
-    {
-      "id": 49793273,
-      "name": "Visolie"
+      "id": 75860460,
+      "name": "Baby en Kind gezondheid"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h10/h95/30937121161246/prd-front-6092308-1_600x600/prd-front-6092308-1-600x600.jpg"
 }

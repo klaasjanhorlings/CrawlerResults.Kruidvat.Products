@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061684",
+  "mmkId": "1061684",
+  "productGroupId": "508012",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-zen-white-lotus-shower-flower/p/6311135",
@@ -33,5 +33,6 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h70/h16/34238421729310/prd-front-6311135-1_600x600/prd-front-6311135-1-600x600.jpg"
 }

@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Pampers Harmonie Maat 4 Luiers",
   "code": "6262163",
-  "price": "52.49",
+  "price": "0.0",
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "Maat 4 (9-14kg), 78 stuks",
-  "image": "/medias/sys_master/prd-images/hb7/h20/34794540302366/prd-front-6262163-1_600x600/prd-front-6262163-1-600x600.jpg"
+  "description": "Maat 4 (9-14kg), 78 stuks"
 }
