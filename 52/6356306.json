@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061917",
   "mmkId": "1061917",
   "productGroupId": "522481",
@@ -33,5 +33,6 @@
       "name": "LEGO Films en series"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd7/ha1/44295362281502/prd-front-6356306-1_600x600/prd-front-6356306-1-600x600.jpg"
 }

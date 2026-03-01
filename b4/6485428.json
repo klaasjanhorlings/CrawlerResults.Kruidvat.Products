@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Editions-sets 43019 Voetbal",
+  "code": "6485428",
+  "price": "109.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-editions-sets-43019-voetbal/p/6485428",
+  "listName": "Lister",
+  "brand": "LEGO SPEC. EDITION",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266811,
+      "name": "LEGO Classic"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h87/hd3/47134412701726/temp-prd-front-6485428-1_600x600/temp-prd-front-6485428-1-600x600.jpg"
+}
