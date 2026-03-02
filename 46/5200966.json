@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2535 > 2979 > 3805",
   "supplier": "SANATURE OPERATIONS B.V.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062345",
+  "mmkId": "1062345",
+  "productGroupId": "534756",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cotton-normal-inlegkruisjes/p/5200966",
@@ -33,5 +33,6 @@
       "name": "Inlegkruisjes"
     }
   ],
-  "description": "24 stuks"
+  "description": "24 stuks",
+  "image": "/medias/sys_master/prd-images/h0d/h4b/45782374350878/temp-prd-front-5200966-1_600x600/temp-prd-front-5200966-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Ninjago 30723 Cole's Car",
+  "code": "6450029",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1061235",
+  "mmkId": "1061235",
+  "productGroupId": "518059",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-ninjago-30723-coles-car/p/6450029",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266812,
+      "name": "LEGO Ninjago"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h76/hcc/45126189744158/prd-front-6450029-1_600x600/prd-front-6450029-1-600x600.jpg"
+}

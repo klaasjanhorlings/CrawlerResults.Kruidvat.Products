@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Discreet Protection Men Incontinentieverband",
   "code": "3060807",
-  "price": "4.49",
-  "priceOriginal": "",
+  "price": "2.24",
+  "priceOriginal": "4.49",
   "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
   "supplier": "ONTEX BVBA",
   "inStock": "inStock",
-  "onPromo": "1059753",
-  "mmkId": "1059753",
-  "productGroupId": "530782",
+  "onPromo": "1062076",
+  "mmkId": "1062076",
+  "productGroupId": "517872",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 2,25",
   "url": "/kruidvat-discreet-protection-men-incontinentieverband/p/3060807",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 10 stuks",
-  "image": "/medias/sys_master/prd-images/hfb/h51/47500491391006/temp-prd-front-3060807-1_600x600/temp-prd-front-3060807-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h89/hab/47542901768222/temp-prd-front-3060807-1_600x600/temp-prd-front-3060807-1-600x600.jpg"
 }

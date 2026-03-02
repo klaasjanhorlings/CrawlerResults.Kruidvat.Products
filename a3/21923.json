@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Psylliumvezels",
   "code": "21923",
-  "price": "5.59",
-  "priceOriginal": "",
+  "price": "4.19",
+  "priceOriginal": "5.59",
   "itemBgbcat": "2006 > 5048 > 2280 > 6196 > 6214 > 6248",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1062086",
+  "mmkId": "1062086",
+  "productGroupId": "525551",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 1,40",
   "url": "/kruidvat-psylliumvezels/p/21923",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Spijsvertering"
     }
   ],
-  "description": "125g"
+  "description": "125g",
+  "image": "/medias/sys_master/prd-images/hfb/ha4/47412119863326/temp-prd-front-21923-1_600x600/temp-prd-front-21923-1-600x600.jpg"
 }
