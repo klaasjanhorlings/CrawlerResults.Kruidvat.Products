@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Bioré Aqua Rich Uv SPF 30 Weightless Moisturiser",
   "code": "5933247",
   "price": "22.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3542",
   "supplier": "GUHL IKEBANA COSMETICS",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061686",
   "mmkId": "1061686",
   "productGroupId": "508105",
@@ -25,12 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266602,
-      "name": "Dagcreme"
+      "id": 128509570,
+      "name": "Japanese Beauty"
     }
   ],
   "description": "",

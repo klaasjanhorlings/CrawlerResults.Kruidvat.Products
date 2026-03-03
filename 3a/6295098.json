@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Beauty of Joseon Glow Replenishing Rice Milk Toner",
   "code": "6295098",
   "price": "15.67",
@@ -12,7 +12,7 @@
   "mmkId": "1061688",
   "productGroupId": "508224",
   "brandType": "A of B merk",
-  "discount": "€ 5,23",
+  "discount": "$ 5,23",
   "url": "/beauty-of-joseon-glow-replenishing-rice-milk-toner/p/6295098",
   "listName": "Lister",
   "brand": "BEAUTY OF JOSEON",
@@ -41,6 +41,5 @@
       "name": "Korean toner"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/ha6/h9a/34533224185886/prd-front-6295098-1_600x600/prd-front-6295098-1-600x600.jpg"
+  "description": "150ml"
 }

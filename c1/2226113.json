@@ -5,7 +5,7 @@
   "code": "2226113",
   "price": "11.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6144 > 6143",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
   "onPromo": "1061771",
@@ -29,9 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266586,
-      "name": "Eyeliner"
+      "id": 30266585,
+      "name": "Oogpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb1/h18/44652929810462/prd-front-2226113-1_600x600/prd-front-2226113-1-600x600.jpg"
 }

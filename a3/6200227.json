@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cosrx AHA 7 Whitehead Power Liquid",
+  "code": "6200227",
+  "price": "15.75",
+  "priceOriginal": "21.0",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
+  "supplier": "ORIEN TRADE OU",
+  "inStock": "inStock",
+  "onPromo": "1061688",
+  "mmkId": "1061688",
+  "productGroupId": "508224",
+  "brandType": "A of B merk",
+  "discount": "€ 5,25",
+  "url": "/cosrx-aha-7-whitehead-power-liquid/p/6200227",
+  "listName": "Lister",
+  "brand": "COSRX",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266919,
+      "name": "Reinigingstonic"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h26/h32/32247716904990/prd-front-6200227-1_600x600/prd-front-6200227-1-600x600.jpg"
+}

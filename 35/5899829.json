@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris True Match Nude 1-2 Rosy Light Plumping Tinted Serum",
   "code": "5899829",
   "price": "12.49",
@@ -12,7 +12,7 @@
   "mmkId": "1061772",
   "productGroupId": "513882",
   "brandType": "A of B merk",
-  "discount": "€ 12,50",
+  "discount": "$ 12,50",
   "url": "/loreal-paris-true-match-nude-1-2-rosy-light-plumping-tinted-serum/p/5899829",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd6/h21/44314353664030/prd-front-5899829-1_600x600/prd-front-5899829-1-600x600.jpg"
 }

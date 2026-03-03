@@ -25,18 +25,13 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 48220663,
+      "name": "Voetongemakken"
     },
     {
-      "id": 30266699,
-      "name": "Huidbehandeling"
-    },
-    {
-      "id": 30266942,
-      "name": "Wrattenbehandeling"
+      "id": 101911637,
+      "name": "Voetwratten"
     }
   ],
-  "description": "Medisch hulpmiddel - 50ml",
-  "image": "/medias/sys_master/prd-images/h81/h50/32428011651102/prd-front-3531557-1_600x600/prd-front-3531557-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 50ml"
 }

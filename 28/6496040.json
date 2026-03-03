@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "GilletteLabs Body + Intimate Scheersysteem",
   "code": "6496040",
-  "price": "15.0",
-  "priceOriginal": "24.99",
+  "price": "24.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3880 > 5722",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1061825",
-  "mmkId": "1061825",
-  "productGroupId": "519229",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 9,99",
+  "discount": "",
   "url": "/gillettelabs-body-intimate-scheersysteem/p/6496040",
   "listName": "Lister",
   "brand": "Gillette",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h3e/hd9/47560857255966/temp-prd-front-6496040-1_600x600/temp-prd-front-6496040-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h69/hbe/47611334983710/temp-prd-front-6496040-1_600x600/temp-prd-front-6496040-1-600x600.jpg"
 }

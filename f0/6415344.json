@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "e.l.f. Camo 10.5 Liquid Bronzer & Contour",
   "code": "6415344",
   "price": "9.0",
@@ -33,6 +33,5 @@
       "name": "Contour"
     }
   ],
-  "description": "4ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "4ml"
 }

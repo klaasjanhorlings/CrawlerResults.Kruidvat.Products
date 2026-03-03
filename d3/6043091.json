@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nip + Fab Barrier Ceramide Fix 12% Serum",
+  "code": "6043091",
+  "price": "34.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
+  "supplier": "NIP + FAB",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nip-fab-barrier-ceramide-fix-12-serum/p/6043091",
+  "listName": "Lister",
+  "brand": "NIP+FAB",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
+    }
+  ],
+  "description": "50ml, rijpe huid",
+  "image": "/medias/sys_master/prd-images/h6c/h35/30115187654686/prd-front-6043091-1_600x600/prd-front-6043091-1-600x600.jpg"
+}

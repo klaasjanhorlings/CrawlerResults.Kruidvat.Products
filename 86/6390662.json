@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 6575 > 6576 > 6577",
   "supplier": "PK BENELUX BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061732",
   "mmkId": "1061732",
   "productGroupId": "511231",
@@ -25,8 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 67784836,
+      "name": "Gezondheidsapparatuur"
+    },
+    {
+      "id": 84926695,
+      "name": "Gehoorapparaten"
     }
   ],
   "description": "Medisch hulpmiddel",

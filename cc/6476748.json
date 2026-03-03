@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1061768",
+  "mmkId": "1061768",
+  "productGroupId": "513425",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/pampers-99-water-babydoekjes/p/6476748",
@@ -29,5 +29,6 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h2f/hcd/47468743720990/temp-prd-front-6476748-1_600x600/temp-prd-front-6476748-1-600x600.jpg"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ferrero Confetteria Raffaello",
+  "code": "1448357",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2526 > 3147 > 4015",
+  "supplier": "FERRERO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ferrero-confetteria-raffaello/p/1448357",
+  "listName": "Lister",
+  "brand": "Raffaello",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464836,
+      "name": "Bonbons en pralines"
+    }
+  ],
+  "description": "230g",
+  "image": "/medias/prd-front-1448357-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Nzg1OTF8aW1hZ2UvanBlZ3xhR00zTDJnM1lTOHlOamc0TkRrM05EZ3pOemM1TUM5d2NtUXRabkp2Ym5RdE1UUTBPRE0xTnkweFh6WXdNSGcyTURBfDIyNjE1ZTYwZTQwMjMxOTBhMDJlMzc0MGJjZjU2OTA2YmM2YWZiZWJkYjQ3MTdlNWE4MmQzMzNkMTYzNTRkOGU"
+}

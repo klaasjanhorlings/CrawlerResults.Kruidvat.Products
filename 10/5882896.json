@@ -25,10 +25,18 @@
       "name": "Gezondheid"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30266006,
+      "name": "Zelfzorg"
+    },
+    {
+      "id": 30266705,
+      "name": "Luchtwegen"
+    },
+    {
+      "id": 30266959,
+      "name": "Neusspray"
     }
   ],
   "description": "Medisch hulpmiddel - 10ml",
-  "image": "/medias/sys_master/prd-images/he0/h8e/47546030719006/temp-prd-front-5882896-1_600x600/temp-prd-front-5882896-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha5/h05/47615113920542/temp-prd-front-5882896-1_600x600/temp-prd-front-5882896-1-600x600.jpg"
 }
