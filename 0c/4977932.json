@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Versace Bright Crystal Eau de Toilette",
   "code": "4977932",
   "price": "41.21",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hf5/h00/34358030204958/prd-front-4977932-1_600x600/prd-front-4977932-1-600x600.jpg"
+  "description": "30ml"
 }

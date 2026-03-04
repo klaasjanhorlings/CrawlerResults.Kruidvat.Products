@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Aquafresh Freshmint Mini-Tandpasta",
+  "itemName": "Aquafresh Freshmint 3-In-1 Mini-Tandpasta",
   "code": "5613196",
   "price": "1.35",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/aquafresh-freshmint-mini-tandpasta/p/5613196",
+  "url": "/aquafresh-freshmint-3-in-1-mini-tandpasta/p/5613196",
   "listName": "Lister",
   "brand": "Aquafresh",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "15ml",
+  "description": "15ml - Frisse adem",
   "image": "/medias/sys_master/prd-images/ha1/ha8/47596374097950/temp-prd-front-5613196-1_600x600/temp-prd-front-5613196-1-600x600.jpg"
 }

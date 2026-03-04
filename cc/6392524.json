@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Voltaren Pleister",
+  "itemName": "Voltaren 140mg Diclofenacnatrium Pleister",
   "code": "6392524",
   "price": "9.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/voltaren-pleister/p/6392524",
+  "url": "/voltaren-140mg-diclofenacnatrium-pleister/p/6392524",
   "listName": "Lister",
   "brand": "Voltaren",
   "mpOrigin": "Kruidvat",
@@ -25,16 +25,8 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266706,
-      "name": "Pijn"
-    },
-    {
-      "id": 30266971,
-      "name": "Diclofenac"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
   "description": "Geneesmiddel - 2 stuks",

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Sensodyne Sensitivity & Gum Soft Tandenborstel",
+  "itemName": "Sensodyne Sensitivity & Gum Zachte Tandenborstel",
   "code": "5184180",
   "price": "4.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/sensodyne-sensitivity-gum-soft-tandenborstel/p/5184180",
+  "url": "/sensodyne-sensitivity-gum-zachte-tandenborstel/p/5184180",
   "listName": "Lister",
   "brand": "Sensodyne",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Tandenborstels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7b/hd5/47596367675422/temp-prd-front-5184180-1_600x600/temp-prd-front-5184180-1-600x600.jpg"
+  "description": "Gevoelige tanden",
+  "image": "/medias/sys_master/prd-images/h65/h0f/47636451262494/temp-prd-front-5184180-1_600x600/temp-prd-front-5184180-1-600x600.jpg"
 }

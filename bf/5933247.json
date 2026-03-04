@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Bioré Aqua Rich Uv SPF 30 Weightless Moisturiser",
   "code": "5933247",
   "price": "22.99",
@@ -25,8 +25,12 @@
       "name": "Beauty"
     },
     {
-      "id": 128509570,
-      "name": "Japanese Beauty"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266602,
+      "name": "Dagcreme"
     }
   ],
   "description": "",

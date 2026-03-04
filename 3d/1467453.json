@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Corega Fresh Cleanse Reinigingsmousse",
+  "itemName": "Corega Fresh Cleanse Kunstgebitreiniger",
   "code": "1467453",
   "price": "6.29",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "519355",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/corega-fresh-cleanse-reinigingsmousse/p/1467453",
+  "url": "/corega-fresh-cleanse-kunstgebitreiniger/p/1467453",
   "listName": "Lister",
   "brand": "Corega",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Mondverzorging"
     },
     {
-      "id": 30266672,
-      "name": "Kunstgebitreiniger"
+      "id": 30266673,
+      "name": "Kleefpasta"
     }
   ],
   "description": "Medisch hulpmiddel - 125ml",
-  "image": "/medias/sys_master/prd-images/h55/hd3/47605338636318/temp-prd-front-1467453-1_600x600/temp-prd-front-1467453-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h4d/hc6/47646612783134/temp-prd-front-1467453-1_600x600/temp-prd-front-1467453-1-600x600.jpg"
 }

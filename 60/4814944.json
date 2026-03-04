@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Corega Anti-bacterie Dagelijkse Reiniger Tabletten",
+  "itemName": "Corega Anti-bacterie Kunstgebitreiniger Tabletten",
   "code": "4814944",
   "price": "6.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "519355",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/corega-anti-bacterie-dagelijkse-reiniger-tabletten/p/4814944",
+  "url": "/corega-anti-bacterie-kunstgebitreiniger-tabletten/p/4814944",
   "listName": "Lister",
   "brand": "Corega",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 66 stuks",
-  "image": "/medias/sys_master/prd-images/h87/h6f/47580792717342/temp-prd-front-4814944-1_600x600/temp-prd-front-4814944-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hec/h6a/47629395689502/temp-prd-front-4814944-1_600x600/temp-prd-front-4814944-1-600x600.jpg"
 }
