@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3401",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1061761",
   "mmkId": "1061761",
   "productGroupId": "512729",
@@ -29,10 +29,10 @@
       "name": "Haarverzorging"
     },
     {
-      "id": 30266694,
-      "name": "Shampoo"
+      "id": 30266695,
+      "name": "Conditioner"
     }
   ],
   "description": "400ml",
-  "image": "/medias/sys_master/prd-images/hdd/h1e/47641101041694/temp-prd-front-4671794-1_600x600/temp-prd-front-4671794-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf0/h19/47689575727134/temp-prd-front-4671794-1_600x600/temp-prd-front-4671794-1-600x600.jpg"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062110",
+  "mmkId": "1062110",
+  "productGroupId": "520835",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-olia-gloss-maple-brown-getint-haarmasker/p/6485967",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h5b/h45/46214736216094/temp-prd-front-6485967-1_600x600/temp-prd-front-6485967-1-600x600.jpg"
+  "description": "150ml"
 }
