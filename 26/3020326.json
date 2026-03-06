@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Evian Facial Spray",
+  "code": "3020326",
+  "price": "9.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
+  "supplier": "LABORATOIRES SARBEC",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/evian-facial-spray/p/3020326",
+  "listName": "Lister",
+  "brand": "Evian",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266594,
+      "name": "Fixing sprays"
+    }
+  ],
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/had/ha3/47326707449886/temp-prd-front-3020326-1_600x600/temp-prd-front-3020326-1-600x600.jpg"
+}

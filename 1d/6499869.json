@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Braun All-in-One Series & MGK7540 11-in-1 Verzorgingsset",
+  "code": "6499869",
+  "price": "99.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 6441 > 6672 > 6673",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/braun-all-in-one-series-mgk7540-11-in-1-verzorgingsset/p/6499869",
+  "listName": "Lister",
+  "brand": "Braun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266684,
+      "name": "Multigroomers"
+    }
+  ],
+  "description": ""
+}
