@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Solait SPF50 Sunmilk",
+  "code": "1338730",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "DALLI - WERKE GMBH & CO",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-solait-spf50-sunmilk/p/1338730",
+  "listName": "Lister",
+  "brand": "Kruidvat Solait",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131889316,
+      "name": "Zonnebrand crème"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h2b/h5e/47321232113694/temp-prd-front-1338730-1_600x600/temp-prd-front-1338730-1-600x600.jpg"
+}

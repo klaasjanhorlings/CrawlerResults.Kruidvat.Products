@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Solait Kids SPF50+ Sun Milk",
+  "code": "6506659",
+  "price": "13.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "DERMCOS GMBH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-solait-kids-spf50-sun-milk/p/6506659",
+  "listName": "Lister",
+  "brand": "Kruidvat Solait",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131889316,
+      "name": "Zonnebrand crème"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h4a/h19/47786414014494/temp-prd-front-6506659-1_600x600/temp-prd-front-6506659-1-600x600.jpg"
+}

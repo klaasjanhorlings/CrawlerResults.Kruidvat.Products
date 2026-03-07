@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Protect & Hydrate SPF30 Zonnebrandspray",
+  "code": "4059469",
+  "price": "10.2",
+  "priceOriginal": "25.49",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1061949",
+  "mmkId": "1061949",
+  "productGroupId": "533057",
+  "brandType": "A of B merk",
+  "discount": "€ 15,29",
+  "url": "/nivea-sun-protect-hydrate-spf30-zonnebrandspray/p/4059469",
+  "listName": "Lister",
+  "brand": "Nivea Sun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131890081,
+      "name": "Zonnebrand spray"
+    }
+  ],
+  "description": "200ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/h3e/hd2/47786686775326/temp-prd-front-4059469-1_600x600/temp-prd-front-4059469-1-600x600.jpg"
+}

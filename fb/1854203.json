@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Protect & Bronze SPF30 Zonnebrandlotion",
+  "code": "1854203",
+  "price": "10.2",
+  "priceOriginal": "25.49",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "1061949",
+  "mmkId": "1061949",
+  "productGroupId": "533057",
+  "brandType": "A of B merk",
+  "discount": "€ 15,29",
+  "url": "/nivea-sun-protect-bronze-spf30-zonnebrandlotion/p/1854203",
+  "listName": "Lister",
+  "brand": "Nivea Sun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131889316,
+      "name": "Zonnebrand crème"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/ha9/h55/47782598737950/temp-prd-front-1854203-1_600x600/temp-prd-front-1854203-1-600x600.jpg"
+}

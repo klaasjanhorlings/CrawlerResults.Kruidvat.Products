@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Sun Sensitive Immediate Protect+ SPF50+ Zonnebrandspray",
+  "code": "4700963",
+  "price": "11.6",
+  "priceOriginal": "28.99",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "outOfStock",
+  "onPromo": "1061949",
+  "mmkId": "1061949",
+  "productGroupId": "533057",
+  "brandType": "A of B merk",
+  "discount": "€ 17,39",
+  "url": "/nivea-sun-sensitive-immediate-protect-spf50-zonnebrandspray/p/4700963",
+  "listName": "Lister",
+  "brand": "Nivea Sun",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131890081,
+      "name": "Zonnebrand spray"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h05/h4d/47786447994910/temp-prd-front-4700963-1_600x600/temp-prd-front-4700963-1-600x600.jpg"
+}

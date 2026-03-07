@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Solait Sensitive SPF50+ Sunmilk",
+  "code": "4330012",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "DERMCOS GMBH",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-solait-sensitive-spf50-sunmilk/p/4330012",
+  "listName": "Lister",
+  "brand": "Kruidvat Solait",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131889316,
+      "name": "Zonnebrand crème"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hcb/h21/47326803361822/temp-prd-front-4330012-1_600x600/temp-prd-front-4330012-1-600x600.jpg"
+}

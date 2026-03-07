@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 6471 > 6472",
   "supplier": "GEOCOS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061804",
   "mmkId": "1061804",
   "productGroupId": "518471",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 150ml",
-  "image": "/medias/sys_master/prd-images/hc3/h7f/47730162860062/temp-prd-front-5361238-1_600x600/temp-prd-front-5361238-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hca/h1a/47778454732830/temp-prd-front-5361238-1_600x600/temp-prd-front-5361238-1-600x600.jpg"
 }
