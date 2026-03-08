@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Houten Stapelregenboog",
+  "code": "6429127",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4640 > 5189 > 5365 > 5554 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/houten-stapelregenboog/p/6429127",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266036,
+      "name": "Houten speelgoed"
+    },
+    {
+      "id": 84925671,
+      "name": "Houten speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h14/h5c/44916124155934/prd-front-6429127-1_600x600/prd-front-6429127-1-600x600.jpg"
+}

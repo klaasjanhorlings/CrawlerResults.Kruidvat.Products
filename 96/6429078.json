@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Houten Blokkenset",
+  "code": "6429078",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "4640 > 5189 > 5365 > 5554 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/houten-blokkenset/p/6429078",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266036,
+      "name": "Houten speelgoed"
+    },
+    {
+      "id": 84925671,
+      "name": "Houten speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd5/hf1/44917607071774/prd-front-6429078-1_600x600/prd-front-6429078-1-600x600.jpg"
+}

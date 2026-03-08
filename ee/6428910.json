@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Een Huis Voor Harry - Leo Timmers Kinderboek",
-  "code": "6413426",
-  "price": "5.99",
+  "itemName": "Houten Leer de Tafels",
+  "code": "6428910",
+  "price": "3.99",
   "priceOriginal": "",
-  "itemBgbcat": "2092 > 2245 > 2343 > 2743 > 4868 > 6569",
-  "supplier": "BOOK & SERVICE BV",
+  "itemBgbcat": "4640 > 5189 > 5365 > 5554 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
-  "brandType": "Ander merk",
+  "brandType": "Eigen merk",
   "discount": "",
-  "url": "/een-huis-voor-harry-leo-timmers-kinderboek/p/6413426",
+  "url": "/houten-leer-de-tafels/p/6428910",
   "listName": "Lister",
   "brand": "Overig",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Educatief speelgoed"
     },
     {
-      "id": 90164317,
-      "name": "Kinderboeken"
+      "id": 90169671,
+      "name": "Educatieve speelsets"
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h0a/h39/45420982108190/prd-front-6413426-1_600x600/prd-front-6413426-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h13/h7f/44915836321822/prd-front-6428910-1_600x600/prd-front-6428910-1-600x600.jpg"
 }
