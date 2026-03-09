@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 6471 > 6472",
   "supplier": "GEOCOS BV",
   "inStock": "inStock",
-  "onPromo": "1061804",
-  "mmkId": "1061804",
-  "productGroupId": "518471",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-cooling-gel/p/5361238",
@@ -33,5 +33,6 @@
       "name": "Koelmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 150ml"
+  "description": "Medisch hulpmiddel - 150ml",
+  "image": "/medias/sys_master/prd-images/hf6/hf1/47864089116702/temp-prd-front-5361238-1_600x600/temp-prd-front-5361238-1-600x600.jpg"
 }

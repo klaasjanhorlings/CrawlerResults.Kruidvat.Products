@@ -3,14 +3,14 @@
   "currency": "EUR",
   "itemName": "NYX Professional Makeup Slim Eye SPE902 Brown Pencil",
   "code": "6130493",
-  "price": "4.95",
+  "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "outOfStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1062226",
+  "mmkId": "1062226",
+  "productGroupId": "519183",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-slim-eye-spe902-brown-pencil/p/6130493",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha8/h8d/31928347983902/prd-front-6130493-1_600x600/prd-front-6130493-1-600x600.jpg"
 }

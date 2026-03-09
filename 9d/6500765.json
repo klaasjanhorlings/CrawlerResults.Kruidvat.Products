@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ambi Pur Febreze Badkamer Luchtverfrisser",
+  "code": "6500765",
+  "price": "4.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2009 > 4357 > 4358 > 4360 > 4359 > 4361",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1062213",
+  "mmkId": "1062213",
+  "productGroupId": "518848",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ambi-pur-febreze-badkamer-luchtverfrisser/p/6500765",
+  "listName": "Lister",
+  "brand": "Ambi Pur",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266075,
+      "name": "Luchtverfrissers"
+    }
+  ],
+  "description": "8ml",
+  "image": "/medias/sys_master/prd-images/h7c/h71/47490013495326/temp-prd-front-6500765-1_600x600/temp-prd-front-6500765-1-600x600.jpg"
+}

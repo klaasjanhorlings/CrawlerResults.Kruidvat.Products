@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Sun Protect & Hydrate SPF30 Zonnebrandlotion",
   "code": "4059511",
-  "price": "9.8",
-  "priceOriginal": "24.49",
+  "price": "24.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1061949",
-  "mmkId": "1061949",
-  "productGroupId": "533057",
+  "onPromo": "1062182",
+  "mmkId": "1062182",
+  "productGroupId": "514224",
   "brandType": "A of B merk",
-  "discount": "€ 14,69",
+  "discount": "",
   "url": "/nivea-sun-protect-hydrate-spf30-zonnebrandlotion/p/4059511",
   "listName": "Lister",
   "brand": "Nivea Sun",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml - Normale huid",
-  "image": "/medias/sys_master/prd-images/h98/h37/47822541651998/temp-prd-front-4059511-1_600x600/temp-prd-front-4059511-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h61/h81/47864185552926/temp-prd-front-4059511-1_600x600/temp-prd-front-4059511-1-600x600.jpg"
 }

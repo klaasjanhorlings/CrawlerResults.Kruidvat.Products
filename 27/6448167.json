@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Speed Champions 77253 GT Hyper Sportauto",
+  "code": "6448167",
+  "price": "25.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1062443",
+  "mmkId": "1062443",
+  "productGroupId": "539524",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-speed-champions-77253-gt-hyper-sportauto/p/6448167",
+  "listName": "Lister",
+  "brand": "LEGO Speed Champs.",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266818,
+      "name": "LEGO Speed Champions"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h65/hf0/45299994132510/prd-front-6448167-1_600x600/prd-front-6448167-1-600x600.jpg"
+}

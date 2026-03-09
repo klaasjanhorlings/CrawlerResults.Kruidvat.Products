@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2188 > 2392 > 6082 > 6398",
   "supplier": "REBRO COSMETICS BV",
-  "inStock": "inStock",
-  "onPromo": "1062347",
-  "mmkId": "1062347",
-  "productGroupId": "536410",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/colab-workout-formula-dry-shampoo/p/6466437",
@@ -33,5 +33,6 @@
       "name": "Droogshampoo"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h7a/h91/45715221413918/temp-prd-front-6466437-1_600x600/temp-prd-front-6466437-1-600x600.jpg"
 }

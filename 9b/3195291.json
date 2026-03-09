@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2457 > 2763 > 3469",
   "supplier": "A.VOGEL",
   "inStock": "inStock",
-  "onPromo": "1061714",
-  "mmkId": "1061714",
-  "productGroupId": "510612",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/avogel-keeltabletten/p/3195291",
@@ -33,5 +33,6 @@
       "name": "Natuurlijke supplementen"
     }
   ],
-  "description": "20 stuks"
+  "description": "20 stuks",
+  "image": "/medias/sys_master/prd-images/hf6/h37/33347312549918/prd-front-3195291-1_600x600/prd-front-3195291-1-600x600.jpg"
 }

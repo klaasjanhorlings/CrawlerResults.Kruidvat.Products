@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Wild Coconut & Vanilla Navulbare Deostick",
   "code": "6240309",
-  "price": "18.95",
-  "priceOriginal": "",
+  "price": "10.0",
+  "priceOriginal": "18.95",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3786",
   "supplier": "WILD COSMETICS LTD.",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062313",
+  "mmkId": "1062313",
+  "productGroupId": "526816",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 8,95",
   "url": "/wild-coconut-vanilla-navulbare-deostick/p/6240309",
   "listName": "Lister",
   "brand": "Wild",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "40g",
-  "image": "/medias/sys_master/prd-images/h2c/h44/47825742888990/temp-prd-front-6240309-1_600x600/temp-prd-front-6240309-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb2/hbf/47867578220574/temp-prd-front-6240309-1_600x600/temp-prd-front-6240309-1-600x600.jpg"
 }

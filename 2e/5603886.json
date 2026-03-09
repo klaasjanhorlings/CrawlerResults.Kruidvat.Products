@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": " Garnier Ambre Solaire Ideal Bronze SPF30 Zonnebrandspray",
   "code": "5603886",
-  "price": "12.49",
-  "priceOriginal": "24.99",
+  "price": "24.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1061868",
-  "mmkId": "1061868",
-  "productGroupId": "520149",
+  "onPromo": "1062231",
+  "mmkId": "1062231",
+  "productGroupId": "519255",
   "brandType": "A of B merk",
-  "discount": "€ 12,50",
+  "discount": "",
   "url": "/ garnier-ambre-solaire-ideal-bronze-spf30-zonnebrandspray/p/5603886",
   "listName": "Lister",
   "brand": "Garnier Ambre Solaire",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/hec/h66/47837085696030/temp-prd-front-5603886-1_600x600/temp-prd-front-5603886-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h0f/hb7/47878370361374/temp-prd-front-5603886-1_600x600/temp-prd-front-5603886-1-600x600.jpg"
 }

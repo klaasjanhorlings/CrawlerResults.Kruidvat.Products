@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
   "supplier": "HERO NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1062084",
-  "mmkId": "1062084",
-  "productGroupId": "524565",
+  "onPromo": "1062153",
+  "mmkId": "1062153",
+  "productGroupId": "509352",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/organix-12m-appel-aardbei-quinoa-knijpfruit/p/4630480",
@@ -37,5 +37,6 @@
       "name": "12 maanden +"
     }
   ],
-  "description": "100g"
+  "description": "100g",
+  "image": "/medias/sys_master/prd-images/ha9/h8d/32879831744542/prd-front-4630480-1_600x600/prd-front-4630480-1-600x600.jpg"
 }

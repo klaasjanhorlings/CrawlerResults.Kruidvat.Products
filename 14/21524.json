@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2087 > 2123 > 2387 > 2753 > 3929",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1062394",
-  "mmkId": "1062394",
-  "productGroupId": "533734",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/daro-thijm-siroop/p/21524",
@@ -37,6 +37,5 @@
       "name": "Keelsiropen"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h5e/h0d/45443606020126/temp-prd-front-21524-1_600x600/temp-prd-front-21524-1-600x600.jpg"
+  "description": "200ml"
 }

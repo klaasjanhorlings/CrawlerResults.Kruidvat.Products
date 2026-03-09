@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6695",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1062097",
-  "mmkId": "1062097",
-  "productGroupId": "523846",
+  "onPromo": "1062167",
+  "mmkId": "1062167",
+  "productGroupId": "511631",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-intense-repair-herstellend-haarmasker/p/6292144",
@@ -33,5 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/h02/hc1/44567108812830/prd-front-6292144-1_600x600/prd-front-6292144-1-600x600.jpg"
 }

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ariel Original 4-in-1 Pods",
+  "code": "6500086",
+  "price": "34.99",
+  "priceOriginal": "107.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 4253",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1062208",
+  "mmkId": "1062208",
+  "productGroupId": "518832",
+  "brandType": "A of B merk",
+  "discount": "€ 73,00",
+  "url": "/ariel-original-4-in-1-pods/p/6500086",
+  "listName": "Lister",
+  "brand": "Ariel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266066,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "120 stuks",
+  "image": "/medias/sys_master/prd-images/h2e/h23/47492204167198/temp-prd-front-6500086-1_600x600/temp-prd-front-6500086-1-600x600.jpg"
+}

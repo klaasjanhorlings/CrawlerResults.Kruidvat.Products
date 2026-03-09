@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Anua Rice Enzyme Brightening Cleansing Powder",
   "code": "6491763",
-  "price": "14.92",
-  "priceOriginal": "19.9",
+  "price": "19.9",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1061688",
-  "mmkId": "1061688",
-  "productGroupId": "508224",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,98",
+  "discount": "",
   "url": "/anua-rice-enzyme-brightening-cleansing-powder/p/6491763",
   "listName": "Lister",
   "brand": "ANUA",
@@ -37,6 +37,5 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "40g",
-  "image": "/medias/sys_master/prd-images/hea/hff/47163926642718/temp-prd-front-6491763-1_600x600/temp-prd-front-6491763-1-600x600.jpg"
+  "description": "40g"
 }

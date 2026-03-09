@@ -3,14 +3,14 @@
   "currency": "EUR",
   "itemName": "NYX Professional Makeup Lip IV 10 Berry Thirsty Hydraterende Lipgloss",
   "code": "6230614",
-  "price": "11.95",
+  "price": "11.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1062226",
+  "mmkId": "1062226",
+  "productGroupId": "519183",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-lip-iv-10-berry-thirsty-hydraterende-lipgloss/p/6230614",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hfc/hca/33960455831582/prd-front-6230614-1_600x600/prd-front-6230614-1-600x600.jpg"
 }

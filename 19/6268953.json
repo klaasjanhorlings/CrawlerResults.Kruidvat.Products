@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Olay Super Serum",
   "code": "6268953",
-  "price": "26.09",
-  "priceOriginal": "43.49",
+  "price": "43.49",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1061753",
-  "mmkId": "1061753",
-  "productGroupId": "512454",
+  "onPromo": "1062278",
+  "mmkId": "1062278",
+  "productGroupId": "521038",
   "brandType": "A of B merk",
-  "discount": "€ 17,40",
+  "discount": "",
   "url": "/olay-super-serum/p/6268953",
   "listName": "Lister",
   "brand": "Olay",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/hde/h87/47819028725790/temp-prd-front-6268953-1_600x600/temp-prd-front-6268953-1-600x600.jpg"
+  "description": "30ml"
 }

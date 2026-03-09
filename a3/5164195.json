@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Dove Nourishing Care Douchegel",
   "code": "5164195",
-  "price": "57.99",
-  "priceOriginal": "",
+  "price": "23.2",
+  "priceOriginal": "57.99",
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3788",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062129",
+  "mmkId": "1062129",
+  "productGroupId": "521578",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 34,79",
   "url": "/dove-nourishing-care-douchegel/p/5164195",
   "listName": "Lister",
   "brand": "Dove",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "6 x 400ml - Droge huid"
+  "description": "6 x 400ml - Droge huid",
+  "image": "/medias/sys_master/prd-images/h92/hf7/29309070802974/prd-front-5164195-1_600x600/prd-front-5164195-1-600x600.jpg"
 }

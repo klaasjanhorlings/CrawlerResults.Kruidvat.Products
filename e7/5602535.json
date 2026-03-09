@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Ambre Solaire Ideal Bronze SPF30 Zonbeschermende Olie",
   "code": "5602535",
-  "price": "11.99",
-  "priceOriginal": "23.99",
+  "price": "23.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "outOfStock",
-  "onPromo": "1061868",
-  "mmkId": "1061868",
-  "productGroupId": "520149",
+  "onPromo": "1062231",
+  "mmkId": "1062231",
+  "productGroupId": "519255",
   "brandType": "A of B merk",
-  "discount": "€ 12,00",
+  "discount": "",
   "url": "/garnier-ambre-solaire-ideal-bronze-spf30-zonbeschermende-olie/p/5602535",
   "listName": "Lister",
   "brand": "Garnier Ambre Solaire",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/haa/hf8/47822528020510/temp-prd-front-5602535-1_600x600/temp-prd-front-5602535-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hde/h77/47864172675102/temp-prd-front-5602535-1_600x600/temp-prd-front-5602535-1-600x600.jpg"
 }

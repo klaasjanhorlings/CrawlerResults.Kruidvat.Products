@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2770 > 3798",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1061684",
-  "mmkId": "1061684",
-  "productGroupId": "508012",
+  "onPromo": "1062147",
+  "mmkId": "1062147",
+  "productGroupId": "508038",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-mindful-blossom-shower-satin-douchecreme/p/5680921",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "200ml - Normale huid"
+  "description": "200ml - Normale huid",
+  "image": "/medias/sys_master/prd-images/haf/h30/28866118385694/prd-front-5680921-1_600x600/prd-front-5680921-1-600x600.jpg"
 }

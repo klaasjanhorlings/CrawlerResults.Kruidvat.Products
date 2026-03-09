@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Elvive Glycolic Gloss 5 Minuten Lamellaire Verzorging",
   "code": "6024471",
-  "price": "6.99",
-  "priceOriginal": "13.99",
+  "price": "13.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1061863",
-  "mmkId": "1061863",
-  "productGroupId": "519919",
+  "onPromo": "1062365",
+  "mmkId": "1062365",
+  "productGroupId": "519927",
   "brandType": "A of B merk",
-  "discount": "€ 7,00",
+  "discount": "",
   "url": "/loreal-paris-elvive-glycolic-gloss-5-minuten-lamellaire-verzorging/p/6024471",
   "listName": "Lister",
   "brand": "Elvive",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h6d/h80/47833663930398/temp-prd-front-6024471-1_600x600/temp-prd-front-6024471-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h91/h1b/47875327885342/temp-prd-front-6024471-1_600x600/temp-prd-front-6024471-1-600x600.jpg"
 }

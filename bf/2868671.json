@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3856",
   "supplier": "HALEON NETHERLANDS BV",
   "inStock": "inStock",
-  "onPromo": "1061885",
-  "mmkId": "1061885",
-  "productGroupId": "520321",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/sensodyne-proglasur-fresh-clean-tandpasta/p/2868671",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Glazuurbescherming",
-  "image": "/medias/sys_master/prd-images/h0a/hcb/45708422971422/temp-prd-front-2868671-1_600x600/temp-prd-front-2868671-1-600x600.jpg"
+  "description": "75ml - Glazuurbescherming"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1061771",
-  "mmkId": "1061771",
-  "productGroupId": "513881",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-vinyl-ink-110-awestruck-lipstick/p/5908334",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "4,2ml"
+  "description": "4,2ml",
+  "image": "/medias/sys_master/prd-images/hc7/hb1/44845306249246/prd-front-5908334-1_600x600/prd-front-5908334-1-600x600.jpg"
 }

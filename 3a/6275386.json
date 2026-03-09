@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1061784",
-  "mmkId": "1061784",
-  "productGroupId": "516291",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-glow-reviver-hot-as-fudge-lip-oil/p/6275386",
@@ -37,5 +37,6 @@
       "name": "Lip oil"
     }
   ],
-  "description": "7,6ml"
+  "description": "7,6ml",
+  "image": "/medias/sys_master/prd-images/h77/hf9/34312758951966/prd-front-6275386-1_600x600/prd-front-6275386-1-600x600.jpg"
 }

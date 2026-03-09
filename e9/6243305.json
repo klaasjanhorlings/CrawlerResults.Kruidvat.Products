@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier Ambre Solaire Hydrating Aftersun",
   "code": "6243305",
-  "price": "7.99",
-  "priceOriginal": "15.99",
+  "price": "15.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "outOfStock",
-  "onPromo": "1061868",
-  "mmkId": "1061868",
-  "productGroupId": "520149",
+  "onPromo": "1062231",
+  "mmkId": "1062231",
+  "productGroupId": "519255",
   "brandType": "A of B merk",
-  "discount": "€ 8,00",
+  "discount": "",
   "url": "/garnier-ambre-solaire-hydrating-aftersun/p/6243305",
   "listName": "Lister",
   "brand": "Garnier Ambre Solaire",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h3d/h26/47819025121310/temp-prd-front-6243305-1_600x600/temp-prd-front-6243305-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2b/hdb/47861259468830/temp-prd-front-6243305-1_600x600/temp-prd-front-6243305-1-600x600.jpg"
 }

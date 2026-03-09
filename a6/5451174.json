@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3043 > 3659",
   "supplier": "KENVUE",
-  "inStock": "inStock",
-  "onPromo": "1061758",
-  "mmkId": "1061758",
-  "productGroupId": "512618",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ob-extraprotect-super-comfort-tampons/p/5451174",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/h1c/h93/47825824481310/temp-prd-front-5451174-1_600x600/temp-prd-front-5451174-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h01/hd2/47867687305246/temp-prd-front-5451174-1_600x600/temp-prd-front-5451174-1-600x600.jpg"
 }

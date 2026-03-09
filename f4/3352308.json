@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Sun Protect & Bronze SPF30 Zonnebrandolie Spray",
   "code": "3352308",
-  "price": "10.6",
-  "priceOriginal": "26.49",
+  "price": "26.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "outOfStock",
-  "onPromo": "1061949",
-  "mmkId": "1061949",
-  "productGroupId": "533057",
+  "onPromo": "1062182",
+  "mmkId": "1062182",
+  "productGroupId": "514224",
   "brandType": "A of B merk",
-  "discount": "€ 15,89",
+  "discount": "",
   "url": "/nivea-sun-protect-bronze-spf30-zonnebrandolie-spray/p/3352308",
   "listName": "Lister",
   "brand": "Nivea Sun",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h32/h8a/47819175854110/temp-prd-front-3352308-1_600x600/temp-prd-front-3352308-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h25/hd3/47861296627742/temp-prd-front-3352308-1_600x600/temp-prd-front-3352308-1-600x600.jpg"
 }

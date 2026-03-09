@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Beauty of Joseon Ginseng Cleansing Oil",
   "code": "6200346",
-  "price": "16.42",
-  "priceOriginal": "21.9",
+  "price": "21.9",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
   "supplier": "ORIEN TRADE OU",
   "inStock": "inStock",
-  "onPromo": "1061688",
-  "mmkId": "1061688",
-  "productGroupId": "508224",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 5,48",
+  "discount": "",
   "url": "/beauty-of-joseon-ginseng-cleansing-oil/p/6200346",
   "listName": "Lister",
   "brand": "BEAUTY OF JOSEON",
@@ -37,5 +37,6 @@
       "name": "Reinigingsolie"
     }
   ],
-  "description": "210ml"
+  "description": "210ml",
+  "image": "/medias/sys_master/prd-images/h60/h21/32247711924254/prd-front-6200346-1_600x600/prd-front-6200346-1-600x600.jpg"
 }

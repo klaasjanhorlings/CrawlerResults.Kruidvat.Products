@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Sun Babies & Kids Sensitive SPF50+ Zonnebrandlotion",
   "code": "3352777",
-  "price": "11.2",
-  "priceOriginal": "27.99",
+  "price": "27.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1061949",
-  "mmkId": "1061949",
-  "productGroupId": "533057",
+  "onPromo": "1062182",
+  "mmkId": "1062182",
+  "productGroupId": "514224",
   "brandType": "A of B merk",
-  "discount": "€ 16,79",
+  "discount": "",
   "url": "/nivea-sun-babies-kids-sensitive-spf50-zonnebrandlotion/p/3352777",
   "listName": "Lister",
   "brand": "Nivea Sun",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/h93/hcf/47837067706398/temp-prd-front-3352777-1_600x600/temp-prd-front-3352777-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf9/h03/47878360989726/temp-prd-front-3352777-1_600x600/temp-prd-front-3352777-1-600x600.jpg"
 }

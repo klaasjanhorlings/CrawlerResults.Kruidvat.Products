@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2280 > 5048 > 6196 > 6214 > 6248",
   "supplier": "EMONTA BV",
   "inStock": "inStock",
-  "onPromo": "1062086",
-  "mmkId": "1062086",
-  "productGroupId": "525551",
+  "onPromo": "1062311",
+  "mmkId": "1062311",
+  "productGroupId": "525558",
   "brandType": "A of B merk",
   "discount": "€ 2,36",
   "url": "/wapiti-darmfunctie-complex-tabletten/p/5654258",
@@ -33,5 +33,6 @@
       "name": "Spijsvertering"
     }
   ],
-  "description": "40 stuks"
+  "description": "40 stuks",
+  "image": "/medias/sys_master/prd-images/h0e/h2a/47867601223710/temp-prd-front-5654258-1_600x600/temp-prd-front-5654258-1-600x600.jpg"
 }

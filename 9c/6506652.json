@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "MAXIM MARKENPRODUKTE",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062320",
+  "mmkId": "1062320",
+  "productGroupId": "530448",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-solait-blemish-control-spf50-face-sunfluid/p/6506652",
@@ -41,6 +41,5 @@
       "name": "Zonnefluïde"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/hf2/h01/47837094608926/temp-prd-front-6506652-1_600x600/temp-prd-front-6506652-1-600x600.jpg"
+  "description": "50ml"
 }

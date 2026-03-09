@@ -3,14 +3,14 @@
   "currency": "EUR",
   "itemName": "Maybelline New York Lash Sensational Sky High Plum Twilight Mascara",
   "code": "6241674",
-  "price": "20.99",
+  "price": "21.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1061771",
-  "mmkId": "1061771",
-  "productGroupId": "513881",
+  "onPromo": "1062222",
+  "mmkId": "1062222",
+  "productGroupId": "519165",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-lash-sensational-sky-high-plum-twilight-mascara/p/6241674",
@@ -33,6 +33,5 @@
       "name": "Mascara"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hc6/hc6/44805778571294/prd-front-6241674-1_600x600/prd-front-6241674-1-600x600.jpg"
+  "description": ""
 }

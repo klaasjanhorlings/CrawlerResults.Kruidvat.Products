@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Biodermal Skin Booster Revitalizing Serum",
   "code": "5511101",
-  "price": "39.99",
-  "priceOriginal": "",
+  "price": "19.99",
+  "priceOriginal": "39.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "OMEGA PHARMA NEDERLAND",
   "inStock": "inStock",
-  "onPromo": "1061739",
-  "mmkId": "1061739",
-  "productGroupId": "511730",
+  "onPromo": "1062238",
+  "mmkId": "1062238",
+  "productGroupId": "519632",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 20,00",
   "url": "/biodermal-skin-booster-revitalizing-serum/p/5511101",
   "listName": "Lister",
   "brand": "Biodermal",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "30ml - Alle huidtypen"
+  "description": "30ml - Alle huidtypen",
+  "image": "/medias/sys_master/prd-images/ha5/h98/34531882336286/prd-front-5511101-1_600x600/prd-front-5511101-1-600x600.jpg"
 }

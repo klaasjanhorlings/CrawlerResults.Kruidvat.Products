@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris True Match Nude 5-6 Medium Tan Plumping Tinted Serum",
   "code": "5485495",
-  "price": "12.49",
-  "priceOriginal": "24.99",
+  "price": "24.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1061772",
-  "mmkId": "1061772",
-  "productGroupId": "513882",
+  "onPromo": "1062225",
+  "mmkId": "1062225",
+  "productGroupId": "519178",
   "brandType": "A of B merk",
-  "discount": "€ 12,50",
+  "discount": "",
   "url": "/loreal-paris-true-match-nude-5-6-medium-tan-plumping-tinted-serum/p/5485495",
   "listName": "Lister",
   "brand": "L'Oreal",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hb4/h46/31686108119070/prd-front-5485495-1_600x600/prd-front-5485495-1-600x600.jpg"
 }

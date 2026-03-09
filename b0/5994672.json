@@ -3,14 +3,14 @@
   "currency": "EUR",
   "itemName": "L'Oréal Paris Color Riche 601 Worth It Nude Intense Volume Matte Lippenstift",
   "code": "5994672",
-  "price": "16.99",
+  "price": "17.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1061821",
-  "mmkId": "1061821",
-  "productGroupId": "519159",
+  "onPromo": "1062225",
+  "mmkId": "1062225",
+  "productGroupId": "519178",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-color-riche-601-worth-it-nude-intense-volume-matte-lippenstift/p/5994672",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "1,8g"
+  "description": "1,8g",
+  "image": "/medias/sys_master/prd-images/h0c/h52/45053447831582/prd-front-5994672-1_600x600/prd-front-5994672-1-600x600.jpg"
 }

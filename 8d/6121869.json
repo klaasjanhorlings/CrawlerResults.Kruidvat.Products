@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1062097",
-  "mmkId": "1062097",
-  "productGroupId": "523846",
+  "onPromo": "1062167",
+  "mmkId": "1062167",
+  "productGroupId": "511631",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-pro-care-protein-plex-repair-pre-treatment/p/6121869",
@@ -33,5 +33,6 @@
       "name": "Pre shampoo"
     }
   ],
-  "description": "170ml"
+  "description": "170ml",
+  "image": "/medias/sys_master/prd-images/h0f/h8f/44364890341406/prd-front-6121869-1_600x600/prd-front-6121869-1-600x600.jpg"
 }

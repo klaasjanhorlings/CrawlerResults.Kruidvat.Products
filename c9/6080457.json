@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "SoreFix Rescue Koortslipcrème",
   "code": "6080457",
-  "price": "9.31",
-  "priceOriginal": "10.95",
+  "price": "10.95",
+  "priceOriginal": "",
   "itemBgbcat": "2006 > 2087 > 2123 > 2412 > 2842 > 3581",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1061745",
-  "mmkId": "1061745",
-  "productGroupId": "512188",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "A of B merk",
-  "discount": "€ 1,64",
+  "discount": "",
   "url": "/sorefix-rescue-koortslipcreme/p/6080457",
   "listName": "Lister",
   "brand": "Sorefix",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 6ml",
-  "image": "/medias/sys_master/prd-images/h8d/h92/47822516748318/temp-prd-front-6080457-1_600x600/temp-prd-front-6080457-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h92/hde/47864165466142/temp-prd-front-6080457-1_600x600/temp-prd-front-6080457-1-600x600.jpg"
 }

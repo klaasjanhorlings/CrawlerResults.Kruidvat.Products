@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO Speed Champions 77257 McLaren W1",
+  "code": "6448160",
+  "price": "25.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1062443",
+  "mmkId": "1062443",
+  "productGroupId": "539524",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-speed-champions-77257-mclaren-w1/p/6448160",
+  "listName": "Lister",
+  "brand": "LEGO Speed Champs.",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266818,
+      "name": "LEGO Speed Champions"
+    }
+  ],
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

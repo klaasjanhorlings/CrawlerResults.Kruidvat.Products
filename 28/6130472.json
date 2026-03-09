@@ -3,14 +3,14 @@
   "currency": "EUR",
   "itemName": "NYX Professional Makeup Slim Eye SPE901 Black Pencil",
   "code": "6130472",
-  "price": "4.95",
+  "price": "4.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 2894 > 3669",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "outOfStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1062226",
+  "mmkId": "1062226",
+  "productGroupId": "519183",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-slim-eye-spe901-black-pencil/p/6130472",
@@ -33,6 +33,5 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h31/hfb/31920847224862/prd-front-6130472-1_600x600/prd-front-6130472-1-600x600.jpg"
+  "description": ""
 }

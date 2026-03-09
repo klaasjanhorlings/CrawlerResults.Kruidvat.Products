@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 6497 > 6496 > 6520 > 2684 > 3384",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "1062346",
-  "mmkId": "1062346",
-  "productGroupId": "536306",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
   "url": "/depend-gel-iq-starterkit/p/6312766",
@@ -33,5 +33,6 @@
       "name": "Nagel-ledlamp"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h04/h70/44253885300766/prd-front-6312766-1_600x600/prd-front-6312766-1-600x600.jpg"
 }

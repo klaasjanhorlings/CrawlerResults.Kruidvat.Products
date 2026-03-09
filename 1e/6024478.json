@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Elvive Ultimate Glycolic Gloss Shampoo",
   "code": "6024478",
-  "price": "6.99",
-  "priceOriginal": "13.99",
+  "price": "13.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1061863",
-  "mmkId": "1061863",
-  "productGroupId": "519919",
+  "onPromo": "1062365",
+  "mmkId": "1062365",
+  "productGroupId": "519927",
   "brandType": "A of B merk",
-  "discount": "€ 7,00",
+  "discount": "",
   "url": "/elvive-ultimate-glycolic-gloss-shampoo/p/6024478",
   "listName": "Lister",
   "brand": "Elvive",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h22/h53/47822393475102/temp-prd-front-6024478-1_600x600/temp-prd-front-6024478-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hc4/hb0/47864072667166/temp-prd-front-6024478-1_600x600/temp-prd-front-6024478-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Therme Finn Sauna Fresh Bath Oil",
+  "code": "4678423",
+  "price": "10.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2336 > 2737 > 3439",
+  "supplier": "REMARK GROEP",
+  "inStock": "outOfStock",
+  "onPromo": "1062147",
+  "mmkId": "1062147",
+  "productGroupId": "508038",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/therme-finn-sauna-fresh-bath-oil/p/4678423",
+  "listName": "Lister",
+  "brand": "Therme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266653,
+      "name": "Badolie"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h2f/h9d/46716080783390/temp-prd-front-4678423-1_600x600/temp-prd-front-4678423-1-600x600.jpg"
+}

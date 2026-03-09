@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "EMIL KIESSLING GMBH",
   "inStock": "inStock",
-  "onPromo": "1062110",
-  "mmkId": "1062110",
-  "productGroupId": "520835",
+  "onPromo": "1062280",
+  "mmkId": "1062280",
+  "productGroupId": "521355",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-color-booster-734-light-warm-brown-kleurshampoo/p/3550415",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h7e/h86/45051827552286/prd-front-3550415-1_600x600/prd-front-3550415-1-600x600.jpg"
 }

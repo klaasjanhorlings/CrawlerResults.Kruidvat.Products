@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ariel Original Waspoeder",
+  "code": "6530515",
+  "price": "24.99",
+  "priceOriginal": "46.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3014 > 6078",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1062121",
+  "mmkId": "1062121",
+  "productGroupId": "518836",
+  "brandType": "A of B merk",
+  "discount": "€ 22,00",
+  "url": "/ariel-original-waspoeder/p/6530515",
+  "listName": "Lister",
+  "brand": "Ariel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 30266066,
+      "name": "Wasmiddel"
+    }
+  ],
+  "description": "3250g, 65 wasbeurten",
+  "image": "/medias/sys_master/prd-images/h38/he9/47491243376670/temp-prd-front-6530515-1_600x600/temp-prd-front-6530515-1-600x600.jpg"
+}

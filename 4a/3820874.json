@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1061851",
-  "mmkId": "1061851",
-  "productGroupId": "519539",
+  "onPromo": "1059366",
+  "mmkId": "1059366",
+  "productGroupId": "525730",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-12m-appel-perzik-mango/p/3820874",
@@ -37,5 +37,6 @@
       "name": "12 maanden +"
     }
   ],
-  "description": "200g"
+  "description": "200g",
+  "image": "/medias/sys_master/prd-images/ha4/hda/47871421218846/temp-prd-front-3820874-1_600x600/temp-prd-front-3820874-1-600x600.jpg"
 }

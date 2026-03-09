@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3043 > 3659",
   "supplier": "KENVUE",
-  "inStock": "inStock",
-  "onPromo": "1061758",
-  "mmkId": "1061758",
-  "productGroupId": "512618",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ob-procomfort-super-plus-tampons/p/5451139",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "16 stuks",
-  "image": "/medias/sys_master/prd-images/h49/h93/47819042488350/temp-prd-front-5451139-1_600x600/temp-prd-front-5451139-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/ha0/h65/47861289615390/temp-prd-front-5451139-1_600x600/temp-prd-front-5451139-1-600x600.jpg"
 }

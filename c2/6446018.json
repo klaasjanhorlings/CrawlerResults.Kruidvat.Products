@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Syoss Color Glaze Neutraal Hair Glossing Toner",
   "code": "6446018",
-  "price": "13.99",
-  "priceOriginal": "",
+  "price": "7.0",
+  "priceOriginal": "13.99",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1062110",
-  "mmkId": "1062110",
-  "productGroupId": "520835",
+  "onPromo": "1062302",
+  "mmkId": "1062302",
+  "productGroupId": "523302",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,99",
   "url": "/syoss-color-glaze-neutraal-hair-glossing-toner/p/6446018",
   "listName": "Lister",
   "brand": "Syoss",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": "130ml"
+  "description": "130ml",
+  "image": "/medias/sys_master/prd-images/h56/h98/46143580897310/temp-prd-front-6446018-1_600x600/temp-prd-front-6446018-1-600x600.jpg"
 }

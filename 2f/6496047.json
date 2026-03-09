@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "GilletteLabs Face and Body Scheermes Duoverpakking",
+  "code": "6496047",
+  "price": "54.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3880 > 5722",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1062303",
+  "mmkId": "1062303",
+  "productGroupId": "523859",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillettelabs-face-and-body-scheermes-duoverpakking/p/6496047",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266679,
+      "name": "Scheerapparaten"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/h6e/h78/47726858174494/temp-prd-front-6496047-1_600x600/temp-prd-front-6496047-1-600x600.jpg"
+}

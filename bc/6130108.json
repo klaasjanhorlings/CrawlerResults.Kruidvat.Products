@@ -3,14 +3,14 @@
   "currency": "EUR",
   "itemName": "NYX Professional Makeup 09 Strike A Rose Duck Plump Extreme Sensation Lipgloss",
   "code": "6130108",
-  "price": "11.95",
+  "price": "11.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1062226",
+  "mmkId": "1062226",
+  "productGroupId": "519183",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-09-strike-a-rose-duck-plump-extreme-sensation-lipgloss/p/6130108",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "6,8ml"
+  "description": "6,8ml",
+  "image": "/medias/sys_master/prd-images/hf5/h45/31927667818526/prd-front-6130108-1_600x600/prd-front-6130108-1-600x600.jpg"
 }

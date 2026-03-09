@@ -3,14 +3,14 @@
   "currency": "EUR",
   "itemName": "NYX Professional Makeup Can't Stop Won't Stop 6 Vanilla Contour Concealer",
   "code": "6129632",
-  "price": "9.95",
+  "price": "9.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6781",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1062226",
+  "mmkId": "1062226",
+  "productGroupId": "519183",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-cant-stop-wont-stop-6-vanilla-contour-concealer/p/6129632",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "3,5ml"
+  "description": "3,5ml",
+  "image": "/medias/sys_master/prd-images/hcf/hbe/31921990565918/prd-front-6129632-1_600x600/prd-front-6129632-1-600x600.jpg"
 }

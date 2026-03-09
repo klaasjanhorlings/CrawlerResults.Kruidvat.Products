@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2174 > 3032 > 4109 > 6789",
   "supplier": "GEOCOS BV",
   "inStock": "inStock",
-  "onPromo": "1061804",
-  "mmkId": "1061804",
-  "productGroupId": "518471",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-sensitive-pleisters/p/2408484",
@@ -37,5 +37,6 @@
       "name": "Sensitive pleisters"
     }
   ],
-  "description": "Medisch hulpmiddel - 6cm, 10 stuks"
+  "description": "Medisch hulpmiddel - 6cm, 10 stuks",
+  "image": "/medias/prd-front-2408484-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzExNjN8aW1hZ2UvanBlZ3xhR0ZtTDJoaVlpOHlOamt4TkRVek56TTNNemN5Tmk5d2NtUXRabkp2Ym5RdE1qUXdPRFE0TkMweFh6WXdNSGcyTURBfGE3ZWQ2MWRkNTkxNjA0ZjhkOGQzNzA5NDZmNTk2OGE1NDM0ZWMwNmJlYWYwMmY1YTQzODBkYzQ1MDA5NzY4ZDY"
 }

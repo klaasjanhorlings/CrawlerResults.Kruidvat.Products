@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Sun Breathable UV Specialist SPF50+ Light Tinted Ultra Light Daily Fluid",
   "code": "6284941",
-  "price": "10.2",
-  "priceOriginal": "25.49",
+  "price": "25.49",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "outOfStock",
-  "onPromo": "1061949",
-  "mmkId": "1061949",
-  "productGroupId": "533057",
+  "onPromo": "1062182",
+  "mmkId": "1062182",
+  "productGroupId": "514224",
   "brandType": "A of B merk",
-  "discount": "€ 15,29",
+  "discount": "",
   "url": "/nivea-sun-breathable-uv-specialist-spf50-light-tinted-ultra-light-daily-fluid/p/6284941",
   "listName": "Lister",
   "brand": "Nivea Sun",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h29/h33/47825814716446/temp-prd-front-6284941-1_600x600/temp-prd-front-6284941-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h48/h0a/47867669479454/temp-prd-front-6284941-1_600x600/temp-prd-front-6284941-1-600x600.jpg"
 }

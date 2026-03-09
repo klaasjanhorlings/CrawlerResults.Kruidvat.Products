@@ -3,14 +3,14 @@
   "currency": "EUR",
   "itemName": "NYX Professional Makeup SPL807 Cocoa Slim Lip Pencil",
   "code": "6131060",
-  "price": "5.5",
+  "price": "5.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2993 > 3820",
   "supplier": "NYX PROFESSIONAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1062226",
+  "mmkId": "1062226",
+  "productGroupId": "519183",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nyx-professional-makeup-spl807-cocoa-slim-lip-pencil/p/6131060",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hb4/hf6/31921517690910/prd-front-6131060-1_600x600/prd-front-6131060-1-600x600.jpg"
 }
