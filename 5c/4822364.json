@@ -1,9 +1,9 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Colgate Max White Expert Purifying Power Tandpasta",
-  "code": "6290135",
-  "price": "6.99",
+  "itemName": "Colgate Max White Charcoal Whitening Tandpasta",
+  "code": "4822364",
+  "price": "6.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
   "supplier": "COLGATE PALMOLIVE NLD",
@@ -13,7 +13,7 @@
   "productGroupId": "519978",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/colgate-max-white-expert-purifying-power-tandpasta/p/6290135",
+  "url": "/colgate-max-white-charcoal-whitening-tandpasta/p/4822364",
   "listName": "Lister",
   "brand": "Colgate",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "75ml - Whitening",
-  "image": "/medias/sys_master/prd-images/ha9/h3e/34367716458526/prd-front-6290135-1_600x600/prd-front-6290135-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hf5/hed/33858919039006/prd-front-4822364-1_600x600/prd-front-4822364-1-600x600.jpg"
 }

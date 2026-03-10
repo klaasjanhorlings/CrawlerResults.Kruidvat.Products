@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1062231",
   "mmkId": "1062231",
   "productGroupId": "519255",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "175ml",
-  "image": "/medias/sys_master/prd-images/h8f/h77/47867563933726/temp-prd-front-5604796-1_600x600/temp-prd-front-5604796-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hff/h82/47909210325022/temp-prd-front-5604796-1_600x600/temp-prd-front-5604796-1-600x600.jpg"
 }

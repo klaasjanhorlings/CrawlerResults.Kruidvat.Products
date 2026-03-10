@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1062182",
   "mmkId": "1062182",
   "productGroupId": "514224",
@@ -33,10 +33,10 @@
       "name": "Zonnebrand"
     },
     {
-      "id": 131890081,
-      "name": "Zonnebrand spray"
+      "id": 131936884,
+      "name": "Zonnebrandolie"
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h25/hd3/47861296627742/temp-prd-front-3352308-1_600x600/temp-prd-front-3352308-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h88/hf3/47902731862046/temp-prd-front-3352308-1_600x600/temp-prd-front-3352308-1-600x600.jpg"
 }

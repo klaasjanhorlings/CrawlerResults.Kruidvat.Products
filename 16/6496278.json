@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h42/haf/47867586805790/temp-prd-front-6496278-1_600x600/temp-prd-front-6496278-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hbe/hda/47909321015326/temp-prd-front-6496278-1_600x600/temp-prd-front-6496278-1-600x600.jpg"
 }
