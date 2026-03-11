@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Haribo Rotella Drop",
   "code": "6372511",
   "price": "8.99",
@@ -29,8 +29,8 @@
       "name": "Snacks en snoep"
     },
     {
-      "id": 107464851,
-      "name": "Drop"
+      "id": 30267026,
+      "name": "Snoep"
     }
   ],
   "description": "1500g",

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Colgate Max White Expert Purifying Power Tandpasta",
+  "code": "6290135",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "1062245",
+  "mmkId": "1062245",
+  "productGroupId": "519978",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/colgate-max-white-expert-purifying-power-tandpasta/p/6290135",
+  "listName": "Lister",
+  "brand": "Colgate",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
+    },
+    {
+      "id": 132836399,
+      "name": "Whitening tandpasta"
+    }
+  ],
+  "description": "75ml - Whitening",
+  "image": "/medias/sys_master/prd-images/ha9/h3e/34367716458526/prd-front-6290135-1_600x600/prd-front-6290135-1-600x600.jpg"
+}

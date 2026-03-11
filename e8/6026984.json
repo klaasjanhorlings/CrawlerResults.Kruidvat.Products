@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "EUROFOUR BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,10 +33,10 @@
       "name": "Zonnebrand"
     },
     {
-      "id": 131889316,
-      "name": "Zonnebrand crème"
+      "id": 131936918,
+      "name": "Zonnebrand mini"
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h1d/ha1/29992625635358/prd-front-6026984-1_600x600/prd-front-6026984-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hcd/h3f/47982323990558/temp-prd-front-6026984-1_600x600/temp-prd-front-6026984-1-600x600.jpg"
 }

@@ -1,11 +1,11 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Diadermine Express 3-In-1 Reinigingsdoekjes",
-  "code": "2932728",
-  "price": "2.5",
+  "itemName": "Diadermine Lift+ Boost Éclat Oogcrème",
+  "code": "6225273",
+  "price": "21.99",
   "priceOriginal": "",
-  "itemBgbcat": "2002 > 2089 > 2256 > 2804 > 3983 > 6702",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "LABORI INTERNATIONAL BV",
   "inStock": "inStock",
   "onPromo": "1062235",
@@ -13,7 +13,7 @@
   "productGroupId": "519508",
   "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/diadermine-express-3-in-1-reinigingsdoekjes/p/2932728",
+  "url": "/diadermine-lift-boost-eclat-oogcreme/p/6225273",
   "listName": "Lister",
   "brand": "Diadermine",
   "mpOrigin": "Kruidvat",
@@ -29,14 +29,10 @@
       "name": "Skincare"
     },
     {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266912,
-      "name": "Reinigingsdoekjes"
+      "id": 30266604,
+      "name": "Oogcreme"
     }
   ],
-  "description": "40 stuks",
-  "image": "/medias/sys_master/prd-images/h0e/h61/27252720304158/prd-front-2932728-1_600x600/prd-front-2932728-1-600x600.jpg"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/hef/h7d/32583509934110/prd-front-6225273-1_600x600/prd-front-6225273-1-600x600.jpg"
 }

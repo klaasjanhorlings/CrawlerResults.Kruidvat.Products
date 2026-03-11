@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
   "supplier": "CARESSE COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1062830",
+  "mmkId": "1062830",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -21,16 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536080,
+      "name": "Baby"
     },
     {
-      "id": 30265989,
-      "name": "Geschenksets"
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
     },
     {
-      "id": 72666497,
-      "name": "Geschenkset voor kinderen"
+      "id": 99556492,
+      "name": "Kraamcadeaus"
     }
   ],
   "description": "",

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B iO Kids Disney Stitch 6+ Jaar Elektrische Tandenborstel",
+  "code": "6489488",
+  "price": "79.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-io-kids-disney-stitch-6-jaar-elektrische-tandenborstel/p/6489488",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266677,
+      "name": "Elektrische tandenborstels"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd0/hc8/47316573683742/temp-prd-front-6489488-1_600x600/temp-prd-front-6489488-1-600x600.jpg"
+}

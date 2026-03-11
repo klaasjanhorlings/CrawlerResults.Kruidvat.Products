@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3532",
   "supplier": "COLGATE PALMOLIVE NLD",
   "inStock": "inStock",
-  "onPromo": "1062249",
-  "mmkId": "1062249",
-  "productGroupId": "520070",
+  "onPromo": "1062402",
+  "mmkId": "1062402",
+  "productGroupId": "519379",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elmex-anti-caries-junior-5-12-jaar-tandpasta/p/603414",
@@ -31,6 +31,10 @@
     {
       "id": 30266674,
       "name": "Tandpasta"
+    },
+    {
+      "id": 132836446,
+      "name": "Anti-cariës"
     }
   ],
   "description": "5-12 jaar, 75ml",

@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Muziekhanger Giraf",
+  "code": "6493646",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "MUNDIA BV",
+  "inStock": "inStock",
+  "onPromo": "1062199",
+  "mmkId": "1062199",
+  "productGroupId": "518639",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-muziekhanger-giraf/p/6493646",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266024,
+      "name": "Verrassend Babyvoordeel"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6f/h1b/47459485483038/temp-prd-front-6493646-1_600x600/temp-prd-front-6493646-1-600x600.jpg"
+}

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Naïf Baby & Kids Washgel",
   "code": "6190609",
-  "price": "14.99",
-  "priceOriginal": "29.99",
+  "price": "29.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "1062312",
-  "mmkId": "1062312",
-  "productGroupId": "525747",
+  "onPromo": "1062396",
+  "mmkId": "1062396",
+  "productGroupId": "511911",
   "brandType": "A of B merk",
-  "discount": "€ 15,00",
+  "discount": "",
   "url": "/naif-baby-kids-washgel/p/6190609",
   "listName": "Lister",
   "brand": "Naïf",
@@ -37,5 +37,6 @@
       "name": "Babywasgel"
     }
   ],
-  "description": "700ml"
+  "description": "700ml",
+  "image": "/medias/sys_master/prd-images/h60/h04/32125614751774/prd-front-6190609-1_600x600/prd-front-6190609-1-600x600.jpg"
 }

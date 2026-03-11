@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mercedez-Benz The Move Eau de Toilette",
+  "code": "6420090",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2550 > 3181 > 3633",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/mercedez-benz-the-move-eau-de-toilette/p/6420090",
+  "listName": "Lister",
+  "brand": "Mercedez-Benz",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654823,
+      "name": "Herenparfum"
+    }
+  ],
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/hf0/h46/45672238022686/temp-prd-front-6420090-1_600x600/temp-prd-front-6420090-1-600x600.jpg"
+}

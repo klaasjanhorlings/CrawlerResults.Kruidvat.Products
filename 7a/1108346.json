@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Merci Finest Selection Geschenkdoos",
   "code": "1108346",
   "price": "13.99",
@@ -29,8 +29,12 @@
       "name": "Snacks en snoep"
     },
     {
-      "id": 30267030,
-      "name": "Kerstsnoep"
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464837,
+      "name": "Chocoladegeschenken"
     }
   ],
   "description": "675g",

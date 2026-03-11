@@ -7,9 +7,9 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "MEPAL BV",
-  "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
+  "inStock": "inStock",
+  "onPromo": "1062830",
+  "mmkId": "1062830",
   "productGroupId": "",
   "brandType": "Exclusief merk",
   "discount": "",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/hac/h8a/47909202460702/temp-prd-front-6495592-1_600x600/temp-prd-front-6495592-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h46/h6e/47955277152286/temp-prd-front-6495592-1_600x600/temp-prd-front-6495592-1-600x600.jpg"
 }

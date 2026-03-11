@@ -21,12 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536086,
-      "name": "Huishouden"
+      "id": 30266078,
+      "name": "Wonen"
     },
     {
-      "id": 30266075,
-      "name": "Luchtverfrissers"
+      "id": 30266050,
+      "name": "Buiten en vrije tijd"
+    },
+    {
+      "id": 30266898,
+      "name": "Auto-onderhoud"
+    },
+    {
+      "id": 80864085,
+      "name": "Autoparfum"
     }
   ],
   "description": "2 x 3ml"

@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 30266076,
-      "name": "Eten en drinken"
+      "id": 57856073,
+      "name": "Sport"
     },
     {
-      "id": 30266888,
-      "name": "Zoetstoffen"
+      "id": 30266012,
+      "name": "Sportvoeding"
+    },
+    {
+      "id": 30266755,
+      "name": "Sportaccessoires"
     }
   ],
   "description": "20ml",

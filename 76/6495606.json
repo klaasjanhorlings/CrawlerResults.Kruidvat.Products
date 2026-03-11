@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Bijtsleutels",
+  "code": "6495606",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "SOLUTION EU BV",
+  "inStock": "outOfStock",
+  "onPromo": "1062199",
+  "mmkId": "1062199",
+  "productGroupId": "518639",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-bijtsleutels/p/6495606",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266026,
+      "name": "Baby- en peuterspeelgoed"
+    },
+    {
+      "id": 30266834,
+      "name": "Grijp- en bijtspeelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h87/h4a/47138660253726/temp-prd-front-6495606-1_600x600/temp-prd-front-6495606-1-600x600.jpg"
+}

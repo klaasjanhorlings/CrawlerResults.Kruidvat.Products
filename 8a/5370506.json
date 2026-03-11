@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 3532",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1062147",
-  "mmkId": "1062147",
-  "productGroupId": "508038",
+  "onPromo": "1062402",
+  "mmkId": "1062402",
+  "productGroupId": "519379",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jordan-junior-6-12-jaar-tandpasta/p/5370506",
@@ -31,6 +31,10 @@
     {
       "id": 30266674,
       "name": "Tandpasta"
+    },
+    {
+      "id": 132836509,
+      "name": "Kindertandpasta"
     }
   ],
   "description": "50ml",

@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2321 >  > 2923 > 3718",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1062830",
+  "mmkId": "1062830",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -37,5 +37,6 @@
       "name": "12 maanden +"
     }
   ],
-  "description": "12 stuks"
+  "description": "12 stuks",
+  "image": "/medias/sys_master/prd-images/h0e/hb8/47899313078302/temp-prd-front-5768302-1_600x600/temp-prd-front-5768302-1-600x600.jpg"
 }

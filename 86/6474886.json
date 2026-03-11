@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 2970 > 3772",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
+  "onPromo": "1062830",
+  "mmkId": "1062830",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -25,12 +25,12 @@
       "name": "Baby"
     },
     {
-      "id": 30266019,
-      "name": "Luierbroekjes"
+      "id": 30266017,
+      "name": "Luiers"
     },
     {
-      "id": 49321152,
-      "name": "Luierbroekjes maat 8"
+      "id": 30266790,
+      "name": "Luiers maat 7"
     }
   ],
   "description": "mt 7 (15+kg), 48 stuks",
