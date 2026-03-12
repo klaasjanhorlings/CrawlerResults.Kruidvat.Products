@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 3+M Flesspenen",
+  "code": "6488788",
+  "price": "2.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "SOLUTION EU BV",
+  "inStock": "outOfStock",
+  "onPromo": "1062199",
+  "mmkId": "1062199",
+  "productGroupId": "518639",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-3m-flesspenen/p/6488788",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266799,
+      "name": "Babyflesjes"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/hf0/hd6/47463620182046/temp-prd-front-6488788-1_600x600/temp-prd-front-6488788-1-600x600.jpg"
+}

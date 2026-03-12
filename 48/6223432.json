@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2189 > 2333 > 2735 > 3437 > 6674",
   "supplier": "NEW FLAG BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062431",
+  "mmkId": "1062431",
+  "productGroupId": "521666",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/invisibobble-heatless-curling-set/p/6223432",
@@ -37,6 +37,5 @@
       "name": "Krultangen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h11/hc4/32568130633758/prd-front-6223432-1_600x600/prd-front-6223432-1-600x600.jpg"
+  "description": ""
 }

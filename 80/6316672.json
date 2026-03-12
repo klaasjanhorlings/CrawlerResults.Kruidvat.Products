@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Light/Medium Dual-Ended Contour Stick",
   "code": "6316672",
-  "price": "10.0",
+  "price": "8.99",
   "priceOriginal": "14.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 6783",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1062288",
-  "mmkId": "1062288",
-  "productGroupId": "521953",
+  "onPromo": "1062436",
+  "mmkId": "1062436",
+  "productGroupId": "524142",
   "brandType": "Exclusief merk",
-  "discount": "€ 4,99",
+  "discount": "€ 6,00",
   "url": "/mcobeauty-light/medium-dual-ended-contour-stick/p/6316672",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,6 +33,5 @@
       "name": "Contour"
     }
   ],
-  "description": "10,5g",
-  "image": "/medias/sys_master/prd-images/h57/hb9/34828191432734/prd-front-6316672-1_600x600/prd-front-6316672-1-600x600.jpg"
+  "description": "10,5g"
 }

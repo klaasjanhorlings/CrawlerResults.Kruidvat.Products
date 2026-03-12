@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Tweezerman Classic Lash Curler",
   "code": "5741870",
-  "price": "19.99",
-  "priceOriginal": "",
+  "price": "14.99",
+  "priceOriginal": "19.99",
   "itemBgbcat": "2002 > 2221 > 2492 > 3057 > 6328 > 6674",
   "supplier": "LEIJTENS IMPORT BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062432",
+  "mmkId": "1062432",
+  "productGroupId": "522261",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,00",
   "url": "/tweezerman-classic-lash-curler/p/5741870",
   "listName": "Lister",
   "brand": "Tweezerman",
@@ -33,5 +33,6 @@
       "name": "Wimperkrullers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc3/h03/29022518870046/prd-front-5741870-1_600x600/prd-front-5741870-1-600x600.jpg"
 }

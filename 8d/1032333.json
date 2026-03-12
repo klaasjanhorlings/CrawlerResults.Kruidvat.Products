@@ -8,8 +8,8 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5678 > 5679",
   "supplier": "NESTLE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1062830",
-  "mmkId": "1062830",
+  "onPromo": "",
+  "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
@@ -33,6 +33,5 @@
       "name": "Babytussendoortjes"
     }
   ],
-  "description": "4 x 100g",
-  "image": "/medias/sys_master/prd-images/h11/h83/28867017244702/prd-front-1032333-1_600x600/prd-front-1032333-1-600x600.jpg"
+  "description": "4 x 100g"
 }

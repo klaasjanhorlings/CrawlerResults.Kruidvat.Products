@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Mama Care Borstkompressen",
+  "code": "6496299",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
+  "supplier": "GEOCOS BV",
+  "inStock": "inStock",
+  "onPromo": "1062199",
+  "mmkId": "1062199",
+  "productGroupId": "518639",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-mama-care-borstkompressen/p/6496299",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266023,
+      "name": "Zwangerschap en kraamtijd"
+    },
+    {
+      "id": 30266806,
+      "name": "Zoogkompressen"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/hb5/h4c/47163800387614/temp-prd-front-6496299-1_600x600/temp-prd-front-6496299-1-600x600.jpg"
+}

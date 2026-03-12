@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat 4+M Baby Warmtelepels",
+  "code": "6488312",
+  "price": "3.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
+  "supplier": "SOLUTION EU BV",
+  "inStock": "outOfStock",
+  "onPromo": "1062199",
+  "mmkId": "1062199",
+  "productGroupId": "518639",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-4m-baby-warmtelepels/p/6488312",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266022,
+      "name": "Babyvoedingsaccessoires"
+    },
+    {
+      "id": 30266803,
+      "name": "Kinderservies"
+    }
+  ],
+  "description": "3 stuks",
+  "image": "/medias/sys_master/prd-images/h2a/h2c/47459395993630/temp-prd-front-6488312-1_600x600/temp-prd-front-6488312-1-600x600.jpg"
+}

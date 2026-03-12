@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2130 > 2324 > 2723 > 3426 > 4362",
   "supplier": "MUNDIA BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062200",
   "mmkId": "1062200",
   "productGroupId": "518643",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "beige, mt 86-92",
-  "image": "/medias/sys_master/prd-images/h5d/h59/47968558645278/temp-prd-front-6284129-1_600x600/temp-prd-front-6284129-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hec/h6f/48024233967646/temp-prd-front-6284129-1_600x600/temp-prd-front-6284129-1-600x600.jpg"
 }

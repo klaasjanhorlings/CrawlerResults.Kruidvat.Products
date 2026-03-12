@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Pampers Harmonie Maat 6 Luierbroekjes",
   "code": "6262226",
-  "price": "23.99",
-  "priceOriginal": "",
+  "price": "11.99",
+  "priceOriginal": "23.99",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2892 > 3667",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "1062403",
-  "mmkId": "1062403",
-  "productGroupId": "519495",
+  "onPromo": "1062946",
+  "mmkId": "1062946",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 12,00",
   "url": "/pampers-harmonie-maat-6-luierbroekjes/p/6262226",
   "listName": "Lister",
   "brand": "Pampers",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 6"
     }
   ],
-  "description": "Maat 6 (15+kg), 24 stuks"
+  "description": "Maat 6 (15+kg), 24 stuks",
+  "image": "/medias/sys_master/prd-images/h1b/h79/33350445989918/prd-front-6262226-1_600x600/prd-front-6262226-1-600x600.jpg"
 }
