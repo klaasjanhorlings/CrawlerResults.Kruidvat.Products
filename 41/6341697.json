@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Stenghtening Scalp & Hair Oil",
+  "code": "6341697",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 6701",
+  "supplier": "EMIL KIESSLING GMBH",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-stenghtening-scalp-hair-oil/p/6341697",
+  "listName": "Lister",
+  "brand": "Kruidvat Power Curls",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 82417013,
+      "name": "Krullenverzorging"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h1a/hc6/34890407215134/prd-front-6341697-1_600x600/prd-front-6341697-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier PureActive Salicylic Anti-Imperfections Serum Mask",
+  "code": "6518160",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "1061687",
+  "mmkId": "1061687",
+  "productGroupId": "508197",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-pureactive-salicylic-anti-imperfections-serum-mask/p/6518160",
+  "listName": "Lister",
+  "brand": "Garnier Skin Naturals",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266607,
+      "name": "Gezichtsmaskers"
+    },
+    {
+      "id": 87374839,
+      "name": "Sheet maskers"
+    }
+  ],
+  "description": "28g",
+  "image": "/medias/sys_master/prd-images/h9c/h64/47490343796766/temp-prd-front-6518160-1_600x600/temp-prd-front-6518160-1-600x600.jpg"
+}

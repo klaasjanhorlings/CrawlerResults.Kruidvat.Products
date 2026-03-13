@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "OGX Renewing Argan Oil of Morocco Repairing Conditioner",
+  "code": "3302832",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ogx-renewing-argan-oil-of-morocco-repairing-conditioner/p/3302832",
+  "listName": "Lister",
+  "brand": "OGX",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "385ml - Droog en beschadigd haar",
+  "image": "/medias/sys_master/prd-images/hfa/hff/44630582099998/prd-front-3302832-1_600x600/prd-front-3302832-1-600x600.jpg"
+}

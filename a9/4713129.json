@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pantene Active Pro-V Repair & Protect 3 Minute Miracle Conditioner",
+  "code": "4713129",
+  "price": "5.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pantene-active-pro-v-repair-protect-3-minute-miracle-conditioner/p/4713129",
+  "listName": "Lister",
+  "brand": "Pantene",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "220ml - Droog en beschadigd haar",
+  "image": "/medias/sys_master/prd-images/hc2/h25/47909345198110/temp-prd-front-4713129-1_600x600/temp-prd-front-4713129-1-600x600.jpg"
+}

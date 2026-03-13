@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jacob Hooy Haarlemmer Bruin SPF30 Spray",
+  "code": "6496138",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "JACOB HOOY&CO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jacob-hooy-haarlemmer-bruin-spf30-spray/p/6496138",
+  "listName": "Lister",
+  "brand": "Jacob Hooy",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131890081,
+      "name": "Zonnebrand spray"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h43/h4b/48088436768798/temp-prd-front-6496138-1_600x600/temp-prd-front-6496138-1-600x600.jpg"
+}

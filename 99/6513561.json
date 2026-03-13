@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cetaphil Repair & Nachtserum",
+  "code": "6513561",
+  "price": "27.95",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
+  "supplier": "GALDERMA BENELUX BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/cetaphil-repair-nachtserum/p/6513561",
+  "listName": "Lister",
+  "brand": "Cetaphil",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30266606,
+      "name": "Dermacare"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hb9/h19/47587884793886/temp-prd-front-6513561-1_600x600/temp-prd-front-6513561-1-600x600.jpg"
+}

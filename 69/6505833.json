@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Garnier Loving Blends Grape Moisture 2-in-1 Hydraterende Leave-In Stylingcrème",
+  "code": "6505833",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 3577 > 6689",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/garnier-loving-blends-grape-moisture-2-in-1-hydraterende-leave-in-stylingcreme/p/6505833",
+  "listName": "Lister",
+  "brand": "Loving Blends",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266696,
+      "name": "Haarserum"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h91/he9/47491528982558/temp-prd-front-6505833-1_600x600/temp-prd-front-6505833-1-600x600.jpg"
+}

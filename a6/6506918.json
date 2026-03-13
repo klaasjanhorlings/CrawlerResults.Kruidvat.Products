@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Growth Bomb Restore & Refresh Supercharge Spray",
+  "code": "6506918",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6697",
+  "supplier": "TRADE SENSE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/growth-bomb-restore-refresh-supercharge-spray/p/6506918",
+  "listName": "Lister",
+  "brand": "Growth Bomb",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213665,
+      "name": "Haartreatment"
+    }
+  ],
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/h9c/he9/47491531276318/temp-prd-front-6506918-1_600x600/temp-prd-front-6506918-1-600x600.jpg"
+}

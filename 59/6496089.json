@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Fusion One All in One Hybrid Trimmer en Scheerapparaat",
+  "code": "6496089",
+  "price": "39.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3880 > 5722",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-fusion-one-all-in-one-hybrid-trimmer-en-scheerapparaat/p/6496089",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266685,
+      "name": "Haartrimmers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc5/h13/47743708692510/temp-prd-front-6496089-1_600x600/temp-prd-front-6496089-1-600x600.jpg"
+}

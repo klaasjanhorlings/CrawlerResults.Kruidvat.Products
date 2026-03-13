@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Scalp + Hair Therapy Damage Rescue Conditioner",
+  "code": "6500380",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "1062167",
+  "mmkId": "1062167",
+  "productGroupId": "511631",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-scalp-hair-therapy-damage-rescue-conditioner/p/6500380",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/h6b/h9f/48060345942046/temp-prd-front-6500380-1_600x600/temp-prd-front-6500380-1-600x600.jpg"
+}

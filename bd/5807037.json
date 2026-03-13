@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corine de Farme SPF30 Droge Olie",
+  "code": "5807037",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "LABORATOIRES SARBEC FRANCE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corine-de-farme-spf30-droge-olie/p/5807037",
+  "listName": "Lister",
+  "brand": "Corine De Farme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131936884,
+      "name": "Zonnebrandolie"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h78/hbb/48087701487646/temp-prd-front-5807037-1_600x600/temp-prd-front-5807037-1-600x600.jpg"
+}

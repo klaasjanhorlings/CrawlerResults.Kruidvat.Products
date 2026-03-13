@@ -5,7 +5,7 @@
   "code": "6318373",
   "price": "5.39",
   "priceOriginal": "8.99",
-  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
   "onPromo": "1062436",
@@ -33,9 +33,10 @@
       "name": "Lipmake-up"
     },
     {
-      "id": 87395798,
-      "name": "Lip plumper"
+      "id": 87395837,
+      "name": "Lip mask"
     }
   ],
-  "description": "2g"
+  "description": "2g",
+  "image": "/medias/sys_master/prd-images/hff/hdd/44118853353502/prd-front-6318373-1_600x600/prd-front-6318373-1-600x600.jpg"
 }

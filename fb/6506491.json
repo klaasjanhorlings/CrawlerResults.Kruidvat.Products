@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Scalp + Hair Therapy Density & Growth 3-in-1 Scalp Serum",
+  "code": "6506491",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6696",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "1062167",
+  "mmkId": "1062167",
+  "productGroupId": "511631",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-scalp-hair-therapy-density-growth-3-in-1-scalp-serum/p/6506491",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266696,
+      "name": "Haarserum"
+    }
+  ],
+  "description": "45ml",
+  "image": "/medias/sys_master/prd-images/hc1/hab/48070977323038/temp-prd-front-6506491-1_600x600/temp-prd-front-6506491-1-600x600.jpg"
+}

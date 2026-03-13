@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Oral-B Superfloss Threaders",
+  "code": "6499750",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2903 > 3700",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "1062253",
+  "mmkId": "1062253",
+  "productGroupId": "520135",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/oral-b-superfloss-threaders/p/6499750",
+  "listName": "Lister",
+  "brand": "Oral B",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266668,
+      "name": "Flosdraad"
+    }
+  ],
+  "description": "50 stuks",
+  "image": "/medias/sys_master/prd-images/ha1/h37/47490839216158/temp-prd-front-6499750-1_600x600/temp-prd-front-6499750-1-600x600.jpg"
+}
