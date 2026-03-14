@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Naïf Kids Shampoo & Body Wash",
   "code": "6378160",
   "price": "6.24",
@@ -12,7 +12,7 @@
   "mmkId": "1062087",
   "productGroupId": "531367",
   "brandType": "A of B merk",
-  "discount": "€ 6,25",
+  "discount": "$ 6,25",
   "url": "/naif-kids-shampoo-body-wash/p/6378160",
   "listName": "Lister",
   "brand": "Naïf",

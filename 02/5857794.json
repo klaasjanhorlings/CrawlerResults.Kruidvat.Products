@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5921 > 5178 > 5286 > 5475 > 2263 > 6040",
   "supplier": "THE ESSENTIALS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "2-6 Jaar (15-30kg)",
-  "image": "/medias/sys_master/prd-images/h5c/h1d/48070881640478/temp-prd-front-5857794-1_600x600/temp-prd-front-5857794-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h55/hfe/48110718451742/temp-prd-front-5857794-1_600x600/temp-prd-front-5857794-1-600x600.jpg"
 }

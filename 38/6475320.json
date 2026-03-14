@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pampers Baby-Dry Pants Maat 6 Luierbroekjes",
   "code": "6475320",
   "price": "71.99",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 6"
     }
   ],
-  "description": "mt 6 (13-19kg), 94 stuks"
+  "description": "mt 6 (13-19kg), 94 stuks",
+  "image": "/medias/sys_master/prd-images/h9a/hde/46521329156126/temp-prd-front-6475320-1_600x600/temp-prd-front-6475320-1-600x600.jpg"
 }

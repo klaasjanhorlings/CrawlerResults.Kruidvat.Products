@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corine de Farme Uiervet Bruinende Olie",
+  "code": "6031730",
+  "price": "8.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
+  "supplier": "LABORATOIRES SARBEC FRANCE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corine-de-farme-uiervet-bruinende-olie/p/6031730",
+  "listName": "Lister",
+  "brand": "Corine De Farme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266658,
+      "name": "Aftersun"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h0a/hf5/29995780505630/prd-front-6031730-1_600x600/prd-front-6031730-1-600x600.jpg"
+}

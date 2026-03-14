@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Olvarit 6+M Drie Granen Pap",
   "code": "6312038",
   "price": "2.45",
@@ -33,6 +33,5 @@
       "name": "Babypap"
     }
   ],
-  "description": "200g",
-  "image": "/medias/sys_master/prd-images/h46/hdd/47905790132254/temp-prd-front-6312038-1_600x600/temp-prd-front-6312038-1-600x600.jpg"
+  "description": "200g"
 }

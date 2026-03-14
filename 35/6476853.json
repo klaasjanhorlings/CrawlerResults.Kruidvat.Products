@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pampers Aqua Soft Touch Babydoekjes",
   "code": "6476853",
   "price": "30.79",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "9 x 48 stuks",
-  "image": "/medias/sys_master/prd-images/hbd/hbd/47459615440926/temp-prd-front-6476853-1_600x600/temp-prd-front-6476853-1-600x600.jpg"
+  "description": "9 x 48 stuks"
 }

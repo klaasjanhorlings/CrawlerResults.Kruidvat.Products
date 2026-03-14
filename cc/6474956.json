@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Pampers Baby-Dry Maat 4 Luiers",
   "code": "6474956",
   "price": "33.79",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 4"
     }
   ],
-  "description": "mt 4 (9-14kg), 72 stuks",
-  "image": "/medias/sys_master/prd-images/h18/h29/46521300516894/temp-prd-front-6474956-1_600x600/temp-prd-front-6474956-1-600x600.jpg"
+  "description": "mt 4 (9-14kg), 72 stuks"
 }
