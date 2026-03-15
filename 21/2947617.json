@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Axe Dark Temptation XL Deodorant Bodyspray",
   "code": "2947617",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h30/h33/47596314132510/temp-prd-front-2947617-1_600x600/temp-prd-front-2947617-1-600x600.jpg"
 }

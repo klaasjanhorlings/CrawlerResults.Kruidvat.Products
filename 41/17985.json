@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kneipp Soft Skin Amandelbloesem Badolie",
   "code": "17985",
   "price": "8.74",
@@ -12,7 +12,7 @@
   "mmkId": "1062189",
   "productGroupId": "516739",
   "brandType": "A or B brand",
-  "discount": "€ 3,75",
+  "discount": "$ 3,75",
   "url": "/kneipp-soft-skin-amandelbloesem-badolie/p/17985",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,5 +33,6 @@
       "name": "Badolie"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/prd-front-17985-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAxMjM3fGltYWdlL2pwZWd8YUdFeEwyZzNOaTh5TmprMk5qUTVNelkxT1RFMk5pOXdjbVF0Wm5KdmJuUXRNVGM1T0RVdE1WODJNREI0TmpBd3w3NjIzNmQ3NTQ0MDNkM2U0MDBjZGZmMTkxZDUxZDIwYTJmYmE4M2YyMjM1ZjdlOGFiOTE5OGZlYWUxZGEzN2Rl"
 }

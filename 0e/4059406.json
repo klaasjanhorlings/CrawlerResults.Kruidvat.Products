@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Byron Bay Tan Activator Sun Lotion SPF 30",
   "code": "4059406",
   "price": "16.99",
@@ -37,6 +37,5 @@
       "name": "Zonnebrand spray"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h07/hb0/47303566163998/temp-prd-front-4059406-1_600x600/temp-prd-front-4059406-1-600x600.jpg"
+  "description": "200ml"
 }

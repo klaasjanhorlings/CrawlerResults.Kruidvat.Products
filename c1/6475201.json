@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Pampers Baby-Dry Maat 7 Luiers",
   "code": "6475201",
   "price": "61.49",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 7"
     }
   ],
-  "description": "mt 7 (15+kg), 92 stuks"
+  "description": "mt 7 (15+kg), 92 stuks",
+  "image": "/medias/sys_master/prd-images/h41/h5e/46521003737118/temp-prd-front-6475201-1_600x600/temp-prd-front-6475201-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Garnier Ambre Solaire Invisible Protect SPF30 Beschermende Mist",
   "code": "6243396",
   "price": "26.49",
@@ -37,6 +37,5 @@
       "name": "Zonnebrand spray"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h6c/hdb/48056200593438/temp-prd-front-6243396-1_600x600/temp-prd-front-6243396-1-600x600.jpg"
+  "description": "150ml"
 }

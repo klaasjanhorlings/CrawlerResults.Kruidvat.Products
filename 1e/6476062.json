@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Pampers Night Pants Maat 7 Luierbroekjes",
   "code": "6476062",
   "price": "34.79",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 7"
     }
   ],
-  "description": "mt 7 (15+kg), 38 stuks"
+  "description": "mt 7 (15+kg), 38 stuks",
+  "image": "/medias/sys_master/prd-images/hde/h1c/46521591627806/temp-prd-front-6476062-1_600x600/temp-prd-front-6476062-1-600x600.jpg"
 }

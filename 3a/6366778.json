@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Krultang",
   "code": "6366778",
   "price": "14.24",
@@ -12,7 +12,7 @@
   "mmkId": "1062360",
   "productGroupId": "519593",
   "brandType": "Eigen merk",
-  "discount": "€ 4,75",
+  "discount": "$ 4,75",
   "url": "/kruidvat-krultang/p/6366778",
   "listName": "Lister",
   "brand": "Kruidvat",

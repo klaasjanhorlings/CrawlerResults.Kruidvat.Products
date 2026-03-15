@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Olvarit 12+M Acht Granen Vanille Ontbijtpap",
   "code": "2871744",
   "price": "2.45",
@@ -33,6 +33,5 @@
       "name": "Babypap"
     }
   ],
-  "description": "200g",
-  "image": "/medias/sys_master/prd-images/hee/h6f/47918893269022/temp-prd-front-2871744-1_600x600/temp-prd-front-2871744-1-600x600.jpg"
+  "description": "200g"
 }

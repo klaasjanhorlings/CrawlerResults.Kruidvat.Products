@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Therme Finn Sauna Fresh Bath Oil",
   "code": "4678423",
   "price": "3.0",
@@ -33,5 +33,6 @@
       "name": "Badolie"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h2f/h9d/46716080783390/temp-prd-front-4678423-1_600x600/temp-prd-front-4678423-1-600x600.jpg"
 }

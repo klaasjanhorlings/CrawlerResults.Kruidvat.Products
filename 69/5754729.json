@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Always Cotton Protection Long Plus Maandverband",
   "code": "5754729",
   "price": "3.09",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "9 stuks"
+  "description": "9 stuks",
+  "image": "/medias/sys_master/prd-images/h13/h03/32028644016158/prd-front-5754729-1_600x600/prd-front-5754729-1-600x600.jpg"
 }

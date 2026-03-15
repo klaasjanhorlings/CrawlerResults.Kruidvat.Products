@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Meegroeiromper",
   "code": "6284234",
   "price": "3.99",
@@ -33,6 +33,5 @@
       "name": "Rompertjes"
     }
   ],
-  "description": "groen, mt 74-80",
-  "image": "/medias/sys_master/prd-images/h3c/h2b/47311600091166/temp-prd-front-6284234-1_600x600/temp-prd-front-6284234-1-600x600.jpg"
+  "description": "groen, mt 74-80"
 }

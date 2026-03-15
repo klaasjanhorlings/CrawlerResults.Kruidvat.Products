@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Naïf Baby & Kids Mineral Sunscreen SPF50 Zonnecrème",
   "code": "6496474",
   "price": "26.99",
@@ -33,5 +33,6 @@
       "name": "Baby zonnebrand"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/hcd/h79/48071065010206/temp-prd-front-6496474-1_600x600/temp-prd-front-6496474-1-600x600.jpg"
 }

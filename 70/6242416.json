@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Australian Gold Aftersun Moisturizer met Bronzer",
   "code": "6242416",
   "price": "19.95",
@@ -33,6 +33,5 @@
       "name": "Aftersun"
     }
   ],
-  "description": "237ml",
-  "image": "/medias/sys_master/prd-images/ha8/hb2/48071009370142/temp-prd-front-6242416-1_600x600/temp-prd-front-6242416-1-600x600.jpg"
+  "description": "237ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Umberto Giannini Crème De Curl Curl Control Cream",
   "code": "6247435",
   "price": "10.95",
@@ -33,5 +33,6 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h54/h56/33106025447454/prd-front-6247435-1_600x600/prd-front-6247435-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Gillette Venus Pro ComfortGlide Sugarberry Scheermes",
   "code": "5818692",
   "price": "15.0",
@@ -12,7 +12,7 @@
   "mmkId": "1062230",
   "productGroupId": "519235",
   "brandType": "A of B merk",
-  "discount": "€ 5,99",
+  "discount": "$ 5,99",
   "url": "/gillette-venus-pro-comfortglide-sugarberry-scheermes/p/5818692",
   "listName": "Lister",
   "brand": "Gillette Venus",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4c/h09/33995951833118/prd-front-5818692-1_600x600/prd-front-5818692-1-600x600.jpg"
 }

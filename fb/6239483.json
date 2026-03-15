@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "CCS Eeltcrème",
   "code": "6239483",
   "price": "12.74",
@@ -12,7 +12,7 @@
   "mmkId": "1062237",
   "productGroupId": "519538",
   "brandType": "A of B merk",
-  "discount": "€ 4,25",
+  "discount": "$ 4,25",
   "url": "/ccs-eeltcreme/p/6239483",
   "listName": "Lister",
   "brand": "CCS",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Drs Leenarts SPF50 Suncare Fluid",
   "code": "6499148",
   "price": "22.99",
@@ -41,5 +41,6 @@
       "name": "Zonnefluïde"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h27/h74/48088431067166/temp-prd-front-6499148-1_600x600/temp-prd-front-6499148-1-600x600.jpg"
 }

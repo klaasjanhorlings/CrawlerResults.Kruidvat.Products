@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Biodermal Gevoelige Huid SPF30 Zonnespray",
   "code": "4329851",
   "price": "36.49",
@@ -37,6 +37,5 @@
       "name": "Zonnebrand spray"
     }
   ],
-  "description": "175ml",
-  "image": "/medias/sys_master/prd-images/h06/h33/44808103198750/prd-front-4329851-1_600x600/prd-front-4329851-1-600x600.jpg"
+  "description": "175ml"
 }

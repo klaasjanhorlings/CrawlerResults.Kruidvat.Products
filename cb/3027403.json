@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Got2b Glued Spiking Wax",
   "code": "3027403",
   "price": "9.49",
@@ -33,6 +33,5 @@
       "name": "Haarwax"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h0f/h62/47052524486686/temp-prd-front-3027403-1_600x600/temp-prd-front-3027403-1-600x600.jpg"
+  "description": "75ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Philips 2000 Series NT2650/16 Neustrimmer",
   "code": "5295676",
   "price": "9.99",
@@ -12,7 +12,7 @@
   "mmkId": "1062275",
   "productGroupId": "520814",
   "brandType": "A of B merk",
-  "discount": "€ 6,00",
+  "discount": "$ 6,00",
   "url": "/philips-2000-series-nt2650/16-neustrimmer/p/5295676",
   "listName": "Lister",
   "brand": "Philips",

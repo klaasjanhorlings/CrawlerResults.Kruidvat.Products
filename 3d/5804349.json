@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Drs Leenarts Aftersun",
   "code": "5804349",
   "price": "15.99",
@@ -33,5 +33,6 @@
       "name": "Aftersun"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/ha3/h3d/48051964608542/temp-prd-front-5804349-1_600x600/temp-prd-front-5804349-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Solait Summer Gold SPF30 Sunmilkspray",
   "code": "4059602",
   "price": "10.49",
@@ -37,5 +37,6 @@
       "name": "Zonnebrand spray"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h3d/h86/33164564627486/prd-front-4059602-1_600x600/prd-front-4059602-1-600x600.jpg"
 }

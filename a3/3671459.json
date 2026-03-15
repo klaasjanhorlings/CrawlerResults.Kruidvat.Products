@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kneipp Soft Skin Amandelbloesem Douchefoam",
   "code": "3671459",
   "price": "6.99",
@@ -12,7 +12,7 @@
   "mmkId": "1062189",
   "productGroupId": "516739",
   "brandType": "A or B brand",
-  "discount": "€ 3,00",
+  "discount": "$ 3,00",
   "url": "/kneipp-soft-skin-amandelbloesem-douchefoam/p/3671459",
   "listName": "Lister",
   "brand": "Kneipp",
@@ -33,6 +33,5 @@
       "name": "Doucheschuim"
     }
   ],
-  "description": "200ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/ha5/hce/44859150663710/prd-front-3671459-1_600x600/prd-front-3671459-1-600x600.jpg"
+  "description": "200ml - Gevoelige huid"
 }

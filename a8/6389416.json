@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Zenner Satijnen Haarhandoek",
   "code": "6389416",
   "price": "9.99",
@@ -30,5 +30,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h5e/h3f/48095199592478/temp-prd-front-6389416-1_600x600/temp-prd-front-6389416-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h09/h57/48141436059678/temp-prd-front-6389416-1_600x600/temp-prd-front-6389416-1-600x600.jpg"
 }
