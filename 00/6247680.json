@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "GilletteLabs Navulmesjes",
   "code": "6247680",
   "price": "29.45",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/h84/h95/48147966623774/temp-prd-front-6247680-1_600x600/temp-prd-front-6247680-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h10/hf4/48185756090398/temp-prd-front-6247680-1_600x600/temp-prd-front-6247680-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Braun Silk-épil 9 Epilator",
   "code": "6037064",
   "price": "179.99",
@@ -33,6 +33,5 @@
       "name": "Epilators"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he4/hfc/30018156396574/prd-front-6037064-1_600x600/prd-front-6037064-1-600x600.jpg"
+  "description": ""
 }

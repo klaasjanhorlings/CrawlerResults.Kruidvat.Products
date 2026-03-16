@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Axe Epic Fresh 3-in-1 Douchegel",
   "code": "5617585",
   "price": "5.09",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h1f/h05/33389804290078/prd-front-5617585-1_600x600/prd-front-5617585-1-600x600.jpg"
+  "description": "250ml"
 }

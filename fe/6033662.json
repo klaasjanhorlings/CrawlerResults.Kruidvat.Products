@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Always Platinum Secure Night Maandverband",
   "code": "6033662",
   "price": "5.55",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3060 > 3908",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062476",
+  "mmkId": "1062476",
+  "productGroupId": "520404",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-platinum-secure-night-maandverband/p/6033662",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 4, 14 stuks",
-  "image": "/medias/sys_master/prd-images/h31/hf6/48154526547998/temp-prd-front-6033662-2_600x600/temp-prd-front-6033662-2-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hb8/h32/48192616955934/temp-prd-front-6033662-1_600x600/temp-prd-front-6033662-1-600x600.jpg"
 }

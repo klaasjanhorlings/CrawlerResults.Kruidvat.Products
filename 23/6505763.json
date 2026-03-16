@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier Fructis Kiwi Menthol Hair Food Haarmasker",
   "code": "6505763",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h79/h25/47491473473566/temp-prd-front-6505763-1_600x600/temp-prd-front-6505763-1-600x600.jpg"
+  "description": "400ml"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kinder Délice Cacao",
+  "code": "2896258",
+  "price": "4.79",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "FERRERO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kinder-delice-cacao/p/2896258",
+  "listName": "Lister",
+  "brand": "Kinder",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464836,
+      "name": "Bonbons en pralines"
+    }
+  ],
+  "description": "390g, 10 stuks",
+  "image": "/medias/prd-front-2896258-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Njk4NjR8aW1hZ2UvanBlZ3xhREU0TDJoa1l5OHhOakE1T0RFM01EYzJOVE0wTWk5d2NtUXRabkp2Ym5RdE1qZzVOakkxT0MweFh6WXdNSGcyTURBfDA4MDc0NTI0NzA1NWNkZjQyMjE2Zjg4YzMxNjA4ODRiMWZkY2I2ZjE4YzRhYWI3MGJhOWNjMWM0OTVmMTk5Zjc"
+}

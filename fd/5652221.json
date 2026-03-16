@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "GilletteLabs Scheergel",
   "code": "5652221",
   "price": "8.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "198ml",
-  "image": "/medias/sys_master/prd-images/hdd/h41/48144409559070/temp-prd-front-5652221-1_600x600/temp-prd-front-5652221-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd8/hc2/48185608831006/temp-prd-front-5652221-1_600x600/temp-prd-front-5652221-1-600x600.jpg"
 }

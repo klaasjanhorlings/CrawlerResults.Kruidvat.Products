@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sanex Zero% Hypoallergene Douchegel",
   "code": "5859334",
   "price": "6.49",
@@ -33,6 +33,5 @@
       "name": "Douchegel"
     }
   ],
-  "description": "400ml - Gevoelige huid",
-  "image": "/medias/sys_master/prd-images/hb2/h82/33907063717918/prd-front-5859334-1_600x600/prd-front-5859334-1-600x600.jpg"
+  "description": "400ml - Gevoelige huid"
 }

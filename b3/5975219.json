@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dove Go Fresh Cucumber & Green Tea Antitranspirant Deodorant Roller",
   "code": "5975219",
   "price": "5.79",
@@ -33,5 +33,6 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hf6/h08/47591990067230/temp-prd-front-5975219-1_600x600/temp-prd-front-5975219-1-600x600.jpg"
 }

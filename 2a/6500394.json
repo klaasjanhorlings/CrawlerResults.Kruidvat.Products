@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Dove Scalp + Hair Soothing Hydration Shampoo",
   "code": "6500394",
   "price": "13.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "400ml",
-  "image": "/medias/sys_master/prd-images/h3a/h1a/48141429178398/temp-prd-front-6500394-1_600x600/temp-prd-front-6500394-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

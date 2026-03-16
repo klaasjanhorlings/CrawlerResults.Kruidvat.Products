@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Extra Long Power Alkaline Batterijen",
+  "code": "6467900",
+  "price": "13.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2134 > 6013 > 6145 > 6146 > 6147",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-extra-long-power-alkaline-batterijen/p/6467900",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266055,
+      "name": "Batterijen"
+    }
+  ],
+  "description": "79 stuks"
+}

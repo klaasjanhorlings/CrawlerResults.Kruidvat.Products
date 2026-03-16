@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "OGX Brazilian Keratin Smooth Haarmasker",
   "code": "6033123",
   "price": "13.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h03/hfb/48141345947678/temp-prd-front-6033123-1_600x600/temp-prd-front-6033123-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Shopper met Grafische Print",
+  "code": "6412691",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
+  "supplier": "MIJNSCHOENENSHOP.NL",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-shopper-met-grafische-print/p/6412691",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    },
+    {
+      "id": 101713392,
+      "name": "Shopper"
+    }
+  ],
+  "description": "zwart, wit, 46cm x 2cm x 35cm",
+  "image": "/medias/sys_master/prd-images/h11/h93/44682819862558/prd-front-6412691-1_600x600/prd-front-6412691-1-600x600.jpg"
+}

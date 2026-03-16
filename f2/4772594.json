@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Always Platinum Long Maandverband",
   "code": "4772594",
   "price": "5.55",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062476",
+  "mmkId": "1062476",
+  "productGroupId": "520404",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-platinum-long-maandverband/p/4772594",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "mt 2, 20 stuks",
-  "image": "/medias/sys_master/prd-images/h1f/h5e/48148084195358/temp-prd-front-4772594-1_600x600/temp-prd-front-4772594-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hba/h94/48188585836574/temp-prd-front-4772594-1_600x600/temp-prd-front-4772594-1-600x600.jpg"
 }

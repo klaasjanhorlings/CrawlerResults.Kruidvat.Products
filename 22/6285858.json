@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Q10 Verstevigend + Anti-Rimpel Crème voor Hals en Decolleté",
   "code": "6285858",
   "price": "21.69",
@@ -33,5 +33,6 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "200ml - Droge en rijpe huid"
+  "description": "200ml - Droge en rijpe huid",
+  "image": "/medias/sys_master/prd-images/h17/h20/34868285014046/prd-front-6285858-1_600x600/prd-front-6285858-1-600x600.jpg"
 }

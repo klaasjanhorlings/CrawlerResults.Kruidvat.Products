@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Sensodyne Proglasur Daily Protection Tandpasta",
   "code": "2868615",
   "price": "6.29",
@@ -33,5 +33,6 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml - Glazuurbescherming"
+  "description": "75ml - Glazuurbescherming",
+  "image": "/medias/sys_master/prd-images/h1e/hd5/45715194216478/temp-prd-front-2868615-1_600x600/temp-prd-front-2868615-1-600x600.jpg"
 }

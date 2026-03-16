@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "OGX Renewing Argan Oil of Morocco Repairing Conditioner",
   "code": "3302832",
   "price": "9.99",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "385ml - Droog en beschadigd haar",
-  "image": "/medias/sys_master/prd-images/hfa/hff/44630582099998/prd-front-3302832-1_600x600/prd-front-3302832-1-600x600.jpg"
+  "description": "385ml - Droog en beschadigd haar"
 }

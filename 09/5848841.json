@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "GilletteLabs Scheermesjes",
   "code": "5848841",
   "price": "85.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "12 stuks",
-  "image": "/medias/sys_master/prd-images/ha0/h5c/48144488726558/temp-prd-front-5848841-1_600x600/temp-prd-front-5848841-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h17/hd4/48185696321566/temp-prd-front-5848841-1_600x600/temp-prd-front-5848841-1-600x600.jpg"
 }

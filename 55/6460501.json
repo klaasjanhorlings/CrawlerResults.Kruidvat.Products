@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "The Simpsons Familie-Multipack",
+  "code": "6460501",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 2746 > 3454 > 4929 > 5921 > 6040",
+  "supplier": "JAKKS EUROPE BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/the-simpsons-familie-multipack/p/6460501",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925702,
+      "name": "Speelfiguren"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9f/h54/47295665209374/temp-prd-front-6460501-1_600x600/temp-prd-front-6460501-1-600x600.jpg"
+}

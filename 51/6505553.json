@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "L'Oréal Paris Full Resist Power Masker",
   "code": "6505553",
   "price": "10.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h13/h25/48144487022622/temp-prd-front-6505553-1_600x600/temp-prd-front-6505553-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h05/h6d/48185694945310/temp-prd-front-6505553-1_600x600/temp-prd-front-6505553-1-600x600.jpg"
 }

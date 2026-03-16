@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Plantur DMG Clinical Serum",
   "code": "6506477",
   "price": "22.95",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "125ml",
-  "image": "/medias/sys_master/prd-images/h44/hbd/48144308961310/temp-prd-front-6506477-1_600x600/temp-prd-front-6506477-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hd4/h93/48183002169374/temp-prd-front-6506477-1_600x600/temp-prd-front-6506477-1-600x600.jpg"
 }

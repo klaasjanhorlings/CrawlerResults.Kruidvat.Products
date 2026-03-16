@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1062373",
-  "mmkId": "1062373",
-  "productGroupId": "522548",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-minecraft-21583-steves-taiga-avontuur/p/6425886",
@@ -33,6 +33,5 @@
       "name": "LEGO Minecraft"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h75/h4d/45713540481054/temp-prd-front-6425886-1_600x600/temp-prd-front-6425886-1-600x600.jpg"
+  "description": ""
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Gillette ProGlide Scheersysteem",
   "code": "6371188",
   "price": "68.49",
@@ -33,5 +33,6 @@
       "name": "Scheermesjes"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h82/h0e/46446869741598/temp-prd-front-6371188-1_600x600/temp-prd-front-6371188-1-600x600.jpg"
 }

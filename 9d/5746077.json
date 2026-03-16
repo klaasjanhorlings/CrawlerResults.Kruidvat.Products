@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Multi-Gyn Verzorgende en Beschermende Crème",
   "code": "5746077",
   "price": "15.49",
@@ -12,7 +12,7 @@
   "mmkId": "1062239",
   "productGroupId": "519893",
   "brandType": "A of B merk",
-  "discount": "$ 1,50",
+  "discount": "€ 1,50",
   "url": "/multi-gyn-verzorgende-en-beschermende-creme/p/5746077",
   "listName": "Lister",
   "brand": "Multi-Gyn",
@@ -33,6 +33,5 @@
       "name": "Intieme hygiëne"
     }
   ],
-  "description": "50g",
-  "image": "/medias/sys_master/prd-images/h3f/hd7/34038893051934/prd-front-5746077-1_600x600/prd-front-5746077-1-600x600.jpg"
+  "description": "50g"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NIVEA Sun Breathable Uv Face Sensitive SPF50+ Zonnecrème",
   "code": "6496208",
   "price": "17.99",
@@ -37,6 +37,5 @@
       "name": "Zonnebrand crème"
     }
   ],
-  "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h10/hb6/48148046708766/temp-prd-front-6496208-1_600x600/temp-prd-front-6496208-1-600x600.jpg"
+  "description": "40ml"
 }

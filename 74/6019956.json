@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Garnier Ambre Solaire Super Uv Vitamine C SPF50+ Anti-Pigmentvlekken Fluid",
   "code": "6019956",
   "price": "23.99",
@@ -42,5 +42,5 @@
     }
   ],
   "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h57/h42/48141342670878/temp-prd-front-6019956-1_600x600/temp-prd-front-6019956-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

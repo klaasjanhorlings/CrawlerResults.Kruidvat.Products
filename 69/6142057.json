@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Philips OneBlade Intimate Female QP1924/22 Scheerapparaat en Trimmer",
   "code": "6142057",
   "price": "39.99",
@@ -33,6 +33,5 @@
       "name": "Baardtrimmers"
     }
   ],
-  "description": "1 stuk",
-  "image": "/medias/sys_master/prd-images/hb2/haa/34048307822622/prd-front-6142057-1_600x600/prd-front-6142057-1-600x600.jpg"
+  "description": "1 stuk"
 }

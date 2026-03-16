@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Claas 780 Lexion Oogstmachine",
+  "code": "6458681",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 2746 > 3454 > 4929 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/claas-780-lexion-oogstmachine/p/6458681",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266031,
+      "name": "Voertuigen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h95/hac/47295570771998/temp-prd-front-6458681-1_600x600/temp-prd-front-6458681-1-600x600.jpg"
+}

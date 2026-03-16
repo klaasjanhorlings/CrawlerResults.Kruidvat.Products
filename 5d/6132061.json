@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Oral-B Pro 3D White Clinical Intensieve Whitening Radiant White Tandpasta",
   "code": "6132061",
   "price": "9.99",
@@ -37,5 +37,6 @@
       "name": "Whitening tandpasta"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h2f/h0f/31944519876638/prd-front-6132061-1_600x600/prd-front-6132061-1-600x600.jpg"
 }

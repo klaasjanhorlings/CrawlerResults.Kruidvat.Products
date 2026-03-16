@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Guhl Men Vol & Sterk Shampoo",
   "code": "5740799",
   "price": "9.29",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h7d/h44/47407710961694/temp-prd-front-5740799-1_600x600/temp-prd-front-5740799-1-600x600.jpg"
+  "description": "250ml"
 }

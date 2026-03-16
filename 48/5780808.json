@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "John Frieda Profiller+ Shampoo",
   "code": "5780808",
   "price": "14.49",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h40/hc1/46149232164894/temp-prd-front-5780808-1_600x600/temp-prd-front-5780808-1-600x600.jpg"
+  "description": "250ml"
 }

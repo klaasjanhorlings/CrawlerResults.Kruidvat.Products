@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "COTY NETHERLANDS CB SUB",
   "inStock": "outOfStock",
-  "onPromo": "1062437",
-  "mmkId": "1062437",
-  "productGroupId": "530048",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/max-factor-lipfinity-2-step-001-pearly-nude-long-lasting-lipstick/p/881679",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "2,3ml"
+  "description": "2,3ml",
+  "image": "/medias/sys_master/prd-images/h54/hff/35013445255198/prd-front-881679-1_600x600/prd-front-881679-1-600x600.jpg"
 }

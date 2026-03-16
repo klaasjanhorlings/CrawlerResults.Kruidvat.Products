@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Jil Sander Sun Delight Eau De Toilette",
   "code": "3446661",
-  "price": "18.89",
-  "priceOriginal": "20.99",
+  "price": "20.99",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
   "supplier": "SAR TRADING BV",
   "inStock": "outOfStock",
-  "onPromo": "1062435",
-  "mmkId": "1062435",
-  "productGroupId": "523087",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 2,10",
+  "discount": "",
   "url": "/jil-sander-sun-delight-eau-de-toilette/p/3446661",
   "listName": "Lister",
   "brand": "Jil Sander",
@@ -33,6 +33,5 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h0b/hb9/28332370919454/prd-front-3446661-1_600x600/prd-front-3446661-1-600x600.jpg"
+  "description": "100ml"
 }

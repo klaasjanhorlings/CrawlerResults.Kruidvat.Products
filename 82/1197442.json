@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Guhl Vocht & Glans Voedende Conditioner",
   "code": "1197442",
   "price": "8.99",
@@ -33,6 +33,5 @@
       "name": "Conditioner"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h9d/hc3/47412331511838/temp-prd-front-1197442-1_600x600/temp-prd-front-1197442-1-600x600.jpg"
+  "description": "200ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "GUM HaliControl Tongreiniger",
   "code": "732473",
   "price": "5.59",
@@ -33,5 +33,6 @@
       "name": "Tongreinigers"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hdf/hf9/34508202344478/prd-front-732473-1_600x600/prd-front-732473-1-600x600.jpg"
 }

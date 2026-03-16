@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Color Booster 7.34 Light Warm Brown Kleurshampoo",
   "code": "3550415",
   "price": "2.49",
@@ -33,6 +33,5 @@
       "name": "Shampoo"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h7e/h86/45051827552286/prd-front-3550415-1_600x600/prd-front-3550415-1-600x600.jpg"
+  "description": "75ml"
 }

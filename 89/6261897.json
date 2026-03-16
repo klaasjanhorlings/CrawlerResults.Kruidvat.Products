@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Gillette Venus Pro ComfortGlide Coconut Scheersysteem",
   "code": "6261897",
   "price": "15.0",
@@ -12,7 +12,7 @@
   "mmkId": "1062230",
   "productGroupId": "519235",
   "brandType": "A of B merk",
-  "discount": "$ 4,99",
+  "discount": "€ 4,99",
   "url": "/gillette-venus-pro-comfortglide-coconut-scheersysteem/p/6261897",
   "listName": "Lister",
   "brand": "Gillette Venus",
@@ -33,5 +33,6 @@
       "name": "Scheerapparaten"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h42/h49/33470787059742/prd-front-6261897-1_600x600/prd-front-6261897-1-600x600.jpg"
 }

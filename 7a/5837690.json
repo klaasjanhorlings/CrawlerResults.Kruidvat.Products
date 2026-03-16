@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Libresse Ultra Goodnight Maandverband",
   "code": "5837690",
   "price": "4.89",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "18 stuks",
-  "image": "/medias/sys_master/prd-images/ha9/h89/48141446545438/temp-prd-front-5837690-1_600x600/temp-prd-front-5837690-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

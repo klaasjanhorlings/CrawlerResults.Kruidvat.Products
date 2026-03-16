@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "GilletteLabs Scheermesjes",
   "code": "5719463",
   "price": "29.99",
@@ -12,7 +12,7 @@
   "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 30,00",
+  "discount": "€ 30,00",
   "url": "/gillettelabs-scheermesjes/p/5719463",
   "listName": "Lister",
   "brand": "Gillette",

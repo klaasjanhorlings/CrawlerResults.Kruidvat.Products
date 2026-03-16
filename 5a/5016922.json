@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Slazenger Voetbal",
+  "code": "5016922",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2263 > 2622 > 3301 > 4200 > 6040",
+  "supplier": "EDCO EINDHOVEN BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/slazenger-voetbal/p/5016922",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 57856073,
+      "name": "Sport"
+    },
+    {
+      "id": 57907486,
+      "name": "Voetbal"
+    }
+  ],
+  "description": "380g",
+  "image": "/medias/sys_master/prd-images/h9e/h2b/47251751927838/temp-prd-front-5016922-1_600x600/temp-prd-front-5016922-1-600x600.jpg"
+}

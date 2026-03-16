@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Fa Cream & Oil Cacao Douchecrème",
   "code": "5340609",
   "price": "4.29",
@@ -33,5 +33,6 @@
       "name": "Douchecrème"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h96/had/44365657309214/prd-front-5340609-1_600x600/prd-front-5340609-1-600x600.jpg"
 }

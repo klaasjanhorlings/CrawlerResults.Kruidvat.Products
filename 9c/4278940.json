@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Odorex Ultra Protect Deodorant Roller",
   "code": "4278940",
   "price": "4.79",
@@ -33,6 +33,5 @@
       "name": "Deoroller"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/h56/hfd/44324133044254/prd-front-4278940-1_600x600/prd-front-4278940-1-600x600.jpg"
+  "description": "50ml"
 }

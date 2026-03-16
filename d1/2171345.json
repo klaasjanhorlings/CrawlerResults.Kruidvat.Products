@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Aquafresh Tandsteencontrole Tandpasta",
   "code": "2171345",
   "price": "2.59",
@@ -33,6 +33,5 @@
       "name": "Tandpasta"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/he1/h85/47042797961246/temp-prd-front-2171345-1_600x600/temp-prd-front-2171345-1-600x600.jpg"
+  "description": "75ml"
 }

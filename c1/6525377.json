@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dress To Impress S1 Mystery Model",
+  "code": "6525377",
+  "price": "5.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 5177 > 5271 > 5460 > 5921 > 6040",
+  "supplier": "BOTI EUROPE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/dress-to-impress-s1-mystery-model/p/6525377",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925806,
+      "name": "Speelsets"
+    }
+  ],
+  "description": "10cm",
+  "image": "/medias/sys_master/prd-images/h59/h11/47633303175198/temp-prd-front-6525377-1_600x600/temp-prd-front-6525377-1-600x600.jpg"
+}

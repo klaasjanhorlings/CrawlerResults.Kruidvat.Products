@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Plantur DMG Clinical Shampoo",
   "code": "6506463",
   "price": "22.95",
@@ -33,5 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h45/h44/48185717489694/temp-prd-front-6506463-1_600x600/temp-prd-front-6506463-1-600x600.jpg"
 }

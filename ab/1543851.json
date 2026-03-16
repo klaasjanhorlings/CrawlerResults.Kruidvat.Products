@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Schwarzkopf Reflex-Silver Shampoo",
   "code": "1543851",
   "price": "7.49",
@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2590 > 2681 > 3912",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062483",
+  "mmkId": "1062483",
+  "productGroupId": "522420",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-reflex-silver-shampoo/p/1543851",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "250ml",
-  "image": "/medias/sys_master/prd-images/h2e/hf5/48141324779550/temp-prd-front-1543851-1_600x600/temp-prd-front-1543851-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Elmex Sensitive Fresh Breath Tandpasta",
   "code": "4953761",
   "price": "6.49",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "75ml - Gevoelige tanden",
-  "image": "/medias/sys_master/prd-images/h49/h12/48141440647198/temp-prd-front-4953761-1_600x600/temp-prd-front-4953761-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

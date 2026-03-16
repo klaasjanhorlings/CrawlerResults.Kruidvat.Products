@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 3016 > 3840",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1062225",
-  "mmkId": "1062225",
-  "productGroupId": "519178",
+  "onPromo": "1062482",
+  "mmkId": "1062482",
+  "productGroupId": "521947",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-mega-volume-collageen-24h-01-extra-black-mascara/p/5784602",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h59/hfb/45052402204702/prd-front-5784602-1_600x600/prd-front-5784602-1-600x600.jpg"
 }
