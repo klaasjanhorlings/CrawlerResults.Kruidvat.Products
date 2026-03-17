@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Jersey Hoeslaken",
+  "code": "6394113",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2453 > 2738 > 3440 > 5926 > 6020",
+  "supplier": "BEDDING HOUSE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-jersey-hoeslaken/p/6394113",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 61702185,
+      "name": "Hoeslakens"
+    }
+  ],
+  "description": "oudroze, 160cm x 180cm",
+  "image": "/medias/sys_master/prd-images/hcc/h1f/44778076799006/prd-front-6394113-1_600x600/prd-front-6394113-1-600x600.jpg"
+}

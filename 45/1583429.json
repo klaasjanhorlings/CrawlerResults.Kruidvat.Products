@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2052 > 2175 > 6459 > 6460 > 6784",
   "supplier": "PIETERCIL BARENDS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1008193",
   "mmkId": "1008193",
   "productGroupId": "218105",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "60ml",
-  "image": "/medias/sys_master/prd-images/h2d/h70/48192706150430/temp-prd-front-1583429-1_600x600/temp-prd-front-1583429-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/hcf/h81/48236306071582/temp-prd-front-1583429-1_600x600/temp-prd-front-1583429-1-600x600.jpg"
 }

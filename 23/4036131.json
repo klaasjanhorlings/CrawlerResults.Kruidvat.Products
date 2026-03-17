@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Petal Fresh Pure Rosemary & Mint Volumizing Conditioner",
+  "code": "4036131",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "REBRO COSMETICS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/petal-fresh-pure-rosemary-mint-volumizing-conditioner/p/4036131",
+  "listName": "Lister",
+  "brand": "Petal Fresh pure",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "355 ml",
+  "image": "/medias/prd-front-4036131-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NDg0MDJ8aW1hZ2UvanBlZ3xhR05pTDJnM01pOHhOelF3TlRBek56ZzNNVEV6TkM5d2NtUXRabkp2Ym5RdE5EQXpOakV6TVMweFh6WXdNSGcyTURBfGY2ODcwNDI0MTQ5YTdiZTM5ZDYyZTJmMmZmZWQwMGM4NGQzMTdlMmJlNmMxZWM2YWRkYjQ1NjM1ZTAzODExYWI"
+}

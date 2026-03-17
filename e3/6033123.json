@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "OGX Brazilian Keratin Smooth Haarmasker",
+  "itemName": "OGX Brazilian Keratin Smooth & Sleek Haarmasker",
   "code": "6033123",
   "price": "13.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6695",
   "supplier": "KENVUE",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/ogx-brazilian-keratin-smooth-haarmasker/p/6033123",
+  "url": "/ogx-brazilian-keratin-smooth-sleek-haarmasker/p/6033123",
   "listName": "Lister",
   "brand": "OGX",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "300ml - Pluizig en krullend haar",
+  "image": "/medias/sys_master/prd-images/hf4/h04/48221962436638/temp-prd-front-6033123-1_600x600/temp-prd-front-6033123-1-600x600.jpg"
 }

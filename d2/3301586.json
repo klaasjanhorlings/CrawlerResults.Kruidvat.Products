@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Ogx Ever Straight Brazilian Keratin Smooth Shampoo",
+  "itemName": "OGX Brazilian Keratin Smooth & Sleek Shampoo",
   "code": "3301586",
   "price": "9.99",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 5896 > 5916",
   "supplier": "KENVUE",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/ogx-ever-straight-brazilian-keratin-smooth-shampoo/p/3301586",
+  "url": "/ogx-brazilian-keratin-smooth-sleek-shampoo/p/3301586",
   "listName": "Lister",
   "brand": "OGX",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,6 @@
       "name": "Shampoo"
     }
   ],
-  "description": "385ml",
+  "description": "385ml - Pluizig of krullend haar",
   "image": "/medias/sys_master/prd-images/h78/hfa/47430172016670/temp-prd-front-3301586-1_600x600/temp-prd-front-3301586-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Cacharel Noa Eau de Toilette",
+  "code": "240412",
+  "price": "21.99",
+  "priceOriginal": "22.49",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "1061963",
+  "mmkId": "1061963",
+  "productGroupId": "520277",
+  "brandType": "A of B merk",
+  "discount": "€ 0,50",
+  "url": "/cacharel-noa-eau-de-toilette/p/240412",
+  "listName": "Lister",
+  "brand": "Cacharel",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hce/ha0/31773392404510/prd-front-240412-1_600x600/prd-front-240412-1-600x600.jpg"
+}

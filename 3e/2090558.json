@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dr. Scholl's 2-In-1 Oplossing voor Schimmelnagels",
+  "itemName": "Dr. Scholl's 2-In-1 Behandel & Bescherm Kalknagel",
   "code": "2090558",
   "price": "19.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "218105",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dr-scholls-2-in-1-oplossing-voor-schimmelnagels/p/2090558",
+  "url": "/dr-scholls-2-in-1-behandel-bescherm-kalknagel/p/2090558",
   "listName": "Lister",
   "brand": "Dr. Scholl's",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Medisch hulpmiddel - 3,8ml",
-  "image": "/medias/sys_master/prd-images/h35/h76/48188711665694/temp-prd-front-2090558-1_600x600/temp-prd-front-2090558-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8d/h4b/48232045510686/temp-prd-front-2090558-1_600x600/temp-prd-front-2090558-1-600x600.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Dove Original Beauty Cream Soapbar",
+  "itemName": "Dove Original Beauty Cream Bar",
   "code": "5678450",
   "price": "3.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "511631",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/dove-original-beauty-cream-soapbar/p/5678450",
+  "url": "/dove-original-beauty-cream-bar/p/5678450",
   "listName": "Lister",
   "brand": "Dove",
   "mpOrigin": "Kruidvat",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/h9e/h23/48188597239838/temp-prd-front-5678450-1_600x600/temp-prd-front-5678450-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h3d/he5/48228571152414/temp-prd-front-5678450-1_600x600/temp-prd-front-5678450-1-600x600.jpg"
 }

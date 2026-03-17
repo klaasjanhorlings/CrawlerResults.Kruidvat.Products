@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6697",
   "supplier": "KENVUE",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,6 @@
       "name": "Heat protectors"
     }
   ],
-  "description": "193ml",
+  "description": "193ml - Droog en beschadigd haar",
   "image": "/medias/sys_master/prd-images/h79/hfe/47490845605918/temp-prd-front-6506456-1_600x600/temp-prd-front-6506456-1-600x600.jpg"
 }

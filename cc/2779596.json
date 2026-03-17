@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "DALLI - WERKE GMBH & CO",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -37,6 +37,5 @@
       "name": "Zonnebrand crème"
     }
   ],
-  "description": "400ml",
-  "image": "/medias/sys_master/prd-images/he5/hc8/48192601194526/temp-prd-front-2779596-1_600x600/temp-prd-front-2779596-1-600x600.jpg"
+  "description": "400ml"
 }
