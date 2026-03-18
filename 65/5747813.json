@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536080,
-      "name": "Baby"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 75860460,
-      "name": "Baby en Kind gezondheid"
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266671,
+      "name": "Tandenborstels"
     }
   ],
   "description": "",

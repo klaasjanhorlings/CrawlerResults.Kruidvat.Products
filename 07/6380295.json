@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "NIVEA Pink Soft Moments of Joy Geschenkset",
+  "code": "6380295",
+  "price": "11.99",
+  "priceOriginal": "14.99",
+  "itemBgbcat": "2002 > 5861 > 5864 > 5873 > 5890 > 5910",
+  "supplier": "BEIERSDORF NV NL",
+  "inStock": "inStock",
+  "onPromo": "1062493",
+  "mmkId": "1062493",
+  "productGroupId": "526481",
+  "brandType": "A of B merk",
+  "discount": "€ 3,00",
+  "url": "/nivea-pink-soft-moments-of-joy-geschenkset/p/6380295",
+  "listName": "Lister",
+  "brand": "Nivea",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265989,
+      "name": "Geschenksets"
+    },
+    {
+      "id": 72656138,
+      "name": "Geschenkset voor haar"
+    },
+    {
+      "id": 87397518,
+      "name": "Bad & douche geschenksets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h84/ha4/48272765288478/temp-prd-front-6380295-1_600x600/temp-prd-front-6380295-1-600x600.jpg"
+}

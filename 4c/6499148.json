@@ -21,24 +21,12 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 30265999,
-      "name": "Zonbescherming"
-    },
-    {
-      "id": 30266657,
-      "name": "Zonnebrand"
-    },
-    {
-      "id": 131891956,
-      "name": "Gezicht zonnebrand"
-    },
-    {
-      "id": 131892112,
-      "name": "Zonnefluïde"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "50ml",

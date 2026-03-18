@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6695",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -33,6 +33,5 @@
       "name": "Haarmasker"
     }
   ],
-  "description": "300ml",
-  "image": "/medias/sys_master/prd-images/h49/h03/48044632014878/temp-prd-front-6494598-1_600x600/temp-prd-front-6494598-1-600x600.jpg"
+  "description": "300ml"
 }

@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,10 +29,9 @@
       "name": "LEGO"
     },
     {
-      "id": 30266825,
-      "name": "LEGO Minecraft"
+      "id": 69034864,
+      "name": "LEGO Games"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h75/h4d/45713540481054/temp-prd-front-6425886-1_600x600/temp-prd-front-6425886-1-600x600.jpg"
+  "description": ""
 }

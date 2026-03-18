@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Versace Dylan Purple Eau de Parfum",
+  "code": "6348242",
+  "price": "33.74",
+  "priceOriginal": "44.99",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "MAINSTEIN GMBH",
+  "inStock": "inStock",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 11,25",
+  "url": "/versace-dylan-purple-eau-de-parfum/p/6348242",
+  "listName": "Lister",
+  "brand": "Versace",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/ha7/h98/34935538221086/prd-front-6348242-1_600x600/prd-front-6348242-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gillette Venus Comfortglide Breeze Navulmesjes",
+  "code": "6503936",
+  "price": "61.47",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3200 > 3799",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gillette-venus-comfortglide-breeze-navulmesjes/p/6503936",
+  "listName": "Lister",
+  "brand": "Gillette Venus",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266678,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "12 stuks",
+  "image": "/medias/sys_master/prd-images/hd5/h56/48305574051870/temp-prd-front-6503936-1_600x600/temp-prd-front-6503936-1-600x600.jpg"
+}

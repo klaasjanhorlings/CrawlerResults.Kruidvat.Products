@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Kruidvat Solait SPF30 Brush on Face Transparant Sun Powder",
   "code": "6003037",
-  "price": "12.99",
+  "price": "10.49",
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BRAND SENSE BV",
@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30265987,
-      "name": "Make-up"
+      "id": 30265999,
+      "name": "Zonbescherming"
     },
     {
-      "id": 30266587,
-      "name": "Gezichtspoeder"
+      "id": 30266657,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131936918,
+      "name": "Zonnebrand mini"
     }
   ],
   "description": "4g",

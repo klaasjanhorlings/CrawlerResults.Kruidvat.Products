@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Armaf Delights YumYum Eau de Toilette",
+  "code": "6396584",
+  "price": "29.99",
+  "priceOriginal": "39.99",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
+  "supplier": "JTG BV",
+  "inStock": "inStock",
+  "onPromo": "1025309",
+  "mmkId": "1025309",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 10,00",
+  "url": "/armaf-delights-yumyum-eau-de-toilette/p/6396584",
+  "listName": "Lister",
+  "brand": "Armaf",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "100ml"
+}

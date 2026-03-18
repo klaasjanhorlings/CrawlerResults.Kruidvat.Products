@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "LOREAL NED BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1061687",
   "mmkId": "1061687",
   "productGroupId": "508197",
@@ -37,6 +37,5 @@
       "name": "Sheet maskers"
     }
   ],
-  "description": "28g",
-  "image": "/medias/sys_master/prd-images/h9c/h64/47490343796766/temp-prd-front-6518160-1_600x600/temp-prd-front-6518160-1-600x600.jpg"
+  "description": "28g"
 }
