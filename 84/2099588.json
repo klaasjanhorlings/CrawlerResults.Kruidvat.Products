@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Schwarzkopf Anti-Klit Conditioner",
+  "code": "2099588",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1062483",
+  "mmkId": "1062483",
+  "productGroupId": "522420",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/schwarzkopf-anti-klit-conditioner/p/2099588",
+  "listName": "Lister",
+  "brand": "Schauma",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266695,
+      "name": "Conditioner"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h8e/he5/47915204444190/temp-prd-front-2099588-1_600x600/temp-prd-front-2099588-1-600x600.jpg"
+}

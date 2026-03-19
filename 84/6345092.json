@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5921 > 6741 > 6740 > 6739 > 6040",
   "supplier": "JUMBO NL BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062519",
+  "mmkId": "1062519",
+  "productGroupId": "538150",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jumbo-pisa-spel/p/6345092",
@@ -33,5 +33,6 @@
       "name": "Interactief speelgoed"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hca/h82/34898812764190/prd-front-6345092-1_600x600/prd-front-6345092-1-600x600.jpg"
 }

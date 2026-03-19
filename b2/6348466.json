@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6040",
   "supplier": "IDENTITY GAMES INT. BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062519",
+  "mmkId": "1062519",
+  "productGroupId": "538150",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/identity-games-name-that-tune-hits-spel/p/6348466",
@@ -33,6 +33,5 @@
       "name": "Kaartspellen"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/ha5/h90/45078063185950/prd-front-6348466-1_600x600/prd-front-6348466-1-600x600.jpg"
+  "description": ""
 }

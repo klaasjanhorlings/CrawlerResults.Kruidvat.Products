@@ -8,9 +8,9 @@
   "itemBgbcat": "4640 > 5186 > 5353 > 5542 > 5921 > 6040",
   "supplier": "AS WATSON (TRAD.HK LIM)",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062519",
+  "mmkId": "1062519",
+  "productGroupId": "538150",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/houten-walvis-trekdier/p/6425571",
@@ -33,6 +33,5 @@
       "name": "Houten speelsets"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1b/h30/45038729625630/prd-front-6425571-1_600x600/prd-front-6425571-1-600x600.jpg"
+  "description": ""
 }
