@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Bold Magnetic 040 Caught In Your Orbit Nail Polish",
   "code": "6344546",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "10,5ml"
+  "description": "10,5ml",
+  "image": "/medias/sys_master/prd-images/hb4/h7b/35017088237598/prd-front-6344546-1_600x600/prd-front-6344546-1-600x600.jpg"
 }

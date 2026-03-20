@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Biodermal Skin Booster Glow Serum",
   "code": "5511549",
   "price": "19.99",
@@ -12,7 +12,7 @@
   "mmkId": "1062238",
   "productGroupId": "519632",
   "brandType": "A of B merk",
-  "discount": "€ 20,00",
+  "discount": "$ 20,00",
   "url": "/biodermal-skin-booster-glow-serum/p/5511549",
   "listName": "Lister",
   "brand": "Biodermal",

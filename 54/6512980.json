@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wild Fresh Cotton & Sea Salt Deodorant Navulling",
+  "code": "6512980",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3070 > 3677",
+  "supplier": "WILD COSMETICS LTD.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wild-fresh-cotton-sea-salt-deodorant-navulling/p/6512980",
+  "listName": "Lister",
+  "brand": "Wild",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266645,
+      "name": "Deostick"
+    }
+  ],
+  "description": "2 x 40g",
+  "image": "/medias/sys_master/prd-images/hba/hb3/48044779110430/temp-prd-front-6512980-1_600x600/temp-prd-front-6512980-1-600x600.jpg"
+}

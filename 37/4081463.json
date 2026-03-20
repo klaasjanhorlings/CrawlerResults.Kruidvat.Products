@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Syoss Oleo Intense 4-50 IJzig Bruin Haarkleuring",
   "code": "4081463",
   "price": "18.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he4/h36/45664146259998/temp-prd-front-4081463-1_600x600/temp-prd-front-4081463-1-600x600.jpg"
+  "description": ""
 }

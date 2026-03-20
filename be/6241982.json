@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Superstay 140 Lumi Matte Foundation",
   "code": "6241982",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "35ml"
+  "description": "35ml",
+  "image": "/medias/sys_master/prd-images/hab/h48/44795704442910/prd-front-6241982-1_600x600/prd-front-6241982-1-600x600.jpg"
 }

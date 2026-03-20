@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "McoBeauty Hydrate & Glow Watermelon Ultra-Fine Mist",
   "code": "6317029",
   "price": "10.0",
@@ -12,7 +12,7 @@
   "mmkId": "1062288",
   "productGroupId": "521953",
   "brandType": "Exclusief merk",
-  "discount": "€ 1,99",
+  "discount": "$ 1,99",
   "url": "/mcobeauty-hydrate-glow-watermelon-ultra-fine-mist/p/6317029",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Fixing sprays"
     }
   ],
-  "description": "75mL"
+  "description": "75mL",
+  "image": "/medias/sys_master/prd-images/h21/h86/34826212311070/prd-front-6317029-1_600x600/prd-front-6317029-1-600x600.jpg"
 }

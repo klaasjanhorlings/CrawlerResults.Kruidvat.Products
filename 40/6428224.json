@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Maybe It's Satin Serum Lipstick",
   "code": "6428224",
   "price": "14.99",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcc/h30/46341499289630/temp-prd-front-6428224-1_600x600/temp-prd-front-6428224-1-600x600.jpg"
 }

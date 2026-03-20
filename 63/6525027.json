@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dove Whole Body Deo Original Deodorant Stick",
+  "code": "6525027",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3070 > 3677",
+  "supplier": "UNILEVER NEDERLAND BV",
+  "inStock": "outOfStock",
+  "onPromo": "1062167",
+  "mmkId": "1062167",
+  "productGroupId": "511631",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dove-whole-body-deo-original-deodorant-stick/p/6525027",
+  "listName": "Lister",
+  "brand": "Dove",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 132940966,
+      "name": "Whole body deodorant"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/hdb/h43/47596301025310/temp-prd-front-6525027-1_600x600/temp-prd-front-6525027-1-600x600.jpg"
+}

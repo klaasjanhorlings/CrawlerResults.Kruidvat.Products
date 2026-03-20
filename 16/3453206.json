@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Issey Miyake l'Eau d'Issey Pour Homme Intense Eau de Toilette",
   "code": "3453206",
   "price": "31.25",
@@ -33,5 +33,6 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "125ml"
+  "description": "125ml",
+  "image": "/medias/sys_master/prd-images/ha3/h1c/31087418146846/prd-front-3453206-1_600x600/prd-front-3453206-1-600x600.jpg"
 }

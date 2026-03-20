@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Guess Seductive Noir Women Eau de Toilette",
   "code": "5050382",
   "price": "15.99",
@@ -12,7 +12,7 @@
   "mmkId": "1061963",
   "productGroupId": "520277",
   "brandType": "A of B merk",
-  "discount": "€ 34,96",
+  "discount": "$ 34,96",
   "url": "/guess-seductive-noir-women-eau-de-toilette/p/5050382",
   "listName": "Lister",
   "brand": "Guess",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "75ml"
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h88/h36/44498807324702/prd-front-5050382-1_600x600/prd-front-5050382-1-600x600.jpg"
 }

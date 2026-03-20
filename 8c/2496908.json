@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Demak'Up Wattenschijfjes",
   "code": "2496908",
   "price": "5.0",
   "priceOriginal": "6.59",
   "itemBgbcat": "2003 > 2038 > 2157 > 2385 > 2827 > 4088",
   "supplier": "ESSITY",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062190",
   "mmkId": "1062190",
   "productGroupId": "517081",
   "brandType": "A of B merk",
-  "discount": "€ 1,59",
+  "discount": "$ 1,59",
   "url": "/demakup-wattenschijfjes/p/2496908",
   "listName": "Lister",
   "brand": "Demak'Up",
@@ -33,5 +33,6 @@
       "name": "Wattenschijfjes en staafjes"
     }
   ],
-  "description": "280 stuks"
+  "description": "280 stuks",
+  "image": "/medias/sys_master/prd-images/h93/h8a/31066441449502/prd-front-2496908-1_600x600/prd-front-2496908-1-600x600.jpg"
 }

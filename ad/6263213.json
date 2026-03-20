@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Schwarzkopf Creme Supreme 5-60 Chocolade Bruin Verzorgende Crèmekleuring",
   "code": "6263213",
   "price": "20.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": "182g"
+  "description": "182g",
+  "image": "/medias/sys_master/prd-images/h70/h98/46143689359390/temp-prd-front-6263213-1_600x600/temp-prd-front-6263213-1-600x600.jpg"
 }

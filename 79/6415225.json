@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "e.l.f. Glow Reviver Dream Plumping Lip Oil",
   "code": "6415225",
   "price": "10.0",
@@ -37,6 +37,5 @@
       "name": "Lip plumper"
     }
   ],
-  "description": "7,6ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "7,6ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Maybelline New York Lifter 20 Full Coverage Serum Concealer",
   "code": "6428126",
   "price": "13.99",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h6a/hab/46344263139358/temp-prd-front-6428126-1_600x600/temp-prd-front-6428126-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

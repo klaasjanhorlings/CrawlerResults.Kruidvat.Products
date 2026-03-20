@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Zarqa Sensitive Reinigingsmelk",
   "code": "6491686",
   "price": "11.99",
@@ -12,7 +12,7 @@
   "mmkId": "1062279",
   "productGroupId": "521111",
   "brandType": "A of B merk",
-  "discount": "€ 4,00",
+  "discount": "$ 4,00",
   "url": "/zarqa-sensitive-reinigingsmelk/p/6491686",
   "listName": "Lister",
   "brand": "Zarqa",
@@ -37,6 +37,5 @@
       "name": "Reinigingscreme"
     }
   ],
-  "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h6a/ha0/46378485645342/temp-prd-front-6491686-1_600x600/temp-prd-front-6491686-1-600x600.jpg"
+  "description": "200ml"
 }

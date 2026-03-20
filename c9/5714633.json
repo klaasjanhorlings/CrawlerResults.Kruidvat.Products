@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corine de Farme Lilo & Stitch 3-in-1 Douchegel",
+  "code": "5714633",
+  "price": "4.8",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2727 > 3430",
+  "supplier": "LABORATOIRES SARBEC FRANCE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corine-de-farme-lilo-stitch-3-in-1-douchegel/p/5714633",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266777,
+      "name": "Baby bad- en doucheverzorging"
+    },
+    {
+      "id": 30267021,
+      "name": "Babywasgel"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/hce/h72/48363419107358/temp-prd-front-5714633-1_600x600/temp-prd-front-5714633-1-600x600.jpg"
+}

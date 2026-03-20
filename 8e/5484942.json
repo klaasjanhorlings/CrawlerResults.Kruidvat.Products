@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Extreme Drama 080 Mermaid Turquoise Soft Glide Waterproof Eyeliner Pencil",
   "code": "5484942",
   "price": "2.99",
@@ -33,6 +33,5 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "1,2g",
-  "image": "/medias/sys_master/prd-images/hb9/h2e/27570126192670/prd-front-5484942-1_600x600/prd-front-5484942-1-600x600.jpg"
+  "description": "1,2g"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Cosmic Dreams 150 Fiery Red Longlasting Gel Color Nagellak",
   "code": "6372826",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Nagellak"
     }
   ],
-  "description": "9ml"
+  "description": "9ml",
+  "image": "/medias/sys_master/prd-images/hba/h79/44488837627934/prd-front-6372826-1_600x600/prd-front-6372826-1-600x600.jpg"
 }

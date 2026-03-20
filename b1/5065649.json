@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Biodermal Sensitive Balance Micellair Reinigingsgel",
   "code": "5065649",
   "price": "14.99",
@@ -12,7 +12,7 @@
   "mmkId": "1062238",
   "productGroupId": "519632",
   "brandType": "A of B merk",
-  "discount": "€ 15,00",
+  "discount": "$ 15,00",
   "url": "/biodermal-sensitive-balance-micellair-reinigingsgel/p/5065649",
   "listName": "Lister",
   "brand": "Biodermal",
@@ -37,5 +37,6 @@
       "name": "Reinigingsgel"
     }
   ],
-  "description": "200ml - Gevoelige huid"
+  "description": "200ml - Gevoelige huid",
+  "image": "/medias/sys_master/prd-images/h64/hfa/34533419221022/prd-front-5065649-1_600x600/prd-front-5065649-1-600x600.jpg"
 }

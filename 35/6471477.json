@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Essence Micro Precise 05 Black Brown Eyebrow Pencil",
   "code": "6471477",
   "price": "2.49",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h04/hee/46766153039902/temp-prd-front-6471477-1_600x600/temp-prd-front-6471477-1-600x600.jpg"
 }

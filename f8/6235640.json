@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Plump Ambition 380 Rouge In Love Hyaluronic Lip Oil",
   "code": "6235640",
   "price": "16.99",
@@ -37,5 +37,6 @@
       "name": "Lip oil"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h44/h9e/44954294648862/prd-front-6235640-1_600x600/prd-front-6235640-1-600x600.jpg"
 }

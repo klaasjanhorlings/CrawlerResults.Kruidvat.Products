@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "MCoBeauty Highlight & Glow Champagne Glow Beauty Wand",
   "code": "6317036",
   "price": "10.0",
@@ -12,7 +12,7 @@
   "mmkId": "1062288",
   "productGroupId": "521953",
   "brandType": "Exclusief merk",
-  "discount": "€ 1,99",
+  "discount": "$ 1,99",
   "url": "/mcobeauty-highlight-glow-champagne-glow-beauty-wand/p/6317036",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,6 +33,5 @@
       "name": "Highlighter"
     }
   ],
-  "description": "12ml",
-  "image": "/medias/sys_master/prd-images/h23/hcb/34869864792094/prd-front-6317036-1_600x600/prd-front-6317036-1-600x600.jpg"
+  "description": "12ml"
 }

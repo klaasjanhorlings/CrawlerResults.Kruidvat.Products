@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Elizabeth Arden Sunflowers Eau de Toilette",
+  "code": "3997491",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3632",
+  "supplier": "LABORI INTERNATIONAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/elizabeth-arden-sunflowers-eau-de-toilette/p/3997491",
+  "listName": "Lister",
+  "brand": "Elizabeth Arden",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265988,
+      "name": "Parfum"
+    },
+    {
+      "id": 72654362,
+      "name": "Damesparfum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/prd-front-3997491-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8Mzc1ODZ8aW1hZ2UvanBlZ3xhRE15TDJnd09TOHhOalU1TkRVeE5qWXpPVGMzTkM5d2NtUXRabkp2Ym5RdE16azVOelE1TVMweFh6WXdNSGcyTURBfDYwYzNmYjUwN2M4YjI3MjUyNmZlMmY0ZmU5ZjdlNTY5ZjkyMTYxZDBjMWQyOGNkODU3MTlmYmJlMzcxNjhhMzI"
+}

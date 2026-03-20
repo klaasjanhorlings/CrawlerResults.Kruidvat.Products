@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Catrice Velvet Pudding 020 Peach Pudding Blurring Blush",
   "code": "6384138",
   "price": "4.69",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "5g"
+  "description": "5g",
+  "image": "/medias/sys_master/prd-images/hb4/hed/46435110518814/temp-prd-front-6384138-1_600x600/temp-prd-front-6384138-1-600x600.jpg"
 }

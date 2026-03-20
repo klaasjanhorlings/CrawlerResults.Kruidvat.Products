@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Max Factor Mellow Blur 30 Lipstick",
   "code": "6465513",
   "price": "16.99",
@@ -37,5 +37,6 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3,5g"
+  "description": "3,5g",
+  "image": "/medias/sys_master/prd-images/hcc/h36/47164855779358/temp-prd-front-6465513-1_600x600/temp-prd-front-6465513-1-600x600.jpg"
 }

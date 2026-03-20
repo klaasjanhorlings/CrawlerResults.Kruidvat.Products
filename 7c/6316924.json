@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "MCoBeauty Glow Anti Redness Primer",
   "code": "6316924",
   "price": "10.0",
@@ -12,7 +12,7 @@
   "mmkId": "1062288",
   "productGroupId": "521953",
   "brandType": "Exclusief merk",
-  "discount": "€ 1,99",
+  "discount": "$ 1,99",
   "url": "/mcobeauty-glow-anti-redness-primer/p/6316924",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Primer"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hd6/h2e/34827822268446/prd-front-6316924-1_600x600/prd-front-6316924-1-600x600.jpg"
 }

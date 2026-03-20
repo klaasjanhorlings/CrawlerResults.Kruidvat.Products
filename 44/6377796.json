@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corine de Farme Lion King Foaming Bath",
+  "code": "6377796",
+  "price": "4.5",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
+  "supplier": "LABORATOIRES SARBEC FRANCE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corine-de-farme-lion-king-foaming-bath/p/6377796",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266655,
+      "name": "Badschuim"
+    }
+  ],
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/ha5/h6c/44201680568350/prd-front-6377796-1_600x600/prd-front-6377796-1-600x600.jpg"
+}

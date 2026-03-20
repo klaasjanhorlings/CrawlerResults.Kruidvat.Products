@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Wild Fresh Cotton & Sea Salt Roll-on Antitranspirant Deodorant Navulling",
+  "code": "6513008",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3068 > 3675",
+  "supplier": "WILD COSMETICS LTD.",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/wild-fresh-cotton-sea-salt-roll-on-antitranspirant-deodorant-navulling/p/6513008",
+  "listName": "Lister",
+  "brand": "Wild",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266643,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h11/hb4/48044782714910/temp-prd-front-6513008-1_600x600/temp-prd-front-6513008-1-600x600.jpg"
+}

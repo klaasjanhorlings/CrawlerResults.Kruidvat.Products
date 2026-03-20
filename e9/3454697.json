@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Olay Regenerist Nachtcrème",
   "code": "3454697",
   "price": "19.99",
@@ -12,7 +12,7 @@
   "mmkId": "1062149",
   "productGroupId": "508117",
   "brandType": "A of B merk",
-  "discount": "€ 20,00",
+  "discount": "$ 20,00",
   "url": "/olay-regenerist-nachtcreme/p/3454697",
   "listName": "Lister",
   "brand": "Olay",

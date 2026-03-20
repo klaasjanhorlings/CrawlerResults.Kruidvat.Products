@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Syoss Professional Performance 3-3 Trendy Violet Permanente Haarkleuring",
   "code": "3569602",
   "price": "16.99",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h89/h28/33822214258718/prd-front-3569602-1_600x600/prd-front-3569602-1-600x600.jpg"
+  "description": ""
 }

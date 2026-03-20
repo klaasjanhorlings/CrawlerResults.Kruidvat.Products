@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "MCoBeauty Medium Beige Instant Concealer Camouflage & Contour",
   "code": "6317988",
   "price": "7.99",
@@ -33,5 +33,6 @@
       "name": "Concealer"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h59/h1a/34826834116638/prd-front-6317988-1_600x600/prd-front-6317988-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Syoss Oleo Intense 5-77 Koperrood Permanente Haarkleuring",
   "code": "6431143",
   "price": "18.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hf4/h17/46075939520542/temp-prd-front-6431143-1_600x600/temp-prd-front-6431143-1-600x600.jpg"
 }

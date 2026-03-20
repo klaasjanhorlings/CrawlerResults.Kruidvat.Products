@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Armaf Odyssesy Dubai Chocolat Eau de Toilette",
   "code": "6396598",
   "price": "22.49",
@@ -12,7 +12,7 @@
   "mmkId": "1025309",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 7,50",
+  "discount": "$ 7,50",
   "url": "/armaf-odyssesy-dubai-chocolat-eau-de-toilette/p/6396598",
   "listName": "Lister",
   "brand": "Armaf",
@@ -33,5 +33,6 @@
       "name": "Unisex parfum"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h25/h33/44487329349662/prd-front-6396598-1_600x600/prd-front-6396598-1-600x600.jpg"
 }

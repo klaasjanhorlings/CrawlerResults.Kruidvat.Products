@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NYX Professional Makeup Epic Ink Liner Midnight Rise 10 Matte Eyeliner",
   "code": "6341886",
   "price": "10.99",
@@ -33,6 +33,5 @@
       "name": "Eyeliner"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7b/hc0/35114012966942/prd-front-6341886-1_600x600/prd-front-6341886-1-600x600.jpg"
+  "description": ""
 }

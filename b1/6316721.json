@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "MCoBeauty Highlight & Glow Bronze Glow Beauty Wand",
   "code": "6316721",
   "price": "10.0",
@@ -12,7 +12,7 @@
   "mmkId": "1062288",
   "productGroupId": "521953",
   "brandType": "Exclusief merk",
-  "discount": "€ 1,99",
+  "discount": "$ 1,99",
   "url": "/mcobeauty-highlight-glow-bronze-glow-beauty-wand/p/6316721",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Blush"
     }
   ],
-  "description": "12ml"
+  "description": "12ml",
+  "image": "/medias/sys_master/prd-images/hae/h67/34795478646814/prd-front-6316721-1_600x600/prd-front-6316721-1-600x600.jpg"
 }

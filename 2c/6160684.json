@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Adopt Starnight Eau de Parfum",
   "code": "6160684",
   "price": "10.99",
@@ -33,5 +33,6 @@
       "name": "Damesparfum"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hdc/h0c/32303698313246/prd-front-6160684-1_600x600/prd-front-6160684-1-600x600.jpg"
 }

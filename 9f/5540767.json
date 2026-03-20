@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "NIVEA Cellular Luminous630 Oogcontourcrème",
   "code": "5540767",
   "price": "18.49",
@@ -12,7 +12,7 @@
   "mmkId": "1062454",
   "productGroupId": "508212",
   "brandType": "A of B merk",
-  "discount": "€ 18,50",
+  "discount": "$ 18,50",
   "url": "/nivea-cellular-luminous630-oogcontourcreme/p/5540767",
   "listName": "Lister",
   "brand": "Nivea Skincare",
@@ -33,6 +33,5 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml - Alle huidtypen",
-  "image": "/medias/sys_master/prd-images/h11/h35/44916956430366/prd-front-5540767-1_600x600/prd-front-5540767-1-600x600.jpg"
+  "description": "15ml - Alle huidtypen"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "L'Oréal Paris Men Expert Thermic Resist Deodorant Roller",
+  "code": "3455432",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 3874 > 5729",
+  "supplier": "LOREAL NED BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/loreal-paris-men-expert-thermic-resist-deodorant-roller/p/3455432",
+  "listName": "Lister",
+  "brand": "L'Oreal Paris Men Expert",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266643,
+      "name": "Deoroller"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/hf4/hf5/47265450623006/temp-prd-front-3455432-1_600x600/temp-prd-front-3455432-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Old Spice Bearglove Deodorant Stick",
+  "code": "6505644",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 3866 > 5731",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/old-spice-bearglove-deodorant-stick/p/6505644",
+  "listName": "Lister",
+  "brand": "Old Spice",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266645,
+      "name": "Deostick"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/ha9/hae/48044277170206/temp-prd-front-6505644-1_600x600/temp-prd-front-6505644-1-600x600.jpg"
+}

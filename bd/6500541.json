@@ -1,18 +1,18 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Jawhara Golden Nectar Eau de Parfum",
   "code": "6500541",
-  "price": "17.99",
-  "priceOriginal": "",
+  "price": "11.99",
+  "priceOriginal": "17.99",
   "itemBgbcat": "2002 > 2080 > 2204 > 2549 > 3180 > 3628",
   "supplier": "COTY NETHERLANDS BV CB",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062267",
+  "mmkId": "1062267",
+  "productGroupId": "520386",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "$ 6,00",
   "url": "/jawhara-golden-nectar-eau-de-parfum/p/6500541",
   "listName": "Lister",
   "brand": "JAWHARA",
@@ -33,6 +33,5 @@
       "name": "Unisex parfum"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h24/he3/46306541371422/temp-prd-front-6500541-1_600x600/temp-prd-front-6500541-1-600x600.jpg"
+  "description": "100ml"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Joop! Go Homme Eau de Toilette",
   "code": "6364727",
   "price": "23.82",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 47,18",
+  "discount": "$ 47,18",
   "url": "/joop-go-homme-eau-de-toilette/p/6364727",
   "listName": "Lister",
   "brand": "Joop!",
@@ -33,6 +33,5 @@
       "name": "Herenparfum"
     }
   ],
-  "description": "100ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "100ml"
 }

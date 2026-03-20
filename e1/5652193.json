@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Men Expert Hydra Energetic Anti-Vermoeidheid SPF15 Dagcrème",
   "code": "5652193",
   "price": "19.99",
@@ -33,5 +33,6 @@
       "name": "Gezichtscreme mannen"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h19/h94/33747851018270/prd-front-5652193-1_600x600/prd-front-5652193-1-600x600.jpg"
 }

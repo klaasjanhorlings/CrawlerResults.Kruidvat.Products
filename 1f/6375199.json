@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "My Nailcandy Choco Mousse Gellak Stickers",
   "code": "6375199",
   "price": "7.99",
@@ -33,6 +33,5 @@
       "name": "Nagelstickers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h54/h7c/48318016978974/temp-prd-front-6375199-1_600x600/temp-prd-front-6375199-1-600x600.jpg"
+  "description": ""
 }

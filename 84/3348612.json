@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Syoss Oleo Intense 6-76 Warm Koperblond Haarkleuring",
   "code": "3348612",
   "price": "18.99",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h15/he4/45665470119966/temp-prd-front-3348612-1_600x600/temp-prd-front-3348612-1-600x600.jpg"
 }

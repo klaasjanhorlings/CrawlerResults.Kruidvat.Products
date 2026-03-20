@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "L'Oréal Paris Hyaluron Tint Lip Stain Serum",
   "code": "6428203",
   "price": "16.99",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h76/h6c/46338499510302/temp-prd-front-6428203-1_600x600/temp-prd-front-6428203-1-600x600.jpg"
 }
