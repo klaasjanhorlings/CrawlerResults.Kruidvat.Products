@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Blur-Real 040 Muted Romance Matte Lipstick",
   "code": "6468523",
   "price": "4.69",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "3g",
-  "image": "/medias/sys_master/prd-images/h47/h5b/46775284203550/temp-prd-front-6468523-1_600x600/temp-prd-front-6468523-1-600x600.jpg"
+  "description": "3g"
 }

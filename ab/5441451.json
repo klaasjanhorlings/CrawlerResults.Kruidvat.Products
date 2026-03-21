@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Extreme Shine 01 Crystal Clear Volume Lipgloss",
   "code": "5441451",
   "price": "2.29",
@@ -37,6 +37,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "5ml",
-  "image": "/medias/sys_master/prd-images/h43/h42/35121155276830/prd-front-5441451-1_600x600/prd-front-5441451-1-600x600.jpg"
+  "description": "5ml"
 }

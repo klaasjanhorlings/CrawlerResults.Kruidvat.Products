@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Cetaphil Daily Facial Cleanser",
   "code": "5931672",
   "price": "13.5",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "237ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "237ml"
 }

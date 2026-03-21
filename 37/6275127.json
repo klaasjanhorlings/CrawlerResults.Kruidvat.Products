@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "e.l.f. Glow Reviver Divine Wine Lip Oil",
   "code": "6275127",
   "price": "10.0",
@@ -37,6 +37,5 @@
       "name": "Lip oil"
     }
   ],
-  "description": "7,6ml",
-  "image": "/medias/sys_master/prd-images/h6a/h5b/34039989567518/prd-front-6275127-1_600x600/prd-front-6275127-1-600x600.jpg"
+  "description": "7,6ml"
 }

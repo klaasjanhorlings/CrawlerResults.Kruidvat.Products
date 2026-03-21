@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Volume Boost Lash Primer",
   "code": "6155000",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Mascara"
     }
   ],
-  "description": "8g"
+  "description": "8g",
+  "image": "/medias/sys_master/prd-images/hc4/h34/33767028883486/prd-front-6155000-1_600x600/prd-front-6155000-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Satin Glow 07 Coral It A Day Luminous Shine Lipstick",
   "code": "6472450",
   "price": "2.99",
@@ -37,6 +37,5 @@
       "name": "Lipstick"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h66/h8a/47605277949982/temp-prd-front-6472450-1_600x600/temp-prd-front-6472450-1-600x600.jpg"
+  "description": ""
 }

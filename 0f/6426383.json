@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "No Bleach London Vivid Pink Permanent Haarkleuring",
   "code": "6426383",
   "price": "23.0",
@@ -29,5 +29,6 @@
       "name": "Haarverf"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5a/h73/45216067452958/prd-front-6426383-1_600x600/prd-front-6426383-1-600x600.jpg"
 }

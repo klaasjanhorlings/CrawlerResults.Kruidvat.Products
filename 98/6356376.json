@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York Fit Me SPF50 10 Nude BB Cream",
   "code": "6356376",
   "price": "5.99",
@@ -33,6 +33,5 @@
       "name": "BB cream"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h91/h38/46306434809886/temp-prd-front-6356376-1_600x600/temp-prd-front-6356376-1-600x600.jpg"
+  "description": ""
 }

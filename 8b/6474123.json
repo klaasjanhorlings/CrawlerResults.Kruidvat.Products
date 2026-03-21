@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Juicy Bomb 109 Bee Mine Shiny Lipgloss",
   "code": "6474123",
   "price": "1.29",
@@ -37,5 +37,6 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "10ml"
+  "description": "10ml",
+  "image": "/medias/sys_master/prd-images/h37/hc8/47592049311774/temp-prd-front-6474123-1_600x600/temp-prd-front-6474123-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Jewel Glide Effect 040 Golden Jade Eye Pencil",
   "code": "6468194",
   "price": "3.99",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h68/h71/46435045769246/temp-prd-front-6468194-1_600x600/temp-prd-front-6468194-1-600x600.jpg"
 }

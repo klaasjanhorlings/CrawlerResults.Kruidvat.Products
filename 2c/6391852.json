@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 2520 > 2965 > 3766",
   "supplier": "GEOCOS BV",
   "inStock": "outOfStock",
-  "onPromo": "1062523",
-  "mmkId": "1062523",
-  "productGroupId": "520280",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-90-1-3mm-interdentale-borsteltjes/p/6391852",
@@ -33,6 +33,5 @@
       "name": "Tandenragers"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h7f/ha6/44564637974558/prd-front-6391852-1_600x600/prd-front-6391852-1-600x600.jpg"
+  "description": ""
 }

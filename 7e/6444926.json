@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "NYX Professional Makeup Jelly Job 490 Lipgloss",
   "code": "6444926",
   "price": "11.99",
@@ -37,6 +37,5 @@
       "name": "Lipgloss"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h68/h1f/46143775506462/temp-prd-front-6444926-1_600x600/temp-prd-front-6444926-1-600x600.jpg"
+  "description": ""
 }

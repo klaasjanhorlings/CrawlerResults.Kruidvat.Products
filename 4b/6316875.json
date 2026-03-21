@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "MCoBeauty Flawless Glow 3.5 Light/Medium Luminous Skin Filter",
   "code": "6316875",
   "price": "10.0",
@@ -12,7 +12,7 @@
   "mmkId": "1062288",
   "productGroupId": "521953",
   "brandType": "Exclusief merk",
-  "discount": "$ 5,99",
+  "discount": "€ 5,99",
   "url": "/mcobeauty-flawless-glow-35-light/medium-luminous-skin-filter/p/6316875",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/hba/h10/34829911293982/prd-front-6316875-1_600x600/prd-front-6316875-1-600x600.jpg"
 }

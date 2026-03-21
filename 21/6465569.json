@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Max Factor Lip Shader 60 Lipliner",
   "code": "6465569",
   "price": "11.99",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": "4g"
+  "description": "4g",
+  "image": "/medias/sys_master/prd-images/hbb/hb2/47164870459422/temp-prd-front-6465569-1_600x600/temp-prd-front-6465569-1-600x600.jpg"
 }

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "My Nailcandy Cuticle Oil",
   "code": "6370278",
   "price": "4.99",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "15ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h59/h1b/48401611620382/temp-prd-front-6370278-1_600x600/temp-prd-front-6370278-1-600x600.jpg"
 }

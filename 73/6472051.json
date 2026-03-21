@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Essence Poutline 03 Bare Affair Soft Glide Lippotlood",
   "code": "6472051",
   "price": "1.29",
@@ -37,5 +37,6 @@
       "name": "Lipliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h15/hd2/47600587178014/temp-prd-front-6472051-1_600x600/temp-prd-front-6472051-1-600x600.jpg"
 }

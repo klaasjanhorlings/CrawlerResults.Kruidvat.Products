@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice 030 Brow-N-Eyed Peas Eye Brow Stylist",
   "code": "2231216",
   "price": "2.99",
@@ -37,6 +37,5 @@
       "name": "Wenkbrauwpotlood"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/he9/hc9/29853155688478/prd-front-2231216-1_600x600/prd-front-2231216-1-600x600.jpg"
+  "description": ""
 }

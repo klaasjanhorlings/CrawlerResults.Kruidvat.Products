@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Maybelline New York Sculpting Stix 015 Smooth Espresso 2-in-1 Eyeliner",
   "code": "6428196",
   "price": "14.99",
@@ -33,5 +33,6 @@
       "name": "Eyeliner"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h6b/h12/46348209258526/temp-prd-front-6428196-1_600x600/temp-prd-front-6428196-1-600x600.jpg"
 }

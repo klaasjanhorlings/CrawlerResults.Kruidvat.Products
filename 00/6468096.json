@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice Kohl Kajal 210 Redwood Mood Waterproof Eyelinerpencil",
   "code": "6468096",
   "price": "1.99",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h11/h5d/46446784086046/temp-prd-front-6468096-1_600x600/temp-prd-front-6468096-1-600x600.jpg"
 }

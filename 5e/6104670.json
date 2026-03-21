@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Catrice 20H Ultra Precision 110 Rosy Copper Gel Eye Pencil",
   "code": "6104670",
   "price": "2.69",
@@ -33,5 +33,6 @@
       "name": "Oogpotlood"
     }
   ],
-  "description": "1g"
+  "description": "1g",
+  "image": "/medias/sys_master/prd-images/h9b/h21/31565608878110/prd-front-6104670-1_600x600/prd-front-6104670-1-600x600.jpg"
 }

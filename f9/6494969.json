@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Vision Face 5-In-1 SPF50 Rijke Zonnebrandfluïde",
+  "code": "6494969",
+  "price": "28.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "COOPER CONSUMER HEALTH NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/vision-face-5-in-1-spf50-rijke-zonnebrandfluide/p/6494969",
+  "listName": "Lister",
+  "brand": "Vision",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    }
+  ],
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h69/hb5/48437369503774/temp-prd-front-6494969-1_600x600/temp-prd-front-6494969-1-600x600.jpg"
+}
