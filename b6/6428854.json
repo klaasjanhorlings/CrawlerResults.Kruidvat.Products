@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "LEGO Technic 42220 Monster Jam Sparkle Smash Pull-Back",
   "code": "6428854",
-  "price": "20.99",
-  "priceOriginal": "27.99",
+  "price": "27.99",
+  "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1062131",
-  "mmkId": "1062131",
-  "productGroupId": "524584",
+  "onPromo": "1062847",
+  "mmkId": "1062847",
+  "productGroupId": "522554",
   "brandType": "A of B merk",
-  "discount": "€ 7,00",
+  "discount": "",
   "url": "/lego-technic-42220-monster-jam-sparkle-smash-pull-back/p/6428854",
   "listName": "Lister",
   "brand": "LEGO Technic",
@@ -33,6 +33,5 @@
       "name": "LEGO Technic"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hd4/h54/45715278069790/temp-prd-front-6428854-1_600x600/temp-prd-front-6428854-1-600x600.jpg"
+  "description": ""
 }

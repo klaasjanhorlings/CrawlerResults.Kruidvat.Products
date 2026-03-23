@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "HERKEL BV",
   "inStock": "outOfStock",
-  "onPromo": "1016191",
-  "mmkId": "1016191",
-  "productGroupId": "9004942",
+  "onPromo": "1062572",
+  "mmkId": "1062572",
+  "productGroupId": "510469",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-tea-tree-behandelingsolie/p/716317",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "10ml - Onzuivere huid"
+  "description": "10ml - Onzuivere huid",
+  "image": "/medias/sys_master/prd-images/hb1/h28/48357126406174/temp-prd-front-716317-1_600x600/temp-prd-front-716317-1-600x600.jpg"
 }

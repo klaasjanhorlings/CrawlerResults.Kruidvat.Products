@@ -7,10 +7,10 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
   "supplier": "ROYAL SANDERS (BNL)",
-  "inStock": "inStock",
-  "onPromo": "1062197",
-  "mmkId": "1062197",
-  "productGroupId": "517898",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/odorex-extra-dry-antitranspirant-depper/p/948116",
@@ -33,5 +33,6 @@
       "name": "Deodorant creme"
     }
   ],
-  "description": "50ml"
+  "description": "50ml",
+  "image": "/medias/sys_master/prd-images/h51/hca/44327265468446/prd-front-948116-1_600x600/prd-front-948116-1-600x600.jpg"
 }

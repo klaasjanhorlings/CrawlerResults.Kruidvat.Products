@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1062182",
-  "mmkId": "1062182",
-  "productGroupId": "514224",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-sun-breathable-uv-face-anti-age-q10-spf50-zonnecreme/p/6496236",
@@ -41,6 +41,5 @@
       "name": "Zonnecrème gezicht"
     }
   ],
-  "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h96/hd1/48225147387934/temp-prd-front-6496236-1_600x600/temp-prd-front-6496236-1-600x600.jpg"
+  "description": "40ml"
 }

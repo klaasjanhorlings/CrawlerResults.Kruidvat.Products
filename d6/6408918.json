@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Metalen Loopfiets",
+  "code": "6408918",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2263 > 5180 > 5320 > 5509 > 5921 > 6040",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/metalen-loopfiets/p/6408918",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30266839,
+      "name": "Fietsen en rijden"
+    },
+    {
+      "id": 76654782,
+      "name": "Loopfietsen"
+    }
+  ],
+  "description": "roze",
+  "image": "/medias/sys_master/prd-images/hbb/hdb/47852634636318/temp-prd-front-6408918-1_600x600/temp-prd-front-6408918-1-600x600.jpg"
+}

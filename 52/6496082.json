@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "GilletteLabs i3 Body + Intimate Lichaamstrimmer",
   "code": "6496082",
-  "price": "54.99",
-  "priceOriginal": "",
+  "price": "27.49",
+  "priceOriginal": "54.99",
   "itemBgbcat": "2003 > 2088 > 2255 > 5887 > 6445 > 6672",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1062303",
-  "mmkId": "1062303",
-  "productGroupId": "523859",
+  "onPromo": "1062668",
+  "mmkId": "1062668",
+  "productGroupId": "523189",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 27,50",
   "url": "/gillettelabs-i3-body-intimate-lichaamstrimmer/p/6496082",
   "listName": "Lister",
   "brand": "Gillette",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h57/h08/48451488645150/temp-prd-front-6496082-1_600x600/temp-prd-front-6496082-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h99/h36/48492836192286/temp-prd-front-6496082-1_600x600/temp-prd-front-6496082-1-600x600.jpg"
 }

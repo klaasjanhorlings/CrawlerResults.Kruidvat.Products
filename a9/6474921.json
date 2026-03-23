@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Pampers Baby-Dry Maat 5+ Luiers",
   "code": "6474921",
-  "price": "62.49",
-  "priceOriginal": "",
+  "price": "37.49",
+  "priceOriginal": "62.49",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062538",
+  "mmkId": "1062538",
+  "productGroupId": "527461",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 25,00",
   "url": "/pampers-baby-dry-maat-5-luiers/p/6474921",
   "listName": "Lister",
   "brand": "Pampers",
@@ -33,5 +33,6 @@
       "name": "Luiers maat 5"
     }
   ],
-  "description": "mt 5+ (12-17kg), 112 luiers"
+  "description": "mt 5+ (12-17kg), 112 luiers",
+  "image": "/medias/sys_master/prd-images/h27/h0d/46521473794078/temp-prd-front-6474921-1_600x600/temp-prd-front-6474921-1-600x600.jpg"
 }

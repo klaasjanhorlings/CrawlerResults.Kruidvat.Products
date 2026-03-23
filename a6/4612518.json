@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat 100% Cotton Normal Ultra Maandverband",
   "code": "4612518",
-  "price": "1.49",
-  "priceOriginal": "2.99",
+  "price": "2.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2065 > 2205 > 2463 > 3261 > 4159",
   "supplier": "SANATURE OPERATIONS B.V.",
   "inStock": "outOfStock",
-  "onPromo": "1062195",
-  "mmkId": "1062195",
-  "productGroupId": "517882",
+  "onPromo": "1059751",
+  "mmkId": "1059751",
+  "productGroupId": "530762",
   "brandType": "Eigen merk",
-  "discount": "€ 1,50",
+  "discount": "",
   "url": "/kruidvat-100-cotton-normal-ultra-maandverband/p/4612518",
   "listName": "Lister",
   "brand": "Kruidvat",
@@ -33,5 +33,6 @@
       "name": "Maandverband"
     }
   ],
-  "description": "10 stuks"
+  "description": "10 stuks",
+  "image": "/medias/sys_master/prd-images/h6a/hd2/45784517509150/temp-prd-front-4612518-1_600x600/temp-prd-front-4612518-1-600x600.jpg"
 }

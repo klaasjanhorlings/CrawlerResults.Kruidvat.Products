@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2422 > 6131 > 6132",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1062225",
-  "mmkId": "1062225",
-  "productGroupId": "519178",
+  "onPromo": "1062598",
+  "mmkId": "1062598",
+  "productGroupId": "511964",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-transparant-24h-brow-lamination/p/6035454",
@@ -37,5 +37,6 @@
       "name": "Wenkbrauwmascara"
     }
   ],
-  "description": "6ml"
+  "description": "6ml",
+  "image": "/medias/sys_master/prd-images/hba/h62/44493647446046/prd-front-6035454-1_600x600/prd-front-6035454-1-600x600.jpg"
 }

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO 40957 Lentekrans",
+  "code": "6494066",
+  "price": "45.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1062847",
+  "mmkId": "1062847",
+  "productGroupId": "522554",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-40957-lentekrans/p/6494066",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 69037623,
+      "name": "LEGO Exclusief Assortiment"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h05/h3d/48272691068958/temp-prd-front-6494066-1_600x600/temp-prd-front-6494066-1-600x600.jpg"
+}

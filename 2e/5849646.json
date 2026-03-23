@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Biotène Oral Balance Hydraterende Gel",
   "code": "5849646",
-  "price": "12.99",
-  "priceOriginal": "",
+  "price": "9.74",
+  "priceOriginal": "12.99",
   "itemBgbcat": "2006 > 2087 > 2123 > 2479 > 3028 > 3852",
   "supplier": "HALEON (NOVARTIS)",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1062671",
+  "mmkId": "1062671",
+  "productGroupId": "523458",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,25",
   "url": "/biotene-oral-balance-hydraterende-gel/p/5849646",
   "listName": "Lister",
   "brand": "Biotene",
@@ -37,5 +37,6 @@
       "name": "Droge mond"
     }
   ],
-  "description": "50g"
+  "description": "50g",
+  "image": "/medias/sys_master/prd-images/hf4/hc3/44199028752414/prd-front-5849646-1_600x600/prd-front-5849646-1-600x600.jpg"
 }

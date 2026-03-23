@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1062167",
-  "mmkId": "1062167",
-  "productGroupId": "511631",
+  "onPromo": "1062584",
+  "mmkId": "1062584",
+  "productGroupId": "511072",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/dove-body-love-purely-pampering-bodylotion/p/5411855",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "400ml"
+  "description": "400ml",
+  "image": "/medias/sys_master/prd-images/hc8/h7c/28484257611806/prd-front-5411855-1_600x600/prd-front-5411855-1-600x600.jpg"
 }

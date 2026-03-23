@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "SheaMoisture Curl & Shine Style Milk ",
   "code": "5808073",
-  "price": "15.49",
-  "priceOriginal": "",
+  "price": "12.0",
+  "priceOriginal": "15.49",
   "itemBgbcat": "2003 > 2058 > 2186 > 5866 > 6701 > 5896",
   "supplier": "UNILEVER ASIA PRIV. LTD",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062653",
+  "mmkId": "1062653",
+  "productGroupId": "519800",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,49",
   "url": "/sheamoisture-curl-shine-style-milk-/p/5808073",
   "listName": "Lister",
   "brand": "SheaMoisture",
@@ -33,5 +33,6 @@
       "name": "Haarcrème"
     }
   ],
-  "description": "254ml"
+  "description": "254ml",
+  "image": "/medias/sys_master/prd-images/hb6/he4/44358932922398/prd-front-5808073-1_600x600/prd-front-5808073-1-600x600.jpg"
 }

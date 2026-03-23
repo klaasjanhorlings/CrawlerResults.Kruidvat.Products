@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "FEMIA COSMETIC",
   "inStock": "inStock",
-  "onPromo": "1062151",
-  "mmkId": "1062151",
-  "productGroupId": "508244",
+  "onPromo": "1028975",
+  "mmkId": "1028975",
+  "productGroupId": "362258",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-smooth-q10-niacinamide-oogcreme/p/1096390",
@@ -33,5 +33,6 @@
       "name": "Oogcreme"
     }
   ],
-  "description": "15ml"
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h08/hc8/34463321423902/prd-front-1096390-1_600x600/prd-front-1096390-1-600x600.jpg"
 }

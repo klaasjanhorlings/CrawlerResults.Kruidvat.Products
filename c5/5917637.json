@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6207 > 6225 > 6303",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1062578",
+  "mmkId": "1062578",
+  "productGroupId": "510820",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/valdispert-slaap-nacht-advanced-tabletten/p/5917637",
@@ -33,5 +33,6 @@
       "name": "Rust en ontspanning"
     }
   ],
-  "description": "30 stuks"
+  "description": "30 stuks",
+  "image": "/medias/sys_master/prd-images/h80/h26/44920820498462/prd-front-5917637-1_600x600/prd-front-5917637-1-600x600.jpg"
 }

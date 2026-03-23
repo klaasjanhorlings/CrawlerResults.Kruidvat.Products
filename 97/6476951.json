@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Gillette Venus Intimate voor de intieme zone Scheersysteem",
   "code": "6476951",
-  "price": "15.0",
-  "priceOriginal": "19.99",
+  "price": "19.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2088 > 2255 > 2377 > 3201 > 3800",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1062230",
-  "mmkId": "1062230",
-  "productGroupId": "519235",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,99",
+  "discount": "",
   "url": "/gillette-venus-intimate-voor-de-intieme-zone-scheersysteem/p/6476951",
   "listName": "Lister",
   "brand": "Gillette Venus",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "",
-  "image": "/medias/sys_master/prd-images/h27/h2d/48448328957982/temp-prd-front-6476951-1_600x600/temp-prd-front-6476951-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2e/h80/48490215800862/temp-prd-front-6476951-1_600x600/temp-prd-front-6476951-1-600x600.jpg"
 }

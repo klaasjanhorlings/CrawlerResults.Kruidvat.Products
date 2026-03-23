@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 5921 > 6040 > 2346 > 2747 > 3455",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062847",
+  "mmkId": "1062847",
+  "productGroupId": "522554",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-40460-rozen/p/5995309",
@@ -33,5 +33,6 @@
       "name": "LEGO Volwassenen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcd/h5a/46664423964702/temp-prd-front-5995309-1_600x600/temp-prd-front-5995309-1-600x600.jpg"
 }

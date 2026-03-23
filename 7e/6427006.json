@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Slaapzak met Tijgeropdruk",
+  "code": "6427006",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2130 > 2324 > 2723 > 3426 > 4362",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-slaapzak-met-tijgeropdruk/p/6427006",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266041,
+      "name": "Babykleding"
+    },
+    {
+      "id": 30266850,
+      "name": "Babyslaapzakken"
+    }
+  ],
+  "description": "mt 86-98",
+  "image": "/medias/sys_master/prd-images/h98/hc5/47782428311582/temp-prd-front-6427006-1_600x600/temp-prd-front-6427006-1-600x600.jpg"
+}

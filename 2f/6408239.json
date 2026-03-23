@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Princess Japandi Espressomachine",
+  "code": "6408239",
+  "price": "64.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 2454 > 2957 > 3751 > 5929 > 6019",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/princess-japandi-espressomachine/p/6408239",
+  "listName": "Lister",
+  "brand": "Princess",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053282,
+      "name": "Keukenapparatuur"
+    },
+    {
+      "id": 75053357,
+      "name": "Koffiezetapparaten"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h47/h25/47852577325086/temp-prd-front-6408239-1_600x600/temp-prd-front-6408239-1-600x600.jpg"
+}

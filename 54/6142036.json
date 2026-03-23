@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Philips OneBlade Face+Body QP2834/23 Trimmer, Scheerapparaat en Styler",
   "code": "6142036",
-  "price": "59.99",
-  "priceOriginal": "",
+  "price": "39.99",
+  "priceOriginal": "59.99",
   "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3869 > 5720",
   "supplier": "PHILIPS CONSUMER LIFESTYLE BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062607",
+  "mmkId": "1062607",
+  "productGroupId": "513115",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 20,00",
   "url": "/philips-oneblade-facebody-qp2834/23-trimmer-scheerapparaat-en-styler/p/6142036",
   "listName": "Lister",
   "brand": "Philips",
@@ -33,6 +33,5 @@
       "name": "Baardtrimmers"
     }
   ],
-  "description": "zilverkleur",
-  "image": "/medias/sys_master/prd-images/h75/h2f/44661129281566/prd-front-6142036-1_600x600/prd-front-6142036-1-600x600.jpg"
+  "description": "zilverkleur"
 }

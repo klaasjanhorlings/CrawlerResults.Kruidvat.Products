@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2391 > 2836 > 3914",
   "supplier": "HENKEL NEDERLAND BV U-K",
   "inStock": "inStock",
-  "onPromo": "1062483",
-  "mmkId": "1062483",
-  "productGroupId": "522420",
+  "onPromo": "1062592",
+  "mmkId": "1062592",
+  "productGroupId": "511296",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/schwarzkopf-anti-klit-conditioner/p/2099588",
@@ -33,5 +33,6 @@
       "name": "Conditioner"
     }
   ],
-  "description": "250ml"
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h8e/he5/47915204444190/temp-prd-front-2099588-1_600x600/temp-prd-front-2099588-1-600x600.jpg"
 }

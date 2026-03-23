@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Pampers Harmonie Maat 2 Luiers",
   "code": "6485932",
-  "price": "57.99",
-  "priceOriginal": "",
+  "price": "34.79",
+  "priceOriginal": "57.99",
   "itemBgbcat": "2001 > 2043 > 2169 > 2594 > 3018 > 3843",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "1062132",
-  "mmkId": "1062132",
-  "productGroupId": "527467",
+  "onPromo": "1062538",
+  "mmkId": "1062538",
+  "productGroupId": "527461",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 23,20",
   "url": "/pampers-harmonie-maat-2-luiers/p/6485932",
   "listName": "Lister",
   "brand": "Pampers",
@@ -33,6 +33,5 @@
       "name": "Luiers maat 2"
     }
   ],
-  "description": "mt 2 (4-8kg), 114 stuks",
-  "image": "/medias/sys_master/prd-images/h8f/h16/46775241539614/temp-prd-front-6485932-1_600x600/temp-prd-front-6485932-1-600x600.jpg"
+  "description": "mt 2 (4-8kg), 114 stuks"
 }

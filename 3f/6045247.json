@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2065 > 2199 > 6830 > 6829 > 6831",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1062287",
-  "mmkId": "1062287",
-  "productGroupId": "521882",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/always-discreet-incontinentiebroekjes/p/6045247",
@@ -37,5 +37,6 @@
       "name": "Incontinentiebroekjes"
     }
   ],
-  "description": "Medisch hulpmiddel - wit, mt L, 9 stuks"
+  "description": "Medisch hulpmiddel - wit, mt L, 9 stuks",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

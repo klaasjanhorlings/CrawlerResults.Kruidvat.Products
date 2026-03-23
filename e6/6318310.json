@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Glow Up Orange Blossom pH Cheek & Lip Oil",
   "code": "6318310",
-  "price": "7.99",
-  "priceOriginal": "",
+  "price": "6.0",
+  "priceOriginal": "7.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2994 > 3821",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1062727",
+  "mmkId": "1062727",
+  "productGroupId": "526491",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 1,99",
   "url": "/mcobeauty-glow-up-orange-blossom-ph-cheek-lip-oil/p/6318310",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Lip tint"
     }
   ],
-  "description": "7ml"
+  "description": "7ml",
+  "image": "/medias/sys_master/prd-images/h4a/h6d/34827440881694/prd-front-6318310-1_600x600/prd-front-6318310-1-600x600.jpg"
 }

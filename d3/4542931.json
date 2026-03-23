@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Skin Science Instant Effect Eye Serum",
   "code": "4542931",
-  "price": "8.99",
-  "priceOriginal": "",
+  "price": "6.74",
+  "priceOriginal": "8.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
   "supplier": "OCEANIC SP. Z O.O.",
   "inStock": "inStock",
-  "onPromo": "1028975",
-  "mmkId": "1028975",
-  "productGroupId": "362258",
+  "onPromo": "1062671",
+  "mmkId": "1062671",
+  "productGroupId": "523458",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 2,25",
   "url": "/kruidvat-skin-science-instant-effect-eye-serum/p/4542931",
   "listName": "Lister",
   "brand": "Kruidvat Skin Science",
@@ -37,6 +37,5 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "2,5ml",
-  "image": "/medias/sys_master/prd-images/h58/h8a/34487873765406/prd-front-4542931-1_600x600/prd-front-4542931-1-600x600.jpg"
+  "description": "2,5ml"
 }

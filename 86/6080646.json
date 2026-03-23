@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Biofreeze Koude Werking Gel",
   "code": "6080646",
-  "price": "14.99",
-  "priceOriginal": "",
+  "price": "11.24",
+  "priceOriginal": "14.99",
   "itemBgbcat": "2006 > 2087 > 2123 > 2439 > 3093 > 4102",
   "supplier": "RECKITT BENCKISER B.V",
   "inStock": "inStock",
-  "onPromo": "1008193",
-  "mmkId": "1008193",
-  "productGroupId": "218105",
+  "onPromo": "1062763",
+  "mmkId": "1062763",
+  "productGroupId": "528099",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,75",
   "url": "/biofreeze-koude-werking-gel/p/6080646",
   "listName": "Lister",
   "brand": "Biofreeze",
@@ -33,6 +33,5 @@
       "name": "Koelmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 118ml",
-  "image": "/medias/sys_master/prd-images/h3d/h5f/30938504527902/prd-front-6080646-1_600x600/prd-front-6080646-1-600x600.jpg"
+  "description": "Medisch hulpmiddel - 118ml"
 }

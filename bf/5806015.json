@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062578",
+  "mmkId": "1062578",
+  "productGroupId": "510820",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/p20-sensitive-spf50-lotion/p/5806015",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "200ml",
-  "image": "/medias/sys_master/prd-images/h0f/h93/48454834323486/temp-prd-front-5806015-1_600x600/temp-prd-front-5806015-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h8e/h0b/48496988651550/temp-prd-front-5806015-1_600x600/temp-prd-front-5806015-1-600x600.jpg"
 }

@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Kruidvat Science Anti-Hair Loss Serum",
   "code": "6506512",
-  "price": "4.99",
-  "priceOriginal": "",
+  "price": "3.74",
+  "priceOriginal": "4.99",
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6696",
   "supplier": "MARION PRIVATE LABEL",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062671",
+  "mmkId": "1062671",
+  "productGroupId": "523458",
   "brandType": "Eigen merk",
-  "discount": "",
+  "discount": "€ 1,25",
   "url": "/kruidvat-science-anti-hair-loss-serum/p/6506512",
   "listName": "Lister",
   "brand": "Kruidvat Science",
@@ -33,5 +33,6 @@
       "name": "Haarserum"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/hbd/hdf/48134111592478/temp-prd-front-6506512-1_600x600/temp-prd-front-6506512-1-600x600.jpg"
 }

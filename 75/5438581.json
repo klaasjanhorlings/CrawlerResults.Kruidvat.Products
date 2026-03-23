@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "De Vergulde Hand 2-in-1 Douchegel",
+  "code": "5438581",
+  "price": "1.5",
+  "priceOriginal": "3.99",
+  "itemBgbcat": "2003 > 2034 > 2133 > 2593 > 2777 > 3792",
+  "supplier": "REMARK GROEP",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 2,49",
+  "url": "/de-vergulde-hand-2-in-1-douchegel/p/5438581",
+  "listName": "Lister",
+  "brand": "De Vergulde Hand",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265997,
+      "name": "Bad- en doucheproducten"
+    },
+    {
+      "id": 30266648,
+      "name": "Douchegel"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h4d/hff/27514046677022/prd-front-5438581-1_600x600/prd-front-5438581-1-600x600.jpg"
+}

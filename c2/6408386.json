@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Princess Japandi Waterkoker",
+  "code": "6408386",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 2454 > 2957 > 3751 > 5929 > 6019",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/princess-japandi-waterkoker/p/6408386",
+  "listName": "Lister",
+  "brand": "Princess",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053282,
+      "name": "Keukenapparatuur"
+    },
+    {
+      "id": 75053670,
+      "name": "Waterkokers"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h02/h9a/47852596690974/temp-prd-front-6408386-1_600x600/temp-prd-front-6408386-1-600x600.jpg"
+}

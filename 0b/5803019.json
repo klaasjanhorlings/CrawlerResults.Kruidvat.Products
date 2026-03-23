@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 2070 > 2156 > 2473 > 3009 > 3834",
   "supplier": "COBECO PHARMA WHOLESALE",
   "inStock": "inStock",
-  "onPromo": "1062202",
-  "mmkId": "1062202",
-  "productGroupId": "518666",
+  "onPromo": "1062634",
+  "mmkId": "1062634",
+  "productGroupId": "518658",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-warming-glijmiddel/p/5803019",
@@ -37,6 +37,5 @@
       "name": "Waterbasis glijmiddelen"
     }
   ],
-  "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h2a/ha2/45265353408542/prd-front-5803019-1_600x600/prd-front-5803019-1-600x600.jpg"
+  "description": "75ml"
 }

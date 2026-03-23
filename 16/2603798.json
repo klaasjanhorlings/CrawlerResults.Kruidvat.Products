@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kinder Chocolade Reepjes",
+  "code": "2603798",
+  "price": "3.69",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2442 > 3290 > 4191",
+  "supplier": "FERRERO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/kinder-chocolade-reepjes/p/2603798",
+  "listName": "Lister",
+  "brand": "Kinder",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464796,
+      "name": "Repen en tabletten"
+    }
+  ],
+  "description": "24 stuks",
+  "image": "/medias/prd-front-2603798-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NjIxNjV8aW1hZ2UvanBlZ3xhRFF6TDJoaE15OHhOakE1TkRreE1qQTROakEwTmk5d2NtUXRabkp2Ym5RdE1qWXdNemM1T0MweFh6WXdNSGcyTURBfDJmODJkMDQzODU4MzBiYjcxYmIxNDc5NWU5Y2MyZmNhZTc0NmZmNDQyZjMzZmFhNTc1ZjRhMWUyYjZhMDVjMmQ"
+}

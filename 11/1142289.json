@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 5686",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1062225",
-  "mmkId": "1062225",
-  "productGroupId": "519178",
+  "onPromo": "1062598",
+  "mmkId": "1062598",
+  "productGroupId": "511964",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-true-match-1c-rose-ivory-poeder/p/1142289",
@@ -33,5 +33,6 @@
       "name": "Gezichtspoeder"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcd/h64/44107951374366/prd-front-1142289-1_600x600/prd-front-1142289-1-600x600.jpg"
 }

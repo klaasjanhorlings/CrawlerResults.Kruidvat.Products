@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lucovitaal Kopergeweven Compressie Steunkousen",
+  "code": "5805434",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5928 > 6038 > 6041 > 6751 > 6750 > 6753",
+  "supplier": "PK BENELUX BV",
+  "inStock": "inStock",
+  "onPromo": "1062590",
+  "mmkId": "1062590",
+  "productGroupId": "511262",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lucovitaal-kopergeweven-compressie-steunkousen/p/5805434",
+  "listName": "Lister",
+  "brand": "Lucovitaal",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266039,
+      "name": "Dames"
+    },
+    {
+      "id": 30266844,
+      "name": "Sokken"
+    }
+  ],
+  "description": "zwart, mt 42-47",
+  "image": "/medias/sys_master/prd-images/h37/h6c/44554918723614/prd-front-5805434-1_600x600/prd-front-5805434-1-600x600.jpg"
+}

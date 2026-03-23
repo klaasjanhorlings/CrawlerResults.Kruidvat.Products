@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062847",
+  "mmkId": "1062847",
+  "productGroupId": "522554",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-disney-43286-de-aristokatten-schattige-marie/p/6428609",
@@ -33,6 +33,5 @@
       "name": "LEGO Disney"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h60/hc2/45708444925982/temp-prd-front-6428609-1_600x600/temp-prd-front-6428609-1-600x600.jpg"
+  "description": ""
 }

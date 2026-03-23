@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "1062285",
-  "mmkId": "1062285",
-  "productGroupId": "521590",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/elf-soft-glam-12-fair-warm-satin-foundation/p/6274749",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "30ml"
+  "description": "30ml",
+  "image": "/medias/sys_master/prd-images/h6b/h47/34020698947614/prd-front-6274749-1_600x600/prd-front-6274749-1-600x600.jpg"
 }

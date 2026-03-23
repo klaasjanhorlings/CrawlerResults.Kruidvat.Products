@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 5727 > 3678",
   "supplier": "REMARK GROEP",
   "inStock": "inStock",
-  "onPromo": "1062147",
-  "mmkId": "1062147",
-  "productGroupId": "508038",
+  "onPromo": "1062812",
+  "mmkId": "1062812",
+  "productGroupId": "536351",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/therme-zen-white-lotus-extra-dry-48h-cream/p/5632691",
@@ -33,5 +33,6 @@
       "name": "Deodorant creme"
     }
   ],
-  "description": "60ml"
+  "description": "60ml",
+  "image": "/medias/sys_master/prd-images/h51/h62/29340081422366/prd-front-5632691-1_600x600/prd-front-5632691-1-600x600.jpg"
 }

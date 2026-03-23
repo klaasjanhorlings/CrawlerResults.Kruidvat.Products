@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Princess Japandi Broodrooster",
+  "code": "6408449",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2197 > 2454 > 2957 > 3751 > 5929 > 6019",
+  "supplier": "TRISTAR EUROPE B.V.",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/princess-japandi-broodrooster/p/6408449",
+  "listName": "Lister",
+  "brand": "Princess",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 75053282,
+      "name": "Keukenapparatuur"
+    },
+    {
+      "id": 75053741,
+      "name": "Broodbereiding en grills"
+    },
+    {
+      "id": 99556947,
+      "name": "Broodroosters"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h27/haa/47852575490078/temp-prd-front-6408449-1_600x600/temp-prd-front-6408449-1-600x600.jpg"
+}

@@ -8,9 +8,9 @@
   "itemBgbcat": "2006 > 5048 > 2280 > 6206 > 6224 > 6298",
   "supplier": "HERKEL BV",
   "inStock": "inStock",
-  "onPromo": "1062219",
-  "mmkId": "1062219",
-  "productGroupId": "519069",
+  "onPromo": "1062575",
+  "mmkId": "1062575",
+  "productGroupId": "510668",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-vitamine-c-1500-tabletten/p/5476206",
@@ -37,5 +37,6 @@
       "name": "Vitamine C"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/h24/hb1/47743632474142/temp-prd-front-5476206-1_600x600/temp-prd-front-5476206-1-600x600.jpg"
 }

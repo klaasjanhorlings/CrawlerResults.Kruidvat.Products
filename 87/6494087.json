@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO 40816 Paasei Versieren",
+  "code": "6494087",
+  "price": "17.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1062847",
+  "mmkId": "1062847",
+  "productGroupId": "522554",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-40816-paasei-versieren/p/6494087",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266811,
+      "name": "LEGO Classic"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hc7/hb6/47624230174750/temp-prd-front-6494087-1_600x600/temp-prd-front-6494087-1-600x600.jpg"
+}

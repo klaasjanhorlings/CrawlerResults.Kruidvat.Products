@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5166 > 5237 > 5426 > 5921 > 6040",
   "supplier": "JUMBO NL BV",
   "inStock": "outOfStock",
-  "onPromo": "1062519",
-  "mmkId": "1062519",
-  "productGroupId": "538150",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/jumbo-wasgij-mystery-7-everything-must-go-puzzel/p/6409926",
@@ -29,5 +29,6 @@
       "name": "Puzzels"
     }
   ],
-  "description": "500 stukjes"
+  "description": "500 stukjes",
+  "image": "/medias/sys_master/prd-images/h8a/h30/47491555295262/temp-prd-front-6409926-1_600x600/temp-prd-front-6409926-1-600x600.jpg"
 }

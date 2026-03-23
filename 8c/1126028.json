@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Difrax Natural 6+M Large Flessenspenen",
   "code": "1126028",
-  "price": "6.99",
-  "priceOriginal": "",
+  "price": "5.24",
+  "priceOriginal": "6.99",
   "itemBgbcat": "2001 > 2033 > 2128 > 2530 > 3157 > 4028",
   "supplier": "DIFRAX BV",
   "inStock": "outOfStock",
-  "onPromo": "1062178",
-  "mmkId": "1062178",
-  "productGroupId": "513892",
+  "onPromo": "1062600",
+  "mmkId": "1062600",
+  "productGroupId": "511974",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 1,75",
   "url": "/difrax-natural-6m-large-flessenspenen/p/1126028",
   "listName": "Lister",
   "brand": "Difrax",
@@ -33,6 +33,5 @@
       "name": "Flessenspenen"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/h99/hc9/44154363674654/prd-front-1126028-1_600x600/prd-front-1126028-1-600x600.jpg"
+  "description": "2 stuks"
 }

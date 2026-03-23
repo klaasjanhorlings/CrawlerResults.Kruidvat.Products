@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "MCoBeauty Glow Up Universal Colour Changing pH Lip Balm",
   "code": "6317918",
-  "price": "9.99",
-  "priceOriginal": "",
+  "price": "6.0",
+  "priceOriginal": "9.99",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
   "supplier": "VIDACORP NETHERLANDS B.V.",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1062727",
+  "mmkId": "1062727",
+  "productGroupId": "526491",
   "brandType": "Exclusief merk",
-  "discount": "",
+  "discount": "€ 3,99",
   "url": "/mcobeauty-glow-up-universal-colour-changing-ph-lip-balm/p/6317918",
   "listName": "Lister",
   "brand": "MCoBeauty",
@@ -37,5 +37,6 @@
       "name": "Lip plumper"
     }
   ],
-  "description": "3,5g"
+  "description": "3,5g",
+  "image": "/medias/sys_master/prd-images/h22/hb2/34827104452638/prd-front-6317918-1_600x600/prd-front-6317918-1-600x600.jpg"
 }

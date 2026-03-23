@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "NIVEA Derma Control Defend Antitranspirant Spray",
   "code": "6324869",
-  "price": "2.89",
-  "priceOriginal": "5.79",
+  "price": "5.79",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2773 > 3785",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1062232",
-  "mmkId": "1062232",
-  "productGroupId": "519319",
+  "onPromo": "1062610",
+  "mmkId": "1062610",
+  "productGroupId": "513553",
   "brandType": "A of B merk",
-  "discount": "€ 2,90",
+  "discount": "",
   "url": "/nivea-derma-control-defend-antitranspirant-spray/p/6324869",
   "listName": "Lister",
   "brand": "Nivea",
@@ -33,5 +33,6 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/had/h6e/44039361855518/prd-front-6324869-1_600x600/prd-front-6324869-1-600x600.jpg"
 }

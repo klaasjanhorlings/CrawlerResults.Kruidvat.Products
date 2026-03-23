@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 3226 > 4108",
   "supplier": "OTC MEDICAL BV",
   "inStock": "inStock",
-  "onPromo": "1062320",
-  "mmkId": "1062320",
-  "productGroupId": "530448",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-solait-self-tan-bronzing-tissues/p/693938",
@@ -33,6 +33,5 @@
       "name": "Zelfbruiners"
     }
   ],
-  "description": "2 stuks",
-  "image": "/medias/sys_master/prd-images/hcb/hc5/47454168973342/temp-prd-front-693938-1_600x600/temp-prd-front-693938-1-600x600.jpg"
+  "description": "2 stuks"
 }

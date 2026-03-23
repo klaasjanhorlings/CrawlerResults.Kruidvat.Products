@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6694",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1062167",
-  "mmkId": "1062167",
-  "productGroupId": "511631",
+  "onPromo": "1062580",
+  "mmkId": "1062580",
+  "productGroupId": "510961",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/andrelon-levendig-lang-5-in-1-anti-klit-spray/p/6292886",
@@ -33,5 +33,6 @@
       "name": "Anti-klitspray"
     }
   ],
-  "description": "150ml"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h9c/h07/44564634370078/prd-front-6292886-1_600x600/prd-front-6292886-1-600x600.jpg"
 }

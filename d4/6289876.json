@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Hismile Blue Raspberry Tandpasta",
   "code": "6289876",
-  "price": "10.99",
-  "priceOriginal": "",
+  "price": "4.4",
+  "priceOriginal": "10.99",
   "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 4018",
   "supplier": "HISMILE PTY LTD.",
   "inStock": "inStock",
-  "onPromo": "1062258",
-  "mmkId": "1062258",
-  "productGroupId": "520168",
+  "onPromo": "1062813",
+  "mmkId": "1062813",
+  "productGroupId": "536572",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,59",
   "url": "/hismile-blue-raspberry-tandpasta/p/6289876",
   "listName": "Lister",
   "brand": "HISMILE",
@@ -37,5 +37,6 @@
       "name": "Glazuurbescherming"
     }
   ],
-  "description": "60g"
+  "description": "60g",
+  "image": "/medias/sys_master/prd-images/h34/hf3/34146808365086/prd-front-6289876-1_600x600/prd-front-6289876-1-600x600.jpg"
 }

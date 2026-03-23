@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "O'Keeffe's Hand & Body Lotion",
   "code": "6383592",
-  "price": "11.24",
-  "priceOriginal": "14.99",
+  "price": "14.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "REBRO COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "1062310",
-  "mmkId": "1062310",
-  "productGroupId": "525178",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "Exclusief merk",
-  "discount": "€ 3,75",
+  "discount": "",
   "url": "/okeeffes-hand-body-lotion/p/6383592",
   "listName": "Lister",
   "brand": "O'Keeffe's",
@@ -33,5 +33,6 @@
       "name": "Bodylotion"
     }
   ],
-  "description": "315ml"
+  "description": "315ml",
+  "image": "/medias/sys_master/prd-images/h6d/h5f/44315882913822/prd-front-6383592-1_600x600/prd-front-6383592-1-600x600.jpg"
 }

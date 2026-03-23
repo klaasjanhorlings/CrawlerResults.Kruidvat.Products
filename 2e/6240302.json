@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Wild Pink Grapefruit & Lime Navulbare Deodorant",
   "code": "6240302",
-  "price": "10.0",
-  "priceOriginal": "20.95",
+  "price": "20.95",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2042 > 2161 > 2395 > 2774 > 3786",
   "supplier": "WILD COSMETICS LTD.",
   "inStock": "inStock",
-  "onPromo": "1062313",
-  "mmkId": "1062313",
-  "productGroupId": "526816",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 10,95",
+  "discount": "",
   "url": "/wild-pink-grapefruit-lime-navulbare-deodorant/p/6240302",
   "listName": "Lister",
   "brand": "Wild",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "40g",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "image": "/medias/sys_master/prd-images/h1d/h14/48490096787486/temp-prd-front-6240302-1_600x600/temp-prd-front-6240302-1-600x600.jpg"
 }

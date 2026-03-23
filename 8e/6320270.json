@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "e.l.f. Skin Vitamin C Brightening +Glow Serum",
   "code": "6320270",
-  "price": "19.0",
-  "priceOriginal": "",
+  "price": "16.91",
+  "priceOriginal": "19.0",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3824",
   "supplier": "ELF BEAUTY UK LIMITED",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062673",
+  "mmkId": "1062673",
+  "productGroupId": "523811",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,09",
   "url": "/elf-skin-vitamin-c-brightening-glow-serum/p/6320270",
   "listName": "Lister",
   "brand": "ELF",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h4c/ha5/34950858768414/prd-front-6320270-1_600x600/prd-front-6320270-1-600x600.jpg"
 }

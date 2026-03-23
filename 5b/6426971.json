@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Kinderpyjama",
+  "code": "6426971",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2001 > 2130 > 2324 > 2723 > 3426 > 4362",
+  "supplier": "MUNDIA BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-kinderpyjama/p/6426971",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536080,
+      "name": "Baby"
+    },
+    {
+      "id": 30266041,
+      "name": "Babykleding"
+    },
+    {
+      "id": 30266851,
+      "name": "Pyjamas"
+    }
+  ],
+  "description": "mintgroen, mt 74-80",
+  "image": "/medias/sys_master/prd-images/h82/h62/47782585761822/temp-prd-front-6426971-1_600x600/temp-prd-front-6426971-1-600x600.jpg"
+}

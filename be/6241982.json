@@ -8,9 +8,9 @@
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
   "inStock": "inStock",
-  "onPromo": "1005487",
-  "mmkId": "1005487",
-  "productGroupId": "",
+  "onPromo": "1062612",
+  "mmkId": "1062612",
+  "productGroupId": "513887",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/maybelline-new-york-superstay-140-lumi-matte-foundation/p/6241982",
@@ -33,5 +33,6 @@
       "name": "Foundation"
     }
   ],
-  "description": "35ml"
+  "description": "35ml",
+  "image": "/medias/sys_master/prd-images/hab/h48/44795704442910/prd-front-6241982-1_600x600/prd-front-6241982-1-600x600.jpg"
 }

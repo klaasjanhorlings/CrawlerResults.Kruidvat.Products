@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062847",
+  "mmkId": "1062847",
+  "productGroupId": "522554",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-batman-76333-batman-robin-batmobile/p/6485344",
@@ -33,6 +33,5 @@
       "name": "LEGO Marvel"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h89/h82/47129800441886/temp-prd-front-6485344-1_600x600/temp-prd-front-6485344-1-600x600.jpg"
+  "description": ""
 }

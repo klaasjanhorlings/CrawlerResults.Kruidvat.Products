@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "CARESSE COSMETICS BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062791",
+  "mmkId": "1062791",
+  "productGroupId": "530598",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/byron-bay-tan-activator-sun-lotion-spf-30/p/4059406",
@@ -37,5 +37,6 @@
       "name": "Zonnebrand spray"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/h07/hb0/47303566163998/temp-prd-front-4059406-1_600x600/temp-prd-front-4059406-1-600x600.jpg"
 }

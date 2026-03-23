@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
   "supplier": "UNILEVER NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "1062515",
-  "mmkId": "1062515",
-  "productGroupId": "519718",
+  "onPromo": "1062579",
+  "mmkId": "1062579",
+  "productGroupId": "510859",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/zwitsal-zeepvrij-schuimbad/p/6311520",
@@ -37,5 +37,6 @@
       "name": "Babybadschuim"
     }
   ],
-  "description": "200ml"
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/hdb/h2d/34730458021918/prd-front-6311520-1_600x600/prd-front-6311520-1-600x600.jpg"
 }

@@ -1,0 +1,37 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO 30716 Schattige Paashaas",
+  "code": "6494094",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1062807",
+  "mmkId": "1062807",
+  "productGroupId": "534649",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-30716-schattige-paashaas/p/6494094",
+  "listName": "Lister",
+  "brand": "LEGO",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266811,
+      "name": "LEGO Classic"
+    }
+  ],
+  "description": ""
+}

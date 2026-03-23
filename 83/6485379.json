@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062847",
+  "mmkId": "1062847",
+  "productGroupId": "522554",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-disney-43290-kevin-en-dug/p/6485379",
@@ -33,6 +33,5 @@
       "name": "LEGO Disney"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h1b/h17/47142851182622/temp-prd-front-6485379-1_600x600/temp-prd-front-6485379-1-600x600.jpg"
+  "description": ""
 }

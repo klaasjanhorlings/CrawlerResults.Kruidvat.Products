@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "LEGO Technic 42212 Ferrari Fxx K",
   "code": "6346674",
-  "price": "41.24",
-  "priceOriginal": "54.99",
+  "price": "54.99",
+  "priceOriginal": "",
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "outOfStock",
-  "onPromo": "1062131",
-  "mmkId": "1062131",
-  "productGroupId": "524584",
+  "onPromo": "1062847",
+  "mmkId": "1062847",
+  "productGroupId": "522554",
   "brandType": "A of B merk",
-  "discount": "€ 13,75",
+  "discount": "",
   "url": "/lego-technic-42212-ferrari-fxx-k/p/6346674",
   "listName": "Lister",
   "brand": "LEGO Technic",
@@ -33,5 +33,6 @@
       "name": "LEGO Technic"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hde/h78/35037913546782/prd-front-6346674-1_600x600/prd-front-6346674-1-600x600.jpg"
 }
