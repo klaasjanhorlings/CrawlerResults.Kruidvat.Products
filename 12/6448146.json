@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "LEGO City 60482 Voertuigen - Brandweerwagen",
+  "code": "6448146",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
+  "supplier": "LEGO BENELUX BV (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1062847",
+  "mmkId": "1062847",
+  "productGroupId": "522554",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/lego-city-60482-voertuigen-brandweerwagen/p/6448146",
+  "listName": "Lister",
+  "brand": "LEGO City",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266025,
+      "name": "LEGO"
+    },
+    {
+      "id": 30266810,
+      "name": "LEGO City"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hcb/h7f/47684444323870/temp-prd-front-6448146-1_600x600/temp-prd-front-6448146-1-600x600.jpg"
+}

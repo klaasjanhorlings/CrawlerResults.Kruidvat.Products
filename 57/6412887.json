@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Telefoontasje",
+  "code": "6412887",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2244 > 2578 > 3199 > 4869 > 6412",
+  "supplier": "MIJNSCHOENENSHOP.NL",
+  "inStock": "inStock",
+  "onPromo": "1062792",
+  "mmkId": "1062792",
+  "productGroupId": "531129",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-telefoontasje/p/6412887",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 30266863,
+      "name": "Tassen"
+    },
+    {
+      "id": 101713689,
+      "name": "Telefoontas"
+    }
+  ],
+  "description": "ijsblauw, 20cm x 14cm",
+  "image": "/medias/sys_master/prd-images/hc4/hd5/44682821107742/prd-front-6412887-1_600x600/prd-front-6412887-1-600x600.jpg"
+}

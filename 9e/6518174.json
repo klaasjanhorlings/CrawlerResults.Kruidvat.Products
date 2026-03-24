@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Garnier PureActive Ultra Pimple Patches",
   "code": "6518174",
-  "price": "12.99",
-  "priceOriginal": "",
+  "price": "6.49",
+  "priceOriginal": "12.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062560",
+  "mmkId": "1062560",
+  "productGroupId": "508206",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 6,50",
   "url": "/garnier-pureactive-ultra-pimple-patches/p/6518174",
   "listName": "Lister",
   "brand": "Garnier Skin Naturals",
@@ -33,5 +33,6 @@
       "name": "Pimple patches"
     }
   ],
-  "description": "22 stuks"
+  "description": "22 stuks",
+  "image": "/medias/sys_master/prd-images/h27/hb9/47490344124446/temp-prd-front-6518174-1_600x600/temp-prd-front-6518174-1-600x600.jpg"
 }

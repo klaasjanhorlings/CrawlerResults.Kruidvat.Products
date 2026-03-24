@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Douwe Egberts Senseo Cappuccino Choco Coffee Pads",
   "code": "2800694",
   "price": "2.99",
@@ -33,6 +33,5 @@
       "name": "Koffiepads"
     }
   ],
-  "description": "8 stuks",
-  "image": "/medias/prd-front-2800694-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzM4ODF8aW1hZ2UvanBlZ3xhR0ZoTDJneE1TOHhOelEwT1Rjek56Y3hOVGMwTWk5d2NtUXRabkp2Ym5RdE1qZ3dNRFk1TkMweFh6WXdNSGcyTURBfDgyYzYwZTVjNWYzZmEyN2VhNWYwOTcyM2JiZjk0Mzg1ZWI3MDNhMDRhMzc0MjY1ZDcwOTcwNWMxMTg4NDE0NTk"
+  "description": "8 stuks"
 }

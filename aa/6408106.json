@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tulpenvaas",
+  "code": "6408106",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5088 > 5113 > 5117 > 5926 > 2195 > 5860",
+  "supplier": "DP FACTORY BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/tulpenvaas/p/6408106",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 30266900,
+      "name": "Woonaccessoires"
+    },
+    {
+      "id": 80863011,
+      "name": "Decoratie"
+    },
+    {
+      "id": 80863063,
+      "name": "Vazen"
+    }
+  ],
+  "description": "geel, 15cm x 15cm x 15cm",
+  "image": "/medias/sys_master/prd-images/hc1/hb0/46184174452766/temp-prd-front-6408106-1_600x600/temp-prd-front-6408106-1-600x600.jpg"
+}

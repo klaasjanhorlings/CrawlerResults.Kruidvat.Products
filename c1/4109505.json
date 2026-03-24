@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Ferrero Collection",
+  "code": "4109505",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 3224 > 4009",
+  "supplier": "FERRERO BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/ferrero-collection/p/4109505",
+  "listName": "Lister",
+  "brand": "Ferrero",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464837,
+      "name": "Chocoladegeschenken"
+    }
+  ],
+  "description": "172g",
+  "image": "/medias/prd-front-4109505-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTAzODcwfGltYWdlL2pwZWd8YURSaUwyaGtZUzh4TmpVMU5EQTBOREkyTURNNE1pOXdjbVF0Wm5KdmJuUXROREV3T1RVd05TMHhYell3TUhnMk1EQXxlNjJhOWI4Y2I1NmM3ZDQxYWExOGYyNmFhYmY2OTEwMmZhMjcwZWQ2ZTJlNjdjOWY1NjVkMGZlZDk2MWFlZDAx"
+}

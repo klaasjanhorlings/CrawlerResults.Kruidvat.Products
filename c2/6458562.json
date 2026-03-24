@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Villa Volance Gestreept 2-Persoons Dekbedovertrek",
+  "code": "6458562",
+  "price": "22.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2196 > 2453 > 2738 > 3440 > 5926 > 6020",
+  "supplier": "BEDDING HOUSE BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/villa-volance-gestreept-2-persoons-dekbedovertrek/p/6458562",
+  "listName": "Lister",
+  "brand": "Villa Volance",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266078,
+      "name": "Wonen"
+    },
+    {
+      "id": 57225448,
+      "name": "Slapen"
+    },
+    {
+      "id": 65815325,
+      "name": "Dekbedovertrekken"
+    }
+  ],
+  "description": "roze, wit, 240cm x 220cm",
+  "image": "/medias/sys_master/prd-images/hb3/h21/45249713995806/prd-front-6458562-1_600x600/prd-front-6458562-1-600x600.jpg"
+}

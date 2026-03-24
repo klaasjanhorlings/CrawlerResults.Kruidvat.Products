@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Gliss Scalp Balance Purifying Serum",
+  "code": "6504601",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6696",
+  "supplier": "HENKEL NEDERLAND BV U-K",
+  "inStock": "inStock",
+  "onPromo": "1062592",
+  "mmkId": "1062592",
+  "productGroupId": "511296",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/gliss-scalp-balance-purifying-serum/p/6504601",
+  "listName": "Lister",
+  "brand": "Gliss",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 30266696,
+      "name": "Haarserum"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h72/hd9/48531424411678/temp-prd-front-6504601-1_600x600/temp-prd-front-6504601-1-600x600.jpg"
+}

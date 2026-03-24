@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "GilletteLabs Body + Intimate Navulmesjes",
+  "code": "6496096",
+  "price": "36.99",
+  "priceOriginal": "73.99",
+  "itemBgbcat": "2003 > 2088 > 2255 > 2591 > 3879 > 5721",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "1062668",
+  "mmkId": "1062668",
+  "productGroupId": "523189",
+  "brandType": "A of B merk",
+  "discount": "€ 37,00",
+  "url": "/gillettelabs-body-intimate-navulmesjes/p/6496096",
+  "listName": "Lister",
+  "brand": "Gillette",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266002,
+      "name": "Scheren en ontharen"
+    },
+    {
+      "id": 30266678,
+      "name": "Scheermesjes"
+    }
+  ],
+  "description": "12 stuks",
+  "image": "/medias/sys_master/prd-images/h24/h0d/48534605955102/temp-prd-front-6496096-1_600x600/temp-prd-front-6496096-1-600x600.jpg"
+}
