@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "CeraVe Intensieve Herstellende Balsem",
   "code": "6304709",
-  "price": "15.45",
-  "priceOriginal": "",
+  "price": "12.36",
+  "priceOriginal": "15.45",
   "itemBgbcat": "2002 > 6760 > 6762 > 6761 > 6759 > 6758",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1062666",
   "productGroupId": "521573",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,09",
   "url": "/cerave-intensieve-herstellende-balsem/p/6304709",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "88ml"
+  "description": "88ml",
+  "image": "/medias/sys_master/prd-images/hed/hf5/35121297784862/prd-front-6304709-1_600x600/prd-front-6304709-1-600x600.jpg"
 }

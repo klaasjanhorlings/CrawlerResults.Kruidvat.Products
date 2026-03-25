@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Drs Leenarts Suncare SPF30 Spray",
+  "code": "6499057",
+  "price": "28.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "DR LEENARTS BV",
+  "inStock": "inStock",
+  "onPromo": "1062616",
+  "mmkId": "1062616",
+  "productGroupId": "514799",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/drs-leenarts-suncare-spf30-spray/p/6499057",
+  "listName": "Lister",
+  "brand": "Drs Leenarts",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131890081,
+      "name": "Zonnebrand spray"
+    }
+  ],
+  "description": "200ml",
+  "image": "/medias/sys_master/prd-images/he8/h1f/48088393383966/temp-prd-front-6499057-1_600x600/temp-prd-front-6499057-1-600x600.jpg"
+}

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "CeraVe Anti-Onzuiverheden Reinigingsgel",
   "code": "6304779",
-  "price": "15.75",
-  "priceOriginal": "",
+  "price": "12.6",
+  "priceOriginal": "15.75",
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1062666",
   "productGroupId": "521573",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,15",
   "url": "/cerave-anti-onzuiverheden-reinigingsgel/p/6304779",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -25,16 +25,8 @@
       "name": "Beauty"
     },
     {
-      "id": 30265991,
-      "name": "Skincare"
-    },
-    {
-      "id": 30266608,
-      "name": "Gezichtsreiniging"
-    },
-    {
-      "id": 30266916,
-      "name": "Cleanser"
+      "id": 30266606,
+      "name": "Dermacare"
     }
   ],
   "description": "236ml",

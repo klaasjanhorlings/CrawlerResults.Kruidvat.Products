@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Haribo Mystery Box",
   "code": "6402751",
   "price": "9.99",
@@ -12,7 +12,7 @@
   "mmkId": "",
   "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "$ 10,00",
+  "discount": "€ 10,00",
   "url": "/haribo-mystery-box/p/6402751",
   "listName": "Lister",
   "brand": "Haribo",

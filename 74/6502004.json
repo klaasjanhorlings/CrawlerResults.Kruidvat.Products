@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "CeraVe SPF50 Invisible Hydrating Fluid Sunscreen",
   "code": "6502004",
-  "price": "19.95",
-  "priceOriginal": "",
+  "price": "15.96",
+  "priceOriginal": "19.95",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1062666",
   "productGroupId": "521573",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,99",
   "url": "/cerave-spf50-invisible-hydrating-fluid-sunscreen/p/6502004",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -21,12 +21,24 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536077,
-      "name": "Beauty"
+      "id": 29536078,
+      "name": "Verzorging"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131891956,
+      "name": "Gezicht zonnebrand"
+    },
+    {
+      "id": 131893012,
+      "name": "Zonnecrème gezicht"
     }
   ],
   "description": "50ml",

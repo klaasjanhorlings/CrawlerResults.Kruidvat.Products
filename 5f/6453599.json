@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "CeraVe Skin Renewing Vitamin C Serum",
   "code": "6453599",
-  "price": "29.75",
-  "priceOriginal": "",
+  "price": "23.8",
+  "priceOriginal": "29.75",
   "itemBgbcat": "2002 > 6759 > 6758 > 6775 > 6776 > 6777",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1062666",
   "productGroupId": "521573",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 5,95",
   "url": "/cerave-skin-renewing-vitamin-c-serum/p/6453599",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -25,8 +25,16 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266605,
+      "name": "Serum"
+    },
+    {
+      "id": 87370060,
+      "name": "Gezichtsserum"
     }
   ],
   "description": "14ml",

@@ -3,8 +3,8 @@
   "currency": "EUR",
   "itemName": "CeraVe Hydraterende Reinigingscrème Navulling",
   "code": "6304772",
-  "price": "15.85",
-  "priceOriginal": "",
+  "price": "12.68",
+  "priceOriginal": "15.85",
   "itemBgbcat": "2002 > 6763 > 6759 > 6758 > 6764 > 6765",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
@@ -12,7 +12,7 @@
   "mmkId": "1062666",
   "productGroupId": "521573",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,17",
   "url": "/cerave-hydraterende-reinigingscreme-navulling/p/6304772",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -25,10 +25,17 @@
       "name": "Beauty"
     },
     {
-      "id": 30266606,
-      "name": "Dermacare"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266608,
+      "name": "Gezichtsreiniging"
+    },
+    {
+      "id": 30266917,
+      "name": "Reinigingscreme"
     }
   ],
-  "description": "473ml",
-  "image": "/medias/sys_master/prd-images/hf6/h34/34394100629534/prd-front-6304772-1_600x600/prd-front-6304772-1-600x600.jpg"
+  "description": "473ml"
 }

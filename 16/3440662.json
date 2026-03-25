@@ -25,13 +25,10 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
-    },
-    {
-      "id": 30266703,
-      "name": "Hoofdluis"
+      "id": 106232180,
+      "name": "Nieuw"
     }
   ],
-  "description": "Medisch hulpmiddel - 100ml"
+  "description": "Medisch hulpmiddel - 100ml",
+  "image": "/medias/sys_master/prd-images/hcc/h93/47899428847646/temp-prd-front-3440662-1_600x600/temp-prd-front-3440662-1-600x600.jpg"
 }

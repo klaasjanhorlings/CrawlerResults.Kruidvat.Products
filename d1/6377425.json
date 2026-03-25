@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 57856073,
-      "name": "Sport"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 30266012,
-      "name": "Sportvoeding"
+      "id": 30266007,
+      "name": "Voedingssupplementen"
     },
     {
-      "id": 30266755,
-      "name": "Sportaccessoires"
+      "id": 30266715,
+      "name": "Mineralen"
+    },
+    {
+      "id": 50001842,
+      "name": "Magnesium"
     }
   ],
   "description": "60 stuks",

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Milka Naps Chocolade XL Mixbox",
   "code": "5305525",
   "price": "27.99",
@@ -29,8 +29,12 @@
       "name": "Snacks en snoep"
     },
     {
-      "id": 74942293,
-      "name": "Trakteren"
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464836,
+      "name": "Bonbons en pralines"
     }
   ],
   "description": "207 stuks",

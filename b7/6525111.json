@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2042 > 2161 > 2397 > 3865 > 5730",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062598",
+  "mmkId": "1062598",
+  "productGroupId": "511964",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/loreal-paris-men-expert-thermic-resist-deodorant-spray/p/6525111",
@@ -33,6 +33,5 @@
       "name": "Deospray"
     }
   ],
-  "description": "150ml",
-  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+  "description": "150ml"
 }

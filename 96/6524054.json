@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sanex Total Freshness Whole Body Deodorant Cream",
+  "code": "6524054",
+  "price": "7.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3070 > 3684",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sanex-total-freshness-whole-body-deodorant-cream/p/6524054",
+  "listName": "Lister",
+  "brand": "Sanex",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 132940966,
+      "name": "Whole body deodorant"
+    }
+  ],
+  "description": "75ml",
+  "image": "/medias/sys_master/prd-images/h70/h65/48101904547870/temp-prd-front-6524054-1_600x600/temp-prd-front-6524054-1-600x600.jpg"
+}

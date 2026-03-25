@@ -1,0 +1,41 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Colgate Max White One Whitening Tandpasta",
+  "code": "2014055",
+  "price": "5.85",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2075 > 2223 > 2639 > 3323 > 6336",
+  "supplier": "COLGATE PALMOLIVE NLD",
+  "inStock": "inStock",
+  "onPromo": "1062704",
+  "mmkId": "1062704",
+  "productGroupId": "525906",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/colgate-max-white-one-whitening-tandpasta/p/2014055",
+  "listName": "Lister",
+  "brand": "Colgate",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266001,
+      "name": "Mondverzorging"
+    },
+    {
+      "id": 30266674,
+      "name": "Tandpasta"
+    },
+    {
+      "id": 132836399,
+      "name": "Whitening tandpasta"
+    }
+  ],
+  "description": "75ml - Whitening"
+}
