@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "COOPER CONSUMER HEALTH NL BV",
   "inStock": "inStock",
-  "onPromo": "1062578",
-  "mmkId": "1062578",
-  "productGroupId": "510820",
+  "onPromo": "1062841",
+  "mmkId": "1062841",
+  "productGroupId": "536091",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/p20-original-spf30-zonnebrandspray/p/5806071",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "175ml",
-  "image": "/medias/sys_master/prd-images/h38/h5e/48617040117790/temp-prd-front-5806071-1_600x600/temp-prd-front-5806071-1-600x600.jpg"
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }

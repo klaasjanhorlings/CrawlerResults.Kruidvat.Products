@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2714 > 3417",
   "supplier": "DERMCOS GMBH",
   "inStock": "inStock",
-  "onPromo": "1062695",
-  "mmkId": "1062695",
-  "productGroupId": "525254",
+  "onPromo": "1062841",
+  "mmkId": "1062841",
+  "productGroupId": "536091",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-solait-baby-spf50-suncream/p/1338688",
@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536078,
-      "name": "Verzorging"
+      "id": 29536080,
+      "name": "Baby"
     },
     {
-      "id": 91341800,
-      "name": "Mini reisverpakkingen"
+      "id": 30266016,
+      "name": "Babyverzorging"
+    },
+    {
+      "id": 30266778,
+      "name": "Baby zonnebrand"
     }
   ],
   "description": "100ml",

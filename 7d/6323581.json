@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Playing Kids Jungle Verjaardagstaart",
+  "code": "6323581",
+  "price": "4.49",
+  "priceOriginal": "8.99",
+  "itemBgbcat": "4640 > 5190 > 5369 > 5558 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "€ 4,50",
+  "url": "/playing-kids-jungle-verjaardagstaart/p/6323581",
+  "listName": "Lister",
+  "brand": "Playing Kids",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266036,
+      "name": "Houten speelgoed"
+    },
+    {
+      "id": 84925671,
+      "name": "Houten speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h18/h1a/35099209662494/prd-front-6323581-1_600x600/prd-front-6323581-1-600x600.jpg"
+}

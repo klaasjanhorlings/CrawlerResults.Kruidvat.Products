@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "EMIL KIESSLING GMBH",
   "inStock": "inStock",
-  "onPromo": "1062695",
-  "mmkId": "1062695",
-  "productGroupId": "525254",
+  "onPromo": "1062841",
+  "mmkId": "1062841",
+  "productGroupId": "536091",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-solait-spf50-transparant-sunstick/p/6018430",
@@ -37,5 +37,6 @@
       "name": "Zonnebrand stick"
     }
   ],
-  "description": "20g"
+  "description": "20g",
+  "image": "/medias/sys_master/prd-images/ha0/hca/34360902877214/prd-front-6018430-1_600x600/prd-front-6018430-1-600x600.jpg"
 }

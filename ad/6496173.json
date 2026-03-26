@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Naïf Baby & Kids Mineral Sun Stick SPF50 Zonnestick",
   "code": "6496173",
-  "price": "8.99",
-  "priceOriginal": "17.99",
+  "price": "17.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "1062654",
-  "mmkId": "1062654",
-  "productGroupId": "519971",
+  "onPromo": "1062841",
+  "mmkId": "1062841",
+  "productGroupId": "536091",
   "brandType": "A of B merk",
-  "discount": "€ 9,00",
+  "discount": "",
   "url": "/naif-baby-kids-mineral-sun-stick-spf50-zonnestick/p/6496173",
   "listName": "Lister",
   "brand": "Naïf",
@@ -33,6 +33,5 @@
       "name": "Baby zonnebrand"
     }
   ],
-  "description": "36g",
-  "image": "/medias/sys_master/prd-images/hb2/h95/48056075649054/temp-prd-front-6496173-1_600x600/temp-prd-front-6496173-1-600x600.jpg"
+  "description": "36g"
 }

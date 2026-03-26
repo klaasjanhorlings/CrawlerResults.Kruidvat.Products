@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "USD",
+  "itemName": "Sultana Bosvruchten FruitBiscuits",
+  "code": "3143568",
+  "price": "3.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2340 > 3233 > 4125",
+  "supplier": "KONINKLIJKE VERKADE NV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/sultana-bosvruchten-fruitbiscuits/p/3143568",
+  "listName": "Lister",
+  "brand": "Sultana",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267023,
+      "name": "Koek"
+    }
+  ],
+  "description": "10 x 3 stuks",
+  "image": "/medias/prd-front-3143568-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzA5Njl8aW1hZ2UvanBlZ3xhRFl6TDJobU1DOHlOekU0TVRReE5UUTVOemMxT0M5d2NtUXRabkp2Ym5RdE16RTBNelUyT0MweFh6WXdNSGcyTURBfDQzNGE5YjhmZjBiYzkyZmE2Njk1ZDFmMzJmNTEzN2I2YWI4N2U3OWUxYTljYjEwOTFiNWE1MmYwNTQ1NzllYWE"
+}

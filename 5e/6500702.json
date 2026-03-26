@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "CeraVe SPF50+ Invisible Sun Stick",
   "code": "6500702",
-  "price": "9.96",
-  "priceOriginal": "12.45",
+  "price": "12.45",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
-  "onPromo": "1062666",
-  "mmkId": "1062666",
-  "productGroupId": "521573",
+  "onPromo": "1062842",
+  "mmkId": "1062842",
+  "productGroupId": "536176",
   "brandType": "A of B merk",
-  "discount": "€ 2,49",
+  "discount": "",
   "url": "/cerave-spf50-invisible-sun-stick/p/6500702",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -29,6 +29,5 @@
       "name": "Dermacare"
     }
   ],
-  "description": "8g",
-  "image": "/medias/sys_master/prd-images/h15/h6f/48056457723934/temp-prd-front-6500702-1_600x600/temp-prd-front-6500702-1-600x600.jpg"
+  "description": "8g"
 }

@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2696 > 3396",
   "supplier": "LABORATOIRES SARBEC FRANCE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062841",
+  "mmkId": "1062841",
+  "productGroupId": "536091",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/corine-de-farme-eilandenparfum-uiervet/p/5602563",
@@ -33,6 +33,5 @@
       "name": "Aftersun"
     }
   ],
-  "description": "150ml",
-  "image": "/medias/sys_master/prd-images/h1f/h4e/48052085129246/temp-prd-front-5602563-1_600x600/temp-prd-front-5602563-1-600x600.jpg"
+  "description": "150ml"
 }

@@ -1,7 +1,7 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "Always Platinum Normal Maandverband",
+  "itemName": "Always Platinum Dag Maandverband",
   "code": "4081953",
   "price": "2.99",
   "priceOriginal": "",
@@ -13,7 +13,7 @@
   "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/always-platinum-normal-maandverband/p/4081953",
+  "url": "/always-platinum-dag-maandverband/p/4081953",
   "listName": "Lister",
   "brand": "Always",
   "mpOrigin": "Kruidvat",
@@ -33,6 +33,5 @@
       "name": "Maandverband"
     }
   ],
-  "description": "12 stuks",
-  "image": "/medias/sys_master/prd-images/hdc/h9d/48574872387614/temp-prd-front-4081953-1_600x600/temp-prd-front-4081953-1-600x600.jpg"
+  "description": "mt 1, 12 stuks"
 }

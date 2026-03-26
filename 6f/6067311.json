@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Oral-B Pro Kids Lion King Opzetborstel",
   "code": "6067311",
-  "price": "14.39",
-  "priceOriginal": "23.99",
+  "price": "23.99",
+  "priceOriginal": "",
   "itemBgbcat": "2003 > 2075 > 2223 > 2885 > 4228 > 5693",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "1062709",
-  "mmkId": "1062709",
-  "productGroupId": "525936",
+  "onPromo": "1062837",
+  "mmkId": "1062837",
+  "productGroupId": "525937",
   "brandType": "A of B merk",
-  "discount": "€ 9,60",
+  "discount": "",
   "url": "/oral-b-pro-kids-lion-king-opzetborstel/p/6067311",
   "listName": "Lister",
   "brand": "Oral B",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "4 stuks",
-  "image": "/medias/sys_master/prd-images/h07/hf2/48579555295262/temp-prd-front-6067311-1_600x600/temp-prd-front-6067311-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h54/hba/48619875565598/temp-prd-front-6067311-1_600x600/temp-prd-front-6067311-1-600x600.jpg"
 }

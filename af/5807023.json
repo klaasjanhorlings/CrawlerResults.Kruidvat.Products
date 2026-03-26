@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Corine de Farme Sensitive SPF50+ Beschermende Melk Spray",
+  "code": "5807023",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
+  "supplier": "LABORATOIRES SARBEC FRANCE",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/corine-de-farme-sensitive-spf50-beschermende-melk-spray/p/5807023",
+  "listName": "Lister",
+  "brand": "Corine De Farme",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265999,
+      "name": "Zonbescherming"
+    },
+    {
+      "id": 30266657,
+      "name": "Zonnebrand"
+    },
+    {
+      "id": 131889316,
+      "name": "Zonnebrand crème"
+    }
+  ],
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h81/hd4/48656021192734/temp-prd-front-5807023-1_600x600/temp-prd-front-5807023-1-600x600.jpg"
+}
