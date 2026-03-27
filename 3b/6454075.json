@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swim Essentials Bloem Zwemvest",
+  "code": "6454075",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2263 > 4936 > 4982 > 5028 > 5921 > 6040",
+  "supplier": "THE ESSENTIALS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/swim-essentials-bloem-zwemvest/p/6454075",
+  "listName": "Lister",
+  "brand": "Swim Essentials",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30266838,
+      "name": "Zwembaden en accessoires"
+    },
+    {
+      "id": 90160655,
+      "name": "Zwemveiligheid"
+    }
+  ],
+  "description": "19-30kg",
+  "image": "/medias/sys_master/prd-images/haf/h30/48044629950494/temp-prd-front-6454075-1_600x600/temp-prd-front-6454075-1-600x600.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tampax Compak Super Tampons",
+  "code": "6513253",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3755",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tampax-compak-super-tampons/p/6513253",
+  "listName": "Lister",
+  "brand": "Tampax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266661,
+      "name": "Tampons"
+    }
+  ],
+  "description": "26 stuks",
+  "image": "/medias/sys_master/prd-images/h7f/h09/48534676111390/temp-prd-front-6513253-1_600x600/temp-prd-front-6513253-1-600x600.jpg"
+}

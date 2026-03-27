@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swim Essentials Leeuw Zwemvest",
+  "code": "6429568",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2263 > 4936 > 4982 > 5028 > 5921 > 6040",
+  "supplier": "THE ESSENTIALS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/swim-essentials-leeuw-zwemvest/p/6429568",
+  "listName": "Lister",
+  "brand": "Swim Essentials",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30266838,
+      "name": "Zwembaden en accessoires"
+    },
+    {
+      "id": 90160655,
+      "name": "Zwemveiligheid"
+    }
+  ],
+  "description": "oranje, wit, 2-3 jaar",
+  "image": "/medias/sys_master/prd-images/h8a/h43/48044628639774/temp-prd-front-6429568-1_600x600/temp-prd-front-6429568-1-600x600.jpg"
+}

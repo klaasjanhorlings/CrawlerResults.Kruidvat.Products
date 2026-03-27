@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Xelly Beauty 4O Cream Foundation Stick",
+  "code": "6378034",
+  "price": "12.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
+  "supplier": "BRANSUS COSM ULTIMATCH",
+  "inStock": "inStock",
+  "onPromo": "1005487",
+  "mmkId": "1005487",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/xelly-beauty-4o-cream-foundation-stick/p/6378034",
+  "listName": "Lister",
+  "brand": "XELLY BEAUTY",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30265987,
+      "name": "Make-up"
+    },
+    {
+      "id": 30266577,
+      "name": "Foundation"
+    }
+  ],
+  "description": "12g",
+  "image": "/medias/sys_master/prd-images/he7/h08/44518215090206/prd-front-6378034-1_600x600/prd-front-6378034-1-600x600.jpg"
+}

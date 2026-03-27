@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. Scholl's Voetschimmel 4-in-1 Gelbehandeling",
+  "code": "6514051",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 3458 > 6450 > 6788",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "outOfStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dr-scholls-voetschimmel-4-in-1-gelbehandeling/p/6514051",
+  "listName": "Lister",
+  "brand": "Dr. Scholl's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetongemakken"
+    },
+    {
+      "id": 48220885,
+      "name": "Voetschimmel"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 10ml",
+  "image": "/medias/sys_master/prd-images/hea/h98/48437201731614/temp-prd-front-6514051-1_600x600/temp-prd-front-6514051-1-600x600.jpg"
+}

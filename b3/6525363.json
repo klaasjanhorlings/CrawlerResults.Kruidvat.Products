@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tena Pants Protect+ Plus Incontinentiebroekjes",
+  "code": "6525363",
+  "price": "18.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "ESSITY",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tena-pants-protect-plus-incontinentiebroekjes/p/6525363",
+  "listName": "Lister",
+  "brand": "Tena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266660,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30266924,
+      "name": "Incontinentiebroekjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - 12 stuks",
+  "image": "/medias/sys_master/prd-images/h43/hd3/48531351339038/temp-prd-front-6525363-1_600x600/temp-prd-front-6525363-1-600x600.jpg"
+}

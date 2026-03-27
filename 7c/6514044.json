@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dr. Scholl's Pedi Perfect NanoTech Navullingen",
+  "code": "6514044",
+  "price": "14.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 2683 > 3383",
+  "supplier": "PIETERCIL BARENDS BV",
+  "inStock": "inStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/dr-scholls-pedi-perfect-nanotech-navullingen/p/6514044",
+  "listName": "Lister",
+  "brand": "Dr. Scholl's",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetongemakken"
+    },
+    {
+      "id": 48220792,
+      "name": "Eeltverwijderaars"
+    }
+  ],
+  "description": "2 stuks",
+  "image": "/medias/sys_master/prd-images/ha9/h38/48272808607774/temp-prd-front-6514044-1_600x600/temp-prd-front-6514044-1-600x600.jpg"
+}

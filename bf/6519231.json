@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tena Pants Protect+ Maxi Incontinentiebroekjes",
+  "code": "6519231",
+  "price": "20.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "ESSITY",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tena-pants-protect-maxi-incontinentiebroekjes/p/6519231",
+  "listName": "Lister",
+  "brand": "Tena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266660,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30266924,
+      "name": "Incontinentiebroekjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - wit, mt L, 10 stuks",
+  "image": "/medias/sys_master/prd-images/h61/h07/48534600843294/temp-prd-front-6519231-1_600x600/temp-prd-front-6519231-1-600x600.jpg"
+}

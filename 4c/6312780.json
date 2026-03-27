@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Depend Gel iQ Pre-Cleanser",
+  "code": "6312780",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2002 > 6497 > 6496 > 6520 > 2802 > 3543",
+  "supplier": "LEIJTENS IMPORT BV",
+  "inStock": "inStock",
+  "onPromo": "1062661",
+  "mmkId": "1062661",
+  "productGroupId": "520971",
+  "brandType": "Exclusief merk",
+  "discount": "",
+  "url": "/depend-gel-iq-pre-cleanser/p/6312780",
+  "listName": "Lister",
+  "brand": "Depend Gel iQ",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 72475724,
+      "name": "Nagels"
+    },
+    {
+      "id": 87391016,
+      "name": "Nagel primer"
+    }
+  ],
+  "description": "35ml",
+  "image": "/medias/sys_master/prd-images/h8a/h57/44253783916574/prd-front-6312780-1_600x600/prd-front-6312780-1-600x600.jpg"
+}

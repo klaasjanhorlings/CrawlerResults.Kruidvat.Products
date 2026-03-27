@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Swim Essentials Zwemhulpmiddel met Bloemenprint",
+  "code": "6454061",
+  "price": "11.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2263 > 4936 > 4982 > 5028 > 5921 > 6040",
+  "supplier": "THE ESSENTIALS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/swim-essentials-zwemhulpmiddel-met-bloemenprint/p/6454061",
+  "listName": "Lister",
+  "brand": "Swim Essentials",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30266838,
+      "name": "Zwembaden en accessoires"
+    },
+    {
+      "id": 90160655,
+      "name": "Zwemveiligheid"
+    }
+  ],
+  "description": "paars, oranje",
+  "image": "/medias/sys_master/prd-images/hd4/h57/48044631687198/temp-prd-front-6454061-1_600x600/temp-prd-front-6454061-1-600x600.jpg"
+}

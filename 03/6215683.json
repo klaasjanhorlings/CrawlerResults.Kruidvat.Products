@@ -7,7 +7,7 @@
   "priceOriginal": "33.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "PROCTER & GAMBLE NL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062780",
   "mmkId": "1062780",
   "productGroupId": "528846",
@@ -33,6 +33,5 @@
       "name": "Dagcreme"
     }
   ],
-  "description": "50ml",
-  "image": "/medias/sys_master/prd-images/he7/h40/47321114673182/temp-prd-front-6215683-1_600x600/temp-prd-front-6215683-1-600x600.jpg"
+  "description": "50ml"
 }

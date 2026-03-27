@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Happy Earth Deodorant Jasmine Ho Wood Whole Body Deo Spray",
+  "code": "6423604",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2042 > 2161 > 2396 > 3069 > 3683",
+  "supplier": "ORANGE-SHEEP BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/happy-earth-deodorant-jasmine-ho-wood-whole-body-deo-spray/p/6423604",
+  "listName": "Lister",
+  "brand": "Happy Earth",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30265996,
+      "name": "Deodorant"
+    },
+    {
+      "id": 30266644,
+      "name": "Deospray"
+    }
+  ],
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h41/h10/48700039004190/temp-prd-front-6423604-1_600x600/temp-prd-front-6423604-1-600x600.jpg"
+}

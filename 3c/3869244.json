@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "999 Games Regenwormen Junior",
+  "code": "3869244",
+  "price": "5.99",
+  "priceOriginal": "10.99",
+  "itemBgbcat": "2181 > 5921 > 6040 > 6735 > 6733 > 6734",
+  "supplier": "999 GAMES",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 5,00",
+  "url": "/999-games-regenwormen-junior/p/3869244",
+  "listName": "Lister",
+  "brand": "999 Games",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/prd-front-3869244-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8MTI3NjExfGltYWdlL2pwZWd8YURJM0wyZzJOQzh4TmpBNU9ERTNNemd4TWpjMk5pOXdjbVF0Wm5KdmJuUXRNemcyT1RJME5DMHhYell3TUhnMk1EQXxkZDlmZTczZGRkNzE5ZmJkNjA1M2Y1M2NmYzk2NmE1M2FmNjAzYjgzYjA3ODBhNDkyMjUwNjZlNDE3NTNhZTUw"
+}

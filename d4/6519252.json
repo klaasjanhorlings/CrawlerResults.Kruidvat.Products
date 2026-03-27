@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nailner Kalknagelbehandeling",
+  "code": "6519252",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 6452 > 6451 > 6788",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "outOfStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nailner-kalknagelbehandeling/p/6519252",
+  "listName": "Lister",
+  "brand": "Nailner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetongemakken"
+    },
+    {
+      "id": 48220844,
+      "name": "Kalknagels"
+    }
+  ],
+  "description": "5ml",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
+}

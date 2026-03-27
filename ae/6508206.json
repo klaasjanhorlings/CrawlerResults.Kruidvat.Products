@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Nailner Behandel & Camoufleer Kalknagelbehandeling",
+  "code": "6508206",
+  "price": "28.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 6452 > 6451 > 6788",
+  "supplier": "ALL-IN-1 BVBA",
+  "inStock": "outOfStock",
+  "onPromo": "1008193",
+  "mmkId": "1008193",
+  "productGroupId": "218105",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/nailner-behandel-camoufleer-kalknagelbehandeling/p/6508206",
+  "listName": "Lister",
+  "brand": "Nailner",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetongemakken"
+    },
+    {
+      "id": 48220844,
+      "name": "Kalknagels"
+    }
+  ],
+  "description": "2 x 5ml",
+  "image": "/medias/sys_master/prd-images/ha5/hfe/48437365178398/temp-prd-front-6508206-1_600x600/temp-prd-front-6508206-1-600x600.jpg"
+}

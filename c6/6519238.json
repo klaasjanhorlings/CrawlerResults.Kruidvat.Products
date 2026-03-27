@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tena Pants Protect+ Super Incontinentiebroekjes",
+  "code": "6519238",
+  "price": "19.49",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2199 > 2455 > 2960 > 3761",
+  "supplier": "ESSITY",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tena-pants-protect-super-incontinentiebroekjes/p/6519238",
+  "listName": "Lister",
+  "brand": "Tena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266660,
+      "name": "Incontinentie"
+    },
+    {
+      "id": 30266924,
+      "name": "Incontinentiebroekjes"
+    }
+  ],
+  "description": "Medisch hulpmiddel - wit, mt S, 12 stuks",
+  "image": "/medias/sys_master/prd-images/hd8/h5a/48531344687134/temp-prd-front-6519238-1_600x600/temp-prd-front-6519238-1-600x600.jpg"
+}

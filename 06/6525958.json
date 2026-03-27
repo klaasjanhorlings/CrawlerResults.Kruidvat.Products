@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Tampax Compak Regular Tampons",
+  "code": "6525958",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2065 > 2205 > 2628 > 3073 > 3755",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/tampax-compak-regular-tampons/p/6525958",
+  "listName": "Lister",
+  "brand": "Tampax",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266000,
+      "name": "Intieme verzorging"
+    },
+    {
+      "id": 30266661,
+      "name": "Tampons"
+    }
+  ],
+  "description": "26 stuks",
+  "image": "/medias/sys_master/prd-images/hd7/hcc/48538632355870/temp-prd-front-6525958-1_600x600/temp-prd-front-6525958-1-600x600.jpg"
+}

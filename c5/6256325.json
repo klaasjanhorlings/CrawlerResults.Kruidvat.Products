@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "3710 > 5921 > 6040 > 2191 > 6822 > 6823",
   "supplier": "SPEELGOEDLAND",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "",
   "mmkId": "",
   "productGroupId": "",
@@ -29,5 +29,6 @@
       "name": "Knutselen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/he7/h3b/35063197302814/prd-front-6256325-1_600x600/prd-front-6256325-1-600x600.jpg"
 }

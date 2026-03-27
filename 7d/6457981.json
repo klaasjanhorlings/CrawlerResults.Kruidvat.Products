@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Waterglijbaan",
+  "code": "6457981",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2263 > 5178 > 5286 > 5475 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/waterglijbaan/p/6457981",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 90162677,
+      "name": "Opblaasfiguren"
+    }
+  ],
+  "description": "488cm",
+  "image": "/medias/sys_master/prd-images/hbb/h31/48699756412958/temp-prd-front-6457981-1_600x600/temp-prd-front-6457981-1-600x600.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bestway Sprouts & Spring Ballpit",
+  "code": "6386252",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2263 > 4845 > 4856 > 4867 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bestway-sprouts-spring-ballpit/p/6386252",
+  "listName": "Lister",
+  "brand": "Bestway",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 30266838,
+      "name": "Zwembaden en accessoires"
+    },
+    {
+      "id": 90161849,
+      "name": "Zwembaden"
+    }
+  ],
+  "description": "102cm x 102cm x 25cm",
+  "image": "/medias/sys_master/prd-images/h6e/h0f/48044776161310/temp-prd-front-6386252-1_600x600/temp-prd-front-6386252-1-600x600.jpg"
+}

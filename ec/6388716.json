@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Bestway Later Gator Playcenter",
+  "code": "6388716",
+  "price": "29.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2263 > 4845 > 4856 > 4867 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/bestway-later-gator-playcenter/p/6388716",
+  "listName": "Lister",
+  "brand": "Bestway",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 90162677,
+      "name": "Opblaasfiguren"
+    }
+  ],
+  "description": "groen, 234 cm x 163cm x 87cm",
+  "image": "/medias/sys_master/prd-images/hf3/hb6/48044774522910/temp-prd-front-6388716-1_600x600/temp-prd-front-6388716-1-600x600.jpg"
+}

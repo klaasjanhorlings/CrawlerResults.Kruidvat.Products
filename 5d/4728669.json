@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Neutrogena Hydro Boost Oogcrème",
+  "code": "4728669",
+  "price": "11.99",
+  "priceOriginal": "19.99",
+  "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5064",
+  "supplier": "KENVUE",
+  "inStock": "inStock",
+  "onPromo": "1062768",
+  "mmkId": "1062768",
+  "productGroupId": "528161",
+  "brandType": "A of B merk",
+  "discount": "€ 8,00",
+  "url": "/neutrogena-hydro-boost-oogcreme/p/4728669",
+  "listName": "Lister",
+  "brand": "Neutrogena",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536077,
+      "name": "Beauty"
+    },
+    {
+      "id": 30266606,
+      "name": "Dermacare"
+    }
+  ],
+  "description": "15ml",
+  "image": "/medias/sys_master/prd-images/h73/h61/31122434129950/prd-front-4728669-1_600x600/prd-front-4728669-1-600x600.jpg"
+}
