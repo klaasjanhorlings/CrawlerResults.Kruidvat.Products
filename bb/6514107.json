@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Mycosan Ingegroeide Teennagel Verzorging",
+  "code": "6514107",
+  "price": "15.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2006 > 2052 > 2175 > 2429 > 3121 > 3986",
+  "supplier": "OTC MEDICAL BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/mycosan-ingegroeide-teennagel-verzorging/p/6514107",
+  "listName": "Lister",
+  "brand": "Mycosan",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536079,
+      "name": "Gezondheid"
+    },
+    {
+      "id": 48220663,
+      "name": "Voetongemakken"
+    },
+    {
+      "id": 48220914,
+      "name": "Hulpmiddelen voetproblemen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h9c/he9/48744015101982/temp-prd-front-6514107-1_600x600/temp-prd-front-6514107-1-600x600.jpg"
+}

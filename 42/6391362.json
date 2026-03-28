@@ -1,19 +1,19 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "L'Oréal Paris Infaillible 300 Amber SPF25 32H Fresh Wear Foundation",
-  "code": "3005696",
-  "price": "19.99",
+  "itemName": "L'Oréal Paris Infaillible 3-Second Setting Mist",
+  "code": "6391362",
+  "price": "16.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2378 > 2819 > 3560",
   "supplier": "L'OREAL MAKE-UP",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062598",
   "mmkId": "1062598",
   "productGroupId": "511964",
   "brandType": "A of B merk",
   "discount": "",
-  "url": "/loreal-paris-infaillible-300-amber-spf25-32h-fresh-wear-foundation/p/3005696",
+  "url": "/loreal-paris-infaillible-3-second-setting-mist/p/6391362",
   "listName": "Lister",
   "brand": "L'Oreal",
   "mpOrigin": "Kruidvat",
@@ -29,10 +29,10 @@
       "name": "Make-up"
     },
     {
-      "id": 30266577,
-      "name": "Foundation"
+      "id": 30266594,
+      "name": "Fixing sprays"
     }
   ],
-  "description": "30ml",
-  "image": "/medias/sys_master/prd-images/h80/h4c/44723169394718/prd-front-3005696-1_600x600/prd-front-3005696-1-600x600.jpg"
+  "description": "150ml",
+  "image": "/medias/sys_master/prd-images/h46/hc7/46344248983582/temp-prd-front-6391362-1_600x600/temp-prd-front-6391362-1-600x600.jpg"
 }

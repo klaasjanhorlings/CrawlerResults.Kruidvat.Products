@@ -1,21 +1,21 @@
 {
   "type": "product",
   "currency": "EUR",
-  "itemName": "e.l.f. Glow Reviver Mauve Plumping Lip Oil",
-  "code": "6414924",
-  "price": "10.0",
+  "itemName": "Essence Disney The Little Mermaid 02 Swim Towards Your Dreams Bi-Phase Lipoil",
+  "code": "6518503",
+  "price": "2.99",
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2069 > 2210 > 2468 > 2992 > 3819",
-  "supplier": "ELF BEAUTY UK LIMITED",
-  "inStock": "inStock",
+  "supplier": "COSNOVA GMBH (BNL)",
+  "inStock": "outOfStock",
   "onPromo": "1005487",
   "mmkId": "1005487",
   "productGroupId": "",
-  "brandType": "A of B merk",
+  "brandType": "Exclusief merk",
   "discount": "",
-  "url": "/elf-glow-reviver-mauve-plumping-lip-oil/p/6414924",
+  "url": "/essence-disney-the-little-mermaid-02-swim-towards-your-dreams-bi-phase-lipoil/p/6518503",
   "listName": "Lister",
-  "brand": "ELF",
+  "brand": "Essence",
   "mpOrigin": "Kruidvat",
   "mpShopId": "1",
   "isSponsored": "false",
@@ -37,5 +37,6 @@
       "name": "Lip oil"
     }
   ],
-  "description": "7,6ml"
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hd7/h6d/47943067959326/temp-prd-front-6518503-1_600x600/temp-prd-front-6518503-1-600x600.jpg"
 }

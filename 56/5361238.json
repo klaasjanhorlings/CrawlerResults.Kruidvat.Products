@@ -1,13 +1,13 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat Cooling Gel",
   "code": "5361238",
   "price": "5.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 2070 > 2174 > 2603 > 6471 > 6472",
   "supplier": "GEOCOS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062623",
   "mmkId": "1062623",
   "productGroupId": "516331",
@@ -33,5 +33,6 @@
       "name": "Koelmiddelen"
     }
   ],
-  "description": "Medisch hulpmiddel - 150ml"
+  "description": "Medisch hulpmiddel - 150ml",
+  "image": "/medias/sys_master/prd-images/hc6/hca/47955070058526/temp-prd-front-5361238-1_600x600/temp-prd-front-5361238-1-600x600.jpg"
 }
