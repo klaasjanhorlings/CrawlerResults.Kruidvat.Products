@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kinderrokje met Fruitprint",
+  "code": "6393455",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5808 > 5811 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kinderrokje-met-fruitprint/p/6393455",
+  "listName": "Lister",
+  "brand": "EKW Evora",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "oranje, blauw, mt 110-116",
+  "image": "/medias/sys_master/prd-images/hcd/h31/48360401895454/temp-prd-front-6393455-1_600x600/temp-prd-front-6393455-1-600x600.jpg"
+}

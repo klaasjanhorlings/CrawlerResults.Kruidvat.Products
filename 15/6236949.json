@@ -7,7 +7,7 @@
   "priceOriginal": "12.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 6704",
   "supplier": "LOREAL NED BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062560",
   "mmkId": "1062560",
   "productGroupId": "508206",
@@ -33,5 +33,6 @@
       "name": "Pimple patches"
     }
   ],
-  "description": "22 stuks"
+  "description": "22 stuks",
+  "image": "/medias/sys_master/prd-images/h80/h58/35136451805214/prd-front-6236949-1_600x600/prd-front-6236949-1-600x600.jpg"
 }

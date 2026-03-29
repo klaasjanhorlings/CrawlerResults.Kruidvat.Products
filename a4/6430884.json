@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kinder-T-Shirt",
+  "code": "6430884",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5808 > 5810 > 5928 > 6038 > 6043 > 6045",
+  "supplier": "TROY COMPANIES BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kinder-t-shirt/p/6430884",
+  "listName": "Lister",
+  "brand": "EKW Evora",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266042,
+      "name": "Kinderen"
+    },
+    {
+      "id": 30266855,
+      "name": "Kinderkleding"
+    }
+  ],
+  "description": "wit,oranje, mt 134-140",
+  "image": "/medias/sys_master/prd-images/hc4/hf8/48363195564062/temp-prd-front-6430884-1_600x600/temp-prd-front-6430884-1-600x600.jpg"
+}

@@ -7,7 +7,7 @@
   "priceOriginal": "15.99",
   "itemBgbcat": "2002 > 2089 > 2256 > 2301 > 2775 > 3477",
   "supplier": "TRADE SENSE BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062560",
   "mmkId": "1062560",
   "productGroupId": "508206",
@@ -37,5 +37,6 @@
       "name": "Oogmaskers"
     }
   ],
-  "description": "60 stuks"
+  "description": "60 stuks",
+  "image": "/medias/sys_master/prd-images/hc9/he8/34534994116638/prd-front-5992390-1_600x600/prd-front-5992390-1-600x600.jpg"
 }

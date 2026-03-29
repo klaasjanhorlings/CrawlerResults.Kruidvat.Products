@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "ZURU NETHERLANDS BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062534",
   "mmkId": "1062534",
   "productGroupId": "512413",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "Maat 6 (15-20 kg), 22 stuks",
-  "image": "/medias/sys_master/prd-images/h52/h78/33985114898462/prd-front-6240099-1_600x600/prd-front-6240099-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2b/h5f/48750510374942/temp-prd-front-6240099-1_600x600/temp-prd-front-6240099-1-600x600.jpg"
 }

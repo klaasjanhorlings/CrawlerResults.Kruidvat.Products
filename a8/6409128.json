@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Damesclogs",
+  "code": "6409128",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2487 > 3056 > 3904 > 5928 > 6351 > 6352",
+  "supplier": "UNITED ESSENTIALS BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/damesclogs/p/6409128",
+  "listName": "Lister",
+  "brand": "EKW Evora",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266043,
+      "name": "Schoenen"
+    },
+    {
+      "id": 30266859,
+      "name": "Herenschoenen"
+    }
+  ],
+  "description": "oranje, mt 40-41",
+  "image": "/medias/sys_master/prd-images/h32/h17/48757476294686/temp-prd-front-6409128-1_600x600/temp-prd-front-6409128-1-600x600.jpg"
+}

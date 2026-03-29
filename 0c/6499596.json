@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "EUR",
+  "currency": "USD",
   "itemName": "Kruidvat Alkaline AA-Batterijen",
   "code": "6499596",
   "price": "3.49",
@@ -29,5 +29,6 @@
       "name": "Batterijen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/_ui/addons/kvstorefrontaddon/responsive/common/images/missing_product_nl_300x300.png"
 }
