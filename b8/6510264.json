@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Dobble Anarchy Pancakes",
+  "code": "6510264",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5162 > 5217 > 5406 > 5921 > 6040",
+  "supplier": "ASMODEE THE NETHERLANDS",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/dobble-anarchy-pancakes/p/6510264",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 49281411,
+      "name": "Kaartspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h35/hdf/48136816623646/temp-prd-front-6510264-1_600x600/temp-prd-front-6510264-1-600x600.jpg"
+}

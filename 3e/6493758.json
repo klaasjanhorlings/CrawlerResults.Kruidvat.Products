@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Megafoon Bellenblaasmachine",
+  "code": "6493758",
+  "price": "8.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2263 > 2622 > 3301 > 4200 > 5921 > 6040",
+  "supplier": "SPECTRON BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/megafoon-bellenblaasmachine/p/6493758",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266033,
+      "name": "Buitenspeelgoed"
+    },
+    {
+      "id": 61682353,
+      "name": "Waterspeelgoed"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/ha8/hcf/48136683192350/temp-prd-front-6493758-1_600x600/temp-prd-front-6493758-1-600x600.jpg"
+}

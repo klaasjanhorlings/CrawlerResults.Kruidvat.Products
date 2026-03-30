@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Lenor Amber & Orchidee Geurbooster",
+  "code": "6519728",
+  "price": "5.49",
+  "priceOriginal": "11.99",
+  "itemBgbcat": "2007 > 2068 > 2194 > 2404 > 3239 > 6792",
+  "supplier": "PROCTER & GAMBLE NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "€ 6,50",
+  "url": "/lenor-amber-orchidee-geurbooster/p/6519728",
+  "listName": "Lister",
+  "brand": "Lenor",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536086,
+      "name": "Huishouden"
+    },
+    {
+      "id": 49313672,
+      "name": "Wasparfum"
+    }
+  ],
+  "description": "240g, 20 wasbeurten",
+  "image": "/medias/sys_master/prd-images/hb4/h27/47942892945438/temp-prd-front-6519728-1_600x600/temp-prd-front-6519728-1-600x600.jpg"
+}

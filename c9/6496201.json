@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "BEIERSDORF NV NL",
   "inStock": "inStock",
-  "onPromo": "1062841",
-  "mmkId": "1062841",
-  "productGroupId": "536091",
+  "onPromo": "1062700",
+  "mmkId": "1062700",
+  "productGroupId": "525865",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nivea-breathable-uv-face-shine-control-spf50-zonnecreme/p/6496201",
@@ -41,5 +41,6 @@
       "name": "Zonnecrème gezicht"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/hd3/hfc/48527591243806/temp-prd-front-6496201-1_600x600/temp-prd-front-6496201-1-600x600.jpg"
 }

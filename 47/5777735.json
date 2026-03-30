@@ -1,0 +1,42 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Maltesers",
+  "code": "5777735",
+  "price": "3.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
+  "supplier": "MARS NEDERLAND BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/maltesers/p/5777735",
+  "listName": "Lister",
+  "brand": "Maltesers",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 30266076,
+      "name": "Eten en drinken"
+    },
+    {
+      "id": 30266884,
+      "name": "Snacks en snoep"
+    },
+    {
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464842,
+      "name": "Chocoladebites"
+    }
+  ],
+  "description": "273g",
+  "image": "/medias/prd-front-5777735-1-600x600?context=bWFzdGVyfHByZC1pbWFnZXN8NzAxMzJ8aW1hZ2UvanBlZ3xhRFZpTDJnMU5pOHhOamd4TWpZMU9EY3lNRGM1T0M5d2NtUXRabkp2Ym5RdE5UYzNOemN6TlMweFh6WXdNSGcyTURBfGM1M2JjNDc0NTNkOTk1NmRjOWZjNWUyNzcwM2Q5OGZiYjI2MmQ2YWU2MDExOWJhNmVkNDM0MmFlY2IzMjEwY2E"
+}

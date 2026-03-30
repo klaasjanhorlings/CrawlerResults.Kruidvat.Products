@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Peppa Pig 4-in-1 Colouring Set",
+  "code": "5602465",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "5921 > 2181 > 5166 > 5237 > 5426 > 6040",
+  "supplier": "NIROO HOLDING BV",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/peppa-pig-4-in-1-colouring-set/p/5602465",
+  "listName": "Lister",
+  "brand": "Peppa Pig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266030,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/hde/h23/45327797583902/prd-front-5602465-1_600x600/prd-front-5602465-1-600x600.jpg"
+}

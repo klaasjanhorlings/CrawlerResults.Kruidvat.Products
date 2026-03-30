@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "5928 > 6038 > 6041 > 6751 > 6750 > 6753",
   "supplier": "PK BENELUX BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062590",
   "mmkId": "1062590",
   "productGroupId": "511262",
@@ -33,5 +33,6 @@
       "name": "Sokken"
     }
   ],
-  "description": "wit, mt 36-41"
+  "description": "wit, mt 36-41",
+  "image": "/medias/sys_master/prd-images/h49/h90/44578251276318/prd-front-6408764-1_600x600/prd-front-6408764-1-600x600.jpg"
 }

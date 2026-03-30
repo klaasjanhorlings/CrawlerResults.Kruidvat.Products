@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Kruidvat 20W USB-C-naar-USB-C Kabel",
   "code": "6153103",
   "price": "6.99",
@@ -33,5 +33,6 @@
       "name": "Telefoonkabeltjes"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h83/h42/33410218131486/prd-front-6153103-1_600x600/prd-front-6153103-1-600x600.jpg"
 }

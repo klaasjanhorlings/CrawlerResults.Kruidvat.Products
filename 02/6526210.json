@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Sonic Green Hill Zone Playset",
+  "code": "6526210",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2232 > 2746 > 3454 > 4929 > 5921 > 6040",
+  "supplier": "HEATHSIDE TRADING BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "",
+  "url": "/sonic-green-hill-zone-playset/p/6526210",
+  "listName": "Lister",
+  "brand": "Overig",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h2a/h8b/48137209872414/temp-prd-front-6526210-1_600x600/temp-prd-front-6526210-1-600x600.jpg"
+}

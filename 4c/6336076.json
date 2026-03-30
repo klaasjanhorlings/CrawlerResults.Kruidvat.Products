@@ -1,0 +1,34 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Pokémon Gummen",
+  "code": "6336076",
+  "price": "1.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2191 > 3710 > 5921 > 6040 > 6822 > 6823",
+  "supplier": "SPEELGOEDLAND",
+  "inStock": "outOfStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/pokemon-gummen/p/6336076",
+  "listName": "Lister",
+  "brand": "Pokemon",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266030,
+      "name": "Knutselen"
+    }
+  ],
+  "description": "7 stuks",
+  "image": "/medias/sys_master/prd-images/hcd/h2e/34640395403294/prd-front-6336076-1_600x600/prd-front-6336076-1-600x600.jpg"
+}

@@ -1,6 +1,6 @@
 {
   "type": "product",
-  "currency": "USD",
+  "currency": "EUR",
   "itemName": "Digitale Camera",
   "code": "6250991",
   "price": "9.99",
@@ -12,7 +12,7 @@
   "mmkId": "1059368",
   "productGroupId": "",
   "brandType": "Ander merk",
-  "discount": "$ 10,00",
+  "discount": "€ 10,00",
   "url": "/digitale-camera/p/6250991",
   "listName": "Lister",
   "brand": "Overig",

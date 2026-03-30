@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Jumbo Electro Basisschool Groep 3 & 4",
+  "code": "6520603",
+  "price": "9.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5921 > 6040 > 6737 > 6738 > 6736",
+  "supplier": "JUMBO NL BV",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/jumbo-electro-basisschool-groep-3-4/p/6520603",
+  "listName": "Lister",
+  "brand": "Jumbo",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266034,
+      "name": "Educatief speelgoed"
+    },
+    {
+      "id": 90169580,
+      "name": "Educatieve spellen"
+    }
+  ],
+  "description": "Nederlandstalig spel",
+  "image": "/medias/sys_master/prd-images/h57/h92/47942877741086/temp-prd-front-6520603-1_600x600/temp-prd-front-6520603-1-600x600.jpg"
+}

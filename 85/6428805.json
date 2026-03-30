@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1062847",
-  "mmkId": "1062847",
-  "productGroupId": "522554",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-ninjago-71866-15-jarig-jubileum-display-met-ninjapersonages/p/6428805",
@@ -33,5 +33,6 @@
       "name": "LEGO Ninjago"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h21/h19/45706920689694/temp-prd-front-6428805-1_600x600/temp-prd-front-6428805-1-600x600.jpg"
 }

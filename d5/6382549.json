@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "True Spirit Herenhorloge",
+  "code": "6382549",
+  "price": "6.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2048 > 2270 > 4869 > 5039 > 5041 > 5040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/true-spirit-herenhorloge/p/6382549",
+  "listName": "Lister",
+  "brand": "Truespirit",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536082,
+      "name": "Fashion"
+    },
+    {
+      "id": 30266046,
+      "name": "Accessoires"
+    },
+    {
+      "id": 86672226,
+      "name": "Horloges"
+    }
+  ],
+  "description": "donkerblauw",
+  "image": "/medias/sys_master/prd-images/he3/h87/44326349799454/prd-front-6382549-1_600x600/prd-front-6382549-1-600x600.jpg"
+}

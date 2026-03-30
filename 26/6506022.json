@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Hasbro Trivial Pursuit",
+  "code": "6506022",
+  "price": "19.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6040",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "A of B merk",
+  "discount": "",
+  "url": "/hasbro-trivial-pursuit/p/6506022",
+  "listName": "Lister",
+  "brand": "Hasbro",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266027,
+      "name": "Spellen"
+    },
+    {
+      "id": 30266835,
+      "name": "Bordspellen"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h5d/h14/47942236405790/temp-prd-front-6506022-1_600x600/temp-prd-front-6506022-1-600x600.jpg"
+}

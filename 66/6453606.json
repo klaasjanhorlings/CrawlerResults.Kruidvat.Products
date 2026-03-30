@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "CeraVe Intensive Moisturising Cream",
   "code": "6453606",
-  "price": "17.96",
-  "priceOriginal": "22.45",
+  "price": "22.45",
+  "priceOriginal": "",
   "itemBgbcat": "2002 > 6759 > 6758 > 6770 > 6769 > 6771",
   "supplier": "LOREAL NED B.V.",
   "inStock": "inStock",
-  "onPromo": "1062666",
-  "mmkId": "1062666",
-  "productGroupId": "521573",
+  "onPromo": "1053321",
+  "mmkId": "1053321",
+  "productGroupId": "",
   "brandType": "A of B merk",
-  "discount": "€ 4,49",
+  "discount": "",
   "url": "/cerave-intensive-moisturising-cream/p/6453606",
   "listName": "Lister",
   "brand": "CeraVe",
@@ -29,5 +29,6 @@
       "name": "Dermacare"
     }
   ],
-  "description": "354ml"
+  "description": "354ml",
+  "image": "/medias/sys_master/prd-images/h33/h17/47143067680798/temp-prd-front-6453606-1_600x600/temp-prd-front-6453606-1-600x600.jpg"
 }

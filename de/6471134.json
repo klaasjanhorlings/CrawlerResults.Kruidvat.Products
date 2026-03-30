@@ -1,0 +1,33 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat CR2032 Knoopcelbatterijen",
+  "code": "6471134",
+  "price": "4.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2007 > 2134 > 6013 > 6145 > 6146 > 6147",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-cr2032-knoopcelbatterijen/p/6471134",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536085,
+      "name": "Elektronica"
+    },
+    {
+      "id": 30266055,
+      "name": "Batterijen"
+    }
+  ],
+  "description": "20 stuks"
+}

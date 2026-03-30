@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 6497 > 6496 > 6505 > 6506 > 6520",
   "supplier": "LITTLE CONCEPTS NETTO",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062661",
   "mmkId": "1062661",
   "productGroupId": "520971",
@@ -33,6 +33,5 @@
       "name": "Gellak"
     }
   ],
-  "description": "20 stuks",
-  "image": "/medias/sys_master/prd-images/h8e/hbf/32342584918046/prd-front-6036588-1_600x600/prd-front-6036588-1-600x600.jpg"
+  "description": "20 stuks"
 }

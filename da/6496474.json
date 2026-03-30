@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Naïf Baby & Kids Mineral Sunscreen SPF50 Zonnecrème",
   "code": "6496474",
-  "price": "26.99",
-  "priceOriginal": "",
+  "price": "13.49",
+  "priceOriginal": "26.99",
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "1062841",
-  "mmkId": "1062841",
-  "productGroupId": "536091",
+  "onPromo": "1062654",
+  "mmkId": "1062654",
+  "productGroupId": "519971",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 13,50",
   "url": "/naif-baby-kids-mineral-sunscreen-spf50-zonnecreme/p/6496474",
   "listName": "Lister",
   "brand": "Naïf",
@@ -37,6 +37,5 @@
       "name": "Zonnebrand kids"
     }
   ],
-  "description": "100ml",
-  "image": "/medias/sys_master/prd-images/hcd/h79/48071065010206/temp-prd-front-6496474-1_600x600/temp-prd-front-6496474-1-600x600.jpg"
+  "description": "100ml"
 }

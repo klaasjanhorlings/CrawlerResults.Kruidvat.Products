@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2093 > 2264 > 2623 > 2702 > 3405",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "1062841",
-  "mmkId": "1062841",
-  "productGroupId": "536091",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/garnier-ambre-solair-super-uv-spf50-onzichtbare-waterfluid-zonbescherming/p/6496313",
@@ -41,6 +41,5 @@
       "name": "Zonnefluïde"
     }
   ],
-  "description": "40ml",
-  "image": "/medias/sys_master/prd-images/h37/h95/48060319858718/temp-prd-front-6496313-1_600x600/temp-prd-front-6496313-1-600x600.jpg"
+  "description": "40ml"
 }

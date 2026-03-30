@@ -8,9 +8,9 @@
   "itemBgbcat": "2141 > 2346 > 2747 > 3455 > 5921 > 6040",
   "supplier": "LEGO BENELUX BV (BNL)",
   "inStock": "inStock",
-  "onPromo": "1062847",
-  "mmkId": "1062847",
-  "productGroupId": "522554",
+  "onPromo": "",
+  "mmkId": "",
+  "productGroupId": "",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/lego-ideas-21366-drijvende-zeeotters/p/6485407",
@@ -33,6 +33,5 @@
       "name": "LEGO Classic"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/h40/h75/47134392385566/temp-prd-front-6485407-1_600x600/temp-prd-front-6485407-1-600x600.jpg"
+  "description": ""
 }
