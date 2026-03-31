@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Zuru Smashers Mini Jurassic Light Up Dino",
+  "code": "6003723",
+  "price": "2.99",
+  "priceOriginal": "5.99",
+  "itemBgbcat": "5921 > 6040 > 2232 > 2746 > 3454 > 4929",
+  "supplier": "AS WATSON (TRAD.HK LIM)",
+  "inStock": "inStock",
+  "onPromo": "1059368",
+  "mmkId": "1059368",
+  "productGroupId": "",
+  "brandType": "Ander merk",
+  "discount": "€ 3,00",
+  "url": "/zuru-smashers-mini-jurassic-light-up-dino/p/6003723",
+  "listName": "Lister",
+  "brand": "Zuru",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536081,
+      "name": "Speelgoed"
+    },
+    {
+      "id": 30266028,
+      "name": "Speelfiguren en speelsets"
+    },
+    {
+      "id": 84925806,
+      "name": "Speelsets"
+    }
+  ],
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h87/h4b/29438766186526/prd-front-6003723-1_600x600/prd-front-6003723-1-600x600.jpg"
+}

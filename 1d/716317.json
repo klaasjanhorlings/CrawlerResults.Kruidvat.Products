@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 5065",
   "supplier": "HERKEL BV",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062572",
   "mmkId": "1062572",
   "productGroupId": "510469",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "10ml - Onzuivere huid",
-  "image": "/medias/sys_master/prd-images/h42/h40/48796979724318/temp-prd-front-716317-1_600x600/temp-prd-front-716317-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h89/ha3/48838500909086/temp-prd-front-716317-1_600x600/temp-prd-front-716317-1-600x600.jpg"
 }

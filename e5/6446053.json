@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2003 > 2058 > 2187 > 2376 > 2817 > 4025",
   "supplier": "HENKEL NEDERLAND BV U-K",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062761",
   "mmkId": "1062761",
   "productGroupId": "528047",
@@ -29,6 +29,5 @@
       "name": "Haarverf"
     }
   ],
-  "description": "130ml",
-  "image": "/medias/sys_master/prd-images/h63/h84/46076430712862/temp-prd-front-6446053-1_600x600/temp-prd-front-6446053-1-600x600.jpg"
+  "description": "130ml"
 }

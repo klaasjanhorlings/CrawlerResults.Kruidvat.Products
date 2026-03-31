@@ -3,11 +3,11 @@
   "currency": "EUR",
   "itemName": "Centrum Women Multivitaminen Tabletten",
   "code": "3278024",
-  "price": "13.49",
+  "price": "11.99",
   "priceOriginal": "",
   "itemBgbcat": "2006 > 5048 > 2280 > 6204 > 6222 > 6288",
   "supplier": "HALEON (NOVARTIS)",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1062606",
   "mmkId": "1062606",
   "productGroupId": "512975",
@@ -37,6 +37,5 @@
       "name": "Multivitamines"
     }
   ],
-  "description": "30 stuks",
-  "image": "/medias/sys_master/prd-images/h2e/h21/47591979024414/temp-prd-front-3278024-1_600x600/temp-prd-front-3278024-1-600x600.jpg"
+  "description": "30 stuks"
 }
