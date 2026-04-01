@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
   "supplier": "DANONE NUTRICIA NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062928",
+  "mmkId": "1062928",
+  "productGroupId": "526495",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/olvarit-8m-pompoencurry-met-linzen/p/6150660",
@@ -37,6 +37,5 @@
       "name": "8+ maanden"
     }
   ],
-  "description": "200g",
-  "image": "/medias/sys_master/prd-images/hd6/h7a/47918804074526/temp-prd-front-6150660-1_600x600/temp-prd-front-6150660-1-600x600.jpg"
+  "description": "200g"
 }

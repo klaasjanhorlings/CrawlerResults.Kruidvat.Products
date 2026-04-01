@@ -21,16 +21,20 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536082,
-      "name": "Fashion"
+      "id": 29536079,
+      "name": "Gezondheid"
     },
     {
-      "id": 30266039,
-      "name": "Dames"
+      "id": 30266014,
+      "name": "Hulpmiddelen gezondheid"
     },
     {
-      "id": 30266844,
-      "name": "Sokken"
+      "id": 60551626,
+      "name": "Revalidatiehulpmiddelen"
+    },
+    {
+      "id": 84927719,
+      "name": "Compressiesokken"
     }
   ],
   "description": "beige, mt 42-47"

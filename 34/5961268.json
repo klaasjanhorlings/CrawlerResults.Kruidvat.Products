@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Naïf Baby & Kids Bath Foam",
   "code": "5961268",
-  "price": "10.79",
-  "priceOriginal": "17.99",
+  "price": "17.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2715 > 3418",
   "supplier": "NAIF CARE BV",
   "inStock": "inStock",
-  "onPromo": "1062596",
-  "mmkId": "1062596",
-  "productGroupId": "511910",
+  "onPromo": "1062923",
+  "mmkId": "1062923",
+  "productGroupId": "525757",
   "brandType": "A of B merk",
-  "discount": "€ 7,20",
+  "discount": "",
   "url": "/naif-baby-kids-bath-foam/p/5961268",
   "listName": "Lister",
   "brand": "Naïf",
@@ -37,5 +37,6 @@
       "name": "Babybadschuim"
     }
   ],
-  "description": "500ml"
+  "description": "500ml",
+  "image": "/medias/sys_master/prd-images/h67/hf3/28807566852126/prd-front-5961268-1_600x600/prd-front-5961268-1-600x600.jpg"
 }

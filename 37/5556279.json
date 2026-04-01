@@ -3,7 +3,7 @@
   "currency": "EUR",
   "itemName": "Milka Favourites Chocolade Mixbox XL",
   "code": "5556279",
-  "price": "29.99",
+  "price": "21.99",
   "priceOriginal": "",
   "itemBgbcat": "2004 > 2094 > 2281 > 2366 > 2796 > 3537",
   "supplier": "MONDELEZ NEDERLAND BV",
@@ -29,8 +29,12 @@
       "name": "Snacks en snoep"
     },
     {
-      "id": 74942293,
-      "name": "Trakteren"
+      "id": 30267024,
+      "name": "Chocolade"
+    },
+    {
+      "id": 107464836,
+      "name": "Bonbons en pralines"
     }
   ],
   "description": "108 stuks",

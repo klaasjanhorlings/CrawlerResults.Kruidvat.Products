@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2130 > 2499 > 3106 > 3973 > 4362",
   "supplier": "MUNDIA BV",
   "inStock": "outOfStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062935",
+  "mmkId": "1062935",
+  "productGroupId": "528421",
   "brandType": "Eigen merk",
   "discount": "",
   "url": "/kruidvat-terry-washandjes/p/6426747",
@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536086,
-      "name": "Huishouden"
+      "id": 30266078,
+      "name": "Wonen"
     },
     {
-      "id": 30266073,
-      "name": "Vochtig toiletpapier"
+      "id": 30266901,
+      "name": "Huishoudelijk textiel"
+    },
+    {
+      "id": 80863144,
+      "name": "Washandjes"
     }
   ],
   "description": "4 stuks",

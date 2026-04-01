@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Mepal Mio 360° Drinkbeker",
   "code": "6495599",
-  "price": "10.49",
-  "priceOriginal": "13.99",
+  "price": "13.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2033 > 2128 > 2313 > 2709 > 3412",
   "supplier": "MEPAL BV",
   "inStock": "inStock",
-  "onPromo": "1062754",
-  "mmkId": "1062754",
-  "productGroupId": "527710",
+  "onPromo": "1062938",
+  "mmkId": "1062938",
+  "productGroupId": "528936",
   "brandType": "Exclusief merk",
-  "discount": "€ 3,50",
+  "discount": "",
   "url": "/mepal-mio-360-drinkbeker/p/6495599",
   "listName": "Lister",
   "brand": "Mepal",
@@ -33,5 +33,6 @@
       "name": "Drinkbeker"
     }
   ],
-  "description": "300ml"
+  "description": "300ml",
+  "image": "/medias/sys_master/prd-images/ha7/h8b/46982539673630/temp-prd-front-6495599-1_600x600/temp-prd-front-6495599-1-600x600.jpg"
 }

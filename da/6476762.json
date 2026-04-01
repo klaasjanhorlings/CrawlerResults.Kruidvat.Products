@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2131 > 2329 > 3006 > 4078",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1062794",
   "mmkId": "1062794",
   "productGroupId": "531258",
@@ -29,6 +29,5 @@
       "name": "Billendoekjes"
     }
   ],
-  "description": "3 x 60 stuks",
-  "image": "/medias/sys_master/prd-images/h12/h72/47454097342494/temp-prd-front-6476762-1_600x600/temp-prd-front-6476762-1-600x600.jpg"
+  "description": "3 x 60 stuks"
 }

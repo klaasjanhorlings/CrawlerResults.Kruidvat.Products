@@ -21,12 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 29536077,
+      "name": "Beauty"
     },
     {
-      "id": 106232180,
-      "name": "Nieuw"
+      "id": 30265991,
+      "name": "Skincare"
+    },
+    {
+      "id": 30266604,
+      "name": "Oogcreme"
     }
   ],
   "description": "30ml",

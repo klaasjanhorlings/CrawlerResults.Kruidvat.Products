@@ -1,0 +1,38 @@
+{
+  "type": "product",
+  "currency": "EUR",
+  "itemName": "Kruidvat Oil & Care Anti-Klit Spray",
+  "code": "6507030",
+  "price": "2.99",
+  "priceOriginal": "",
+  "itemBgbcat": "2003 > 2058 > 2186 > 2835 > 6689 > 6694",
+  "supplier": "ROYAL SANDERS (BNL)",
+  "inStock": "inStock",
+  "onPromo": "1062698",
+  "mmkId": "1062698",
+  "productGroupId": "525826",
+  "brandType": "Eigen merk",
+  "discount": "",
+  "url": "/kruidvat-oil-care-anti-klit-spray/p/6507030",
+  "listName": "Lister",
+  "brand": "Kruidvat",
+  "mpOrigin": "Kruidvat",
+  "mpShopId": "1",
+  "isSponsored": "false",
+  "categories": [
+    {
+      "id": 29536078,
+      "name": "Verzorging"
+    },
+    {
+      "id": 30266005,
+      "name": "Haarverzorging"
+    },
+    {
+      "id": 49213300,
+      "name": "Anti-klitspray"
+    }
+  ],
+  "description": "250ml",
+  "image": "/medias/sys_master/prd-images/h4e/h62/48134117621790/temp-prd-front-6507030-1_600x600/temp-prd-front-6507030-1-600x600.jpg"
+}

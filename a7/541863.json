@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2319 > 5678 > 5679",
   "supplier": "NESTLE NEDERLAND BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062935",
+  "mmkId": "1062935",
+  "productGroupId": "528421",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/nestle-yogolino-6m-aardbei-babydessert/p/541863",
@@ -29,8 +29,12 @@
       "name": "Babyvoeding"
     },
     {
-      "id": 30266774,
-      "name": "Babytussendoortjes"
+      "id": 30266770,
+      "name": "Fruithapjes"
+    },
+    {
+      "id": 30267003,
+      "name": "6 maanden +"
     }
   ],
   "description": "4 x 100g",

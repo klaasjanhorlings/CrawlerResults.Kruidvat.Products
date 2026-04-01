@@ -8,9 +8,9 @@
   "itemBgbcat": "2003 > 2075 > 2223 > 3835 > 6395 > 6396",
   "supplier": "PROCTER & GAMBLE NL BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062929",
+  "mmkId": "1062929",
+  "productGroupId": "527186",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/oral-b-io-kids-disney-stitch-6-jaar-elektrische-tandenborstel/p/6489488",
@@ -33,6 +33,5 @@
       "name": "Elektrische tandenborstels"
     }
   ],
-  "description": "",
-  "image": "/medias/sys_master/prd-images/hd0/hc8/47316573683742/temp-prd-front-6489488-1_600x600/temp-prd-front-6489488-1-600x600.jpg"
+  "description": ""
 }

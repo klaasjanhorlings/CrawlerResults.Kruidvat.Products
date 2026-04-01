@@ -25,14 +25,18 @@
       "name": "Gezondheid"
     },
     {
-      "id": 48220663,
-      "name": "Voetongemakken"
+      "id": 30266006,
+      "name": "Zelfzorg"
     },
     {
-      "id": 101911637,
-      "name": "Voetwratten"
+      "id": 30266699,
+      "name": "Huidbehandeling"
+    },
+    {
+      "id": 30266942,
+      "name": "Wrattenbehandeling"
     }
   ],
   "description": "Medisch hulpmiddel - 15ml",
-  "image": "/medias/sys_master/prd-images/hcb/h5d/48834496987166/temp-prd-front-5836822-1_600x600/temp-prd-front-5836822-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h71/h64/48880543432734/temp-prd-front-5836822-1_600x600/temp-prd-front-5836822-1-600x600.jpg"
 }

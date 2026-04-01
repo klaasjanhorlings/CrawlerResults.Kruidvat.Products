@@ -8,9 +8,9 @@
   "itemBgbcat": "2001 > 2032 > 2127 > 2318 > 3022 > 3847",
   "supplier": "CAMPS FOOD BV",
   "inStock": "inStock",
-  "onPromo": "1063361",
-  "mmkId": "1063361",
-  "productGroupId": "489051",
+  "onPromo": "1062920",
+  "mmkId": "1062920",
+  "productGroupId": "522176",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ellas-kitchen-organic-10m-bio-spaghetti-bolognese/p/6142218",
@@ -37,5 +37,6 @@
       "name": "12+ maanden"
     }
   ],
-  "description": "190g"
+  "description": "190g",
+  "image": "/medias/sys_master/prd-images/hd1/h45/31461461065758/prd-front-6142218-1_600x600/prd-front-6142218-1-600x600.jpg"
 }

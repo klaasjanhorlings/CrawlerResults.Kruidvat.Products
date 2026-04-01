@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Mixa Niacinamide Stretch Mark Oil",
   "code": "6387421",
-  "price": "15.99",
-  "priceOriginal": "",
+  "price": "11.99",
+  "priceOriginal": "15.99",
   "itemBgbcat": "2003 > 2059 > 2139 > 2342 > 3036 > 3484",
   "supplier": "LOREAL NED BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062939",
+  "mmkId": "1062939",
+  "productGroupId": "529469",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 4,00",
   "url": "/mixa-niacinamide-stretch-mark-oil/p/6387421",
   "listName": "Lister",
   "brand": "Mixa",
@@ -34,5 +34,5 @@
     }
   ],
   "description": "100ml",
-  "image": "/medias/sys_master/prd-images/h74/h71/48831173885982/temp-prd-front-6387421-1_600x600/temp-prd-front-6387421-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h2c/hc0/48877100924958/temp-prd-front-6387421-1_600x600/temp-prd-front-6387421-1-600x600.jpg"
 }

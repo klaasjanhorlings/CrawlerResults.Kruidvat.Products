@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "2002 > 2089 > 2256 > 2424 > 2832 > 3574",
   "supplier": "MAXIM MARKENPRODUKTE",
-  "inStock": "inStock",
+  "inStock": "outOfStock",
   "onPromo": "1062770",
   "mmkId": "1062770",
   "productGroupId": "528386",
@@ -37,5 +37,6 @@
       "name": "Gezichtsserum"
     }
   ],
-  "description": "40ml"
+  "description": "40ml",
+  "image": "/medias/sys_master/prd-images/h8e/hb9/34112513933342/prd-front-6285522-1_600x600/prd-front-6285522-1-600x600.jpg"
 }

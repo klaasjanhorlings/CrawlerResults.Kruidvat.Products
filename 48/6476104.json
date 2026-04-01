@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Pampers Night Pants Maat 4 Luierbroekjes",
   "code": "6476104",
-  "price": "38.27",
-  "priceOriginal": "63.79",
+  "price": "63.79",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2043 > 2272 > 2641 > 2971 > 3773",
   "supplier": "PROCTER&GAMBLE(P) NL BV",
   "inStock": "inStock",
-  "onPromo": "1062538",
-  "mmkId": "1062538",
-  "productGroupId": "527461",
+  "onPromo": "1062930",
+  "mmkId": "1062930",
+  "productGroupId": "527458",
   "brandType": "A of B merk",
-  "discount": "€ 25,52",
+  "discount": "",
   "url": "/pampers-night-pants-maat-4-luierbroekjes/p/6476104",
   "listName": "Lister",
   "brand": "Pampers",
@@ -33,5 +33,6 @@
       "name": "Luierbroekjes maat 4"
     }
   ],
-  "description": "mt 4 (9-15kg), 104 stuks"
+  "description": "mt 4 (9-15kg), 104 stuks",
+  "image": "/medias/sys_master/prd-images/h2e/hfa/46521625313310/temp-prd-front-6476104-1_600x600/temp-prd-front-6476104-1-600x600.jpg"
 }

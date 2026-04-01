@@ -21,20 +21,16 @@
   "isSponsored": "false",
   "categories": [
     {
-      "id": 29536079,
-      "name": "Gezondheid"
+      "id": 30266076,
+      "name": "Eten en drinken"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 30266884,
+      "name": "Snacks en snoep"
     },
     {
-      "id": 30266705,
-      "name": "Luchtwegen"
-    },
-    {
-      "id": 30266961,
-      "name": "Keelpastilles"
+      "id": 30267027,
+      "name": "Keelsnoepjes"
     }
   ],
   "description": "50g",

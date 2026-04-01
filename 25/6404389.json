@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Medela Moedermelk Bewaarzakjes",
   "code": "6404389",
-  "price": "22.09",
-  "priceOriginal": "25.99",
+  "price": "25.99",
+  "priceOriginal": "",
   "itemBgbcat": "2001 > 2031 > 2218 > 2484 > 3050 > 3899",
   "supplier": "MEDELA BENELUX BV",
   "inStock": "inStock",
-  "onPromo": "1062726",
-  "mmkId": "1062726",
-  "productGroupId": "526385",
+  "onPromo": "1062932",
+  "mmkId": "1062932",
+  "productGroupId": "527556",
   "brandType": "A of B merk",
-  "discount": "€ 3,90",
+  "discount": "",
   "url": "/medela-moedermelk-bewaarzakjes/p/6404389",
   "listName": "Lister",
   "brand": "Medela",
@@ -37,6 +37,5 @@
       "name": "Moedermelkbewaarzakjes"
     }
   ],
-  "description": "100 stuks",
-  "image": "/medias/sys_master/prd-images/h06/hce/47468794183710/temp-prd-front-6404389-1_600x600/temp-prd-front-6404389-1-600x600.jpg"
+  "description": "100 stuks"
 }

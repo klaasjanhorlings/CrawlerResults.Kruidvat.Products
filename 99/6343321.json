@@ -8,9 +8,9 @@
   "itemBgbcat": "2181 > 5161 > 5212 > 5401 > 5921 > 6040",
   "supplier": "RAVENSBURGER BV",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062937",
+  "mmkId": "1062937",
+  "productGroupId": "528630",
   "brandType": "A of B merk",
   "discount": "",
   "url": "/ravensburger-super-mario-barricade-pocketspel/p/6343321",
@@ -33,5 +33,6 @@
       "name": "Bordspellen"
     }
   ],
-  "description": ""
+  "description": "",
+  "image": "/medias/sys_master/prd-images/h72/ha9/34900733526046/prd-front-6343321-1_600x600/prd-front-6343321-1-600x600.jpg"
 }

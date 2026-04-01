@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Inoli Baby Intensief Vettend Badolie",
   "code": "3707439",
-  "price": "12.49",
-  "priceOriginal": "",
+  "price": "9.99",
+  "priceOriginal": "12.49",
   "itemBgbcat": "2001 > 2031 > 2126 > 2315 > 2716 > 3419",
   "supplier": "NIA CARE BV",
   "inStock": "inStock",
-  "onPromo": "1062848",
-  "mmkId": "1062848",
-  "productGroupId": "542206",
+  "onPromo": "1062914",
+  "mmkId": "1062914",
+  "productGroupId": "511178",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 2,50",
   "url": "/inoli-baby-intensief-vettend-badolie/p/3707439",
   "listName": "Lister",
   "brand": "Inoli",
@@ -37,5 +37,6 @@
       "name": "Babybadolie"
     }
   ],
-  "description": "100ml"
+  "description": "100ml",
+  "image": "/medias/sys_master/prd-images/h65/h0e/46188693422110/temp-prd-front-3707439-1_600x600/temp-prd-front-3707439-1-600x600.jpg"
 }

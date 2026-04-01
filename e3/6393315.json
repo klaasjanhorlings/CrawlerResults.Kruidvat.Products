@@ -25,16 +25,12 @@
       "name": "Gezondheid"
     },
     {
-      "id": 30266006,
-      "name": "Zelfzorg"
+      "id": 30266008,
+      "name": "Wondverzorging"
     },
     {
-      "id": 30266699,
-      "name": "Huidbehandeling"
-    },
-    {
-      "id": 49947031,
-      "name": "Speciale huidbehandeling"
+      "id": 30266740,
+      "name": "Wondreiniging en/of -ontsmetting"
     }
   ],
   "description": "Geneesmiddel - 120ml",

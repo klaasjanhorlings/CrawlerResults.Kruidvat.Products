@@ -7,7 +7,7 @@
   "priceOriginal": "",
   "itemBgbcat": "6021 > 2207 > 2621 > 3164 > 6626 > 2001",
   "supplier": "STEPS FOOTSOCKS BV",
-  "inStock": "outOfStock",
+  "inStock": "inStock",
   "onPromo": "1062752",
   "mmkId": "1062752",
   "productGroupId": "527663",
@@ -29,8 +29,8 @@
       "name": "Dames"
     },
     {
-      "id": 30266845,
-      "name": "Panty's"
+      "id": 30266844,
+      "name": "Sokken"
     }
   ],
   "description": "beige, mt 39-42, 2 paar",

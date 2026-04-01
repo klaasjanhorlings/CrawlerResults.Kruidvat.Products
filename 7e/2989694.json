@@ -3,16 +3,16 @@
   "currency": "EUR",
   "itemName": "Weleda Baby Calendula Billenbalsem",
   "code": "2989694",
-  "price": "10.49",
-  "priceOriginal": "",
+  "price": "7.34",
+  "priceOriginal": "10.49",
   "itemBgbcat": "2001 > 2031 > 2126 > 2325 > 2720 > 3423",
   "supplier": "WELEDA BENELUX SE",
   "inStock": "inStock",
-  "onPromo": "",
-  "mmkId": "",
-  "productGroupId": "",
+  "onPromo": "1062940",
+  "mmkId": "1062940",
+  "productGroupId": "530058",
   "brandType": "A of B merk",
-  "discount": "",
+  "discount": "€ 3,15",
   "url": "/weleda-baby-calendula-billenbalsem/p/2989694",
   "listName": "Lister",
   "brand": "Weleda",
@@ -38,5 +38,5 @@
     }
   ],
   "description": "75ml",
-  "image": "/medias/sys_master/prd-images/h5d/h33/48838504251422/temp-prd-front-2989694-1_600x600/temp-prd-front-2989694-1-600x600.jpg"
+  "image": "/medias/sys_master/prd-images/h9c/h91/48887791845406/temp-prd-front-2989694-1_600x600/temp-prd-front-2989694-1-600x600.jpg"
 }
